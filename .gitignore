@@ -1,0 +1,19 @@
+# mets dir is generated (and large)
+mets
+# only temp files in work
+work
+tmp
+# ignore interim file (created from .json)
+film/??_??.??.md
+# film images
+film/**/*.jpg
+# html fragments (are included on pages and tracked as .md)
+templates/fragments/*.html.frag
+# TEMP individual category pages
+#category/subject/i
+#category/geo/i
+# probably not used
+intern/
+intern-test879cfb674eed/
+# publication dir moved to doc
+publication/

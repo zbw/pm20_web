@@ -1,0 +1,13 @@
+RewriteEngine On
+
+#### Switch for public and internal mets files ####
+
+RewriteCond "%{ENV:PM20_INTERNAL}" "1"
+RewriteRule "(.*)/mets$" "$1/internal.mets"
+
+RewriteCond "%{ENV:PM20_INTERNAL}" ""
+RewriteRule "(.*)/mets$" "$1/public.mets"
+
+# TEMPORARY for tree in test dir
+AddType "text/plain; charset=UTF-8" tree
+

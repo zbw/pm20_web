@@ -1,0 +1,99 @@
+/* minimal reset */
+/* TODO padding:0 margin:0 ? */
+* {
+  font-family: Arial, sans-serif;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+pre,tt,code {
+  font-family: Courier, monospace;
+}
+
+html {
+  font-size: 16px;
+  line-height: 1.2;
+}
+body {
+  max-width:1000px;
+  margin:auto;
+  padding-left: 6px;
+  padding-right: 6px;
+}
+li {
+  margin: 0.5em 0;
+}
+/**.wikitable { **/
+table {
+  page-break-inside:avoid;
+  background:#fff;
+  margin:1em 0;
+  border:1pt solid #aaa;
+  border-collapse:collapse;
+}
+.wikitable {
+  font-size:81%;
+}
+.wikitable caption {
+  padding:5px;
+}
+.wikitable tr > th,.wikitable tr > td,.wikitable * > tr > th,.wikitable * > tr > td {
+  background:#fff;
+  color:#000 !important;
+  border:1pt solid #aaa;
+  padding:0.4em 0.6em
+}
+.wikitable tr > th,.wikitable * > tr > th {
+  text-align:center
+}
+table.listing,table.listing td {
+  border:1pt solid #000;
+  border-collapse:collapse
+}
+.wikitable * > tr.is-online > td {
+  background-color: palegreen;
+}
+div.hint {
+  font-size: 81%;
+}
+span.is-online {
+  background-color: palegreen;
+}
+span.gray {
+  color: gray;
+}
+header img {
+ width: 100%;
+ max-width: 700px;
+ height="auto";
+ margin-top: 3em;
+ margin-bottom: 2em;
+}
+footer {
+  margin-top: 36px;
+  font-size: 81%;
+  margin-bottom: 2em;
+}
+a:hover, a:visited, a:link, a:active {
+  text-decoration: none;
+}
+.inline-icon {
+    border: 0px;
+    margin-bottom: 0.14em;
+    vertical-align: bottom;
+    height: 0.7em;
+}
+
+/* helper classes for left-right in one line */
+.is-flex {
+  display: flex;
+}
+.has-text-left {
+  width: 100%;
+  text-align: left; 
+}
+.has-text-right { 
+  width: 100%;
+  text-align: right; 
+}

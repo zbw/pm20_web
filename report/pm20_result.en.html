@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="utf-8">
+<title> | ZBW Press Archives</title>
+<link href="../styles/simple.css" rel="stylesheet" type="text/css" />
+<link href='styles/yasr.min.css' rel='stylesheet' type='text/css'/>
+<style>
+  .logos {
+    vertical-align: middle;
+    height: 40px;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+  .yasr {
+    font-size: 13px;
+  }
+  .yasr table {
+    border: 0;
+  }
+</style>
+</head>
+
+<body>
+<header>
+  <img src="/images/zbw_pm20.en.jpg" alt="ZBW PM20 Logo" usemap="#logomap"/>
+  <map name="logomap"> <area shape="rect" coords="0, 0, 182, 73" href="https://www.zbw.eu/en" /><area shape="rect" coords="183, 0, 1041, 73" href="/about.en.html" /></map>
+</header>
+
+<h2>Reports 20th Century Press Archives</h2>
+<h1 id="main_title"></h1>
+
+<div id="yasr"></div>
+
+<footer>
+<p>Download <a id="jsonFile" href="xx">raw data</a> (JSON), under CC-zero license.</p>
+<p><em>Powered by <a href="http://yasr.yasgui.org">YASR</a>
+(Yet Another SPARQL Resultset GUI).</em></p></footer>
+
+<script src="scripts/jquery.min.js"></script>
+<script src="scripts/yasr.bundled.min.js"></script>
+<script src="pm20_result.js"></script>
+
+<script>
+  window.onload = loadSparqlResult();
+</script>
+
+</body>
+
+<footer>
+<p><a href="https://www.zbw.eu/en/imprint/">Imprint</a> &nbsp; <a href="https://www.zbw.eu/en/data-protection/">Data protection</a></p>
+</footer>
+
+</html>

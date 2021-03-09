@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Metadata structures for documents</title>
+  <style>
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+
+  </style>
+  <link rel="stylesheet" href="/styles/simple.css" />
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+<!-- Copyright (c) 2000-2019 etracker GmbH. All rights reserved. -->
+<!-- This material may not be reproduced, displayed, modified or distributed -->
+<!-- without the express prior written permission of the copyright holder. -->
+<!-- etracker tracklet 4.1 -->
+<script type="text/javascript">
+//var et_pagename = "";
+var et_areas = "PM20/en/doc";
+//var et_target = "";
+//var et_tval = "";
+//var et_tonr = "";
+//var et_tsale = 0;
+//var et_basket = "";
+//var et_cust = 0;
+</script>
+<script id="_etLoader" type="text/javascript" charset="UTF-8" data-respect-dnt="true" data-secure-code="b9xWmg" src="//static.etracker.com/code/e.js"></script>
+<!-- etracker tracklet 4.1 end -->
+</head>
+<body>
+<header>
+  <img src="/images/zbw_pm20.en.jpg" alt="ZBW PM20 Logo" usemap="#logomap"/>
+  <map name="logomap"> <area alt="ZBW home" shape="rect" coords="0,0,166,73" href="https://www.zbw.eu/en" /><area alt="PM20 home" shape="rect" coords="180,0,1041,73" href="/about.en.html" /></map>
+<div class="hint is-flex">
+  <span class="has-text-left">
+  </span>
+  <span class="has-text-right">
+  </span>
+</div>
+</header>
+<h1 id="metadata-structures-for-documents">Metadata structures for documents</h1>
+<p><em>Should apply to newspaper articles, annual reports and other types of documents!</em></p>
+<h2 id="files">Files</h2>
+<p>The file is located in the document directory within the folder tree and is named <strong><code>meta.yaml</code></strong>.</p>
+<p>Sources of document metadata:</p>
+<ul>
+<li>image file name conventions</li>
+<li><code>DocAttribute_?.txt</code> files</li>
+<li>intellectually created files</li>
+<li>perhaps: Hypothes.is annotations</li>
+</ul>
+<p>TODO how to keep track of the sources?</p>
+<h2 id="fields">Fields</h2>
+<p>TODO structure for multiple authors?</p>
+<div class="wikitable">
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 80%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Field name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>date</td>
+<td>publication date of the document</td>
+</tr>
+<tr class="even">
+<td>title</td>
+<td>title of the document</td>
+</tr>
+<tr class="odd">
+<td>author_id</td>
+<td>IFIS ID of an identified author</td>
+</tr>
+<tr class="even">
+<td>author_qid</td>
+<td>Wikidata QID of an identified author</td>
+</tr>
+<tr class="odd">
+<td>author</td>
+<td>name - as given in the document - of an unidentified author</td>
+</tr>
+<tr class="even">
+<td>death_year</td>
+<td>death year of an identified author - <strong>used for IPR status computation!</strong></td>
+</tr>
+<tr class="odd">
+<td>death_src</td>
+<td>source for the death year (e.g., ‘wd’)</td>
+</tr>
+<tr class="even">
+<td>pub_id</td>
+<td>IFIS ID of an identified publication</td>
+</tr>
+<tr class="odd">
+<td>pub_qid</td>
+<td>Wikidata QID of an identified publication</td>
+</tr>
+<tr class="even">
+<td>pub</td>
+<td>name - as given in the document - of an unidetified publication</td>
+</tr>
+<tr class="odd">
+<td>pub_type</td>
+<td>identifier for the publication type (TODO source? mapping table?)</td>
+</tr>
+<tr class="even">
+<td>description</td>
+<td>description for the document</td>
+</tr>
+<tr class="odd">
+<td>comment</td>
+<td>note for internal use</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>TODO how to handle derived information (such as <code>author_name</code> derived from ID)</p>
+<h2 id="special-cases">Special cases</h2>
+<h3 id="author-is-folder-subject-person-in-the-persons-archive">Author is folder subject person (in the persons archive)</h3>
+<p>Create a file named <code>folder_person_meta.yaml</code> with fields <code>author_qid</code>, <code>death_year</code>, and <code>death_src</code>, and create <code>meta.yaml</code> symlinks to it in the document directories.</p>
+<p>If additional, document-specific fields are required, copy and edit the original file.</p>
+<footer>
+<p><a href="https://www.zbw.eu/en/imprint/">Imprint</a> &nbsp; <a href="https://www.zbw.eu/en/data-protection/">Data protection</a></p>
+</footer>
+</body>
+</html>

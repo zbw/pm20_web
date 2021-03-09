@@ -1,0 +1,18 @@
+RewriteEngine on
+
+# DOES NOT WORK Rewrite subject signatures including blanks
+# (necessary for the rewrite map to work, see
+# https://serverfault.com/questions/806103/apache-rewritemap-with-urls-containing-space-doesnt-work)
+##RewriteRule ^(subject/s/.+)\s(.+)\s(.+)\s(.+)$ $1_$2_$3_$4
+##RewriteRule ^(subject/s/.+)\s(.+)\s(.+)$ $1_$2_$3
+##RewriteRule ^(subject/s/.+)\s(.+)$ $1_$2
+
+# Redirects for signature URLs per ID
+RewriteRule ^geo/s/(.+)$  "geo/i/${geomap:$1|/error/signature_not_found.en.html}"
+RewriteRule ^subject/s/(.+)$  "subject/i/${subjectmap:$1|/error/signature_not_found.en.html}"
+
+# Redirects for signature URLs to Skosmos (per ID)
+RewriteRule ^ware/s/(.+)$  "http://zbw.eu/beta/skosmos/pm20je/page/${waremap:$1|/error/signature_not_found}"
+RewriteRule ^ware/s/(.+)$  "http://134.245.93.72/beta/skosmos/pm20je/page/${waremap:$1|/error/signature_not_found}"
+
+

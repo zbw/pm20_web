@@ -1,0 +1,43 @@
+---
+title: "n15a Sm27 Arbeitnehmerverhältnisse, Transportgewerbe (ausgen. Schiffahrt)"
+etr: category/subject/n15a Sm27
+modified: 2020-12-18
+backlink: ../../about.de.html
+backlink-title: "Systematik-Übersicht"
+fn-stub: about
+---
+
+### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
+# [n15a Sm27]{.gray}&#8201; Arbeitnehmerverhältnisse, Transportgewerbe (ausgen. Schiffahrt)&#160; 
+
+
+
+
+Insgesamt 5 Sach-Mappen, 34 Dokumente - Mappen unvollständig.
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
+
+_Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
+
+## Sacharchiv
+
+
+
+
+### Europa
+
+- [A9 Hamburg](../../../geo/about.de.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1452xx/145233/public.mets.de.xml" target="_blank">22 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,145233))
+
+### Asien
+
+- [B21 Türkei (1923 -)](../../../geo/about.de.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1452xx/145233/public.mets.de.xml" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,145233))
+- [B24a Palästina (-1945)](../../../geo/about.de.html#B24a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141115/1452xx/145233/public.mets.de.xml" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141115,145233))
+
+### Afrika
+
+- [C65 Kamerun](../../../geo/about.de.html#C65) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141410/1452xx/145233/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141410,145233))
+
+### Amerika
+
+- [E86 Argentinien](../../../geo/about.de.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1452xx/145233/public.mets.de.xml" target="_blank">5 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,145233))
+
+

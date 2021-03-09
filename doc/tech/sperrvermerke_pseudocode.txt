@@ -1,0 +1,32 @@
+# $Id$
+
+falls das Feld Sperrvermerk (Position 29-31) des Dateinamens
+
+
+  000 enthält ( m/000/ )
+
+    Dokument darf im Internet angezeigt werden
+
+
+  BEC enthält ( m/BEC/ )
+
+    Dokument darf im Internet angezeigt werden
+
+
+  einen Buchstaben + 2 Ziffern enthält ( m/[A-Za-z]([0-9]{2})/ )
+
+    # ACHTUNG: Logik darf nur bis 2033 benutzt werden,
+    # weil sich danach Todesjahr-Einträge aus dem 20. und 21. 
+    # Jahrhundert überlagern könnten!!
+
+    falls $1 + 2000 > aktuelles Jahr
+
+      falls $1 + 1900 + 70 < aktuelles Jahr
+
+        Dokument darf im Internet angezeigt werden 
+
+
+  sonst (in allen anderen Fällen)
+
+    Dokument darf nicht im Internet angezeigt werden
+

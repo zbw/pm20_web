@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de" xml:lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Annotationen | ZBW Pressearchiv</title>
+  <style>
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+
+  </style>
+  <link rel="stylesheet" href="/styles/simple.css" />
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+<!-- Copyright (c) 2000-2019 etracker GmbH. All rights reserved. -->
+<!-- This material may not be reproduced, displayed, modified or distributed -->
+<!-- without the express prior written permission of the copyright holder. -->
+<!-- etracker tracklet 4.1 -->
+<script type="text/javascript">
+//var et_pagename = "";
+var et_areas = "PM20/de/doc";
+//var et_target = "";
+//var et_tval = "";
+//var et_tonr = "";
+//var et_tsale = 0;
+//var et_basket = "";
+//var et_cust = 0;
+</script>
+<script id="_etLoader" type="text/javascript" charset="UTF-8" data-respect-dnt="true" data-secure-code="b9xWmg" src="//static.etracker.com/code/e.js"></script>
+<!-- etracker tracklet 4.1 end -->
+</head>
+<body>
+<header>
+  <img src="/images/zbw_pm20.de.jpg" alt="ZBW PM20 Logo" usemap="#logomap"/>
+  <map name="logomap"> <area alt="ZBW home" shape="rect" coords="0,0,166,73" href="https://www.zbw.eu/de" /><area alt="PM20 home" shape="rect" coords="180,0,1041,73" href="/about.de.html" /></map>
+<div class="hint is-flex">
+  <span class="has-text-left">
+  </span>
+  <span class="has-text-right">
+  </span>
+</div>
+</header>
+<h1 id="annotationen-für-filme---anleitung-entwurf">Annotationen für Filme - Anleitung (Entwurf)</h1>
+<p>Damit BenutzerInnen Metadaten zu den auf den Filmen enthaltenen Mappen und Dokumenten erfassen können, wird der Non-profit Webservice <a href="https://web.hypothes.is/">Hypothes.is</a> eingebunden. Im Filmviewer werden die Hypothes.is-Icons oben am rechten Fensterrand angezeigt. User, die Annotationen erfassen wollen, müssen sich bei dem Service mit einer Email-Adresse registrieren und anmelden. Alle Annotationen, die in Hypothes.is als “Public” erfasst wurden, werden für den Filmviewer ausgewertet.</p>
+<p>In den Hypothes.is-Annotationen können beliebige Texte erfasst werden. Um sie maschinell parsen und die Anzeige im Filmviewer damit anreichern zu können, wird hier ein standardisiertes Format für Kommentare definiert.</p>
+<p>Wenn die erste Zeile der Annotation mit einem Feld-Marker beginnt, wird diese Zeile als Feldstruktur verstanden. Folgefelder sind durch mindestens ein Leerzeichen und einen anderen Feld-Marker getrennt. Feld-Marker dürfen nicht mehrfach auftreten. Ihre Reihenfolge ist nicht entscheidend, sollte jedoch aus Gründen der Lesbarkeit der untenstehenden Liste folgen.</p>
+<p>Weitere Informationen können formlos folgen (Leerzeile als optischen Trenner setzen), werden aber nicht automatisiert ausgewertet.</p>
+<p>Folgende Feld-Marker werden erkannt:</p>
+<ul>
+<li><tt>$m</tt> - neue Mappe / folder start mark</li>
+<li><tt>$a</tt> - neuer Artikel (bei neuer Mappe nicht erforderlich) / article start (implied with new folder)</li>
+<li><tt>$r</tt> - rechte Seite (ansonsten links) / right page (left page implied)</li>
+<li><tt>$s</tt> - Signatur der Mappe (Format noch festzulegen / signature of the folder (format tbd)</li>
+<li><tt>$d</tt> - Datum der Publikation (JJJJ-MM-TT, JJJJ-MM, JJJJ) / date of publication (YYYY-MM-DD, YYYY-MM, YYYY)</li>
+<li><tt>$p</tt> - reserviert für Name (oder Code) der Publikation / reserved for name (or code) of publication, format tbd</li>
+<li><tt>$t</tt> - reserviert für Autor_in des Textes / reserved for author of the text, format tbd (WD QID, or “x” for named, but not identified?)</li>
+<li><tt>$i</tt> - reserviert für Autor_in der Abbildung / reserved for author of the image, format tbd (WD QID, or “x” for named, but not identified?)</li>
+<li><tt>$x</tt> - skip, Trennseite / skip, delimiter page</li>
+</ul>
+<p>Beispieleinträge:</p>
+<pre>
+$m $s A10 f2_Sm5 $d 1920-12-01
+
+$a
+
+$m $s E28
+</pre>
+<p>Die Annotationen können auf Seitenebene erfasst werden (Notiz-Symbol am rechten Bildschirmrand), es ist also nicht erforderlich, einen Teil des Textes auszuwählen.</p>
+<p><a href=".">zurück zum Film-Überblick</a></p>
+<footer>
+<p><a href="https://www.zbw.eu/de/impressum/">Impressum</a> &nbsp; <a href="https://www.zbw.eu/de/datenschutz/">Datenschutz</a></p>
+</footer>
+</body>
+</html>

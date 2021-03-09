@@ -1,0 +1,127 @@
+#### Content negotiation ####
+
+DirectoryIndex about
+AddLanguage de .de
+AddLanguage en .en
+LanguagePriority en de
+ForceLanguagePriority Fallback
+
+RewriteEngine on
+
+
+#### Custom error messages ####
+
+ErrorDocument 403 /error/about-403
+
+
+#### general access restrictions
+
+Options -Indexes
+
+# access restrictions for certain file types
+
+# hide .git
+RedirectMatch 404 /\.git
+
+# hide the build system
+RedirectMatch 404 Makefile
+RedirectMatch 404 templates/.*
+
+# hide .md files (which are used as source for .html)
+RedirectMatch 404 \.md$
+
+
+#### set env for extended access from certain IP addresses
+
+# must be listed here explicitly
+# https://httpd.apache.org/docs/current/mod/mod_setenvif.html
+# https://serverfault.com/questions/93886/apache-2-setenvif-ip-range
+
+# ZBW (settings according to
+# \\pm-opac\C$\inetpub\wwwroot\CFapp\PrMappeConv\_Init_Application_Structures.cfm)
+
+# Hamburg reading room
+SetEnvIf Remote_Addr "^134\.245\.95\.130$" PM20_INTERNAL=1
+# Kiel reading room
+SetEnvIf Remote_Addr "^134\.245\.95\.14$" PM20_INTERNAL=1
+
+# Gateway for admin (nbt/ottk)
+SetEnvIf Remote_Addr "^134\.245\.95\.210$" PM20_INTERNAL=1
+# Remote access (citrix) for admin
+SetEnvIf Remote_Addr "^134\.245\.94\.2$" PM20_INTERNAL=1
+# Remote access (vpn) for admin
+SetEnvIf Remote_Addr "^134\.245\.94\.1$" PM20_INTERNAL=1
+
+# DFG-Viewer service (issues HEAD requests for images to check the COFS status)
+SetEnvIf Remote_Addr "^194\.95\.145\.4$" PM20_DFGVIEWER=1
+
+
+# Intares addresses from web.intern/.htaccess
+
+# Intares
+SetEnvIf Remote_Addr "^213\.183\.200\.67$" PM20_INTERNAL=1
+SetEnvIf Remote_Addr "^2a00:4e00:2000:125::67$" PM20_INTERNAL=1
+SetEnvIf Remote_Addr "^213\.183\.200\.69$" PM20_INTERNAL=1
+SetEnvIf Remote_Addr "^2a00:4e00:2000:125::69$" PM20_INTERNAL=1
+SetEnvIf Remote_Addr "^213\.183\.200\.70$" PM20_INTERNAL=1
+SetEnvIf Remote_Addr "^2a00:4e00:2000:125::70$" PM20_INTERNAL=1
+SetEnvIf Remote_Addr "^213\.183\.208\.66$" PM20_INTERNAL=1
+SetEnvIf Remote_Addr "^2a00:4e00:4000:125::66$" PM20_INTERNAL=1
+
+# Intares: Monitoring
+SetEnvIf Remote_Addr "^213\.183\.197\.137$" PM20_INTERNAL=1
+SetEnvIf Remote_Addr "^2a00:4e00:2000:44::137$" PM20_INTERNAL=1
+SetEnvIf Remote_Addr "^213\.178\.160\.67$" PM20_INTERNAL=1
+SetEnvIf Remote_Addr "^2001:14b0:102:0:213:178:160:67$" PM20_INTERNAL=1
+SetEnvIf Remote_Addr "^213\.183\.200\.66$" PM20_INTERNAL=1
+SetEnvIf Remote_Addr "^2a00:4e00:2000:125::66$" PM20_INTERNAL=1
+SetEnvIf Remote_Addr "^213\.183\.208\.66$" PM20_INTERNAL=1
+SetEnvIf Remote_Addr "^2a00:4e00:4000:125::66$" PM20_INTERNAL=1
+
+
+#### Redirects
+
+#DirectorySlash Off
+#DirectoryIndexRedirect off
+
+# temporary redirects created for Archivführer Kolonialzeit
+Redirect "/home" "http://webopac.hwwa.de/pressemappe20/"
+Redirect "/terms-of-use" "http://webopac.hwwa.de/PresseMappe20E/templatesText/Info_Button_TermsOfUse.cfm"
+
+# The following redirects are temporarily implemented by about.lang.html pages in the according directories
+#Redirect "/folder/co" "http://webopac.hwwa.de/pressemappe20/PM20.cfm?T=F&qt=211933&CFID=14609657&CFTOKEN=61910584"
+#Redirect "/folder/pe" "http://webopac.hwwa.de/pressemappe20/PM20.cfm?T=P&qt=211524&CFID=14609657&CFTOKEN=61910584"
+#Redirect "/folder/sh" "http://webopac.hwwa.de/pressemappe20/PM20.cfm?T=S&qt=212105&CFID=14609657&CFTOKEN=61910584"
+#Redirect "/folder/wa" "http://webopac.hwwa.de/pressemappe20/PM20.cfm?T=W&qt=212042&CFID=14609657&CFTOKEN=61910584"
+
+
+# CAUTION: Do not use RewriteBase, because only the last RewriteBase directive
+# in a .htaccess is interpreted
+
+
+# film redirects
+
+# filmlist with public and internal versions
+RewriteCond "%{ENV:PM20_INTERNAL}" ^$
+RewriteRule "^film/([hk][12]_(co|sh|wa)\.de\.html)$" "/film/public.$1" [R]
+RewriteCond "%{ENV:PM20_INTERNAL}" "1"
+RewriteRule "^film/([hk][12]_(co|sh|wa)\.de\.html)$" "/film/intern.$1" [R]
+
+# Redirect logical image URI to filmviewer
+RewriteRule ^film/([hk][12])/(sh|wa|co)/([A-Z0-9_]+)/([0-9]{4})$ /film/filmviewer.php?set=$1&collection=$2&film=$3&img=$4 [PT,L]
+
+# Redirct film index to filmviewer
+RewriteCond %{DOCUMENT_ROOT}/%{REQUEST_URI} -d
+RewriteRule ^film/([hk][12])/(sh|wa|co)/([A-Z0-9_]+)/$ /film/filmviewer.php?set=$1&collection=$2&film=$3 [QSA,PT,L]
+
+
+# DFG Viewer for folders
+RewriteCond "%{ENV:PM20_INTERNAL}" ^$
+RewriteRule "^dfgview/(co|pe)/(....)(..)$" "https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/$1/$2xx/$2$3/public.mets"
+RewriteCond "%{ENV:PM20_INTERNAL}" ^$
+RewriteRule "^dfgview/(sh|wa)/(....)(..),(....)(..)$" "https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/$1/$2xx/$2$3/$4xx/$4$5/public.mets"
+RewriteCond "%{ENV:PM20_INTERNAL}" "1"
+RewriteRule "^dfgview/(co|pe)/(....)(..)$" "https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/$1/$2xx/$2$3/intern.mets"
+RewriteCond "%{ENV:PM20_INTERNAL}" "1"
+RewriteRule "^dfgview/(sh|wa)/(....)(..),(....)(..)$" "https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/$1/$2xx/$2$3/$4xx/$4$5/intern.mets"
+

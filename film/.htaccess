@@ -1,0 +1,7 @@
+# Restrict access to .jpg files to explicitly allowed files (via .htacces in
+# the individual film directories) or for ip adresses originating from ZBW (set
+# in /.htaccess).
+<Files "*.jpg">
+  Require env allowedURL
+  Require env PM20_INTERNAL
+</Files>
