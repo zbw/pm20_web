@@ -22,7 +22,7 @@ EXPORTED_FRAG =  $(SOURCE_FRAG:.md.frag=.html.frag)
 
 # options for pandoc invocation
 
-TEMPLATE    := /disc1/pm20/web.public/templates/pm20_default.html
+TEMPLATE    := /pm20/web/templates/pm20_default.html
 PANDOC_OPTS	:= --standalone
 TMPL_OPTS		:= --template $(TEMPLATE) --css /styles/simple.css
 EXT_OPTS		:= -t html+pipe_tables+fenced_divs+bracketed_spans

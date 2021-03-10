@@ -10,8 +10,8 @@ _Should apply to newspaper articles, annual reports and other types of documents
 
 ## Files
 
-The file is located in the document directory within the folder tree and is
-named __`meta.yaml`__.
+The file __`meta.yaml`__ is located in the document directory within the folder
+tree.
 
 Sources of document metadata:
 
