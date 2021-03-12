@@ -11,7 +11,7 @@
 
 // fixed texts
 
-$ip_hints = file_get_contents('/disc1/pm20/web.public/templates/fragments/ip_hints.de.html.frag');
+$ip_hints = file_get_contents('/pm20/web/templates/fragments/ip_hints.de.html.frag');
 
 // get actual dir name
 $fs_root = dirname( getcwd() );
@@ -106,7 +106,7 @@ if (array_key_exists($cur_key + 1, $files)) {
   $next_path = "$filmpath/$next_img";
 }
 // fast navigation -not yet invoked
-// TODO restrict to actual length - read array from web.(intern|public)
+// TODO restrict to actual length - read array from 'web' directory
 if (array_key_exists($cur_key - $fast_skip, $files)) {
   $fprev_file = $files[$cur_key - $fast_skip];
   $fprev_img = extract_imgname($fprev_file, $film, $fn_type);
