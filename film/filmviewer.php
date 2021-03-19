@@ -9,6 +9,10 @@
  * optional: lang (default de, en NYI)
  */
 
+require_once "etracker.inc.php";
+ 
+ 
+
 // fixed texts
 
 $ip_hints = file_get_contents('/pm20/web/templates/fragments/ip_hints.de.html.frag');
@@ -35,6 +39,9 @@ if ( ! is_dir("$fs_root$filmpath") ) {
   echo "\nFilm path $filmpath not found\n";
   exit;
 }
+
+// etracker code
+echo etracker::getCode("b9xWmg", ["et_pagename" => "FI $set $collection $film $img", "et_areas" => "filmview/$set/$collection"]);
 
 // get a list of all acessible files in the film directory
 if ( getenv("PM20_INTERNAL") == 1 ) {
