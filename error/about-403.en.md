@@ -1,5 +1,6 @@
 ---
 title: Access forbidden
+etr: error
 ---
 
 # Access to this page is forbidden
