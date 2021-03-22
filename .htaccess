@@ -101,6 +101,10 @@ Redirect "/terms-of-use" "http://webopac.hwwa.de/PresseMappe20E/templatesText/In
 
 # film redirects
 
+# Redirect collection index to findbuch/filmlist pages
+RewriteRule ^film/([hk][12])_(sh|wa|co)$ /film/$1_$2.de.html
+RewriteRule ^film/([hk][12])_(sh|wa|co)\.de$ /film/$1_$2.de.html
+
 # filmlist with public and internal versions
 RewriteCond "%{ENV:PM20_INTERNAL}" ^$
 RewriteRule "^film/([hk][12]_(co|sh|wa)\.de\.html)$" "/film/public.$1" [R]
