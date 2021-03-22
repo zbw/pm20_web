@@ -1,7 +1,7 @@
 ---
 title: "g4a Sm8 Verträge über Kraftfahrzeugverkehr"
 etr: category/subject/g4a Sm8
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -25,10 +25,10 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Asien
 
-- [B24a Palästina (-1945)](../../../geo/about.de.html#B24a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141115/1445xx/144539/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141115,144539))
+- B24a Palästina (-1945) [**&nearr;**](../../../geo/i/141115/about.de.html "Palästina (-1945) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B24a "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,144539" title="über: Palästina (-1945) : Verträge über Kraftfahrzeugverkehr" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141115,144539))
 
 ### Amerika
 
-- [E86 Argentinien](../../../geo/about.de.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1445xx/144539/public.mets.de.xml" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,144539))
+- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144539" title="über: Argentinien : Verträge über Kraftfahrzeugverkehr" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,144539))
 
 

@@ -1,7 +1,7 @@
 ---
 title: "n18 Sm40 Trade, occupations and training"
 etr: category/subject/n18 Sm40
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,17 +25,17 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1820xx/182084/public.mets.en.xml" target="_blank">33 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,182084))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,182084" title="about: Hamburg : Trade, occupations and training" target="_blank">33 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,182084))
 
 ### Asia
 
-- [B21 Turkey](../../../geo/about.en.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1820xx/182084/public.mets.en.xml" target="_blank">6 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,182084))
-- [B23 Iraq](../../../geo/about.en.html#B23) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141113/1820xx/182084/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141113,182084))
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1820xx/182084/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,182084))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,182084" title="about: Turkey : Trade, occupations and training" target="_blank">6 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,182084))
+- B23 Iraq [**&nearr;**](../../../geo/i/141113/about.en.html "Iraq (all folders)") [**&uarr;**](../../../geo/about.en.html#B23 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141113,182084" title="about: Iraq : Trade, occupations and training" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141113,182084))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,182084" title="about: Japan : Trade, occupations and training" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,182084))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1820xx/182084/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,182084))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,182084" title="about: Argentina : Trade, occupations and training" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,182084))
 
 
 _* The English category label is an unchecked automated translation of the German label._

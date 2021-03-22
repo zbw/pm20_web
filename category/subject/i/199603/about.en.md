@@ -1,7 +1,7 @@
 ---
 title: "n35 Sm50 Aviation, air traffic, instiitutions"
 etr: category/subject/n35 Sm50
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,15 +25,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1996xx/199603/public.mets.en.xml" target="_blank">0 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,199603))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,199603" title="about: Hamburg : Aviation, air traffic, instiitutions" target="_blank">0 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,199603))
 
 ### Asia
 
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1996xx/199603/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,199603))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,199603" title="about: Japan : Aviation, air traffic, instiitutions" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,199603))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1996xx/199603/public.mets.en.xml" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,199603))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,199603" title="about: Argentina : Aviation, air traffic, instiitutions" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,199603))
 
 
 _* The English category label is an unchecked automated translation of the German label._

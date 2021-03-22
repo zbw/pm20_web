@@ -1,7 +1,7 @@
 ---
 title: "g4 Sm2.V Economic war, blacklists"
 etr: category/subject/g4 Sm2.V
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,17 +25,17 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Asia
 
-- [B24 Syria](../../../geo/about.en.html#B24) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141114/1444xx/144478/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141114,144478))
-- [B102 Hong Kong](../../../geo/about.en.html#B102) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141268/1444xx/144478/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141268,144478))
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1444xx/144478/public.mets.en.xml" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144478))
+- B24 Syria [**&nearr;**](../../../geo/i/141114/about.en.html "Syria (all folders)") [**&uarr;**](../../../geo/about.en.html#B24 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141114,144478" title="about: Syria : Economic war, blacklists" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141114,144478))
+- B102 Hong Kong [**&nearr;**](../../../geo/i/141268/about.en.html "Hong Kong (all folders)") [**&uarr;**](../../../geo/about.en.html#B102 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141268,144478" title="about: Hong Kong : Economic war, blacklists" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141268,144478))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144478" title="about: Japan : Economic war, blacklists" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144478))
 
 ### Africa
 
-- [C25 French protectorate in Morocco](../../../geo/about.en.html#C25) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1413xx/141358/1444xx/144478/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141358,144478))
+- C25 French protectorate in Morocco [**&nearr;**](../../../geo/i/141358/about.en.html "French protectorate in Morocco (all folders)") [**&uarr;**](../../../geo/about.en.html#C25 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141358,144478" title="about: French protectorate in Morocco : Economic war, blacklists" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141358,144478))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1444xx/144478/public.mets.en.xml" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,144478))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144478" title="about: Argentina : Economic war, blacklists" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,144478))
 
 
 _* The English category label is an unchecked automated translation of the German label._

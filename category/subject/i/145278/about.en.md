@@ -1,7 +1,7 @@
 ---
 title: "n18 Sm17 Commercial law, general"
 etr: category/subject/n18 Sm17
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,26 +25,26 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A1 Europe](../../../geo/about.en.html#A1) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1408xx/140892/1452xx/145278/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140892,145278))
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1452xx/145278/public.mets.en.xml" target="_blank">5 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145278))
+- A1 Europe [**&nearr;**](../../../geo/i/140892/about.en.html "Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A1 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,145278" title="about: Europe : Commercial law, general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140892,145278))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145278" title="about: Hamburg : Commercial law, general" target="_blank">5 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145278))
 
 ### Asia
 
-- [B21 Turkey](../../../geo/about.en.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1452xx/145278/public.mets.en.xml" target="_blank">13 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145278))
-- [B23 Iraq](../../../geo/about.en.html#B23) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141113/1452xx/145278/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141113,145278))
-- [B24 Syria](../../../geo/about.en.html#B24) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141114/1452xx/145278/public.mets.en.xml" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141114,145278))
-- [B24a Palestine](../../../geo/about.en.html#B24a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141115/1452xx/145278/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,145278))
-- [B101 Macau](../../../geo/about.en.html#B101) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141267/1452xx/145278/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141267,145278))
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1452xx/145278/public.mets.en.xml" target="_blank">7 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145278))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145278" title="about: Turkey : Commercial law, general" target="_blank">13 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145278))
+- B23 Iraq [**&nearr;**](../../../geo/i/141113/about.en.html "Iraq (all folders)") [**&uarr;**](../../../geo/about.en.html#B23 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141113,145278" title="about: Iraq : Commercial law, general" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141113,145278))
+- B24 Syria [**&nearr;**](../../../geo/i/141114/about.en.html "Syria (all folders)") [**&uarr;**](../../../geo/about.en.html#B24 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141114,145278" title="about: Syria : Commercial law, general" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141114,145278))
+- B24a Palestine [**&nearr;**](../../../geo/i/141115/about.en.html "Palestine (all folders)") [**&uarr;**](../../../geo/about.en.html#B24a "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,145278" title="about: Palestine : Commercial law, general" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,145278))
+- B101 Macau [**&nearr;**](../../../geo/i/141267/about.en.html "Macau (all folders)") [**&uarr;**](../../../geo/about.en.html#B101 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141267,145278" title="about: Macau : Commercial law, general" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141267,145278))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145278" title="about: Japan : Commercial law, general" target="_blank">7 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145278))
 
 ### Africa
 
-- [C25 French protectorate in Morocco](../../../geo/about.en.html#C25) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1413xx/141358/1452xx/145278/public.mets.en.xml" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141358,145278))
-- [C60 Colonial Nigeria, incl. British Cameroons](../../../geo/about.en.html#C60) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141409/1452xx/145278/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141409,145278))
+- C25 French protectorate in Morocco [**&nearr;**](../../../geo/i/141358/about.en.html "French protectorate in Morocco (all folders)") [**&uarr;**](../../../geo/about.en.html#C25 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141358,145278" title="about: French protectorate in Morocco : Commercial law, general" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141358,145278))
+- C60 Colonial Nigeria, incl. British Cameroons [**&nearr;**](../../../geo/i/141409/about.en.html "Colonial Nigeria, incl. British Cameroons (all folders)") [**&uarr;**](../../../geo/about.en.html#C60 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141409,145278" title="about: Colonial Nigeria, incl. British Cameroons : Commercial law, general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141409,145278))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1452xx/145278/public.mets.en.xml" target="_blank">62 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145278))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145278" title="about: Argentina : Commercial law, general" target="_blank">62 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145278))
 
 
 _* The English category label is an unchecked automated translation of the German label._

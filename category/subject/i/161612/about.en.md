@@ -1,7 +1,7 @@
 ---
 title: "n30a Sm501 (B23) Baghdad Railway"
 etr: category/subject/n30a Sm501 (B23)
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,8 +25,8 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Asia
 
-- [B21 Turkey](../../../geo/about.en.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1616xx/161612/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,161612))
-- [B23 Iraq](../../../geo/about.en.html#B23) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141113/1616xx/161612/public.mets.en.xml" target="_blank">251 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141113,161612))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,161612" title="about: Turkey : Baghdad Railway" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,161612))
+- B23 Iraq [**&nearr;**](../../../geo/i/141113/about.en.html "Iraq (all folders)") [**&uarr;**](../../../geo/about.en.html#B23 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141113,161612" title="about: Iraq : Baghdad Railway" target="_blank">251 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141113,161612))
 
 
 _* The English category label is an unchecked automated translation of the German label._

@@ -1,14 +1,14 @@
 ---
-title: "g0 Sm14.III Sanktionsfrage, Stimmen"
-etr: category/subject/g0 Sm14.III
-modified: 2020-12-18
+title: "g Sm14.III Sanktionsfrage, Stimmen"
+etr: category/subject/g Sm14.III
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [g0 Sm14.III]{.gray}&#8201; Sanktionsfrage, Stimmen&#160; 
+# [g Sm14.III]{.gray}&#8201; Sanktionsfrage, Stimmen&#160; 
 
 
 
@@ -25,11 +25,11 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Asien
 
-- [B21 Türkei (1923 -)](../../../geo/about.de.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1445xx/144587/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,144587))
-- [B111 Japan](../../../geo/about.de.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1445xx/144587/public.mets.de.xml" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144587))
+- B21 Türkei (1923 -) [**&nearr;**](../../../geo/i/141111/about.de.html "Türkei (1923 -) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B21 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,144587" title="über: Türkei (1923 -) : Sanktionsfrage, Stimmen" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,144587))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144587" title="über: Japan : Sanktionsfrage, Stimmen" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144587))
 
 ### Australien und Ozeanien
 
-- [D30 Australien](../../../geo/about.de.html#D30) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141621/1445xx/144587/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141621,144587))
+- D30 Australien [**&nearr;**](../../../geo/i/141621/about.de.html "Australien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#D30 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141621,144587" title="über: Australien : Sanktionsfrage, Stimmen" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141621,144587))
 
 

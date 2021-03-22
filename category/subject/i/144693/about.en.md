@@ -1,14 +1,14 @@
 ---
-title: "h0 Sm1 War measures"
-etr: category/subject/h0 Sm1
-modified: 2020-12-18
+title: "h Sm1 War measures"
+etr: category/subject/h Sm1
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [h0 Sm1]{.gray}&#8201; War measures&#160; 
+# [h Sm1]{.gray}&#8201; War measures&#160; 
 
 
 
@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Africa
 
-- [C26 Spanish protectorate in Morocco](../../../geo/about.en.html#C26) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1413xx/141359/1446xx/144693/public.mets.en.xml" target="_blank">8 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141359,144693))
+- C26 Spanish protectorate in Morocco [**&nearr;**](../../../geo/i/141359/about.en.html "Spanish protectorate in Morocco (all folders)") [**&uarr;**](../../../geo/about.en.html#C26 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141359,144693" title="about: Spanish protectorate in Morocco : War measures" target="_blank">8 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141359,144693))
 
 
 _* The English category label is an unchecked automated translation of the German label._

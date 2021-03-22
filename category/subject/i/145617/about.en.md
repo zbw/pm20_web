@@ -1,7 +1,7 @@
 ---
 title: "n32 Sm60 Maritime shipping, technical"
 etr: category/subject/n32 Sm60
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,12 +25,12 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1456xx/145617/public.mets.en.xml" target="_blank">0 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145617))
-- [A10 Germany](../../../geo/about.en.html#A10) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1261xx/126128/1456xx/145617/public.mets.en.xml" target="_blank">38 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,145617))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145617" title="about: Hamburg : Maritime shipping, technical" target="_blank">0 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145617))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,145617" title="about: Germany : Maritime shipping, technical" target="_blank">38 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,145617))
 
 ### Asia
 
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1456xx/145617/public.mets.en.xml" target="_blank">16 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145617))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145617" title="about: Japan : Maritime shipping, technical" target="_blank">16 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145617))
 
 
 _* The English category label is an unchecked automated translation of the German label._

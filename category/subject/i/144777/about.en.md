@@ -1,7 +1,7 @@
 ---
 title: "l4 Sm2 Protection against air strikes"
 etr: category/subject/l4 Sm2
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,24 +25,24 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A1 Europe](../../../geo/about.en.html#A1) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1408xx/140892/1447xx/144777/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140892,144777))
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1447xx/144777/public.mets.en.xml" target="_blank">83 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,144777))
+- A1 Europe [**&nearr;**](../../../geo/i/140892/about.en.html "Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A1 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,144777" title="about: Europe : Protection against air strikes" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140892,144777))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144777" title="about: Hamburg : Protection against air strikes" target="_blank">83 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,144777))
 
 ### Asia
 
-- [B21 Turkey](../../../geo/about.en.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1447xx/144777/public.mets.en.xml" target="_blank">21 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,144777))
-- [B24 Syria](../../../geo/about.en.html#B24) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141114/1447xx/144777/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141114,144777))
-- [B24a Palestine](../../../geo/about.en.html#B24a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141115/1447xx/144777/public.mets.en.xml" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,144777))
-- [B102 Hong Kong](../../../geo/about.en.html#B102) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141268/1447xx/144777/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141268,144777))
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1447xx/144777/public.mets.en.xml" target="_blank">55 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144777))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,144777" title="about: Turkey : Protection against air strikes" target="_blank">21 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,144777))
+- B24 Syria [**&nearr;**](../../../geo/i/141114/about.en.html "Syria (all folders)") [**&uarr;**](../../../geo/about.en.html#B24 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141114,144777" title="about: Syria : Protection against air strikes" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141114,144777))
+- B24a Palestine [**&nearr;**](../../../geo/i/141115/about.en.html "Palestine (all folders)") [**&uarr;**](../../../geo/about.en.html#B24a "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,144777" title="about: Palestine : Protection against air strikes" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,144777))
+- B102 Hong Kong [**&nearr;**](../../../geo/i/141268/about.en.html "Hong Kong (all folders)") [**&uarr;**](../../../geo/about.en.html#B102 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141268,144777" title="about: Hong Kong : Protection against air strikes" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141268,144777))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144777" title="about: Japan : Protection against air strikes" target="_blank">55 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144777))
 
 ### Africa
 
-- [C110 German East Africa](../../../geo/about.en.html#C110) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141471/1447xx/144777/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141471,144777))
+- C110 German East Africa [**&nearr;**](../../../geo/i/141471/about.en.html "German East Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C110 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141471,144777" title="about: German East Africa : Protection against air strikes" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141471,144777))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1447xx/144777/public.mets.en.xml" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,144777))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144777" title="about: Argentina : Protection against air strikes" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,144777))
 
 
 _* The English category label is an unchecked automated translation of the German label._

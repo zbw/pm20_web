@@ -1,7 +1,7 @@
 ---
 title: "d3 Sm501 (C87) San/Koisan"
 etr: category/subject/d3 Sm501 (C87)
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Africa
 
-- [C87 German South-West Africa](../../../geo/about.en.html#C87) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141450/1442xx/144227/public.mets.en.xml" target="_blank">14 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141450,144227))
+- C87 German South-West Africa [**&nearr;**](../../../geo/i/141450/about.en.html "German South-West Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C87 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141450,144227" title="about: German South-West Africa : San/Koisan" target="_blank">14 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141450,144227))
 
 
 _* The English category label is an unchecked automated translation of the German label._

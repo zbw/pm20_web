@@ -1,14 +1,14 @@
 ---
-title: "n0 Sm8.III Normung, Standardisierung, von Bodenprodukten"
-etr: category/subject/n0 Sm8.III
-modified: 2020-12-18
+title: "n Sm8.III Normung, Standardisierung, von Bodenprodukten"
+etr: category/subject/n Sm8.III
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [n0 Sm8.III]{.gray}&#8201; Normung, Standardisierung, von Bodenprodukten&#160; 
+# [n Sm8.III]{.gray}&#8201; Normung, Standardisierung, von Bodenprodukten&#160; 
 
 
 
@@ -25,16 +25,16 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- [A9 Hamburg](../../../geo/about.de.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1457xx/145792/public.mets.de.xml" target="_blank">0 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,145792))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145792" title="über: Hamburg : Normung, Standardisierung, von Bodenprodukten" target="_blank">0 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,145792))
 
 ### Asien
 
-- [B21 Türkei (1923 -)](../../../geo/about.de.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1457xx/145792/public.mets.de.xml" target="_blank">11 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,145792))
+- B21 Türkei (1923 -) [**&nearr;**](../../../geo/i/141111/about.de.html "Türkei (1923 -) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B21 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145792" title="über: Türkei (1923 -) : Normung, Standardisierung, von Bodenprodukten" target="_blank">11 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,145792))
 
 ### Afrika
 
-- [C65 Kamerun](../../../geo/about.de.html#C65) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141410/1457xx/145792/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141410,145792))
-- [C87 Deutsch-Südwestafrika](../../../geo/about.de.html#C87) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141450/1457xx/145792/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141450,145792))
-- [C110 Deutsch-Ostafrika](../../../geo/about.de.html#C110) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141471/1457xx/145792/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141471,145792))
+- C65 Kamerun [**&nearr;**](../../../geo/i/141410/about.de.html "Kamerun (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C65 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141410,145792" title="über: Kamerun : Normung, Standardisierung, von Bodenprodukten" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141410,145792))
+- C87 Deutsch-Südwestafrika [**&nearr;**](../../../geo/i/141450/about.de.html "Deutsch-Südwestafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C87 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141450,145792" title="über: Deutsch-Südwestafrika : Normung, Standardisierung, von Bodenprodukten" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141450,145792))
+- C110 Deutsch-Ostafrika [**&nearr;**](../../../geo/i/141471/about.de.html "Deutsch-Ostafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C110 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141471,145792" title="über: Deutsch-Ostafrika : Normung, Standardisierung, von Bodenprodukten" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141471,145792))
 
 

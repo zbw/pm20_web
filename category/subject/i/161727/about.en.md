@@ -1,7 +1,7 @@
 ---
 title: "n24 Sm21 Banking, technology of ..."
 etr: category/subject/n24 Sm21
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,8 +25,8 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A1 Europe](../../../geo/about.en.html#A1) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1408xx/140892/1617xx/161727/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140892,161727))
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1617xx/161727/public.mets.en.xml" target="_blank">22 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,161727))
+- A1 Europe [**&nearr;**](../../../geo/i/140892/about.en.html "Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A1 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,161727" title="about: Europe : Banking, technology of ..." target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140892,161727))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,161727" title="about: Hamburg : Banking, technology of ..." target="_blank">22 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,161727))
 
 
 _* The English category label is an unchecked automated translation of the German label._

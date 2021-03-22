@@ -1,7 +1,7 @@
 ---
 title: "n2 Sm11 Overviews of price developments"
 etr: category/subject/n2 Sm11
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,14 +25,14 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Africa
 
-- [C60 Colonial Nigeria, incl. British Cameroons](../../../geo/about.en.html#C60) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141409/1631xx/163126/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141409,163126))
-- [C65 Cameroon](../../../geo/about.en.html#C65) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141410/1631xx/163126/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141410,163126))
-- [C125 Abyssinia](../../../geo/about.en.html#C125) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141482/1631xx/163126/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141482,163126))
-- [C126 Eritrea](../../../geo/about.en.html#C126) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141483/1631xx/163126/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141483,163126))
+- C60 Colonial Nigeria, incl. British Cameroons [**&nearr;**](../../../geo/i/141409/about.en.html "Colonial Nigeria, incl. British Cameroons (all folders)") [**&uarr;**](../../../geo/about.en.html#C60 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141409,163126" title="about: Colonial Nigeria, incl. British Cameroons : Overviews of price developments" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141409,163126))
+- C65 Cameroon [**&nearr;**](../../../geo/i/141410/about.en.html "Cameroon (all folders)") [**&uarr;**](../../../geo/about.en.html#C65 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141410,163126" title="about: Cameroon : Overviews of price developments" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141410,163126))
+- C125 Abyssinia [**&nearr;**](../../../geo/i/141482/about.en.html "Abyssinia (all folders)") [**&uarr;**](../../../geo/about.en.html#C125 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141482,163126" title="about: Abyssinia : Overviews of price developments" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141482,163126))
+- C126 Eritrea [**&nearr;**](../../../geo/i/141483/about.en.html "Eritrea (all folders)") [**&uarr;**](../../../geo/about.en.html#C126 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141483,163126" title="about: Eritrea : Overviews of price developments" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141483,163126))
 
 ### America
 
-- [E102 British Guiana](../../../geo/about.en.html#E102) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1417xx/141700/1631xx/163126/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141700,163126))
+- E102 British Guiana [**&nearr;**](../../../geo/i/141700/about.en.html "British Guiana (all folders)") [**&uarr;**](../../../geo/about.en.html#E102 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141700,163126" title="about: British Guiana : Overviews of price developments" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141700,163126))
 
 
 _* The English category label is an unchecked automated translation of the German label._

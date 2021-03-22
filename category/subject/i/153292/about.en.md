@@ -1,14 +1,14 @@
 ---
-title: "m0 Sm20 Finance, conferences"
-etr: category/subject/m0 Sm20
-modified: 2020-12-18
+title: "m Sm20 Finance, conferences"
+etr: category/subject/m Sm20
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [m0 Sm20]{.gray}&#8201; Finance, conferences&#160; 
+# [m Sm20]{.gray}&#8201; Finance, conferences&#160; 
 
 
 
@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A7 Orient](../../../geo/about.en.html#A7) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140902/1532xx/153292/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140902,153292))
+- A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140902,153292" title="about: Orient : Finance, conferences" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140902,153292))
 
 
 _* The English category label is an unchecked automated translation of the German label._

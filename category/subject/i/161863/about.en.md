@@ -1,7 +1,7 @@
 ---
 title: "n13a Sm7 Construction industry"
 etr: category/subject/n13a Sm7
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -22,26 +22,26 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- [A1 Europe](../../../geo/about.en.html#A1) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1408xx/140892/1618xx/161863/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140892,161863))
+- A1 Europe [**&nearr;**](../../../geo/i/140892/about.en.html "Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A1 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,161863" title="about: Europe : Construction industry" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140892,161863))
 
 ### Asia
 
-- [B24 Syria](../../../geo/about.en.html#B24) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141114/1618xx/161863/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141114,161863))
-- [B24a Palestine](../../../geo/about.en.html#B24a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141115/1618xx/161863/public.mets.en.xml" target="_blank">25 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,161863))
-- [B102 Hong Kong](../../../geo/about.en.html#B102) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141268/1618xx/161863/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141268,161863))
+- B24 Syria [**&nearr;**](../../../geo/i/141114/about.en.html "Syria (all folders)") [**&uarr;**](../../../geo/about.en.html#B24 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141114,161863" title="about: Syria : Construction industry" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141114,161863))
+- B24a Palestine [**&nearr;**](../../../geo/i/141115/about.en.html "Palestine (all folders)") [**&uarr;**](../../../geo/about.en.html#B24a "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,161863" title="about: Palestine : Construction industry" target="_blank">25 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,161863))
+- B102 Hong Kong [**&nearr;**](../../../geo/i/141268/about.en.html "Hong Kong (all folders)") [**&uarr;**](../../../geo/about.en.html#B102 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141268,161863" title="about: Hong Kong : Construction industry" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141268,161863))
 
 ### Africa
 
-- [C25 French protectorate in Morocco](../../../geo/about.en.html#C25) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1413xx/141358/1618xx/161863/public.mets.en.xml" target="_blank">11 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141358,161863))
-- [C60 Colonial Nigeria, incl. British Cameroons](../../../geo/about.en.html#C60) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141409/1618xx/161863/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141409,161863))
-- [C65 Cameroon](../../../geo/about.en.html#C65) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141410/1618xx/161863/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141410,161863))
-- [C87 German South-West Africa](../../../geo/about.en.html#C87) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141450/1618xx/161863/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141450,161863))
-- [C110 German East Africa](../../../geo/about.en.html#C110) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141471/1618xx/161863/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141471,161863))
-- [C126 Eritrea](../../../geo/about.en.html#C126) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141483/1618xx/161863/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141483,161863))
+- C25 French protectorate in Morocco [**&nearr;**](../../../geo/i/141358/about.en.html "French protectorate in Morocco (all folders)") [**&uarr;**](../../../geo/about.en.html#C25 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141358,161863" title="about: French protectorate in Morocco : Construction industry" target="_blank">11 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141358,161863))
+- C60 Colonial Nigeria, incl. British Cameroons [**&nearr;**](../../../geo/i/141409/about.en.html "Colonial Nigeria, incl. British Cameroons (all folders)") [**&uarr;**](../../../geo/about.en.html#C60 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141409,161863" title="about: Colonial Nigeria, incl. British Cameroons : Construction industry" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141409,161863))
+- C65 Cameroon [**&nearr;**](../../../geo/i/141410/about.en.html "Cameroon (all folders)") [**&uarr;**](../../../geo/about.en.html#C65 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141410,161863" title="about: Cameroon : Construction industry" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141410,161863))
+- C87 German South-West Africa [**&nearr;**](../../../geo/i/141450/about.en.html "German South-West Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C87 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141450,161863" title="about: German South-West Africa : Construction industry" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141450,161863))
+- C110 German East Africa [**&nearr;**](../../../geo/i/141471/about.en.html "German East Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C110 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141471,161863" title="about: German East Africa : Construction industry" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141471,161863))
+- C126 Eritrea [**&nearr;**](../../../geo/i/141483/about.en.html "Eritrea (all folders)") [**&uarr;**](../../../geo/about.en.html#C126 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141483,161863" title="about: Eritrea : Construction industry" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141483,161863))
 
 ### Australia and Oceania
 
-- [D5 Hawaii](../../../geo/about.en.html#D5) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1415xx/141595/1618xx/161863/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141595,161863))
+- D5 Hawaii [**&nearr;**](../../../geo/i/141595/about.en.html "Hawaii (all folders)") [**&uarr;**](../../../geo/about.en.html#D5 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141595,161863" title="about: Hawaii : Construction industry" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141595,161863))
 
 
 _* The English category label is an unchecked automated translation of the German label._

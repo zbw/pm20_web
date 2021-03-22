@@ -1,7 +1,7 @@
 ---
 title: "C71 Sao Tome and Principe"
 etr: category/geo/C71
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,15 +25,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### The country and its people, politics and economy
 
-- [b The country and its people, politics and economy, general](../../../subject/about.en.html#b) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141413/1441xx/144196/public.mets.en.xml" target="_blank">6 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141413,144196))
-- [b1 Country and people, travel descriptions](../../../subject/about.en.html#b1) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141413/1441xx/144197/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141413,144197))
+- b The country and its people, politics and economy, general [**&nearr;**](../../../subject/i/144196/about.en.html "The country and its people, politics and economy, general (all over the world)") [**&uarr;**](../../../subject/about.en.html#b "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141413,144196" title="about: Sao Tome and Principe : The country and its people, politics and economy, general" target="_blank">6 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141413,144196))
+- b1 Country and people, travel descriptions [**&nearr;**](../../../subject/i/144197/about.en.html "Country and people, travel descriptions (all over the world)") [**&uarr;**](../../../subject/about.en.html#b1 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141413,144197" title="about: Sao Tome and Principe : Country and people, travel descriptions" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141413,144197))
 
 ### Country studies
 
-- [c Country studies, general](../../../subject/about.en.html#c) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141413/1441xx/144199/public.mets.en.xml" target="_blank">6 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141413,144199))
-- [c5 Climate](../../../subject/about.en.html#c5) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141413/1442xx/144209/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141413,144209))
-- [c7 Plant kingdom](../../../subject/about.en.html#c7) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141413/1442xx/144211/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141413,144211))
-- [c9 Landscapes, description of individual places and areas](../../../subject/about.en.html#c9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141413/1442xx/144214/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141413,144214))
+- c Country studies, general [**&nearr;**](../../../subject/i/144199/about.en.html "Country studies, general (all over the world)") [**&uarr;**](../../../subject/about.en.html#c "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141413,144199" title="about: Sao Tome and Principe : Country studies, general" target="_blank">6 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141413,144199))
+- c5 Climate [**&nearr;**](../../../subject/i/144209/about.en.html "Climate (all over the world)") [**&uarr;**](../../../subject/about.en.html#c5 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141413,144209" title="about: Sao Tome and Principe : Climate" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141413,144209))
+- c7 Plant kingdom [**&nearr;**](../../../subject/i/144211/about.en.html "Plant kingdom (all over the world)") [**&uarr;**](../../../subject/about.en.html#c7 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141413,144211" title="about: Sao Tome and Principe : Plant kingdom" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141413,144211))
+- c9 Landscapes, description of individual places and areas [**&nearr;**](../../../subject/i/144214/about.en.html "Landscapes, description of individual places and areas (all over the world)") [**&uarr;**](../../../subject/about.en.html#c9 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141413,144214" title="about: Sao Tome and Principe : Landscapes, description of individual places and areas" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141413,144214))
 
 
 _* The English category label is an unchecked automated translation of the German label._

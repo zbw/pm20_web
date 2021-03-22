@@ -1,14 +1,14 @@
 ---
-title: "m0 Sm40 Finanzwesen, Ausbildung"
-etr: category/subject/m0 Sm40
-modified: 2020-12-18
+title: "m Sm40 Finanzwesen, Ausbildung"
+etr: category/subject/m Sm40
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [m0 Sm40]{.gray}&#8201; Finanzwesen, Ausbildung&#160; 
+# [m Sm40]{.gray}&#8201; Finanzwesen, Ausbildung&#160; 
 
 
 
@@ -25,6 +25,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Asien
 
-- [B21 Türkei (1923 -)](../../../geo/about.de.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/2114xx/211408/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,211408))
+- B21 Türkei (1923 -) [**&nearr;**](../../../geo/i/141111/about.de.html "Türkei (1923 -) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B21 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,211408" title="über: Türkei (1923 -) : Finanzwesen, Ausbildung" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,211408))
 
 

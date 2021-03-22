@@ -1,7 +1,7 @@
 ---
 title: "A10(t1) Allied occupied Germany"
 etr: category/geo/A10(t1)
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,17 +25,17 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Population and population policies
 
-- [d1 Population movement, population statistics](../../../subject/about.en.html#d1) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1872xx/187230/1442xx/144222/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/187230,144222))
+- d1 Population movement, population statistics [**&nearr;**](../../../subject/i/144222/about.en.html "Population movement, population statistics (all over the world)") [**&uarr;**](../../../subject/about.en.html#d1 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/187230,144222" title="about: Allied occupied Germany : Population movement, population statistics" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/187230,144222))
 
 ### Administration
 
-- [h Administration, general](../../../subject/about.en.html#h) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1872xx/187230/1446xx/144659/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/187230,144659))
-  - [h0 Sm501 (A 10) Occupying powers (administration)](../../../subject/about.en.html#h0_Sm501_(A_10)) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1872xx/187230/2057xx/205741/public.mets.en.xml" target="_blank">50 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/187230,205741))
-- [h1 Authorities, general](../../../subject/about.en.html#h1) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1872xx/187230/1446xx/144660/public.mets.en.xml" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/187230,144660))
+- h Administration, general [**&nearr;**](../../../subject/i/144659/about.en.html "Administration, general (all over the world)") [**&uarr;**](../../../subject/about.en.html#h "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/187230,144659" title="about: Allied occupied Germany : Administration, general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/187230,144659))
+  - h Sm501 (A10) Occupying powers (administration) [**&nearr;**](../../../subject/i/205741/about.en.html "Occupying powers (administration) (all over the world)") [**&uarr;**](../../../subject/about.en.html#h_Sm501_(A10) "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/187230,205741" title="about: Allied occupied Germany : Occupying powers (administration)" target="_blank">50 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/187230,205741))
+- h1 Authorities, general [**&nearr;**](../../../subject/i/144660/about.en.html "Authorities, general (all over the world)") [**&uarr;**](../../../subject/about.en.html#h1 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/187230,144660" title="about: Allied occupied Germany : Authorities, general" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/187230,144660))
 
 ### Economy
 
-- [n14 Crafts and trades](../../../subject/about.en.html#n14) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1872xx/187230/1451xx/145135/public.mets.en.xml" target="_blank">23 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/187230,145135))
+- n14 Crafts and trades [**&nearr;**](../../../subject/i/145135/about.en.html "Crafts and trades (all over the world)") [**&uarr;**](../../../subject/about.en.html#n14 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/187230,145135" title="about: Allied occupied Germany : Crafts and trades" target="_blank">23 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/187230,145135))
 
 
 _* The English category label is an unchecked automated translation of the German label._

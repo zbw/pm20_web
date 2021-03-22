@@ -1,7 +1,7 @@
 ---
 title: "f1 Sm1 (alt) Wirtschaftsgeschichtliche Rückblicke"
 etr: category/subject/f1 Sm1 (alt)
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -25,6 +25,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Australien und Ozeanien
 
-- [D2 Pazifischer Raum](../../../geo/about.de.html#D2) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1415xx/141593/1442xx/144284/public.mets.de.xml" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141593,144284))
+- D2 Pazifischer Raum [**&nearr;**](../../../geo/i/141593/about.de.html "Pazifischer Raum (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#D2 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141593,144284" title="über: Pazifischer Raum : Wirtschaftsgeschichtliche Rückblicke" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141593,144284))
 
 

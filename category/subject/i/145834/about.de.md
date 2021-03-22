@@ -1,14 +1,14 @@
 ---
-title: "n0 Sm36.IIb Wärmewirtschaft, Fernheizung, in Einzelne Orten oder Gegenden"
-etr: category/subject/n0 Sm36.IIb
-modified: 2020-12-18
+title: "n Sm36.IIb Wärmewirtschaft, Fernheizung, in Einzelne Orten oder Gegenden"
+etr: category/subject/n Sm36.IIb
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [n0 Sm36.IIb]{.gray}&#8201; Wärmewirtschaft, Fernheizung, in Einzelne Orten oder Gegenden&#160; 
+# [n Sm36.IIb]{.gray}&#8201; Wärmewirtschaft, Fernheizung, in Einzelne Orten oder Gegenden&#160; 
 
 
 
@@ -22,6 +22,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 
 
-- [A9 Hamburg](../../../geo/about.de.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1458xx/145834/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,145834))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145834" title="über: Hamburg : Wärmewirtschaft, Fernheizung, in Einzelne Orten oder Gegenden" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,145834))
 
 

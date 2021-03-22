@@ -1,7 +1,7 @@
 ---
 title: "f5a.1c Die Partei im Ganzen, Programm"
 etr: category/subject/f5a.1c
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -22,6 +22,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 
 
-- [A9 Hamburg](../../../geo/about.de.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1444xx/144424/public.mets.de.xml" target="_blank">11 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,144424))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144424" title="über: Hamburg : Die Partei im Ganzen, Programm" target="_blank">11 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,144424))
 
 

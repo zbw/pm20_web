@@ -1,7 +1,7 @@
 ---
 title: "n24 Sm9 Collective accounts of banks and savings banks (statistics)"
 etr: category/subject/n24 Sm9
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -22,7 +22,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- [B114 Guangdong](../../../geo/about.en.html#B114) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141275/1617xx/161748/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141275,161748))
+- B114 Guangdong [**&nearr;**](../../../geo/i/141275/about.en.html "Guangdong (all folders)") [**&uarr;**](../../../geo/about.en.html#B114 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141275,161748" title="about: Guangdong : Collective accounts of banks and savings banks (statistics)" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141275,161748))
 
 
 _* The English category label is an unchecked automated translation of the German label._

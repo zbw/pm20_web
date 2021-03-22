@@ -1,7 +1,7 @@
 ---
 title: "n18 Sm50 Handel, Institutionen"
 etr: category/subject/n18 Sm50
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -25,11 +25,11 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- [A9 Hamburg](../../../geo/about.de.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1964xx/196473/public.mets.de.xml" target="_blank">0 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,196473))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,196473" title="über: Hamburg : Handel, Institutionen" target="_blank">0 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,196473))
 
 ### Asien
 
-- [B21 Türkei (1923 -)](../../../geo/about.de.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1964xx/196473/public.mets.de.xml" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,196473))
-- [B111 Japan](../../../geo/about.de.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1964xx/196473/public.mets.de.xml" target="_blank">16 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,196473))
+- B21 Türkei (1923 -) [**&nearr;**](../../../geo/i/141111/about.de.html "Türkei (1923 -) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B21 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,196473" title="über: Türkei (1923 -) : Handel, Institutionen" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,196473))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,196473" title="über: Japan : Handel, Institutionen" target="_blank">16 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,196473))
 
 

@@ -1,7 +1,7 @@
 ---
 title: "n37a Sm7 Kriegsschädenversicherung"
 etr: category/subject/n37a Sm7
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -25,16 +25,16 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Asien
 
-- [B21 Türkei (1923 -)](../../../geo/about.de.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1457xx/145741/public.mets.de.xml" target="_blank">20 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,145741))
-- [B102 Hongkong](../../../geo/about.de.html#B102) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141268/1457xx/145741/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141268,145741))
-- [B111 Japan](../../../geo/about.de.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1457xx/145741/public.mets.de.xml" target="_blank">30 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,145741))
+- B21 Türkei (1923 -) [**&nearr;**](../../../geo/i/141111/about.de.html "Türkei (1923 -) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B21 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145741" title="über: Türkei (1923 -) : Kriegsschädenversicherung" target="_blank">20 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,145741))
+- B102 Hongkong [**&nearr;**](../../../geo/i/141268/about.de.html "Hongkong (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B102 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141268,145741" title="über: Hongkong : Kriegsschädenversicherung" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141268,145741))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145741" title="über: Japan : Kriegsschädenversicherung" target="_blank">30 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,145741))
 
 ### Afrika
 
-- [C25 Französisch-Marokko](../../../geo/about.de.html#C25) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1413xx/141358/1457xx/145741/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141358,145741))
+- C25 Französisch-Marokko [**&nearr;**](../../../geo/i/141358/about.de.html "Französisch-Marokko (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C25 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141358,145741" title="über: Französisch-Marokko : Kriegsschädenversicherung" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141358,145741))
 
 ### Amerika
 
-- [E86 Argentinien](../../../geo/about.de.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1457xx/145741/public.mets.de.xml" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,145741))
+- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145741" title="über: Argentinien : Kriegsschädenversicherung" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,145741))
 
 

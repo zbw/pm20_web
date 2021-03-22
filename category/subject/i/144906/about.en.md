@@ -1,7 +1,7 @@
 ---
 title: "m5a Sm5.II Bonds borrowed abroad in individual countries (finance of individual cities)"
 etr: category/subject/m5a Sm5.II
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,13 +25,13 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Asia
 
-- [B21 Turkey](../../../geo/about.en.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1449xx/144906/public.mets.en.xml" target="_blank">31 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,144906))
-- [B24a Palestine](../../../geo/about.en.html#B24a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141115/1449xx/144906/public.mets.en.xml" target="_blank">14 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,144906))
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1449xx/144906/public.mets.en.xml" target="_blank">49 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144906))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,144906" title="about: Turkey : Bonds borrowed abroad in individual countries (finance of individual cities)" target="_blank">31 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,144906))
+- B24a Palestine [**&nearr;**](../../../geo/i/141115/about.en.html "Palestine (all folders)") [**&uarr;**](../../../geo/about.en.html#B24a "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,144906" title="about: Palestine : Bonds borrowed abroad in individual countries (finance of individual cities)" target="_blank">14 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,144906))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144906" title="about: Japan : Bonds borrowed abroad in individual countries (finance of individual cities)" target="_blank">49 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144906))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1449xx/144906/public.mets.en.xml" target="_blank">68 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,144906))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144906" title="about: Argentina : Bonds borrowed abroad in individual countries (finance of individual cities)" target="_blank">68 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,144906))
 
 
 _* The English category label is an unchecked automated translation of the German label._

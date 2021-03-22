@@ -1,7 +1,7 @@
 ---
 title: "f2 Sm7 Countermeasures against communism in non-communist countries"
 etr: category/subject/f2 Sm7
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,16 +25,16 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A10 Germany](../../../geo/about.en.html#A10) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1261xx/126128/1945xx/194563/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,194563))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,194563" title="about: Germany : Countermeasures against communism in non-communist countries" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,194563))
 
 ### Asia
 
-- [B22 Armenians in Turkey](../../../geo/about.en.html#B22) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141112/1945xx/194563/public.mets.en.xml" target="_blank">6 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141112,194563))
-- [B23 Iraq](../../../geo/about.en.html#B23) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141113/1945xx/194563/public.mets.en.xml" target="_blank">5 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141113,194563))
+- B22 Armenians in Turkey [**&nearr;**](../../../geo/i/141112/about.en.html "Armenians in Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B22 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141112,194563" title="about: Armenians in Turkey : Countermeasures against communism in non-communist countries" target="_blank">6 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141112,194563))
+- B23 Iraq [**&nearr;**](../../../geo/i/141113/about.en.html "Iraq (all folders)") [**&uarr;**](../../../geo/about.en.html#B23 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141113,194563" title="about: Iraq : Countermeasures against communism in non-communist countries" target="_blank">5 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141113,194563))
 
 ### America
 
-- [E95 Uruguay](../../../geo/about.en.html#E95) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141695/1945xx/194563/public.mets.en.xml" target="_blank">33 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141695,194563))
+- E95 Uruguay [**&nearr;**](../../../geo/i/141695/about.en.html "Uruguay (all folders)") [**&uarr;**](../../../geo/about.en.html#E95 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141695,194563" title="about: Uruguay : Countermeasures against communism in non-communist countries" target="_blank">33 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141695,194563))
 
 
 _* The English category label is an unchecked automated translation of the German label._

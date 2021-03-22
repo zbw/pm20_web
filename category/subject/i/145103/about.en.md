@@ -1,7 +1,7 @@
 ---
 title: "n13 Sm4.II Industrial exploitation of individual natural forces"
 etr: category/subject/n13 Sm4.II
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,22 +25,22 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A1 Europe](../../../geo/about.en.html#A1) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1408xx/140892/1451xx/145103/public.mets.en.xml" target="_blank">5 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140892,145103))
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1451xx/145103/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145103))
-- [A11 German imperial colonies](../../../geo/about.en.html#A11) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140960/1451xx/145103/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140960,145103))
+- A1 Europe [**&nearr;**](../../../geo/i/140892/about.en.html "Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A1 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,145103" title="about: Europe : Industrial exploitation of individual natural forces" target="_blank">5 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140892,145103))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145103" title="about: Hamburg : Industrial exploitation of individual natural forces" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145103))
+- A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140960,145103" title="about: German imperial colonies : Industrial exploitation of individual natural forces" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140960,145103))
 
 ### Asia
 
-- [B24a Palestine](../../../geo/about.en.html#B24a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141115/1451xx/145103/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,145103))
+- B24a Palestine [**&nearr;**](../../../geo/i/141115/about.en.html "Palestine (all folders)") [**&uarr;**](../../../geo/about.en.html#B24a "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,145103" title="about: Palestine : Industrial exploitation of individual natural forces" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,145103))
 
 ### Africa
 
-- [C25 French protectorate in Morocco](../../../geo/about.en.html#C25) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1413xx/141358/1451xx/145103/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141358,145103))
-- [C87 German South-West Africa](../../../geo/about.en.html#C87) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141450/1451xx/145103/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141450,145103))
+- C25 French protectorate in Morocco [**&nearr;**](../../../geo/i/141358/about.en.html "French protectorate in Morocco (all folders)") [**&uarr;**](../../../geo/about.en.html#C25 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141358,145103" title="about: French protectorate in Morocco : Industrial exploitation of individual natural forces" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141358,145103))
+- C87 German South-West Africa [**&nearr;**](../../../geo/i/141450/about.en.html "German South-West Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C87 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141450,145103" title="about: German South-West Africa : Industrial exploitation of individual natural forces" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141450,145103))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1451xx/145103/public.mets.en.xml" target="_blank">11 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145103))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145103" title="about: Argentina : Industrial exploitation of individual natural forces" target="_blank">11 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145103))
 
 
 _* The English category label is an unchecked automated translation of the German label._

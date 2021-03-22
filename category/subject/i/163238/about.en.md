@@ -1,14 +1,14 @@
 ---
-title: "n0 Sm7 Cartels, syndicates and trusts"
-etr: category/subject/n0 Sm7
-modified: 2020-12-18
+title: "n Sm7 Cartels, syndicates and trusts"
+etr: category/subject/n Sm7
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [n0 Sm7]{.gray}&#8201; Cartels, syndicates and trusts&#160; 
+# [n Sm7]{.gray}&#8201; Cartels, syndicates and trusts&#160; 
 
 
 
@@ -22,11 +22,11 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- [B24a Palestine](../../../geo/about.en.html#B24a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141115/1632xx/163238/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,163238))
+- B24a Palestine [**&nearr;**](../../../geo/i/141115/about.en.html "Palestine (all folders)") [**&uarr;**](../../../geo/about.en.html#B24a "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,163238" title="about: Palestine : Cartels, syndicates and trusts" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,163238))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1632xx/163238/public.mets.en.xml" target="_blank">10 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,163238))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,163238" title="about: Argentina : Cartels, syndicates and trusts" target="_blank">10 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,163238))
 
 
 _* The English category label is an unchecked automated translation of the German label._

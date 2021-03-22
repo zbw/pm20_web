@@ -1,7 +1,7 @@
 ---
 title: "n4 Sm8.I Pest control, general"
 etr: category/subject/n4 Sm8.I
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,28 +25,28 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A1 Europe](../../../geo/about.en.html#A1) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1408xx/140892/1450xx/145056/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140892,145056))
-- [A6 Southeastern Europe](../../../geo/about.en.html#A6) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140900/1450xx/145056/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140900,145056))
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1450xx/145056/public.mets.en.xml" target="_blank">12 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145056))
+- A1 Europe [**&nearr;**](../../../geo/i/140892/about.en.html "Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A1 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,145056" title="about: Europe : Pest control, general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140892,145056))
+- A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,145056" title="about: Southeastern Europe : Pest control, general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140900,145056))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145056" title="about: Hamburg : Pest control, general" target="_blank">12 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145056))
 
 ### Asia
 
-- [B21 Turkey](../../../geo/about.en.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1450xx/145056/public.mets.en.xml" target="_blank">6 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145056))
-- [B23 Iraq](../../../geo/about.en.html#B23) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141113/1450xx/145056/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141113,145056))
-- [B24 Syria](../../../geo/about.en.html#B24) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141114/1450xx/145056/public.mets.en.xml" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141114,145056))
-- [B24a Palestine](../../../geo/about.en.html#B24a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141115/1450xx/145056/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,145056))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145056" title="about: Turkey : Pest control, general" target="_blank">6 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145056))
+- B23 Iraq [**&nearr;**](../../../geo/i/141113/about.en.html "Iraq (all folders)") [**&uarr;**](../../../geo/about.en.html#B23 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141113,145056" title="about: Iraq : Pest control, general" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141113,145056))
+- B24 Syria [**&nearr;**](../../../geo/i/141114/about.en.html "Syria (all folders)") [**&uarr;**](../../../geo/about.en.html#B24 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141114,145056" title="about: Syria : Pest control, general" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141114,145056))
+- B24a Palestine [**&nearr;**](../../../geo/i/141115/about.en.html "Palestine (all folders)") [**&uarr;**](../../../geo/about.en.html#B24a "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,145056" title="about: Palestine : Pest control, general" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,145056))
 
 ### Africa
 
-- [C25 French protectorate in Morocco](../../../geo/about.en.html#C25) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1413xx/141358/1450xx/145056/public.mets.en.xml" target="_blank">6 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141358,145056))
-- [C56 Liberia](../../../geo/about.en.html#C56) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141405/1450xx/145056/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141405,145056))
-- [C57 Gold Coast incl. British Togoland](../../../geo/about.en.html#C57) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141406/1450xx/145056/public.mets.en.xml" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141406,145056))
-- [C70 Spanish Guinea](../../../geo/about.en.html#C70) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141412/1450xx/145056/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141412,145056))
-- [C110 German East Africa](../../../geo/about.en.html#C110) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141471/1450xx/145056/public.mets.en.xml" target="_blank">29 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141471,145056))
+- C25 French protectorate in Morocco [**&nearr;**](../../../geo/i/141358/about.en.html "French protectorate in Morocco (all folders)") [**&uarr;**](../../../geo/about.en.html#C25 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141358,145056" title="about: French protectorate in Morocco : Pest control, general" target="_blank">6 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141358,145056))
+- C56 Liberia [**&nearr;**](../../../geo/i/141405/about.en.html "Liberia (all folders)") [**&uarr;**](../../../geo/about.en.html#C56 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141405,145056" title="about: Liberia : Pest control, general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141405,145056))
+- C57 Gold Coast incl. British Togoland [**&nearr;**](../../../geo/i/141406/about.en.html "Gold Coast incl. British Togoland (all folders)") [**&uarr;**](../../../geo/about.en.html#C57 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141406,145056" title="about: Gold Coast incl. British Togoland : Pest control, general" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141406,145056))
+- C70 Spanish Guinea [**&nearr;**](../../../geo/i/141412/about.en.html "Spanish Guinea (all folders)") [**&uarr;**](../../../geo/about.en.html#C70 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141412,145056" title="about: Spanish Guinea : Pest control, general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141412,145056))
+- C110 German East Africa [**&nearr;**](../../../geo/i/141471/about.en.html "German East Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C110 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141471,145056" title="about: German East Africa : Pest control, general" target="_blank">29 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141471,145056))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1450xx/145056/public.mets.en.xml" target="_blank">36 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145056))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145056" title="about: Argentina : Pest control, general" target="_blank">36 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145056))
 
 
 _* The English category label is an unchecked automated translation of the German label._

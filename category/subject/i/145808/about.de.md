@@ -1,14 +1,14 @@
 ---
-title: "n0 Sm21 Bilanzen auf Goldbasis"
-etr: category/subject/n0 Sm21
-modified: 2020-12-18
+title: "n Sm21 Bilanzen auf Goldbasis"
+etr: category/subject/n Sm21
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [n0 Sm21]{.gray}&#8201; Bilanzen auf Goldbasis&#160; 
+# [n Sm21]{.gray}&#8201; Bilanzen auf Goldbasis&#160; 
 
 
 
@@ -25,6 +25,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- [A9 Hamburg](../../../geo/about.de.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1458xx/145808/public.mets.de.xml" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,145808))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145808" title="über: Hamburg : Bilanzen auf Goldbasis" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,145808))
 
 

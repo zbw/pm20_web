@@ -1,14 +1,14 @@
 ---
-title: "n0 Sm40 Business, professions and education"
-etr: category/subject/n0 Sm40
-modified: 2020-12-18
+title: "n Sm40 Business, professions and education"
+etr: category/subject/n Sm40
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [n0 Sm40]{.gray}&#8201; Business, professions and education&#160; 
+# [n Sm40]{.gray}&#8201; Business, professions and education&#160; 
 
 
 
@@ -25,15 +25,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1872xx/187252/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,187252))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,187252" title="about: Hamburg : Business, professions and education" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,187252))
 
 ### Asia
 
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1872xx/187252/public.mets.en.xml" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,187252))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,187252" title="about: Japan : Business, professions and education" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,187252))
 
 ### Africa
 
-- [C57 Gold Coast incl. British Togoland](../../../geo/about.en.html#C57) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141406/1872xx/187252/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141406,187252))
+- C57 Gold Coast incl. British Togoland [**&nearr;**](../../../geo/i/141406/about.en.html "Gold Coast incl. British Togoland (all folders)") [**&uarr;**](../../../geo/about.en.html#C57 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141406,187252" title="about: Gold Coast incl. British Togoland : Business, professions and education" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141406,187252))
 
 
 _* The English category label is an unchecked automated translation of the German label._

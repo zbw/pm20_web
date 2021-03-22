@@ -1,14 +1,14 @@
 ---
-title: "n0 Sm45.IV Utilities, public utilities"
-etr: category/subject/n0 Sm45.IV
-modified: 2020-12-18
+title: "n Sm45.IV Utilities, public utilities"
+etr: category/subject/n Sm45.IV
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [n0 Sm45.IV]{.gray}&#8201; Utilities, public utilities&#160; 
+# [n Sm45.IV]{.gray}&#8201; Utilities, public utilities&#160; 
 
 
 
@@ -25,15 +25,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Asia
 
-- [B21 Turkey](../../../geo/about.en.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1458xx/145851/public.mets.en.xml" target="_blank">21 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145851))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145851" title="about: Turkey : Utilities, public utilities" target="_blank">21 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145851))
 
 ### Africa
 
-- [C25 French protectorate in Morocco](../../../geo/about.en.html#C25) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1413xx/141358/1458xx/145851/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141358,145851))
+- C25 French protectorate in Morocco [**&nearr;**](../../../geo/i/141358/about.en.html "French protectorate in Morocco (all folders)") [**&uarr;**](../../../geo/about.en.html#C25 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141358,145851" title="about: French protectorate in Morocco : Utilities, public utilities" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141358,145851))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1458xx/145851/public.mets.en.xml" target="_blank">13 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145851))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145851" title="about: Argentina : Utilities, public utilities" target="_blank">13 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145851))
 
 
 _* The English category label is an unchecked automated translation of the German label._

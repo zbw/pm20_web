@@ -1,7 +1,7 @@
 ---
 title: "g5 Colonial policy, general"
 etr: category/subject/g5
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,17 +25,17 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A4 Western Europe](../../../geo/about.en.html#A4) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1408xx/140897/1445xx/144558/public.mets.en.xml" target="_blank">16 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140897,144558))
-- [A10 Germany](../../../geo/about.en.html#A10) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1261xx/126128/1445xx/144558/public.mets.en.xml" target="_blank">1967 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,144558))
-- [A11 German imperial colonies](../../../geo/about.en.html#A11) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140960/1445xx/144558/public.mets.en.xml" target="_blank">57 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140960,144558))
+- A4 Western Europe [**&nearr;**](../../../geo/i/140897/about.en.html "Western Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A4 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140897,144558" title="about: Western Europe : Colonial policy, general" target="_blank">16 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140897,144558))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,144558" title="about: Germany : Colonial policy, general" target="_blank">1967 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,144558))
+- A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140960,144558" title="about: German imperial colonies : Colonial policy, general" target="_blank">57 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140960,144558))
 
 ### Asia
 
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1445xx/144558/public.mets.en.xml" target="_blank">52 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144558))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144558" title="about: Japan : Colonial policy, general" target="_blank">52 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144558))
 
 ### Africa
 
-- [C65 Cameroon](../../../geo/about.en.html#C65) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141410/1445xx/144558/public.mets.en.xml" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141410,144558))
+- C65 Cameroon [**&nearr;**](../../../geo/i/141410/about.en.html "Cameroon (all folders)") [**&uarr;**](../../../geo/about.en.html#C65 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141410,144558" title="about: Cameroon : Colonial policy, general" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141410,144558))
 
 
 _* The English category label is an unchecked automated translation of the German label._

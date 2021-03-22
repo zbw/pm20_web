@@ -1,7 +1,7 @@
 ---
 title: "C94b Nordrhodesien"
 etr: category/geo/C94b
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -24,6 +24,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 
 
-  - [p3 Sm500 Deutsche Einwanderer (Forschungsstelle für das Übersee-Deutschtum)](../../../subject/about.de.html#p3_Sm500) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141458/1459xx/145921/public.mets.de.xml" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141458,145921))
+  - p3 Sm500 Deutsche Einwanderer (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145921/about.de.html "Deutsche Einwanderer (Forschungsstelle für das Übersee-Deutschtum) (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#p3_Sm500 "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141458,145921" title="über: Nordrhodesien : Deutsche Einwanderer (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141458,145921))
 
 

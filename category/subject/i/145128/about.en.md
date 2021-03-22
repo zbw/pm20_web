@@ -1,7 +1,7 @@
 ---
 title: "n13a Sm7.I Construction industry, general"
 etr: category/subject/n13a Sm7.I
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,19 +25,19 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A4 Western Europe](../../../geo/about.en.html#A4) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1408xx/140897/1451xx/145128/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140897,145128))
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1451xx/145128/public.mets.en.xml" target="_blank">90 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145128))
+- A4 Western Europe [**&nearr;**](../../../geo/i/140897/about.en.html "Western Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A4 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140897,145128" title="about: Western Europe : Construction industry, general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140897,145128))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145128" title="about: Hamburg : Construction industry, general" target="_blank">90 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145128))
 
 ### Asia
 
-- [B21 Turkey](../../../geo/about.en.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1451xx/145128/public.mets.en.xml" target="_blank">15 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145128))
-- [B102 Hong Kong](../../../geo/about.en.html#B102) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141268/1451xx/145128/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141268,145128))
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1451xx/145128/public.mets.en.xml" target="_blank">23 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145128))
-- [B114 Guangdong](../../../geo/about.en.html#B114) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141275/1451xx/145128/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141275,145128))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145128" title="about: Turkey : Construction industry, general" target="_blank">15 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145128))
+- B102 Hong Kong [**&nearr;**](../../../geo/i/141268/about.en.html "Hong Kong (all folders)") [**&uarr;**](../../../geo/about.en.html#B102 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141268,145128" title="about: Hong Kong : Construction industry, general" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141268,145128))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145128" title="about: Japan : Construction industry, general" target="_blank">23 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145128))
+- B114 Guangdong [**&nearr;**](../../../geo/i/141275/about.en.html "Guangdong (all folders)") [**&uarr;**](../../../geo/about.en.html#B114 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141275,145128" title="about: Guangdong : Construction industry, general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141275,145128))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1451xx/145128/public.mets.en.xml" target="_blank">23 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145128))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145128" title="about: Argentina : Construction industry, general" target="_blank">23 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145128))
 
 
 _* The English category label is an unchecked automated translation of the German label._

@@ -1,7 +1,7 @@
 ---
 title: "m1 Sm12 (alt) Tax revenue"
 etr: category/subject/m1 Sm12 (alt)
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Asia
 
-- [B24a Palestine](../../../geo/about.en.html#B24a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141115/1632xx/163284/public.mets.en.xml" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,163284))
+- B24a Palestine [**&nearr;**](../../../geo/i/141115/about.en.html "Palestine (all folders)") [**&uarr;**](../../../geo/about.en.html#B24a "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,163284" title="about: Palestine : Tax revenue" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,163284))
 
 
 _* The English category label is an unchecked automated translation of the German label._

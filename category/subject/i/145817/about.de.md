@@ -1,14 +1,14 @@
 ---
-title: "n0 Sm25.IV Private Kriegsschäden, Entschädigungsverfahren"
-etr: category/subject/n0 Sm25.IV
-modified: 2020-12-18
+title: "n Sm25.IV Private Kriegsschäden, Entschädigungsverfahren"
+etr: category/subject/n Sm25.IV
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [n0 Sm25.IV]{.gray}&#8201; Private Kriegsschäden, Entschädigungsverfahren&#160; 
+# [n Sm25.IV]{.gray}&#8201; Private Kriegsschäden, Entschädigungsverfahren&#160; 
 
 
 
@@ -22,6 +22,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 
 
-- [C87 Deutsch-Südwestafrika](../../../geo/about.de.html#C87) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141450/1458xx/145817/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141450,145817))
+- C87 Deutsch-Südwestafrika [**&nearr;**](../../../geo/i/141450/about.de.html "Deutsch-Südwestafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C87 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141450,145817" title="über: Deutsch-Südwestafrika : Private Kriegsschäden, Entschädigungsverfahren" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141450,145817))
 
 

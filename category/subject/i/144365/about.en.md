@@ -1,7 +1,7 @@
 ---
 title: "f4 Sm8 Position and powers of the head of state, his representative and members of government"
 etr: category/subject/f4 Sm8
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,21 +25,21 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1443xx/144365/public.mets.en.xml" target="_blank">9 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,144365))
-- [A37 Monaco](../../../geo/about.en.html#A37) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1410xx/141013/1443xx/144365/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141013,144365))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144365" title="about: Hamburg : Position and powers of the head of state, his representative and members of government" target="_blank">9 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,144365))
+- A37 Monaco [**&nearr;**](../../../geo/i/141013/about.en.html "Monaco (all folders)") [**&uarr;**](../../../geo/about.en.html#A37 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141013,144365" title="about: Monaco : Position and powers of the head of state, his representative and members of government" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141013,144365))
 
 ### Asia
 
-- [B21 Turkey](../../../geo/about.en.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1443xx/144365/public.mets.en.xml" target="_blank">8 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,144365))
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1443xx/144365/public.mets.en.xml" target="_blank">17 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144365))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,144365" title="about: Turkey : Position and powers of the head of state, his representative and members of government" target="_blank">8 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,144365))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144365" title="about: Japan : Position and powers of the head of state, his representative and members of government" target="_blank">17 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144365))
 
 ### Australia and Oceania
 
-- [D30 Australia](../../../geo/about.en.html#D30) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141621/1443xx/144365/public.mets.en.xml" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141621,144365))
+- D30 Australia [**&nearr;**](../../../geo/i/141621/about.en.html "Australia (all folders)") [**&uarr;**](../../../geo/about.en.html#D30 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141621,144365" title="about: Australia : Position and powers of the head of state, his representative and members of government" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141621,144365))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1443xx/144365/public.mets.en.xml" target="_blank">17 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,144365))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144365" title="about: Argentina : Position and powers of the head of state, his representative and members of government" target="_blank">17 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,144365))
 
 
 _* The English category label is an unchecked automated translation of the German label._

@@ -1,7 +1,7 @@
 ---
 title: "F1 Polargebiet"
 etr: category/geo/F1
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -24,6 +24,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Literatur
 
-- [a Literatur, Allgemein](../../../subject/about.de.html#a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1417xx/141701/1423xx/142393/public.mets.de.xml" target="_blank">47 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141701,142393))
+- a Literatur, Allgemein [**&nearr;**](../../../subject/i/142393/about.de.html "Literatur, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#a "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141701,142393" title="über: Polargebiet : Literatur, Allgemein" target="_blank">47 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141701,142393))
 
 

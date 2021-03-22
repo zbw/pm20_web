@@ -1,14 +1,14 @@
 ---
-title: "n0 Sm6.IIb Nationale Kapitalanlagen und privatwirtschaftl. Interessen in einzelnen Ländern"
-etr: category/subject/n0 Sm6.IIb
-modified: 2020-12-18
+title: "n Sm6.IIb Nationale Kapitalanlagen und privatwirtschaftl. Interessen in einzelnen Ländern"
+etr: category/subject/n Sm6.IIb
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [n0 Sm6.IIb]{.gray}&#8201; Nationale Kapitalanlagen und privatwirtschaftl. Interessen in einzelnen Ländern&#160; 
+# [n Sm6.IIb]{.gray}&#8201; Nationale Kapitalanlagen und privatwirtschaftl. Interessen in einzelnen Ländern&#160; 
 
 
 
@@ -25,7 +25,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- [A1 Europa](../../../geo/about.de.html#A1) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1408xx/140892/1457xx/145786/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140892,145786))
-- [A4 Westeuropa](../../../geo/about.de.html#A4) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1408xx/140897/1457xx/145786/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140897,145786))
+- A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,145786" title="über: Europa : Nationale Kapitalanlagen und privatwirtschaftl. Interessen in einzelnen Ländern" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140892,145786))
+- A4 Westeuropa [**&nearr;**](../../../geo/i/140897/about.de.html "Westeuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A4 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140897,145786" title="über: Westeuropa : Nationale Kapitalanlagen und privatwirtschaftl. Interessen in einzelnen Ländern" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140897,145786))
 
 

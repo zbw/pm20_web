@@ -1,7 +1,7 @@
 ---
 title: "d4 Sm1 Secret societies"
 etr: category/subject/d4 Sm1
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,15 +25,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A10 Germany](../../../geo/about.en.html#A10) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1261xx/126128/1637xx/163704/public.mets.en.xml" target="_blank">5 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,163704))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,163704" title="about: Germany : Secret societies" target="_blank">5 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,163704))
 
 ### Africa
 
-- [C56 Liberia](../../../geo/about.en.html#C56) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141405/1637xx/163704/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141405,163704))
+- C56 Liberia [**&nearr;**](../../../geo/i/141405/about.en.html "Liberia (all folders)") [**&uarr;**](../../../geo/about.en.html#C56 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141405,163704" title="about: Liberia : Secret societies" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141405,163704))
 
 ### Australia and Oceania
 
-- [D5 Hawaii](../../../geo/about.en.html#D5) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1415xx/141595/1637xx/163704/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141595,163704))
+- D5 Hawaii [**&nearr;**](../../../geo/i/141595/about.en.html "Hawaii (all folders)") [**&uarr;**](../../../geo/about.en.html#D5 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141595,163704" title="about: Hawaii : Secret societies" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141595,163704))
 
 
 _* The English category label is an unchecked automated translation of the German label._

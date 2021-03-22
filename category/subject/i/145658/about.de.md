@@ -1,7 +1,7 @@
 ---
 title: "n33a Sm6b Einzelne Binnenschiffahrtsstrassen und Seekanäle, Schiffahrt, Lage der Schiffahrtsgesellschaften"
 etr: category/subject/n33a Sm6b
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -22,7 +22,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 
 
-- [A1 Europa](../../../geo/about.de.html#A1) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1408xx/140892/1456xx/145658/public.mets.de.xml" target="_blank">41 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140892,145658))
-- [A10 Deutschland](../../../geo/about.de.html#A10) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1261xx/126128/1456xx/145658/public.mets.de.xml" target="_blank">24 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/126128,145658))
+- A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,145658" title="über: Europa : Einzelne Binnenschiffahrtsstrassen und Seekanäle, Schiffahrt, Lage der Schiffahrtsgesellschaften" target="_blank">41 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140892,145658))
+- A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,145658" title="über: Deutschland : Einzelne Binnenschiffahrtsstrassen und Seekanäle, Schiffahrt, Lage der Schiffahrtsgesellschaften" target="_blank">24 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/126128,145658))
 
 

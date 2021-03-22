@@ -1,14 +1,14 @@
 ---
-title: "g0 Sm14 Statements and position on the German peace dictation provisions & their implementation (Versailles)"
-etr: category/subject/g0 Sm14
-modified: 2020-12-18
+title: "g Sm14 Statements and position on the German peace dictation provisions & their implementation (Versailles)"
+etr: category/subject/g Sm14
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [g0 Sm14]{.gray}&#8201; Statements and position on the German peace dictation provisions & their implementation (Versailles)&#160; 
+# [g Sm14]{.gray}&#8201; Statements and position on the German peace dictation provisions & their implementation (Versailles)&#160; 
 
 
 
@@ -25,11 +25,11 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Africa
 
-- [C110 German East Africa](../../../geo/about.en.html#C110) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141471/1635xx/163597/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141471,163597))
+- C110 German East Africa [**&nearr;**](../../../geo/i/141471/about.en.html "German East Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C110 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141471,163597" title="about: German East Africa : Statements and position on the German peace dictation provisions &amp; their implementation (Versailles)" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141471,163597))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1635xx/163597/public.mets.en.xml" target="_blank">6 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,163597))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,163597" title="about: Argentina : Statements and position on the German peace dictation provisions &amp; their implementation (Versailles)" target="_blank">6 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,163597))
 
 
 _* The English category label is an unchecked automated translation of the German label._

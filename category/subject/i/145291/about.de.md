@@ -1,7 +1,7 @@
 ---
 title: "n20 Sm1 Kleinhandel, Kreditkauf"
 etr: category/subject/n20 Sm1
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -25,6 +25,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Afrika
 
-- [C110 Deutsch-Ostafrika](../../../geo/about.de.html#C110) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141471/1452xx/145291/public.mets.de.xml" target="_blank">5 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141471,145291))
+- C110 Deutsch-Ostafrika [**&nearr;**](../../../geo/i/141471/about.de.html "Deutsch-Ostafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C110 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141471,145291" title="über: Deutsch-Ostafrika : Kleinhandel, Kreditkauf" target="_blank">5 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141471,145291))
 
 

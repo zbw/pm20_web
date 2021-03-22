@@ -1,7 +1,7 @@
 ---
 title: "n13 Sm5 Industry: competition on the world market"
 etr: category/subject/n13 Sm5
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -22,7 +22,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1451xx/145104/public.mets.en.xml" target="_blank">30 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145104))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145104" title="about: Japan : Industry: competition on the world market" target="_blank">30 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145104))
 
 
 _* The English category label is an unchecked automated translation of the German label._

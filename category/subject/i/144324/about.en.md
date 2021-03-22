@@ -1,7 +1,7 @@
 ---
 title: "f2 Sm502 (A10) Convocation of the National Assembly"
 etr: category/subject/f2 Sm502 (A10)
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -22,7 +22,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- [A10 Germany](../../../geo/about.en.html#A10) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1261xx/126128/1443xx/144324/public.mets.en.xml" target="_blank">88 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,144324))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,144324" title="about: Germany : Convocation of the National Assembly" target="_blank">88 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,144324))
 
 
 _* The English category label is an unchecked automated translation of the German label._

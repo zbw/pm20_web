@@ -1,7 +1,7 @@
 ---
 title: "h4 Sm1 Passwesen"
 etr: category/subject/h4 Sm1
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -25,36 +25,36 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- [A9 Hamburg](../../../geo/about.de.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1633xx/163348/public.mets.de.xml" target="_blank">9 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,163348))
-- [A10n(1) Oberschlesien (dt.-poln. Abstimmungsgebiet)](../../../geo/about.de.html#A10n(1)) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140948/1633xx/163348/public.mets.de.xml" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140948,163348))
-- [A36 Italienische Kolonien](../../../geo/about.de.html#A36) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1410xx/141012/1633xx/163348/public.mets.de.xml" target="_blank">8 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141012,163348))
-- [A43 Osmanisches Reich (-1923)](../../../geo/about.de.html#A43) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1410xx/141034/1633xx/163348/public.mets.de.xml" target="_blank">6 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141034,163348))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,163348" title="über: Hamburg : Passwesen" target="_blank">9 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,163348))
+- A10n(1) Oberschlesien (dt.-poln. Abstimmungsgebiet) [**&nearr;**](../../../geo/i/140948/about.de.html "Oberschlesien (dt.-poln. Abstimmungsgebiet) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10n(1) "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140948,163348" title="über: Oberschlesien (dt.-poln. Abstimmungsgebiet) : Passwesen" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140948,163348))
+- A36 Italienische Kolonien [**&nearr;**](../../../geo/i/141012/about.de.html "Italienische Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A36 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141012,163348" title="über: Italienische Kolonien : Passwesen" target="_blank">8 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141012,163348))
+- A43 Osmanisches Reich (-1923) [**&nearr;**](../../../geo/i/141034/about.de.html "Osmanisches Reich (-1923) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A43 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141034,163348" title="über: Osmanisches Reich (-1923) : Passwesen" target="_blank">6 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141034,163348))
 
 ### Asien
 
-- [B21 Türkei (1923 -)](../../../geo/about.de.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1633xx/163348/public.mets.de.xml" target="_blank">17 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,163348))
-- [B24 Syrien](../../../geo/about.de.html#B24) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141114/1633xx/163348/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141114,163348))
-- [B24a Palästina (-1945)](../../../geo/about.de.html#B24a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141115/1633xx/163348/public.mets.de.xml" target="_blank">18 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141115,163348))
-- [B99 Mongolei](../../../geo/about.de.html#B99) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141261/1633xx/163348/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141261,163348))
-- [B111 Japan](../../../geo/about.de.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1633xx/163348/public.mets.de.xml" target="_blank">9 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,163348))
+- B21 Türkei (1923 -) [**&nearr;**](../../../geo/i/141111/about.de.html "Türkei (1923 -) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B21 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,163348" title="über: Türkei (1923 -) : Passwesen" target="_blank">17 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,163348))
+- B24 Syrien [**&nearr;**](../../../geo/i/141114/about.de.html "Syrien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B24 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141114,163348" title="über: Syrien : Passwesen" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141114,163348))
+- B24a Palästina (-1945) [**&nearr;**](../../../geo/i/141115/about.de.html "Palästina (-1945) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B24a "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,163348" title="über: Palästina (-1945) : Passwesen" target="_blank">18 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141115,163348))
+- B99 Mongolei [**&nearr;**](../../../geo/i/141261/about.de.html "Mongolei (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B99 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141261,163348" title="über: Mongolei : Passwesen" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141261,163348))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,163348" title="über: Japan : Passwesen" target="_blank">9 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,163348))
 
 ### Afrika
 
-- [C27 Tanger](../../../geo/about.de.html#C27) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1413xx/141360/1633xx/163348/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141360,163348))
-- [C58 Togo](../../../geo/about.de.html#C58) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141408/1633xx/163348/public.mets.de.xml" target="_blank">5 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141408,163348))
-- [C65 Kamerun](../../../geo/about.de.html#C65) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141410/1633xx/163348/public.mets.de.xml" target="_blank">8 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141410,163348))
-- [C70 Spanisch-Guinea](../../../geo/about.de.html#C70) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141412/1633xx/163348/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141412,163348))
-- [C87 Deutsch-Südwestafrika](../../../geo/about.de.html#C87) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141450/1633xx/163348/public.mets.de.xml" target="_blank">14 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141450,163348))
-- [C110 Deutsch-Ostafrika](../../../geo/about.de.html#C110) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141471/1633xx/163348/public.mets.de.xml" target="_blank">14 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141471,163348))
-- [C125 Abessinien](../../../geo/about.de.html#C125) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141482/1633xx/163348/public.mets.de.xml" target="_blank">5 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141482,163348))
+- C27 Tanger [**&nearr;**](../../../geo/i/141360/about.de.html "Tanger (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C27 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141360,163348" title="über: Tanger : Passwesen" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141360,163348))
+- C58 Togo [**&nearr;**](../../../geo/i/141408/about.de.html "Togo (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C58 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141408,163348" title="über: Togo : Passwesen" target="_blank">5 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141408,163348))
+- C65 Kamerun [**&nearr;**](../../../geo/i/141410/about.de.html "Kamerun (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C65 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141410,163348" title="über: Kamerun : Passwesen" target="_blank">8 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141410,163348))
+- C70 Spanisch-Guinea [**&nearr;**](../../../geo/i/141412/about.de.html "Spanisch-Guinea (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C70 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141412,163348" title="über: Spanisch-Guinea : Passwesen" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141412,163348))
+- C87 Deutsch-Südwestafrika [**&nearr;**](../../../geo/i/141450/about.de.html "Deutsch-Südwestafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C87 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141450,163348" title="über: Deutsch-Südwestafrika : Passwesen" target="_blank">14 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141450,163348))
+- C110 Deutsch-Ostafrika [**&nearr;**](../../../geo/i/141471/about.de.html "Deutsch-Ostafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C110 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141471,163348" title="über: Deutsch-Ostafrika : Passwesen" target="_blank">14 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141471,163348))
+- C125 Abessinien [**&nearr;**](../../../geo/i/141482/about.de.html "Abessinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C125 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141482,163348" title="über: Abessinien : Passwesen" target="_blank">5 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141482,163348))
 
 ### Australien und Ozeanien
 
-- [D10 Deutsch-Neuguinea](../../../geo/about.de.html#D10) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141601/1633xx/163348/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141601,163348))
+- D10 Deutsch-Neuguinea [**&nearr;**](../../../geo/i/141601/about.de.html "Deutsch-Neuguinea (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#D10 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141601,163348" title="über: Deutsch-Neuguinea : Passwesen" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141601,163348))
 
 ### Amerika
 
-- [E86 Argentinien](../../../geo/about.de.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1633xx/163348/public.mets.de.xml" target="_blank">34 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,163348))
-- [E102 Britisch-Guayana](../../../geo/about.de.html#E102) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1417xx/141700/1633xx/163348/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141700,163348))
+- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,163348" title="über: Argentinien : Passwesen" target="_blank">34 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,163348))
+- E102 Britisch-Guayana [**&nearr;**](../../../geo/i/141700/about.de.html "Britisch-Guayana (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E102 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141700,163348" title="über: Britisch-Guayana : Passwesen" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141700,163348))
 
 

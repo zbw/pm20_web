@@ -1,14 +1,14 @@
 ---
-title: "c0 Sm2 Kartographie"
-etr: category/subject/c0 Sm2
-modified: 2020-12-18
+title: "c Sm2 Kartographie"
+etr: category/subject/c Sm2
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [c0 Sm2]{.gray}&#8201; Kartographie&#160; 
+# [c Sm2]{.gray}&#8201; Kartographie&#160; 
 
 
 
@@ -25,30 +25,30 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- [A9 Hamburg](../../../geo/about.de.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1442xx/144218/public.mets.de.xml" target="_blank">8 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,144218))
-- [A10 Deutschland](../../../geo/about.de.html#A10) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1261xx/126128/1442xx/144218/public.mets.de.xml" target="_blank">7 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/126128,144218))
-- [A11 Deutsche Kolonien](../../../geo/about.de.html#A11) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140960/1442xx/144218/public.mets.de.xml" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140960,144218))
-- [A12 Polen](../../../geo/about.de.html#A12) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140962/1442xx/144218/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140962,144218))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144218" title="über: Hamburg : Kartographie" target="_blank">8 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,144218))
+- A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,144218" title="über: Deutschland : Kartographie" target="_blank">7 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/126128,144218))
+- A11 Deutsche Kolonien [**&nearr;**](../../../geo/i/140960/about.de.html "Deutsche Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A11 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140960,144218" title="über: Deutsche Kolonien : Kartographie" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140960,144218))
+- A12 Polen [**&nearr;**](../../../geo/i/140962/about.de.html "Polen (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A12 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140962,144218" title="über: Polen : Kartographie" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140962,144218))
 
 ### Afrika
 
-- [C25 Französisch-Marokko](../../../geo/about.de.html#C25) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1413xx/141358/1442xx/144218/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141358,144218))
-- [C110 Deutsch-Ostafrika](../../../geo/about.de.html#C110) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141471/1442xx/144218/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141471,144218))
+- C25 Französisch-Marokko [**&nearr;**](../../../geo/i/141358/about.de.html "Französisch-Marokko (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C25 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141358,144218" title="über: Französisch-Marokko : Kartographie" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141358,144218))
+- C110 Deutsch-Ostafrika [**&nearr;**](../../../geo/i/141471/about.de.html "Deutsch-Ostafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C110 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141471,144218" title="über: Deutsch-Ostafrika : Kartographie" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141471,144218))
 
 ### Australien und Ozeanien
 
-- [D20 Niederländisch-Neuguinea](../../../geo/about.de.html#D20) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141619/1442xx/144218/public.mets.de.xml" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141619,144218))
+- D20 Niederländisch-Neuguinea [**&nearr;**](../../../geo/i/141619/about.de.html "Niederländisch-Neuguinea (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#D20 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141619,144218" title="über: Niederländisch-Neuguinea : Kartographie" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141619,144218))
 
 ### Amerika
 
-- [E86 Argentinien](../../../geo/about.de.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1442xx/144218/public.mets.de.xml" target="_blank">10 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,144218))
+- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144218" title="über: Argentinien : Kartographie" target="_blank">10 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,144218))
 
 ### Polargebiete
 
-- [F10 Arktis](../../../geo/about.de.html#F10) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1417xx/141702/1442xx/144218/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141702,144218))
+- F10 Arktis [**&nearr;**](../../../geo/i/141702/about.de.html "Arktis (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#F10 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141702,144218" title="über: Arktis : Kartographie" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141702,144218))
 
 ### Welt
 
-- [H Welt](../../../geo/about.de.html#H) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1417xx/141728/1442xx/144218/public.mets.de.xml" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141728,144218))
+- H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141728,144218" title="über: Welt : Kartographie" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141728,144218))
 
 

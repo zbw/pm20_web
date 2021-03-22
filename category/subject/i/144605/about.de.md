@@ -1,14 +1,14 @@
 ---
-title: "g0 Sm501 (B 111) Japanisches Hilfsheer und japanische Leistungen im Weltkrieg"
-etr: category/subject/g0 Sm501 (B 111)
-modified: 2020-12-18
+title: "g Sm501 (B111) Japanisches Hilfsheer und japanische Leistungen im Weltkrieg"
+etr: category/subject/g Sm501 (B111)
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [g0 Sm501 (B 111)]{.gray}&#8201; Japanisches Hilfsheer und japanische Leistungen im Weltkrieg&#160; 
+# [g Sm501 (B111)]{.gray}&#8201; Japanisches Hilfsheer und japanische Leistungen im Weltkrieg&#160; 
 
 
 
@@ -25,6 +25,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Asien
 
-- [B111 Japan](../../../geo/about.de.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1446xx/144605/public.mets.de.xml" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144605))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144605" title="über: Japan : Japanisches Hilfsheer und japanische Leistungen im Weltkrieg" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144605))
 
 

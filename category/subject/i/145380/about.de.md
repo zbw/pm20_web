@@ -1,7 +1,7 @@
 ---
 title: "n24 Sm17 Bankwesen, Konzentration im ..."
 etr: category/subject/n24 Sm17
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -25,16 +25,16 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- [A9 Hamburg](../../../geo/about.de.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1453xx/145380/public.mets.de.xml" target="_blank">5 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,145380))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145380" title="über: Hamburg : Bankwesen, Konzentration im ..." target="_blank">5 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,145380))
 
 ### Asien
 
-- [B20 Türkisch-Asien](../../../geo/about.de.html#B20) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141108/1453xx/145380/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141108,145380))
-- [B21 Türkei (1923 -)](../../../geo/about.de.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1453xx/145380/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,145380))
-- [B111 Japan](../../../geo/about.de.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1453xx/145380/public.mets.de.xml" target="_blank">52 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,145380))
+- B20 Türkisch-Asien [**&nearr;**](../../../geo/i/141108/about.de.html "Türkisch-Asien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B20 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141108,145380" title="über: Türkisch-Asien : Bankwesen, Konzentration im ..." target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141108,145380))
+- B21 Türkei (1923 -) [**&nearr;**](../../../geo/i/141111/about.de.html "Türkei (1923 -) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B21 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145380" title="über: Türkei (1923 -) : Bankwesen, Konzentration im ..." target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,145380))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145380" title="über: Japan : Bankwesen, Konzentration im ..." target="_blank">52 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,145380))
 
 ### Amerika
 
-- [E86 Argentinien](../../../geo/about.de.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1453xx/145380/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,145380))
+- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145380" title="über: Argentinien : Bankwesen, Konzentration im ..." target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,145380))
 
 

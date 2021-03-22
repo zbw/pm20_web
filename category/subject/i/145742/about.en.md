@@ -1,7 +1,7 @@
 ---
 title: "n37a Sm7 (alt) Air damage insurance"
 etr: category/subject/n37a Sm7 (alt)
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A5a Mediterranean region](../../../geo/about.en.html#A5a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1408xx/140899/1457xx/145742/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140899,145742))
+- A5a Mediterranean region [**&nearr;**](../../../geo/i/140899/about.en.html "Mediterranean region (all folders)") [**&uarr;**](../../../geo/about.en.html#A5a "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140899,145742" title="about: Mediterranean region : Air damage insurance" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140899,145742))
 
 
 _* The English category label is an unchecked automated translation of the German label._

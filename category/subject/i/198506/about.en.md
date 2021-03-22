@@ -1,7 +1,7 @@
 ---
 title: "n32 Sm1 Postwar fate of German merchant ships"
 etr: category/subject/n32 Sm1
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,15 +25,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Asia
 
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1985xx/198506/public.mets.en.xml" target="_blank">8 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,198506))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,198506" title="about: Japan : Postwar fate of German merchant ships" target="_blank">8 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,198506))
 
 ### Africa
 
-- [C110 German East Africa](../../../geo/about.en.html#C110) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141471/1985xx/198506/public.mets.en.xml" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141471,198506))
+- C110 German East Africa [**&nearr;**](../../../geo/i/141471/about.en.html "German East Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C110 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141471,198506" title="about: German East Africa : Postwar fate of German merchant ships" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141471,198506))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1985xx/198506/public.mets.en.xml" target="_blank">13 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,198506))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,198506" title="about: Argentina : Postwar fate of German merchant ships" target="_blank">13 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,198506))
 
 
 _* The English category label is an unchecked automated translation of the German label._

@@ -1,7 +1,7 @@
 ---
 title: "f4 Sm5 National emblem, medals and titles"
 etr: category/subject/f4 Sm5
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,16 +25,16 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1443xx/144362/public.mets.en.xml" target="_blank">34 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,144362))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144362" title="about: Hamburg : National emblem, medals and titles" target="_blank">34 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,144362))
 
 ### Asia
 
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1443xx/144362/public.mets.en.xml" target="_blank">9 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144362))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144362" title="about: Japan : National emblem, medals and titles" target="_blank">9 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144362))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1443xx/144362/public.mets.en.xml" target="_blank">30 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,144362))
-- [E95 Uruguay](../../../geo/about.en.html#E95) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141695/1443xx/144362/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141695,144362))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144362" title="about: Argentina : National emblem, medals and titles" target="_blank">30 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,144362))
+- E95 Uruguay [**&nearr;**](../../../geo/i/141695/about.en.html "Uruguay (all folders)") [**&uarr;**](../../../geo/about.en.html#E95 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141695,144362" title="about: Uruguay : National emblem, medals and titles" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141695,144362))
 
 
 _* The English category label is an unchecked automated translation of the German label._

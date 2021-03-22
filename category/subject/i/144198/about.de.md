@@ -1,14 +1,14 @@
 ---
-title: "b0 Sm1 (alt) Land und Leute, Artikelserien"
-etr: category/subject/b0 Sm1 (alt)
-modified: 2020-12-18
+title: "b Sm1 (alt) Land und Leute, Artikelserien"
+etr: category/subject/b Sm1 (alt)
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [b0 Sm1 (alt)]{.gray}&#8201; Land und Leute, Artikelserien&#160; 
+# [b Sm1 (alt)]{.gray}&#8201; Land und Leute, Artikelserien&#160; 
 
 
 
@@ -25,10 +25,10 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Asien
 
-- [B111 Japan](../../../geo/about.de.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1441xx/144198/public.mets.de.xml" target="_blank">36 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144198))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144198" title="über: Japan : Land und Leute, Artikelserien" target="_blank">36 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144198))
 
 ### Afrika
 
-- [C93 Britisch-Südafrika](../../../geo/about.de.html#C93) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141454/1441xx/144198/public.mets.de.xml" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141454,144198))
+- C93 Britisch-Südafrika [**&nearr;**](../../../geo/i/141454/about.de.html "Britisch-Südafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C93 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141454,144198" title="über: Britisch-Südafrika : Land und Leute, Artikelserien" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141454,144198))
 
 

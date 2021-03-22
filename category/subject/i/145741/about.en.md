@@ -1,7 +1,7 @@
 ---
 title: "n37a Sm7 War damage insurance"
 etr: category/subject/n37a Sm7
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,17 +25,17 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Asia
 
-- [B21 Turkey](../../../geo/about.en.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1457xx/145741/public.mets.en.xml" target="_blank">20 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145741))
-- [B102 Hong Kong](../../../geo/about.en.html#B102) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141268/1457xx/145741/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141268,145741))
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1457xx/145741/public.mets.en.xml" target="_blank">30 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145741))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145741" title="about: Turkey : War damage insurance" target="_blank">20 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145741))
+- B102 Hong Kong [**&nearr;**](../../../geo/i/141268/about.en.html "Hong Kong (all folders)") [**&uarr;**](../../../geo/about.en.html#B102 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141268,145741" title="about: Hong Kong : War damage insurance" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141268,145741))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145741" title="about: Japan : War damage insurance" target="_blank">30 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145741))
 
 ### Africa
 
-- [C25 French protectorate in Morocco](../../../geo/about.en.html#C25) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1413xx/141358/1457xx/145741/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141358,145741))
+- C25 French protectorate in Morocco [**&nearr;**](../../../geo/i/141358/about.en.html "French protectorate in Morocco (all folders)") [**&uarr;**](../../../geo/about.en.html#C25 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141358,145741" title="about: French protectorate in Morocco : War damage insurance" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141358,145741))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1457xx/145741/public.mets.en.xml" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145741))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145741" title="about: Argentina : War damage insurance" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145741))
 
 
 _* The English category label is an unchecked automated translation of the German label._

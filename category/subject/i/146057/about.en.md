@@ -1,7 +1,7 @@
 ---
 title: "q Sm502 (A43) Foyer turc movement (foyer turc)"
 etr: category/subject/q Sm502 (A43)
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Asia
 
-- [B21 Turkey](../../../geo/about.en.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1460xx/146057/public.mets.en.xml" target="_blank">16 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,146057))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,146057" title="about: Turkey : Foyer turc movement (foyer turc)" target="_blank">16 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,146057))
 
 
 _* The English category label is an unchecked automated translation of the German label._

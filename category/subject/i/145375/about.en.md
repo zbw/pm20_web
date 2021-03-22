@@ -1,7 +1,7 @@
 ---
 title: "n24 Sm13.II Borrowing of foreign countries, individual countries"
 etr: category/subject/n24 Sm13.II
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,8 +25,8 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A4 Western Europe](../../../geo/about.en.html#A4) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1408xx/140897/1453xx/145375/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140897,145375))
-- [A8 Russian peripheral countries](../../../geo/about.en.html#A8) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140904/1453xx/145375/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140904,145375))
+- A4 Western Europe [**&nearr;**](../../../geo/i/140897/about.en.html "Western Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A4 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140897,145375" title="about: Western Europe : Borrowing of foreign countries, individual countries" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140897,145375))
+- A8 Russian peripheral countries [**&nearr;**](../../../geo/i/140904/about.en.html "Russian peripheral countries (all folders)") [**&uarr;**](../../../geo/about.en.html#A8 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140904,145375" title="about: Russian peripheral countries : Borrowing of foreign countries, individual countries" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140904,145375))
 
 
 _* The English category label is an unchecked automated translation of the German label._

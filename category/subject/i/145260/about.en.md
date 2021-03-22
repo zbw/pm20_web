@@ -1,7 +1,7 @@
 ---
 title: "n17 Sm70 Construction and housing, capital procurement"
 etr: category/subject/n17 Sm70
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,15 +25,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1452xx/145260/public.mets.en.xml" target="_blank">92 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145260))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145260" title="about: Hamburg : Construction and housing, capital procurement" target="_blank">92 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145260))
 
 ### Asia
 
-- [B21 Turkey](../../../geo/about.en.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1452xx/145260/public.mets.en.xml" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145260))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145260" title="about: Turkey : Construction and housing, capital procurement" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145260))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1452xx/145260/public.mets.en.xml" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145260))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145260" title="about: Argentina : Construction and housing, capital procurement" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145260))
 
 
 _* The English category label is an unchecked automated translation of the German label._

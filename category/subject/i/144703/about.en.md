@@ -1,7 +1,7 @@
 ---
 title: "i2 Sm3 Family law"
 etr: category/subject/i2 Sm3
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,20 +25,20 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1447xx/144703/public.mets.en.xml" target="_blank">12 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,144703))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144703" title="about: Hamburg : Family law" target="_blank">12 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,144703))
 
 ### Asia
 
-- [B23 Iraq](../../../geo/about.en.html#B23) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141113/1447xx/144703/public.mets.en.xml" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141113,144703))
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1447xx/144703/public.mets.en.xml" target="_blank">9 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144703))
+- B23 Iraq [**&nearr;**](../../../geo/i/141113/about.en.html "Iraq (all folders)") [**&uarr;**](../../../geo/about.en.html#B23 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141113,144703" title="about: Iraq : Family law" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141113,144703))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144703" title="about: Japan : Family law" target="_blank">9 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144703))
 
 ### Africa
 
-- [C58 Togoland](../../../geo/about.en.html#C58) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141408/1447xx/144703/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141408,144703))
+- C58 Togoland [**&nearr;**](../../../geo/i/141408/about.en.html "Togoland (all folders)") [**&uarr;**](../../../geo/about.en.html#C58 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141408,144703" title="about: Togoland : Family law" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141408,144703))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1447xx/144703/public.mets.en.xml" target="_blank">32 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,144703))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144703" title="about: Argentina : Family law" target="_blank">32 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,144703))
 
 
 _* The English category label is an unchecked automated translation of the German label._

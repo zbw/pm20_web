@@ -1,7 +1,7 @@
 ---
 title: "n32 Sm21 Maritime shipping, mandatory insurance for passengers"
 etr: category/subject/n32 Sm21
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A10 Germany](../../../geo/about.en.html#A10) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1261xx/126128/1455xx/145594/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,145594))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,145594" title="about: Germany : Maritime shipping, mandatory insurance for passengers" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,145594))
 
 
 _* The English category label is an unchecked automated translation of the German label._

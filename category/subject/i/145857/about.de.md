@@ -1,14 +1,14 @@
 ---
-title: "n0 Sm53 Immaterieller Betriebswert"
-etr: category/subject/n0 Sm53
-modified: 2020-12-18
+title: "n Sm53 Immaterieller Betriebswert"
+etr: category/subject/n Sm53
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [n0 Sm53]{.gray}&#8201; Immaterieller Betriebswert&#160; 
+# [n Sm53]{.gray}&#8201; Immaterieller Betriebswert&#160; 
 
 
 
@@ -25,6 +25,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Amerika
 
-- [E86 Argentinien](../../../geo/about.de.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1458xx/145857/public.mets.de.xml" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,145857))
+- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145857" title="über: Argentinien : Immaterieller Betriebswert" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,145857))
 
 

@@ -1,14 +1,14 @@
 ---
-title: "l0 Sm5 Chemical and biological warfare (and countermeasures)"
-etr: category/subject/l0 Sm5
-modified: 2020-12-18
+title: "l Sm5 Chemical and biological warfare (and countermeasures)"
+etr: category/subject/l Sm5
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [l0 Sm5]{.gray}&#8201; Chemical and biological warfare (and countermeasures)&#160; 
+# [l Sm5]{.gray}&#8201; Chemical and biological warfare (and countermeasures)&#160; 
 
 
 
@@ -25,12 +25,12 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A1 Europe](../../../geo/about.en.html#A1) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1408xx/140892/1447xx/144794/public.mets.en.xml" target="_blank">0 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140892,144794))
+- A1 Europe [**&nearr;**](../../../geo/i/140892/about.en.html "Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A1 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,144794" title="about: Europe : Chemical and biological warfare (and countermeasures)" target="_blank">0 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140892,144794))
 
 ### Asia
 
-- [B21 Turkey](../../../geo/about.en.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1447xx/144794/public.mets.en.xml" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,144794))
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1447xx/144794/public.mets.en.xml" target="_blank">8 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144794))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,144794" title="about: Turkey : Chemical and biological warfare (and countermeasures)" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,144794))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144794" title="about: Japan : Chemical and biological warfare (and countermeasures)" target="_blank">8 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144794))
 
 
 _* The English category label is an unchecked automated translation of the German label._

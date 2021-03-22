@@ -1,7 +1,7 @@
 ---
 title: "n35 Sm2 Lufthafen"
 etr: category/subject/n35 Sm2
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -25,13 +25,13 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- [A9 Hamburg](../../../geo/about.de.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1614xx/161488/public.mets.de.xml" target="_blank">19 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,161488))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,161488" title="über: Hamburg : Lufthafen" target="_blank">19 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,161488))
 
 ### Asien
 
-- [B21 Türkei (1923 -)](../../../geo/about.de.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1614xx/161488/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,161488))
-- [B23 Irak](../../../geo/about.de.html#B23) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141113/1614xx/161488/public.mets.de.xml" target="_blank">6 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141113,161488))
-- [B24a Palästina (-1945)](../../../geo/about.de.html#B24a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141115/1614xx/161488/public.mets.de.xml" target="_blank">24 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141115,161488))
-- [B102 Hongkong](../../../geo/about.de.html#B102) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141268/1614xx/161488/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141268,161488))
+- B21 Türkei (1923 -) [**&nearr;**](../../../geo/i/141111/about.de.html "Türkei (1923 -) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B21 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,161488" title="über: Türkei (1923 -) : Lufthafen" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,161488))
+- B23 Irak [**&nearr;**](../../../geo/i/141113/about.de.html "Irak (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B23 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141113,161488" title="über: Irak : Lufthafen" target="_blank">6 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141113,161488))
+- B24a Palästina (-1945) [**&nearr;**](../../../geo/i/141115/about.de.html "Palästina (-1945) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B24a "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,161488" title="über: Palästina (-1945) : Lufthafen" target="_blank">24 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141115,161488))
+- B102 Hongkong [**&nearr;**](../../../geo/i/141268/about.de.html "Hongkong (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B102 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141268,161488" title="über: Hongkong : Lufthafen" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141268,161488))
 
 

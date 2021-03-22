@@ -1,7 +1,7 @@
 ---
 title: "f4 Sm1.I Suffrage, general"
 etr: category/subject/f4 Sm1.I
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,16 +25,16 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1443xx/144356/public.mets.en.xml" target="_blank">37 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,144356))
-- [A39 Liechtenstein](../../../geo/about.en.html#A39) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1410xx/141016/1443xx/144356/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141016,144356))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144356" title="about: Hamburg : Suffrage, general" target="_blank">37 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,144356))
+- A39 Liechtenstein [**&nearr;**](../../../geo/i/141016/about.en.html "Liechtenstein (all folders)") [**&uarr;**](../../../geo/about.en.html#A39 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141016,144356" title="about: Liechtenstein : Suffrage, general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141016,144356))
 
 ### Asia
 
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1443xx/144356/public.mets.en.xml" target="_blank">70 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144356))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144356" title="about: Japan : Suffrage, general" target="_blank">70 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144356))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1443xx/144356/public.mets.en.xml" target="_blank">47 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,144356))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144356" title="about: Argentina : Suffrage, general" target="_blank">47 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,144356))
 
 
 _* The English category label is an unchecked automated translation of the German label._

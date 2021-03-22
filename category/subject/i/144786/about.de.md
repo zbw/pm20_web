@@ -1,14 +1,14 @@
 ---
-title: "l0 Sm2 Mannschaftsverluste im Weltkriege, Grabstätten"
-etr: category/subject/l0 Sm2
-modified: 2020-12-18
+title: "l Sm2 Mannschaftsverluste im Weltkriege, Grabstätten"
+etr: category/subject/l Sm2
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [l0 Sm2]{.gray}&#8201; Mannschaftsverluste im Weltkriege, Grabstätten&#160; 
+# [l Sm2]{.gray}&#8201; Mannschaftsverluste im Weltkriege, Grabstätten&#160; 
 
 
 
@@ -25,17 +25,17 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- [A4 Westeuropa](../../../geo/about.de.html#A4) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1408xx/140897/1447xx/144786/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140897,144786))
-- [A9 Hamburg](../../../geo/about.de.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1447xx/144786/public.mets.de.xml" target="_blank">38 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,144786))
-- [A11 Deutsche Kolonien](../../../geo/about.de.html#A11) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140960/1447xx/144786/public.mets.de.xml" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140960,144786))
+- A4 Westeuropa [**&nearr;**](../../../geo/i/140897/about.de.html "Westeuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A4 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140897,144786" title="über: Westeuropa : Mannschaftsverluste im Weltkriege, Grabstätten" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140897,144786))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144786" title="über: Hamburg : Mannschaftsverluste im Weltkriege, Grabstätten" target="_blank">38 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,144786))
+- A11 Deutsche Kolonien [**&nearr;**](../../../geo/i/140960/about.de.html "Deutsche Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A11 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140960,144786" title="über: Deutsche Kolonien : Mannschaftsverluste im Weltkriege, Grabstätten" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140960,144786))
 
 ### Asien
 
-- [B111 Japan](../../../geo/about.de.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1447xx/144786/public.mets.de.xml" target="_blank">9 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144786))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144786" title="über: Japan : Mannschaftsverluste im Weltkriege, Grabstätten" target="_blank">9 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144786))
 
 ### Afrika
 
-- [C57 Goldküste, einschl. Togo (brit.)](../../../geo/about.de.html#C57) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141406/1447xx/144786/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141406,144786))
-- [C87 Deutsch-Südwestafrika](../../../geo/about.de.html#C87) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141450/1447xx/144786/public.mets.de.xml" target="_blank">8 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141450,144786))
+- C57 Goldküste, einschl. Togo (brit.) [**&nearr;**](../../../geo/i/141406/about.de.html "Goldküste, einschl. Togo (brit.) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C57 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141406,144786" title="über: Goldküste, einschl. Togo (brit.) : Mannschaftsverluste im Weltkriege, Grabstätten" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141406,144786))
+- C87 Deutsch-Südwestafrika [**&nearr;**](../../../geo/i/141450/about.de.html "Deutsch-Südwestafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C87 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141450,144786" title="über: Deutsch-Südwestafrika : Mannschaftsverluste im Weltkriege, Grabstätten" target="_blank">8 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141450,144786))
 
 

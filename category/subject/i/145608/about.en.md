@@ -1,7 +1,7 @@
 ---
 title: "n32 Sm31.III Maritime law of war, prizes, prize judgments"
 etr: category/subject/n32 Sm31.III
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,17 +25,17 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1456xx/145608/public.mets.en.xml" target="_blank">99 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145608))
-- [A10 Germany](../../../geo/about.en.html#A10) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1261xx/126128/1456xx/145608/public.mets.en.xml" target="_blank">104 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,145608))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145608" title="about: Hamburg : Maritime law of war, prizes, prize judgments" target="_blank">99 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145608))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,145608" title="about: Germany : Maritime law of war, prizes, prize judgments" target="_blank">104 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,145608))
 
 ### Asia
 
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1456xx/145608/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145608))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145608" title="about: Japan : Maritime law of war, prizes, prize judgments" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145608))
 
 ### Africa
 
-- [C55 Sierra Leone](../../../geo/about.en.html#C55) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141404/1456xx/145608/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141404,145608))
-- [C110 German East Africa](../../../geo/about.en.html#C110) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141471/1456xx/145608/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141471,145608))
+- C55 Sierra Leone [**&nearr;**](../../../geo/i/141404/about.en.html "Sierra Leone (all folders)") [**&uarr;**](../../../geo/about.en.html#C55 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141404,145608" title="about: Sierra Leone : Maritime law of war, prizes, prize judgments" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141404,145608))
+- C110 German East Africa [**&nearr;**](../../../geo/i/141471/about.en.html "German East Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C110 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141471,145608" title="about: German East Africa : Maritime law of war, prizes, prize judgments" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141471,145608))
 
 
 _* The English category label is an unchecked automated translation of the German label._

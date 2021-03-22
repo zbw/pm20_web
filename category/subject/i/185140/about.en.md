@@ -1,14 +1,14 @@
 ---
-title: "d0 Sm50 Population and population policy, institutions"
-etr: category/subject/d0 Sm50
-modified: 2020-12-18
+title: "d Sm50 Population and population policy, institutions"
+etr: category/subject/d Sm50
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [d0 Sm50]{.gray}&#8201; Population and population policy, institutions&#160; 
+# [d Sm50]{.gray}&#8201; Population and population policy, institutions&#160; 
 
 
 
@@ -22,7 +22,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- [A10 Germany](../../../geo/about.en.html#A10) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1261xx/126128/1851xx/185140/public.mets.en.xml" target="_blank">17 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,185140))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,185140" title="about: Germany : Population and population policy, institutions" target="_blank">17 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,185140))
 
 
 _* The English category label is an unchecked automated translation of the German label._

@@ -1,7 +1,7 @@
 ---
 title: "k2 Sm40 School system, professions and training"
 etr: category/subject/k2 Sm40
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,17 +25,17 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1819xx/181981/public.mets.en.xml" target="_blank">114 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,181981))
-- [A11 German imperial colonies](../../../geo/about.en.html#A11) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140960/1819xx/181981/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140960,181981))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,181981" title="about: Hamburg : School system, professions and training" target="_blank">114 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,181981))
+- A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140960,181981" title="about: German imperial colonies : School system, professions and training" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140960,181981))
 
 ### Asia
 
-- [B21 Turkey](../../../geo/about.en.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1819xx/181981/public.mets.en.xml" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,181981))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,181981" title="about: Turkey : School system, professions and training" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,181981))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1819xx/181981/public.mets.en.xml" target="_blank">61 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,181981))
-- [E101 Surinam](../../../geo/about.en.html#E101) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141699/1819xx/181981/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141699,181981))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,181981" title="about: Argentina : School system, professions and training" target="_blank">61 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,181981))
+- E101 Surinam [**&nearr;**](../../../geo/i/141699/about.en.html "Surinam (all folders)") [**&uarr;**](../../../geo/about.en.html#E101 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141699,181981" title="about: Surinam : School system, professions and training" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141699,181981))
 
 
 _* The English category label is an unchecked automated translation of the German label._

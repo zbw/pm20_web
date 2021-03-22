@@ -1,7 +1,7 @@
 ---
 title: "A32 Portugal"
 etr: category/geo/A32
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -25,6 +25,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Verwaltung
 
-  - [h0 Sm50 Verwaltung, Institutionen](../../../subject/about.de.html#h0_Sm50) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140987/2057xx/205740/public.mets.de.xml" target="_blank">31 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140987,205740))
+- [h Verwaltung, Allgemein]{.gray}
+  - h Sm50 Verwaltung, Institutionen [**&nearr;**](../../../subject/i/205740/about.de.html "Verwaltung, Institutionen (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#h_Sm50 "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140987,205740" title="über: Portugal : Verwaltung, Institutionen" target="_blank">31 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140987,205740))
 
 

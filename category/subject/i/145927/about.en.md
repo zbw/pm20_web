@@ -1,7 +1,7 @@
 ---
 title: "p4 Sm2 Emigration via individual ports"
 etr: category/subject/p4 Sm2
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,12 +25,12 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1459xx/145927/public.mets.en.xml" target="_blank">0 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145927))
-- [A10 Germany](../../../geo/about.en.html#A10) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1261xx/126128/1459xx/145927/public.mets.en.xml" target="_blank">41 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,145927))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145927" title="about: Hamburg : Emigration via individual ports" target="_blank">0 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145927))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,145927" title="about: Germany : Emigration via individual ports" target="_blank">41 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,145927))
 
 ### Africa
 
-- [C25 French protectorate in Morocco](../../../geo/about.en.html#C25) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1413xx/141358/1459xx/145927/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141358,145927))
+- C25 French protectorate in Morocco [**&nearr;**](../../../geo/i/141358/about.en.html "French protectorate in Morocco (all folders)") [**&uarr;**](../../../geo/about.en.html#C25 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141358,145927" title="about: French protectorate in Morocco : Emigration via individual ports" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141358,145927))
 
 
 _* The English category label is an unchecked automated translation of the German label._

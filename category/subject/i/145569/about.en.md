@@ -1,7 +1,7 @@
 ---
 title: "n32 Sm2 Ship sales and purchases"
 etr: category/subject/n32 Sm2
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,18 +25,18 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1455xx/145569/public.mets.en.xml" target="_blank">0 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145569))
-- [A10 Germany](../../../geo/about.en.html#A10) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1261xx/126128/1455xx/145569/public.mets.en.xml" target="_blank">87 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,145569))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145569" title="about: Hamburg : Ship sales and purchases" target="_blank">0 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145569))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,145569" title="about: Germany : Ship sales and purchases" target="_blank">87 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,145569))
 
 ### Asia
 
-- [B21 Turkey](../../../geo/about.en.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1455xx/145569/public.mets.en.xml" target="_blank">52 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145569))
-- [B24a Palestine](../../../geo/about.en.html#B24a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141115/1455xx/145569/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,145569))
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1455xx/145569/public.mets.en.xml" target="_blank">86 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145569))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145569" title="about: Turkey : Ship sales and purchases" target="_blank">52 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145569))
+- B24a Palestine [**&nearr;**](../../../geo/i/141115/about.en.html "Palestine (all folders)") [**&uarr;**](../../../geo/about.en.html#B24a "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,145569" title="about: Palestine : Ship sales and purchases" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,145569))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145569" title="about: Japan : Ship sales and purchases" target="_blank">86 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145569))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1455xx/145569/public.mets.en.xml" target="_blank">37 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145569))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145569" title="about: Argentina : Ship sales and purchases" target="_blank">37 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145569))
 
 
 _* The English category label is an unchecked automated translation of the German label._

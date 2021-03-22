@@ -1,14 +1,14 @@
 ---
-title: "g0 Sm12.I (alt) Politische und kulturelle Propaganda, Allgemein"
-etr: category/subject/g0 Sm12.I (alt)
-modified: 2020-12-18
+title: "g Sm12.I (alt) Politische und kulturelle Propaganda, Allgemein"
+etr: category/subject/g Sm12.I (alt)
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [g0 Sm12.I (alt)]{.gray}&#8201; Politische und kulturelle Propaganda, Allgemein&#160; 
+# [g Sm12.I (alt)]{.gray}&#8201; Politische und kulturelle Propaganda, Allgemein&#160; 
 
 
 
@@ -25,6 +25,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- [A1 Europa](../../../geo/about.de.html#A1) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1408xx/140892/1445xx/144582/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140892,144582))
+- A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,144582" title="über: Europa : Politische und kulturelle Propaganda, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140892,144582))
 
 

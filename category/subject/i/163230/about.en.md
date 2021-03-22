@@ -1,14 +1,14 @@
 ---
-title: "n0 Sm19 Revaluation"
-etr: category/subject/n0 Sm19
-modified: 2020-12-18
+title: "n Sm19 Revaluation"
+etr: category/subject/n Sm19
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [n0 Sm19]{.gray}&#8201; Revaluation&#160; 
+# [n Sm19]{.gray}&#8201; Revaluation&#160; 
 
 
 
@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1632xx/163230/public.mets.en.xml" target="_blank">6 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,163230))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,163230" title="about: Hamburg : Revaluation" target="_blank">6 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,163230))
 
 
 _* The English category label is an unchecked automated translation of the German label._

@@ -1,7 +1,7 @@
 ---
 title: "B98 Tannu-Tuwa"
 etr: category/geo/B98
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -26,10 +26,10 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Land und Leute, Politik und Wirtschaft
 
-- [b Land und Leute, Politik und Wirtschaft, Allgemein](../../../subject/about.de.html#b) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141260/1441xx/144196/public.mets.de.xml" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141260,144196))
+- b Land und Leute, Politik und Wirtschaft, Allgemein [**&nearr;**](../../../subject/i/144196/about.de.html "Land und Leute, Politik und Wirtschaft, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#b "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141260,144196" title="über: Tannu-Tuwa : Land und Leute, Politik und Wirtschaft, Allgemein" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141260,144196))
 
 ### Wirtschaft
 
-- [n Wirtschaft, Allgemein](../../../subject/about.de.html#n) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141260/1449xx/144930/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141260,144930))
+- n Wirtschaft, Allgemein [**&nearr;**](../../../subject/i/144930/about.de.html "Wirtschaft, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141260,144930" title="über: Tannu-Tuwa : Wirtschaft, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141260,144930))
 
 

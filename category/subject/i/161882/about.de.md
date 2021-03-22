@@ -1,7 +1,7 @@
 ---
 title: "n13 Sm4 Industrielle Verwertung von Naturkräften"
 etr: category/subject/n13 Sm4
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -25,10 +25,10 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Afrika
 
-- [C110 Deutsch-Ostafrika](../../../geo/about.de.html#C110) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141471/1618xx/161882/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141471,161882))
+- C110 Deutsch-Ostafrika [**&nearr;**](../../../geo/i/141471/about.de.html "Deutsch-Ostafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C110 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141471,161882" title="über: Deutsch-Ostafrika : Industrielle Verwertung von Naturkräften" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141471,161882))
 
 ### Australien und Ozeanien
 
-- [D5 Hawaii](../../../geo/about.de.html#D5) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1415xx/141595/1618xx/161882/public.mets.de.xml" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141595,161882))
+- D5 Hawaii [**&nearr;**](../../../geo/i/141595/about.de.html "Hawaii (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#D5 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141595,161882" title="über: Hawaii : Industrielle Verwertung von Naturkräften" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141595,161882))
 
 

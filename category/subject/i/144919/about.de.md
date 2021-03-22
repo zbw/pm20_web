@@ -1,14 +1,14 @@
 ---
-title: "m0 Sm9.II Finanzwesen der Bundesstaaten und Provinzen, Anleihen"
-etr: category/subject/m0 Sm9.II
-modified: 2020-12-18
+title: "m Sm9.II Finanzwesen der Bundesstaaten und Provinzen, Anleihen"
+etr: category/subject/m Sm9.II
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [m0 Sm9.II]{.gray}&#8201; Finanzwesen der Bundesstaaten und Provinzen, Anleihen&#160; 
+# [m Sm9.II]{.gray}&#8201; Finanzwesen der Bundesstaaten und Provinzen, Anleihen&#160; 
 
 
 
@@ -25,10 +25,10 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Asien
 
-- [B111 Japan](../../../geo/about.de.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1449xx/144919/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144919))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144919" title="über: Japan : Finanzwesen der Bundesstaaten und Provinzen, Anleihen" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144919))
 
 ### Amerika
 
-- [E86 Argentinien](../../../geo/about.de.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1449xx/144919/public.mets.de.xml" target="_blank">9 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,144919))
+- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144919" title="über: Argentinien : Finanzwesen der Bundesstaaten und Provinzen, Anleihen" target="_blank">9 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,144919))
 
 

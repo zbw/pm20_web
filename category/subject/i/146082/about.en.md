@@ -1,7 +1,7 @@
 ---
 title: "q Sm504 (A9) Cooperation between the Hanseatic cities"
 etr: category/subject/q Sm504 (A9)
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -22,7 +22,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1460xx/146082/public.mets.en.xml" target="_blank">155 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,146082))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,146082" title="about: Hamburg : Cooperation between the Hanseatic cities" target="_blank">155 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,146082))
 
 
 _* The English category label is an unchecked automated translation of the German label._

@@ -1,14 +1,14 @@
 ---
-title: "n0 Sm8.III Standardization of floor products"
-etr: category/subject/n0 Sm8.III
-modified: 2020-12-18
+title: "n Sm8.III Standardization of floor products"
+etr: category/subject/n Sm8.III
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [n0 Sm8.III]{.gray}&#8201; Standardization of floor products&#160; 
+# [n Sm8.III]{.gray}&#8201; Standardization of floor products&#160; 
 
 
 
@@ -25,17 +25,17 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1457xx/145792/public.mets.en.xml" target="_blank">0 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145792))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145792" title="about: Hamburg : Standardization of floor products" target="_blank">0 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145792))
 
 ### Asia
 
-- [B21 Turkey](../../../geo/about.en.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1457xx/145792/public.mets.en.xml" target="_blank">11 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145792))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145792" title="about: Turkey : Standardization of floor products" target="_blank">11 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145792))
 
 ### Africa
 
-- [C65 Cameroon](../../../geo/about.en.html#C65) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141410/1457xx/145792/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141410,145792))
-- [C87 German South-West Africa](../../../geo/about.en.html#C87) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141450/1457xx/145792/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141450,145792))
-- [C110 German East Africa](../../../geo/about.en.html#C110) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141471/1457xx/145792/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141471,145792))
+- C65 Cameroon [**&nearr;**](../../../geo/i/141410/about.en.html "Cameroon (all folders)") [**&uarr;**](../../../geo/about.en.html#C65 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141410,145792" title="about: Cameroon : Standardization of floor products" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141410,145792))
+- C87 German South-West Africa [**&nearr;**](../../../geo/i/141450/about.en.html "German South-West Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C87 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141450,145792" title="about: German South-West Africa : Standardization of floor products" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141450,145792))
+- C110 German East Africa [**&nearr;**](../../../geo/i/141471/about.en.html "German East Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C110 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141471,145792" title="about: German East Africa : Standardization of floor products" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141471,145792))
 
 
 _* The English category label is an unchecked automated translation of the German label._

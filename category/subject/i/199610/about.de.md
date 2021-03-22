@@ -1,7 +1,7 @@
 ---
 title: "n37a Sm2.IId Arbeitslosenversicherung"
 etr: category/subject/n37a Sm2.IId
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -22,7 +22,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 
 
-- [A9 Hamburg](../../../geo/about.de.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1996xx/199610/public.mets.de.xml" target="_blank">8 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,199610))
-- [A39 Liechtenstein](../../../geo/about.de.html#A39) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1410xx/141016/1996xx/199610/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141016,199610))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,199610" title="über: Hamburg : Arbeitslosenversicherung" target="_blank">8 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,199610))
+- A39 Liechtenstein [**&nearr;**](../../../geo/i/141016/about.de.html "Liechtenstein (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A39 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141016,199610" title="über: Liechtenstein : Arbeitslosenversicherung" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141016,199610))
 
 

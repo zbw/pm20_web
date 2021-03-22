@@ -1,7 +1,7 @@
 ---
 title: "n32 Sm31.II Maritime law of war, counter-gang"
 etr: category/subject/n32 Sm31.II
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,13 +25,13 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A4 Western Europe](../../../geo/about.en.html#A4) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1408xx/140897/1456xx/145607/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140897,145607))
-- [A10 Germany](../../../geo/about.en.html#A10) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1261xx/126128/1456xx/145607/public.mets.en.xml" target="_blank">26 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,145607))
+- A4 Western Europe [**&nearr;**](../../../geo/i/140897/about.en.html "Western Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A4 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140897,145607" title="about: Western Europe : Maritime law of war, counter-gang" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140897,145607))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,145607" title="about: Germany : Maritime law of war, counter-gang" target="_blank">26 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,145607))
 
 ### Asia
 
-- [B102 Hong Kong](../../../geo/about.en.html#B102) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141268/1456xx/145607/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141268,145607))
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1456xx/145607/public.mets.en.xml" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145607))
+- B102 Hong Kong [**&nearr;**](../../../geo/i/141268/about.en.html "Hong Kong (all folders)") [**&uarr;**](../../../geo/about.en.html#B102 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141268,145607" title="about: Hong Kong : Maritime law of war, counter-gang" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141268,145607))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145607" title="about: Japan : Maritime law of war, counter-gang" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145607))
 
 
 _* The English category label is an unchecked automated translation of the German label._

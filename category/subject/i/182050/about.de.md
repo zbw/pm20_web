@@ -1,14 +1,14 @@
 ---
-title: "n0 Sm50 Wirtschaft, Institutionen"
-etr: category/subject/n0 Sm50
-modified: 2020-12-18
+title: "n Sm50 Wirtschaft, Institutionen"
+etr: category/subject/n Sm50
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [n0 Sm50]{.gray}&#8201; Wirtschaft, Institutionen&#160; 
+# [n Sm50]{.gray}&#8201; Wirtschaft, Institutionen&#160; 
 
 
 
@@ -25,23 +25,23 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- [A9 Hamburg](../../../geo/about.de.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1820xx/182050/public.mets.de.xml" target="_blank">19 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,182050))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,182050" title="über: Hamburg : Wirtschaft, Institutionen" target="_blank">19 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,182050))
 
 ### Asien
 
-- [B21 Türkei (1923 -)](../../../geo/about.de.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1820xx/182050/public.mets.de.xml" target="_blank">14 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,182050))
-- [B23 Irak](../../../geo/about.de.html#B23) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141113/1820xx/182050/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141113,182050))
-- [B24 Syrien](../../../geo/about.de.html#B24) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141114/1820xx/182050/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141114,182050))
-- [B24a Palästina (-1945)](../../../geo/about.de.html#B24a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141115/1820xx/182050/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141115,182050))
-- [B111 Japan](../../../geo/about.de.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1820xx/182050/public.mets.de.xml" target="_blank">30 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,182050))
-- [B112 Japanische Kolonien](../../../geo/about.de.html#B112) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141273/1820xx/182050/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141273,182050))
+- B21 Türkei (1923 -) [**&nearr;**](../../../geo/i/141111/about.de.html "Türkei (1923 -) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B21 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,182050" title="über: Türkei (1923 -) : Wirtschaft, Institutionen" target="_blank">14 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,182050))
+- B23 Irak [**&nearr;**](../../../geo/i/141113/about.de.html "Irak (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B23 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141113,182050" title="über: Irak : Wirtschaft, Institutionen" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141113,182050))
+- B24 Syrien [**&nearr;**](../../../geo/i/141114/about.de.html "Syrien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B24 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141114,182050" title="über: Syrien : Wirtschaft, Institutionen" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141114,182050))
+- B24a Palästina (-1945) [**&nearr;**](../../../geo/i/141115/about.de.html "Palästina (-1945) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B24a "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,182050" title="über: Palästina (-1945) : Wirtschaft, Institutionen" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141115,182050))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,182050" title="über: Japan : Wirtschaft, Institutionen" target="_blank">30 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,182050))
+- B112 Japanische Kolonien [**&nearr;**](../../../geo/i/141273/about.de.html "Japanische Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B112 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141273,182050" title="über: Japanische Kolonien : Wirtschaft, Institutionen" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141273,182050))
 
 ### Afrika
 
-- [C25 Französisch-Marokko](../../../geo/about.de.html#C25) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1413xx/141358/1820xx/182050/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141358,182050))
+- C25 Französisch-Marokko [**&nearr;**](../../../geo/i/141358/about.de.html "Französisch-Marokko (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C25 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141358,182050" title="über: Französisch-Marokko : Wirtschaft, Institutionen" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141358,182050))
 
 ### Amerika
 
-- [E86 Argentinien](../../../geo/about.de.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1820xx/182050/public.mets.de.xml" target="_blank">7 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,182050))
+- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,182050" title="über: Argentinien : Wirtschaft, Institutionen" target="_blank">7 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,182050))
 
 

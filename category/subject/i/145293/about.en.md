@@ -1,7 +1,7 @@
 ---
 title: "n20 Sm3 Large retail businesses"
 etr: category/subject/n20 Sm3
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,16 +25,16 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Asia
 
-- [B21 Turkey](../../../geo/about.en.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1452xx/145293/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145293))
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1452xx/145293/public.mets.en.xml" target="_blank">54 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145293))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145293" title="about: Turkey : Large retail businesses" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145293))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145293" title="about: Japan : Large retail businesses" target="_blank">54 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145293))
 
 ### Australia and Oceania
 
-- [D5 Hawaii](../../../geo/about.en.html#D5) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1415xx/141595/1452xx/145293/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141595,145293))
+- D5 Hawaii [**&nearr;**](../../../geo/i/141595/about.en.html "Hawaii (all folders)") [**&uarr;**](../../../geo/about.en.html#D5 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141595,145293" title="about: Hawaii : Large retail businesses" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141595,145293))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1452xx/145293/public.mets.en.xml" target="_blank">6 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145293))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145293" title="about: Argentina : Large retail businesses" target="_blank">6 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145293))
 
 
 _* The English category label is an unchecked automated translation of the German label._

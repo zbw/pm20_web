@@ -1,7 +1,7 @@
 ---
 title: "m5a Sm4 Einzelne inländische Anleihen (Kommunales Finanzwesen) einz. Städte"
 etr: category/subject/m5a Sm4
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -25,10 +25,10 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Asien
 
-- [B111 Japan](../../../geo/about.de.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1449xx/144904/public.mets.de.xml" target="_blank">7 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144904))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144904" title="über: Japan : Einzelne inländische Anleihen (Kommunales Finanzwesen) einz. Städte" target="_blank">7 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144904))
 
 ### Amerika
 
-- [E86 Argentinien](../../../geo/about.de.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1449xx/144904/public.mets.de.xml" target="_blank">45 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,144904))
+- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144904" title="über: Argentinien : Einzelne inländische Anleihen (Kommunales Finanzwesen) einz. Städte" target="_blank">45 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,144904))
 
 

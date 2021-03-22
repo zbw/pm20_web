@@ -1,7 +1,7 @@
 ---
 title: "l3 Sm1 Militärische Stützpunkte im Ausland (Projekte)"
 etr: category/subject/l3 Sm1
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -25,7 +25,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Asien
 
-- [B111 Japan](../../../geo/about.de.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1447xx/144774/public.mets.de.xml" target="_blank">19 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144774))
-- [B114 Kwangtung](../../../geo/about.de.html#B114) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141275/1447xx/144774/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141275,144774))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144774" title="über: Japan : Militärische Stützpunkte im Ausland (Projekte)" target="_blank">19 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144774))
+- B114 Kwangtung [**&nearr;**](../../../geo/i/141275/about.de.html "Kwangtung (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B114 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141275,144774" title="über: Kwangtung : Militärische Stützpunkte im Ausland (Projekte)" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141275,144774))
 
 

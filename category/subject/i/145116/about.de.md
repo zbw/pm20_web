@@ -1,7 +1,7 @@
 ---
 title: "n13a Einzelne Industriezweige"
 etr: category/subject/n13a
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -25,6 +25,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Afrika
 
-- [C87 Deutsch-Südwestafrika](../../../geo/about.de.html#C87) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141450/1451xx/145116/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141450,145116))
+- C87 Deutsch-Südwestafrika [**&nearr;**](../../../geo/i/141450/about.de.html "Deutsch-Südwestafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C87 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141450,145116" title="über: Deutsch-Südwestafrika : Einzelne Industriezweige" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141450,145116))
 
 

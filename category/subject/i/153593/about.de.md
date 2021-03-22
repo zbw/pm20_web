@@ -1,14 +1,14 @@
 ---
-title: "g0 Sm20 Außenpolitik, Konferenzen"
-etr: category/subject/g0 Sm20
-modified: 2020-12-18
+title: "g Sm20 Außenpolitik, Konferenzen"
+etr: category/subject/g Sm20
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [g0 Sm20]{.gray}&#8201; Außenpolitik, Konferenzen&#160; 
+# [g Sm20]{.gray}&#8201; Außenpolitik, Konferenzen&#160; 
 
 
 
@@ -25,11 +25,11 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- [A1 Europa](../../../geo/about.de.html#A1) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1408xx/140892/1535xx/153593/public.mets.de.xml" target="_blank">16 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140892,153593))
-- [A6 Südosteuropa](../../../geo/about.de.html#A6) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140900/1535xx/153593/public.mets.de.xml" target="_blank">219 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140900,153593))
+- A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,153593" title="über: Europa : Außenpolitik, Konferenzen" target="_blank">16 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140892,153593))
+- A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,153593" title="über: Südosteuropa : Außenpolitik, Konferenzen" target="_blank">219 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140900,153593))
 
 ### Asien
 
-- [B111 Japan](../../../geo/about.de.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1535xx/153593/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,153593))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,153593" title="über: Japan : Außenpolitik, Konferenzen" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,153593))
 
 

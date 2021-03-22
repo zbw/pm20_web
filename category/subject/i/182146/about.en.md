@@ -1,7 +1,7 @@
 ---
 title: "n32 Sm50 Maritime shipping, institutions"
 etr: category/subject/n32 Sm50
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,12 +25,12 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1821xx/182146/public.mets.en.xml" target="_blank">21 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,182146))
-- [A10 Germany](../../../geo/about.en.html#A10) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1261xx/126128/1821xx/182146/public.mets.en.xml" target="_blank">33 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,182146))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,182146" title="about: Hamburg : Maritime shipping, institutions" target="_blank">21 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,182146))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,182146" title="about: Germany : Maritime shipping, institutions" target="_blank">33 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,182146))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1821xx/182146/public.mets.en.xml" target="_blank">6 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,182146))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,182146" title="about: Argentina : Maritime shipping, institutions" target="_blank">6 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,182146))
 
 
 _* The English category label is an unchecked automated translation of the German label._

@@ -1,7 +1,7 @@
 ---
 title: "g4 Sm502 (A1) Interessengemeinschaft der nordeuropäischen Staaten"
 etr: category/subject/g4 Sm502 (A1)
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -22,6 +22,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 
 
-- [A1 Europa](../../../geo/about.de.html#A1) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1408xx/140892/1445xx/144504/public.mets.de.xml" target="_blank">210 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140892,144504))
+- A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,144504" title="über: Europa : Interessengemeinschaft der nordeuropäischen Staaten" target="_blank">210 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140892,144504))
 
 

@@ -1,7 +1,7 @@
 ---
 title: "n18 Sm12 Business register, general"
 etr: category/subject/n18 Sm12
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,27 +25,27 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A6 Southeastern Europe](../../../geo/about.en.html#A6) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140900/1452xx/145274/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140900,145274))
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1452xx/145274/public.mets.en.xml" target="_blank">8 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145274))
+- A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,145274" title="about: Southeastern Europe : Business register, general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140900,145274))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145274" title="about: Hamburg : Business register, general" target="_blank">8 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145274))
 
 ### Asia
 
-- [B21 Turkey](../../../geo/about.en.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1452xx/145274/public.mets.en.xml" target="_blank">7 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145274))
-- [B24 Syria](../../../geo/about.en.html#B24) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141114/1452xx/145274/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141114,145274))
-- [B24a Palestine](../../../geo/about.en.html#B24a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141115/1452xx/145274/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,145274))
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1452xx/145274/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145274))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145274" title="about: Turkey : Business register, general" target="_blank">7 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145274))
+- B24 Syria [**&nearr;**](../../../geo/i/141114/about.en.html "Syria (all folders)") [**&uarr;**](../../../geo/about.en.html#B24 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141114,145274" title="about: Syria : Business register, general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141114,145274))
+- B24a Palestine [**&nearr;**](../../../geo/i/141115/about.en.html "Palestine (all folders)") [**&uarr;**](../../../geo/about.en.html#B24a "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,145274" title="about: Palestine : Business register, general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,145274))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145274" title="about: Japan : Business register, general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145274))
 
 ### Africa
 
-- [C25 French protectorate in Morocco](../../../geo/about.en.html#C25) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1413xx/141358/1452xx/145274/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141358,145274))
-- [C26 Spanish protectorate in Morocco](../../../geo/about.en.html#C26) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1413xx/141359/1452xx/145274/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141359,145274))
-- [C65 Cameroon](../../../geo/about.en.html#C65) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141410/1452xx/145274/public.mets.en.xml" target="_blank">5 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141410,145274))
-- [C110 German East Africa](../../../geo/about.en.html#C110) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141471/1452xx/145274/public.mets.en.xml" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141471,145274))
-- [C125 Abyssinia](../../../geo/about.en.html#C125) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141482/1452xx/145274/public.mets.en.xml" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141482,145274))
+- C25 French protectorate in Morocco [**&nearr;**](../../../geo/i/141358/about.en.html "French protectorate in Morocco (all folders)") [**&uarr;**](../../../geo/about.en.html#C25 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141358,145274" title="about: French protectorate in Morocco : Business register, general" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141358,145274))
+- C26 Spanish protectorate in Morocco [**&nearr;**](../../../geo/i/141359/about.en.html "Spanish protectorate in Morocco (all folders)") [**&uarr;**](../../../geo/about.en.html#C26 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141359,145274" title="about: Spanish protectorate in Morocco : Business register, general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141359,145274))
+- C65 Cameroon [**&nearr;**](../../../geo/i/141410/about.en.html "Cameroon (all folders)") [**&uarr;**](../../../geo/about.en.html#C65 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141410,145274" title="about: Cameroon : Business register, general" target="_blank">5 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141410,145274))
+- C110 German East Africa [**&nearr;**](../../../geo/i/141471/about.en.html "German East Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C110 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141471,145274" title="about: German East Africa : Business register, general" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141471,145274))
+- C125 Abyssinia [**&nearr;**](../../../geo/i/141482/about.en.html "Abyssinia (all folders)") [**&uarr;**](../../../geo/about.en.html#C125 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141482,145274" title="about: Abyssinia : Business register, general" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141482,145274))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1452xx/145274/public.mets.en.xml" target="_blank">16 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145274))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145274" title="about: Argentina : Business register, general" target="_blank">16 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145274))
 
 
 _* The English category label is an unchecked automated translation of the German label._

@@ -1,14 +1,14 @@
 ---
-title: "d0 Sm20 Bevölkerung und Bevölkerungspolitik, Konferenzen"
-etr: category/subject/d0 Sm20
-modified: 2020-12-18
+title: "d Sm20 Bevölkerung und Bevölkerungspolitik, Konferenzen"
+etr: category/subject/d Sm20
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [d0 Sm20]{.gray}&#8201; Bevölkerung und Bevölkerungspolitik, Konferenzen&#160; 
+# [d Sm20]{.gray}&#8201; Bevölkerung und Bevölkerungspolitik, Konferenzen&#160; 
 
 
 
@@ -25,12 +25,12 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- [A1 Europa](../../../geo/about.de.html#A1) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1408xx/140892/1503xx/150369/public.mets.de.xml" target="_blank">20 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140892,150369))
-- [A9 Hamburg](../../../geo/about.de.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1503xx/150369/public.mets.de.xml" target="_blank">0 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,150369))
-- [A10 Deutschland](../../../geo/about.de.html#A10) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1261xx/126128/1503xx/150369/public.mets.de.xml" target="_blank">11 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/126128,150369))
+- A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,150369" title="über: Europa : Bevölkerung und Bevölkerungspolitik, Konferenzen" target="_blank">20 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140892,150369))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,150369" title="über: Hamburg : Bevölkerung und Bevölkerungspolitik, Konferenzen" target="_blank">0 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,150369))
+- A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,150369" title="über: Deutschland : Bevölkerung und Bevölkerungspolitik, Konferenzen" target="_blank">11 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/126128,150369))
 
 ### Australien und Ozeanien
 
-- [D14 Palau Islands](../../../geo/about.de.html#D14) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141614/1503xx/150369/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141614,150369))
+- D14 Palau Islands [**&nearr;**](../../../geo/i/141614/about.de.html "Palau Islands (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#D14 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141614,150369" title="über: Palau Islands : Bevölkerung und Bevölkerungspolitik, Konferenzen" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141614,150369))
 
 

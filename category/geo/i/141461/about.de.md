@@ -1,7 +1,7 @@
 ---
 title: "C97 Swaziland"
 etr: category/geo/C97
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -28,6 +28,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 ### Außenpolitik und politische Beziehungen zum Ausland
 
 - [g4 Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein]{.gray}
-  - [g4 Sm21 Handelspolitische und zollrechtliche Massnahmen aus dem Deutschen Handelsarchiv](../../../subject/about.de.html#g4_Sm21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141461/1444xx/144492/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141461,144492))
+  - g4 Sm21 Handelspolitische und zollrechtliche Massnahmen aus dem Deutschen Handelsarchiv [**&nearr;**](../../../subject/i/144492/about.de.html "Handelspolitische und zollrechtliche Massnahmen aus dem Deutschen Handelsarchiv (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#g4_Sm21 "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141461,144492" title="über: Swaziland : Handelspolitische und zollrechtliche Massnahmen aus dem Deutschen Handelsarchiv" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141461,144492))
 
 

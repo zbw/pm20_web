@@ -1,7 +1,7 @@
 ---
 title: "n5 Sm2.I Viehseuche, Allgemein"
 etr: category/subject/n5 Sm2.I
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -25,24 +25,24 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- [A6 Südosteuropa](../../../geo/about.de.html#A6) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140900/1450xx/145071/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140900,145071))
-- [A9 Hamburg](../../../geo/about.de.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1450xx/145071/public.mets.de.xml" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,145071))
+- A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,145071" title="über: Südosteuropa : Viehseuche, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140900,145071))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145071" title="über: Hamburg : Viehseuche, Allgemein" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,145071))
 
 ### Asien
 
-- [B21 Türkei (1923 -)](../../../geo/about.de.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1450xx/145071/public.mets.de.xml" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,145071))
-- [B23 Irak](../../../geo/about.de.html#B23) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141113/1450xx/145071/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141113,145071))
-- [B24a Palästina (-1945)](../../../geo/about.de.html#B24a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141115/1450xx/145071/public.mets.de.xml" target="_blank">6 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141115,145071))
-- [B111 Japan](../../../geo/about.de.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1450xx/145071/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,145071))
+- B21 Türkei (1923 -) [**&nearr;**](../../../geo/i/141111/about.de.html "Türkei (1923 -) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B21 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145071" title="über: Türkei (1923 -) : Viehseuche, Allgemein" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,145071))
+- B23 Irak [**&nearr;**](../../../geo/i/141113/about.de.html "Irak (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B23 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141113,145071" title="über: Irak : Viehseuche, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141113,145071))
+- B24a Palästina (-1945) [**&nearr;**](../../../geo/i/141115/about.de.html "Palästina (-1945) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B24a "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,145071" title="über: Palästina (-1945) : Viehseuche, Allgemein" target="_blank">6 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141115,145071))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145071" title="über: Japan : Viehseuche, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,145071))
 
 ### Afrika
 
-- [C65 Kamerun](../../../geo/about.de.html#C65) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141410/1450xx/145071/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141410,145071))
-- [C87 Deutsch-Südwestafrika](../../../geo/about.de.html#C87) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141450/1450xx/145071/public.mets.de.xml" target="_blank">11 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141450,145071))
-- [C110 Deutsch-Ostafrika](../../../geo/about.de.html#C110) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141471/1450xx/145071/public.mets.de.xml" target="_blank">12 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141471,145071))
+- C65 Kamerun [**&nearr;**](../../../geo/i/141410/about.de.html "Kamerun (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C65 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141410,145071" title="über: Kamerun : Viehseuche, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141410,145071))
+- C87 Deutsch-Südwestafrika [**&nearr;**](../../../geo/i/141450/about.de.html "Deutsch-Südwestafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C87 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141450,145071" title="über: Deutsch-Südwestafrika : Viehseuche, Allgemein" target="_blank">11 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141450,145071))
+- C110 Deutsch-Ostafrika [**&nearr;**](../../../geo/i/141471/about.de.html "Deutsch-Ostafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C110 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141471,145071" title="über: Deutsch-Ostafrika : Viehseuche, Allgemein" target="_blank">12 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141471,145071))
 
 ### Amerika
 
-- [E86 Argentinien](../../../geo/about.de.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1450xx/145071/public.mets.de.xml" target="_blank">13 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,145071))
+- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145071" title="über: Argentinien : Viehseuche, Allgemein" target="_blank">13 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,145071))
 
 

@@ -1,14 +1,14 @@
 ---
-title: "n0 Sm36.I Heating industry, general"
-etr: category/subject/n0 Sm36.I
-modified: 2020-12-18
+title: "n Sm36.I Heating industry, general"
+etr: category/subject/n Sm36.I
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [n0 Sm36.I]{.gray}&#8201; Heating industry, general&#160; 
+# [n Sm36.I]{.gray}&#8201; Heating industry, general&#160; 
 
 
 
@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1458xx/145832/public.mets.en.xml" target="_blank">9 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145832))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145832" title="about: Hamburg : Heating industry, general" target="_blank">9 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145832))
 
 
 _* The English category label is an unchecked automated translation of the German label._

@@ -1,7 +1,7 @@
 ---
 title: "n13 Sm4 Industrial exploitation of natural forces"
 etr: category/subject/n13 Sm4
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,11 +25,11 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Africa
 
-- [C110 German East Africa](../../../geo/about.en.html#C110) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141471/1618xx/161882/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141471,161882))
+- C110 German East Africa [**&nearr;**](../../../geo/i/141471/about.en.html "German East Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C110 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141471,161882" title="about: German East Africa : Industrial exploitation of natural forces" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141471,161882))
 
 ### Australia and Oceania
 
-- [D5 Hawaii](../../../geo/about.en.html#D5) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1415xx/141595/1618xx/161882/public.mets.en.xml" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141595,161882))
+- D5 Hawaii [**&nearr;**](../../../geo/i/141595/about.en.html "Hawaii (all folders)") [**&uarr;**](../../../geo/about.en.html#D5 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141595,161882" title="about: Hawaii : Industrial exploitation of natural forces" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141595,161882))
 
 
 _* The English category label is an unchecked automated translation of the German label._

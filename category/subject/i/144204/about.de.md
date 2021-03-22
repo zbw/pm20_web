@@ -1,7 +1,7 @@
 ---
 title: "c3 Landeskunde, Oberflächengestaltung, Geomorphologie"
 etr: category/subject/c3
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -25,20 +25,20 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Afrika
 
-- [C58 Togo](../../../geo/about.de.html#C58) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141408/1442xx/144204/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141408,144204))
-- [C110 Deutsch-Ostafrika](../../../geo/about.de.html#C110) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141471/1442xx/144204/public.mets.de.xml" target="_blank">6 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141471,144204))
+- C58 Togo [**&nearr;**](../../../geo/i/141408/about.de.html "Togo (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C58 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141408,144204" title="über: Togo : Landeskunde, Oberflächengestaltung, Geomorphologie" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141408,144204))
+- C110 Deutsch-Ostafrika [**&nearr;**](../../../geo/i/141471/about.de.html "Deutsch-Ostafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C110 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141471,144204" title="über: Deutsch-Ostafrika : Landeskunde, Oberflächengestaltung, Geomorphologie" target="_blank">6 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141471,144204))
 
 ### Australien und Ozeanien
 
-- [D20 Niederländisch-Neuguinea](../../../geo/about.de.html#D20) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141619/1442xx/144204/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141619,144204))
+- D20 Niederländisch-Neuguinea [**&nearr;**](../../../geo/i/141619/about.de.html "Niederländisch-Neuguinea (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#D20 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141619,144204" title="über: Niederländisch-Neuguinea : Landeskunde, Oberflächengestaltung, Geomorphologie" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141619,144204))
 
 ### Amerika
 
-- [E86 Argentinien](../../../geo/about.de.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1442xx/144204/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,144204))
-- [E102 Britisch-Guayana](../../../geo/about.de.html#E102) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1417xx/141700/1442xx/144204/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141700,144204))
+- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144204" title="über: Argentinien : Landeskunde, Oberflächengestaltung, Geomorphologie" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,144204))
+- E102 Britisch-Guayana [**&nearr;**](../../../geo/i/141700/about.de.html "Britisch-Guayana (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E102 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141700,144204" title="über: Britisch-Guayana : Landeskunde, Oberflächengestaltung, Geomorphologie" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141700,144204))
 
 ### Welt
 
-- [H Welt](../../../geo/about.de.html#H) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1417xx/141728/1442xx/144204/public.mets.de.xml" target="_blank">44 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141728,144204))
+- H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141728,144204" title="über: Welt : Landeskunde, Oberflächengestaltung, Geomorphologie" target="_blank">44 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141728,144204))
 
 

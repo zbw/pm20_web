@@ -1,7 +1,7 @@
 ---
 title: "n37a Sm2 Social Insurance"
 etr: category/subject/n37a Sm2
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,15 +25,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Asia
 
-- [B101 Macau](../../../geo/about.en.html#B101) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141267/1607xx/160748/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141267,160748))
+- B101 Macau [**&nearr;**](../../../geo/i/141267/about.en.html "Macau (all folders)") [**&uarr;**](../../../geo/about.en.html#B101 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141267,160748" title="about: Macau : Social Insurance" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141267,160748))
 
 ### Africa
 
-- [C25 French protectorate in Morocco](../../../geo/about.en.html#C25) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1413xx/141358/1607xx/160748/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141358,160748))
+- C25 French protectorate in Morocco [**&nearr;**](../../../geo/i/141358/about.en.html "French protectorate in Morocco (all folders)") [**&uarr;**](../../../geo/about.en.html#C25 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141358,160748" title="about: French protectorate in Morocco : Social Insurance" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141358,160748))
 
 ### America
 
-- [E85 Chile](../../../geo/about.en.html#E85) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141691/1607xx/160748/public.mets.en.xml" target="_blank">80 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141691,160748))
+- E85 Chile [**&nearr;**](../../../geo/i/141691/about.en.html "Chile (all folders)") [**&uarr;**](../../../geo/about.en.html#E85 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141691,160748" title="about: Chile : Social Insurance" target="_blank">80 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141691,160748))
 
 
 _* The English category label is an unchecked automated translation of the German label._

@@ -1,7 +1,7 @@
 ---
 title: "n37a Einzelne Versicherungszweige"
 etr: category/subject/n37a
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -25,10 +25,10 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Asien
 
-- [B111 Japan](../../../geo/about.de.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1457xx/145732/public.mets.de.xml" target="_blank">8 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,145732))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145732" title="über: Japan : Einzelne Versicherungszweige" target="_blank">8 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,145732))
 
 ### Afrika
 
-- [C65 Kamerun](../../../geo/about.de.html#C65) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141410/1457xx/145732/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141410,145732))
+- C65 Kamerun [**&nearr;**](../../../geo/i/141410/about.de.html "Kamerun (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C65 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141410,145732" title="über: Kamerun : Einzelne Versicherungszweige" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141410,145732))
 
 

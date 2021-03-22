@@ -1,7 +1,7 @@
 ---
 title: "E15 United States"
 etr: category/geo/E15
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -26,7 +26,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### Foreigners and individual minorities
 
 - [o1 German minorities and Germanness]{.gray}
-  - [o1 Sm500 German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)](../../../subject/about.en.html#o1_Sm500) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141653/1459xx/145911/public.mets.en.xml" target="_blank">344 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141653,145911))
+  - o1 Sm500 German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145911/about.en.html "German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum) (all over the world)") [**&uarr;**](../../../subject/about.en.html#o1_Sm500 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141653,145911" title="about: United States : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">344 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141653,145911))
 
 
 _* The English category label is an unchecked automated translation of the German label._

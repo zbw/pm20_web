@@ -1,7 +1,7 @@
 ---
 title: "m1 Sm1.I Numerical war and revolution compensation claims and benefits, general"
 etr: category/subject/m1 Sm1.I
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A6 Southeastern Europe](../../../geo/about.en.html#A6) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140900/1448xx/144811/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140900,144811))
+- A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,144811" title="about: Southeastern Europe : Numerical war and revolution compensation claims and benefits, general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140900,144811))
 
 
 _* The English category label is an unchecked automated translation of the German label._

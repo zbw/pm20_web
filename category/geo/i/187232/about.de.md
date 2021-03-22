@@ -1,7 +1,7 @@
 ---
 title: "A10(t2) Deutschland (Bundesrepublik)"
 etr: category/geo/A10(t2)
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -25,16 +25,17 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Wissenschaft und Bildungswesen
 
-  - [k0 Sm7.II Einzelne Stiftungen von Personen, Firmen, Körperschaften](../../../subject/about.de.html#k0_Sm7.II) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1872xx/187232/1872xx/187226/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/187232,187226))
+- [k Wissenschaft und Bildungswesen, Allgemein]{.gray}
+  - k Sm7.II Einzelne Stiftungen von Personen, Firmen, Körperschaften [**&nearr;**](../../../subject/i/187226/about.de.html "Einzelne Stiftungen von Personen, Firmen, Körperschaften (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#k_Sm7.II "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/187232,187226" title="über: Deutschland (Bundesrepublik) : Einzelne Stiftungen von Personen, Firmen, Körperschaften" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/187232,187226))
 
 ### Wirtschaft
 
-- [n14 Handwerk](../../../subject/about.de.html#n14) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1872xx/187232/1451xx/145135/public.mets.de.xml" target="_blank">0 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/187232,145135))
+- n14 Handwerk [**&nearr;**](../../../subject/i/145135/about.de.html "Handwerk (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n14 "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/187232,145135" title="über: Deutschland (Bundesrepublik) : Handwerk" target="_blank">0 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/187232,145135))
 - [n15 Arbeiterfrage, Arbeitsverhältnisse, Allgemein]{.gray}
-  - [n15 Sm5 Frauenarbeit, Allgemein](../../../subject/about.de.html#n15_Sm5) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1872xx/187232/1451xx/145166/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/187232,145166))
+  - n15 Sm5 Frauenarbeit, Allgemein [**&nearr;**](../../../subject/i/145166/about.de.html "Frauenarbeit, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n15_Sm5 "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/187232,145166" title="über: Deutschland (Bundesrepublik) : Frauenarbeit, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/187232,145166))
 - [n21 Kunst und Literatur (Wirtschaftsverhältnisse)]{.gray}
-  - [n21 Sm1 Theater und Musik](../../../subject/about.de.html#n21_Sm1) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1872xx/187232/1452xx/145297/public.mets.de.xml" target="_blank">0 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/187232,145297))
+  - n21 Sm1 Theater und Musik [**&nearr;**](../../../subject/i/145297/about.de.html "Theater und Musik (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n21_Sm1 "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/187232,145297" title="über: Deutschland (Bundesrepublik) : Theater und Musik" target="_blank">0 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/187232,145297))
 - [n28 Verkehrswesen, Allgemein]{.gray}
-  - [n28 Sm3.I Kommunales Verkehrswesen, Allgemein](../../../subject/about.de.html#n28_Sm3.I) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1872xx/187232/1455xx/145513/public.mets.de.xml" target="_blank">0 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/187232,145513))
+  - n28 Sm3.I Kommunales Verkehrswesen, Allgemein [**&nearr;**](../../../subject/i/145513/about.de.html "Kommunales Verkehrswesen, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n28_Sm3.I "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/187232,145513" title="über: Deutschland (Bundesrepublik) : Kommunales Verkehrswesen, Allgemein" target="_blank">0 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/187232,145513))
 
 

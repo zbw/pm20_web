@@ -1,7 +1,7 @@
 ---
 title: "B80c Sabah"
 etr: category/geo/B80c
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -24,6 +24,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 
 
-  - [o1 Sm500 Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)](../../../subject/about.de.html#o1_Sm500) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141234/1459xx/145911/public.mets.de.xml" target="_blank">10 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141234,145911))
+  - o1 Sm500 Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145911/about.de.html "Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#o1_Sm500 "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141234,145911" title="über: Sabah : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">10 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141234,145911))
 
 

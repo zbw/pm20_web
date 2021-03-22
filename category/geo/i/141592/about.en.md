@@ -1,7 +1,7 @@
 ---
 title: "D1 Australia and Oceania"
 etr: category/geo/D1
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -24,16 +24,16 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Country studies
 
-- [c1 Expeditions](../../../subject/about.en.html#c1) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1415xx/141592/1442xx/144200/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141592,144200))
+- c1 Expeditions [**&nearr;**](../../../subject/i/144200/about.en.html "Expeditions (all over the world)") [**&uarr;**](../../../subject/about.en.html#c1 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141592,144200" title="about: Australia and Oceania : Expeditions" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141592,144200))
 
 ### Foreign policy and political relations with foreign countries
 
-- [g1 Political relations with individual countries](../../../subject/about.en.html#g1) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1415xx/141592/1444xx/144452/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141592,144452))
+- g1 Political relations with individual countries [**&nearr;**](../../../subject/i/144452/about.en.html "Political relations with individual countries (all over the world)") [**&uarr;**](../../../subject/about.en.html#g1 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141592,144452" title="about: Australia and Oceania : Political relations with individual countries" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141592,144452))
 
 ### Foreigners and individual minorities
 
 - [o1 German minorities and Germanness]{.gray}
-  - [o1 Sm500 German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)](../../../subject/about.en.html#o1_Sm500) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1415xx/141592/1459xx/145911/public.mets.en.xml" target="_blank">42 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141592,145911))
+  - o1 Sm500 German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145911/about.en.html "German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum) (all over the world)") [**&uarr;**](../../../subject/about.en.html#o1_Sm500 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141592,145911" title="about: Australia and Oceania : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">42 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141592,145911))
 
 
 _* The English category label is an unchecked automated translation of the German label._

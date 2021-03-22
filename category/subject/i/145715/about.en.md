@@ -1,7 +1,7 @@
 ---
 title: "n36 Sm8 Relations with the foreign press"
 etr: category/subject/n36 Sm8
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -22,12 +22,12 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- [A7 Orient](../../../geo/about.en.html#A7) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140902/1457xx/145715/public.mets.en.xml" target="_blank">0 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140902,145715))
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1457xx/145715/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145715))
+- A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140902,145715" title="about: Orient : Relations with the foreign press" target="_blank">0 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140902,145715))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145715" title="about: Hamburg : Relations with the foreign press" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145715))
 
 ### Asia
 
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1457xx/145715/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145715))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145715" title="about: Japan : Relations with the foreign press" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145715))
 
 
 _* The English category label is an unchecked automated translation of the German label._

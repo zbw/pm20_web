@@ -1,7 +1,7 @@
 ---
 title: "o1 Deutsche Minderheiten und Deutschtum"
 etr: category/subject/o1
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -25,31 +25,31 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- [A3 Osteuropa](../../../geo/about.de.html#A3) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1408xx/140896/1459xx/145909/public.mets.de.xml" target="_blank">15 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140896,145909))
-- [A43 Osmanisches Reich (-1923)](../../../geo/about.de.html#A43) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1410xx/141034/1459xx/145909/public.mets.de.xml" target="_blank">8 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141034,145909))
+- A3 Osteuropa [**&nearr;**](../../../geo/i/140896/about.de.html "Osteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A3 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140896,145909" title="über: Osteuropa : Deutsche Minderheiten und Deutschtum" target="_blank">15 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140896,145909))
+- A43 Osmanisches Reich (-1923) [**&nearr;**](../../../geo/i/141034/about.de.html "Osmanisches Reich (-1923) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A43 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141034,145909" title="über: Osmanisches Reich (-1923) : Deutsche Minderheiten und Deutschtum" target="_blank">8 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141034,145909))
 
 ### Asien
 
-- [B21 Türkei (1923 -)](../../../geo/about.de.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1459xx/145909/public.mets.de.xml" target="_blank">26 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,145909))
-- [B23 Irak](../../../geo/about.de.html#B23) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141113/1459xx/145909/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141113,145909))
-- [B24a Palästina (-1945)](../../../geo/about.de.html#B24a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141115/1459xx/145909/public.mets.de.xml" target="_blank">6 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141115,145909))
-- [B111 Japan](../../../geo/about.de.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1459xx/145909/public.mets.de.xml" target="_blank">11 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,145909))
+- B21 Türkei (1923 -) [**&nearr;**](../../../geo/i/141111/about.de.html "Türkei (1923 -) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B21 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145909" title="über: Türkei (1923 -) : Deutsche Minderheiten und Deutschtum" target="_blank">26 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,145909))
+- B23 Irak [**&nearr;**](../../../geo/i/141113/about.de.html "Irak (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B23 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141113,145909" title="über: Irak : Deutsche Minderheiten und Deutschtum" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141113,145909))
+- B24a Palästina (-1945) [**&nearr;**](../../../geo/i/141115/about.de.html "Palästina (-1945) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B24a "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,145909" title="über: Palästina (-1945) : Deutsche Minderheiten und Deutschtum" target="_blank">6 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141115,145909))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145909" title="über: Japan : Deutsche Minderheiten und Deutschtum" target="_blank">11 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,145909))
 
 ### Afrika
 
-- [C57 Goldküste, einschl. Togo (brit.)](../../../geo/about.de.html#C57) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141406/1459xx/145909/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141406,145909))
-- [C60 Nigeria, einschl. Kamerun (brit.)](../../../geo/about.de.html#C60) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141409/1459xx/145909/public.mets.de.xml" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141409,145909))
-- [C65 Kamerun](../../../geo/about.de.html#C65) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141410/1459xx/145909/public.mets.de.xml" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141410,145909))
-- [C87 Deutsch-Südwestafrika](../../../geo/about.de.html#C87) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141450/1459xx/145909/public.mets.de.xml" target="_blank">30 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141450,145909))
-- [C110 Deutsch-Ostafrika](../../../geo/about.de.html#C110) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141471/1459xx/145909/public.mets.de.xml" target="_blank">32 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141471,145909))
+- C57 Goldküste, einschl. Togo (brit.) [**&nearr;**](../../../geo/i/141406/about.de.html "Goldküste, einschl. Togo (brit.) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C57 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141406,145909" title="über: Goldküste, einschl. Togo (brit.) : Deutsche Minderheiten und Deutschtum" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141406,145909))
+- C60 Nigeria, einschl. Kamerun (brit.) [**&nearr;**](../../../geo/i/141409/about.de.html "Nigeria, einschl. Kamerun (brit.) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C60 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141409,145909" title="über: Nigeria, einschl. Kamerun (brit.) : Deutsche Minderheiten und Deutschtum" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141409,145909))
+- C65 Kamerun [**&nearr;**](../../../geo/i/141410/about.de.html "Kamerun (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C65 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141410,145909" title="über: Kamerun : Deutsche Minderheiten und Deutschtum" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141410,145909))
+- C87 Deutsch-Südwestafrika [**&nearr;**](../../../geo/i/141450/about.de.html "Deutsch-Südwestafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C87 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141450,145909" title="über: Deutsch-Südwestafrika : Deutsche Minderheiten und Deutschtum" target="_blank">30 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141450,145909))
+- C110 Deutsch-Ostafrika [**&nearr;**](../../../geo/i/141471/about.de.html "Deutsch-Ostafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C110 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141471,145909" title="über: Deutsch-Ostafrika : Deutsche Minderheiten und Deutschtum" target="_blank">32 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141471,145909))
 
 ### Australien und Ozeanien
 
-- [D5 Hawaii](../../../geo/about.de.html#D5) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1415xx/141595/1459xx/145909/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141595,145909))
+- D5 Hawaii [**&nearr;**](../../../geo/i/141595/about.de.html "Hawaii (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#D5 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141595,145909" title="über: Hawaii : Deutsche Minderheiten und Deutschtum" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141595,145909))
 
 ### Amerika
 
-- [E85 Chile](../../../geo/about.de.html#E85) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141691/1459xx/145909/public.mets.de.xml" target="_blank">25 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141691,145909))
-- [E86 Argentinien](../../../geo/about.de.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1459xx/145909/public.mets.de.xml" target="_blank">19 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,145909))
+- E85 Chile [**&nearr;**](../../../geo/i/141691/about.de.html "Chile (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E85 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141691,145909" title="über: Chile : Deutsche Minderheiten und Deutschtum" target="_blank">25 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141691,145909))
+- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145909" title="über: Argentinien : Deutsche Minderheiten und Deutschtum" target="_blank">19 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,145909))
 
 

@@ -1,7 +1,7 @@
 ---
 title: "p6 Sm1 Agricultural settlements"
 etr: category/subject/p6 Sm1
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,12 +25,12 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A10 Germany](../../../geo/about.en.html#A10) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1261xx/126128/1459xx/145932/public.mets.en.xml" target="_blank">80 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,145932))
-- [A36 Italian Empire](../../../geo/about.en.html#A36) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1410xx/141012/1459xx/145932/public.mets.en.xml" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141012,145932))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,145932" title="about: Germany : Agricultural settlements" target="_blank">80 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,145932))
+- A36 Italian Empire [**&nearr;**](../../../geo/i/141012/about.en.html "Italian Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A36 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141012,145932" title="about: Italian Empire : Agricultural settlements" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141012,145932))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1459xx/145932/public.mets.en.xml" target="_blank">113 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145932))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145932" title="about: Argentina : Agricultural settlements" target="_blank">113 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145932))
 
 
 _* The English category label is an unchecked automated translation of the German label._

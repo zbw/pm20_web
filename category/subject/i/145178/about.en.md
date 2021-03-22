@@ -1,7 +1,7 @@
 ---
 title: "n15 Sm14 Worker education"
 etr: category/subject/n15 Sm14
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,16 +25,16 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1451xx/145178/public.mets.en.xml" target="_blank">21 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145178))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145178" title="about: Hamburg : Worker education" target="_blank">21 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145178))
 
 ### Asia
 
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1451xx/145178/public.mets.en.xml" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145178))
-- [B112 Japanese Empire](../../../geo/about.en.html#B112) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141273/1451xx/145178/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141273,145178))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145178" title="about: Japan : Worker education" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145178))
+- B112 Japanese Empire [**&nearr;**](../../../geo/i/141273/about.en.html "Japanese Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#B112 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141273,145178" title="about: Japanese Empire : Worker education" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141273,145178))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1451xx/145178/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145178))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145178" title="about: Argentina : Worker education" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145178))
 
 
 _* The English category label is an unchecked automated translation of the German label._

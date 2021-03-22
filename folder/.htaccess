@@ -9,5 +9,5 @@ RewriteCond "%{ENV:PM20_INTERNAL}" ""
 RewriteRule "(.*)/mets$" "$1/public.mets"
 
 # TEMPORARY for tree in test dir
-AddType "text/plain; charset=UTF-8" tree
+##AddType "text/plain; charset=UTF-8" tree
 

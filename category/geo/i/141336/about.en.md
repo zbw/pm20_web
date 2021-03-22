@@ -1,7 +1,7 @@
 ---
 title: "C10 Egypt"
 etr: category/geo/C10
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -26,12 +26,12 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### Foreigners and individual minorities
 
 - [o1 German minorities and Germanness]{.gray}
-  - [o1 Sm500 German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)](../../../subject/about.en.html#o1_Sm500) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1413xx/141336/1459xx/145911/public.mets.en.xml" target="_blank">85 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141336,145911))
+  - o1 Sm500 German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145911/about.en.html "German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum) (all over the world)") [**&uarr;**](../../../subject/about.en.html#o1_Sm500 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141336,145911" title="about: Egypt : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">85 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141336,145911))
 
 ### Settling and migration
 
 - [p3 Immigration and Immigration Policy]{.gray}
-  - [p3 Sm500 German immigrants (Forschungsstelle für das Übersee-Deutschtum)](../../../subject/about.en.html#p3_Sm500) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1413xx/141336/1459xx/145921/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141336,145921))
+  - p3 Sm500 German immigrants (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145921/about.en.html "German immigrants (Forschungsstelle für das Übersee-Deutschtum) (all over the world)") [**&uarr;**](../../../subject/about.en.html#p3_Sm500 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141336,145921" title="about: Egypt : German immigrants (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141336,145921))
 
 
 _* The English category label is an unchecked automated translation of the German label._

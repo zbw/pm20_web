@@ -1,14 +1,14 @@
 ---
-title: "k0 Sm20 Wissenschaft und Bildungswesen, Kongresse und Veranstaltungen"
-etr: category/subject/k0 Sm20
-modified: 2020-12-18
+title: "k Sm20 Wissenschaft und Bildungswesen, Kongresse und Veranstaltungen"
+etr: category/subject/k Sm20
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [k0 Sm20]{.gray}&#8201; Wissenschaft und Bildungswesen, Kongresse und Veranstaltungen&#160; 
+# [k Sm20]{.gray}&#8201; Wissenschaft und Bildungswesen, Kongresse und Veranstaltungen&#160; 
 
 
 
@@ -25,6 +25,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- [A9 Hamburg](../../../geo/about.de.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1811xx/181141/public.mets.de.xml" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,181141))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,181141" title="über: Hamburg : Wissenschaft und Bildungswesen, Kongresse und Veranstaltungen" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,181141))
 
 

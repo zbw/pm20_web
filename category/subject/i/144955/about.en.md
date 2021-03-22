@@ -1,7 +1,7 @@
 ---
 title: "n1 Sm23 Raising the standard of living"
 etr: category/subject/n1 Sm23
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,16 +25,16 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A6 Southeastern Europe](../../../geo/about.en.html#A6) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140900/1449xx/144955/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140900,144955))
+- A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,144955" title="about: Southeastern Europe : Raising the standard of living" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140900,144955))
 
 ### Asia
 
-- [B24a Palestine](../../../geo/about.en.html#B24a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141115/1449xx/144955/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,144955))
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1449xx/144955/public.mets.en.xml" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144955))
+- B24a Palestine [**&nearr;**](../../../geo/i/141115/about.en.html "Palestine (all folders)") [**&uarr;**](../../../geo/about.en.html#B24a "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,144955" title="about: Palestine : Raising the standard of living" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,144955))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144955" title="about: Japan : Raising the standard of living" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144955))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1449xx/144955/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,144955))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144955" title="about: Argentina : Raising the standard of living" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,144955))
 
 
 _* The English category label is an unchecked automated translation of the German label._

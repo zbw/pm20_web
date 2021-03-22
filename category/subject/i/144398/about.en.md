@@ -1,7 +1,7 @@
 ---
 title: "f5 Sm1.IIIa Elections for parliamentary bodies and other general political elections"
 etr: category/subject/f5 Sm1.IIIa
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,11 +25,11 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1443xx/144398/public.mets.en.xml" target="_blank">19 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,144398))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144398" title="about: Hamburg : Elections for parliamentary bodies and other general political elections" target="_blank">19 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,144398))
 
 ### Asia
 
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1443xx/144398/public.mets.en.xml" target="_blank">134 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144398))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144398" title="about: Japan : Elections for parliamentary bodies and other general political elections" target="_blank">134 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144398))
 
 
 _* The English category label is an unchecked automated translation of the German label._

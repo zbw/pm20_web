@@ -1,14 +1,14 @@
 ---
-title: "n0 Sm9 (alt) Nahrungsmittelversorgung"
-etr: category/subject/n0 Sm9 (alt)
-modified: 2020-12-18
+title: "n Sm9 (alt) Nahrungsmittelversorgung"
+etr: category/subject/n Sm9 (alt)
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [n0 Sm9 (alt)]{.gray}&#8201; Nahrungsmittelversorgung&#160; 
+# [n Sm9 (alt)]{.gray}&#8201; Nahrungsmittelversorgung&#160; 
 
 
 
@@ -22,6 +22,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 
 
-- [C125 Abessinien](../../../geo/about.de.html#C125) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141482/1457xx/145793/public.mets.de.xml" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141482,145793))
+- C125 Abessinien [**&nearr;**](../../../geo/i/141482/about.de.html "Abessinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C125 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141482,145793" title="über: Abessinien : Nahrungsmittelversorgung" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141482,145793))
 
 

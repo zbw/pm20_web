@@ -1,7 +1,7 @@
 ---
 title: "q Sm5 (alt) Slavic question"
 etr: category/subject/q Sm5 (alt)
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A3 Eastern Europe](../../../geo/about.en.html#A3) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1408xx/140896/1459xx/145949/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140896,145949))
+- A3 Eastern Europe [**&nearr;**](../../../geo/i/140896/about.en.html "Eastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A3 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140896,145949" title="about: Eastern Europe : Slavic question" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140896,145949))
 
 
 _* The English category label is an unchecked automated translation of the German label._

@@ -1,7 +1,7 @@
 ---
 title: "n33a Sm1 Individual inland waterways and sea canals, general"
 etr: category/subject/n33a Sm1
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,8 +25,8 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A1 Europe](../../../geo/about.en.html#A1) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1408xx/140892/1456xx/145652/public.mets.en.xml" target="_blank">151 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140892,145652))
-- [A10 Germany](../../../geo/about.en.html#A10) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1261xx/126128/1456xx/145652/public.mets.en.xml" target="_blank">86 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,145652))
+- A1 Europe [**&nearr;**](../../../geo/i/140892/about.en.html "Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A1 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,145652" title="about: Europe : Individual inland waterways and sea canals, general" target="_blank">151 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140892,145652))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,145652" title="about: Germany : Individual inland waterways and sea canals, general" target="_blank">86 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,145652))
 
 
 _* The English category label is an unchecked automated translation of the German label._

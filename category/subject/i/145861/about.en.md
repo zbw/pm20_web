@@ -1,14 +1,14 @@
 ---
-title: "n0 Sm59 Testing for materials and goods, general"
-etr: category/subject/n0 Sm59
-modified: 2020-12-18
+title: "n Sm59 Testing for materials and goods, general"
+etr: category/subject/n Sm59
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [n0 Sm59]{.gray}&#8201; Testing for materials and goods, general&#160; 
+# [n Sm59]{.gray}&#8201; Testing for materials and goods, general&#160; 
 
 
 
@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1458xx/145861/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145861))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145861" title="about: Hamburg : Testing for materials and goods, general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145861))
 
 
 _* The English category label is an unchecked automated translation of the German label._

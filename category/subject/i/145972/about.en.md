@@ -1,7 +1,7 @@
 ---
 title: "q Sm25 Special position of the whites"
 etr: category/subject/q Sm25
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,16 +25,16 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Asia
 
-- [B24a Palestine](../../../geo/about.en.html#B24a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141115/1459xx/145972/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,145972))
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1459xx/145972/public.mets.en.xml" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145972))
+- B24a Palestine [**&nearr;**](../../../geo/i/141115/about.en.html "Palestine (all folders)") [**&uarr;**](../../../geo/about.en.html#B24a "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,145972" title="about: Palestine : Special position of the whites" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,145972))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145972" title="about: Japan : Special position of the whites" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145972))
 
 ### Africa
 
-- [C58 Togoland](../../../geo/about.en.html#C58) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141408/1459xx/145972/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141408,145972))
+- C58 Togoland [**&nearr;**](../../../geo/i/141408/about.en.html "Togoland (all folders)") [**&uarr;**](../../../geo/about.en.html#C58 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141408,145972" title="about: Togoland : Special position of the whites" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141408,145972))
 
 ### America
 
-- [E85 Chile](../../../geo/about.en.html#E85) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141691/1459xx/145972/public.mets.en.xml" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141691,145972))
+- E85 Chile [**&nearr;**](../../../geo/i/141691/about.en.html "Chile (all folders)") [**&uarr;**](../../../geo/about.en.html#E85 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141691,145972" title="about: Chile : Special position of the whites" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141691,145972))
 
 
 _* The English category label is an unchecked automated translation of the German label._

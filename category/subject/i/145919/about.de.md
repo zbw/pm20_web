@@ -1,7 +1,7 @@
 ---
 title: "p3 Sm2 Einwandererfürsorge"
 etr: category/subject/p3 Sm2
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -25,11 +25,11 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Afrika
 
-- [C87 Deutsch-Südwestafrika](../../../geo/about.de.html#C87) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141450/1459xx/145919/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141450,145919))
+- C87 Deutsch-Südwestafrika [**&nearr;**](../../../geo/i/141450/about.de.html "Deutsch-Südwestafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C87 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141450,145919" title="über: Deutsch-Südwestafrika : Einwandererfürsorge" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141450,145919))
 
 ### Amerika
 
-- [E85 Chile](../../../geo/about.de.html#E85) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141691/1459xx/145919/public.mets.de.xml" target="_blank">7 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141691,145919))
-- [E86 Argentinien](../../../geo/about.de.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1459xx/145919/public.mets.de.xml" target="_blank">20 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,145919))
+- E85 Chile [**&nearr;**](../../../geo/i/141691/about.de.html "Chile (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E85 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141691,145919" title="über: Chile : Einwandererfürsorge" target="_blank">7 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141691,145919))
+- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145919" title="über: Argentinien : Einwandererfürsorge" target="_blank">20 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,145919))
 
 

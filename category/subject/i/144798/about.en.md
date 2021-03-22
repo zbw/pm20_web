@@ -1,14 +1,14 @@
 ---
-title: "l0 Sm11 Military criminal law, military jurisdiction"
-etr: category/subject/l0 Sm11
-modified: 2020-12-18
+title: "l Sm11 Military criminal law, military jurisdiction"
+etr: category/subject/l Sm11
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [l0 Sm11]{.gray}&#8201; Military criminal law, military jurisdiction&#160; 
+# [l Sm11]{.gray}&#8201; Military criminal law, military jurisdiction&#160; 
 
 
 
@@ -22,7 +22,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1447xx/144798/public.mets.en.xml" target="_blank">5 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,144798))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144798" title="about: Argentina : Military criminal law, military jurisdiction" target="_blank">5 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,144798))
 
 
 _* The English category label is an unchecked automated translation of the German label._

@@ -1,7 +1,7 @@
 ---
 title: "n29 Sm20 Country roads, paths, bridges (including their traffic), conferences"
 etr: category/subject/n29 Sm20
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -22,7 +22,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/2159xx/215917/public.mets.en.xml" target="_blank">34 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,215917))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,215917" title="about: Argentina : Country roads, paths, bridges (including their traffic), conferences" target="_blank">34 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,215917))
 
 
 _* The English category label is an unchecked automated translation of the German label._

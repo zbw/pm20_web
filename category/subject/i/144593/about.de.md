@@ -1,14 +1,14 @@
 ---
-title: "g0 Sm19 Stimmen und Stellung zur Klärung der Kriegsschuldfrage (Weltkrieg)"
-etr: category/subject/g0 Sm19
-modified: 2020-12-18
+title: "g Sm19 Stimmen und Stellung zur Klärung der Kriegsschuldfrage (Weltkrieg)"
+etr: category/subject/g Sm19
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [g0 Sm19]{.gray}&#8201; Stimmen und Stellung zur Klärung der Kriegsschuldfrage (Weltkrieg)&#160; 
+# [g Sm19]{.gray}&#8201; Stimmen und Stellung zur Klärung der Kriegsschuldfrage (Weltkrieg)&#160; 
 
 
 
@@ -22,10 +22,10 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 
 
-- [A43 Osmanisches Reich (-1923)](../../../geo/about.de.html#A43) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1410xx/141034/1445xx/144593/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141034,144593))
+- A43 Osmanisches Reich (-1923) [**&nearr;**](../../../geo/i/141034/about.de.html "Osmanisches Reich (-1923) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A43 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141034,144593" title="über: Osmanisches Reich (-1923) : Stimmen und Stellung zur Klärung der Kriegsschuldfrage (Weltkrieg)" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141034,144593))
 
 ### Asien
 
-- [B111 Japan](../../../geo/about.de.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1445xx/144593/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144593))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144593" title="über: Japan : Stimmen und Stellung zur Klärung der Kriegsschuldfrage (Weltkrieg)" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144593))
 
 

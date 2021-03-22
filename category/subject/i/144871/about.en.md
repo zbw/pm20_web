@@ -1,7 +1,7 @@
 ---
 title: "m3 Sm3 Taxation of foreigners, general"
 etr: category/subject/m3 Sm3
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -22,12 +22,12 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- [A43 Ottoman Empire](../../../geo/about.en.html#A43) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1410xx/141034/1448xx/144871/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141034,144871))
+- A43 Ottoman Empire [**&nearr;**](../../../geo/i/141034/about.en.html "Ottoman Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A43 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141034,144871" title="about: Ottoman Empire : Taxation of foreigners, general" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141034,144871))
 
 ### Asia
 
-- [B21 Turkey](../../../geo/about.en.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1448xx/144871/public.mets.en.xml" target="_blank">9 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,144871))
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1448xx/144871/public.mets.en.xml" target="_blank">10 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144871))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,144871" title="about: Turkey : Taxation of foreigners, general" target="_blank">9 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,144871))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144871" title="about: Japan : Taxation of foreigners, general" target="_blank">10 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144871))
 
 
 _* The English category label is an unchecked automated translation of the German label._

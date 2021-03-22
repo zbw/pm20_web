@@ -1,7 +1,7 @@
 ---
 title: "p6 Sm2 Rural communities"
 etr: category/subject/p6 Sm2
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,12 +25,12 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1459xx/145934/public.mets.en.xml" target="_blank">55 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145934))
-- [A10 Germany](../../../geo/about.en.html#A10) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1261xx/126128/1459xx/145934/public.mets.en.xml" target="_blank">208 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,145934))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145934" title="about: Hamburg : Rural communities" target="_blank">55 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145934))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,145934" title="about: Germany : Rural communities" target="_blank">208 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,145934))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1459xx/145934/public.mets.en.xml" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145934))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145934" title="about: Argentina : Rural communities" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145934))
 
 
 _* The English category label is an unchecked automated translation of the German label._

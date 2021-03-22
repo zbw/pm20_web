@@ -1,7 +1,7 @@
 ---
 title: "n33 Sm1 Inland waterways, expansion, financing, decommissioning"
 etr: category/subject/n33 Sm1
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Asia
 
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/2223xx/222330/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,222330))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,222330" title="about: Japan : Inland waterways, expansion, financing, decommissioning" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,222330))
 
 
 _* The English category label is an unchecked automated translation of the German label._

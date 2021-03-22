@@ -1,7 +1,7 @@
 ---
 title: "n17a Construction and housing of individual states, provinces and cities"
 etr: category/subject/n17a
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,27 +25,27 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1452xx/145261/public.mets.en.xml" target="_blank">165 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145261))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145261" title="about: Hamburg : Construction and housing of individual states, provinces and cities" target="_blank">165 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145261))
 
 ### Asia
 
-- [B21 Turkey](../../../geo/about.en.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1452xx/145261/public.mets.en.xml" target="_blank">35 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145261))
-- [B23 Iraq](../../../geo/about.en.html#B23) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141113/1452xx/145261/public.mets.en.xml" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141113,145261))
-- [B24a Palestine](../../../geo/about.en.html#B24a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141115/1452xx/145261/public.mets.en.xml" target="_blank">22 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,145261))
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1452xx/145261/public.mets.en.xml" target="_blank">29 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145261))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145261" title="about: Turkey : Construction and housing of individual states, provinces and cities" target="_blank">35 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145261))
+- B23 Iraq [**&nearr;**](../../../geo/i/141113/about.en.html "Iraq (all folders)") [**&uarr;**](../../../geo/about.en.html#B23 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141113,145261" title="about: Iraq : Construction and housing of individual states, provinces and cities" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141113,145261))
+- B24a Palestine [**&nearr;**](../../../geo/i/141115/about.en.html "Palestine (all folders)") [**&uarr;**](../../../geo/about.en.html#B24a "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,145261" title="about: Palestine : Construction and housing of individual states, provinces and cities" target="_blank">22 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,145261))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145261" title="about: Japan : Construction and housing of individual states, provinces and cities" target="_blank">29 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145261))
 
 ### Africa
 
-- [C25 French protectorate in Morocco](../../../geo/about.en.html#C25) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1413xx/141358/1452xx/145261/public.mets.en.xml" target="_blank">12 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141358,145261))
-- [C87 German South-West Africa](../../../geo/about.en.html#C87) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141450/1452xx/145261/public.mets.en.xml" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141450,145261))
+- C25 French protectorate in Morocco [**&nearr;**](../../../geo/i/141358/about.en.html "French protectorate in Morocco (all folders)") [**&uarr;**](../../../geo/about.en.html#C25 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141358,145261" title="about: French protectorate in Morocco : Construction and housing of individual states, provinces and cities" target="_blank">12 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141358,145261))
+- C87 German South-West Africa [**&nearr;**](../../../geo/i/141450/about.en.html "German South-West Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C87 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141450,145261" title="about: German South-West Africa : Construction and housing of individual states, provinces and cities" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141450,145261))
 
 ### Australia and Oceania
 
-- [D10 German New Guinea](../../../geo/about.en.html#D10) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141601/1452xx/145261/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141601,145261))
+- D10 German New Guinea [**&nearr;**](../../../geo/i/141601/about.en.html "German New Guinea (all folders)") [**&uarr;**](../../../geo/about.en.html#D10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141601,145261" title="about: German New Guinea : Construction and housing of individual states, provinces and cities" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141601,145261))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1452xx/145261/public.mets.en.xml" target="_blank">94 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145261))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145261" title="about: Argentina : Construction and housing of individual states, provinces and cities" target="_blank">94 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145261))
 
 
 _* The English category label is an unchecked automated translation of the German label._

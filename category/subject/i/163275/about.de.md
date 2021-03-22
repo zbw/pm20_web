@@ -1,7 +1,7 @@
 ---
 title: "m2 Sm1 Zolltarif"
 etr: category/subject/m2 Sm1
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -25,7 +25,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Afrika
 
-- [C25 Französisch-Marokko](../../../geo/about.de.html#C25) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1413xx/141358/1632xx/163275/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141358,163275))
-- [C65 Kamerun](../../../geo/about.de.html#C65) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141410/1632xx/163275/public.mets.de.xml" target="_blank">17 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141410,163275))
+- C25 Französisch-Marokko [**&nearr;**](../../../geo/i/141358/about.de.html "Französisch-Marokko (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C25 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141358,163275" title="über: Französisch-Marokko : Zolltarif" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141358,163275))
+- C65 Kamerun [**&nearr;**](../../../geo/i/141410/about.de.html "Kamerun (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C65 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141410,163275" title="über: Kamerun : Zolltarif" target="_blank">17 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141410,163275))
 
 

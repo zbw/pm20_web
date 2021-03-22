@@ -1,14 +1,14 @@
 ---
-title: "n0 Sm54 Konjunkturbeobachtung, Allgemein"
-etr: category/subject/n0 Sm54
-modified: 2020-12-18
+title: "n Sm54 Konjunkturbeobachtung, Allgemein"
+etr: category/subject/n Sm54
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [n0 Sm54]{.gray}&#8201; Konjunkturbeobachtung, Allgemein&#160; 
+# [n Sm54]{.gray}&#8201; Konjunkturbeobachtung, Allgemein&#160; 
 
 
 
@@ -22,6 +22,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 
 
-- [E86 Argentinien](../../../geo/about.de.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1458xx/145858/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,145858))
+- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145858" title="über: Argentinien : Konjunkturbeobachtung, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,145858))
 
 

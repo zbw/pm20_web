@@ -1,7 +1,7 @@
 ---
 title: "q Sm2.I Trade and supply of weapons, ammunition and other war material, general"
 etr: category/subject/q Sm2.I
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,33 +25,33 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A7 Orient](../../../geo/about.en.html#A7) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140902/1459xx/145942/public.mets.en.xml" target="_blank">0 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140902,145942))
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1459xx/145942/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145942))
-- [A10 Germany](../../../geo/about.en.html#A10) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1261xx/126128/1459xx/145942/public.mets.en.xml" target="_blank">27 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,145942))
+- A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140902,145942" title="about: Orient : Trade and supply of weapons, ammunition and other war material, general" target="_blank">0 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140902,145942))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145942" title="about: Hamburg : Trade and supply of weapons, ammunition and other war material, general" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145942))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,145942" title="about: Germany : Trade and supply of weapons, ammunition and other war material, general" target="_blank">27 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,145942))
 
 ### Asia
 
-- [B18 Cyprus](../../../geo/about.en.html#B18) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1410xx/141079/1459xx/145942/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141079,145942))
-- [B21 Turkey](../../../geo/about.en.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1459xx/145942/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145942))
-- [B24 Syria](../../../geo/about.en.html#B24) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141114/1459xx/145942/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141114,145942))
-- [B24a Palestine](../../../geo/about.en.html#B24a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141115/1459xx/145942/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,145942))
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1459xx/145942/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145942))
+- B18 Cyprus [**&nearr;**](../../../geo/i/141079/about.en.html "Cyprus (all folders)") [**&uarr;**](../../../geo/about.en.html#B18 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141079,145942" title="about: Cyprus : Trade and supply of weapons, ammunition and other war material, general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141079,145942))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145942" title="about: Turkey : Trade and supply of weapons, ammunition and other war material, general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145942))
+- B24 Syria [**&nearr;**](../../../geo/i/141114/about.en.html "Syria (all folders)") [**&uarr;**](../../../geo/about.en.html#B24 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141114,145942" title="about: Syria : Trade and supply of weapons, ammunition and other war material, general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141114,145942))
+- B24a Palestine [**&nearr;**](../../../geo/i/141115/about.en.html "Palestine (all folders)") [**&uarr;**](../../../geo/about.en.html#B24a "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,145942" title="about: Palestine : Trade and supply of weapons, ammunition and other war material, general" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,145942))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145942" title="about: Japan : Trade and supply of weapons, ammunition and other war material, general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145942))
 
 ### Africa
 
-- [C19 Algeria](../../../geo/about.en.html#C19) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1413xx/141354/1459xx/145942/public.mets.en.xml" target="_blank">7 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141354,145942))
-- [C25 French protectorate in Morocco](../../../geo/about.en.html#C25) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1413xx/141358/1459xx/145942/public.mets.en.xml" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141358,145942))
-- [C26 Spanish protectorate in Morocco](../../../geo/about.en.html#C26) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1413xx/141359/1459xx/145942/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141359,145942))
-- [C110 German East Africa](../../../geo/about.en.html#C110) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141471/1459xx/145942/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141471,145942))
+- C19 Algeria [**&nearr;**](../../../geo/i/141354/about.en.html "Algeria (all folders)") [**&uarr;**](../../../geo/about.en.html#C19 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141354,145942" title="about: Algeria : Trade and supply of weapons, ammunition and other war material, general" target="_blank">7 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141354,145942))
+- C25 French protectorate in Morocco [**&nearr;**](../../../geo/i/141358/about.en.html "French protectorate in Morocco (all folders)") [**&uarr;**](../../../geo/about.en.html#C25 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141358,145942" title="about: French protectorate in Morocco : Trade and supply of weapons, ammunition and other war material, general" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141358,145942))
+- C26 Spanish protectorate in Morocco [**&nearr;**](../../../geo/i/141359/about.en.html "Spanish protectorate in Morocco (all folders)") [**&uarr;**](../../../geo/about.en.html#C26 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141359,145942" title="about: Spanish protectorate in Morocco : Trade and supply of weapons, ammunition and other war material, general" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141359,145942))
+- C110 German East Africa [**&nearr;**](../../../geo/i/141471/about.en.html "German East Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C110 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141471,145942" title="about: German East Africa : Trade and supply of weapons, ammunition and other war material, general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141471,145942))
 
 ### Australia and Oceania
 
-- [D21 Territory of Papua](../../../geo/about.en.html#D21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141620/1459xx/145942/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141620,145942))
+- D21 Territory of Papua [**&nearr;**](../../../geo/i/141620/about.en.html "Territory of Papua (all folders)") [**&uarr;**](../../../geo/about.en.html#D21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141620,145942" title="about: Territory of Papua : Trade and supply of weapons, ammunition and other war material, general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141620,145942))
 
 ### America
 
-- [E85 Chile](../../../geo/about.en.html#E85) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141691/1459xx/145942/public.mets.en.xml" target="_blank">10 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141691,145942))
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1459xx/145942/public.mets.en.xml" target="_blank">8 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145942))
+- E85 Chile [**&nearr;**](../../../geo/i/141691/about.en.html "Chile (all folders)") [**&uarr;**](../../../geo/about.en.html#E85 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141691,145942" title="about: Chile : Trade and supply of weapons, ammunition and other war material, general" target="_blank">10 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141691,145942))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145942" title="about: Argentina : Trade and supply of weapons, ammunition and other war material, general" target="_blank">8 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145942))
 
 
 _* The English category label is an unchecked automated translation of the German label._

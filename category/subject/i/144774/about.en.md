@@ -1,7 +1,7 @@
 ---
 title: "l3 Sm1 Military bases abroad (projects)"
 etr: category/subject/l3 Sm1
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,8 +25,8 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Asia
 
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1447xx/144774/public.mets.en.xml" target="_blank">19 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144774))
-- [B114 Guangdong](../../../geo/about.en.html#B114) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141275/1447xx/144774/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141275,144774))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144774" title="about: Japan : Military bases abroad (projects)" target="_blank">19 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144774))
+- B114 Guangdong [**&nearr;**](../../../geo/i/141275/about.en.html "Guangdong (all folders)") [**&uarr;**](../../../geo/about.en.html#B114 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141275,144774" title="about: Guangdong : Military bases abroad (projects)" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141275,144774))
 
 
 _* The English category label is an unchecked automated translation of the German label._

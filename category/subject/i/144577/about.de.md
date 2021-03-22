@@ -1,14 +1,14 @@
 ---
-title: "g0 Sm6 Friedensbestrebungen (Weltkrieg)"
-etr: category/subject/g0 Sm6
-modified: 2020-12-18
+title: "g Sm6 Friedensbestrebungen (Weltkrieg)"
+etr: category/subject/g Sm6
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [g0 Sm6]{.gray}&#8201; Friedensbestrebungen (Weltkrieg)&#160; 
+# [g Sm6]{.gray}&#8201; Friedensbestrebungen (Weltkrieg)&#160; 
 
 
 
@@ -25,10 +25,10 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- [A43 Osmanisches Reich (-1923)](../../../geo/about.de.html#A43) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1410xx/141034/1445xx/144577/public.mets.de.xml" target="_blank">18 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141034,144577))
+- A43 Osmanisches Reich (-1923) [**&nearr;**](../../../geo/i/141034/about.de.html "Osmanisches Reich (-1923) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A43 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141034,144577" title="über: Osmanisches Reich (-1923) : Friedensbestrebungen (Weltkrieg)" target="_blank">18 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141034,144577))
 
 ### Asien
 
-- [B111 Japan](../../../geo/about.de.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1445xx/144577/public.mets.de.xml" target="_blank">18 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144577))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144577" title="über: Japan : Friedensbestrebungen (Weltkrieg)" target="_blank">18 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144577))
 
 

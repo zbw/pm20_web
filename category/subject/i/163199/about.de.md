@@ -1,14 +1,14 @@
 ---
-title: "n0 Sm39.II Erwerbsgesellschaften, Einzelne"
-etr: category/subject/n0 Sm39.II
-modified: 2020-12-18
+title: "n Sm39.II Erwerbsgesellschaften, Einzelne"
+etr: category/subject/n Sm39.II
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [n0 Sm39.II]{.gray}&#8201; Erwerbsgesellschaften, Einzelne&#160; 
+# [n Sm39.II]{.gray}&#8201; Erwerbsgesellschaften, Einzelne&#160; 
 
 
 
@@ -22,6 +22,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 
 
-- [E86 Argentinien](../../../geo/about.de.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1631xx/163199/public.mets.de.xml" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,163199))
+- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,163199" title="über: Argentinien : Erwerbsgesellschaften, Einzelne" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,163199))
 
 

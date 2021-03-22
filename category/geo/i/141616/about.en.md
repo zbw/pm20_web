@@ -1,7 +1,7 @@
 ---
 title: "D16 Marshall Islands, Nauru"
 etr: category/geo/D16
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -24,26 +24,26 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Literature
 
-- [a Literature, general](../../../subject/about.en.html#a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141616/1423xx/142393/public.mets.en.xml" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141616,142393))
+- a Literature, general [**&nearr;**](../../../subject/i/142393/about.en.html "Literature, general (all over the world)") [**&uarr;**](../../../subject/about.en.html#a "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141616,142393" title="about: Marshall Islands, Nauru : Literature, general" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141616,142393))
 
 ### The country and its people, politics and economy
 
-- [b The country and its people, politics and economy, general](../../../subject/about.en.html#b) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141616/1441xx/144196/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141616,144196))
+- b The country and its people, politics and economy, general [**&nearr;**](../../../subject/i/144196/about.en.html "The country and its people, politics and economy, general (all over the world)") [**&uarr;**](../../../subject/about.en.html#b "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141616,144196" title="about: Marshall Islands, Nauru : The country and its people, politics and economy, general" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141616,144196))
 
 ### Country studies
 
-- [c Country studies, general](../../../subject/about.en.html#c) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141616/1441xx/144199/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141616,144199))
+- c Country studies, general [**&nearr;**](../../../subject/i/144199/about.en.html "Country studies, general (all over the world)") [**&uarr;**](../../../subject/about.en.html#c "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141616,144199" title="about: Marshall Islands, Nauru : Country studies, general" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141616,144199))
 
 ### History, politics
 
-- [f2.1 Historical events 1900 - 1914](../../../subject/about.en.html#f2.1) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141616/1813xx/181392/public.mets.en.xml" target="_blank">8 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141616,181392))
-- [f2.2 Historical events 1914 - 1918 (First World War)](../../../subject/about.en.html#f2.2) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141616/1813xx/181360/public.mets.en.xml" target="_blank">5 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141616,181360))
-- [f2.3 Historical events 1918 - 1939](../../../subject/about.en.html#f2.3) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141616/1813xx/181391/public.mets.en.xml" target="_blank">6 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141616,181391))
+- f2.1 Historical events 1900 - 1914 [**&nearr;**](../../../subject/i/181392/about.en.html "Historical events 1900 - 1914 (all over the world)") [**&uarr;**](../../../subject/about.en.html#f2.1 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141616,181392" title="about: Marshall Islands, Nauru : Historical events 1900 - 1914" target="_blank">8 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141616,181392))
+- f2.2 Historical events 1914 - 1918 (First World War) [**&nearr;**](../../../subject/i/181360/about.en.html "Historical events 1914 - 1918 (First World War) (all over the world)") [**&uarr;**](../../../subject/about.en.html#f2.2 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141616,181360" title="about: Marshall Islands, Nauru : Historical events 1914 - 1918 (First World War)" target="_blank">5 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141616,181360))
+- f2.3 Historical events 1918 - 1939 [**&nearr;**](../../../subject/i/181391/about.en.html "Historical events 1918 - 1939 (all over the world)") [**&uarr;**](../../../subject/about.en.html#f2.3 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141616,181391" title="about: Marshall Islands, Nauru : Historical events 1918 - 1939" target="_blank">6 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141616,181391))
 
 ### Foreign policy and political relations with foreign countries
 
 - [g4 Trade policy, Foreign economic policy, general]{.gray}
-  - [g4 Sm1 Tariff policy](../../../subject/about.en.html#g4_Sm1) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141616/1634xx/163419/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141616,163419))
+  - g4 Sm1 Tariff policy [**&nearr;**](../../../subject/i/163419/about.en.html "Tariff policy (all over the world)") [**&uarr;**](../../../subject/about.en.html#g4_Sm1 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141616,163419" title="about: Marshall Islands, Nauru : Tariff policy" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141616,163419))
 
 
 _* The English category label is an unchecked automated translation of the German label._

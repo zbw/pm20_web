@@ -1,7 +1,7 @@
 ---
 title: "q Sm6 (alt) Japanerfrage"
 etr: category/subject/q Sm6 (alt)
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -25,6 +25,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Afrika
 
-- [C122 Französisch-Somaliland](../../../geo/about.de.html#C122) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141479/1459xx/145950/public.mets.de.xml" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141479,145950))
+- C122 Französisch-Somaliland [**&nearr;**](../../../geo/i/141479/about.de.html "Französisch-Somaliland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C122 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141479,145950" title="über: Französisch-Somaliland : Japanerfrage" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141479,145950))
 
 

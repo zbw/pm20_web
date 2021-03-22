@@ -1,7 +1,7 @@
 ---
 title: "n13 Sm70 Industry, capital procurement"
 etr: category/subject/n13 Sm70
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,18 +25,18 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1872xx/187265/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,187265))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,187265" title="about: Hamburg : Industry, capital procurement" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,187265))
 
 ### Asia
 
-- [B21 Turkey](../../../geo/about.en.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1872xx/187265/public.mets.en.xml" target="_blank">9 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,187265))
-- [B24a Palestine](../../../geo/about.en.html#B24a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141115/1872xx/187265/public.mets.en.xml" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,187265))
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1872xx/187265/public.mets.en.xml" target="_blank">27 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,187265))
-- [B112 Japanese Empire](../../../geo/about.en.html#B112) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141273/1872xx/187265/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141273,187265))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,187265" title="about: Turkey : Industry, capital procurement" target="_blank">9 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,187265))
+- B24a Palestine [**&nearr;**](../../../geo/i/141115/about.en.html "Palestine (all folders)") [**&uarr;**](../../../geo/about.en.html#B24a "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,187265" title="about: Palestine : Industry, capital procurement" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,187265))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,187265" title="about: Japan : Industry, capital procurement" target="_blank">27 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,187265))
+- B112 Japanese Empire [**&nearr;**](../../../geo/i/141273/about.en.html "Japanese Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#B112 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141273,187265" title="about: Japanese Empire : Industry, capital procurement" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141273,187265))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1872xx/187265/public.mets.en.xml" target="_blank">6 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,187265))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,187265" title="about: Argentina : Industry, capital procurement" target="_blank">6 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,187265))
 
 
 _* The English category label is an unchecked automated translation of the German label._

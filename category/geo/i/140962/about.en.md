@@ -1,7 +1,7 @@
 ---
 title: "A12 Poland"
 etr: category/geo/A12
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,17 +25,17 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### The country and its people, politics and economy
 
-- [b The country and its people, politics and economy, general](../../../subject/about.en.html#b) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140962/1441xx/144196/public.mets.en.xml" target="_blank">67 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140962,144196))
+- b The country and its people, politics and economy, general [**&nearr;**](../../../subject/i/144196/about.en.html "The country and its people, politics and economy, general (all over the world)") [**&uarr;**](../../../subject/about.en.html#b "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140962,144196" title="about: Poland : The country and its people, politics and economy, general" target="_blank">67 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140962,144196))
 
 ### Country studies
 
-- [c Country studies, general](../../../subject/about.en.html#c) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140962/1441xx/144199/public.mets.en.xml" target="_blank">23 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140962,144199))
-  - [c0 Sm2 Cartography](../../../subject/about.en.html#c0_Sm2) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140962/1442xx/144218/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140962,144218))
-- [c2 State borders, political division](../../../subject/about.en.html#c2) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140962/1442xx/144202/public.mets.en.xml" target="_blank">53 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140962,144202))
-- [c2a State borders with individual countries](../../../subject/about.en.html#c2a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140962/1442xx/144203/public.mets.en.xml" target="_blank">26 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140962,144203))
-- [c5 Climate](../../../subject/about.en.html#c5) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140962/1442xx/144209/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140962,144209))
-- [c7 Plant kingdom](../../../subject/about.en.html#c7) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140962/1442xx/144211/public.mets.en.xml" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140962,144211))
-- [c8 Animal kingdom](../../../subject/about.en.html#c8) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140962/1442xx/144212/public.mets.en.xml" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140962,144212))
+- c Country studies, general [**&nearr;**](../../../subject/i/144199/about.en.html "Country studies, general (all over the world)") [**&uarr;**](../../../subject/about.en.html#c "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140962,144199" title="about: Poland : Country studies, general" target="_blank">23 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140962,144199))
+  - c Sm2 Cartography [**&nearr;**](../../../subject/i/144218/about.en.html "Cartography (all over the world)") [**&uarr;**](../../../subject/about.en.html#c_Sm2 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140962,144218" title="about: Poland : Cartography" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140962,144218))
+- c2 State borders, political division [**&nearr;**](../../../subject/i/144202/about.en.html "State borders, political division (all over the world)") [**&uarr;**](../../../subject/about.en.html#c2 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140962,144202" title="about: Poland : State borders, political division" target="_blank">53 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140962,144202))
+- c2a State borders with individual countries [**&nearr;**](../../../subject/i/144203/about.en.html "State borders with individual countries (all over the world)") [**&uarr;**](../../../subject/about.en.html#c2a "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140962,144203" title="about: Poland : State borders with individual countries" target="_blank">26 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140962,144203))
+- c5 Climate [**&nearr;**](../../../subject/i/144209/about.en.html "Climate (all over the world)") [**&uarr;**](../../../subject/about.en.html#c5 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140962,144209" title="about: Poland : Climate" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140962,144209))
+- c7 Plant kingdom [**&nearr;**](../../../subject/i/144211/about.en.html "Plant kingdom (all over the world)") [**&uarr;**](../../../subject/about.en.html#c7 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140962,144211" title="about: Poland : Plant kingdom" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140962,144211))
+- c8 Animal kingdom [**&nearr;**](../../../subject/i/144212/about.en.html "Animal kingdom (all over the world)") [**&uarr;**](../../../subject/about.en.html#c8 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140962,144212" title="about: Poland : Animal kingdom" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140962,144212))
 
 
 _* The English category label is an unchecked automated translation of the German label._

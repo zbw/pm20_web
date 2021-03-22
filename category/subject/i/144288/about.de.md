@@ -1,7 +1,7 @@
 ---
 title: "f2 Sm2 Flüchtlinge im Zufluchtslande"
 etr: category/subject/f2 Sm2
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -25,30 +25,30 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- [A9 Hamburg](../../../geo/about.de.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1442xx/144288/public.mets.de.xml" target="_blank">11 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,144288))
-- [A10 Deutschland](../../../geo/about.de.html#A10) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1261xx/126128/1442xx/144288/public.mets.de.xml" target="_blank">69 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/126128,144288))
-- [A36 Italienische Kolonien](../../../geo/about.de.html#A36) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1410xx/141012/1442xx/144288/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141012,144288))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144288" title="über: Hamburg : Flüchtlinge im Zufluchtslande" target="_blank">11 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,144288))
+- A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,144288" title="über: Deutschland : Flüchtlinge im Zufluchtslande" target="_blank">69 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/126128,144288))
+- A36 Italienische Kolonien [**&nearr;**](../../../geo/i/141012/about.de.html "Italienische Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A36 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141012,144288" title="über: Italienische Kolonien : Flüchtlinge im Zufluchtslande" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141012,144288))
 
 ### Asien
 
-- [B19 Rhodos und Dodekanes](../../../geo/about.de.html#B19) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141106/1442xx/144288/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141106,144288))
-- [B21 Türkei (1923 -)](../../../geo/about.de.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1442xx/144288/public.mets.de.xml" target="_blank">26 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,144288))
-- [B23 Irak](../../../geo/about.de.html#B23) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141113/1442xx/144288/public.mets.de.xml" target="_blank">7 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141113,144288))
-- [B24 Syrien](../../../geo/about.de.html#B24) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141114/1442xx/144288/public.mets.de.xml" target="_blank">7 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141114,144288))
-- [B24a Palästina (-1945)](../../../geo/about.de.html#B24a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141115/1442xx/144288/public.mets.de.xml" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141115,144288))
-- [B102 Hongkong](../../../geo/about.de.html#B102) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141268/1442xx/144288/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141268,144288))
-- [B111 Japan](../../../geo/about.de.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1442xx/144288/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144288))
+- B19 Rhodos und Dodekanes [**&nearr;**](../../../geo/i/141106/about.de.html "Rhodos und Dodekanes (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B19 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141106,144288" title="über: Rhodos und Dodekanes : Flüchtlinge im Zufluchtslande" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141106,144288))
+- B21 Türkei (1923 -) [**&nearr;**](../../../geo/i/141111/about.de.html "Türkei (1923 -) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B21 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,144288" title="über: Türkei (1923 -) : Flüchtlinge im Zufluchtslande" target="_blank">26 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,144288))
+- B23 Irak [**&nearr;**](../../../geo/i/141113/about.de.html "Irak (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B23 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141113,144288" title="über: Irak : Flüchtlinge im Zufluchtslande" target="_blank">7 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141113,144288))
+- B24 Syrien [**&nearr;**](../../../geo/i/141114/about.de.html "Syrien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B24 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141114,144288" title="über: Syrien : Flüchtlinge im Zufluchtslande" target="_blank">7 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141114,144288))
+- B24a Palästina (-1945) [**&nearr;**](../../../geo/i/141115/about.de.html "Palästina (-1945) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B24a "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,144288" title="über: Palästina (-1945) : Flüchtlinge im Zufluchtslande" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141115,144288))
+- B102 Hongkong [**&nearr;**](../../../geo/i/141268/about.de.html "Hongkong (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B102 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141268,144288" title="über: Hongkong : Flüchtlinge im Zufluchtslande" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141268,144288))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144288" title="über: Japan : Flüchtlinge im Zufluchtslande" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144288))
 
 ### Afrika
 
-- [C27 Tanger](../../../geo/about.de.html#C27) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1413xx/141360/1442xx/144288/public.mets.de.xml" target="_blank">5 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141360,144288))
+- C27 Tanger [**&nearr;**](../../../geo/i/141360/about.de.html "Tanger (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C27 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141360,144288" title="über: Tanger : Flüchtlinge im Zufluchtslande" target="_blank">5 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141360,144288))
 
 ### Australien und Ozeanien
 
-- [D30 Australien](../../../geo/about.de.html#D30) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141621/1442xx/144288/public.mets.de.xml" target="_blank">18 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141621,144288))
+- D30 Australien [**&nearr;**](../../../geo/i/141621/about.de.html "Australien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#D30 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141621,144288" title="über: Australien : Flüchtlinge im Zufluchtslande" target="_blank">18 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141621,144288))
 
 ### Amerika
 
-- [E86 Argentinien](../../../geo/about.de.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1442xx/144288/public.mets.de.xml" target="_blank">12 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,144288))
+- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144288" title="über: Argentinien : Flüchtlinge im Zufluchtslande" target="_blank">12 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,144288))
 
 

@@ -1,14 +1,14 @@
 ---
-title: "f4a Sm1 Wahlrecht"
+title: "f4a Sm1 Wahlrecht einzelner Bundes- und Vasallenstaaten"
 etr: category/subject/f4a Sm1
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [f4a Sm1]{.gray}&#8201; Wahlrecht&#160; 
+# [f4a Sm1]{.gray}&#8201; Wahlrecht einzelner Bundes- und Vasallenstaaten&#160; 
 
 
 > Scope Note: Schlagwortvergabe möglich
@@ -27,6 +27,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- [A10p Polnisch-Schlesien](../../../geo/about.de.html#A10p) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140951/1443xx/144392/public.mets.de.xml" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140951,144392))
+- A10p Polnisch-Schlesien [**&nearr;**](../../../geo/i/140951/about.de.html "Polnisch-Schlesien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10p "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140951,144392" title="über: Polnisch-Schlesien : Wahlrecht einzelner Bundes- und Vasallenstaaten" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140951,144392))
 
 

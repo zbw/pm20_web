@@ -1,7 +1,7 @@
 ---
 title: "E90 Falklandinseln"
 etr: category/geo/E90
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -26,22 +26,22 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Literatur
 
-- [a Literatur, Allgemein](../../../subject/about.de.html#a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141694/1423xx/142393/public.mets.de.xml" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141694,142393))
+- a Literatur, Allgemein [**&nearr;**](../../../subject/i/142393/about.de.html "Literatur, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#a "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141694,142393" title="über: Falklandinseln : Literatur, Allgemein" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141694,142393))
 
 ### Land und Leute, Politik und Wirtschaft
 
-- [b Land und Leute, Politik und Wirtschaft, Allgemein](../../../subject/about.de.html#b) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141694/1441xx/144196/public.mets.de.xml" target="_blank">27 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141694,144196))
+- b Land und Leute, Politik und Wirtschaft, Allgemein [**&nearr;**](../../../subject/i/144196/about.de.html "Land und Leute, Politik und Wirtschaft, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#b "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141694,144196" title="über: Falklandinseln : Land und Leute, Politik und Wirtschaft, Allgemein" target="_blank">27 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141694,144196))
 
 ### Landeskunde
 
-- [c1 Expeditionen](../../../subject/about.de.html#c1) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141694/1442xx/144200/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141694,144200))
+- c1 Expeditionen [**&nearr;**](../../../subject/i/144200/about.de.html "Expeditionen (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#c1 "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141694,144200" title="über: Falklandinseln : Expeditionen" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141694,144200))
 
 ### Außenpolitik und politische Beziehungen zum Ausland
 
 - [g4 Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein]{.gray}
-  - [g4 Sm21 Handelspolitische und zollrechtliche Massnahmen aus dem Deutschen Handelsarchiv](../../../subject/about.de.html#g4_Sm21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141694/1444xx/144492/public.mets.de.xml" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141694,144492))
+  - g4 Sm21 Handelspolitische und zollrechtliche Massnahmen aus dem Deutschen Handelsarchiv [**&nearr;**](../../../subject/i/144492/about.de.html "Handelspolitische und zollrechtliche Massnahmen aus dem Deutschen Handelsarchiv (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#g4_Sm21 "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141694,144492" title="über: Falklandinseln : Handelspolitische und zollrechtliche Massnahmen aus dem Deutschen Handelsarchiv" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141694,144492))
 - [g4a Wirtschaftspolitische Beziehungen zu einzelnen Ländern]{.gray}
-  - [g4a Sm21 Handelspolitische Abmachungen mit einz. Ländern aus dem Deutschen Handelsarchiv](../../../subject/about.de.html#g4a_Sm21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141694/1445xx/144550/public.mets.de.xml" target="_blank">16 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141694,144550))
-- [g6 Interessen fremder Staaten in ..., Allgemein](../../../subject/about.de.html#g6) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141694/1445xx/144565/public.mets.de.xml" target="_blank">71 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141694,144565))
+  - g4a Sm21 Handelspolitische Abmachungen mit einz. Ländern aus dem Deutschen Handelsarchiv [**&nearr;**](../../../subject/i/144550/about.de.html "Handelspolitische Abmachungen mit einz. Ländern aus dem Deutschen Handelsarchiv (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#g4a_Sm21 "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141694,144550" title="über: Falklandinseln : Handelspolitische Abmachungen mit einz. Ländern aus dem Deutschen Handelsarchiv" target="_blank">16 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141694,144550))
+- g6 Interessen fremder Staaten in ..., Allgemein [**&nearr;**](../../../subject/i/144565/about.de.html "Interessen fremder Staaten in ..., Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#g6 "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141694,144565" title="über: Falklandinseln : Interessen fremder Staaten in ..., Allgemein" target="_blank">71 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141694,144565))
 
 

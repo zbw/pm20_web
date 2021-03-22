@@ -1,14 +1,14 @@
 ---
-title: "g0 Sm8.II Foreign political and cultural propaganda, general"
-etr: category/subject/g0 Sm8.II
-modified: 2020-12-18
+title: "g Sm8.II Foreign political and cultural propaganda, general"
+etr: category/subject/g Sm8.II
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [g0 Sm8.II]{.gray}&#8201; Foreign political and cultural propaganda, general&#160; 
+# [g Sm8.II]{.gray}&#8201; Foreign political and cultural propaganda, general&#160; 
 
 
 
@@ -25,22 +25,22 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Asia
 
-- [B21 Turkey](../../../geo/about.en.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1445xx/144580/public.mets.en.xml" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,144580))
-- [B23 Iraq](../../../geo/about.en.html#B23) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141113/1445xx/144580/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141113,144580))
-- [B24a Palestine](../../../geo/about.en.html#B24a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141115/1445xx/144580/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,144580))
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1445xx/144580/public.mets.en.xml" target="_blank">6 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144580))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,144580" title="about: Turkey : Foreign political and cultural propaganda, general" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,144580))
+- B23 Iraq [**&nearr;**](../../../geo/i/141113/about.en.html "Iraq (all folders)") [**&uarr;**](../../../geo/about.en.html#B23 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141113,144580" title="about: Iraq : Foreign political and cultural propaganda, general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141113,144580))
+- B24a Palestine [**&nearr;**](../../../geo/i/141115/about.en.html "Palestine (all folders)") [**&uarr;**](../../../geo/about.en.html#B24a "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,144580" title="about: Palestine : Foreign political and cultural propaganda, general" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,144580))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144580" title="about: Japan : Foreign political and cultural propaganda, general" target="_blank">6 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144580))
 
 ### Africa
 
-- [C25 French protectorate in Morocco](../../../geo/about.en.html#C25) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1413xx/141358/1445xx/144580/public.mets.en.xml" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141358,144580))
+- C25 French protectorate in Morocco [**&nearr;**](../../../geo/i/141358/about.en.html "French protectorate in Morocco (all folders)") [**&uarr;**](../../../geo/about.en.html#C25 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141358,144580" title="about: French protectorate in Morocco : Foreign political and cultural propaganda, general" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141358,144580))
 
 ### Australia and Oceania
 
-- [D30 Australia](../../../geo/about.en.html#D30) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141621/1445xx/144580/public.mets.en.xml" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141621,144580))
+- D30 Australia [**&nearr;**](../../../geo/i/141621/about.en.html "Australia (all folders)") [**&uarr;**](../../../geo/about.en.html#D30 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141621,144580" title="about: Australia : Foreign political and cultural propaganda, general" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141621,144580))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1445xx/144580/public.mets.en.xml" target="_blank">13 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,144580))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144580" title="about: Argentina : Foreign political and cultural propaganda, general" target="_blank">13 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,144580))
 
 
 _* The English category label is an unchecked automated translation of the German label._

@@ -1,7 +1,7 @@
 ---
 title: "c4 Landeskunde, Gewässer"
 etr: category/subject/c4
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -25,14 +25,14 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Australien und Ozeanien
 
-- [D30 Australien](../../../geo/about.de.html#D30) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141621/1442xx/144205/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141621,144205))
+- D30 Australien [**&nearr;**](../../../geo/i/141621/about.de.html "Australien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#D30 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141621,144205" title="über: Australien : Landeskunde, Gewässer" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141621,144205))
 
 ### Amerika
 
-- [E86 Argentinien](../../../geo/about.de.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1442xx/144205/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,144205))
+- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144205" title="über: Argentinien : Landeskunde, Gewässer" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,144205))
 
 ### Welt
 
-- [H Welt](../../../geo/about.de.html#H) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1417xx/141728/1442xx/144205/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141728,144205))
+- H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141728,144205" title="über: Welt : Landeskunde, Gewässer" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141728,144205))
 
 

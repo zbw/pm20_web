@@ -1,7 +1,7 @@
 ---
 title: "n1 Sm62 Inventory management for times of crisis"
 etr: category/subject/n1 Sm62
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,12 +25,12 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A6 Southeastern Europe](../../../geo/about.en.html#A6) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140900/1449xx/144957/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140900,144957))
+- A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,144957" title="about: Southeastern Europe : Inventory management for times of crisis" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140900,144957))
 
 ### Asia
 
-- [B21 Turkey](../../../geo/about.en.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1449xx/144957/public.mets.en.xml" target="_blank">16 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,144957))
-- [B24a Palestine](../../../geo/about.en.html#B24a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141115/1449xx/144957/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,144957))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,144957" title="about: Turkey : Inventory management for times of crisis" target="_blank">16 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,144957))
+- B24a Palestine [**&nearr;**](../../../geo/i/141115/about.en.html "Palestine (all folders)") [**&uarr;**](../../../geo/about.en.html#B24a "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,144957" title="about: Palestine : Inventory management for times of crisis" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,144957))
 
 
 _* The English category label is an unchecked automated translation of the German label._

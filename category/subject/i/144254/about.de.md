@@ -1,7 +1,7 @@
 ---
 title: "d9 Geistige Kultur, Wissenschaftliche Leistungen, Allgemein"
 etr: category/subject/d9
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -25,33 +25,33 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- [A1 Europa](../../../geo/about.de.html#A1) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1408xx/140892/1442xx/144254/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140892,144254))
-- [A6 Südosteuropa](../../../geo/about.de.html#A6) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140900/1442xx/144254/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140900,144254))
-- [A9 Hamburg](../../../geo/about.de.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1442xx/144254/public.mets.de.xml" target="_blank">11 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,144254))
-- [A10 Deutschland](../../../geo/about.de.html#A10) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1261xx/126128/1442xx/144254/public.mets.de.xml" target="_blank">137 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/126128,144254))
+- A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,144254" title="über: Europa : Geistige Kultur, Wissenschaftliche Leistungen, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140892,144254))
+- A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,144254" title="über: Südosteuropa : Geistige Kultur, Wissenschaftliche Leistungen, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140900,144254))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144254" title="über: Hamburg : Geistige Kultur, Wissenschaftliche Leistungen, Allgemein" target="_blank">11 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,144254))
+- A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,144254" title="über: Deutschland : Geistige Kultur, Wissenschaftliche Leistungen, Allgemein" target="_blank">137 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/126128,144254))
 
 ### Asien
 
-- [B21 Türkei (1923 -)](../../../geo/about.de.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1442xx/144254/public.mets.de.xml" target="_blank">9 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,144254))
-- [B22 Armenien (türkisch)](../../../geo/about.de.html#B22) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141112/1442xx/144254/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141112,144254))
-- [B23 Irak](../../../geo/about.de.html#B23) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141113/1442xx/144254/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141113,144254))
-- [B24 Syrien](../../../geo/about.de.html#B24) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141114/1442xx/144254/public.mets.de.xml" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141114,144254))
-- [B24a Palästina (-1945)](../../../geo/about.de.html#B24a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141115/1442xx/144254/public.mets.de.xml" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141115,144254))
-- [B111 Japan](../../../geo/about.de.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1442xx/144254/public.mets.de.xml" target="_blank">41 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144254))
+- B21 Türkei (1923 -) [**&nearr;**](../../../geo/i/141111/about.de.html "Türkei (1923 -) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B21 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,144254" title="über: Türkei (1923 -) : Geistige Kultur, Wissenschaftliche Leistungen, Allgemein" target="_blank">9 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,144254))
+- B22 Armenien (türkisch) [**&nearr;**](../../../geo/i/141112/about.de.html "Armenien (türkisch) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B22 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141112,144254" title="über: Armenien (türkisch) : Geistige Kultur, Wissenschaftliche Leistungen, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141112,144254))
+- B23 Irak [**&nearr;**](../../../geo/i/141113/about.de.html "Irak (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B23 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141113,144254" title="über: Irak : Geistige Kultur, Wissenschaftliche Leistungen, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141113,144254))
+- B24 Syrien [**&nearr;**](../../../geo/i/141114/about.de.html "Syrien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B24 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141114,144254" title="über: Syrien : Geistige Kultur, Wissenschaftliche Leistungen, Allgemein" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141114,144254))
+- B24a Palästina (-1945) [**&nearr;**](../../../geo/i/141115/about.de.html "Palästina (-1945) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B24a "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,144254" title="über: Palästina (-1945) : Geistige Kultur, Wissenschaftliche Leistungen, Allgemein" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141115,144254))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144254" title="über: Japan : Geistige Kultur, Wissenschaftliche Leistungen, Allgemein" target="_blank">41 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144254))
 
 ### Afrika
 
-- [C25 Französisch-Marokko](../../../geo/about.de.html#C25) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1413xx/141358/1442xx/144254/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141358,144254))
-- [C110 Deutsch-Ostafrika](../../../geo/about.de.html#C110) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141471/1442xx/144254/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141471,144254))
-- [C125 Abessinien](../../../geo/about.de.html#C125) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141482/1442xx/144254/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141482,144254))
+- C25 Französisch-Marokko [**&nearr;**](../../../geo/i/141358/about.de.html "Französisch-Marokko (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C25 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141358,144254" title="über: Französisch-Marokko : Geistige Kultur, Wissenschaftliche Leistungen, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141358,144254))
+- C110 Deutsch-Ostafrika [**&nearr;**](../../../geo/i/141471/about.de.html "Deutsch-Ostafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C110 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141471,144254" title="über: Deutsch-Ostafrika : Geistige Kultur, Wissenschaftliche Leistungen, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141471,144254))
+- C125 Abessinien [**&nearr;**](../../../geo/i/141482/about.de.html "Abessinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C125 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141482,144254" title="über: Abessinien : Geistige Kultur, Wissenschaftliche Leistungen, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141482,144254))
 
 ### Australien und Ozeanien
 
-- [D30 Australien](../../../geo/about.de.html#D30) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141621/1442xx/144254/public.mets.de.xml" target="_blank">5 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141621,144254))
+- D30 Australien [**&nearr;**](../../../geo/i/141621/about.de.html "Australien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#D30 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141621,144254" title="über: Australien : Geistige Kultur, Wissenschaftliche Leistungen, Allgemein" target="_blank">5 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141621,144254))
 
 ### Amerika
 
-- [E86 Argentinien](../../../geo/about.de.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1442xx/144254/public.mets.de.xml" target="_blank">20 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,144254))
-- [E95 Uruguay](../../../geo/about.de.html#E95) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141695/1442xx/144254/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141695,144254))
+- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144254" title="über: Argentinien : Geistige Kultur, Wissenschaftliche Leistungen, Allgemein" target="_blank">20 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,144254))
+- E95 Uruguay [**&nearr;**](../../../geo/i/141695/about.de.html "Uruguay (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E95 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141695,144254" title="über: Uruguay : Geistige Kultur, Wissenschaftliche Leistungen, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141695,144254))
 
 

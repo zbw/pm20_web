@@ -1,7 +1,7 @@
 ---
 title: "n15a Sm2 Labor contracts, construction industry and finishing trades"
 etr: category/subject/n15a Sm2
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,21 +25,21 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1452xx/145207/public.mets.en.xml" target="_blank">73 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145207))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145207" title="about: Hamburg : Labor contracts, construction industry and finishing trades" target="_blank">73 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145207))
 
 ### Asia
 
-- [B21 Turkey](../../../geo/about.en.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1452xx/145207/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145207))
-- [B24a Palestine](../../../geo/about.en.html#B24a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141115/1452xx/145207/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,145207))
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1452xx/145207/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145207))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145207" title="about: Turkey : Labor contracts, construction industry and finishing trades" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145207))
+- B24a Palestine [**&nearr;**](../../../geo/i/141115/about.en.html "Palestine (all folders)") [**&uarr;**](../../../geo/about.en.html#B24a "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,145207" title="about: Palestine : Labor contracts, construction industry and finishing trades" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,145207))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145207" title="about: Japan : Labor contracts, construction industry and finishing trades" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145207))
 
 ### Africa
 
-- [C110 German East Africa](../../../geo/about.en.html#C110) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141471/1452xx/145207/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141471,145207))
+- C110 German East Africa [**&nearr;**](../../../geo/i/141471/about.en.html "German East Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C110 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141471,145207" title="about: German East Africa : Labor contracts, construction industry and finishing trades" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141471,145207))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1452xx/145207/public.mets.en.xml" target="_blank">31 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145207))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145207" title="about: Argentina : Labor contracts, construction industry and finishing trades" target="_blank">31 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145207))
 
 
 _* The English category label is an unchecked automated translation of the German label._

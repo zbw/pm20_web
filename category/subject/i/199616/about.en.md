@@ -1,7 +1,7 @@
 ---
 title: "n39 Sm3 Carney"
 etr: category/subject/n39 Sm3
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -22,7 +22,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1996xx/199616/public.mets.en.xml" target="_blank">12 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,199616))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,199616" title="about: Hamburg : Carney" target="_blank">12 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,199616))
 
 
 _* The English category label is an unchecked automated translation of the German label._

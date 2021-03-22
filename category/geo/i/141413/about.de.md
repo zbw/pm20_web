@@ -1,7 +1,7 @@
 ---
 title: "C71 Sao Tome und Principe"
 etr: category/geo/C71
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -25,14 +25,14 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Land und Leute, Politik und Wirtschaft
 
-- [b Land und Leute, Politik und Wirtschaft, Allgemein](../../../subject/about.de.html#b) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141413/1441xx/144196/public.mets.de.xml" target="_blank">6 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141413,144196))
-- [b1 Land und Leute, Reiseschilderungen](../../../subject/about.de.html#b1) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141413/1441xx/144197/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141413,144197))
+- b Land und Leute, Politik und Wirtschaft, Allgemein [**&nearr;**](../../../subject/i/144196/about.de.html "Land und Leute, Politik und Wirtschaft, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#b "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141413,144196" title="über: Sao Tome und Principe : Land und Leute, Politik und Wirtschaft, Allgemein" target="_blank">6 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141413,144196))
+- b1 Land und Leute, Reiseschilderungen [**&nearr;**](../../../subject/i/144197/about.de.html "Land und Leute, Reiseschilderungen (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#b1 "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141413,144197" title="über: Sao Tome und Principe : Land und Leute, Reiseschilderungen" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141413,144197))
 
 ### Landeskunde
 
-- [c Landeskunde, Allgemein](../../../subject/about.de.html#c) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141413/1441xx/144199/public.mets.de.xml" target="_blank">6 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141413,144199))
-- [c5 Landeskunde, Klima](../../../subject/about.de.html#c5) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141413/1442xx/144209/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141413,144209))
-- [c7 Landeskunde, Pflanzenreich](../../../subject/about.de.html#c7) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141413/1442xx/144211/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141413,144211))
-- [c9 Landeskunde, Landschaften, Beschreibung einzelner Orte und Gegenden](../../../subject/about.de.html#c9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141413/1442xx/144214/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141413,144214))
+- c Landeskunde, Allgemein [**&nearr;**](../../../subject/i/144199/about.de.html "Landeskunde, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#c "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141413,144199" title="über: Sao Tome und Principe : Landeskunde, Allgemein" target="_blank">6 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141413,144199))
+- c5 Landeskunde, Klima [**&nearr;**](../../../subject/i/144209/about.de.html "Landeskunde, Klima (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#c5 "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141413,144209" title="über: Sao Tome und Principe : Landeskunde, Klima" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141413,144209))
+- c7 Landeskunde, Pflanzenreich [**&nearr;**](../../../subject/i/144211/about.de.html "Landeskunde, Pflanzenreich (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#c7 "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141413,144211" title="über: Sao Tome und Principe : Landeskunde, Pflanzenreich" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141413,144211))
+- c9 Landeskunde, Landschaften, Beschreibung einzelner Orte und Gegenden [**&nearr;**](../../../subject/i/144214/about.de.html "Landeskunde, Landschaften, Beschreibung einzelner Orte und Gegenden (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#c9 "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141413,144214" title="über: Sao Tome und Principe : Landeskunde, Landschaften, Beschreibung einzelner Orte und Gegenden" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141413,144214))
 
 

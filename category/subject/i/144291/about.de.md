@@ -1,7 +1,7 @@
 ---
 title: "f2 Sm5 Schicksal der Fürstenhäuser"
 etr: category/subject/f2 Sm5
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -25,15 +25,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- [A10 Deutschland](../../../geo/about.de.html#A10) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1261xx/126128/1442xx/144291/public.mets.de.xml" target="_blank">723 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/126128,144291))
+- A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,144291" title="über: Deutschland : Schicksal der Fürstenhäuser" target="_blank">723 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/126128,144291))
 
 ### Asien
 
-- [B21 Türkei (1923 -)](../../../geo/about.de.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1442xx/144291/public.mets.de.xml" target="_blank">17 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,144291))
-- [B111 Japan](../../../geo/about.de.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1442xx/144291/public.mets.de.xml" target="_blank">23 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144291))
+- B21 Türkei (1923 -) [**&nearr;**](../../../geo/i/141111/about.de.html "Türkei (1923 -) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B21 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,144291" title="über: Türkei (1923 -) : Schicksal der Fürstenhäuser" target="_blank">17 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,144291))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144291" title="über: Japan : Schicksal der Fürstenhäuser" target="_blank">23 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144291))
 
 ### Afrika
 
-- [C25 Französisch-Marokko](../../../geo/about.de.html#C25) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1413xx/141358/1442xx/144291/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141358,144291))
+- C25 Französisch-Marokko [**&nearr;**](../../../geo/i/141358/about.de.html "Französisch-Marokko (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C25 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141358,144291" title="über: Französisch-Marokko : Schicksal der Fürstenhäuser" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141358,144291))
 
 

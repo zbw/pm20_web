@@ -1,14 +1,14 @@
 ---
-title: "n0 Sm27 Brands, general"
-etr: category/subject/n0 Sm27
-modified: 2020-12-18
+title: "n Sm27 Brands, general"
+etr: category/subject/n Sm27
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [n0 Sm27]{.gray}&#8201; Brands, general&#160; 
+# [n Sm27]{.gray}&#8201; Brands, general&#160; 
 
 
 
@@ -22,9 +22,9 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- [A1 Europe](../../../geo/about.en.html#A1) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1408xx/140892/1458xx/145822/public.mets.en.xml" target="_blank">0 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140892,145822))
-- [A6 Southeastern Europe](../../../geo/about.en.html#A6) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140900/1458xx/145822/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140900,145822))
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1458xx/145822/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145822))
+- A1 Europe [**&nearr;**](../../../geo/i/140892/about.en.html "Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A1 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,145822" title="about: Europe : Brands, general" target="_blank">0 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140892,145822))
+- A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,145822" title="about: Southeastern Europe : Brands, general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140900,145822))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145822" title="about: Hamburg : Brands, general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145822))
 
 
 _* The English category label is an unchecked automated translation of the German label._

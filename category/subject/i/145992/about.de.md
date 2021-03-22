@@ -1,7 +1,7 @@
 ---
 title: "q Sm41 Korruption"
 etr: category/subject/q Sm41
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -25,23 +25,23 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- [A9 Hamburg](../../../geo/about.de.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1459xx/145992/public.mets.de.xml" target="_blank">28 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,145992))
-- [A10 Deutschland](../../../geo/about.de.html#A10) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1261xx/126128/1459xx/145992/public.mets.de.xml" target="_blank">87 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/126128,145992))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145992" title="über: Hamburg : Korruption" target="_blank">28 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,145992))
+- A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,145992" title="über: Deutschland : Korruption" target="_blank">87 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/126128,145992))
 
 ### Asien
 
-- [B21 Türkei (1923 -)](../../../geo/about.de.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1459xx/145992/public.mets.de.xml" target="_blank">48 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,145992))
-- [B23 Irak](../../../geo/about.de.html#B23) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141113/1459xx/145992/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141113,145992))
-- [B24a Palästina (-1945)](../../../geo/about.de.html#B24a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141115/1459xx/145992/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141115,145992))
-- [B111 Japan](../../../geo/about.de.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1459xx/145992/public.mets.de.xml" target="_blank">68 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,145992))
+- B21 Türkei (1923 -) [**&nearr;**](../../../geo/i/141111/about.de.html "Türkei (1923 -) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B21 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145992" title="über: Türkei (1923 -) : Korruption" target="_blank">48 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,145992))
+- B23 Irak [**&nearr;**](../../../geo/i/141113/about.de.html "Irak (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B23 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141113,145992" title="über: Irak : Korruption" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141113,145992))
+- B24a Palästina (-1945) [**&nearr;**](../../../geo/i/141115/about.de.html "Palästina (-1945) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B24a "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,145992" title="über: Palästina (-1945) : Korruption" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141115,145992))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145992" title="über: Japan : Korruption" target="_blank">68 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,145992))
 
 ### Afrika
 
-- [C85 Portugiesisch-Westafrika](../../../geo/about.de.html#C85) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141449/1459xx/145992/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141449,145992))
+- C85 Portugiesisch-Westafrika [**&nearr;**](../../../geo/i/141449/about.de.html "Portugiesisch-Westafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C85 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141449,145992" title="über: Portugiesisch-Westafrika : Korruption" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141449,145992))
 
 ### Amerika
 
-- [E85 Chile](../../../geo/about.de.html#E85) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141691/1459xx/145992/public.mets.de.xml" target="_blank">6 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141691,145992))
-- [E86 Argentinien](../../../geo/about.de.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1459xx/145992/public.mets.de.xml" target="_blank">16 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,145992))
+- E85 Chile [**&nearr;**](../../../geo/i/141691/about.de.html "Chile (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E85 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141691,145992" title="über: Chile : Korruption" target="_blank">6 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141691,145992))
+- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145992" title="über: Argentinien : Korruption" target="_blank">16 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,145992))
 
 

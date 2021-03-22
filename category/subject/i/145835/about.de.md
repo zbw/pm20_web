@@ -1,14 +1,14 @@
 ---
-title: "n0 Sm37 Lehrlingwesen, Allgemein"
-etr: category/subject/n0 Sm37
-modified: 2020-12-18
+title: "n Sm37 Lehrlingwesen, Allgemein"
+etr: category/subject/n Sm37
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [n0 Sm37]{.gray}&#8201; Lehrlingwesen, Allgemein&#160; 
+# [n Sm37]{.gray}&#8201; Lehrlingwesen, Allgemein&#160; 
 
 
 
@@ -22,10 +22,10 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 
 
-- [A9 Hamburg](../../../geo/about.de.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1458xx/145835/public.mets.de.xml" target="_blank">25 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,145835))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145835" title="über: Hamburg : Lehrlingwesen, Allgemein" target="_blank">25 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,145835))
 
 ### Amerika
 
-- [E86 Argentinien](../../../geo/about.de.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1458xx/145835/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,145835))
+- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145835" title="über: Argentinien : Lehrlingwesen, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,145835))
 
 

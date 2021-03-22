@@ -1,7 +1,7 @@
 ---
 title: "q Sm26 Colored question"
 etr: category/subject/q Sm26
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,11 +25,11 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A10 Germany](../../../geo/about.en.html#A10) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1261xx/126128/1459xx/145974/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,145974))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,145974" title="about: Germany : Colored question" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,145974))
 
 ### Africa
 
-- [C87 German South-West Africa](../../../geo/about.en.html#C87) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141450/1459xx/145974/public.mets.en.xml" target="_blank">11 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141450,145974))
+- C87 German South-West Africa [**&nearr;**](../../../geo/i/141450/about.en.html "German South-West Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C87 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141450,145974" title="about: German South-West Africa : Colored question" target="_blank">11 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141450,145974))
 
 
 _* The English category label is an unchecked automated translation of the German label._

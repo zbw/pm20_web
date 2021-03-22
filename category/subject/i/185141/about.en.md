@@ -1,14 +1,14 @@
 ---
-title: "d0 Sm40 Population and population policy, occupations and training"
-etr: category/subject/d0 Sm40
-modified: 2020-12-18
+title: "d Sm40 Population and population policy, occupations and training"
+etr: category/subject/d Sm40
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [d0 Sm40]{.gray}&#8201; Population and population policy, occupations and training&#160; 
+# [d Sm40]{.gray}&#8201; Population and population policy, occupations and training&#160; 
 
 
 
@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A10 Germany](../../../geo/about.en.html#A10) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1261xx/126128/1851xx/185141/public.mets.en.xml" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,185141))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,185141" title="about: Germany : Population and population policy, occupations and training" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,185141))
 
 
 _* The English category label is an unchecked automated translation of the German label._

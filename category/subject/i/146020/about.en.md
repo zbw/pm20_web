@@ -1,7 +1,7 @@
 ---
 title: "q Sm501 (C87) Boers in Angola"
 etr: category/subject/q Sm501 (C87)
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -22,7 +22,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- [C87 German South-West Africa](../../../geo/about.en.html#C87) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141450/1460xx/146020/public.mets.en.xml" target="_blank">115 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141450,146020))
+- C87 German South-West Africa [**&nearr;**](../../../geo/i/141450/about.en.html "German South-West Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C87 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141450,146020" title="about: German South-West Africa : Boers in Angola" target="_blank">115 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141450,146020))
 
 
 _* The English category label is an unchecked automated translation of the German label._

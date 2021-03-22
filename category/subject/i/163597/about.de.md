@@ -1,14 +1,14 @@
 ---
-title: "g0 Sm14 Stimmen und Stellung zu den deutschen Friedensdiktatbestimmungen und deren Ausführung (Versailles)"
-etr: category/subject/g0 Sm14
-modified: 2020-12-18
+title: "g Sm14 Stimmen und Stellung zu den deutschen Friedensdiktatbestimmungen und deren Ausführung (Versailles)"
+etr: category/subject/g Sm14
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [g0 Sm14]{.gray}&#8201; Stimmen und Stellung zu den deutschen Friedensdiktatbestimmungen und deren Ausführung (Versailles)&#160; 
+# [g Sm14]{.gray}&#8201; Stimmen und Stellung zu den deutschen Friedensdiktatbestimmungen und deren Ausführung (Versailles)&#160; 
 
 
 
@@ -25,10 +25,10 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Afrika
 
-- [C110 Deutsch-Ostafrika](../../../geo/about.de.html#C110) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141471/1635xx/163597/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141471,163597))
+- C110 Deutsch-Ostafrika [**&nearr;**](../../../geo/i/141471/about.de.html "Deutsch-Ostafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C110 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141471,163597" title="über: Deutsch-Ostafrika : Stimmen und Stellung zu den deutschen Friedensdiktatbestimmungen und deren Ausführung (Versailles)" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141471,163597))
 
 ### Amerika
 
-- [E86 Argentinien](../../../geo/about.de.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1635xx/163597/public.mets.de.xml" target="_blank">6 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,163597))
+- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,163597" title="über: Argentinien : Stimmen und Stellung zu den deutschen Friedensdiktatbestimmungen und deren Ausführung (Versailles)" target="_blank">6 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,163597))
 
 

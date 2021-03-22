@@ -1,7 +1,7 @@
 ---
 title: "g4 Sm3.I State Business propaganda, general"
 etr: category/subject/g4 Sm3.I
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,25 +25,25 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A1 Europe](../../../geo/about.en.html#A1) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1408xx/140892/1444xx/144482/public.mets.en.xml" target="_blank">23 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140892,144482))
-- [A6 Southeastern Europe](../../../geo/about.en.html#A6) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140900/1444xx/144482/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140900,144482))
-- [A8 Russian peripheral countries](../../../geo/about.en.html#A8) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140904/1444xx/144482/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140904,144482))
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1444xx/144482/public.mets.en.xml" target="_blank">12 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,144482))
+- A1 Europe [**&nearr;**](../../../geo/i/140892/about.en.html "Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A1 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,144482" title="about: Europe : State Business propaganda, general" target="_blank">23 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140892,144482))
+- A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,144482" title="about: Southeastern Europe : State Business propaganda, general" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140900,144482))
+- A8 Russian peripheral countries [**&nearr;**](../../../geo/i/140904/about.en.html "Russian peripheral countries (all folders)") [**&uarr;**](../../../geo/about.en.html#A8 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140904,144482" title="about: Russian peripheral countries : State Business propaganda, general" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140904,144482))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144482" title="about: Hamburg : State Business propaganda, general" target="_blank">12 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,144482))
 
 ### Asia
 
-- [B21 Turkey](../../../geo/about.en.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1444xx/144482/public.mets.en.xml" target="_blank">25 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,144482))
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1444xx/144482/public.mets.en.xml" target="_blank">57 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144482))
-- [B113 Formosa](../../../geo/about.en.html#B113) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141274/1444xx/144482/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141274,144482))
-- [B114 Guangdong](../../../geo/about.en.html#B114) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141275/1444xx/144482/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141275,144482))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,144482" title="about: Turkey : State Business propaganda, general" target="_blank">25 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,144482))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144482" title="about: Japan : State Business propaganda, general" target="_blank">57 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144482))
+- B113 Formosa [**&nearr;**](../../../geo/i/141274/about.en.html "Formosa (all folders)") [**&uarr;**](../../../geo/about.en.html#B113 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141274,144482" title="about: Formosa : State Business propaganda, general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141274,144482))
+- B114 Guangdong [**&nearr;**](../../../geo/i/141275/about.en.html "Guangdong (all folders)") [**&uarr;**](../../../geo/about.en.html#B114 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141275,144482" title="about: Guangdong : State Business propaganda, general" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141275,144482))
 
 ### Africa
 
-- [C25 French protectorate in Morocco](../../../geo/about.en.html#C25) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1413xx/141358/1444xx/144482/public.mets.en.xml" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141358,144482))
+- C25 French protectorate in Morocco [**&nearr;**](../../../geo/i/141358/about.en.html "French protectorate in Morocco (all folders)") [**&uarr;**](../../../geo/about.en.html#C25 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141358,144482" title="about: French protectorate in Morocco : State Business propaganda, general" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141358,144482))
 
 ### Australia and Oceania
 
-- [D30 Australia](../../../geo/about.en.html#D30) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141621/1444xx/144482/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141621,144482))
+- D30 Australia [**&nearr;**](../../../geo/i/141621/about.en.html "Australia (all folders)") [**&uarr;**](../../../geo/about.en.html#D30 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141621,144482" title="about: Australia : State Business propaganda, general" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141621,144482))
 
 
 _* The English category label is an unchecked automated translation of the German label._

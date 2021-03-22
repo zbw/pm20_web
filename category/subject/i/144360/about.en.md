@@ -1,7 +1,7 @@
 ---
 title: "f4 Sm3 State court"
 etr: category/subject/f4 Sm3
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,11 +25,11 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1443xx/144360/public.mets.en.xml" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,144360))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144360" title="about: Hamburg : State court" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,144360))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1443xx/144360/public.mets.en.xml" target="_blank">17 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,144360))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144360" title="about: Argentina : State court" target="_blank">17 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,144360))
 
 
 _* The English category label is an unchecked automated translation of the German label._

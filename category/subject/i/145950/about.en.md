@@ -1,7 +1,7 @@
 ---
 title: "q Sm6 (alt) Japanese question"
 etr: category/subject/q Sm6 (alt)
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Africa
 
-- [C122 French Somaliland](../../../geo/about.en.html#C122) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141479/1459xx/145950/public.mets.en.xml" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141479,145950))
+- C122 French Somaliland [**&nearr;**](../../../geo/i/141479/about.en.html "French Somaliland (all folders)") [**&uarr;**](../../../geo/about.en.html#C122 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141479,145950" title="about: French Somaliland : Japanese question" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141479,145950))
 
 
 _* The English category label is an unchecked automated translation of the German label._

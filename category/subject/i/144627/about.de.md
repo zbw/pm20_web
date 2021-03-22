@@ -1,14 +1,14 @@
 ---
-title: "g0 Sm502 (B 111) Japan-Russland-China Vertrag vom 21.1.1925"
-etr: category/subject/g0 Sm502 (B 111)
-modified: 2020-12-18
+title: "g Sm502 (B111) Japan-Russland-China Vertrag vom 21.1.1925"
+etr: category/subject/g Sm502 (B111)
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [g0 Sm502 (B 111)]{.gray}&#8201; Japan-Russland-China Vertrag vom 21.1.1925&#160; 
+# [g Sm502 (B111)]{.gray}&#8201; Japan-Russland-China Vertrag vom 21.1.1925&#160; 
 
 
 
@@ -22,6 +22,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 
 
-- [B111 Japan](../../../geo/about.de.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1446xx/144627/public.mets.de.xml" target="_blank">5 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144627))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144627" title="über: Japan : Japan-Russland-China Vertrag vom 21.1.1925" target="_blank">5 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144627))
 
 

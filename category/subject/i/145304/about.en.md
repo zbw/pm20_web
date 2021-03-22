@@ -1,7 +1,7 @@
 ---
 title: "n22 Sm1 Warehouse management"
 etr: category/subject/n22 Sm1
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,22 +25,22 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1453xx/145304/public.mets.en.xml" target="_blank">9 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145304))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145304" title="about: Hamburg : Warehouse management" target="_blank">9 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145304))
 
 ### Asia
 
-- [B21 Turkey](../../../geo/about.en.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1453xx/145304/public.mets.en.xml" target="_blank">38 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145304))
-- [B24 Syria](../../../geo/about.en.html#B24) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141114/1453xx/145304/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141114,145304))
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1453xx/145304/public.mets.en.xml" target="_blank">7 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145304))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145304" title="about: Turkey : Warehouse management" target="_blank">38 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145304))
+- B24 Syria [**&nearr;**](../../../geo/i/141114/about.en.html "Syria (all folders)") [**&uarr;**](../../../geo/about.en.html#B24 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141114,145304" title="about: Syria : Warehouse management" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141114,145304))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145304" title="about: Japan : Warehouse management" target="_blank">7 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145304))
 
 ### Africa
 
-- [C65 Cameroon](../../../geo/about.en.html#C65) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141410/1453xx/145304/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141410,145304))
-- [C110 German East Africa](../../../geo/about.en.html#C110) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141471/1453xx/145304/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141471,145304))
+- C65 Cameroon [**&nearr;**](../../../geo/i/141410/about.en.html "Cameroon (all folders)") [**&uarr;**](../../../geo/about.en.html#C65 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141410,145304" title="about: Cameroon : Warehouse management" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141410,145304))
+- C110 German East Africa [**&nearr;**](../../../geo/i/141471/about.en.html "German East Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C110 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141471,145304" title="about: German East Africa : Warehouse management" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141471,145304))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1453xx/145304/public.mets.en.xml" target="_blank">22 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145304))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145304" title="about: Argentina : Warehouse management" target="_blank">22 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145304))
 
 
 _* The English category label is an unchecked automated translation of the German label._

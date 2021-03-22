@@ -1,7 +1,7 @@
 ---
 title: "k2 Sm4 Technical education"
 etr: category/subject/k2 Sm4
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,20 +25,20 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1447xx/144743/public.mets.en.xml" target="_blank">183 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,144743))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144743" title="about: Hamburg : Technical education" target="_blank">183 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,144743))
 
 ### Asia
 
-- [B21 Turkey](../../../geo/about.en.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1447xx/144743/public.mets.en.xml" target="_blank">18 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,144743))
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1447xx/144743/public.mets.en.xml" target="_blank">14 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144743))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,144743" title="about: Turkey : Technical education" target="_blank">18 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,144743))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144743" title="about: Japan : Technical education" target="_blank">14 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144743))
 
 ### Africa
 
-- [C26 Spanish protectorate in Morocco](../../../geo/about.en.html#C26) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1413xx/141359/1447xx/144743/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141359,144743))
+- C26 Spanish protectorate in Morocco [**&nearr;**](../../../geo/i/141359/about.en.html "Spanish protectorate in Morocco (all folders)") [**&uarr;**](../../../geo/about.en.html#C26 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141359,144743" title="about: Spanish protectorate in Morocco : Technical education" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141359,144743))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1447xx/144743/public.mets.en.xml" target="_blank">60 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,144743))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144743" title="about: Argentina : Technical education" target="_blank">60 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,144743))
 
 
 _* The English category label is an unchecked automated translation of the German label._

@@ -1,7 +1,7 @@
 ---
 title: "n18 Sm1 (alt) Trade, import, export and transit bans"
 etr: category/subject/n18 Sm1 (alt)
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,8 +25,8 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A5 Levant](../../../geo/about.en.html#A5) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1408xx/140898/1452xx/145263/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140898,145263))
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1452xx/145263/public.mets.en.xml" target="_blank">7 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145263))
+- A5 Levant [**&nearr;**](../../../geo/i/140898/about.en.html "Levant (all folders)") [**&uarr;**](../../../geo/about.en.html#A5 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140898,145263" title="about: Levant : Trade, import, export and transit bans" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140898,145263))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145263" title="about: Hamburg : Trade, import, export and transit bans" target="_blank">7 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145263))
 
 
 _* The English category label is an unchecked automated translation of the German label._

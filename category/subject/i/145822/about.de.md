@@ -1,14 +1,14 @@
 ---
-title: "n0 Sm27 Markenartikel, Allgemein"
-etr: category/subject/n0 Sm27
-modified: 2020-12-18
+title: "n Sm27 Markenartikel, Allgemein"
+etr: category/subject/n Sm27
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [n0 Sm27]{.gray}&#8201; Markenartikel, Allgemein&#160; 
+# [n Sm27]{.gray}&#8201; Markenartikel, Allgemein&#160; 
 
 
 
@@ -22,8 +22,8 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 
 
-- [A1 Europa](../../../geo/about.de.html#A1) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1408xx/140892/1458xx/145822/public.mets.de.xml" target="_blank">0 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140892,145822))
-- [A6 Südosteuropa](../../../geo/about.de.html#A6) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140900/1458xx/145822/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140900,145822))
-- [A9 Hamburg](../../../geo/about.de.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1458xx/145822/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,145822))
+- A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,145822" title="über: Europa : Markenartikel, Allgemein" target="_blank">0 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140892,145822))
+- A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,145822" title="über: Südosteuropa : Markenartikel, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140900,145822))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145822" title="über: Hamburg : Markenartikel, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,145822))
 
 

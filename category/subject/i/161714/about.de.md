@@ -1,7 +1,7 @@
 ---
 title: "n24 Sm27 Bankwesen, Depots und Depositen"
 etr: category/subject/n24 Sm27
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -25,12 +25,12 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- [A1 Europa](../../../geo/about.de.html#A1) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1408xx/140892/1617xx/161714/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140892,161714))
+- A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,161714" title="über: Europa : Bankwesen, Depots und Depositen" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140892,161714))
 
 ### Asien
 
-- [B21 Türkei (1923 -)](../../../geo/about.de.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1617xx/161714/public.mets.de.xml" target="_blank">16 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,161714))
-- [B24a Palästina (-1945)](../../../geo/about.de.html#B24a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141115/1617xx/161714/public.mets.de.xml" target="_blank">11 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141115,161714))
-- [B112 Japanische Kolonien](../../../geo/about.de.html#B112) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141273/1617xx/161714/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141273,161714))
+- B21 Türkei (1923 -) [**&nearr;**](../../../geo/i/141111/about.de.html "Türkei (1923 -) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B21 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,161714" title="über: Türkei (1923 -) : Bankwesen, Depots und Depositen" target="_blank">16 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,161714))
+- B24a Palästina (-1945) [**&nearr;**](../../../geo/i/141115/about.de.html "Palästina (-1945) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B24a "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,161714" title="über: Palästina (-1945) : Bankwesen, Depots und Depositen" target="_blank">11 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141115,161714))
+- B112 Japanische Kolonien [**&nearr;**](../../../geo/i/141273/about.de.html "Japanische Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B112 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141273,161714" title="über: Japanische Kolonien : Bankwesen, Depots und Depositen" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141273,161714))
 
 

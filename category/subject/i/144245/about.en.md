@@ -1,7 +1,7 @@
 ---
 title: "d7 Sm3 Buddhism"
 etr: category/subject/d7 Sm3
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,11 +25,11 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A10 Germany](../../../geo/about.en.html#A10) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1261xx/126128/1442xx/144245/public.mets.en.xml" target="_blank">6 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,144245))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,144245" title="about: Germany : Buddhism" target="_blank">6 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,144245))
 
 ### Asia
 
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1442xx/144245/public.mets.en.xml" target="_blank">40 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144245))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144245" title="about: Japan : Buddhism" target="_blank">40 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144245))
 
 
 _* The English category label is an unchecked automated translation of the German label._

@@ -1,7 +1,7 @@
 ---
 title: "B98 Tuvan People's Republic"
 etr: category/geo/B98
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -24,11 +24,11 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### The country and its people, politics and economy
 
-- [b The country and its people, politics and economy, general](../../../subject/about.en.html#b) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141260/1441xx/144196/public.mets.en.xml" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141260,144196))
+- b The country and its people, politics and economy, general [**&nearr;**](../../../subject/i/144196/about.en.html "The country and its people, politics and economy, general (all over the world)") [**&uarr;**](../../../subject/about.en.html#b "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141260,144196" title="about: Tuvan People's Republic : The country and its people, politics and economy, general" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141260,144196))
 
 ### Economy
 
-- [n Economy, general](../../../subject/about.en.html#n) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141260/1449xx/144930/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141260,144930))
+- n Economy, general [**&nearr;**](../../../subject/i/144930/about.en.html "Economy, general (all over the world)") [**&uarr;**](../../../subject/about.en.html#n "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141260,144930" title="about: Tuvan People's Republic : Economy, general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141260,144930))
 
 
 _* The English category label is an unchecked automated translation of the German label._

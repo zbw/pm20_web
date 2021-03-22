@@ -1,7 +1,7 @@
 ---
 title: "n1 Sm2 Förderung des Rohstoffbezuges aus den Kolonien"
 etr: category/subject/n1 Sm2
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -25,11 +25,11 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- [A4 Westeuropa](../../../geo/about.de.html#A4) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1408xx/140897/1449xx/144933/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140897,144933))
-- [A36 Italienische Kolonien](../../../geo/about.de.html#A36) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1410xx/141012/1449xx/144933/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141012,144933))
+- A4 Westeuropa [**&nearr;**](../../../geo/i/140897/about.de.html "Westeuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A4 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140897,144933" title="über: Westeuropa : Förderung des Rohstoffbezuges aus den Kolonien" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140897,144933))
+- A36 Italienische Kolonien [**&nearr;**](../../../geo/i/141012/about.de.html "Italienische Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A36 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141012,144933" title="über: Italienische Kolonien : Förderung des Rohstoffbezuges aus den Kolonien" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141012,144933))
 
 ### Asien
 
-- [B111 Japan](../../../geo/about.de.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1449xx/144933/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144933))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144933" title="über: Japan : Förderung des Rohstoffbezuges aus den Kolonien" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144933))
 
 

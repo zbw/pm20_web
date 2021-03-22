@@ -1,14 +1,14 @@
 ---
-title: "m0 Sm11 State lottery, general"
-etr: category/subject/m0 Sm11
-modified: 2020-12-18
+title: "m Sm11 State lottery, general"
+etr: category/subject/m Sm11
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [m0 Sm11]{.gray}&#8201; State lottery, general&#160; 
+# [m Sm11]{.gray}&#8201; State lottery, general&#160; 
 
 
 
@@ -22,18 +22,18 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1449xx/144922/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,144922))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144922" title="about: Hamburg : State lottery, general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,144922))
 
 ### Asia
 
-- [B21 Turkey](../../../geo/about.en.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1449xx/144922/public.mets.en.xml" target="_blank">5 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,144922))
-- [B23 Iraq](../../../geo/about.en.html#B23) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141113/1449xx/144922/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141113,144922))
-- [B24 Syria](../../../geo/about.en.html#B24) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141114/1449xx/144922/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141114,144922))
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1449xx/144922/public.mets.en.xml" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144922))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,144922" title="about: Turkey : State lottery, general" target="_blank">5 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,144922))
+- B23 Iraq [**&nearr;**](../../../geo/i/141113/about.en.html "Iraq (all folders)") [**&uarr;**](../../../geo/about.en.html#B23 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141113,144922" title="about: Iraq : State lottery, general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141113,144922))
+- B24 Syria [**&nearr;**](../../../geo/i/141114/about.en.html "Syria (all folders)") [**&uarr;**](../../../geo/about.en.html#B24 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141114,144922" title="about: Syria : State lottery, general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141114,144922))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144922" title="about: Japan : State lottery, general" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144922))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1449xx/144922/public.mets.en.xml" target="_blank">20 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,144922))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144922" title="about: Argentina : State lottery, general" target="_blank">20 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,144922))
 
 
 _* The English category label is an unchecked automated translation of the German label._

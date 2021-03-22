@@ -1,7 +1,7 @@
 ---
 title: "E97 Brazil"
 etr: category/geo/E97
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,31 +25,32 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### History, politics
 
-- [f4 Constitution, form of government](../../../subject/about.en.html#f4) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141697/1443xx/144355/public.mets.en.xml" target="_blank">58 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141697,144355))
+- f4 Constitution, form of government [**&nearr;**](../../../subject/i/144355/about.en.html "Constitution, form of government (all over the world)") [**&uarr;**](../../../subject/about.en.html#f4 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141697,144355" title="about: Brazil : Constitution, form of government" target="_blank">58 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141697,144355))
 - [f5 Party system]{.gray}
-  - [f5 Sm2 Individual political movements](../../../subject/about.en.html#f5_Sm2) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141697/1444xx/144400/public.mets.en.xml" target="_blank">214 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141697,144400))
+  - f5 Sm2 Individual political movements [**&nearr;**](../../../subject/i/144400/about.en.html "Individual political movements (all over the world)") [**&uarr;**](../../../subject/about.en.html#f5_Sm2 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141697,144400" title="about: Brazil : Individual political movements" target="_blank">214 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141697,144400))
 
 ### Public finance
 
-  - [m0 Sm12 Public procurement](../../../subject/about.en.html#m0_Sm12) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141697/1449xx/144923/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141697,144923))
+- [m Public finance, general]{.gray}
+  - m Sm12 Public procurement [**&nearr;**](../../../subject/i/144923/about.en.html "Public procurement (all over the world)") [**&uarr;**](../../../subject/about.en.html#m_Sm12 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141697,144923" title="about: Brazil : Public procurement" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141697,144923))
 
 ### Economy
 
 - [n2 Report on the economic situation]{.gray}
-  - [n2 Sm2 (alt) Annual overviews (reports on the economic situation)](../../../subject/about.en.html#n2_Sm2_(alt)) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141697/1449xx/144974/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141697,144974))
-- [n2a Report on the economic situation in individual states, provinces and cities](../../../subject/about.en.html#n2a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141697/1450xx/145026/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141697,145026))
-- [n31a Construction, expansion, economic development and management of individual ports](../../../subject/about.en.html#n31a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141697/1455xx/145565/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141697,145565))
+  - n2 Sm2 (alt) Annual overviews (reports on the economic situation) [**&nearr;**](../../../subject/i/144974/about.en.html "Annual overviews (reports on the economic situation) (all over the world)") [**&uarr;**](../../../subject/about.en.html#n2_Sm2_(alt) "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141697,144974" title="about: Brazil : Annual overviews (reports on the economic situation)" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141697,144974))
+- n2a Report on the economic situation in individual states, provinces and cities [**&nearr;**](../../../subject/i/145026/about.en.html "Report on the economic situation in individual states, provinces and cities (all over the world)") [**&uarr;**](../../../subject/about.en.html#n2a "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141697,145026" title="about: Brazil : Report on the economic situation in individual states, provinces and cities" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141697,145026))
+- n31a Construction, expansion, economic development and management of individual ports [**&nearr;**](../../../subject/i/145565/about.en.html "Construction, expansion, economic development and management of individual ports (all over the world)") [**&uarr;**](../../../subject/about.en.html#n31a "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141697,145565" title="about: Brazil : Construction, expansion, economic development and management of individual ports" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141697,145565))
 
 ### Foreigners and individual minorities
 
 - [o1 German minorities and Germanness]{.gray}
-  - [o1 Sm500 German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)](../../../subject/about.en.html#o1_Sm500) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141697/1459xx/145911/public.mets.en.xml" target="_blank">1536 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141697,145911))
-- [o3 Minorities from individual countries](../../../subject/about.en.html#o3) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141697/1822xx/182220/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141697,182220))
+  - o1 Sm500 German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145911/about.en.html "German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum) (all over the world)") [**&uarr;**](../../../subject/about.en.html#o1_Sm500 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141697,145911" title="about: Brazil : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">1536 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141697,145911))
+- o3 Minorities from individual countries [**&nearr;**](../../../subject/i/182220/about.en.html "Minorities from individual countries (all over the world)") [**&uarr;**](../../../subject/about.en.html#o3 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141697,182220" title="about: Brazil : Minorities from individual countries" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141697,182220))
 
 ### Settling and migration
 
 - [p3 Immigration and Immigration Policy]{.gray}
-  - [p3 Sm500 German immigrants (Forschungsstelle für das Übersee-Deutschtum)](../../../subject/about.en.html#p3_Sm500) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141697/1459xx/145921/public.mets.en.xml" target="_blank">254 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141697,145921))
+  - p3 Sm500 German immigrants (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145921/about.en.html "German immigrants (Forschungsstelle für das Übersee-Deutschtum) (all over the world)") [**&uarr;**](../../../subject/about.en.html#p3_Sm500 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141697,145921" title="about: Brazil : German immigrants (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">254 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141697,145921))
 
 
 _* The English category label is an unchecked automated translation of the German label._

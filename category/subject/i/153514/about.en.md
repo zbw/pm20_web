@@ -1,7 +1,7 @@
 ---
 title: "d4 Sm50 National character, sport, customs and traditions, institutions"
 etr: category/subject/d4 Sm50
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -22,8 +22,8 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1535xx/153514/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,153514))
-- [A10 Germany](../../../geo/about.en.html#A10) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1261xx/126128/1535xx/153514/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,153514))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,153514" title="about: Hamburg : National character, sport, customs and traditions, institutions" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,153514))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,153514" title="about: Germany : National character, sport, customs and traditions, institutions" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,153514))
 
 
 _* The English category label is an unchecked automated translation of the German label._

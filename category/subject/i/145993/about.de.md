@@ -1,7 +1,7 @@
 ---
 title: "q Sm501 (A1) Die kleine Entente"
 etr: category/subject/q Sm501 (A1)
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -11,7 +11,7 @@ fn-stub: about
 # [q Sm501 (A1)]{.gray}&#8201; Die kleine Entente&#160; 
 
 
-> Scope Note: politisches und militärisches Bündnissystem zwischen der Tschechoslowakei und dem späteren Jugoslawien sowie Rumänien 
+> Scope Note: politisches und militärisches Bündnissystem zwischen der Tschechoslowakei und dem späteren Jugoslawien sowie Rumänien
 
 
 
@@ -24,6 +24,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 
 
-- [A1 Europa](../../../geo/about.de.html#A1) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1408xx/140892/1459xx/145993/public.mets.de.xml" target="_blank">1122 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140892,145993))
+- A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,145993" title="über: Europa : Die kleine Entente" target="_blank">1122 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140892,145993))
 
 

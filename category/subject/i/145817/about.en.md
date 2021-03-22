@@ -1,14 +1,14 @@
 ---
-title: "n0 Sm25.IV Private war damages, compensation proceedings"
-etr: category/subject/n0 Sm25.IV
-modified: 2020-12-18
+title: "n Sm25.IV Private war damages, compensation proceedings"
+etr: category/subject/n Sm25.IV
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [n0 Sm25.IV]{.gray}&#8201; Private war damages, compensation proceedings&#160; 
+# [n Sm25.IV]{.gray}&#8201; Private war damages, compensation proceedings&#160; 
 
 
 
@@ -22,7 +22,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- [C87 German South-West Africa](../../../geo/about.en.html#C87) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141450/1458xx/145817/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141450,145817))
+- C87 German South-West Africa [**&nearr;**](../../../geo/i/141450/about.en.html "German South-West Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C87 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141450,145817" title="about: German South-West Africa : Private war damages, compensation proceedings" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141450,145817))
 
 
 _* The English category label is an unchecked automated translation of the German label._

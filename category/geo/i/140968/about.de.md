@@ -1,7 +1,7 @@
 ---
 title: "A17 Schweden"
 etr: category/geo/A17
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -26,6 +26,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 ### Wirtschaft
 
 - [n12 Bergbau]{.gray}
-  - [n12 Sm8.II Fremdländische Rechte und Kapitalbeteiligungen am Bergbau, in einzelnen Ländern](../../../subject/about.de.html#n12_Sm8.II) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140968/1450xx/145092/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140968,145092))
+  - n12 Sm8.II Fremdländische Rechte und Kapitalbeteiligungen am Bergbau, in einzelnen Ländern [**&nearr;**](../../../subject/i/145092/about.de.html "Fremdländische Rechte und Kapitalbeteiligungen am Bergbau, in einzelnen Ländern (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n12_Sm8.II "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140968,145092" title="über: Schweden : Fremdländische Rechte und Kapitalbeteiligungen am Bergbau, in einzelnen Ländern" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140968,145092))
 
 

@@ -1,7 +1,7 @@
 ---
 title: "A10(t1) Deutschland (unter alliierter Besetzung)"
 etr: category/geo/A10(t1)
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -25,16 +25,16 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Bevölkerung und Bevölkerungspolitik
 
-- [d1 Bevölkerungsbewegung, Bevölkerungsstatistik](../../../subject/about.de.html#d1) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1872xx/187230/1442xx/144222/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/187230,144222))
+- d1 Bevölkerungsbewegung, Bevölkerungsstatistik [**&nearr;**](../../../subject/i/144222/about.de.html "Bevölkerungsbewegung, Bevölkerungsstatistik (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#d1 "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/187230,144222" title="über: Deutschland (unter alliierter Besetzung) : Bevölkerungsbewegung, Bevölkerungsstatistik" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/187230,144222))
 
 ### Verwaltung
 
-- [h Verwaltung, Allgemein](../../../subject/about.de.html#h) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1872xx/187230/1446xx/144659/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/187230,144659))
-  - [h0 Sm501 (A 10) Besatzungsmächte (Verwaltung)](../../../subject/about.de.html#h0_Sm501_(A_10)) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1872xx/187230/2057xx/205741/public.mets.de.xml" target="_blank">50 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/187230,205741))
-- [h1 Behörden, Allgemein](../../../subject/about.de.html#h1) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1872xx/187230/1446xx/144660/public.mets.de.xml" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/187230,144660))
+- h Verwaltung, Allgemein [**&nearr;**](../../../subject/i/144659/about.de.html "Verwaltung, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#h "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/187230,144659" title="über: Deutschland (unter alliierter Besetzung) : Verwaltung, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/187230,144659))
+  - h Sm501 (A10) Besatzungsmächte (Verwaltung) [**&nearr;**](../../../subject/i/205741/about.de.html "Besatzungsmächte (Verwaltung) (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#h_Sm501_(A10) "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/187230,205741" title="über: Deutschland (unter alliierter Besetzung) : Besatzungsmächte (Verwaltung)" target="_blank">50 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/187230,205741))
+- h1 Behörden, Allgemein [**&nearr;**](../../../subject/i/144660/about.de.html "Behörden, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#h1 "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/187230,144660" title="über: Deutschland (unter alliierter Besetzung) : Behörden, Allgemein" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/187230,144660))
 
 ### Wirtschaft
 
-- [n14 Handwerk](../../../subject/about.de.html#n14) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1872xx/187230/1451xx/145135/public.mets.de.xml" target="_blank">23 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/187230,145135))
+- n14 Handwerk [**&nearr;**](../../../subject/i/145135/about.de.html "Handwerk (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n14 "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/187230,145135" title="über: Deutschland (unter alliierter Besetzung) : Handwerk" target="_blank">23 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/187230,145135))
 
 

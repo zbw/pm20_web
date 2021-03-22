@@ -1,7 +1,7 @@
 ---
 title: "n15 Sm11 Foreign and colonial workers"
 etr: category/subject/n15 Sm11
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Australia and Oceania
 
-- [D5 Hawaii](../../../geo/about.en.html#D5) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1415xx/141595/1618xx/161843/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141595,161843))
+- D5 Hawaii [**&nearr;**](../../../geo/i/141595/about.en.html "Hawaii (all folders)") [**&uarr;**](../../../geo/about.en.html#D5 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141595,161843" title="about: Hawaii : Foreign and colonial workers" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141595,161843))
 
 
 _* The English category label is an unchecked automated translation of the German label._

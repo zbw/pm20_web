@@ -1,14 +1,14 @@
 ---
-title: "l0 Sm7 Eingeborenen Truppen (Farbige)"
-etr: category/subject/l0 Sm7
-modified: 2020-12-18
+title: "l Sm7 Eingeborenen Truppen (Farbige)"
+etr: category/subject/l Sm7
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [l0 Sm7]{.gray}&#8201; Eingeborenen Truppen (Farbige)&#160; 
+# [l Sm7]{.gray}&#8201; Eingeborenen Truppen (Farbige)&#160; 
 
 
 
@@ -25,6 +25,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- [A4 Westeuropa](../../../geo/about.de.html#A4) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1408xx/140897/1447xx/144795/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140897,144795))
+- A4 Westeuropa [**&nearr;**](../../../geo/i/140897/about.de.html "Westeuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A4 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140897,144795" title="über: Westeuropa : Eingeborenen Truppen (Farbige)" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140897,144795))
 
 

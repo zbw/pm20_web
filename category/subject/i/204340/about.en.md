@@ -1,7 +1,7 @@
 ---
 title: "n33 Sm60 Inland navigation, technical"
 etr: category/subject/n33 Sm60
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -22,7 +22,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- [A10 Germany](../../../geo/about.en.html#A10) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1261xx/126128/2043xx/204340/public.mets.en.xml" target="_blank">18 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,204340))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,204340" title="about: Germany : Inland navigation, technical" target="_blank">18 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,204340))
 
 
 _* The English category label is an unchecked automated translation of the German label._

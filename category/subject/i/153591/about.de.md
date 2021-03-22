@@ -1,7 +1,7 @@
 ---
 title: "e4 Sm40 Medizinalwesen, Berufe und Ausbildung"
 etr: category/subject/e4 Sm40
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -25,33 +25,33 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- [A9 Hamburg](../../../geo/about.de.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1535xx/153591/public.mets.de.xml" target="_blank">100 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,153591))
-- [A10 Deutschland](../../../geo/about.de.html#A10) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1261xx/126128/1535xx/153591/public.mets.de.xml" target="_blank">426 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/126128,153591))
-- [A11 Deutsche Kolonien](../../../geo/about.de.html#A11) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140960/1535xx/153591/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140960,153591))
-- [A37 Monaco](../../../geo/about.de.html#A37) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1410xx/141013/1535xx/153591/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141013,153591))
-- [A39 Liechtenstein](../../../geo/about.de.html#A39) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1410xx/141016/1535xx/153591/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141016,153591))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,153591" title="über: Hamburg : Medizinalwesen, Berufe und Ausbildung" target="_blank">100 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,153591))
+- A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,153591" title="über: Deutschland : Medizinalwesen, Berufe und Ausbildung" target="_blank">426 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/126128,153591))
+- A11 Deutsche Kolonien [**&nearr;**](../../../geo/i/140960/about.de.html "Deutsche Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A11 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140960,153591" title="über: Deutsche Kolonien : Medizinalwesen, Berufe und Ausbildung" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140960,153591))
+- A37 Monaco [**&nearr;**](../../../geo/i/141013/about.de.html "Monaco (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A37 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141013,153591" title="über: Monaco : Medizinalwesen, Berufe und Ausbildung" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141013,153591))
+- A39 Liechtenstein [**&nearr;**](../../../geo/i/141016/about.de.html "Liechtenstein (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A39 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141016,153591" title="über: Liechtenstein : Medizinalwesen, Berufe und Ausbildung" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141016,153591))
 
 ### Asien
 
-- [B21 Türkei (1923 -)](../../../geo/about.de.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1535xx/153591/public.mets.de.xml" target="_blank">9 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,153591))
-- [B23 Irak](../../../geo/about.de.html#B23) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141113/1535xx/153591/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141113,153591))
-- [B24a Palästina (-1945)](../../../geo/about.de.html#B24a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141115/1535xx/153591/public.mets.de.xml" target="_blank">6 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141115,153591))
-- [B111 Japan](../../../geo/about.de.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1535xx/153591/public.mets.de.xml" target="_blank">13 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,153591))
+- B21 Türkei (1923 -) [**&nearr;**](../../../geo/i/141111/about.de.html "Türkei (1923 -) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B21 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,153591" title="über: Türkei (1923 -) : Medizinalwesen, Berufe und Ausbildung" target="_blank">9 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,153591))
+- B23 Irak [**&nearr;**](../../../geo/i/141113/about.de.html "Irak (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B23 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141113,153591" title="über: Irak : Medizinalwesen, Berufe und Ausbildung" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141113,153591))
+- B24a Palästina (-1945) [**&nearr;**](../../../geo/i/141115/about.de.html "Palästina (-1945) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B24a "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,153591" title="über: Palästina (-1945) : Medizinalwesen, Berufe und Ausbildung" target="_blank">6 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141115,153591))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,153591" title="über: Japan : Medizinalwesen, Berufe und Ausbildung" target="_blank">13 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,153591))
 
 ### Afrika
 
-- [C26 Spanisch-Marokko](../../../geo/about.de.html#C26) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1413xx/141359/1535xx/153591/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141359,153591))
-- [C65 Kamerun](../../../geo/about.de.html#C65) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141410/1535xx/153591/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141410,153591))
-- [C87 Deutsch-Südwestafrika](../../../geo/about.de.html#C87) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141450/1535xx/153591/public.mets.de.xml" target="_blank">15 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141450,153591))
-- [C110 Deutsch-Ostafrika](../../../geo/about.de.html#C110) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141471/1535xx/153591/public.mets.de.xml" target="_blank">13 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141471,153591))
+- C26 Spanisch-Marokko [**&nearr;**](../../../geo/i/141359/about.de.html "Spanisch-Marokko (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C26 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141359,153591" title="über: Spanisch-Marokko : Medizinalwesen, Berufe und Ausbildung" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141359,153591))
+- C65 Kamerun [**&nearr;**](../../../geo/i/141410/about.de.html "Kamerun (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C65 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141410,153591" title="über: Kamerun : Medizinalwesen, Berufe und Ausbildung" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141410,153591))
+- C87 Deutsch-Südwestafrika [**&nearr;**](../../../geo/i/141450/about.de.html "Deutsch-Südwestafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C87 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141450,153591" title="über: Deutsch-Südwestafrika : Medizinalwesen, Berufe und Ausbildung" target="_blank">15 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141450,153591))
+- C110 Deutsch-Ostafrika [**&nearr;**](../../../geo/i/141471/about.de.html "Deutsch-Ostafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C110 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141471,153591" title="über: Deutsch-Ostafrika : Medizinalwesen, Berufe und Ausbildung" target="_blank">13 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141471,153591))
 
 ### Australien und Ozeanien
 
-- [D30 Australien](../../../geo/about.de.html#D30) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141621/1535xx/153591/public.mets.de.xml" target="_blank">5 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141621,153591))
+- D30 Australien [**&nearr;**](../../../geo/i/141621/about.de.html "Australien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#D30 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141621,153591" title="über: Australien : Medizinalwesen, Berufe und Ausbildung" target="_blank">5 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141621,153591))
 
 ### Amerika
 
-- [E86 Argentinien](../../../geo/about.de.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1535xx/153591/public.mets.de.xml" target="_blank">41 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,153591))
-- [E95 Uruguay](../../../geo/about.de.html#E95) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141695/1535xx/153591/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141695,153591))
+- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,153591" title="über: Argentinien : Medizinalwesen, Berufe und Ausbildung" target="_blank">41 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,153591))
+- E95 Uruguay [**&nearr;**](../../../geo/i/141695/about.de.html "Uruguay (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E95 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141695,153591" title="über: Uruguay : Medizinalwesen, Berufe und Ausbildung" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141695,153591))
 
 

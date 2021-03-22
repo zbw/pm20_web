@@ -1,7 +1,7 @@
 ---
 title: "n3 Sm3 Nationalization of land (later: land reform)"
 etr: category/subject/n3 Sm3
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,15 +25,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1450xx/145034/public.mets.en.xml" target="_blank">16 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145034))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145034" title="about: Hamburg : Nationalization of land (later: land reform)" target="_blank">16 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145034))
 
 ### Asia
 
-- [B21 Turkey](../../../geo/about.en.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1450xx/145034/public.mets.en.xml" target="_blank">11 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145034))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145034" title="about: Turkey : Nationalization of land (later: land reform)" target="_blank">11 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145034))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1450xx/145034/public.mets.en.xml" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145034))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145034" title="about: Argentina : Nationalization of land (later: land reform)" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145034))
 
 
 _* The English category label is an unchecked automated translation of the German label._

@@ -1,7 +1,7 @@
 ---
 title: "g4 Sm3 Staatliche Wirtschaftspropaganda"
 etr: category/subject/g4 Sm3
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -25,33 +25,33 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- [A3 Osteuropa](../../../geo/about.de.html#A3) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1408xx/140896/1633xx/163381/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140896,163381))
-- [A5 Levante](../../../geo/about.de.html#A5) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1408xx/140898/1633xx/163381/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140898,163381))
-- [A9 Hamburg](../../../geo/about.de.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1633xx/163381/public.mets.de.xml" target="_blank">34 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,163381))
+- A3 Osteuropa [**&nearr;**](../../../geo/i/140896/about.de.html "Osteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A3 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140896,163381" title="über: Osteuropa : Staatliche Wirtschaftspropaganda" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140896,163381))
+- A5 Levante [**&nearr;**](../../../geo/i/140898/about.de.html "Levante (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A5 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140898,163381" title="über: Levante : Staatliche Wirtschaftspropaganda" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140898,163381))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,163381" title="über: Hamburg : Staatliche Wirtschaftspropaganda" target="_blank">34 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,163381))
 
 ### Asien
 
-- [B21 Türkei (1923 -)](../../../geo/about.de.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1633xx/163381/public.mets.de.xml" target="_blank">28 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,163381))
-- [B23 Irak](../../../geo/about.de.html#B23) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141113/1633xx/163381/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141113,163381))
-- [B24 Syrien](../../../geo/about.de.html#B24) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141114/1633xx/163381/public.mets.de.xml" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141114,163381))
-- [B24a Palästina (-1945)](../../../geo/about.de.html#B24a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141115/1633xx/163381/public.mets.de.xml" target="_blank">36 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141115,163381))
-- [B101 Macao](../../../geo/about.de.html#B101) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141267/1633xx/163381/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141267,163381))
-- [B111 Japan](../../../geo/about.de.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1633xx/163381/public.mets.de.xml" target="_blank">59 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,163381))
+- B21 Türkei (1923 -) [**&nearr;**](../../../geo/i/141111/about.de.html "Türkei (1923 -) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B21 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,163381" title="über: Türkei (1923 -) : Staatliche Wirtschaftspropaganda" target="_blank">28 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,163381))
+- B23 Irak [**&nearr;**](../../../geo/i/141113/about.de.html "Irak (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B23 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141113,163381" title="über: Irak : Staatliche Wirtschaftspropaganda" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141113,163381))
+- B24 Syrien [**&nearr;**](../../../geo/i/141114/about.de.html "Syrien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B24 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141114,163381" title="über: Syrien : Staatliche Wirtschaftspropaganda" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141114,163381))
+- B24a Palästina (-1945) [**&nearr;**](../../../geo/i/141115/about.de.html "Palästina (-1945) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B24a "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,163381" title="über: Palästina (-1945) : Staatliche Wirtschaftspropaganda" target="_blank">36 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141115,163381))
+- B101 Macao [**&nearr;**](../../../geo/i/141267/about.de.html "Macao (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B101 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141267,163381" title="über: Macao : Staatliche Wirtschaftspropaganda" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141267,163381))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,163381" title="über: Japan : Staatliche Wirtschaftspropaganda" target="_blank">59 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,163381))
 
 ### Afrika
 
-- [C57 Goldküste, einschl. Togo (brit.)](../../../geo/about.de.html#C57) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141406/1633xx/163381/public.mets.de.xml" target="_blank">18 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141406,163381))
-- [C65 Kamerun](../../../geo/about.de.html#C65) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141410/1633xx/163381/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141410,163381))
-- [C87 Deutsch-Südwestafrika](../../../geo/about.de.html#C87) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141450/1633xx/163381/public.mets.de.xml" target="_blank">5 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141450,163381))
-- [C110 Deutsch-Ostafrika](../../../geo/about.de.html#C110) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141471/1633xx/163381/public.mets.de.xml" target="_blank">24 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141471,163381))
+- C57 Goldküste, einschl. Togo (brit.) [**&nearr;**](../../../geo/i/141406/about.de.html "Goldküste, einschl. Togo (brit.) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C57 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141406,163381" title="über: Goldküste, einschl. Togo (brit.) : Staatliche Wirtschaftspropaganda" target="_blank">18 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141406,163381))
+- C65 Kamerun [**&nearr;**](../../../geo/i/141410/about.de.html "Kamerun (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C65 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141410,163381" title="über: Kamerun : Staatliche Wirtschaftspropaganda" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141410,163381))
+- C87 Deutsch-Südwestafrika [**&nearr;**](../../../geo/i/141450/about.de.html "Deutsch-Südwestafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C87 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141450,163381" title="über: Deutsch-Südwestafrika : Staatliche Wirtschaftspropaganda" target="_blank">5 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141450,163381))
+- C110 Deutsch-Ostafrika [**&nearr;**](../../../geo/i/141471/about.de.html "Deutsch-Ostafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C110 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141471,163381" title="über: Deutsch-Ostafrika : Staatliche Wirtschaftspropaganda" target="_blank">24 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141471,163381))
 
 ### Australien und Ozeanien
 
-- [D30 Australien](../../../geo/about.de.html#D30) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141621/1633xx/163381/public.mets.de.xml" target="_blank">49 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141621,163381))
+- D30 Australien [**&nearr;**](../../../geo/i/141621/about.de.html "Australien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#D30 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141621,163381" title="über: Australien : Staatliche Wirtschaftspropaganda" target="_blank">49 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141621,163381))
 
 ### Amerika
 
-- [E86 Argentinien](../../../geo/about.de.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1633xx/163381/public.mets.de.xml" target="_blank">27 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,163381))
-- [E102 Britisch-Guayana](../../../geo/about.de.html#E102) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1417xx/141700/1633xx/163381/public.mets.de.xml" target="_blank">8 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141700,163381))
+- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,163381" title="über: Argentinien : Staatliche Wirtschaftspropaganda" target="_blank">27 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,163381))
+- E102 Britisch-Guayana [**&nearr;**](../../../geo/i/141700/about.de.html "Britisch-Guayana (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E102 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141700,163381" title="über: Britisch-Guayana : Staatliche Wirtschaftspropaganda" target="_blank">8 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141700,163381))
 
 

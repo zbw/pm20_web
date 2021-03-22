@@ -1,7 +1,7 @@
 ---
 title: "n27 Sm3 Konsumgenossenschaft"
 etr: category/subject/n27 Sm3
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -25,10 +25,10 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- [A9 Hamburg](../../../geo/about.de.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1455xx/145503/public.mets.de.xml" target="_blank">49 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,145503))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145503" title="über: Hamburg : Konsumgenossenschaft" target="_blank">49 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,145503))
 
 ### Asien
 
-- [B21 Türkei (1923 -)](../../../geo/about.de.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1455xx/145503/public.mets.de.xml" target="_blank">17 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,145503))
+- B21 Türkei (1923 -) [**&nearr;**](../../../geo/i/141111/about.de.html "Türkei (1923 -) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B21 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145503" title="über: Türkei (1923 -) : Konsumgenossenschaft" target="_blank">17 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,145503))
 
 

@@ -1,7 +1,7 @@
 ---
 title: "E90 Falkland Islands"
 etr: category/geo/E90
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -24,23 +24,23 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Literature
 
-- [a Literature, general](../../../subject/about.en.html#a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141694/1423xx/142393/public.mets.en.xml" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141694,142393))
+- a Literature, general [**&nearr;**](../../../subject/i/142393/about.en.html "Literature, general (all over the world)") [**&uarr;**](../../../subject/about.en.html#a "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141694,142393" title="about: Falkland Islands : Literature, general" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141694,142393))
 
 ### The country and its people, politics and economy
 
-- [b The country and its people, politics and economy, general](../../../subject/about.en.html#b) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141694/1441xx/144196/public.mets.en.xml" target="_blank">27 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141694,144196))
+- b The country and its people, politics and economy, general [**&nearr;**](../../../subject/i/144196/about.en.html "The country and its people, politics and economy, general (all over the world)") [**&uarr;**](../../../subject/about.en.html#b "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141694,144196" title="about: Falkland Islands : The country and its people, politics and economy, general" target="_blank">27 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141694,144196))
 
 ### Country studies
 
-- [c1 Expeditions](../../../subject/about.en.html#c1) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141694/1442xx/144200/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141694,144200))
+- c1 Expeditions [**&nearr;**](../../../subject/i/144200/about.en.html "Expeditions (all over the world)") [**&uarr;**](../../../subject/about.en.html#c1 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141694,144200" title="about: Falkland Islands : Expeditions" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141694,144200))
 
 ### Foreign policy and political relations with foreign countries
 
 - [g4 Trade policy, Foreign economic policy, general]{.gray}
-  - [g4 Sm21 Trade policy and customs law measures from the German Trade Archives](../../../subject/about.en.html#g4_Sm21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141694/1444xx/144492/public.mets.en.xml" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141694,144492))
+  - g4 Sm21 Trade policy and customs law measures from the German Trade Archives [**&nearr;**](../../../subject/i/144492/about.en.html "Trade policy and customs law measures from the German Trade Archives (all over the world)") [**&uarr;**](../../../subject/about.en.html#g4_Sm21 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141694,144492" title="about: Falkland Islands : Trade policy and customs law measures from the German Trade Archives" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141694,144492))
 - [g4a Economic relations with individual countries]{.gray}
-  - [g4a Sm21 Trade agreements with individual countries from the German Trade Archives](../../../subject/about.en.html#g4a_Sm21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141694/1445xx/144550/public.mets.en.xml" target="_blank">16 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141694,144550))
-- [g6 Interests of foreign states in ..., general](../../../subject/about.en.html#g6) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141694/1445xx/144565/public.mets.en.xml" target="_blank">71 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141694,144565))
+  - g4a Sm21 Trade agreements with individual countries from the German Trade Archives [**&nearr;**](../../../subject/i/144550/about.en.html "Trade agreements with individual countries from the German Trade Archives (all over the world)") [**&uarr;**](../../../subject/about.en.html#g4a_Sm21 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141694,144550" title="about: Falkland Islands : Trade agreements with individual countries from the German Trade Archives" target="_blank">16 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141694,144550))
+- g6 Interests of foreign states in ..., general [**&nearr;**](../../../subject/i/144565/about.en.html "Interests of foreign states in ..., general (all over the world)") [**&uarr;**](../../../subject/about.en.html#g6 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141694,144565" title="about: Falkland Islands : Interests of foreign states in ..., general" target="_blank">71 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141694,144565))
 
 
 _* The English category label is an unchecked automated translation of the German label._

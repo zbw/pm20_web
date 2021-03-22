@@ -1,7 +1,7 @@
 ---
 title: "C92 Tristan da Cunha"
 etr: category/geo/C92
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -24,16 +24,16 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### The country and its people, politics and economy
 
-- [b The country and its people, politics and economy, general](../../../subject/about.en.html#b) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141453/1441xx/144196/public.mets.en.xml" target="_blank">132 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141453,144196))
+- b The country and its people, politics and economy, general [**&nearr;**](../../../subject/i/144196/about.en.html "The country and its people, politics and economy, general (all over the world)") [**&uarr;**](../../../subject/about.en.html#b "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141453,144196" title="about: Tristan da Cunha : The country and its people, politics and economy, general" target="_blank">132 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141453,144196))
 
 ### Country studies
 
-- [c1 Expeditions](../../../subject/about.en.html#c1) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141453/1442xx/144200/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141453,144200))
+- c1 Expeditions [**&nearr;**](../../../subject/i/144200/about.en.html "Expeditions (all over the world)") [**&uarr;**](../../../subject/about.en.html#c1 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141453,144200" title="about: Tristan da Cunha : Expeditions" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141453,144200))
 
 ### Foreign policy and political relations with foreign countries
 
 - [g4 Trade policy, Foreign economic policy, general]{.gray}
-  - [g4 Sm1 Tariff policy](../../../subject/about.en.html#g4_Sm1) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141453/1634xx/163419/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141453,163419))
+  - g4 Sm1 Tariff policy [**&nearr;**](../../../subject/i/163419/about.en.html "Tariff policy (all over the world)") [**&uarr;**](../../../subject/about.en.html#g4_Sm1 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141453,163419" title="about: Tristan da Cunha : Tariff policy" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141453,163419))
 
 
 _* The English category label is an unchecked automated translation of the German label._

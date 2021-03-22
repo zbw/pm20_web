@@ -1,7 +1,7 @@
 ---
 title: "q Sm501 (B23) Mosul question"
 etr: category/subject/q Sm501 (B23)
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Asia
 
-- [B23 Iraq](../../../geo/about.en.html#B23) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141113/1460xx/146014/public.mets.en.xml" target="_blank">317 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141113,146014))
+- B23 Iraq [**&nearr;**](../../../geo/i/141113/about.en.html "Iraq (all folders)") [**&uarr;**](../../../geo/about.en.html#B23 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141113,146014" title="about: Iraq : Mosul question" target="_blank">317 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141113,146014))
 
 
 _* The English category label is an unchecked automated translation of the German label._

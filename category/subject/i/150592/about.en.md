@@ -1,14 +1,14 @@
 ---
-title: "f0 Sm20 History (general), conferences"
-etr: category/subject/f0 Sm20
-modified: 2020-12-18
+title: "f Sm20 History (general), conferences"
+etr: category/subject/f Sm20
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [f0 Sm20]{.gray}&#8201; History (general), conferences&#160; 
+# [f Sm20]{.gray}&#8201; History (general), conferences&#160; 
 
 
 
@@ -25,8 +25,8 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A3 Eastern Europe](../../../geo/about.en.html#A3) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1408xx/140896/1505xx/150592/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140896,150592))
-- [A10 Germany](../../../geo/about.en.html#A10) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1261xx/126128/1505xx/150592/public.mets.en.xml" target="_blank">17 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,150592))
+- A3 Eastern Europe [**&nearr;**](../../../geo/i/140896/about.en.html "Eastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A3 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140896,150592" title="about: Eastern Europe : History (general), conferences" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140896,150592))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,150592" title="about: Germany : History (general), conferences" target="_blank">17 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,150592))
 
 
 _* The English category label is an unchecked automated translation of the German label._

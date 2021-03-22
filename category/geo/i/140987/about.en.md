@@ -1,7 +1,7 @@
 ---
 title: "A32 Portugal"
 etr: category/geo/A32
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,7 +25,8 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Administration
 
-  - [h0 Sm50 Administration general, Institutions](../../../subject/about.en.html#h0_Sm50) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140987/2057xx/205740/public.mets.en.xml" target="_blank">31 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140987,205740))
+- [h Administration, general]{.gray}
+  - h Sm50 Administration general, Institutions [**&nearr;**](../../../subject/i/205740/about.en.html "Administration general, Institutions (all over the world)") [**&uarr;**](../../../subject/about.en.html#h_Sm50 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140987,205740" title="about: Portugal : Administration general, Institutions" target="_blank">31 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140987,205740))
 
 
 _* The English category label is an unchecked automated translation of the German label._

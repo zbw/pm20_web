@@ -1,14 +1,14 @@
 ---
-title: "k0 Sm50 Wissenschaft und Bildungswesen, Institutionen"
-etr: category/subject/k0 Sm50
-modified: 2020-12-18
+title: "k Sm50 Wissenschaft und Bildungswesen, Institutionen"
+etr: category/subject/k Sm50
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [k0 Sm50]{.gray}&#8201; Wissenschaft und Bildungswesen, Institutionen&#160; 
+# [k Sm50]{.gray}&#8201; Wissenschaft und Bildungswesen, Institutionen&#160; 
 
 
 
@@ -25,14 +25,14 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- [A9 Hamburg](../../../geo/about.de.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1811xx/181142/public.mets.de.xml" target="_blank">14 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,181142))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,181142" title="über: Hamburg : Wissenschaft und Bildungswesen, Institutionen" target="_blank">14 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,181142))
 
 ### Asien
 
-- [B111 Japan](../../../geo/about.de.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1811xx/181142/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,181142))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,181142" title="über: Japan : Wissenschaft und Bildungswesen, Institutionen" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,181142))
 
 ### Amerika
 
-- [E86 Argentinien](../../../geo/about.de.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1811xx/181142/public.mets.de.xml" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,181142))
+- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,181142" title="über: Argentinien : Wissenschaft und Bildungswesen, Institutionen" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,181142))
 
 

@@ -1,7 +1,7 @@
 ---
 title: "n12 Sm2.I Methods for exploring mineral resources and water, divining rod"
 etr: category/subject/n12 Sm2.I
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,15 +25,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A11 German imperial colonies](../../../geo/about.en.html#A11) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140960/1450xx/145085/public.mets.en.xml" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140960,145085))
+- A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140960,145085" title="about: German imperial colonies : Methods for exploring mineral resources and water, divining rod" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140960,145085))
 
 ### Africa
 
-- [C110 German East Africa](../../../geo/about.en.html#C110) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141471/1450xx/145085/public.mets.en.xml" target="_blank">5 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141471,145085))
+- C110 German East Africa [**&nearr;**](../../../geo/i/141471/about.en.html "German East Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C110 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141471,145085" title="about: German East Africa : Methods for exploring mineral resources and water, divining rod" target="_blank">5 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141471,145085))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1450xx/145085/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145085))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145085" title="about: Argentina : Methods for exploring mineral resources and water, divining rod" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145085))
 
 
 _* The English category label is an unchecked automated translation of the German label._

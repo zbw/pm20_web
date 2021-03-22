@@ -1,7 +1,7 @@
 ---
 title: "n37a Sm15 Earthquake insurance"
 etr: category/subject/n37a Sm15
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,11 +25,11 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Asia
 
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1457xx/145750/public.mets.en.xml" target="_blank">8 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145750))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145750" title="about: Japan : Earthquake insurance" target="_blank">8 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145750))
 
 ### America
 
-- [E85 Chile](../../../geo/about.en.html#E85) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141691/1457xx/145750/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141691,145750))
+- E85 Chile [**&nearr;**](../../../geo/i/141691/about.en.html "Chile (all folders)") [**&uarr;**](../../../geo/about.en.html#E85 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141691,145750" title="about: Chile : Earthquake insurance" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141691,145750))
 
 
 _* The English category label is an unchecked automated translation of the German label._

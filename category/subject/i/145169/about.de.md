@@ -1,7 +1,7 @@
 ---
 title: "n15 Sm7.II Arbeitsverhältnisse, Löhne"
 etr: category/subject/n15 Sm7.II
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -25,26 +25,26 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- [A1 Europa](../../../geo/about.de.html#A1) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1408xx/140892/1451xx/145169/public.mets.de.xml" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140892,145169))
-- [A6 Südosteuropa](../../../geo/about.de.html#A6) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140900/1451xx/145169/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140900,145169))
-- [A9 Hamburg](../../../geo/about.de.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1451xx/145169/public.mets.de.xml" target="_blank">39 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,145169))
-- [A10p Polnisch-Schlesien](../../../geo/about.de.html#A10p) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140951/1451xx/145169/public.mets.de.xml" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140951,145169))
+- A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,145169" title="über: Europa : Arbeitsverhältnisse, Löhne" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140892,145169))
+- A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,145169" title="über: Südosteuropa : Arbeitsverhältnisse, Löhne" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140900,145169))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145169" title="über: Hamburg : Arbeitsverhältnisse, Löhne" target="_blank">39 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,145169))
+- A10p Polnisch-Schlesien [**&nearr;**](../../../geo/i/140951/about.de.html "Polnisch-Schlesien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10p "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140951,145169" title="über: Polnisch-Schlesien : Arbeitsverhältnisse, Löhne" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140951,145169))
 
 ### Asien
 
-- [B21 Türkei (1923 -)](../../../geo/about.de.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1451xx/145169/public.mets.de.xml" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,145169))
-- [B23 Irak](../../../geo/about.de.html#B23) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141113/1451xx/145169/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141113,145169))
-- [B111 Japan](../../../geo/about.de.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1451xx/145169/public.mets.de.xml" target="_blank">68 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,145169))
-- [B112 Japanische Kolonien](../../../geo/about.de.html#B112) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141273/1451xx/145169/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141273,145169))
+- B21 Türkei (1923 -) [**&nearr;**](../../../geo/i/141111/about.de.html "Türkei (1923 -) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B21 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145169" title="über: Türkei (1923 -) : Arbeitsverhältnisse, Löhne" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,145169))
+- B23 Irak [**&nearr;**](../../../geo/i/141113/about.de.html "Irak (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B23 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141113,145169" title="über: Irak : Arbeitsverhältnisse, Löhne" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141113,145169))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145169" title="über: Japan : Arbeitsverhältnisse, Löhne" target="_blank">68 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,145169))
+- B112 Japanische Kolonien [**&nearr;**](../../../geo/i/141273/about.de.html "Japanische Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B112 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141273,145169" title="über: Japanische Kolonien : Arbeitsverhältnisse, Löhne" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141273,145169))
 
 ### Afrika
 
-- [C25 Französisch-Marokko](../../../geo/about.de.html#C25) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1413xx/141358/1451xx/145169/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141358,145169))
-- [C65 Kamerun](../../../geo/about.de.html#C65) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141410/1451xx/145169/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141410,145169))
-- [C87 Deutsch-Südwestafrika](../../../geo/about.de.html#C87) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141450/1451xx/145169/public.mets.de.xml" target="_blank">12 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141450,145169))
+- C25 Französisch-Marokko [**&nearr;**](../../../geo/i/141358/about.de.html "Französisch-Marokko (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C25 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141358,145169" title="über: Französisch-Marokko : Arbeitsverhältnisse, Löhne" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141358,145169))
+- C65 Kamerun [**&nearr;**](../../../geo/i/141410/about.de.html "Kamerun (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C65 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141410,145169" title="über: Kamerun : Arbeitsverhältnisse, Löhne" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141410,145169))
+- C87 Deutsch-Südwestafrika [**&nearr;**](../../../geo/i/141450/about.de.html "Deutsch-Südwestafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C87 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141450,145169" title="über: Deutsch-Südwestafrika : Arbeitsverhältnisse, Löhne" target="_blank">12 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141450,145169))
 
 ### Amerika
 
-- [E86 Argentinien](../../../geo/about.de.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1451xx/145169/public.mets.de.xml" target="_blank">48 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,145169))
+- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145169" title="über: Argentinien : Arbeitsverhältnisse, Löhne" target="_blank">48 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,145169))
 
 

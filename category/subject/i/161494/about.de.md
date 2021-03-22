@@ -1,7 +1,7 @@
 ---
 title: "n34 Sm8 Ausländische Postanstalten und Telegraphenanstalten"
 etr: category/subject/n34 Sm8
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -22,6 +22,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 
 
-- [A5 Levante](../../../geo/about.de.html#A5) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1408xx/140898/1614xx/161494/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140898,161494))
+- A5 Levante [**&nearr;**](../../../geo/i/140898/about.de.html "Levante (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A5 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140898,161494" title="über: Levante : Ausländische Postanstalten und Telegraphenanstalten" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140898,161494))
 
 

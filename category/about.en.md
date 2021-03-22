@@ -1,6 +1,6 @@
 ---
 title: "Category Systems"
-etr: category_overview
+etr: category
 fn-stub: about
 backlink: ../about
 backlink-title: Home

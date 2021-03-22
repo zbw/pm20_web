@@ -1,7 +1,7 @@
 ---
 title: "f2 Sm6 Leitende Staatsmänner, Kabinette"
 etr: category/subject/f2 Sm6
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -22,26 +22,26 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 
 
-- [A9 Hamburg](../../../geo/about.de.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1442xx/144292/public.mets.de.xml" target="_blank">19 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,144292))
-- [A10 Deutschland](../../../geo/about.de.html#A10) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1261xx/126128/1442xx/144292/public.mets.de.xml" target="_blank">84 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/126128,144292))
-- [A43 Osmanisches Reich (-1923)](../../../geo/about.de.html#A43) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1410xx/141034/1442xx/144292/public.mets.de.xml" target="_blank">23 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141034,144292))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144292" title="über: Hamburg : Leitende Staatsmänner, Kabinette" target="_blank">19 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,144292))
+- A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,144292" title="über: Deutschland : Leitende Staatsmänner, Kabinette" target="_blank">84 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/126128,144292))
+- A43 Osmanisches Reich (-1923) [**&nearr;**](../../../geo/i/141034/about.de.html "Osmanisches Reich (-1923) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A43 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141034,144292" title="über: Osmanisches Reich (-1923) : Leitende Staatsmänner, Kabinette" target="_blank">23 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141034,144292))
 
 ### Asien
 
-- [B21 Türkei (1923 -)](../../../geo/about.de.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1442xx/144292/public.mets.de.xml" target="_blank">28 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,144292))
-- [B23 Irak](../../../geo/about.de.html#B23) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141113/1442xx/144292/public.mets.de.xml" target="_blank">17 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141113,144292))
-- [B24 Syrien](../../../geo/about.de.html#B24) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141114/1442xx/144292/public.mets.de.xml" target="_blank">10 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141114,144292))
-- [B99 Mongolei](../../../geo/about.de.html#B99) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141261/1442xx/144292/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141261,144292))
-- [B111 Japan](../../../geo/about.de.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1442xx/144292/public.mets.de.xml" target="_blank">162 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144292))
+- B21 Türkei (1923 -) [**&nearr;**](../../../geo/i/141111/about.de.html "Türkei (1923 -) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B21 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,144292" title="über: Türkei (1923 -) : Leitende Staatsmänner, Kabinette" target="_blank">28 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,144292))
+- B23 Irak [**&nearr;**](../../../geo/i/141113/about.de.html "Irak (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B23 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141113,144292" title="über: Irak : Leitende Staatsmänner, Kabinette" target="_blank">17 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141113,144292))
+- B24 Syrien [**&nearr;**](../../../geo/i/141114/about.de.html "Syrien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B24 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141114,144292" title="über: Syrien : Leitende Staatsmänner, Kabinette" target="_blank">10 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141114,144292))
+- B99 Mongolei [**&nearr;**](../../../geo/i/141261/about.de.html "Mongolei (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B99 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141261,144292" title="über: Mongolei : Leitende Staatsmänner, Kabinette" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141261,144292))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144292" title="über: Japan : Leitende Staatsmänner, Kabinette" target="_blank">162 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144292))
 
 ### Australien und Ozeanien
 
-- [D30 Australien](../../../geo/about.de.html#D30) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141621/1442xx/144292/public.mets.de.xml" target="_blank">18 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141621,144292))
+- D30 Australien [**&nearr;**](../../../geo/i/141621/about.de.html "Australien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#D30 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141621,144292" title="über: Australien : Leitende Staatsmänner, Kabinette" target="_blank">18 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141621,144292))
 
 ### Amerika
 
-- [E86 Argentinien](../../../geo/about.de.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1442xx/144292/public.mets.de.xml" target="_blank">27 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,144292))
-- [E95 Uruguay](../../../geo/about.de.html#E95) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141695/1442xx/144292/public.mets.de.xml" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141695,144292))
-- [E101 Niederländisch-Guayana](../../../geo/about.de.html#E101) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141699/1442xx/144292/public.mets.de.xml" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141699,144292))
+- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144292" title="über: Argentinien : Leitende Staatsmänner, Kabinette" target="_blank">27 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,144292))
+- E95 Uruguay [**&nearr;**](../../../geo/i/141695/about.de.html "Uruguay (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E95 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141695,144292" title="über: Uruguay : Leitende Staatsmänner, Kabinette" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141695,144292))
+- E101 Niederländisch-Guayana [**&nearr;**](../../../geo/i/141699/about.de.html "Niederländisch-Guayana (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E101 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141699,144292" title="über: Niederländisch-Guayana : Leitende Staatsmänner, Kabinette" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141699,144292))
 
 

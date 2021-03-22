@@ -1,7 +1,7 @@
 ---
 title: "g4a Sm7 Aviation agreements"
 etr: category/subject/g4a Sm7
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,19 +25,19 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A10 Germany](../../../geo/about.en.html#A10) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1261xx/126128/1445xx/144538/public.mets.en.xml" target="_blank">8 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,144538))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,144538" title="about: Germany : Aviation agreements" target="_blank">8 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,144538))
 
 ### Asia
 
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1445xx/144538/public.mets.en.xml" target="_blank">8 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144538))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144538" title="about: Japan : Aviation agreements" target="_blank">8 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144538))
 
 ### Africa
 
-- [C56 Liberia](../../../geo/about.en.html#C56) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141405/1445xx/144538/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141405,144538))
+- C56 Liberia [**&nearr;**](../../../geo/i/141405/about.en.html "Liberia (all folders)") [**&uarr;**](../../../geo/about.en.html#C56 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141405,144538" title="about: Liberia : Aviation agreements" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141405,144538))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1445xx/144538/public.mets.en.xml" target="_blank">5 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,144538))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144538" title="about: Argentina : Aviation agreements" target="_blank">5 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,144538))
 
 
 _* The English category label is an unchecked automated translation of the German label._

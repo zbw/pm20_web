@@ -1,7 +1,7 @@
 ---
 title: "h4 Sm1.II (alt) Passport system, passport regulations for citizens of individual countries"
 etr: category/subject/h4 Sm1.II (alt)
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A39 Liechtenstein](../../../geo/about.en.html#A39) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1410xx/141016/1446xx/144668/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141016,144668))
+- A39 Liechtenstein [**&nearr;**](../../../geo/i/141016/about.en.html "Liechtenstein (all folders)") [**&uarr;**](../../../geo/about.en.html#A39 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141016,144668" title="about: Liechtenstein : Passport system, passport regulations for citizens of individual countries" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141016,144668))
 
 
 _* The English category label is an unchecked automated translation of the German label._

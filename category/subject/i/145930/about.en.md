@@ -1,7 +1,7 @@
 ---
 title: "p5 Sm1 Return migration of nationals of individual states"
 etr: category/subject/p5 Sm1
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A6 Southeastern Europe](../../../geo/about.en.html#A6) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140900/1459xx/145930/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140900,145930))
+- A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,145930" title="about: Southeastern Europe : Return migration of nationals of individual states" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140900,145930))
 
 
 _* The English category label is an unchecked automated translation of the German label._

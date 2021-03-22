@@ -1,7 +1,7 @@
 ---
 title: "n21 Sm3 Fine arts"
 etr: category/subject/n21 Sm3
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,20 +25,20 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1453xx/145300/public.mets.en.xml" target="_blank">139 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145300))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145300" title="about: Hamburg : Fine arts" target="_blank">139 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145300))
 
 ### Asia
 
-- [B21 Turkey](../../../geo/about.en.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1453xx/145300/public.mets.en.xml" target="_blank">9 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145300))
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1453xx/145300/public.mets.en.xml" target="_blank">50 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145300))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145300" title="about: Turkey : Fine arts" target="_blank">9 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145300))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145300" title="about: Japan : Fine arts" target="_blank">50 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145300))
 
 ### Africa
 
-- [C25 French protectorate in Morocco](../../../geo/about.en.html#C25) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1413xx/141358/1453xx/145300/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141358,145300))
+- C25 French protectorate in Morocco [**&nearr;**](../../../geo/i/141358/about.en.html "French protectorate in Morocco (all folders)") [**&uarr;**](../../../geo/about.en.html#C25 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141358,145300" title="about: French protectorate in Morocco : Fine arts" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141358,145300))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1453xx/145300/public.mets.en.xml" target="_blank">25 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145300))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145300" title="about: Argentina : Fine arts" target="_blank">25 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145300))
 
 
 _* The English category label is an unchecked automated translation of the German label._

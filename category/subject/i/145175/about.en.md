@@ -1,7 +1,7 @@
 ---
 title: "n15 Sm11.II Foreign and colonial workers, nationals of individual countries"
 etr: category/subject/n15 Sm11.II
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,32 +25,32 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A1 Europe](../../../geo/about.en.html#A1) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1408xx/140892/1451xx/145175/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140892,145175))
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1451xx/145175/public.mets.en.xml" target="_blank">10 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145175))
+- A1 Europe [**&nearr;**](../../../geo/i/140892/about.en.html "Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A1 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,145175" title="about: Europe : Foreign and colonial workers, nationals of individual countries" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140892,145175))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145175" title="about: Hamburg : Foreign and colonial workers, nationals of individual countries" target="_blank">10 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145175))
 
 ### Asia
 
-- [B21 Turkey](../../../geo/about.en.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1451xx/145175/public.mets.en.xml" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145175))
-- [B23 Iraq](../../../geo/about.en.html#B23) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141113/1451xx/145175/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141113,145175))
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1451xx/145175/public.mets.en.xml" target="_blank">8 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145175))
-- [B114 Guangdong](../../../geo/about.en.html#B114) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141275/1451xx/145175/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141275,145175))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145175" title="about: Turkey : Foreign and colonial workers, nationals of individual countries" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145175))
+- B23 Iraq [**&nearr;**](../../../geo/i/141113/about.en.html "Iraq (all folders)") [**&uarr;**](../../../geo/about.en.html#B23 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141113,145175" title="about: Iraq : Foreign and colonial workers, nationals of individual countries" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141113,145175))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145175" title="about: Japan : Foreign and colonial workers, nationals of individual countries" target="_blank">8 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145175))
+- B114 Guangdong [**&nearr;**](../../../geo/i/141275/about.en.html "Guangdong (all folders)") [**&uarr;**](../../../geo/about.en.html#B114 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141275,145175" title="about: Guangdong : Foreign and colonial workers, nationals of individual countries" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141275,145175))
 
 ### Africa
 
-- [C25 French protectorate in Morocco](../../../geo/about.en.html#C25) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1413xx/141358/1451xx/145175/public.mets.en.xml" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141358,145175))
-- [C70 Spanish Guinea](../../../geo/about.en.html#C70) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141412/1451xx/145175/public.mets.en.xml" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141412,145175))
-- [C126 Eritrea](../../../geo/about.en.html#C126) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141483/1451xx/145175/public.mets.en.xml" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141483,145175))
+- C25 French protectorate in Morocco [**&nearr;**](../../../geo/i/141358/about.en.html "French protectorate in Morocco (all folders)") [**&uarr;**](../../../geo/about.en.html#C25 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141358,145175" title="about: French protectorate in Morocco : Foreign and colonial workers, nationals of individual countries" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141358,145175))
+- C70 Spanish Guinea [**&nearr;**](../../../geo/i/141412/about.en.html "Spanish Guinea (all folders)") [**&uarr;**](../../../geo/about.en.html#C70 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141412,145175" title="about: Spanish Guinea : Foreign and colonial workers, nationals of individual countries" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141412,145175))
+- C126 Eritrea [**&nearr;**](../../../geo/i/141483/about.en.html "Eritrea (all folders)") [**&uarr;**](../../../geo/about.en.html#C126 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141483,145175" title="about: Eritrea : Foreign and colonial workers, nationals of individual countries" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141483,145175))
 
 ### Australia and Oceania
 
-- [D5 Hawaii](../../../geo/about.en.html#D5) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1415xx/141595/1451xx/145175/public.mets.en.xml" target="_blank">6 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141595,145175))
-- [D8 Nauru](../../../geo/about.en.html#D8) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1415xx/141599/1451xx/145175/public.mets.en.xml" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141599,145175))
+- D5 Hawaii [**&nearr;**](../../../geo/i/141595/about.en.html "Hawaii (all folders)") [**&uarr;**](../../../geo/about.en.html#D5 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141595,145175" title="about: Hawaii : Foreign and colonial workers, nationals of individual countries" target="_blank">6 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141595,145175))
+- D8 Nauru [**&nearr;**](../../../geo/i/141599/about.en.html "Nauru (all folders)") [**&uarr;**](../../../geo/about.en.html#D8 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141599,145175" title="about: Nauru : Foreign and colonial workers, nationals of individual countries" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141599,145175))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1451xx/145175/public.mets.en.xml" target="_blank">16 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145175))
-- [E101 Surinam](../../../geo/about.en.html#E101) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141699/1451xx/145175/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141699,145175))
-- [E102 British Guiana](../../../geo/about.en.html#E102) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1417xx/141700/1451xx/145175/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141700,145175))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145175" title="about: Argentina : Foreign and colonial workers, nationals of individual countries" target="_blank">16 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145175))
+- E101 Surinam [**&nearr;**](../../../geo/i/141699/about.en.html "Surinam (all folders)") [**&uarr;**](../../../geo/about.en.html#E101 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141699,145175" title="about: Surinam : Foreign and colonial workers, nationals of individual countries" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141699,145175))
+- E102 British Guiana [**&nearr;**](../../../geo/i/141700/about.en.html "British Guiana (all folders)") [**&uarr;**](../../../geo/about.en.html#E102 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141700,145175" title="about: British Guiana : Foreign and colonial workers, nationals of individual countries" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141700,145175))
 
 
 _* The English category label is an unchecked automated translation of the German label._

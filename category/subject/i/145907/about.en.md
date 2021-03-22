@@ -1,14 +1,14 @@
 ---
-title: "n0 Sm508 (B 111) Japanese labor front"
-etr: category/subject/n0 Sm508 (B 111)
-modified: 2020-12-18
+title: "n Sm508 (B111) Japanese labor front"
+etr: category/subject/n Sm508 (B111)
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [n0 Sm508 (B 111)]{.gray}&#8201; Japanese labor front&#160; 
+# [n Sm508 (B111)]{.gray}&#8201; Japanese labor front&#160; 
 
 
 
@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Asia
 
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1459xx/145907/public.mets.en.xml" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145907))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145907" title="about: Japan : Japanese labor front" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145907))
 
 
 _* The English category label is an unchecked automated translation of the German label._

@@ -1,7 +1,7 @@
 ---
 title: "E96 Paraguay"
 etr: category/geo/E96
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -25,11 +25,11 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Landeskunde
 
-- [c9 Landeskunde, Landschaften, Beschreibung einzelner Orte und Gegenden](../../../subject/about.de.html#c9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141696/1442xx/144214/public.mets.de.xml" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141696,144214))
+- c9 Landeskunde, Landschaften, Beschreibung einzelner Orte und Gegenden [**&nearr;**](../../../subject/i/144214/about.de.html "Landeskunde, Landschaften, Beschreibung einzelner Orte und Gegenden (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#c9 "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141696,144214" title="über: Paraguay : Landeskunde, Landschaften, Beschreibung einzelner Orte und Gegenden" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141696,144214))
 
 ### Fremdstämmige und einzelne Minderheiten
 
 - [o1 Deutsche Minderheiten und Deutschtum]{.gray}
-  - [o1 Sm500 Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)](../../../subject/about.de.html#o1_Sm500) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141696/1459xx/145911/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141696,145911))
+  - o1 Sm500 Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145911/about.de.html "Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#o1_Sm500 "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141696,145911" title="über: Paraguay : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141696,145911))
 
 

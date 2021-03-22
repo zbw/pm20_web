@@ -1,14 +1,14 @@
 ---
-title: "n0 Sm508 (B 111) Japanische Arbeitsfront"
-etr: category/subject/n0 Sm508 (B 111)
-modified: 2020-12-18
+title: "n Sm508 (B111) Japanische Arbeitsfront"
+etr: category/subject/n Sm508 (B111)
+modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [n0 Sm508 (B 111)]{.gray}&#8201; Japanische Arbeitsfront&#160; 
+# [n Sm508 (B111)]{.gray}&#8201; Japanische Arbeitsfront&#160; 
 
 
 
@@ -25,6 +25,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Asien
 
-- [B111 Japan](../../../geo/about.de.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1459xx/145907/public.mets.de.xml" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,145907))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145907" title="über: Japan : Japanische Arbeitsfront" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,145907))
 
 

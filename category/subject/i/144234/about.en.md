@@ -1,7 +1,7 @@
 ---
 title: "d5 Sm1 Youth movement"
 etr: category/subject/d5 Sm1
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,25 +25,25 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A1 Europe](../../../geo/about.en.html#A1) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1408xx/140892/1442xx/144234/public.mets.en.xml" target="_blank">22 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140892,144234))
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1442xx/144234/public.mets.en.xml" target="_blank">168 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,144234))
-- [A10 Germany](../../../geo/about.en.html#A10) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1261xx/126128/1442xx/144234/public.mets.en.xml" target="_blank">628 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,144234))
+- A1 Europe [**&nearr;**](../../../geo/i/140892/about.en.html "Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A1 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,144234" title="about: Europe : Youth movement" target="_blank">22 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140892,144234))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144234" title="about: Hamburg : Youth movement" target="_blank">168 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,144234))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,144234" title="about: Germany : Youth movement" target="_blank">628 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,144234))
 
 ### Asia
 
-- [B21 Turkey](../../../geo/about.en.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1442xx/144234/public.mets.en.xml" target="_blank">5 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,144234))
-- [B23 Iraq](../../../geo/about.en.html#B23) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141113/1442xx/144234/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141113,144234))
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1442xx/144234/public.mets.en.xml" target="_blank">19 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144234))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,144234" title="about: Turkey : Youth movement" target="_blank">5 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,144234))
+- B23 Iraq [**&nearr;**](../../../geo/i/141113/about.en.html "Iraq (all folders)") [**&uarr;**](../../../geo/about.en.html#B23 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141113,144234" title="about: Iraq : Youth movement" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141113,144234))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144234" title="about: Japan : Youth movement" target="_blank">19 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144234))
 
 ### Africa
 
-- [C56 Liberia](../../../geo/about.en.html#C56) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141405/1442xx/144234/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141405,144234))
-- [C57 Gold Coast incl. British Togoland](../../../geo/about.en.html#C57) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141406/1442xx/144234/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141406,144234))
-- [C110 German East Africa](../../../geo/about.en.html#C110) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141471/1442xx/144234/public.mets.en.xml" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141471,144234))
+- C56 Liberia [**&nearr;**](../../../geo/i/141405/about.en.html "Liberia (all folders)") [**&uarr;**](../../../geo/about.en.html#C56 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141405,144234" title="about: Liberia : Youth movement" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141405,144234))
+- C57 Gold Coast incl. British Togoland [**&nearr;**](../../../geo/i/141406/about.en.html "Gold Coast incl. British Togoland (all folders)") [**&uarr;**](../../../geo/about.en.html#C57 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141406,144234" title="about: Gold Coast incl. British Togoland : Youth movement" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141406,144234))
+- C110 German East Africa [**&nearr;**](../../../geo/i/141471/about.en.html "German East Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C110 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141471,144234" title="about: German East Africa : Youth movement" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141471,144234))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1442xx/144234/public.mets.en.xml" target="_blank">9 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,144234))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144234" title="about: Argentina : Youth movement" target="_blank">9 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,144234))
 
 
 _* The English category label is an unchecked automated translation of the German label._

@@ -1,14 +1,14 @@
 ---
-title: "n0 Sm4 Bankruptcy, business supervision"
-etr: category/subject/n0 Sm4
-modified: 2020-12-18
+title: "n Sm4 Bankruptcy, business supervision"
+etr: category/subject/n Sm4
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [n0 Sm4]{.gray}&#8201; Bankruptcy, business supervision&#160; 
+# [n Sm4]{.gray}&#8201; Bankruptcy, business supervision&#160; 
 
 
 
@@ -25,22 +25,22 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1457xx/145780/public.mets.en.xml" target="_blank">10 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145780))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145780" title="about: Hamburg : Bankruptcy, business supervision" target="_blank">10 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145780))
 
 ### Asia
 
-- [B21 Turkey](../../../geo/about.en.html#B21) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141111/1457xx/145780/public.mets.en.xml" target="_blank">15 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145780))
-- [B24 Syria](../../../geo/about.en.html#B24) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141114/1457xx/145780/public.mets.en.xml" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141114,145780))
-- [B24a Palestine](../../../geo/about.en.html#B24a) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1411xx/141115/1457xx/145780/public.mets.en.xml" target="_blank">6 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,145780))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145780" title="about: Turkey : Bankruptcy, business supervision" target="_blank">15 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145780))
+- B24 Syria [**&nearr;**](../../../geo/i/141114/about.en.html "Syria (all folders)") [**&uarr;**](../../../geo/about.en.html#B24 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141114,145780" title="about: Syria : Bankruptcy, business supervision" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141114,145780))
+- B24a Palestine [**&nearr;**](../../../geo/i/141115/about.en.html "Palestine (all folders)") [**&uarr;**](../../../geo/about.en.html#B24a "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,145780" title="about: Palestine : Bankruptcy, business supervision" target="_blank">6 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,145780))
 
 ### Africa
 
-- [C87 German South-West Africa](../../../geo/about.en.html#C87) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141450/1457xx/145780/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141450,145780))
-- [C110 German East Africa](../../../geo/about.en.html#C110) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1414xx/141471/1457xx/145780/public.mets.en.xml" target="_blank">10 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141471,145780))
+- C87 German South-West Africa [**&nearr;**](../../../geo/i/141450/about.en.html "German South-West Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C87 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141450,145780" title="about: German South-West Africa : Bankruptcy, business supervision" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141450,145780))
+- C110 German East Africa [**&nearr;**](../../../geo/i/141471/about.en.html "German East Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C110 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141471,145780" title="about: German East Africa : Bankruptcy, business supervision" target="_blank">10 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141471,145780))
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1457xx/145780/public.mets.en.xml" target="_blank">54 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145780))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145780" title="about: Argentina : Bankruptcy, business supervision" target="_blank">54 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145780))
 
 
 _* The English category label is an unchecked automated translation of the German label._

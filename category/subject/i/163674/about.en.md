@@ -1,7 +1,7 @@
 ---
 title: "f4 Sm1 Electoral law"
 etr: category/subject/f4 Sm1
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,16 +25,16 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- [A9 Hamburg](../../../geo/about.en.html#A9) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1409xx/140905/1636xx/163674/public.mets.en.xml" target="_blank">28 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,163674))
-- [A39 Liechtenstein](../../../geo/about.en.html#A39) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1410xx/141016/1636xx/163674/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141016,163674))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,163674" title="about: Hamburg : Electoral law" target="_blank">28 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,163674))
+- A39 Liechtenstein [**&nearr;**](../../../geo/i/141016/about.en.html "Liechtenstein (all folders)") [**&uarr;**](../../../geo/about.en.html#A39 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141016,163674" title="about: Liechtenstein : Electoral law" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141016,163674))
 
 ### Asia
 
-- [B111 Japan](../../../geo/about.en.html#B111) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1412xx/141272/1636xx/163674/public.mets.en.xml" target="_blank">40 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,163674))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,163674" title="about: Japan : Electoral law" target="_blank">40 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,163674))
 
 ### America
 
-- [E95 Uruguay](../../../geo/about.en.html#E95) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141695/1636xx/163674/public.mets.en.xml" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141695,163674))
+- E95 Uruguay [**&nearr;**](../../../geo/i/141695/about.en.html "Uruguay (all folders)") [**&uarr;**](../../../geo/about.en.html#E95 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141695,163674" title="about: Uruguay : Electoral law" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141695,163674))
 
 
 _* The English category label is an unchecked automated translation of the German label._

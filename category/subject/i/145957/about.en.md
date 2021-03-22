@@ -1,7 +1,7 @@
 ---
 title: "q Sm12a.1 Relief for abroad, general"
 etr: category/subject/q Sm12a.1
-modified: 2020-12-18
+modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### America
 
-- [E86 Argentina](../../../geo/about.en.html#E86) (<a href="https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/sh/1416xx/141692/1459xx/145957/public.mets.en.xml" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145957))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145957" title="about: Argentina : Relief for abroad, general" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145957))
 
 
 _* The English category label is an unchecked automated translation of the German label._
