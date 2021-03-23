@@ -32,6 +32,7 @@ $set = $query_parts['set'] ?: 'k1';
 $collection = $query_parts['collection'] ?: 'sh';
 $film = $query_parts['film'] ?: '0200';
 $img = $query_parts['img'] ?: '';
+$lang = 'de';
 
 $filmpath = "$web_root$set/$collection/$film";
 if ( ! is_dir("$fs_root$filmpath") ) {
@@ -41,7 +42,17 @@ if ( ! is_dir("$fs_root$filmpath") ) {
 }
 
 // etracker code
-echo etracker::getCode("b9xWmg", ["et_pagename" => "FI $set $collection $film $img", "et_areas" => "filmview/$set/$collection"]);
+$et_code = etracker::getCode(
+  "b9xWmg",
+  [
+    "et_pagename" => "FI $set $collection $film $img",
+    "et_areas" => "PM20/$lang/filmview/$set/$collection",
+  ],
+  [
+    "respect_dnt" => true,
+    "block_cookies" => true,
+  ]
+);
 
 // get a list of all acessible files in the film directory
 if ( getenv("PM20_INTERNAL") == 1 ) {
@@ -241,6 +252,7 @@ function build_canonical_link($filmpath, $img) {
 ?><!DOCTYPE html>
 <html>
 <head>
+<?= $et_code ?>
   <meta charset="UTF-8">
   <title><?= $title ?></title>
   <style>
