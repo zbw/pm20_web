@@ -16,8 +16,8 @@ _vorläufig_
 * [Warenarchiv](folder/wa)
 * [Digitalisierte Filme](film) (im Web nur Metadaten - Inhalte vom ZBW-Lesesaal aus zugänglich)
 * [Liste der genutzten Zeitungen und Zeitschriften](list/publication/about.de.html)
-* [Auswertungen](report)
-* [Dokumentation](doc)
+* [Auswertungen](report/about.de.html)
+* [Dokumentation](doc/about.de.html)
 
 <!--
 * [free example doc](folder/P/0000xx/000012/000xx/00010/P000012000000000000000100000_0000_00000000HP.txt)

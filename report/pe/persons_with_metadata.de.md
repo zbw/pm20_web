@@ -1030,7 +1030,7 @@ pm20|life|locations|occupation|doc|clip|gnd|wd
 [Baur, Franz](http://purl.org/pressemappe20/folder/pe/001201)|1887-1977|Deutschland|Meteorologe| |1953-| |[Q1446221](http://www.wikidata.org/entity/Q1446221)
 [Baur, Friedrich](http://purl.org/pressemappe20/folder/pe/001202)|1927-|Deutschland|Industriemanager| |1984-| |[Q20242610](http://www.wikidata.org/entity/Q20242610)
 [Baur, Hans](http://purl.org/pressemappe20/folder/pe/001203)|1897-1993|Deutschland|Adolf Hitlers Chefpilot|[3](https://pm20.zbw.eu/dfgview/pe/001203)|1933-|[118507664](https://d-nb.info/gnd/118507664)|[Q60456](http://www.wikidata.org/entity/Q60456)
-[Baur, Johann Daniel](http://purl.org/pressemappe20/folder/pe/001204)|1700-1774|Deutschland|Bürgermeister von Altona (1755–1772)|[1](https://pm20.zbw.eu/dfgview/pe/001204)|1938-1938| | 
+[Baur, Johann Daniel](http://purl.org/pressemappe20/folder/pe/001204)|1700-1774|Deutschland|Bürgermeister von Altona (1755–1772)|[1](https://pm20.zbw.eu/dfgview/pe/001204)|1938-1938| |[Q105653300](http://www.wikidata.org/entity/Q105653300)
 [Baur, Wilhelm](http://purl.org/pressemappe20/folder/pe/001205)|1905-1945|Deutschland|Verlagsleiter|[5](https://pm20.zbw.eu/dfgview/pe/001205)|1935-| |[Q15854444](http://www.wikidata.org/entity/Q15854444)
 [Bausch, Hans](http://purl.org/pressemappe20/folder/pe/001206)|1921-1991|Deutschland|Rundfunkintendant| |1958-| |[Q1578586](http://www.wikidata.org/entity/Q1578586)
 [Bausch, Paul](http://purl.org/pressemappe20/folder/pe/001207)|1895-|Deutschland|Politiker. Intendant des Süddeutschen Rundfunks| |1953-| | 
@@ -1075,7 +1075,7 @@ pm20|life|locations|occupation|doc|clip|gnd|wd
 [Bechert, Karl](http://purl.org/pressemappe20/folder/pe/001253)|1901-1981|Deutschland|Politiker, Physiker| |1956-| |[Q78089](http://www.wikidata.org/entity/Q78089)
 [Bechler, Bernhard](http://purl.org/pressemappe20/folder/pe/001254)|1911-2002|DDR|Politiker, Brandenburgischer Innenminister 1946-49|[8](https://pm20.zbw.eu/dfgview/pe/001254)|1948-1949| |[Q124290](http://www.wikidata.org/entity/Q124290)
 [Bechstein, Edwin](http://purl.org/pressemappe20/folder/pe/001255)|1859-1934|Deutschland|Unternehmer|[3](https://pm20.zbw.eu/dfgview/pe/001255)|1934-|[132275988](https://d-nb.info/gnd/132275988)|[Q123169](http://www.wikidata.org/entity/Q123169)
-[Bechtel, Stephen Davison](http://purl.org/pressemappe20/folder/pe/001256)|1925-|USA|Unternehmer| |1981-| | 
+[Bechtel, Stephen Davison](http://purl.org/pressemappe20/folder/pe/001256)|1925-|USA|Unternehmer| |1981-| |[Q7608688](http://www.wikidata.org/entity/Q7608688)
 [Bechtle, Otto Wolfgang](http://purl.org/pressemappe20/folder/pe/001257)|1918-|Deutschland|Verleger| |1974-| |[Q1258237](http://www.wikidata.org/entity/Q1258237)
 [Bechtolf, Erich](http://purl.org/pressemappe20/folder/pe/001258)|1891-|Deutschland|Bankier| |1961-| | 
 [Beck, David](http://purl.org/pressemappe20/folder/pe/001260)|?|USA|Gewerkschafter| |1954-| |[Q43657162](http://www.wikidata.org/entity/Q43657162)
@@ -3302,7 +3302,7 @@ pm20|life|locations|occupation|doc|clip|gnd|wd
 [Deming, William Edwards](http://purl.org/pressemappe20/folder/pe/003874)|1900-1993|USA|Mathematiker u. Wirtschaftswissenschaftler| |1981-|[11897632X](https://d-nb.info/gnd/11897632X)|[Q311472](http://www.wikidata.org/entity/Q311472)
 [Demirel, Süleyman](http://purl.org/pressemappe20/folder/pe/003875)|1924-|Türkei|Staatspräsident (1993-2000)| |1965-| | 
 [Demitschew, Pjotr Nilowitsch](http://purl.org/pressemappe20/folder/pe/003877)|03.01.1918-|Sowjetunion|Politiker| |1965-| | 
-[Demjanjuk, Yvan](http://purl.org/pressemappe20/folder/pe/003878)|1920-|USA|Ukrainischer KZ-Aufseher; lebte in den USA; in Israel zum Tode verurteilt| |1986-| | 
+[Demjanjuk, Yvan](http://purl.org/pressemappe20/folder/pe/003878)|1920-|USA|Ukrainischer KZ-Aufseher; lebte in den USA; in Israel zum Tode verurteilt| |1986-| |[Q152672](http://www.wikidata.org/entity/Q152672)
 [Demski, Eva Katrin](http://purl.org/pressemappe20/folder/pe/003879)|12.05.1944-|Deutschland|Journalistin und Schriftstellerin| |1995-| | 
 [Denard, Bob](http://purl.org/pressemappe20/folder/pe/003880)|1929-|Frankreich|Soldat| |1993-| | 
 [Deneffe, Peter J.](http://purl.org/pressemappe20/folder/pe/003881)|1909-|Deutschland|Staatsrat in Hamburg| |1963-| | 
@@ -5060,7 +5060,7 @@ pm20|life|locations|occupation|doc|clip|gnd|wd
 [Georgiev, Kimon](http://purl.org/pressemappe20/folder/pe/005995)|1882-1969|Bulgarien|Politiker, Ministerpräsident 1934-1935|[6](https://pm20.zbw.eu/dfgview/pe/005995)|1944-1969|[131614274](https://d-nb.info/gnd/131614274)|[Q459651](http://www.wikidata.org/entity/Q459651)
 [Georgievski, Ljubco](http://purl.org/pressemappe20/folder/pe/005996)|17.01.1966-|Mazedonien|Ministerpräsident| |1991-| | 
 [Georgios <Hellas, Basileus, II.>](http://purl.org/pressemappe20/folder/pe/005997)|1890-1947|Griechenland|König von Griechenland|[58](https://pm20.zbw.eu/dfgview/pe/005997)|1916-| |[Q152935](http://www.wikidata.org/entity/Q152935)
-[Gephardt, Richard Andrew](http://purl.org/pressemappe20/folder/pe/005999)|1941-|USA|Politiker| |1985-| | 
+[Gephardt, Richard Andrew](http://purl.org/pressemappe20/folder/pe/005999)|1941-|USA|Politiker| |1985-| |[Q1209677](http://www.wikidata.org/entity/Q1209677)
 [Gerard, James Watson](http://purl.org/pressemappe20/folder/pe/006000)|1867-1951|USA|Diplomat in Deutschland|[23](https://pm20.zbw.eu/dfgview/pe/006000)|1916-|[117536385](https://d-nb.info/gnd/117536385)|[Q551342](http://www.wikidata.org/entity/Q551342)
 [Gerascenko, Victor Vladimirovic](http://purl.org/pressemappe20/folder/pe/006001)|1937-|Russland|Präsident der Zentralbank| |1992-| | 
 [Geraud, Andre](http://purl.org/pressemappe20/folder/pe/006002)|1882-1974|Frankreich|Journalist|[7](https://pm20.zbw.eu/dfgview/pe/006002)|1936-1974| |[Q2847922](http://www.wikidata.org/entity/Q2847922)
@@ -8430,7 +8430,7 @@ pm20|life|locations|occupation|doc|clip|gnd|wd
 [Kohn, Hans](http://purl.org/pressemappe20/folder/pe/010079)|?|USA|Hochschullehrer| |1955-| |[Q716095](http://www.wikidata.org/entity/Q716095)
 [Kohn, Hermann](http://purl.org/pressemappe20/folder/pe/010080)|1953-|Deutschland|Diplom-Volkswirt. - Kaufmännischer Geschäftsführer der Hamburgischen Staatsoper| |1996-| | 
 [Kohn, Roland](http://purl.org/pressemappe20/folder/pe/010081)|25.03.1950-|Deutschland|Politiker, Publizist| |1991-| |[Q2162863](http://www.wikidata.org/entity/Q2162863)
-[Kohn, Walter](http://purl.org/pressemappe20/folder/pe/010082)|1923-|USA|Physiker| |1999-| | 
+[Kohn, Walter](http://purl.org/pressemappe20/folder/pe/010082)|1923-|USA|Physiker| |1999-| |[Q78510](http://www.wikidata.org/entity/Q78510)
 [Kohner, Paul](http://purl.org/pressemappe20/folder/pe/010083)|1902-|USA|Filmagent| |1982-| | 
 [Kohnstamm, Max](http://purl.org/pressemappe20/folder/pe/010085)|1914-|Niederlande|Diplomat| |1952-| |[Q660745](http://www.wikidata.org/entity/Q660745)
 [Kohout, Pavel](http://purl.org/pressemappe20/folder/pe/010086)|20.07.1928-|Tschechische Republik|Schrifsteller| |1968-| | 
@@ -8511,7 +8511,7 @@ pm20|life|locations|occupation|doc|clip|gnd|wd
 [Konsalik, Heinz Günter](http://purl.org/pressemappe20/folder/pe/010169)|28.05.1921-02.10.1999|Deutschland|Schriftsteller| |1979-| |[Q60753](http://www.wikidata.org/entity/Q60753)
 [Konstantin <Griechenland, König, I.>](http://purl.org/pressemappe20/folder/pe/010170)|1868-1923|Griechenland|König von Griechenland|[28](https://pm20.zbw.eu/dfgview/pe/010170)|1915-|[136420702](https://d-nb.info/gnd/136420702)|[Q152099](http://www.wikidata.org/entity/Q152099)
 [Konstantin <Griechenland, König, II.>](http://purl.org/pressemappe20/folder/pe/010171)|1940-|Griechenland|König von Griechenland bis 1973| |1960-| | 
-[Konwicki, Tadeusz](http://purl.org/pressemappe20/folder/pe/010172)|22.06.1926-|Polen|Schriftsteller; Filmregisseur| |1981-| | 
+[Konwicki, Tadeusz](http://purl.org/pressemappe20/folder/pe/010172)|22.06.1926-|Polen|Schriftsteller; Filmregisseur| |1981-| |[Q704516](http://www.wikidata.org/entity/Q704516)
 [Konya, Imre](http://purl.org/pressemappe20/folder/pe/010173)|03.05.1947-|Ungarn|Innenminister| |1994-| | 
 [Konz, Otto](http://purl.org/pressemappe20/folder/pe/010174)|24.05.1875-15.06.1965|Deutschland|Ingenieur| |1955-| |[Q1544075](http://www.wikidata.org/entity/Q1544075)
 [Konzelmann, Gerhard](http://purl.org/pressemappe20/folder/pe/010175)|26.10.1932-|Deutschland|Journalist und Publizist| |1991-| | 
@@ -9378,7 +9378,7 @@ pm20|life|locations|occupation|doc|clip|gnd|wd
 [Leers, Johann von](http://purl.org/pressemappe20/folder/pe/011126)|1902-1965|Deutschland|Antisemitischer Publizist|[11](https://pm20.zbw.eu/dfgview/pe/011126)|1933-|[101180284](https://d-nb.info/gnd/101180284)|[Q68751](http://www.wikidata.org/entity/Q68751)
 [Leeson, Nicholas](http://purl.org/pressemappe20/folder/pe/011127)|1967-|Großbritannien|Börsenhändler| |1995-| | 
 [Lefaucheux, Pierre](http://purl.org/pressemappe20/folder/pe/011128)|1898-1955|Frankreich|Generaldirektor der Renault-Werke|[4](https://pm20.zbw.eu/dfgview/pe/011128)|1944-1955|[139444785](https://d-nb.info/gnd/139444785)|[Q833121](http://www.wikidata.org/entity/Q833121)
-[Lefebvre, Henri](http://purl.org/pressemappe20/folder/pe/011129)|16.06.1905-29.06.1991|Frankreich|Philosoph, Soziologe| |1991-| | 
+[Lefebvre, Henri](http://purl.org/pressemappe20/folder/pe/011129)|16.06.1905-29.06.1991|Frankreich|Philosoph, Soziologe| |1991-| |[Q162597](http://www.wikidata.org/entity/Q162597)
 [Lefebvre, Marcel](http://purl.org/pressemappe20/folder/pe/011130)|29.11.1905-25.03.1991|Frankreich|Erzbischof| |1976-| |[Q312675](http://www.wikidata.org/entity/Q312675)
 [Lefevre, Theodore](http://purl.org/pressemappe20/folder/pe/011131)|17.01.1914-18.09.1973|Belgien|Politiker| |1961-| | 
 [Legasov, Valerij](http://purl.org/pressemappe20/folder/pe/011133)|1937-27.04.1988|Sowjetunion|Reaktor-Forscher| |1988-| | 
@@ -12731,7 +12731,7 @@ pm20|life|locations|occupation|doc|clip|gnd|wd
 [Raznjatovic, Zeljko](http://purl.org/pressemappe20/folder/pe/014234)|1952-1999|Serbien und Montenegro, Jugoslawien|serbischer Ultranationalist, Kriegsverbrecher| |1993-| |[Q245198](http://www.wikidata.org/entity/Q245198)
 [Rašín, Alois](http://purl.org/pressemappe20/folder/pe/014138)|1867-1923|Tschechoslowakei|Jurist, Politiker, Ökonom und Finanzminister|[17](https://pm20.zbw.eu/dfgview/pe/014138)|1923-|[119161524](https://d-nb.info/gnd/119161524)|[Q164908](http://www.wikidata.org/entity/Q164908)
 [Reading, Rufus Isaacs](http://purl.org/pressemappe20/folder/pe/014240)|1860-1935|Großbritannien; Indien|Jurist und Politiker|[60](https://pm20.zbw.eu/dfgview/pe/014240)|1921-| |[Q336036](http://www.wikidata.org/entity/Q336036)
-[Reagan, Nancy](http://purl.org/pressemappe20/folder/pe/023990)|1921-|USA|Ehefrau von Ronald Reagan| |1976-| | 
+[Reagan, Nancy](http://purl.org/pressemappe20/folder/pe/023990)|1921-|USA|Ehefrau von Ronald Reagan| |1976-| |[Q193426](http://www.wikidata.org/entity/Q193426)
 [Reagan, Ronald W.](http://purl.org/pressemappe20/folder/pe/014241)|1911-2004|USA|40.Präsident (1981-1989)| |1965- Material von 1965-84 ausgelagert = 1 Kasten| |[Q9960](http://www.wikidata.org/entity/Q9960)
 [Reale, Eugenio](http://purl.org/pressemappe20/folder/pe/014242)|1905-|Italien|Politiker und Arzt| |1957-| |[Q3734426](http://www.wikidata.org/entity/Q3734426)
 [Reber, Samuel](http://purl.org/pressemappe20/folder/pe/014245)|15.07.1903-1971|USA|Diplomat und hoher Kommissar| |1950-| | 
@@ -13288,7 +13288,7 @@ pm20|life|locations|occupation|doc|clip|gnd|wd
 [Ruge, Friedrich](http://purl.org/pressemappe20/folder/pe/015154)|1894-1985|Deutschland|Admiral| |1956-| |[Q71542](http://www.wikidata.org/entity/Q71542)
 [Ruge, Gerd](http://purl.org/pressemappe20/folder/pe/015155)|09.08.1928-|Deutschland|Journalist und Publizist| |1968-| |[Q101417](http://www.wikidata.org/entity/Q101417)
 [Ruge, Jens](http://purl.org/pressemappe20/folder/pe/015156)|1938-|Deutschland|Politiker| |1988-| | 
-[Ruggiero, Renato](http://purl.org/pressemappe20/folder/pe/015158)|09.04.1930-|Italien|Politiker; Manager. - Generaldirektor der WTO| |1994-| | 
+[Ruggiero, Renato](http://purl.org/pressemappe20/folder/pe/015158)|09.04.1930-|Italien|Politiker; Manager. - Generaldirektor der WTO| |1994-| |[Q956652](http://www.wikidata.org/entity/Q956652)
 [Rugova, Ibrahim](http://purl.org/pressemappe20/folder/pe/015160)|1944-|Serbien und Montenegro, Jugoslawien|Politiker, Schriftsteller| |1990-| | 
 [Ruhfus, Jürgen](http://purl.org/pressemappe20/folder/pe/015152)|1930-|Deutschland|Diplomat und Staatssekretär (1984-1987)| |1970-| | 
 [Ruhland, Gustav](http://purl.org/pressemappe20/folder/pe/015161)|1860-1914|Deutschland|Nationalökonom|[18](https://pm20.zbw.eu/dfgview/pe/015161)|1930-|[119518228](https://d-nb.info/gnd/119518228)|[Q1556336](http://www.wikidata.org/entity/Q1556336)
@@ -13940,7 +13940,7 @@ pm20|life|locations|occupation|doc|clip|gnd|wd
 [Schofer, Joseph](http://purl.org/pressemappe20/folder/pe/015881)|1866-1930|Deutschland|Dt. kath. Geistlicher und Politiker|[6](https://pm20.zbw.eu/dfgview/pe/015881)|1930-|[118795384](https://d-nb.info/gnd/118795384)|[Q15437427](http://www.wikidata.org/entity/Q15437427)
 [Schoiber, Franz](http://purl.org/pressemappe20/folder/pe/015882)|1938-|Österreich|Manager| |1994-| | 
 [Scholem, Gershom](http://purl.org/pressemappe20/folder/pe/015884)|1897-1982|Deutschland|Religionswissenschaftler und Autor| |1974-| |[Q138850](http://www.wikidata.org/entity/Q138850)
-[Scholes, Myron S.](http://purl.org/pressemappe20/folder/pe/015885)|1941-|USA|Ökonom| |1991-| | 
+[Scholes, Myron S.](http://purl.org/pressemappe20/folder/pe/015885)|1941-|USA|Ökonom| |1991-| |[Q295647](http://www.wikidata.org/entity/Q295647)
 [Scholl <Familie>](http://purl.org/pressemappe20/folder/pe/015888)|1918-|Deutschland|Familie von Sophie und Hans Scholl, Widerstandskämpfer der Weißen Rose|[17](https://pm20.zbw.eu/dfgview/pe/015888)|1947-2003|[119092255](https://d-nb.info/gnd/119092255)|[Q57820](http://www.wikidata.org/entity/Q57820)
 [Scholl, Hans Otto](http://purl.org/pressemappe20/folder/pe/015890)|1933-|Deutschland|Politiker| |1979-| | 
 [Scholl, Hermann](http://purl.org/pressemappe20/folder/pe/015891)|1935-|Deutschland|Industriemanager| |1993-| | 
@@ -15770,7 +15770,7 @@ pm20|life|locations|occupation|doc|clip|gnd|wd
 [Waigel, Theodor](http://purl.org/pressemappe20/folder/pe/017971)|1939-|Deutschland|Politiker; Bundesfinanzminister (1989-1998)| |1981-| |[Q62077](http://www.wikidata.org/entity/Q62077)
 [Waite, Terry](http://purl.org/pressemappe20/folder/pe/017972)|1939-|Großbritannien|Laientheologe| |1987-| | 
 [Waitz, Hans Heinrich](http://purl.org/pressemappe20/folder/pe/017973)|1897-?|Deutschland|Unternehmer; Bankier. - Vorsitzender des Ibero-Amerika Vereins in Hamburg| |1953-| | 
-[Wajda, Andrzej](http://purl.org/pressemappe20/folder/pe/017974)|1926-|Polen|Regisseur| |1989-| | 
+[Wajda, Andrzej](http://purl.org/pressemappe20/folder/pe/017974)|1926-|Polen|Regisseur| |1989-| |[Q106685](http://www.wikidata.org/entity/Q106685)
 [Wakeham, John](http://purl.org/pressemappe20/folder/pe/017977)|1932-|Großbritannien|Politiker| |1986-| | 
 [Waksman, Selman Abraham](http://purl.org/pressemappe20/folder/pe/017978)|1888-1973|USA|Mikrobiologe| |1952| |[Q232308](http://www.wikidata.org/entity/Q232308)
 [Wal, Peter van der](http://purl.org/pressemappe20/folder/pe/017979)|13.06.1939-|Niederlande|Industriemanager| |1996-| | 

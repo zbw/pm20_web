@@ -12,6 +12,8 @@ Query results from the press archives database (metadata about the former HWWW a
 
 ## Persons
 
+* [All persons with material available online](https://pm20.zbw.eu/report/pm20_result.en.html?jsonFile=pe/persons.en.json&main_title=All+persons+with+material+available+online) <small>([html](pe/persons.en.html), [json](pe/persons.en.json))</small>
+
 ## Companies/Institutions
 
 ## Country/subject folders

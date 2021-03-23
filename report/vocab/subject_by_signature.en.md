@@ -100,7 +100,7 @@ d 07 SM 501.03 (A 010)|d7 Sm501.III (A10)|[Prussian Concordat](http://zbw.eu/bet
 d 07 SM 501.04 (A 010)|d7 Sm501.IV (A10)|[Baden Concordat](http://zbw.eu/beta/pm20voc/je/144252)| |[1](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=S&S=144252)
 d 08|d8|[Missionary activities](http://zbw.eu/beta/pm20voc/je/144253)| |[6](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=S&S=144253)
 d 09|d9|[Spiritual culture, scientific achievements, general](http://zbw.eu/beta/pm20voc/je/144254)| |[16](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=S&S=144254)
-d 09 SM 001|d9 Sm1|[Protection of minors ("Fight against dirt and trash")](http://zbw.eu/beta/pm20voc/je/144255)| |[4](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=S&S=144255)
+d 09 SM 001|d9 Sm1|[Protection of minors ('Fight against dirt and trash')](http://zbw.eu/beta/pm20voc/je/144255)| |[4](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=S&S=144255)
 d 10|d10|[Literature, music, theater](http://zbw.eu/beta/pm20voc/je/144256)| |[1](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=S&S=144256)
 d 11|d11|[Fine arts, art monuments, excavations, archeology](http://zbw.eu/beta/pm20voc/je/144257)| |-
 d 11 SM 001 (alt)|d11 Sm1 (alt)|[Archaeological excavations and finds](http://zbw.eu/beta/pm20voc/je/144258)| |[1](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=S&S=144258)

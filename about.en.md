@@ -17,7 +17,7 @@ _preliminary_
 * [Wares archive](folder/wa)
 * [Digitized films](film) (only metadata on the web - full content from ZBW reading room)
 * [List of evaluated newspapers and jounals](list/publication/about.en.html)
-* [Reports](report)
+* [Reports](report/about.en.html)
 * [Documentation](doc/about.en.html)
 
 <!--
