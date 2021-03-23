@@ -52,7 +52,10 @@ SetEnvIf Remote_Addr "^134\.245\.94\.2$" PM20_INTERNAL=1
 # Remote access (vpn) for admin
 SetEnvIf Remote_Addr "^134\.245\.94\.1$" PM20_INTERNAL=1
 
-# DFG-Viewer service (issues HEAD requests for images to check the COFS status)
+# HAN server
+SetEnvIf Remote_Addr "^134\.245\.92\.39$" PM20_INTERNAL=1
+
+# DFG-Viewer service (issues HEAD requests for images to check the CORS status)
 SetEnvIf Remote_Addr "^194\.95\.145\.4$" PM20_DFGVIEWER=1
 
 
