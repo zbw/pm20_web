@@ -7,7 +7,7 @@ etr: doc/holding
 
 - Dokumente - Zeitungsartikel, Broschüren Geschäftsberichte - sind nur in den aufbereiteten Dossiers als solche zusammengefasst, inhaltlich erschlossen und urheberrechtlich eingestuft. Die Dossiers sind in der [Pressemappe 20. Jahrhundert (PM20)](http://webopac.hwwa.de/pressemappe20) im Web veröffentlicht.
 - Das nicht aufbereitete Material besteht aus Digitalisaten von [Rollfilmaufnahmen](../../film) mit jeweils zwei Seiten, die in den 1960er bzw. 1980er Jahren erstellt worden waren. ([Beispiel](/film/h1/sh/S0690H) aus Mappe "Bodenbesitzverhältnisse in Britisch-Indien")
-- Der digitalisierte Gesamtbestand beträgt knapp eine Million aufbereitete Dokumente (mit gut 2 Millionen Dokumentseiten) sowie insgesamt 8,8 Millionen nicht aufbereitete Seiten. Hinzu kommen etwa 10 Millionen Seiten auf Mikrofiche.
+- Der digitalisierte Gesamtbestand beträgt knapp eine Million aufbereitete Dokumente (mit gut 2 Millionen Dokumentseiten) sowie insgesamt 8,8 Millionen nicht aufbereitete Seiten. Weiter sind etwa 10 Millionen Dokumentseiten auf Mikrofiche verfügbar.
 - Aus urheberrechtlichen Gründen sind alle vor weniger als 70 Jahren erschienen Materialien nur im ZBW Lesesaal einsehbar. Das gilt auch für einzelne Artikel mit namentlich genannten und nicht bekanntermaßen vor diesem Zeitpunkt verstorbenen AutorInnen in den aufbereiteten Dossiers.
 
 :::: {.wikitable}
@@ -42,5 +42,5 @@ __Spalte Krz (Provenienz/Typ) - Legende__
 * wa = Waren
 * pe = Personen
 
-Stand: Vorläufig (5. Entwurf, 27.4.2019)
+Stand: Harmonisierte Fassung (13.4.2021)
 
