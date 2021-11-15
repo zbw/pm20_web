@@ -54,6 +54,13 @@ table.listing,table.listing td {
 .wikitable * > tr.is-online > td {
   background-color: palegreen;
 }
+.fieldtable table, .fieldtable td, .fieldtable th {
+  border: none;
+  padding: 4px;
+}
+.fieldtable td:nth-child(1)::after {
+  content: ":";
+}
 div.hint {
   font-size: 81%;
 }
