@@ -3,6 +3,8 @@
 
 # Convert all markdown files in the web.(public|intern) diretory recursively to
 # html
+#
+# has to be called with SET=param (for params see mk/find_md.sh)
 
 # requires: make pandoc
 
@@ -17,9 +19,9 @@ PANDOC=/usr/local/bin/pandoc
 EMPTY :=
 
 # input/output
-SOURCE_DOCS := $(shell find -L . -maxdepth 5 -type f -name '*.md')
+SOURCE_DOCS := $(shell mk/find_md.sh $(SET))
 SOURCE_DOCS := $(filter-out templates/fragments/*.md, $(SOURCE_DOCS))
-EXPORTED_DOCS = $(SOURCE_DOCS:.md=.html)
+EXPORTED_DOCS := $(SOURCE_DOCS:.md=.html)
 SOURCE_FRAG := $(wildcard templates/fragments/*.md.frag)
 EXPORTED_FRAG =  $(SOURCE_FRAG:.md.frag=.html.frag)
 
@@ -48,7 +50,7 @@ all: $(EXPORTED_FRAG) $(EXPORTED_DOCS)
 	@echo $@
 	@$(PANDOC) $(EXT_OPTS) -o $@ $<
 
-show_all_files:
-	@echo All document .md files: $(SOURCE_DOCS)
-	@echo All fragment .md files: $(SOURCE_FRAG)
+##show_all_files:
+##	@echo All document .md files: $(SOURCE_DOCS)
+##	@echo All fragment .md files: $(SOURCE_FRAG)
 
