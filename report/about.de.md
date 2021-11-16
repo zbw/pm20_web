@@ -22,7 +22,7 @@ Ergebnisse von Abfragen der Pressearchiv-Datenbank (Metadaten über das ehemalig
 
 * [Alle Firmen/Institutionen mit online verfügbarem Material](https://pm20.zbw.eu/report/pm20_result.de.html?jsonFile=co/companies.de.json&main_title=Alle+Firmen/Institutionen+mit+online+verfügbarem+Material) <small>([html](co/companies.de.html), [json](co/companies.de.json))</small>
 
-* [Alle Firmen mit Metadaten](https://pm20.zbw.eu/report/pm20_result.de.html?jsonFile=co/companies_with_metadata.de.json&main_title=Alle+Firmen+mit+Metadaten) <small>([html](co/companies_with_metadata.de.html), [json](co/companies_with_metadata.de.json))</small>
+* [Alle Firmen/Institutionen mit Metadaten](https://pm20.zbw.eu/report/pm20_result.de.html?jsonFile=co/companies_with_metadata.de.json&main_title=Alle+Firmen/Institutionen+mit+Metadaten) <small>([html](co/companies_with_metadata.de.html), [json](co/companies_with_metadata.de.json))</small>
 
 ## Länder/Sach-Mappen
 

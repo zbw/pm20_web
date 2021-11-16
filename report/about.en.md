@@ -14,7 +14,15 @@ Query results from the press archives database (metadata about the former HWWW a
 
 * [All persons with material available online](https://pm20.zbw.eu/report/pm20_result.en.html?jsonFile=pe/persons.en.json&main_title=All+persons+with+material+available+online) <small>([html](pe/persons.en.html), [json](pe/persons.en.json))</small>
 
+* [All persons with metadata](https://pm20.zbw.eu/report/pm20_result.en.html?jsonFile=pe/persons_with_metadata.en.json&main_title=All+persons+with+metadata) <small>([html](pe/persons_with_metadata.en.html), [json](pe/persons_with_metadata.en.json))</small>
+
 ## Companies/Institutions
+
+* [Companies/institutions with online accessible annual reports](https://pm20.zbw.eu/report/pm20_result.en.html?jsonFile=co/companies_with_reports.en.json&main_title=Companies/institutions+with+online+accessible+annual+reports) <small>([html](co/companies_with_reports.en.html), [json](co/companies_with_reports.en.json))</small>
+
+* [All companies/institutions with online accessible documents](https://pm20.zbw.eu/report/pm20_result.en.html?jsonFile=co/companies.en.json&main_title=All+companies/institutions+with+online+accessible+documents) <small>([html](co/companies.en.html), [json](co/companies.en.json))</small>
+
+* [All companies/institutions with metadata](https://pm20.zbw.eu/report/pm20_result.en.html?jsonFile=co/companies_with_metadata.en.json&main_title=All+companies/institutions+with+metadata) <small>([html](co/companies_with_metadata.en.html), [json](co/companies_with_metadata.en.json))</small>
 
 ## Country/subject folders
 
