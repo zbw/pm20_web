@@ -7,6 +7,9 @@
 # requires: make pandoc
 
 
+# include modules
+include $(wildcard mk/*.mk)
+
 # binaries
 PANDOC=/usr/local/bin/pandoc
 
@@ -14,14 +17,13 @@ PANDOC=/usr/local/bin/pandoc
 EMPTY :=
 
 # input/output
-SOURCE_DOCS	:= $(shell find -L . -maxdepth 5 -type f -name '*.md')
+SOURCE_DOCS := $(shell find -L . -maxdepth 5 -type f -name '*.md')
 SOURCE_DOCS := $(filter-out templates/fragments/*.md, $(SOURCE_DOCS))
 EXPORTED_DOCS = $(SOURCE_DOCS:.md=.html)
 SOURCE_FRAG := $(wildcard templates/fragments/*.md.frag)
 EXPORTED_FRAG =  $(SOURCE_FRAG:.md.frag=.html.frag)
 
 # options for pandoc invocation
-
 TEMPLATE    := /pm20/web/templates/pm20_default.html
 PANDOC_OPTS	:= --standalone
 TMPL_OPTS		:= --template $(TEMPLATE) --css /styles/simple.css
@@ -33,7 +35,6 @@ lang_opts = --variable is_$(lang) --variable lang:$(lang)
 
 
 # Pattern-matching Rules
-
 
 all: $(EXPORTED_FRAG) $(EXPORTED_DOCS)
 

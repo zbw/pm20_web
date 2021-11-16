@@ -26,6 +26,7 @@ RedirectMatch 404 /\.git
 # hide the build system
 RedirectMatch 404 Makefile
 RedirectMatch 404 templates/.*
+RedirectMatch 404 mk/.*
 
 # hide .md files (which are used as source for .html)
 RedirectMatch 404 \.md$
