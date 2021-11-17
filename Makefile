@@ -4,7 +4,7 @@
 # Convert all markdown files in the web.(public|intern) diretory recursively to
 # html
 #
-# has to be called with SET=param (for params see mk/find_md.sh)
+# has to be called with "make all SET={param}" (for params see mk/find_md.sh)
 
 # requires: make pandoc
 
