@@ -9,9 +9,6 @@
 # requires: make pandoc
 
 
-# include modules
-include $(wildcard mk/*.mk)
-
 # binaries
 PANDOC=/usr/local/bin/pandoc
 
@@ -37,8 +34,10 @@ lang_opts = --variable is_$(lang) --variable lang:$(lang)
 
 
 # Pattern-matching Rules
+set: $(EXPORTED_FRAG) $(EXPORTED_DOCS)
 
-all: $(EXPORTED_FRAG) $(EXPORTED_DOCS)
+# include modules
+include $(wildcard mk/*.mk)
 
 # standalone HTML pages
 %.html: %.md $(SOURCE_FRAG) $(TEMPLATE)
