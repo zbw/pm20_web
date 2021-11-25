@@ -56,13 +56,26 @@ table.listing,table.listing td {
 }
 .fieldtable table, .fieldtable td, .fieldtable th {
   border: none;
-  padding: 4px;
+  padding: 2px;
 }
 .fieldtable td:nth-child(1)::after {
   content: ":";
 }
+.btn {
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  border: solid 1px #20538D;
+  background: #4479BA;
+  color: #FFF;
+  padding: 8px 12px;
+  text-decoration: none;
+}
 div.hint {
   font-size: 81%;
+}
+div.spacer {
+  font-size: 30%;
 }
 span.is-online {
   background-color: palegreen;
