@@ -9,12 +9,12 @@ fn-stub: about
 _preliminary_
 
 
-* [Persons archive](folder/pe)
-* [Companies/Institutions archive](folder/co)
-* [Country-Subjects archive](folder/sh)
+* [Persons archive](folder/pe/about.en.html)
+* [Companies/Institutions archive](folder/co/about.en.html)
+* Country-Subjects archive
   * [by country category system](category/geo/about.en.html)
   * [by subject category system](category/subject/about.en.html)
-* [Wares archive](folder/wa)
+* [Wares archive](folder/wa/about.en.html)
 * [Digitized films](film) (only metadata on the web - full content from ZBW reading room)
 * [List of evaluated newspapers and jounals](list/publication/about.en.html)
 * [Reports](report/about.en.html)

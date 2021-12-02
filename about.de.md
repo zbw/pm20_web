@@ -8,9 +8,9 @@ fn-stub: about
 
 _vorläufig_
 
-* [Personenarchiv](folder/pe)
-* [Firmen/Institutionarchiv](folder/co)
-* [Länder-Sacharchiv](folder/sh)
+* [Personenarchiv](folder/pe/about.de.html)
+* [Firmen/Institutionarchiv](folder/co/about.de.html)
+* Länder-Sacharchiv
   * [nach Ländersystematik](category/geo/about.de.html)
   * [nach Sachsystematik](category/subject/about.de.html)
 * [Warenarchiv](folder/wa)

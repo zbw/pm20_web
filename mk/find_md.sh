@@ -11,12 +11,12 @@ fi
 
 # root dir
 cd /pm20/web
-folderroot=./folder.new
+folderroot=./folder
 
 case $set in
 	default)
 		##find -L . -type d \( -path "./tmp" -o -path "./category" -o -path "./folder/*" \) -prune -o -type f -name '*.md' 
-    find -L . -regextype posix-extended -maxdepth 4 -type d -regex '\./(tmp|category|folder/.*|folder.new)' -prune -o -type f -name "*.md"
+    find -L . -regextype posix-extended -maxdepth 4 -type d -regex '\./(tmp|category|folder/.*/[0-9])' -prune -o -type f -name "*.md"
     ;;
   category)
     find ./category -type f -name "*.md"
