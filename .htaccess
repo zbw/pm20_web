@@ -125,11 +125,11 @@ RewriteRule ^film/([hk][12])/(sh|wa|co)/([A-Z0-9_]+)/$ /film/filmviewer.php?set=
 
 # DFG Viewer for folders
 RewriteCond "%{ENV:PM20_INTERNAL}" ^$
-RewriteRule "^dfgview/(co|pe)/(....)(..)$" "https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/$1/$2xx/$2$3/public.mets"
+RewriteRule "^dfgview/(co|pe)/(....)(..)$" "https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/folder/$1/$2xx/$2$3/public.mets"
 RewriteCond "%{ENV:PM20_INTERNAL}" ^$
-RewriteRule "^dfgview/(sh|wa)/(....)(..),(....)(..)$" "https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/$1/$2xx/$2$3/$4xx/$4$5/public.mets"
+RewriteRule "^dfgview/(sh|wa)/(....)(..),(....)(..)$" "https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/folder/$1/$2xx/$2$3/$4xx/$4$5/public.mets"
 RewriteCond "%{ENV:PM20_INTERNAL}" "1"
-RewriteRule "^dfgview/(co|pe)/(....)(..)$" "https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/$1/$2xx/$2$3/intern.mets"
+RewriteRule "^dfgview/(co|pe)/(....)(..)$" "https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/folder/$1/$2xx/$2$3/intern.mets"
 RewriteCond "%{ENV:PM20_INTERNAL}" "1"
-RewriteRule "^dfgview/(sh|wa)/(....)(..),(....)(..)$" "https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/mets/$1/$2xx/$2$3/$4xx/$4$5/intern.mets"
+RewriteRule "^dfgview/(sh|wa)/(....)(..),(....)(..)$" "https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/folder/$1/$2xx/$2$3/$4xx/$4$5/intern.mets"
 
