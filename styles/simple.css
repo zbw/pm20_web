@@ -77,6 +77,7 @@ div.home {
 }
 div.home ul {
   list-style-type: none;
+  color: gray;
   padding: 0px;
 }
 div.home li:before {
@@ -110,7 +111,7 @@ footer {
   margin-bottom: 2em;
 }
 
-a:visited, a:link, a:active {
+a:link {
   text-decoration: none;
 }
 
@@ -119,6 +120,11 @@ a:visited, a:link, a:active {
     margin-bottom: 0.14em;
     vertical-align: bottom;
     height: 0.7em;
+}
+
+
+div.yasr table.resultsTable {
+  color: black;
 }
 
 /* helper classes for left-right in one line */
