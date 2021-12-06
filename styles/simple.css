@@ -1,19 +1,10 @@
-/* minimal reset */
-/* TODO padding:0 margin:0 ? */
-* {
-  font-family: Arial, sans-serif;
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-}
-
-pre,tt,code {
-  font-family: Courier, monospace;
-}
+@import "./normalize.css";
 
 html {
+  font-family: Arial, sans-serif;
+  color: #333333;
   font-size: 16px;
-  line-height: 1.2;
+  line-height: 1.4;
 }
 body {
   max-width:1000px;
@@ -21,9 +12,15 @@ body {
   padding-left: 6px;
   padding-right: 6px;
 }
+
+pre, tt, code {
+  font-family: Courier, monospace;
+}
+
 li {
   margin: 0.5em 0;
 }
+
 /**.wikitable { **/
 table {
   page-break-inside:avoid;
@@ -34,6 +31,7 @@ table {
 }
 .wikitable {
   font-size:81%;
+  line-height: 1.2;
 }
 .wikitable caption {
   padding:5px;
@@ -54,9 +52,11 @@ table.listing,table.listing td {
 .wikitable * > tr.is-online > td {
   background-color: palegreen;
 }
+
 .fieldtable table, .fieldtable td, .fieldtable th {
   border: none;
   padding: 2px;
+  vertical-align: top;
 }
 .fieldtable td:nth-child(1)::after {
   content: ":";
@@ -71,6 +71,19 @@ table.listing,table.listing td {
   padding: 8px 12px;
   text-decoration: none;
 }
+
+div.home {
+  font-size: 160%;
+}
+div.home ul {
+  list-style-type: none;
+  padding: 0px;
+}
+div.home li:before {
+  content: '\276F';
+  margin: 0 1em;
+}
+
 div.hint {
   font-size: 81%;
 }
@@ -83,6 +96,7 @@ span.is-online {
 span.gray {
   color: gray;
 }
+
 header img {
  width: 100%;
  max-width: 700px;
@@ -95,9 +109,11 @@ footer {
   font-size: 81%;
   margin-bottom: 2em;
 }
-a:hover, a:visited, a:link, a:active {
+
+a:visited, a:link, a:active {
   text-decoration: none;
 }
+
 .inline-icon {
     border: 0px;
     margin-bottom: 0.14em;

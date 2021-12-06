@@ -1,6 +1,8 @@
 ---
 title: Metadata structures for documents
 etr: doc
+backlink: ../about
+backlink-title: Dokumentation / Documentation
 ---
 
 # Metadata structures for documents

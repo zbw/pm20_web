@@ -1,5 +1,7 @@
 ---
 title: "Notizen Digitalisierung"
+backlink: ./about
+backlink-title: Dokumentation / Documentation
 ---
 
 # Notizen Digitalisierung

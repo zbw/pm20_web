@@ -1,6 +1,7 @@
 ---
 title: Urheberrecht | ZBW Pressearchive
-etag: doc/ipr
+backlink: ./about
+backlink-title: Dokumentation / Documentation
 ---
 
 # Urheberrecht Presseartikel

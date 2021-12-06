@@ -1,6 +1,8 @@
 ---
 title: "Dokumentation | ZBW Pressearchive"
 etr: doc
+backlink: ../about.de.html
+backlink-title: Home
 fn-stub: about
 ---
 

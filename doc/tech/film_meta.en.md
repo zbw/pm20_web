@@ -1,6 +1,8 @@
 ---
 title: Metadata structures for films and film images
 etr: doc
+backlink: ../about
+backlink-title: Dokumentation / Documentation
 ---
 
 # Metadata structures for films and film images

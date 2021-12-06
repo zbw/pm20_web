@@ -1,6 +1,8 @@
 ---
 title: "Digitalisierte Filme | ZBW Pressearchiv"
 etr: film
+backlink: ../about
+backlink-title: Home
 ---
 
 # Digitalisierte Filme aus der Sicherungsverfilmung (Material bis 1960)

@@ -1,6 +1,7 @@
 ---
 title: Commons Upload | ZBW Pressearchive
-etag: doc/commons-upload
+backlink: ./about
+backlink-title: Dokumentation / Documentation
 ---
 
 # Hochladen von Artikeln nach Wikimedia Commons

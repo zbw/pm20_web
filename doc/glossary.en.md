@@ -1,5 +1,7 @@
 ---
 title: Glossary
+backlink: ./about.en.html
+backlink-title: Documentation
 fn-stub: glossary
 ---
 

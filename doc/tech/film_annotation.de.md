@@ -1,6 +1,8 @@
 ---
 title: "Annotationen | ZBW Pressearchiv"
 etr: doc
+backlink: ../about
+backlink-title: Dokumentation / Documentation
 ---
 
 # Annotationen für Filme - Anleitung (Entwurf)
