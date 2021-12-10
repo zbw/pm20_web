@@ -255,6 +255,7 @@ function build_canonical_link($filmpath, $img) {
 <?= $et_code ?>
   <meta charset="UTF-8">
   <title><?= $title ?></title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <style>
     * {
       font-family: Arial, sans-serif;
