@@ -25,7 +25,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- A5 Levante [**&nearr;**](../../../geo/i/140898/about.de.html "Levante (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A5 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140898,145263" title="über: Levante : Handel, Ein-, Aus- und Durchfuhrverbote" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140898,145263))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145263" title="über: Hamburg : Handel, Ein-, Aus- und Durchfuhrverbote" target="_blank">7 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,145263))
+- A5 Levante [**&nearr;**](../../../geo/i/140898/about.de.html "Levante (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A5 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140898,145263" title="über: Levante : Handel, Ein-, Aus- und Durchfuhrverbote" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140898/1452xx/145263/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145263" title="über: Hamburg : Handel, Ein-, Aus- und Durchfuhrverbote" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1452xx/145263/about.de.html))
 
 

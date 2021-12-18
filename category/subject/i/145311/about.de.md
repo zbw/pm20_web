@@ -22,10 +22,10 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 
 
-- B21 Türkei (1923 -) [**&nearr;**](../../../geo/i/141111/about.de.html "Türkei (1923 -) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B21 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145311" title="über: Türkei (1923 -) : Schutz und Stützung der Währung, Reglementierung des Valutahandels" target="_blank">5 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,145311))
+- B21 Türkei (1923 -) [**&nearr;**](../../../geo/i/141111/about.de.html "Türkei (1923 -) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B21 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145311" title="über: Türkei (1923 -) : Schutz und Stützung der Währung, Reglementierung des Valutahandels" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/sh/1411xx/141111/1453xx/145311/about.de.html))
 
 ### Amerika
 
-- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145311" title="über: Argentinien : Schutz und Stützung der Währung, Reglementierung des Valutahandels" target="_blank">25 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,145311))
+- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145311" title="über: Argentinien : Schutz und Stützung der Währung, Reglementierung des Valutahandels" target="_blank">25 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1453xx/145311/about.de.html))
 
 

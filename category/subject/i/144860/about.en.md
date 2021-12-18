@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Asia
 
-- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,144860" title="about: Turkey : Customs nomenclature" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,144860))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,144860" title="about: Turkey : Customs nomenclature" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1411xx/141111/1448xx/144860/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

@@ -25,8 +25,8 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Asia
 
-- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145410" title="about: Turkey : Public and private bank support, nationalization of banks" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145410))
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145410" title="about: Japan : Public and private bank support, nationalization of banks" target="_blank">6 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145410))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145410" title="about: Turkey : Public and private bank support, nationalization of banks" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1411xx/141111/1454xx/145410/about.en.html))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145410" title="about: Japan : Public and private bank support, nationalization of banks" target="_blank">6 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1454xx/145410/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

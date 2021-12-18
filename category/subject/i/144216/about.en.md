@@ -25,15 +25,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,144216" title="about: Germany : Geography, earthquakes and volcanic eruptions" target="_blank">19 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,144216))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,144216" title="about: Germany : Geography, earthquakes and volcanic eruptions" target="_blank">19 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1442xx/144216/about.en.html))
 
 ### Polar regions
 
-- F10 Arctic region [**&nearr;**](../../../geo/i/141702/about.en.html "Arctic region (all folders)") [**&uarr;**](../../../geo/about.en.html#F10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141702,144216" title="about: Arctic region : Geography, earthquakes and volcanic eruptions" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141702,144216))
+- F10 Arctic region [**&nearr;**](../../../geo/i/141702/about.en.html "Arctic region (all folders)") [**&uarr;**](../../../geo/about.en.html#F10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141702,144216" title="about: Arctic region : Geography, earthquakes and volcanic eruptions" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1417xx/141702/1442xx/144216/about.en.html))
 
 ### World
 
-- H World [**&nearr;**](../../../geo/i/141728/about.en.html "World (all folders)") [**&uarr;**](../../../geo/about.en.html#H "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141728,144216" title="about: World : Geography, earthquakes and volcanic eruptions" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141728,144216))
+- H World [**&nearr;**](../../../geo/i/141728/about.en.html "World (all folders)") [**&uarr;**](../../../geo/about.en.html#H "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141728,144216" title="about: World : Geography, earthquakes and volcanic eruptions" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1417xx/141728/1442xx/144216/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

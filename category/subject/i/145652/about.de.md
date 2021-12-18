@@ -27,7 +27,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,145652" title="über: Europa : Einzelne Binnenschiffahrtsstrassen und Seekanäle, Allg" target="_blank">151 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140892,145652))
-- A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,145652" title="über: Deutschland : Einzelne Binnenschiffahrtsstrassen und Seekanäle, Allg" target="_blank">86 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/126128,145652))
+- A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,145652" title="über: Europa : Einzelne Binnenschiffahrtsstrassen und Seekanäle, Allg" target="_blank">151 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1456xx/145652/about.de.html))
+- A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,145652" title="über: Deutschland : Einzelne Binnenschiffahrtsstrassen und Seekanäle, Allg" target="_blank">86 Dokumente</a>) ([Mappe](../../../../folder/sh/1261xx/126128/1456xx/145652/about.de.html))
 
 

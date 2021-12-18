@@ -22,7 +22,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- A5 Levant [**&nearr;**](../../../geo/i/140898/about.en.html "Levant (all folders)") [**&uarr;**](../../../geo/about.en.html#A5 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140898,161494" title="about: Levant : Foreign post and telegraph offices" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140898,161494))
+- A5 Levant [**&nearr;**](../../../geo/i/140898/about.en.html "Levant (all folders)") [**&uarr;**](../../../geo/about.en.html#A5 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140898,161494" title="about: Levant : Foreign post and telegraph offices" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1408xx/140898/1614xx/161494/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

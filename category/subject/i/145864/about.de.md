@@ -25,11 +25,11 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145864" title="über: Hamburg : Wirtschaft, Finanzierungsfragen, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,145864))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145864" title="über: Hamburg : Wirtschaft, Finanzierungsfragen, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1458xx/145864/about.de.html))
 
 ### Asien
 
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145864" title="über: Japan : Wirtschaft, Finanzierungsfragen, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,145864))
-- B112 Japanische Kolonien [**&nearr;**](../../../geo/i/141273/about.de.html "Japanische Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B112 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141273,145864" title="über: Japanische Kolonien : Wirtschaft, Finanzierungsfragen, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141273,145864))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145864" title="über: Japan : Wirtschaft, Finanzierungsfragen, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141272/1458xx/145864/about.de.html))
+- B112 Japanische Kolonien [**&nearr;**](../../../geo/i/141273/about.de.html "Japanische Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B112 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141273,145864" title="über: Japanische Kolonien : Wirtschaft, Finanzierungsfragen, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141273/1458xx/145864/about.de.html))
 
 

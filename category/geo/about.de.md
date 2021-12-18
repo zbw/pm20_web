@@ -2,8 +2,8 @@
 title: "Mappen nach Ländersystematik"
 etr: category_overview/geo
 modified: 2021-03-13
-backlink: ../../about.de.html
-backlink-title: "Home"
+backlink: ../about.de.html
+backlink-title: "Mappen nach Systematik"
 fn-stub: about
 ---
 
@@ -11,7 +11,7 @@ fn-stub: about
 # Mappen nach Ländersystematik
 
 
-Insgesamt 147 Systematikstellen, 9204 Sach-Mappen.
+Insgesamt 147 Systematikstellen, 9201 Sach-Mappen.
 
 
 Nur grob geschätzt ein Fünftel des digitalisierten Bestandes des
@@ -75,10 +75,10 @@ ist online verfügbar.
 - [B18 Zypern](i/141079/about.de.html) (31 Sach-Mappen)<a name='B18'></a>
 - [B19 Rhodos und Dodekanes](i/141106/about.de.html) (komplett, 52 Sach-Mappen)<a name='B19'></a>
 - [B20 Türkisch-Asien](i/141108/about.de.html) (komplett, 39 Sach-Mappen)<a name='B20'></a>
-- [B21 Türkei (1923 -)](i/141111/about.de.html) (komplett, 611 Sach-Mappen)<a name='B21'></a>
+- [B21 Türkei (1923 -)](i/141111/about.de.html) (komplett, 610 Sach-Mappen)<a name='B21'></a>
 - [B22 Armenien (türkisch)](i/141112/about.de.html) (komplett, 56 Sach-Mappen)<a name='B22'></a>
 - [B23 Irak](i/141113/about.de.html) (komplett, 221 Sach-Mappen)<a name='B23'></a>
-- [B24 Syrien](i/141114/about.de.html) (komplett, 252 Sach-Mappen)<a name='B24'></a>
+- [B24 Syrien](i/141114/about.de.html) (komplett, 250 Sach-Mappen)<a name='B24'></a>
 - [B24a Palästina (-1945)](i/141115/about.de.html) (komplett, 319 Sach-Mappen)<a name='B24a'></a>
 - [B24b Jordanien](i/141116/about.de.html) (23 Sach-Mappen)<a name='B24b'></a>
 - [B40 Iran](i/141186/about.de.html) (3 Sach-Mappen)<a name='B40'></a>

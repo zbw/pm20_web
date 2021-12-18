@@ -25,6 +25,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- A3 Osteuropa [**&nearr;**](../../../geo/i/140896/about.de.html "Osteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A3 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140896,145949" title="über: Osteuropa : Slawenfrage" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140896,145949))
+- A3 Osteuropa [**&nearr;**](../../../geo/i/140896/about.de.html "Osteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A3 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140896,145949" title="über: Osteuropa : Slawenfrage" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140896/1459xx/145949/about.de.html))
 
 

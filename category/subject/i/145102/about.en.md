@@ -25,11 +25,11 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A36 Italian Empire [**&nearr;**](../../../geo/i/141012/about.en.html "Italian Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A36 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141012,145102" title="about: Italian Empire : Industrial exploitation of natural forces, general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141012,145102))
+- A36 Italian Empire [**&nearr;**](../../../geo/i/141012/about.en.html "Italian Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A36 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141012,145102" title="about: Italian Empire : Industrial exploitation of natural forces, general" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1410xx/141012/1451xx/145102/about.en.html))
 
 ### Asia
 
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145102" title="about: Japan : Industrial exploitation of natural forces, general" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145102))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145102" title="about: Japan : Industrial exploitation of natural forces, general" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1451xx/145102/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

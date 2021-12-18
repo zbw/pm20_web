@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A4 Western Europe [**&nearr;**](../../../geo/i/140897/about.en.html "Western Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A4 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140897,144795" title="about: Western Europe : Indigenous troops (colored)" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140897,144795))
+- A4 Western Europe [**&nearr;**](../../../geo/i/140897/about.en.html "Western Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A4 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140897,144795" title="about: Western Europe : Indigenous troops (colored)" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1408xx/140897/1447xx/144795/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

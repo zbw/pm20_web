@@ -22,12 +22,12 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,144939" title="about: Turkey : Promotion of production and productivity, research for the benefit of business" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,144939))
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144939" title="about: Japan : Promotion of production and productivity, research for the benefit of business" target="_blank">25 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144939))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,144939" title="about: Turkey : Promotion of production and productivity, research for the benefit of business" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1411xx/141111/1449xx/144939/about.en.html))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144939" title="about: Japan : Promotion of production and productivity, research for the benefit of business" target="_blank">25 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1449xx/144939/about.en.html))
 
 ### America
 
-- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144939" title="about: Argentina : Promotion of production and productivity, research for the benefit of business" target="_blank">13 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,144939))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144939" title="about: Argentina : Promotion of production and productivity, research for the benefit of business" target="_blank">13 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1449xx/144939/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

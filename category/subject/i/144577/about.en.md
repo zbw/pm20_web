@@ -25,11 +25,11 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A43 Ottoman Empire [**&nearr;**](../../../geo/i/141034/about.en.html "Ottoman Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A43 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141034,144577" title="about: Ottoman Empire : Peace efforts (world war)" target="_blank">18 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141034,144577))
+- A43 Ottoman Empire [**&nearr;**](../../../geo/i/141034/about.en.html "Ottoman Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A43 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141034,144577" title="about: Ottoman Empire : Peace efforts (world war)" target="_blank">18 documents</a>) ([folder](../../../../folder/sh/1410xx/141034/1445xx/144577/about.en.html))
 
 ### Asia
 
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144577" title="about: Japan : Peace efforts (world war)" target="_blank">18 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144577))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144577" title="about: Japan : Peace efforts (world war)" target="_blank">18 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1445xx/144577/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

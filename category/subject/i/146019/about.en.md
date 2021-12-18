@@ -22,7 +22,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- C56 Liberia [**&nearr;**](../../../geo/i/141405/about.en.html "Liberia (all folders)") [**&uarr;**](../../../geo/about.en.html#C56 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141405,146019" title="about: Liberia : Firestone concession" target="_blank">19 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141405,146019))
+- C56 Liberia [**&nearr;**](../../../geo/i/141405/about.en.html "Liberia (all folders)") [**&uarr;**](../../../geo/about.en.html#C56 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141405,146019" title="about: Liberia : Firestone concession" target="_blank">19 documents</a>) ([folder](../../../../folder/sh/1414xx/141405/1460xx/146019/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

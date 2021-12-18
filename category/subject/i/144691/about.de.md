@@ -13,7 +13,7 @@ fn-stub: about
 
 
 
-Insgesamt 2 Sach-Mappen, 6 Dokumente - Mappen unvollständig.
+Insgesamt 2 Sach-Mappen, 8 Dokumente - Mappen unvollständig.
 Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
@@ -22,10 +22,10 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144691" title="über: Hamburg : Verschickung oder Aufnahme Erholungsbedürftiger und Urlaubsfahrer, von und nach einz. Ländern" target="_blank">5 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,144691))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144691" title="über: Hamburg : Verschickung oder Aufnahme Erholungsbedürftiger und Urlaubsfahrer, von und nach einz. Ländern" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1446xx/144691/about.de.html))
 
 ### Amerika
 
-- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144691" title="über: Argentinien : Verschickung oder Aufnahme Erholungsbedürftiger und Urlaubsfahrer, von und nach einz. Ländern" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,144691))
+- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144691" title="über: Argentinien : Verschickung oder Aufnahme Erholungsbedürftiger und Urlaubsfahrer, von und nach einz. Ländern" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1446xx/144691/about.de.html))
 
 

@@ -25,11 +25,11 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,145975" title="about: Germany : Arbitration, general" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,145975))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,145975" title="about: Germany : Arbitration, general" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1459xx/145975/about.en.html))
 
 ### Asia
 
-- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145975" title="about: Turkey : Arbitration, general" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145975))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145975" title="about: Turkey : Arbitration, general" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1411xx/141111/1459xx/145975/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

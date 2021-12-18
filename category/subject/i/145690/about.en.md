@@ -25,11 +25,11 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140902,145690" title="about: Orient : Connection of air traffic with shipping and land transport" target="_blank">0 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140902,145690))
+- A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140902,145690" title="about: Orient : Connection of air traffic with shipping and land transport" target="_blank">0 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1456xx/145690/about.en.html))
 
 ### Africa
 
-- C87 German South-West Africa [**&nearr;**](../../../geo/i/141450/about.en.html "German South-West Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C87 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141450,145690" title="about: German South-West Africa : Connection of air traffic with shipping and land transport" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141450,145690))
+- C87 German South-West Africa [**&nearr;**](../../../geo/i/141450/about.en.html "German South-West Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C87 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141450,145690" title="about: German South-West Africa : Connection of air traffic with shipping and land transport" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1414xx/141450/1456xx/145690/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

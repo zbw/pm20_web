@@ -25,11 +25,11 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145397" title="about: Hamburg : Banking, deposits, general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145397))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145397" title="about: Hamburg : Banking, deposits, general" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1453xx/145397/about.en.html))
 
 ### Asia
 
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145397" title="about: Japan : Banking, deposits, general" target="_blank">8 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145397))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145397" title="about: Japan : Banking, deposits, general" target="_blank">8 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1453xx/145397/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

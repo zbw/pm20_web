@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Asia
 
-- B23 Iraq [**&nearr;**](../../../geo/i/141113/about.en.html "Iraq (all folders)") [**&uarr;**](../../../geo/about.en.html#B23 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141113,146014" title="about: Iraq : Mosul question" target="_blank">317 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141113,146014))
+- B23 Iraq [**&nearr;**](../../../geo/i/141113/about.en.html "Iraq (all folders)") [**&uarr;**](../../../geo/about.en.html#B23 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141113,146014" title="about: Iraq : Mosul question" target="_blank">317 documents</a>) ([folder](../../../../folder/sh/1411xx/141113/1460xx/146014/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

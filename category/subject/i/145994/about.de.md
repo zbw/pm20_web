@@ -25,6 +25,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145994" title="über: Hamburg : Überseewoche" target="_blank">74 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,145994))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145994" title="über: Hamburg : Überseewoche" target="_blank">74 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1459xx/145994/about.de.html))
 
 

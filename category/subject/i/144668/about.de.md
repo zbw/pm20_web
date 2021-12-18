@@ -25,6 +25,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- A39 Liechtenstein [**&nearr;**](../../../geo/i/141016/about.de.html "Liechtenstein (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A39 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141016,144668" title="über: Liechtenstein : Passwesen, Passbestimmungen für Angehörige einz. Staaten" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141016,144668))
+- A39 Liechtenstein [**&nearr;**](../../../geo/i/141016/about.de.html "Liechtenstein (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A39 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141016,144668" title="über: Liechtenstein : Passwesen, Passbestimmungen für Angehörige einz. Staaten" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141016/1446xx/144668/about.de.html))
 
 

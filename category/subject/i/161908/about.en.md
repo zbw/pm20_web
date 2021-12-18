@@ -25,11 +25,11 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,161908" title="about: Hamburg : State land ownership and land policies" target="_blank">30 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,161908))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,161908" title="about: Hamburg : State land ownership and land policies" target="_blank">30 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1619xx/161908/about.en.html))
 
 ### Asia
 
-- B24a Palestine [**&nearr;**](../../../geo/i/141115/about.en.html "Palestine (all folders)") [**&uarr;**](../../../geo/about.en.html#B24a "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,161908" title="about: Palestine : State land ownership and land policies" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,161908))
+- B24a Palestine [**&nearr;**](../../../geo/i/141115/about.en.html "Palestine (all folders)") [**&uarr;**](../../../geo/about.en.html#B24a "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,161908" title="about: Palestine : State land ownership and land policies" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1411xx/141115/1619xx/161908/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

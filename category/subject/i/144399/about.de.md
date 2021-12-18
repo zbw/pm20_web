@@ -25,10 +25,10 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144399" title="über: Hamburg : Wahlen für parlamentarische Körperschaften und sonstige politische Wahlen einz. Bundesstaaten." target="_blank">25 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,144399))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144399" title="über: Hamburg : Wahlen für parlamentarische Körperschaften und sonstige politische Wahlen einz. Bundesstaaten." target="_blank">25 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1443xx/144399/about.de.html))
 
 ### Australien und Ozeanien
 
-- D30 Australien [**&nearr;**](../../../geo/i/141621/about.de.html "Australien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#D30 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141621,144399" title="über: Australien : Wahlen für parlamentarische Körperschaften und sonstige politische Wahlen einz. Bundesstaaten." target="_blank">41 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141621,144399))
+- D30 Australien [**&nearr;**](../../../geo/i/141621/about.de.html "Australien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#D30 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141621,144399" title="über: Australien : Wahlen für parlamentarische Körperschaften und sonstige politische Wahlen einz. Bundesstaaten." target="_blank">41 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141621/1443xx/144399/about.de.html))
 
 

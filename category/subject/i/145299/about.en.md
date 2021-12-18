@@ -25,12 +25,12 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A1 Europe [**&nearr;**](../../../geo/i/140892/about.en.html "Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A1 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,145299" title="about: Europe : Music" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140892,145299))
-- A43 Ottoman Empire [**&nearr;**](../../../geo/i/141034/about.en.html "Ottoman Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A43 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141034,145299" title="about: Ottoman Empire : Music" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141034,145299))
+- A1 Europe [**&nearr;**](../../../geo/i/140892/about.en.html "Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A1 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,145299" title="about: Europe : Music" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1408xx/140892/1452xx/145299/about.en.html))
+- A43 Ottoman Empire [**&nearr;**](../../../geo/i/141034/about.en.html "Ottoman Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A43 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141034,145299" title="about: Ottoman Empire : Music" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1410xx/141034/1452xx/145299/about.en.html))
 
 ### Asia
 
-- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145299" title="about: Turkey : Music" target="_blank">5 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145299))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145299" title="about: Turkey : Music" target="_blank">5 documents</a>) ([folder](../../../../folder/sh/1411xx/141111/1452xx/145299/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

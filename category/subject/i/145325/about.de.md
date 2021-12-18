@@ -13,7 +13,7 @@ fn-stub: about
 
 
 
-Insgesamt 1 Sach-Mappen, 3 Dokumente - Mappen unvollständig.
+Insgesamt 2 Sach-Mappen, 4 Dokumente - Mappen unvollständig.
 Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
@@ -23,8 +23,12 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 
 
+### Europa
+
+- A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,145325" title="über: Europa : Gesetzliche Wertberechnung auf Feingold lautender Ansprüche" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1453xx/145325/about.de.html))
+
 ### Amerika
 
-- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145325" title="über: Argentinien : Gesetzliche Wertberechnung auf Feingold lautender Ansprüche" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,145325))
+- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145325" title="über: Argentinien : Gesetzliche Wertberechnung auf Feingold lautender Ansprüche" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1453xx/145325/about.de.html))
 
 

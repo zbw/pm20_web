@@ -25,14 +25,14 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Asien
 
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144460" title="über: Japan : Stimmen, Gespräche und Abmachungen über Kolonialgebiete und Interessensphären" target="_blank">15 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144460))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144460" title="über: Japan : Stimmen, Gespräche und Abmachungen über Kolonialgebiete und Interessensphären" target="_blank">15 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141272/1444xx/144460/about.de.html))
 
 ### Australien und Ozeanien
 
-- D30 Australien [**&nearr;**](../../../geo/i/141621/about.de.html "Australien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#D30 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141621,144460" title="über: Australien : Stimmen, Gespräche und Abmachungen über Kolonialgebiete und Interessensphären" target="_blank">8 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141621,144460))
+- D30 Australien [**&nearr;**](../../../geo/i/141621/about.de.html "Australien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#D30 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141621,144460" title="über: Australien : Stimmen, Gespräche und Abmachungen über Kolonialgebiete und Interessensphären" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141621/1444xx/144460/about.de.html))
 
 ### Amerika
 
-- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144460" title="über: Argentinien : Stimmen, Gespräche und Abmachungen über Kolonialgebiete und Interessensphären" target="_blank">9 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,144460))
+- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144460" title="über: Argentinien : Stimmen, Gespräche und Abmachungen über Kolonialgebiete und Interessensphären" target="_blank">9 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1444xx/144460/about.de.html))
 
 

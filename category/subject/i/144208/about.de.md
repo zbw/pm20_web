@@ -25,10 +25,10 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Asien
 
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144208" title="über: Japan : Ozeanforschung" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144208))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144208" title="über: Japan : Ozeanforschung" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141272/1442xx/144208/about.de.html))
 
 ### Welt
 
-- H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141728,144208" title="über: Welt : Ozeanforschung" target="_blank">96 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141728,144208))
+- H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141728,144208" title="über: Welt : Ozeanforschung" target="_blank">96 Dokumente</a>) ([Mappe](../../../../folder/sh/1417xx/141728/1442xx/144208/about.de.html))
 
 

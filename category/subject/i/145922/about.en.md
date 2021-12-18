@@ -25,11 +25,11 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Asia
 
-- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145922" title="about: Turkey : Return migration to ..., general" target="_blank">17 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145922))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145922" title="about: Turkey : Return migration to ..., general" target="_blank">17 documents</a>) ([folder](../../../../folder/sh/1411xx/141111/1459xx/145922/about.en.html))
 
 ### America
 
-- E85 Chile [**&nearr;**](../../../geo/i/141691/about.en.html "Chile (all folders)") [**&uarr;**](../../../geo/about.en.html#E85 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141691,145922" title="about: Chile : Return migration to ..., general" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141691,145922))
+- E85 Chile [**&nearr;**](../../../geo/i/141691/about.en.html "Chile (all folders)") [**&uarr;**](../../../geo/about.en.html#E85 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141691,145922" title="about: Chile : Return migration to ..., general" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1416xx/141691/1459xx/145922/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

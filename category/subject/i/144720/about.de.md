@@ -25,10 +25,10 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144720" title="über: Hamburg : Studentenwesen, Wohlfahrtseinrichtungen" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,144720))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144720" title="über: Hamburg : Studentenwesen, Wohlfahrtseinrichtungen" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1447xx/144720/about.de.html))
 
 ### Asien
 
-- B101 Macao [**&nearr;**](../../../geo/i/141267/about.de.html "Macao (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B101 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141267,144720" title="über: Macao : Studentenwesen, Wohlfahrtseinrichtungen" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141267,144720))
+- B101 Macao [**&nearr;**](../../../geo/i/141267/about.de.html "Macao (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B101 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141267,144720" title="über: Macao : Studentenwesen, Wohlfahrtseinrichtungen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141267/1447xx/144720/about.de.html))
 
 

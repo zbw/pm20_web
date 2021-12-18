@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A43 Ottoman Empire [**&nearr;**](../../../geo/i/141034/about.en.html "Ottoman Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A43 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141034,163569" title="about: Ottoman Empire : Sevres Peace Treaty (World War I)" target="_blank">121 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141034,163569))
+- A43 Ottoman Empire [**&nearr;**](../../../geo/i/141034/about.en.html "Ottoman Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A43 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141034,163569" title="about: Ottoman Empire : Sevres Peace Treaty (World War I)" target="_blank">121 documents</a>) ([folder](../../../../folder/sh/1410xx/141034/1635xx/163569/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

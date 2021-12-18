@@ -25,10 +25,10 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Asien
 
-- B21 Türkei (1923 -) [**&nearr;**](../../../geo/i/141111/about.de.html "Türkei (1923 -) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B21 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145922" title="über: Türkei (1923 -) : Rückwanderung nach ..., Allgemein" target="_blank">17 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,145922))
+- B21 Türkei (1923 -) [**&nearr;**](../../../geo/i/141111/about.de.html "Türkei (1923 -) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B21 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145922" title="über: Türkei (1923 -) : Rückwanderung nach ..., Allgemein" target="_blank">17 Dokumente</a>) ([Mappe](../../../../folder/sh/1411xx/141111/1459xx/145922/about.de.html))
 
 ### Amerika
 
-- E85 Chile [**&nearr;**](../../../geo/i/141691/about.de.html "Chile (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E85 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141691,145922" title="über: Chile : Rückwanderung nach ..., Allgemein" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141691,145922))
+- E85 Chile [**&nearr;**](../../../geo/i/141691/about.de.html "Chile (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E85 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141691,145922" title="über: Chile : Rückwanderung nach ..., Allgemein" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141691/1459xx/145922/about.de.html))
 
 

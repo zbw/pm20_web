@@ -29,11 +29,11 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 ### Fremdstämmige und einzelne Minderheiten
 
 - [o1 Deutsche Minderheiten und Deutschtum]{.gray}
-  - o1 Sm500 Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145911/about.de.html "Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#o1_Sm500 "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141206,145911" title="über: Malayische Schutzstaaten : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141206,145911))
+  - o1 Sm500 Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145911/about.de.html "Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#o1_Sm500 "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141206,145911" title="über: Malayische Schutzstaaten : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141206/1459xx/145911/about.de.html))
 
 ### Siedlung und Wanderung
 
 - [p3 Einwanderung und Einwanderungspolitik]{.gray}
-  - p3 Sm500 Deutsche Einwanderer (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145921/about.de.html "Deutsche Einwanderer (Forschungsstelle für das Übersee-Deutschtum) (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#p3_Sm500 "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141206,145921" title="über: Malayische Schutzstaaten : Deutsche Einwanderer (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141206,145921))
+  - p3 Sm500 Deutsche Einwanderer (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145921/about.de.html "Deutsche Einwanderer (Forschungsstelle für das Übersee-Deutschtum) (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#p3_Sm500 "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141206,145921" title="über: Malayische Schutzstaaten : Deutsche Einwanderer (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141206/1459xx/145921/about.de.html))
 
 

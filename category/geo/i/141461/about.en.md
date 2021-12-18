@@ -26,7 +26,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### Foreign policy and political relations with foreign countries
 
 - [g4 Trade policy, Foreign economic policy, general]{.gray}
-  - g4 Sm21 Trade policy and customs law measures from the German Trade Archives [**&nearr;**](../../../subject/i/144492/about.en.html "Trade policy and customs law measures from the German Trade Archives (all over the world)") [**&uarr;**](../../../subject/about.en.html#g4_Sm21 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141461,144492" title="about: Swaziland : Trade policy and customs law measures from the German Trade Archives" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141461,144492))
+  - g4 Sm21 Trade policy and customs law measures from the German Trade Archives [**&nearr;**](../../../subject/i/144492/about.en.html "Trade policy and customs law measures from the German Trade Archives (all over the world)") [**&uarr;**](../../../subject/about.en.html#g4_Sm21 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141461,144492" title="about: Swaziland : Trade policy and customs law measures from the German Trade Archives" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1414xx/141461/1444xx/144492/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

@@ -25,8 +25,8 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### America
 
-- E85 Chile [**&nearr;**](../../../geo/i/141691/about.en.html "Chile (all folders)") [**&uarr;**](../../../geo/about.en.html#E85 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141691,145963" title="about: Chile : Indian question" target="_blank">9 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141691,145963))
-- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145963" title="about: Argentina : Indian question" target="_blank">66 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145963))
+- E85 Chile [**&nearr;**](../../../geo/i/141691/about.en.html "Chile (all folders)") [**&uarr;**](../../../geo/about.en.html#E85 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141691,145963" title="about: Chile : Indian question" target="_blank">9 documents</a>) ([folder](../../../../folder/sh/1416xx/141691/1459xx/145963/about.en.html))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145963" title="about: Argentina : Indian question" target="_blank">66 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1459xx/145963/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

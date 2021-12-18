@@ -22,8 +22,8 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,182147" title="about: Hamburg : Inland navigation, institutions" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,182147))
-- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,182147" title="about: Germany : Inland navigation, institutions" target="_blank">60 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,182147))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,182147" title="about: Hamburg : Inland navigation, institutions" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1821xx/182147/about.en.html))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,182147" title="about: Germany : Inland navigation, institutions" target="_blank">60 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1821xx/182147/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

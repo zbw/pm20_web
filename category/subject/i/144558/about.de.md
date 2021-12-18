@@ -25,16 +25,16 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- A4 Westeuropa [**&nearr;**](../../../geo/i/140897/about.de.html "Westeuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A4 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140897,144558" title="über: Westeuropa : Kolonialpolitik, Allgemein" target="_blank">16 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140897,144558))
-- A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,144558" title="über: Deutschland : Kolonialpolitik, Allgemein" target="_blank">1967 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/126128,144558))
-- A11 Deutsche Kolonien [**&nearr;**](../../../geo/i/140960/about.de.html "Deutsche Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A11 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140960,144558" title="über: Deutsche Kolonien : Kolonialpolitik, Allgemein" target="_blank">57 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140960,144558))
+- A4 Westeuropa [**&nearr;**](../../../geo/i/140897/about.de.html "Westeuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A4 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140897,144558" title="über: Westeuropa : Kolonialpolitik, Allgemein" target="_blank">16 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140897/1445xx/144558/about.de.html))
+- A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,144558" title="über: Deutschland : Kolonialpolitik, Allgemein" target="_blank">1967 Dokumente</a>) ([Mappe](../../../../folder/sh/1261xx/126128/1445xx/144558/about.de.html))
+- A11 Deutsche Kolonien [**&nearr;**](../../../geo/i/140960/about.de.html "Deutsche Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A11 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140960,144558" title="über: Deutsche Kolonien : Kolonialpolitik, Allgemein" target="_blank">57 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140960/1445xx/144558/about.de.html))
 
 ### Asien
 
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144558" title="über: Japan : Kolonialpolitik, Allgemein" target="_blank">52 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144558))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144558" title="über: Japan : Kolonialpolitik, Allgemein" target="_blank">52 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141272/1445xx/144558/about.de.html))
 
 ### Afrika
 
-- C65 Kamerun [**&nearr;**](../../../geo/i/141410/about.de.html "Kamerun (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C65 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141410,144558" title="über: Kamerun : Kolonialpolitik, Allgemein" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141410,144558))
+- C65 Kamerun [**&nearr;**](../../../geo/i/141410/about.de.html "Kamerun (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C65 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141410,144558" title="über: Kamerun : Kolonialpolitik, Allgemein" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141410/1445xx/144558/about.de.html))
 
 

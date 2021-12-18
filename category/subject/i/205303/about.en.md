@@ -22,11 +22,11 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,205303" title="about: Germany : Colonial policy, institutions" target="_blank">16 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,205303))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,205303" title="about: Germany : Colonial policy, institutions" target="_blank">16 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/2053xx/205303/about.en.html))
 
 ### Asia
 
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,205303" title="about: Japan : Colonial policy, institutions" target="_blank">6 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,205303))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,205303" title="about: Japan : Colonial policy, institutions" target="_blank">6 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/2053xx/205303/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

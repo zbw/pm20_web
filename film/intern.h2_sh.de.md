@@ -1,5 +1,5 @@
 ---
-title: "h2_sh: Länder-Sacharchiv 2. Verfilmung | ZBW Pressearchive"
+title: "h2_sh: Länder-Sacharchiv 2. Verfilmung"
 etr: filmlist/sh
 backlink: ./about.de.html
 backlink-title: Film-Überblick

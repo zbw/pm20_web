@@ -25,11 +25,11 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144399" title="about: Hamburg : Elections for parliamentary bodies and other political elections in individual states" target="_blank">25 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,144399))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144399" title="about: Hamburg : Elections for parliamentary bodies and other political elections in individual states" target="_blank">25 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1443xx/144399/about.en.html))
 
 ### Australia and Oceania
 
-- D30 Australia [**&nearr;**](../../../geo/i/141621/about.en.html "Australia (all folders)") [**&uarr;**](../../../geo/about.en.html#D30 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141621,144399" title="about: Australia : Elections for parliamentary bodies and other political elections in individual states" target="_blank">41 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141621,144399))
+- D30 Australia [**&nearr;**](../../../geo/i/141621/about.en.html "Australia (all folders)") [**&uarr;**](../../../geo/about.en.html#D30 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141621,144399" title="about: Australia : Elections for parliamentary bodies and other political elections in individual states" target="_blank">41 documents</a>) ([folder](../../../../folder/sh/1416xx/141621/1443xx/144399/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

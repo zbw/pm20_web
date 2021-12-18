@@ -25,12 +25,12 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A1 Europe [**&nearr;**](../../../geo/i/140892/about.en.html "Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A1 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,153593" title="about: Europe : Foreign policy, conferences" target="_blank">16 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140892,153593))
-- A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,153593" title="about: Southeastern Europe : Foreign policy, conferences" target="_blank">219 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140900,153593))
+- A1 Europe [**&nearr;**](../../../geo/i/140892/about.en.html "Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A1 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,153593" title="about: Europe : Foreign policy, conferences" target="_blank">16 documents</a>) ([folder](../../../../folder/sh/1408xx/140892/1535xx/153593/about.en.html))
+- A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,153593" title="about: Southeastern Europe : Foreign policy, conferences" target="_blank">219 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1535xx/153593/about.en.html))
 
 ### Asia
 
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,153593" title="about: Japan : Foreign policy, conferences" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,153593))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,153593" title="about: Japan : Foreign policy, conferences" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1535xx/153593/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

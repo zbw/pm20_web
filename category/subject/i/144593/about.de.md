@@ -22,10 +22,10 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 
 
-- A43 Osmanisches Reich (-1923) [**&nearr;**](../../../geo/i/141034/about.de.html "Osmanisches Reich (-1923) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A43 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141034,144593" title="über: Osmanisches Reich (-1923) : Stimmen und Stellung zur Klärung der Kriegsschuldfrage (Weltkrieg)" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141034,144593))
+- A43 Osmanisches Reich (-1923) [**&nearr;**](../../../geo/i/141034/about.de.html "Osmanisches Reich (-1923) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A43 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141034,144593" title="über: Osmanisches Reich (-1923) : Stimmen und Stellung zur Klärung der Kriegsschuldfrage (Weltkrieg)" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141034/1445xx/144593/about.de.html))
 
 ### Asien
 
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144593" title="über: Japan : Stimmen und Stellung zur Klärung der Kriegsschuldfrage (Weltkrieg)" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144593))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144593" title="über: Japan : Stimmen und Stellung zur Klärung der Kriegsschuldfrage (Weltkrieg)" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141272/1445xx/144593/about.de.html))
 
 

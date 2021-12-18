@@ -1,5 +1,5 @@
 ---
-title: "Annotationen | ZBW Pressearchiv"
+title: "Annotationen"
 etr: doc
 backlink: ../about
 backlink-title: Dokumentation / Documentation

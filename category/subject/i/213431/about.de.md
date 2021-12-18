@@ -22,6 +22,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 
 
-- E85 Chile [**&nearr;**](../../../geo/i/141691/about.de.html "Chile (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E85 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141691,213431" title="über: Chile : Postwesen, Beruf und Ausbildung" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141691,213431))
+- E85 Chile [**&nearr;**](../../../geo/i/141691/about.de.html "Chile (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E85 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141691,213431" title="über: Chile : Postwesen, Beruf und Ausbildung" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141691/2134xx/213431/about.de.html))
 
 

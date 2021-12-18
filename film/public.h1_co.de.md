@@ -1,5 +1,5 @@
 ---
-title: "h1_co: Firmen- und Institutionenarchiv 1. Verfilmung | ZBW Pressearchive"
+title: "h1_co: Firmen- und Institutionenarchiv 1. Verfilmung"
 etr: filmlist/co
 backlink: ./about.de.html
 backlink-title: Film-Überblick

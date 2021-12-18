@@ -1,5 +1,5 @@
 ---
-title: "h2_wa: Warenarchiv 2. Verfilmung | ZBW Pressearchive"
+title: "h2_wa: Warenarchiv 2. Verfilmung"
 etr: filmlist/wa
 backlink: ./about.de.html
 backlink-title: Film-Überblick

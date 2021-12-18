@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Asia
 
-- B24a Palestine [**&nearr;**](../../../geo/i/141115/about.en.html "Palestine (all folders)") [**&uarr;**](../../../geo/about.en.html#B24a "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,161754" title="about: Palestine : Mortgage lending" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,161754))
+- B24a Palestine [**&nearr;**](../../../geo/i/141115/about.en.html "Palestine (all folders)") [**&uarr;**](../../../geo/about.en.html#B24a "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,161754" title="about: Palestine : Mortgage lending" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1411xx/141115/1617xx/161754/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

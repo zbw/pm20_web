@@ -22,6 +22,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 
 
-- B114 Kwangtung [**&nearr;**](../../../geo/i/141275/about.de.html "Kwangtung (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B114 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141275,161748" title="über: Kwangtung : Sammelausweise und Sammelabschlüsse von Banken und Sparkassen (Statistiken)" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141275,161748))
+- B114 Kwangtung [**&nearr;**](../../../geo/i/141275/about.de.html "Kwangtung (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B114 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141275,161748" title="über: Kwangtung : Sammelausweise und Sammelabschlüsse von Banken und Sparkassen (Statistiken)" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141275/1617xx/161748/about.de.html))
 
 

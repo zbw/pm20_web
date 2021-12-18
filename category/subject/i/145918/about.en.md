@@ -25,12 +25,12 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Asia
 
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145918" title="about: Japan : Agreements on migration policy, including on workers" target="_blank">7 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145918))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145918" title="about: Japan : Agreements on migration policy, including on workers" target="_blank">7 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1459xx/145918/about.en.html))
 
 ### America
 
-- E85 Chile [**&nearr;**](../../../geo/i/141691/about.en.html "Chile (all folders)") [**&uarr;**](../../../geo/about.en.html#E85 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141691,145918" title="about: Chile : Agreements on migration policy, including on workers" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141691,145918))
-- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145918" title="about: Argentina : Agreements on migration policy, including on workers" target="_blank">18 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145918))
+- E85 Chile [**&nearr;**](../../../geo/i/141691/about.en.html "Chile (all folders)") [**&uarr;**](../../../geo/about.en.html#E85 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141691,145918" title="about: Chile : Agreements on migration policy, including on workers" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1416xx/141691/1459xx/145918/about.en.html))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145918" title="about: Argentina : Agreements on migration policy, including on workers" target="_blank">18 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1459xx/145918/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

@@ -1,5 +1,5 @@
 ---
-title: Urheberrecht | ZBW Pressearchive
+title: Urheberrecht
 backlink: ./about
 backlink-title: Dokumentation / Documentation
 ---

@@ -22,11 +22,11 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145694" title="about: Turkey : Aviation tariffs (for air cargo), general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145694))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145694" title="about: Turkey : Aviation tariffs (for air cargo), general" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1411xx/141111/1456xx/145694/about.en.html))
 
 ### America
 
-- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145694" title="about: Argentina : Aviation tariffs (for air cargo), general" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145694))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145694" title="about: Argentina : Aviation tariffs (for air cargo), general" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1456xx/145694/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

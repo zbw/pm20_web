@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### America
 
-- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144745" title="about: Argentina : Regulations for foreign schools in ..." target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,144745))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144745" title="about: Argentina : Regulations for foreign schools in ..." target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1447xx/144745/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

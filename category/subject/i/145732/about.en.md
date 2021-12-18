@@ -25,11 +25,11 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Asia
 
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145732" title="about: Japan : Individual branches of insurance" target="_blank">8 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145732))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145732" title="about: Japan : Individual branches of insurance" target="_blank">8 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1457xx/145732/about.en.html))
 
 ### Africa
 
-- C65 Cameroon [**&nearr;**](../../../geo/i/141410/about.en.html "Cameroon (all folders)") [**&uarr;**](../../../geo/about.en.html#C65 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141410,145732" title="about: Cameroon : Individual branches of insurance" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141410,145732))
+- C65 Cameroon [**&nearr;**](../../../geo/i/141410/about.en.html "Cameroon (all folders)") [**&uarr;**](../../../geo/about.en.html#C65 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141410,145732" title="about: Cameroon : Individual branches of insurance" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1414xx/141410/1457xx/145732/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

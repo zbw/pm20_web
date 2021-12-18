@@ -1,5 +1,5 @@
 ---
-title: "Digitalisierte Filme | ZBW Pressearchiv"
+title: "Digitalisierte Filme"
 etr: film
 backlink: ../about
 backlink-title: Home

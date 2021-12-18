@@ -25,12 +25,12 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A5 Levant [**&nearr;**](../../../geo/i/140898/about.en.html "Levant (all folders)") [**&uarr;**](../../../geo/about.en.html#A5 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140898,145912" title="about: Levant : Churches, schools and associations ... of minorities, general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140898,145912))
-- A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,145912" title="about: Southeastern Europe : Churches, schools and associations ... of minorities, general" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140900,145912))
+- A5 Levant [**&nearr;**](../../../geo/i/140898/about.en.html "Levant (all folders)") [**&uarr;**](../../../geo/about.en.html#A5 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140898,145912" title="about: Levant : Churches, schools and associations ... of minorities, general" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1408xx/140898/1459xx/145912/about.en.html))
+- A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,145912" title="about: Southeastern Europe : Churches, schools and associations ... of minorities, general" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1459xx/145912/about.en.html))
 
 ### America
 
-- E102 British Guiana [**&nearr;**](../../../geo/i/141700/about.en.html "British Guiana (all folders)") [**&uarr;**](../../../geo/about.en.html#E102 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141700,145912" title="about: British Guiana : Churches, schools and associations ... of minorities, general" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141700,145912))
+- E102 British Guiana [**&nearr;**](../../../geo/i/141700/about.en.html "British Guiana (all folders)") [**&uarr;**](../../../geo/about.en.html#E102 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141700,145912" title="about: British Guiana : Churches, schools and associations ... of minorities, general" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1417xx/141700/1459xx/145912/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

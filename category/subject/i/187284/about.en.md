@@ -22,15 +22,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,187284" title="about: Hamburg : Labor contracts, vacation" target="_blank">8 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,187284))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,187284" title="about: Hamburg : Labor contracts, vacation" target="_blank">8 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1872xx/187284/about.en.html))
 
 ### Asia
 
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,187284" title="about: Japan : Labor contracts, vacation" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,187284))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,187284" title="about: Japan : Labor contracts, vacation" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1872xx/187284/about.en.html))
 
 ### America
 
-- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,187284" title="about: Argentina : Labor contracts, vacation" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,187284))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,187284" title="about: Argentina : Labor contracts, vacation" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1872xx/187284/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

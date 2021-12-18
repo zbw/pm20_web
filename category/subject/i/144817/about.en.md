@@ -25,16 +25,16 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Asia
 
-- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,144817" title="about: Turkey : Internal debt, individual bonds" target="_blank">8 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,144817))
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144817" title="about: Japan : Internal debt, individual bonds" target="_blank">45 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144817))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,144817" title="about: Turkey : Internal debt, individual bonds" target="_blank">8 documents</a>) ([folder](../../../../folder/sh/1411xx/141111/1448xx/144817/about.en.html))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144817" title="about: Japan : Internal debt, individual bonds" target="_blank">45 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1448xx/144817/about.en.html))
 
 ### Africa
 
-- C25 French protectorate in Morocco [**&nearr;**](../../../geo/i/141358/about.en.html "French protectorate in Morocco (all folders)") [**&uarr;**](../../../geo/about.en.html#C25 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141358,144817" title="about: French protectorate in Morocco : Internal debt, individual bonds" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141358,144817))
+- C25 French protectorate in Morocco [**&nearr;**](../../../geo/i/141358/about.en.html "French protectorate in Morocco (all folders)") [**&uarr;**](../../../geo/about.en.html#C25 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141358,144817" title="about: French protectorate in Morocco : Internal debt, individual bonds" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1413xx/141358/1448xx/144817/about.en.html))
 
 ### America
 
-- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144817" title="about: Argentina : Internal debt, individual bonds" target="_blank">24 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,144817))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144817" title="about: Argentina : Internal debt, individual bonds" target="_blank">24 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1448xx/144817/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

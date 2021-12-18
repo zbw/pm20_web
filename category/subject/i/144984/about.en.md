@@ -22,7 +22,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144984" title="about: Japan : Indexes, individual indices relating to the overall economy" target="_blank">23 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144984))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144984" title="about: Japan : Indexes, individual indices relating to the overall economy" target="_blank">23 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1449xx/144984/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

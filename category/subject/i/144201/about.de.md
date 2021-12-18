@@ -22,6 +22,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 
 
-- H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141728,144201" title="über: Welt : Himalaya Expeditionen" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141728,144201))
+- H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141728,144201" title="über: Welt : Himalaya Expeditionen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1417xx/141728/1442xx/144201/about.de.html))
 
 

@@ -25,20 +25,20 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145513" title="about: Hamburg : Municipal transport, general" target="_blank">237 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145513))
-- A10(t2) Germany (Federal Republic of Germany) [**&nearr;**](../../../geo/i/187232/about.en.html "Germany (Federal Republic of Germany) (all folders)") [**&uarr;**](../../../geo/about.en.html#A10(t2) "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/187232,145513" title="about: Germany (Federal Republic of Germany) : Municipal transport, general" target="_blank">0 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/187232,145513))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145513" title="about: Hamburg : Municipal transport, general" target="_blank">237 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1455xx/145513/about.en.html))
+- A10(t2) Germany (Federal Republic of Germany) [**&nearr;**](../../../geo/i/187232/about.en.html "Germany (Federal Republic of Germany) (all folders)") [**&uarr;**](../../../geo/about.en.html#A10(t2) "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/187232,145513" title="about: Germany (Federal Republic of Germany) : Municipal transport, general" target="_blank">0 documents</a>) ([folder](../../../../folder/sh/1872xx/187232/1455xx/145513/about.en.html))
 
 ### Asia
 
-- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145513" title="about: Turkey : Municipal transport, general" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145513))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145513" title="about: Turkey : Municipal transport, general" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1411xx/141111/1455xx/145513/about.en.html))
 
 ### Africa
 
-- C19 Algeria [**&nearr;**](../../../geo/i/141354/about.en.html "Algeria (all folders)") [**&uarr;**](../../../geo/about.en.html#C19 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141354,145513" title="about: Algeria : Municipal transport, general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141354,145513))
+- C19 Algeria [**&nearr;**](../../../geo/i/141354/about.en.html "Algeria (all folders)") [**&uarr;**](../../../geo/about.en.html#C19 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141354,145513" title="about: Algeria : Municipal transport, general" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1413xx/141354/1455xx/145513/about.en.html))
 
 ### America
 
-- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145513" title="about: Argentina : Municipal transport, general" target="_blank">11 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145513))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145513" title="about: Argentina : Municipal transport, general" target="_blank">11 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1455xx/145513/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

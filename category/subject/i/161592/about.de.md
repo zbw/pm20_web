@@ -25,11 +25,11 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Asien
 
-- B24a Palästina (-1945) [**&nearr;**](../../../geo/i/141115/about.de.html "Palästina (-1945) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B24a "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,161592" title="über: Palästina (-1945) : Hafenabgaben" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141115,161592))
-- B102 Hongkong [**&nearr;**](../../../geo/i/141268/about.de.html "Hongkong (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B102 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141268,161592" title="über: Hongkong : Hafenabgaben" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141268,161592))
+- B24a Palästina (-1945) [**&nearr;**](../../../geo/i/141115/about.de.html "Palästina (-1945) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B24a "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,161592" title="über: Palästina (-1945) : Hafenabgaben" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1411xx/141115/1615xx/161592/about.de.html))
+- B102 Hongkong [**&nearr;**](../../../geo/i/141268/about.de.html "Hongkong (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B102 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141268,161592" title="über: Hongkong : Hafenabgaben" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141268/1615xx/161592/about.de.html))
 
 ### Afrika
 
-- C87 Deutsch-Südwestafrika [**&nearr;**](../../../geo/i/141450/about.de.html "Deutsch-Südwestafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C87 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141450,161592" title="über: Deutsch-Südwestafrika : Hafenabgaben" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141450,161592))
+- C87 Deutsch-Südwestafrika [**&nearr;**](../../../geo/i/141450/about.de.html "Deutsch-Südwestafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C87 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141450,161592" title="über: Deutsch-Südwestafrika : Hafenabgaben" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141450/1615xx/161592/about.de.html))
 
 

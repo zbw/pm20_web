@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Asia
 
-- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,144833" title="about: Turkey : Allied war compensation claims against Turkey" target="_blank">5 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,144833))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,144833" title="about: Turkey : Allied war compensation claims against Turkey" target="_blank">5 documents</a>) ([folder](../../../../folder/sh/1411xx/141111/1448xx/144833/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

@@ -22,9 +22,9 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- B24a Palestine [**&nearr;**](../../../geo/i/141115/about.en.html "Palestine (all folders)") [**&uarr;**](../../../geo/about.en.html#B24a "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,144986" title="about: Palestine : Indexes, individual indices, retail index" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141115,144986))
-- B102 Hong Kong [**&nearr;**](../../../geo/i/141268/about.en.html "Hong Kong (all folders)") [**&uarr;**](../../../geo/about.en.html#B102 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141268,144986" title="about: Hong Kong : Indexes, individual indices, retail index" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141268,144986))
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144986" title="about: Japan : Indexes, individual indices, retail index" target="_blank">47 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144986))
+- B24a Palestine [**&nearr;**](../../../geo/i/141115/about.en.html "Palestine (all folders)") [**&uarr;**](../../../geo/about.en.html#B24a "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,144986" title="about: Palestine : Indexes, individual indices, retail index" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1411xx/141115/1449xx/144986/about.en.html))
+- B102 Hong Kong [**&nearr;**](../../../geo/i/141268/about.en.html "Hong Kong (all folders)") [**&uarr;**](../../../geo/about.en.html#B102 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141268,144986" title="about: Hong Kong : Indexes, individual indices, retail index" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1412xx/141268/1449xx/144986/about.en.html))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144986" title="about: Japan : Indexes, individual indices, retail index" target="_blank">47 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1449xx/144986/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

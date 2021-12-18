@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A1 Europe [**&nearr;**](../../../geo/i/140892/about.en.html "Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A1 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,146050" title="about: Europe : Danube region questions" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140892,146050))
+- A1 Europe [**&nearr;**](../../../geo/i/140892/about.en.html "Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A1 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,146050" title="about: Europe : Danube region questions" target="_blank">4 documents</a>) ([folder](../../../../folder/sh/1408xx/140892/1460xx/146050/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

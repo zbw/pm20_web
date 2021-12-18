@@ -25,6 +25,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Australien und Ozeanien
 
-- D5 Hawaii [**&nearr;**](../../../geo/i/141595/about.de.html "Hawaii (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#D5 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141595,161843" title="über: Hawaii : Ausländische und koloniale Arbeiter" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141595,161843))
+- D5 Hawaii [**&nearr;**](../../../geo/i/141595/about.de.html "Hawaii (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#D5 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141595,161843" title="über: Hawaii : Ausländische und koloniale Arbeiter" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1415xx/141595/1618xx/161843/about.de.html))
 
 

@@ -25,15 +25,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,197875" title="about: Hamburg : Country roads, paths, bridges (including their traffic), institutions" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,197875))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,197875" title="about: Hamburg : Country roads, paths, bridges (including their traffic), institutions" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1978xx/197875/about.en.html))
 
 ### Africa
 
-- C110 German East Africa [**&nearr;**](../../../geo/i/141471/about.en.html "German East Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C110 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141471,197875" title="about: German East Africa : Country roads, paths, bridges (including their traffic), institutions" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141471,197875))
+- C110 German East Africa [**&nearr;**](../../../geo/i/141471/about.en.html "German East Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C110 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141471,197875" title="about: German East Africa : Country roads, paths, bridges (including their traffic), institutions" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1414xx/141471/1978xx/197875/about.en.html))
 
 ### America
 
-- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,197875" title="about: Argentina : Country roads, paths, bridges (including their traffic), institutions" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,197875))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,197875" title="about: Argentina : Country roads, paths, bridges (including their traffic), institutions" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1978xx/197875/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

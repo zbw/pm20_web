@@ -25,12 +25,12 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- A38 Fiume [**&nearr;**](../../../geo/i/141014/about.de.html "Fiume (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A38 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141014,144484" title="über: Fiume : Freihäfen, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141014,144484))
+- A38 Fiume [**&nearr;**](../../../geo/i/141014/about.de.html "Fiume (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A38 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141014,144484" title="über: Fiume : Freihäfen, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141014/1444xx/144484/about.de.html))
 
 ### Asien
 
-- B21 Türkei (1923 -) [**&nearr;**](../../../geo/i/141111/about.de.html "Türkei (1923 -) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B21 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,144484" title="über: Türkei (1923 -) : Freihäfen, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,144484))
-- B24 Syrien [**&nearr;**](../../../geo/i/141114/about.de.html "Syrien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B24 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141114,144484" title="über: Syrien : Freihäfen, Allgemein" target="_blank">6 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141114,144484))
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144484" title="über: Japan : Freihäfen, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144484))
+- B21 Türkei (1923 -) [**&nearr;**](../../../geo/i/141111/about.de.html "Türkei (1923 -) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B21 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,144484" title="über: Türkei (1923 -) : Freihäfen, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1411xx/141111/1444xx/144484/about.de.html))
+- B24 Syrien [**&nearr;**](../../../geo/i/141114/about.de.html "Syrien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B24 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141114,144484" title="über: Syrien : Freihäfen, Allgemein" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/sh/1411xx/141114/1444xx/144484/about.de.html))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144484" title="über: Japan : Freihäfen, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141272/1444xx/144484/about.de.html))
 
 

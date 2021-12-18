@@ -13,7 +13,7 @@ fn-stub: about
 
 
 
-Insgesamt 1 Sach-Mappen, 4 Dokumente - Mappen unvollständig.
+Insgesamt 2 Sach-Mappen, 4 Dokumente - Mappen unvollständig.
 Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
@@ -22,6 +22,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145714" title="über: Hamburg : Nachrichten- und Pressewesen, Inseratenwesen" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,145714))
+- A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140902,145714" title="über: Orient : Nachrichten- und Pressewesen, Inseratenwesen" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1457xx/145714/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145714" title="über: Hamburg : Nachrichten- und Pressewesen, Inseratenwesen" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1457xx/145714/about.de.html))
 
 

@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Asia
 
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,161621" title="about: Japan : Municipal transport" target="_blank">8 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,161621))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,161621" title="about: Japan : Municipal transport" target="_blank">8 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1616xx/161621/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

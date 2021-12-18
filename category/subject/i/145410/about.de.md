@@ -25,7 +25,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Asien
 
-- B21 Türkei (1923 -) [**&nearr;**](../../../geo/i/141111/about.de.html "Türkei (1923 -) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B21 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145410" title="über: Türkei (1923 -) : Öffentliche und private Bankenstützung, Verstaatlichung der Banken" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,145410))
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145410" title="über: Japan : Öffentliche und private Bankenstützung, Verstaatlichung der Banken" target="_blank">6 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,145410))
+- B21 Türkei (1923 -) [**&nearr;**](../../../geo/i/141111/about.de.html "Türkei (1923 -) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B21 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145410" title="über: Türkei (1923 -) : Öffentliche und private Bankenstützung, Verstaatlichung der Banken" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1411xx/141111/1454xx/145410/about.de.html))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145410" title="über: Japan : Öffentliche und private Bankenstützung, Verstaatlichung der Banken" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141272/1454xx/145410/about.de.html))
 
 

@@ -26,15 +26,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Land und Leute, Politik und Wirtschaft
 
-- b Land und Leute, Politik und Wirtschaft, Allgemein [**&nearr;**](../../../subject/i/144196/about.de.html "Land und Leute, Politik und Wirtschaft, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#b "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141453,144196" title="über: Tristan da Cunha : Land und Leute, Politik und Wirtschaft, Allgemein" target="_blank">132 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141453,144196))
+- b Land und Leute, Politik und Wirtschaft, Allgemein [**&nearr;**](../../../subject/i/144196/about.de.html "Land und Leute, Politik und Wirtschaft, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#b "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141453,144196" title="über: Tristan da Cunha : Land und Leute, Politik und Wirtschaft, Allgemein" target="_blank">132 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141453/1441xx/144196/about.de.html))
 
 ### Landeskunde
 
-- c1 Expeditionen [**&nearr;**](../../../subject/i/144200/about.de.html "Expeditionen (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#c1 "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141453,144200" title="über: Tristan da Cunha : Expeditionen" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141453,144200))
+- c1 Expeditionen [**&nearr;**](../../../subject/i/144200/about.de.html "Expeditionen (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#c1 "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141453,144200" title="über: Tristan da Cunha : Expeditionen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141453/1442xx/144200/about.de.html))
 
 ### Außenpolitik und politische Beziehungen zum Ausland
 
 - [g4 Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein]{.gray}
-  - g4 Sm1 Zollpolitik [**&nearr;**](../../../subject/i/163419/about.de.html "Zollpolitik (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#g4_Sm1 "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141453,163419" title="über: Tristan da Cunha : Zollpolitik" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141453,163419))
+  - g4 Sm1 Zollpolitik [**&nearr;**](../../../subject/i/163419/about.de.html "Zollpolitik (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#g4_Sm1 "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141453,163419" title="über: Tristan da Cunha : Zollpolitik" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141453/1634xx/163419/about.de.html))
 
 

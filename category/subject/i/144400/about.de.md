@@ -27,11 +27,11 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Asien
 
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144400" title="über: Japan : Einzelne politische Strömungen" target="_blank">34 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144400))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144400" title="über: Japan : Einzelne politische Strömungen" target="_blank">34 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141272/1444xx/144400/about.de.html))
 
 ### Amerika
 
-- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144400" title="über: Argentinien : Einzelne politische Strömungen" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,144400))
-- E97 Brasilien [**&nearr;**](../../../geo/i/141697/about.de.html "Brasilien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E97 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141697,144400" title="über: Brasilien : Einzelne politische Strömungen" target="_blank">214 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141697,144400))
+- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144400" title="über: Argentinien : Einzelne politische Strömungen" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1444xx/144400/about.de.html))
+- E97 Brasilien [**&nearr;**](../../../geo/i/141697/about.de.html "Brasilien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E97 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141697,144400" title="über: Brasilien : Einzelne politische Strömungen" target="_blank">214 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141697/1444xx/144400/about.de.html))
 
 

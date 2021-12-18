@@ -25,10 +25,10 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145222" title="über: Hamburg : Arbeitnehmerverhältnisse, Lederindustrie und Lederverarbeitung" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,145222))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145222" title="über: Hamburg : Arbeitnehmerverhältnisse, Lederindustrie und Lederverarbeitung" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1452xx/145222/about.de.html))
 
 ### Asien
 
-- B24 Syrien [**&nearr;**](../../../geo/i/141114/about.de.html "Syrien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B24 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141114,145222" title="über: Syrien : Arbeitnehmerverhältnisse, Lederindustrie und Lederverarbeitung" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141114,145222))
+- B24 Syrien [**&nearr;**](../../../geo/i/141114/about.de.html "Syrien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B24 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141114,145222" title="über: Syrien : Arbeitnehmerverhältnisse, Lederindustrie und Lederverarbeitung" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1411xx/141114/1452xx/145222/about.de.html))
 
 

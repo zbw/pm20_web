@@ -25,6 +25,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Afrika
 
-- C25 Französisch-Marokko [**&nearr;**](../../../geo/i/141358/about.de.html "Französisch-Marokko (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C25 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141358,145872" title="über: Französisch-Marokko : Mannesmann Konzessionen" target="_blank">27 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141358,145872))
+- C25 Französisch-Marokko [**&nearr;**](../../../geo/i/141358/about.de.html "Französisch-Marokko (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C25 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141358,145872" title="über: Französisch-Marokko : Mannesmann Konzessionen" target="_blank">27 Dokumente</a>) ([Mappe](../../../../folder/sh/1413xx/141358/1458xx/145872/about.de.html))
 
 

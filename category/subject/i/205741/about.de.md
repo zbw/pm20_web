@@ -22,6 +22,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 
 
-- A10(t1) Deutschland (unter alliierter Besetzung) [**&nearr;**](../../../geo/i/187230/about.de.html "Deutschland (unter alliierter Besetzung) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10(t1) "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/187230,205741" title="über: Deutschland (unter alliierter Besetzung) : Besatzungsmächte (Verwaltung)" target="_blank">50 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/187230,205741))
+- A10(t1) Deutschland (unter alliierter Besetzung) [**&nearr;**](../../../geo/i/187230/about.de.html "Deutschland (unter alliierter Besetzung) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10(t1) "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/187230,205741" title="über: Deutschland (unter alliierter Besetzung) : Besatzungsmächte (Verwaltung)" target="_blank">50 Dokumente</a>) ([Mappe](../../../../folder/sh/1872xx/187230/2057xx/205741/about.de.html))
 
 

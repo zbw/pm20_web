@@ -25,7 +25,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,145786" title="über: Europa : Nationale Kapitalanlagen und privatwirtschaftl. Interessen in einzelnen Ländern" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140892,145786))
-- A4 Westeuropa [**&nearr;**](../../../geo/i/140897/about.de.html "Westeuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A4 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140897,145786" title="über: Westeuropa : Nationale Kapitalanlagen und privatwirtschaftl. Interessen in einzelnen Ländern" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140897,145786))
+- A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,145786" title="über: Europa : Nationale Kapitalanlagen und privatwirtschaftl. Interessen in einzelnen Ländern" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1457xx/145786/about.de.html))
+- A4 Westeuropa [**&nearr;**](../../../geo/i/140897/about.de.html "Westeuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A4 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140897,145786" title="über: Westeuropa : Nationale Kapitalanlagen und privatwirtschaftl. Interessen in einzelnen Ländern" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140897/1457xx/145786/about.de.html))
 
 

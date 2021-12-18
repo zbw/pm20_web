@@ -25,16 +25,16 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145845" title="about: Hamburg : Packaging" target="_blank">0 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145845))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145845" title="about: Hamburg : Packaging" target="_blank">0 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1458xx/145845/about.en.html))
 
 ### Asia
 
-- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145845" title="about: Turkey : Packaging" target="_blank">6 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,145845))
-- B24 Syria [**&nearr;**](../../../geo/i/141114/about.en.html "Syria (all folders)") [**&uarr;**](../../../geo/about.en.html#B24 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141114,145845" title="about: Syria : Packaging" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141114,145845))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145845" title="about: Turkey : Packaging" target="_blank">6 documents</a>) ([folder](../../../../folder/sh/1411xx/141111/1458xx/145845/about.en.html))
+- B24 Syria [**&nearr;**](../../../geo/i/141114/about.en.html "Syria (all folders)") [**&uarr;**](../../../geo/about.en.html#B24 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141114,145845" title="about: Syria : Packaging" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1411xx/141114/1458xx/145845/about.en.html))
 
 ### America
 
-- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145845" title="about: Argentina : Packaging" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145845))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145845" title="about: Argentina : Packaging" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1458xx/145845/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

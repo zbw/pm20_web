@@ -25,6 +25,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Australien und Ozeanien
 
-- D10 Deutsch-Neuguinea [**&nearr;**](../../../geo/i/141601/about.de.html "Deutsch-Neuguinea (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#D10 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141601,145948" title="über: Deutsch-Neuguinea : Chinesenfrage" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141601,145948))
+- D10 Deutsch-Neuguinea [**&nearr;**](../../../geo/i/141601/about.de.html "Deutsch-Neuguinea (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#D10 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141601,145948" title="über: Deutsch-Neuguinea : Chinesenfrage" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141601/1459xx/145948/about.de.html))
 
 

@@ -27,6 +27,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Asien
 
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145760" title="über: Japan : Schutz des gewerblichen Eigentums, von Ausländern und nat. Angehörigen" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,145760))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145760" title="über: Japan : Schutz des gewerblichen Eigentums, von Ausländern und nat. Angehörigen" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141272/1457xx/145760/about.de.html))
 
 

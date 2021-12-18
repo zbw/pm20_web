@@ -1,6 +1,6 @@
 ---
-title: "Home | ZBW Pressearchive"
-etr: home
+title: "Home"
+pagelink: "about.de.html"
 fn-stub: about
 ---
 
@@ -9,7 +9,7 @@ fn-stub: about
 Historische Pressearchive der ZBW. Übernommen vom
 "Hamburgischen-Welt-Wirtschafts-Archiv" und vom "Wirtschaftsarchiv" des
 Instituts für Weltwirtschaft in Kiel. Teilweise digitalisiert mit
-Unterstützung der DFG
+Unterstützung der DFG.
 
 * [Personenarchiv](folder/pe/about.de.html)
 * [Firmen/Institutionenarchiv](folder/co/about.de.html)
@@ -17,9 +17,7 @@ Unterstützung der DFG
 * [Länder-Sacharchiv - nach Sachsystematik](category/subject/about.de.html)
 * [Warenarchiv](folder/wa)
 * [Digitalisierte Filme](film)
-* [Liste der genutzten Zeitungen und Zeitschriften](list/publication/about.de.html)
-* [Auswertungen](report/about.de.html)
-* [Dokumentation](doc/about.de.html)
+* [Über die ZBW Pressearchive](about-pm20/about.de.html)
 
 </div>
 

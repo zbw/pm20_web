@@ -25,10 +25,10 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,144559" title="über: Deutschland : Ansprüche auf fremde Kolonien" target="_blank">82 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/126128,144559))
+- A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,144559" title="über: Deutschland : Ansprüche auf fremde Kolonien" target="_blank">82 Dokumente</a>) ([Mappe](../../../../folder/sh/1261xx/126128/1445xx/144559/about.de.html))
 
 ### Asien
 
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144559" title="über: Japan : Ansprüche auf fremde Kolonien" target="_blank">25 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144559))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144559" title="über: Japan : Ansprüche auf fremde Kolonien" target="_blank">25 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141272/1445xx/144559/about.de.html))
 
 

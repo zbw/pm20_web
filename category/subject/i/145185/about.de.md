@@ -25,6 +25,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Amerika
 
-- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145185" title="über: Argentinien : Arbeiterfrage, Konferenzen" target="_blank">15 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,145185))
+- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145185" title="über: Argentinien : Arbeiterfrage, Konferenzen" target="_blank">15 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1451xx/145185/about.de.html))
 
 

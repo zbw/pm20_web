@@ -25,15 +25,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Asia
 
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144588" title="about: Japan : Retaliation clause, statements" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144588))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144588" title="about: Japan : Retaliation clause, statements" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1445xx/144588/about.en.html))
 
 ### Africa
 
-- C56 Liberia [**&nearr;**](../../../geo/i/141405/about.en.html "Liberia (all folders)") [**&uarr;**](../../../geo/about.en.html#C56 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141405,144588" title="about: Liberia : Retaliation clause, statements" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141405,144588))
+- C56 Liberia [**&nearr;**](../../../geo/i/141405/about.en.html "Liberia (all folders)") [**&uarr;**](../../../geo/about.en.html#C56 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141405,144588" title="about: Liberia : Retaliation clause, statements" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1414xx/141405/1445xx/144588/about.en.html))
 
 ### Australia and Oceania
 
-- D30 Australia [**&nearr;**](../../../geo/i/141621/about.en.html "Australia (all folders)") [**&uarr;**](../../../geo/about.en.html#D30 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141621,144588" title="about: Australia : Retaliation clause, statements" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141621,144588))
+- D30 Australia [**&nearr;**](../../../geo/i/141621/about.en.html "Australia (all folders)") [**&uarr;**](../../../geo/about.en.html#D30 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141621,144588" title="about: Australia : Retaliation clause, statements" target="_blank">4 documents</a>) ([folder](../../../../folder/sh/1416xx/141621/1445xx/144588/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

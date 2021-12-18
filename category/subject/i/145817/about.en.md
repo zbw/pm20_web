@@ -22,7 +22,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- C87 German South-West Africa [**&nearr;**](../../../geo/i/141450/about.en.html "German South-West Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C87 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141450,145817" title="about: German South-West Africa : Private war damages, compensation proceedings" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141450,145817))
+- C87 German South-West Africa [**&nearr;**](../../../geo/i/141450/about.en.html "German South-West Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C87 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141450,145817" title="about: German South-West Africa : Private war damages, compensation proceedings" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1414xx/141450/1458xx/145817/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

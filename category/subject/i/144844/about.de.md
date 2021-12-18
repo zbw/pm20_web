@@ -22,6 +22,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 
 
-- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144844" title="über: Argentinien : Öffentliche Unternehmungen, Beteiligung an priv. Unternehmungen einz. Bundesstaaten o. Prov., Allg." target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,144844))
+- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144844" title="über: Argentinien : Öffentliche Unternehmungen, Beteiligung an priv. Unternehmungen einz. Bundesstaaten o. Prov., Allg." target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1448xx/144844/about.de.html))
 
 

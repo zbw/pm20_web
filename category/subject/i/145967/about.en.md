@@ -22,7 +22,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,145967" title="about: Germany : Council system, general" target="_blank">14 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,145967))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,145967" title="about: Germany : Council system, general" target="_blank">14 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1459xx/145967/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

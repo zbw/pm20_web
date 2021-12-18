@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A10p East Upper Silesia [**&nearr;**](../../../geo/i/140951/about.en.html "East Upper Silesia (all folders)") [**&uarr;**](../../../geo/about.en.html#A10p "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140951,144392" title="about: East Upper Silesia : Electoral law of individual federal and vassal states" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140951,144392))
+- A10p East Upper Silesia [**&nearr;**](../../../geo/i/140951/about.en.html "East Upper Silesia (all folders)") [**&uarr;**](../../../geo/about.en.html#A10p "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140951,144392" title="about: East Upper Silesia : Electoral law of individual federal and vassal states " target="_blank">4 documents</a>) ([folder](../../../../folder/sh/1409xx/140951/1443xx/144392/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

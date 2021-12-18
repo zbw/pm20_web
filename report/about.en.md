@@ -1,5 +1,5 @@
 ---
-title: "Reports | ZBW Press Archives"
+title: "Reports"
 etr: report
 backlink: ../about.en.html
 backlink-title: Home

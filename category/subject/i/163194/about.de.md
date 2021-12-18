@@ -13,7 +13,7 @@ fn-stub: about
 
 
 
-Insgesamt 1 Sach-Mappen, 40 Dokumente - Mappen unvollständig.
+Insgesamt 1 Sach-Mappen, 42 Dokumente - Mappen unvollständig.
 Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
@@ -25,6 +25,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,163194" title="über: Hamburg : Versorgungswirtschaft" target="_blank">40 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,163194))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,163194" title="über: Hamburg : Versorgungswirtschaft" target="_blank">42 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1631xx/163194/about.de.html))
 
 

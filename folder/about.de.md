@@ -1,5 +1,6 @@
 ---
-title: "Mappen | ZBW Pressearchive"
+title: "Mappen"
+pagelink: folder/about.de.html
 backlink: ../about.de.html
 backlink-title: "Home"
 fn-stub: about

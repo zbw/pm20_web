@@ -1,5 +1,5 @@
 ---
-title: "Bestände Pressearchive ZBW"
+title: Bestände
 etr: doc/holding
 ---
 

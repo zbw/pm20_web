@@ -25,10 +25,10 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Afrika
 
-- C125 Abessinien [**&nearr;**](../../../geo/i/141482/about.de.html "Abessinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C125 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141482,163414" title="über: Abessinien : Wirtschaftskrieg" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141482,163414))
+- C125 Abessinien [**&nearr;**](../../../geo/i/141482/about.de.html "Abessinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C125 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141482,163414" title="über: Abessinien : Wirtschaftskrieg" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141482/1634xx/163414/about.de.html))
 
 ### Australien und Ozeanien
 
-- D30 Australien [**&nearr;**](../../../geo/i/141621/about.de.html "Australien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#D30 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141621,163414" title="über: Australien : Wirtschaftskrieg" target="_blank">50 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141621,163414))
+- D30 Australien [**&nearr;**](../../../geo/i/141621/about.de.html "Australien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#D30 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141621,163414" title="über: Australien : Wirtschaftskrieg" target="_blank">50 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141621/1634xx/163414/about.de.html))
 
 

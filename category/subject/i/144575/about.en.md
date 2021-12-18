@@ -25,11 +25,11 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Asia
 
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144575" title="about: Japan : War goals (World War I), general" target="_blank">37 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144575))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144575" title="about: Japan : War goals (World War I), general" target="_blank">37 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1445xx/144575/about.en.html))
 
 ### Australia and Oceania
 
-- D30 Australia [**&nearr;**](../../../geo/i/141621/about.en.html "Australia (all folders)") [**&uarr;**](../../../geo/about.en.html#D30 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141621,144575" title="about: Australia : War goals (World War I), general" target="_blank">8 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141621,144575))
+- D30 Australia [**&nearr;**](../../../geo/i/141621/about.en.html "Australia (all folders)") [**&uarr;**](../../../geo/about.en.html#D30 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141621,144575" title="about: Australia : War goals (World War I), general" target="_blank">8 documents</a>) ([folder](../../../../folder/sh/1416xx/141621/1445xx/144575/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

@@ -22,7 +22,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-  - o1 Sm500 German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145911/about.en.html "German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum) (all over the world)") [**&uarr;**](../../../subject/about.en.html#o1_Sm500 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141234,145911" title="about: Sabah : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">10 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141234,145911))
+  - o1 Sm500 German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145911/about.en.html "German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum) (all over the world)") [**&uarr;**](../../../subject/about.en.html#o1_Sm500 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141234,145911" title="about: Sabah : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">10 documents</a>) ([folder](../../../../folder/sh/1412xx/141234/1459xx/145911/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

@@ -25,11 +25,11 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,145615" title="about: Germany : Maritime shipping, planned reduction in tonnage (scrapping problem)" target="_blank">47 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,145615))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,145615" title="about: Germany : Maritime shipping, planned reduction in tonnage (scrapping problem)" target="_blank">47 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1456xx/145615/about.en.html))
 
 ### Asia
 
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145615" title="about: Japan : Maritime shipping, planned reduction in tonnage (scrapping problem)" target="_blank">39 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145615))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145615" title="about: Japan : Maritime shipping, planned reduction in tonnage (scrapping problem)" target="_blank">39 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1456xx/145615/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

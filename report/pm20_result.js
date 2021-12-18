@@ -33,9 +33,9 @@ var loadSparqlResult = function(args) {
   if (getParameterByName("main_title") !== '') {
     document.getElementById("main_title").innerHTML = getParameterByName("main_title");
 
-    // prepend the title element (e.g. " | ZBW Press Archives" with the page title
+    // prepend the title element (e.g. "ZBW Press Archives") with the page title
     title_stub = document.title;
-    document.title = getParameterByName("main_title") + title_stub;
+    document.title = getParameterByName("main_title") + " | " + title_stub;
   }
     
   // load datafile

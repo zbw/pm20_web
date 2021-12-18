@@ -22,7 +22,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,144814" title="about: Turkey : State war and revolutionary compensation claims and benefits to and from individual countries" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,144814))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,144814" title="about: Turkey : State war and revolutionary compensation claims and benefits to and from individual countries" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1411xx/141111/1448xx/144814/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

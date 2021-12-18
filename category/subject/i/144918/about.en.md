@@ -22,12 +22,12 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,144918" title="about: Turkey : State and provincial finance, general" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,144918))
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144918" title="about: Japan : State and provincial finance, general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144918))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,144918" title="about: Turkey : State and provincial finance, general" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1411xx/141111/1449xx/144918/about.en.html))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144918" title="about: Japan : State and provincial finance, general" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1449xx/144918/about.en.html))
 
 ### America
 
-- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144918" title="about: Argentina : State and provincial finance, general" target="_blank">28 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,144918))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144918" title="about: Argentina : State and provincial finance, general" target="_blank">28 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1449xx/144918/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

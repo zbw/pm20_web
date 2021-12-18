@@ -22,7 +22,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140960,144449" title="about: German imperial colonies : Criticism of German colonial activity" target="_blank">12 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140960,144449))
+- A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140960,144449" title="about: German imperial colonies : Criticism of German colonial activity" target="_blank">12 documents</a>) ([folder](../../../../folder/sh/1409xx/140960/1444xx/144449/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

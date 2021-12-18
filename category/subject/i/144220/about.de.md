@@ -25,18 +25,18 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,144220" title="über: Deutschland : Kartographie, Luftphotographie (bis 1945)" target="_blank">7 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/126128,144220))
+- A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,144220" title="über: Deutschland : Kartographie, Luftphotographie (bis 1945)" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/sh/1261xx/126128/1442xx/144220/about.de.html))
 
 ### Afrika
 
-- C110 Deutsch-Ostafrika [**&nearr;**](../../../geo/i/141471/about.de.html "Deutsch-Ostafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C110 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141471,144220" title="über: Deutsch-Ostafrika : Kartographie, Luftphotographie (bis 1945)" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141471,144220))
+- C110 Deutsch-Ostafrika [**&nearr;**](../../../geo/i/141471/about.de.html "Deutsch-Ostafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C110 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141471,144220" title="über: Deutsch-Ostafrika : Kartographie, Luftphotographie (bis 1945)" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141471/1442xx/144220/about.de.html))
 
 ### Amerika
 
-- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144220" title="über: Argentinien : Kartographie, Luftphotographie (bis 1945)" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,144220))
+- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144220" title="über: Argentinien : Kartographie, Luftphotographie (bis 1945)" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1442xx/144220/about.de.html))
 
 ### Welt
 
-- H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141728,144220" title="über: Welt : Kartographie, Luftphotographie (bis 1945)" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141728,144220))
+- H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141728,144220" title="über: Welt : Kartographie, Luftphotographie (bis 1945)" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1417xx/141728/1442xx/144220/about.de.html))
 
 

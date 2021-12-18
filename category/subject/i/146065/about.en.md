@@ -22,7 +22,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,146065" title="about: Hamburg : Economic area on the Lower Elbe (Greater Hamburg) question, general" target="_blank">109 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,146065))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,146065" title="about: Hamburg : Economic area on the Lower Elbe (Greater Hamburg) question, general" target="_blank">109 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1460xx/146065/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

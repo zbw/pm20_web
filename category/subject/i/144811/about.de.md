@@ -25,6 +25,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,144811" title="über: Südosteuropa : Zahlenmässige Kriegs- und Revolutionsentschädigungsforderungen und Leistungen, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140900,144811))
+- A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,144811" title="über: Südosteuropa : Zahlenmässige Kriegs- und Revolutionsentschädigungsforderungen und Leistungen, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1448xx/144811/about.de.html))
 
 

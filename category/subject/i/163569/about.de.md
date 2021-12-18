@@ -25,6 +25,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- A43 Osmanisches Reich (-1923) [**&nearr;**](../../../geo/i/141034/about.de.html "Osmanisches Reich (-1923) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A43 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141034,163569" title="über: Osmanisches Reich (-1923) : Friedensvertrag von Sevres (Weltkrieg)" target="_blank">121 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141034,163569))
+- A43 Osmanisches Reich (-1923) [**&nearr;**](../../../geo/i/141034/about.de.html "Osmanisches Reich (-1923) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A43 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141034,163569" title="über: Osmanisches Reich (-1923) : Friedensvertrag von Sevres (Weltkrieg)" target="_blank">121 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141034/1635xx/163569/about.de.html))
 
 

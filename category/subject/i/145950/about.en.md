@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Africa
 
-- C122 French Somaliland [**&nearr;**](../../../geo/i/141479/about.en.html "French Somaliland (all folders)") [**&uarr;**](../../../geo/about.en.html#C122 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141479,145950" title="about: French Somaliland : Japanese question" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141479,145950))
+- C122 French Somaliland [**&nearr;**](../../../geo/i/141479/about.en.html "French Somaliland (all folders)") [**&uarr;**](../../../geo/about.en.html#C122 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141479,145950" title="about: French Somaliland : Japanese question" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1414xx/141479/1459xx/145950/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

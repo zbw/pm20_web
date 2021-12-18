@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,145978" title="about: Germany : Arbitration, mixed arbitration courts between two countries, individuals" target="_blank">87 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,145978))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,145978" title="about: Germany : Arbitration, mixed arbitration courts between two countries, individuals" target="_blank">87 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1459xx/145978/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

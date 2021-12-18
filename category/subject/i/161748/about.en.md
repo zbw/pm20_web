@@ -22,7 +22,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- B114 Guangdong [**&nearr;**](../../../geo/i/141275/about.en.html "Guangdong (all folders)") [**&uarr;**](../../../geo/about.en.html#B114 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141275,161748" title="about: Guangdong : Collective accounts of banks and savings banks (statistics)" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141275,161748))
+- B114 Guangdong [**&nearr;**](../../../geo/i/141275/about.en.html "Guangdong (all folders)") [**&uarr;**](../../../geo/about.en.html#B114 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141275,161748" title="about: Guangdong : Collective accounts of banks and savings banks (statistics)" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1412xx/141275/1617xx/161748/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

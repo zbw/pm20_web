@@ -13,7 +13,7 @@ fn-stub: about
 
 
 
-Insgesamt 2 Sach-Mappen, 27 Dokumente - Mappen unvollständig.
+Insgesamt 2 Sach-Mappen, 28 Dokumente - Mappen unvollständig.
 Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
@@ -22,7 +22,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,185530" title="über: Hamburg : Sprache, Berufe und Ausbildung" target="_blank">15 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,185530))
-- A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,185530" title="über: Deutschland : Sprache, Berufe und Ausbildung" target="_blank">12 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/126128,185530))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,185530" title="über: Hamburg : Sprache, Berufe und Ausbildung" target="_blank">16 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1855xx/185530/about.de.html))
+- A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,185530" title="über: Deutschland : Sprache, Berufe und Ausbildung" target="_blank">12 Dokumente</a>) ([Mappe](../../../../folder/sh/1261xx/126128/1855xx/185530/about.de.html))
 
 

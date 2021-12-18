@@ -25,11 +25,11 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Asia
 
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144198" title="about: Japan : Country and people, series of articles" target="_blank">36 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144198))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144198" title="about: Japan : Country and people, series of articles" target="_blank">36 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1441xx/144198/about.en.html))
 
 ### Africa
 
-- C93 Union of South Africa [**&nearr;**](../../../geo/i/141454/about.en.html "Union of South Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C93 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141454,144198" title="about: Union of South Africa : Country and people, series of articles" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141454,144198))
+- C93 Union of South Africa [**&nearr;**](../../../geo/i/141454/about.en.html "Union of South Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C93 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141454,144198" title="about: Union of South Africa : Country and people, series of articles" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1414xx/141454/1441xx/144198/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

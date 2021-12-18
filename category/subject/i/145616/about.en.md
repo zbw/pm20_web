@@ -25,11 +25,11 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,145616" title="about: Germany : Refrigerated ships, cooling systems on ships, general" target="_blank">7 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,145616))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,145616" title="about: Germany : Refrigerated ships, cooling systems on ships, general" target="_blank">7 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1456xx/145616/about.en.html))
 
 ### America
 
-- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145616" title="about: Argentina : Refrigerated ships, cooling systems on ships, general" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145616))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145616" title="about: Argentina : Refrigerated ships, cooling systems on ships, general" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1456xx/145616/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

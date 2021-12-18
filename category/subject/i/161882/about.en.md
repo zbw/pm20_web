@@ -25,11 +25,11 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Africa
 
-- C110 German East Africa [**&nearr;**](../../../geo/i/141471/about.en.html "German East Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C110 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141471,161882" title="about: German East Africa : Industrial exploitation of natural forces" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141471,161882))
+- C110 German East Africa [**&nearr;**](../../../geo/i/141471/about.en.html "German East Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C110 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141471,161882" title="about: German East Africa : Industrial exploitation of natural forces" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1414xx/141471/1618xx/161882/about.en.html))
 
 ### Australia and Oceania
 
-- D5 Hawaii [**&nearr;**](../../../geo/i/141595/about.en.html "Hawaii (all folders)") [**&uarr;**](../../../geo/about.en.html#D5 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141595,161882" title="about: Hawaii : Industrial exploitation of natural forces" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141595,161882))
+- D5 Hawaii [**&nearr;**](../../../geo/i/141595/about.en.html "Hawaii (all folders)") [**&uarr;**](../../../geo/about.en.html#D5 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141595,161882" title="about: Hawaii : Industrial exploitation of natural forces" target="_blank">4 documents</a>) ([folder](../../../../folder/sh/1415xx/141595/1618xx/161882/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

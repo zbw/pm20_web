@@ -25,12 +25,12 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Australia and Oceania
 
-- D20 Dutch New Guinea [**&nearr;**](../../../geo/i/141619/about.en.html "Dutch New Guinea (all folders)") [**&uarr;**](../../../geo/about.en.html#D20 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141619,145920" title="about: Dutch New Guinea : German immigrants" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141619,145920))
+- D20 Dutch New Guinea [**&nearr;**](../../../geo/i/141619/about.en.html "Dutch New Guinea (all folders)") [**&uarr;**](../../../geo/about.en.html#D20 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141619,145920" title="about: Dutch New Guinea : German immigrants" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1416xx/141619/1459xx/145920/about.en.html))
 
 ### America
 
-- E85 Chile [**&nearr;**](../../../geo/i/141691/about.en.html "Chile (all folders)") [**&uarr;**](../../../geo/about.en.html#E85 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141691,145920" title="about: Chile : German immigrants" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141691,145920))
-- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145920" title="about: Argentina : German immigrants" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145920))
+- E85 Chile [**&nearr;**](../../../geo/i/141691/about.en.html "Chile (all folders)") [**&uarr;**](../../../geo/about.en.html#E85 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141691,145920" title="about: Chile : German immigrants" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1416xx/141691/1459xx/145920/about.en.html))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145920" title="about: Argentina : German immigrants" target="_blank">4 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1459xx/145920/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

@@ -25,6 +25,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- A5a Mittelmeerländer [**&nearr;**](../../../geo/i/140899/about.de.html "Mittelmeerländer (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A5a "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140899,145742" title="über: Mittelmeerländer : Luftschädenversicherung" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140899,145742))
+- A5a Mittelmeerländer [**&nearr;**](../../../geo/i/140899/about.de.html "Mittelmeerländer (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A5a "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140899,145742" title="über: Mittelmeerländer : Luftschädenversicherung" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140899/1457xx/145742/about.de.html))
 
 

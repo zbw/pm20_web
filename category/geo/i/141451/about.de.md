@@ -26,15 +26,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Literatur
 
-- a Literatur, Allgemein [**&nearr;**](../../../subject/i/142393/about.de.html "Literatur, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#a "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141451,142393" title="über: Ascension : Literatur, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141451,142393))
+- a Literatur, Allgemein [**&nearr;**](../../../subject/i/142393/about.de.html "Literatur, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#a "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141451,142393" title="über: Ascension : Literatur, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141451/1423xx/142393/about.de.html))
 
 ### Land und Leute, Politik und Wirtschaft
 
-- b Land und Leute, Politik und Wirtschaft, Allgemein [**&nearr;**](../../../subject/i/144196/about.de.html "Land und Leute, Politik und Wirtschaft, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#b "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141451,144196" title="über: Ascension : Land und Leute, Politik und Wirtschaft, Allgemein" target="_blank">6 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141451,144196))
+- b Land und Leute, Politik und Wirtschaft, Allgemein [**&nearr;**](../../../subject/i/144196/about.de.html "Land und Leute, Politik und Wirtschaft, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#b "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141451,144196" title="über: Ascension : Land und Leute, Politik und Wirtschaft, Allgemein" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141451/1441xx/144196/about.de.html))
 
 ### Außenpolitik und politische Beziehungen zum Ausland
 
 - [g4 Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein]{.gray}
-  - g4 Sm1 Zollpolitik [**&nearr;**](../../../subject/i/163419/about.de.html "Zollpolitik (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#g4_Sm1 "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141451,163419" title="über: Ascension : Zollpolitik" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141451,163419))
+  - g4 Sm1 Zollpolitik [**&nearr;**](../../../subject/i/163419/about.de.html "Zollpolitik (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#g4_Sm1 "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141451,163419" title="über: Ascension : Zollpolitik" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141451/1634xx/163419/about.de.html))
 
 

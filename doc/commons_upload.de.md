@@ -1,5 +1,5 @@
 ---
-title: Commons Upload | ZBW Pressearchive
+title: Commons Upload
 backlink: ./about
 backlink-title: Dokumentation / Documentation
 ---

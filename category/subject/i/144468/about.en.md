@@ -22,7 +22,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- D30 Australia [**&nearr;**](../../../geo/i/141621/about.en.html "Australia (all folders)") [**&uarr;**](../../../geo/about.en.html#D30 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141621,144468" title="about: Australia : German citizens (legal status)" target="_blank">9 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141621,144468))
+- D30 Australia [**&nearr;**](../../../geo/i/141621/about.en.html "Australia (all folders)") [**&uarr;**](../../../geo/about.en.html#D30 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141621,144468" title="about: Australia : German citizens (legal status)" target="_blank">9 documents</a>) ([folder](../../../../folder/sh/1416xx/141621/1444xx/144468/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

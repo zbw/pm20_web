@@ -25,14 +25,14 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,144216" title="über: Deutschland : Landeskunde, Erdbeben und Vulkanausbrüche" target="_blank">19 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/126128,144216))
+- A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,144216" title="über: Deutschland : Landeskunde, Erdbeben und Vulkanausbrüche" target="_blank">19 Dokumente</a>) ([Mappe](../../../../folder/sh/1261xx/126128/1442xx/144216/about.de.html))
 
 ### Polargebiete
 
-- F10 Arktis [**&nearr;**](../../../geo/i/141702/about.de.html "Arktis (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#F10 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141702,144216" title="über: Arktis : Landeskunde, Erdbeben und Vulkanausbrüche" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141702,144216))
+- F10 Arktis [**&nearr;**](../../../geo/i/141702/about.de.html "Arktis (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#F10 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141702,144216" title="über: Arktis : Landeskunde, Erdbeben und Vulkanausbrüche" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1417xx/141702/1442xx/144216/about.de.html))
 
 ### Welt
 
-- H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141728,144216" title="über: Welt : Landeskunde, Erdbeben und Vulkanausbrüche" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141728,144216))
+- H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141728,144216" title="über: Welt : Landeskunde, Erdbeben und Vulkanausbrüche" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1417xx/141728/1442xx/144216/about.de.html))
 
 

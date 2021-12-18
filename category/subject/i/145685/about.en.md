@@ -25,11 +25,11 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A4 Western Europe [**&nearr;**](../../../geo/i/140897/about.en.html "Western Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A4 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140897,145685" title="about: Western Europe : Importance and development of airships" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140897,145685))
+- A4 Western Europe [**&nearr;**](../../../geo/i/140897/about.en.html "Western Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A4 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140897,145685" title="about: Western Europe : Importance and development of airships" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1408xx/140897/1456xx/145685/about.en.html))
 
 ### Asia
 
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145685" title="about: Japan : Importance and development of airships" target="_blank">16 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145685))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145685" title="about: Japan : Importance and development of airships" target="_blank">16 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1456xx/145685/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

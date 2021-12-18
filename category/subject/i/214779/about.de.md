@@ -25,6 +25,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Amerika
 
-- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,214779" title="über: Argentinien : Hochschulwesen, Konferenzen" target="_blank">31 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,214779))
+- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,214779" title="über: Argentinien : Hochschulwesen, Konferenzen" target="_blank">31 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/2147xx/214779/about.de.html))
 
 

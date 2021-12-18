@@ -25,14 +25,14 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Asien
 
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144588" title="über: Japan : Repressalienklausel, Stimmen" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144588))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144588" title="über: Japan : Repressalienklausel, Stimmen" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141272/1445xx/144588/about.de.html))
 
 ### Afrika
 
-- C56 Liberia [**&nearr;**](../../../geo/i/141405/about.de.html "Liberia (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C56 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141405,144588" title="über: Liberia : Repressalienklausel, Stimmen" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141405,144588))
+- C56 Liberia [**&nearr;**](../../../geo/i/141405/about.de.html "Liberia (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C56 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141405,144588" title="über: Liberia : Repressalienklausel, Stimmen" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141405/1445xx/144588/about.de.html))
 
 ### Australien und Ozeanien
 
-- D30 Australien [**&nearr;**](../../../geo/i/141621/about.de.html "Australien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#D30 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141621,144588" title="über: Australien : Repressalienklausel, Stimmen" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141621,144588))
+- D30 Australien [**&nearr;**](../../../geo/i/141621/about.de.html "Australien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#D30 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141621,144588" title="über: Australien : Repressalienklausel, Stimmen" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141621/1445xx/144588/about.de.html))
 
 

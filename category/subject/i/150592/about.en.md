@@ -25,8 +25,8 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A3 Eastern Europe [**&nearr;**](../../../geo/i/140896/about.en.html "Eastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A3 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140896,150592" title="about: Eastern Europe : History (general), conferences" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140896,150592))
-- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,150592" title="about: Germany : History (general), conferences" target="_blank">17 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,150592))
+- A3 Eastern Europe [**&nearr;**](../../../geo/i/140896/about.en.html "Eastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A3 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140896,150592" title="about: Eastern Europe : History (general), conferences" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1408xx/140896/1505xx/150592/about.en.html))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,150592" title="about: Germany : History (general), conferences" target="_blank">17 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1505xx/150592/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

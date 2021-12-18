@@ -22,6 +22,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 
 
-- C56 Liberia [**&nearr;**](../../../geo/i/141405/about.de.html "Liberia (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C56 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141405,146019" title="über: Liberia : Firestone Konzession" target="_blank">19 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141405,146019))
+- C56 Liberia [**&nearr;**](../../../geo/i/141405/about.de.html "Liberia (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C56 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141405,146019" title="über: Liberia : Firestone Konzession" target="_blank">19 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141405/1460xx/146019/about.de.html))
 
 

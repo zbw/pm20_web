@@ -25,12 +25,12 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A4 Western Europe [**&nearr;**](../../../geo/i/140897/about.en.html "Western Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A4 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140897,144799" title="about: Western Europe : Martial law, general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140897,144799))
+- A4 Western Europe [**&nearr;**](../../../geo/i/140897/about.en.html "Western Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A4 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140897,144799" title="about: Western Europe : Martial law, general" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1408xx/140897/1447xx/144799/about.en.html))
 
 ### Asia
 
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144799" title="about: Japan : Martial law, general" target="_blank">26 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144799))
-- B112 Japanese Empire [**&nearr;**](../../../geo/i/141273/about.en.html "Japanese Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#B112 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141273,144799" title="about: Japanese Empire : Martial law, general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141273,144799))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144799" title="about: Japan : Martial law, general" target="_blank">26 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1447xx/144799/about.en.html))
+- B112 Japanese Empire [**&nearr;**](../../../geo/i/141273/about.en.html "Japanese Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#B112 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141273,144799" title="about: Japanese Empire : Martial law, general" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1412xx/141273/1447xx/144799/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

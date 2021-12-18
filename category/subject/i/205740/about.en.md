@@ -25,8 +25,8 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,205740" title="about: Germany : Administration general, Institutions" target="_blank">8 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,205740))
-- A32 Portugal [**&nearr;**](../../../geo/i/140987/about.en.html "Portugal (all folders)") [**&uarr;**](../../../geo/about.en.html#A32 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140987,205740" title="about: Portugal : Administration general, Institutions" target="_blank">31 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140987,205740))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,205740" title="about: Germany : Administration general, Institutions" target="_blank">8 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/2057xx/205740/about.en.html))
+- A32 Portugal [**&nearr;**](../../../geo/i/140987/about.en.html "Portugal (all folders)") [**&uarr;**](../../../geo/about.en.html#A32 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140987,205740" title="about: Portugal : Administration general, Institutions" target="_blank">31 documents</a>) ([folder](../../../../folder/sh/1409xx/140987/2057xx/205740/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

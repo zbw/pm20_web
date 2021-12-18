@@ -22,7 +22,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145145" title="about: Hamburg : Crafts, pottery, stone products, glazing" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145145))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145145" title="about: Hamburg : Crafts, pottery, stone products, glazing" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1451xx/145145/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

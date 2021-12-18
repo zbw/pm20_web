@@ -26,6 +26,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 ### Bevölkerung und Bevölkerungspolitik
 
 - [d1 Bevölkerungsbewegung, Bevölkerungsstatistik]{.gray}
-  - d1 Sm4.II Nationale Angehörige im Ausland, in einzelnen Ländern [**&nearr;**](../../../subject/i/144224/about.de.html "Nationale Angehörige im Ausland, in einzelnen Ländern (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#d1_Sm4.II "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141681,144224" title="über: Honduras : Nationale Angehörige im Ausland, in einzelnen Ländern" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141681,144224))
+  - d1 Sm4.II Nationale Angehörige im Ausland, in einzelnen Ländern [**&nearr;**](../../../subject/i/144224/about.de.html "Nationale Angehörige im Ausland, in einzelnen Ländern (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#d1_Sm4.II "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141681,144224" title="über: Honduras : Nationale Angehörige im Ausland, in einzelnen Ländern" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141681/1442xx/144224/about.de.html))
 
 

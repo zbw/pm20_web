@@ -22,7 +22,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- H World [**&nearr;**](../../../geo/i/141728/about.en.html "World (all folders)") [**&uarr;**](../../../geo/about.en.html#H "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141728,144201" title="about: World : Himalayas expeditions" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141728,144201))
+- H World [**&nearr;**](../../../geo/i/141728/about.en.html "World (all folders)") [**&uarr;**](../../../geo/about.en.html#H "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141728,144201" title="about: World : Himalayas expeditions" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1417xx/141728/1442xx/144201/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

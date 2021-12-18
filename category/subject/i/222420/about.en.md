@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Asia
 
-- B112 Japanese Empire [**&nearr;**](../../../geo/i/141273/about.en.html "Japanese Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#B112 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141273,222420" title="about: Japanese Empire : Business, conferences" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141273,222420))
+- B112 Japanese Empire [**&nearr;**](../../../geo/i/141273/about.en.html "Japanese Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#B112 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141273,222420" title="about: Japanese Empire : Business, conferences" target="_blank">4 documents</a>) ([folder](../../../../folder/sh/1412xx/141273/2224xx/222420/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

@@ -22,11 +22,11 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- B24 Syria [**&nearr;**](../../../geo/i/141114/about.en.html "Syria (all folders)") [**&uarr;**](../../../geo/about.en.html#B24 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141114,145603" title="about: Syria : Shipping traffic statistics (overviews)" target="_blank">4 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141114,145603))
+- B24 Syria [**&nearr;**](../../../geo/i/141114/about.en.html "Syria (all folders)") [**&uarr;**](../../../geo/about.en.html#B24 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141114,145603" title="about: Syria : Shipping traffic statistics (overviews)" target="_blank">4 documents</a>) ([folder](../../../../folder/sh/1411xx/141114/1456xx/145603/about.en.html))
 
 ### Australia and Oceania
 
-- D2 Pacific rim [**&nearr;**](../../../geo/i/141593/about.en.html "Pacific rim (all folders)") [**&uarr;**](../../../geo/about.en.html#D2 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141593,145603" title="about: Pacific rim : Shipping traffic statistics (overviews)" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141593,145603))
+- D2 Pacific rim [**&nearr;**](../../../geo/i/141593/about.en.html "Pacific rim (all folders)") [**&uarr;**](../../../geo/about.en.html#D2 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141593,145603" title="about: Pacific rim : Shipping traffic statistics (overviews)" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1415xx/141593/1456xx/145603/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

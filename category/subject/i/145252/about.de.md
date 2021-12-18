@@ -25,11 +25,11 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145252" title="über: Hamburg : Miete und Mieterfragen, Mietrechtsfragen" target="_blank">69 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,145252))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145252" title="über: Hamburg : Miete und Mieterfragen, Mietrechtsfragen" target="_blank">69 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1452xx/145252/about.de.html))
 
 ### Asien
 
-- B21 Türkei (1923 -) [**&nearr;**](../../../geo/i/141111/about.de.html "Türkei (1923 -) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B21 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145252" title="über: Türkei (1923 -) : Miete und Mieterfragen, Mietrechtsfragen" target="_blank">15 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,145252))
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145252" title="über: Japan : Miete und Mieterfragen, Mietrechtsfragen" target="_blank">7 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,145252))
+- B21 Türkei (1923 -) [**&nearr;**](../../../geo/i/141111/about.de.html "Türkei (1923 -) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B21 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145252" title="über: Türkei (1923 -) : Miete und Mieterfragen, Mietrechtsfragen" target="_blank">15 Dokumente</a>) ([Mappe](../../../../folder/sh/1411xx/141111/1452xx/145252/about.de.html))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145252" title="über: Japan : Miete und Mieterfragen, Mietrechtsfragen" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141272/1452xx/145252/about.de.html))
 
 

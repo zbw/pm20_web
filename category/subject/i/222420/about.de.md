@@ -25,6 +25,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Asien
 
-- B112 Japanische Kolonien [**&nearr;**](../../../geo/i/141273/about.de.html "Japanische Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B112 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141273,222420" title="über: Japanische Kolonien : Wirtschaft, Konferenzen" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141273,222420))
+- B112 Japanische Kolonien [**&nearr;**](../../../geo/i/141273/about.de.html "Japanische Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B112 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141273,222420" title="über: Japanische Kolonien : Wirtschaft, Konferenzen" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141273/2224xx/222420/about.de.html))
 
 

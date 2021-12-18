@@ -22,11 +22,11 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- A3 Eastern Europe [**&nearr;**](../../../geo/i/140896/about.en.html "Eastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A3 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140896,163245" title="about: Eastern Europe : National capital investments" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140896,163245))
+- A3 Eastern Europe [**&nearr;**](../../../geo/i/140896/about.en.html "Eastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A3 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140896,163245" title="about: Eastern Europe : National capital investments" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1408xx/140896/1632xx/163245/about.en.html))
 
 ### Africa
 
-- C58 Togoland [**&nearr;**](../../../geo/i/141408/about.en.html "Togoland (all folders)") [**&uarr;**](../../../geo/about.en.html#C58 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141408,163245" title="about: Togoland : National capital investments" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141408,163245))
+- C58 Togoland [**&nearr;**](../../../geo/i/141408/about.en.html "Togoland (all folders)") [**&uarr;**](../../../geo/about.en.html#C58 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141408,163245" title="about: Togoland : National capital investments" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1414xx/141408/1632xx/163245/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

@@ -25,6 +25,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Afrika
 
-- C27 Tanger [**&nearr;**](../../../geo/i/141360/about.de.html "Tanger (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C27 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141360,144480" title="über: Tanger : Wirtschaftskrieg, Zahlungsverbote u. Aufhebg. v. Lieferungsvertr. ggü. Angehör. einz. Länder" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141360,144480))
+- C27 Tanger [**&nearr;**](../../../geo/i/141360/about.de.html "Tanger (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C27 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141360,144480" title="über: Tanger : Wirtschaftskrieg, Zahlungsverbote u. Aufhebg. v. Lieferungsvertr. ggü. Angehör. einz. Länder" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1413xx/141360/1444xx/144480/about.de.html))
 
 

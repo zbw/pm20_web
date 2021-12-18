@@ -14,7 +14,7 @@ fn-stub: about
 
 
 
-In total 1 subject folders, 176 documents - folders incomplete.
+In total 1 subject folders, 177 documents - folders incomplete.
 For material not published as folders, please check the [digitized films](/film/h1_sh) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Africa
 
-- C125 Abyssinia [**&nearr;**](../../../geo/i/141482/about.en.html "Abyssinia (all folders)") [**&uarr;**](../../../geo/about.en.html#C125 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141482,146024" title="about: Abyssinia : Lake Tana project (Lake Tana)" target="_blank">176 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141482,146024))
+- C125 Abyssinia [**&nearr;**](../../../geo/i/141482/about.en.html "Abyssinia (all folders)") [**&uarr;**](../../../geo/about.en.html#C125 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141482,146024" title="about: Abyssinia : Lake Tana project (Lake Tana)" target="_blank">177 documents</a>) ([folder](../../../../folder/sh/1414xx/141482/1460xx/146024/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

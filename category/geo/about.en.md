@@ -2,8 +2,8 @@
 title: "Folders by Country Category System"
 etr: category_overview/geo
 modified: 2021-03-13
-backlink: ../../about.en.html
-backlink-title: "Home"
+backlink: ../about.en.html
+backlink-title: "Folders by Category system"
 fn-stub: about
 ---
 
@@ -13,7 +13,7 @@ fn-stub: about
 
 
 
-In total 147 categories, 9204 subject folders.
+In total 147 categories, 9201 subject folders.
 
 
 Of the PM20 Länder-/Sacharchiv up to 1949, only a rough estimate of one-fifth
@@ -74,10 +74,10 @@ is available online.
 - [B18 Cyprus](i/141079/about.en.html) (31 subject folders)<a name='B18'></a>
 - [B19 Rhodes and Dodecanese](i/141106/about.en.html) (complete, 52 subject folders)<a name='B19'></a>
 - [B20 Anatolia](i/141108/about.en.html) (complete, 39 subject folders)<a name='B20'></a>
-- [B21 Turkey](i/141111/about.en.html) (complete, 611 subject folders)<a name='B21'></a>
+- [B21 Turkey](i/141111/about.en.html) (complete, 610 subject folders)<a name='B21'></a>
 - [B22 Armenians in Turkey](i/141112/about.en.html) (complete, 56 subject folders)<a name='B22'></a>
 - [B23 Iraq](i/141113/about.en.html) (complete, 221 subject folders)<a name='B23'></a>
-- [B24 Syria](i/141114/about.en.html) (complete, 252 subject folders)<a name='B24'></a>
+- [B24 Syria](i/141114/about.en.html) (complete, 250 subject folders)<a name='B24'></a>
 - [B24a Palestine](i/141115/about.en.html) (complete, 319 subject folders)<a name='B24a'></a>
 - [B24b Jordan (Kingdom)](i/141116/about.en.html) (23 subject folders)<a name='B24b'></a>
 - [B40 Iran](i/141186/about.en.html) (3 subject folders)<a name='B40'></a>

@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Africa
 
-- C26 Spanish protectorate in Morocco [**&nearr;**](../../../geo/i/141359/about.en.html "Spanish protectorate in Morocco (all folders)") [**&uarr;**](../../../geo/about.en.html#C26 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141359,144693" title="about: Spanish protectorate in Morocco : War measures" target="_blank">8 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141359,144693))
+- C26 Spanish protectorate in Morocco [**&nearr;**](../../../geo/i/141359/about.en.html "Spanish protectorate in Morocco (all folders)") [**&uarr;**](../../../geo/about.en.html#C26 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141359,144693" title="about: Spanish protectorate in Morocco : War measures" target="_blank">8 documents</a>) ([folder](../../../../folder/sh/1413xx/141359/1446xx/144693/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

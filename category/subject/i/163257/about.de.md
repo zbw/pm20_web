@@ -25,6 +25,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Afrika
 
-- C125 Abessinien [**&nearr;**](../../../geo/i/141482/about.de.html "Abessinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C125 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141482,163257" title="über: Abessinien : Fremdländische Kapitalanlagen, privatwirtschaftliche Interessen" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141482,163257))
+- C125 Abessinien [**&nearr;**](../../../geo/i/141482/about.de.html "Abessinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C125 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141482,163257" title="über: Abessinien : Fremdländische Kapitalanlagen, privatwirtschaftliche Interessen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141482/1632xx/163257/about.de.html))
 
 

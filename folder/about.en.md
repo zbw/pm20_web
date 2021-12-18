@@ -1,5 +1,5 @@
 ---
-title: "Folders | ZBW Press Archives"
+title: "Folders"
 backlink: ../about.en.html
 backlink-title: "Home"
 fn-stub: about

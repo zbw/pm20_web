@@ -14,7 +14,7 @@ fn-stub: about
 
 
 
-In total 2 subject folders, 79 documents - folders incomplete.
+In total 2 subject folders, 139 documents - folders incomplete.
 For material not published as folders, please check the [digitized films](/film/h1_sh) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
@@ -25,11 +25,11 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144914" title="about: Hamburg : Fee system" target="_blank">78 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,144914))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144914" title="about: Hamburg : Fee system" target="_blank">138 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1449xx/144914/about.en.html))
 
 ### Asia
 
-- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,144914" title="about: Turkey : Fee system" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141111,144914))
+- B21 Turkey [**&nearr;**](../../../geo/i/141111/about.en.html "Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B21 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,144914" title="about: Turkey : Fee system" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1411xx/141111/1449xx/144914/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

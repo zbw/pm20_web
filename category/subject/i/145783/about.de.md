@@ -13,7 +13,7 @@ fn-stub: about
 
 
 
-Insgesamt 4 Sach-Mappen, 21 Dokumente - Mappen unvollständig.
+Insgesamt 4 Sach-Mappen, 22 Dokumente - Mappen unvollständig.
 Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
@@ -22,12 +22,12 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 
 
-- A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,145783" title="über: Europa : Berufe, Berufserziehung, Allgemein" target="_blank">0 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140892,145783))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145783" title="über: Hamburg : Berufe, Berufserziehung, Allgemein" target="_blank">11 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,145783))
+- A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,145783" title="über: Europa : Berufe, Berufserziehung, Allgemein" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1457xx/145783/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145783" title="über: Hamburg : Berufe, Berufserziehung, Allgemein" target="_blank">12 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1457xx/145783/about.de.html))
 
 ### Asien
 
-- B21 Türkei (1923 -) [**&nearr;**](../../../geo/i/141111/about.de.html "Türkei (1923 -) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B21 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145783" title="über: Türkei (1923 -) : Berufe, Berufserziehung, Allgemein" target="_blank">5 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,145783))
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145783" title="über: Japan : Berufe, Berufserziehung, Allgemein" target="_blank">5 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,145783))
+- B21 Türkei (1923 -) [**&nearr;**](../../../geo/i/141111/about.de.html "Türkei (1923 -) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B21 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,145783" title="über: Türkei (1923 -) : Berufe, Berufserziehung, Allgemein" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/sh/1411xx/141111/1457xx/145783/about.de.html))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145783" title="über: Japan : Berufe, Berufserziehung, Allgemein" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141272/1457xx/145783/about.de.html))
 
 

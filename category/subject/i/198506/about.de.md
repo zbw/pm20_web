@@ -25,14 +25,14 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Asien
 
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,198506" title="über: Japan : Nachkriegsschicksale deutscher Handelsschiffe" target="_blank">8 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,198506))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,198506" title="über: Japan : Nachkriegsschicksale deutscher Handelsschiffe" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141272/1985xx/198506/about.de.html))
 
 ### Afrika
 
-- C110 Deutsch-Ostafrika [**&nearr;**](../../../geo/i/141471/about.de.html "Deutsch-Ostafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C110 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141471,198506" title="über: Deutsch-Ostafrika : Nachkriegsschicksale deutscher Handelsschiffe" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141471,198506))
+- C110 Deutsch-Ostafrika [**&nearr;**](../../../geo/i/141471/about.de.html "Deutsch-Ostafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C110 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141471,198506" title="über: Deutsch-Ostafrika : Nachkriegsschicksale deutscher Handelsschiffe" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141471/1985xx/198506/about.de.html))
 
 ### Amerika
 
-- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,198506" title="über: Argentinien : Nachkriegsschicksale deutscher Handelsschiffe" target="_blank">13 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,198506))
+- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,198506" title="über: Argentinien : Nachkriegsschicksale deutscher Handelsschiffe" target="_blank">13 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1985xx/198506/about.de.html))
 
 

@@ -14,7 +14,7 @@ fn-stub: about
 
 
 
-In total 2 subject folders, 28 documents - folders incomplete.
+In total 2 subject folders, 30 documents - folders incomplete.
 For material not published as folders, please check the [digitized films](/film/h1_sh) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
@@ -25,11 +25,11 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144742" title="about: Hamburg : Compulsory further education (later vocational school, trade school (not technical schools))" target="_blank">27 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,144742))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144742" title="about: Hamburg : Compulsory further education (later vocational school, trade school (not technical schools))" target="_blank">29 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1447xx/144742/about.en.html))
 
 ### Asia
 
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144742" title="about: Japan : Compulsory further education (later vocational school, trade school (not technical schools))" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144742))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144742" title="about: Japan : Compulsory further education (later vocational school, trade school (not technical schools))" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1447xx/144742/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

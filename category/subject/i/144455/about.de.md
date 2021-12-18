@@ -25,16 +25,16 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Asien
 
-- B23 Irak [**&nearr;**](../../../geo/i/141113/about.de.html "Irak (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B23 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141113,144455" title="über: Irak : Grenzfragen" target="_blank">50 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141113,144455))
-- B24 Syrien [**&nearr;**](../../../geo/i/141114/about.de.html "Syrien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B24 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141114,144455" title="über: Syrien : Grenzfragen" target="_blank">41 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141114,144455))
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144455" title="über: Japan : Grenzfragen" target="_blank">8 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144455))
+- B23 Irak [**&nearr;**](../../../geo/i/141113/about.de.html "Irak (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B23 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141113,144455" title="über: Irak : Grenzfragen" target="_blank">50 Dokumente</a>) ([Mappe](../../../../folder/sh/1411xx/141113/1444xx/144455/about.de.html))
+- B24 Syrien [**&nearr;**](../../../geo/i/141114/about.de.html "Syrien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B24 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141114,144455" title="über: Syrien : Grenzfragen" target="_blank">41 Dokumente</a>) ([Mappe](../../../../folder/sh/1411xx/141114/1444xx/144455/about.de.html))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144455" title="über: Japan : Grenzfragen" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141272/1444xx/144455/about.de.html))
 
 ### Afrika
 
-- C87 Deutsch-Südwestafrika [**&nearr;**](../../../geo/i/141450/about.de.html "Deutsch-Südwestafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C87 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141450,144455" title="über: Deutsch-Südwestafrika : Grenzfragen" target="_blank">22 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141450,144455))
+- C87 Deutsch-Südwestafrika [**&nearr;**](../../../geo/i/141450/about.de.html "Deutsch-Südwestafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C87 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141450,144455" title="über: Deutsch-Südwestafrika : Grenzfragen" target="_blank">22 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141450/1444xx/144455/about.de.html))
 
 ### Amerika
 
-- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144455" title="über: Argentinien : Grenzfragen" target="_blank">65 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,144455))
+- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144455" title="über: Argentinien : Grenzfragen" target="_blank">65 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1444xx/144455/about.de.html))
 
 

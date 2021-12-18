@@ -25,6 +25,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- A10p Polnisch-Schlesien [**&nearr;**](../../../geo/i/140951/about.de.html "Polnisch-Schlesien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10p "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140951,145171" title="über: Polnisch-Schlesien : Arbeitsverhältnisse, Akkordarbeit" target="_blank">12 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140951,145171))
+- A10p Polnisch-Schlesien [**&nearr;**](../../../geo/i/140951/about.de.html "Polnisch-Schlesien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10p "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140951,145171" title="über: Polnisch-Schlesien : Arbeitsverhältnisse, Akkordarbeit" target="_blank">12 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140951/1451xx/145171/about.de.html))
 
 

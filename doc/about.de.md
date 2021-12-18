@@ -1,5 +1,5 @@
 ---
-title: "Dokumentation | ZBW Pressearchive"
+title: "Dokumentation"
 etr: doc
 backlink: ../about.de.html
 backlink-title: Home

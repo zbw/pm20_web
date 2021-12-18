@@ -25,12 +25,12 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A4 Western Europe [**&nearr;**](../../../geo/i/140897/about.en.html "Western Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A4 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140897,144933" title="about: Western Europe : Promotion of raw material imports from the colonies" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140897,144933))
-- A36 Italian Empire [**&nearr;**](../../../geo/i/141012/about.en.html "Italian Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A36 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141012,144933" title="about: Italian Empire : Promotion of raw material imports from the colonies" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141012,144933))
+- A4 Western Europe [**&nearr;**](../../../geo/i/140897/about.en.html "Western Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A4 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140897,144933" title="about: Western Europe : Promotion of raw material imports from the colonies" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1408xx/140897/1449xx/144933/about.en.html))
+- A36 Italian Empire [**&nearr;**](../../../geo/i/141012/about.en.html "Italian Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A36 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141012,144933" title="about: Italian Empire : Promotion of raw material imports from the colonies" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1410xx/141012/1449xx/144933/about.en.html))
 
 ### Asia
 
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144933" title="about: Japan : Promotion of raw material imports from the colonies" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,144933))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144933" title="about: Japan : Promotion of raw material imports from the colonies" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1449xx/144933/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

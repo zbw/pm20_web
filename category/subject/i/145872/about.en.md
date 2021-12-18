@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Africa
 
-- C25 French protectorate in Morocco [**&nearr;**](../../../geo/i/141358/about.en.html "French protectorate in Morocco (all folders)") [**&uarr;**](../../../geo/about.en.html#C25 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141358,145872" title="about: French protectorate in Morocco : Mannesmann concessions" target="_blank">27 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141358,145872))
+- C25 French protectorate in Morocco [**&nearr;**](../../../geo/i/141358/about.en.html "French protectorate in Morocco (all folders)") [**&uarr;**](../../../geo/about.en.html#C25 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141358,145872" title="about: French protectorate in Morocco : Mannesmann concessions" target="_blank">27 documents</a>) ([folder](../../../../folder/sh/1413xx/141358/1458xx/145872/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

@@ -24,7 +24,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Literature
 
-- a Literature, general [**&nearr;**](../../../subject/i/142393/about.en.html "Literature, general (all over the world)") [**&uarr;**](../../../subject/about.en.html#a "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141701,142393" title="about: Polar region : Literature, general" target="_blank">47 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141701,142393))
+- a Literature, general [**&nearr;**](../../../subject/i/142393/about.en.html "Literature, general (all over the world)") [**&uarr;**](../../../subject/about.en.html#a "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141701,142393" title="about: Polar region : Literature, general" target="_blank">47 documents</a>) ([folder](../../../../folder/sh/1417xx/141701/1423xx/142393/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

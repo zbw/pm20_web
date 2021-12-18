@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,144307" title="about: Germany : Party positions on the World War; Haller's Army" target="_blank">14 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/126128,144307))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,144307" title="about: Germany : Party positions on the World War; Haller's Army" target="_blank">14 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1443xx/144307/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

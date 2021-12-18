@@ -1,5 +1,5 @@
 ---
-title: "k1_sh: Sacharchiv 1. Verfilmung | ZBW Pressearchive"
+title: "k1_sh: Sacharchiv 1. Verfilmung"
 etr: filmlist/sh
 backlink: ./about.de.html
 backlink-title: Film-Überblick

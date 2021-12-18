@@ -26,7 +26,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### Economy
 
 - [n12 Mining]{.gray}
-  - n12 Sm8.II Foreign rights and equity investments in mining, in individual countries [**&nearr;**](../../../subject/i/145092/about.en.html "Foreign rights and equity investments in mining, in individual countries (all over the world)") [**&uarr;**](../../../subject/about.en.html#n12_Sm8.II "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140968,145092" title="about: Sweden : Foreign rights and equity investments in mining, in individual countries" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140968,145092))
+  - n12 Sm8.II Foreign rights and equity investments in mining, in individual countries [**&nearr;**](../../../subject/i/145092/about.en.html "Foreign rights and equity investments in mining, in individual countries (all over the world)") [**&uarr;**](../../../subject/about.en.html#n12_Sm8.II "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140968,145092" title="about: Sweden : Foreign rights and equity investments in mining, in individual countries" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1409xx/140968/1450xx/145092/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

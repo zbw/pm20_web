@@ -22,6 +22,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 
 
-- A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,145968" title="über: Deutschland : Rätesystem, Einzelne Räte" target="_blank">173 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/126128,145968))
+- A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,145968" title="über: Deutschland : Rätesystem, Einzelne Räte" target="_blank">173 Dokumente</a>) ([Mappe](../../../../folder/sh/1261xx/126128/1459xx/145968/about.de.html))
 
 

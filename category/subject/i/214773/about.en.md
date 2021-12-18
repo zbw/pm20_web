@@ -22,7 +22,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,214773" title="about: Argentina : Civil service, conferences" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,214773))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,214773" title="about: Argentina : Civil service, conferences" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/2147xx/214773/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

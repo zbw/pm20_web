@@ -25,6 +25,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Asien
 
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144490" title="über: Japan : Ausfuhrförderung im Dreiecksverfahren (Import - Fabrik - Export)" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,144490))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144490" title="über: Japan : Ausfuhrförderung im Dreiecksverfahren (Import - Fabrik - Export)" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141272/1444xx/144490/about.de.html))
 
 

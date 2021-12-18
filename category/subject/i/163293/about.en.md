@@ -22,7 +22,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- E102 British Guiana [**&nearr;**](../../../geo/i/141700/about.en.html "British Guiana (all folders)") [**&uarr;**](../../../geo/about.en.html#E102 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141700,163293" title="about: British Guiana : External dept" target="_blank">3 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141700,163293))
+- E102 British Guiana [**&nearr;**](../../../geo/i/141700/about.en.html "British Guiana (all folders)") [**&uarr;**](../../../geo/about.en.html#E102 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141700,163293" title="about: British Guiana : External dept" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1417xx/141700/1632xx/163293/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

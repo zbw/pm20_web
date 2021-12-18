@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A5a Mediterranean region [**&nearr;**](../../../geo/i/140899/about.en.html "Mediterranean region (all folders)") [**&uarr;**](../../../geo/about.en.html#A5a "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140899,145742" title="about: Mediterranean region : Air damage insurance" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140899,145742))
+- A5a Mediterranean region [**&nearr;**](../../../geo/i/140899/about.en.html "Mediterranean region (all folders)") [**&uarr;**](../../../geo/about.en.html#A5a "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140899,145742" title="about: Mediterranean region : Air damage insurance" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1408xx/140899/1457xx/145742/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

@@ -25,6 +25,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Afrika
 
-- C87 Deutsch-Südwestafrika [**&nearr;**](../../../geo/i/141450/about.de.html "Deutsch-Südwestafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C87 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141450,144227" title="über: Deutsch-Südwestafrika : Buschmänner" target="_blank">14 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141450,144227))
+- C87 Deutsch-Südwestafrika [**&nearr;**](../../../geo/i/141450/about.de.html "Deutsch-Südwestafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C87 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141450,144227" title="über: Deutsch-Südwestafrika : Buschmänner" target="_blank">14 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141450/1442xx/144227/about.de.html))
 
 

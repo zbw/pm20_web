@@ -22,11 +22,11 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- C25 French protectorate in Morocco [**&nearr;**](../../../geo/i/141358/about.en.html "French protectorate in Morocco (all folders)") [**&uarr;**](../../../geo/about.en.html#C25 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141358,144296" title="about: French protectorate in Morocco : Separation of church and state" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141358,144296))
+- C25 French protectorate in Morocco [**&nearr;**](../../../geo/i/141358/about.en.html "French protectorate in Morocco (all folders)") [**&uarr;**](../../../geo/about.en.html#C25 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141358,144296" title="about: French protectorate in Morocco : Separation of church and state" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1413xx/141358/1442xx/144296/about.en.html))
 
 ### America
 
-- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144296" title="about: Argentina : Separation of church and state" target="_blank">7 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,144296))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144296" title="about: Argentina : Separation of church and state" target="_blank">7 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1442xx/144296/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

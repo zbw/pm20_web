@@ -14,7 +14,7 @@ fn-stub: about
 
 
 
-In total 1 subject folders, 2 documents - folders incomplete.
+In total 1 subject folders, 3 documents - folders incomplete.
 For material not published as folders, please check the [digitized films](/film/h1_sh) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144731" title="about: Hamburg : Individual academic professions, chemists" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,144731))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144731" title="about: Hamburg : Individual academic professions, chemists" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1447xx/144731/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

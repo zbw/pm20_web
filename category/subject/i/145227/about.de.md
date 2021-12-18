@@ -25,11 +25,11 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Asien
 
-- B102 Hongkong [**&nearr;**](../../../geo/i/141268/about.de.html "Hongkong (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B102 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141268,145227" title="über: Hongkong : Arbeitnehmerverhältnisse, Schiffahrt und Hafenbetrieb, Allgemein" target="_blank">22 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141268,145227))
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145227" title="über: Japan : Arbeitnehmerverhältnisse, Schiffahrt und Hafenbetrieb, Allgemein" target="_blank">8 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141272,145227))
+- B102 Hongkong [**&nearr;**](../../../geo/i/141268/about.de.html "Hongkong (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B102 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141268,145227" title="über: Hongkong : Arbeitnehmerverhältnisse, Schiffahrt und Hafenbetrieb, Allgemein" target="_blank">22 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141268/1452xx/145227/about.de.html))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145227" title="über: Japan : Arbeitnehmerverhältnisse, Schiffahrt und Hafenbetrieb, Allgemein" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141272/1452xx/145227/about.de.html))
 
 ### Amerika
 
-- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145227" title="über: Argentinien : Arbeitnehmerverhältnisse, Schiffahrt und Hafenbetrieb, Allgemein" target="_blank">11 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141692,145227))
+- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145227" title="über: Argentinien : Arbeitnehmerverhältnisse, Schiffahrt und Hafenbetrieb, Allgemein" target="_blank">11 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1452xx/145227/about.de.html))
 
 

@@ -25,6 +25,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Australien und Ozeanien
 
-- D2 Pazifischer Raum [**&nearr;**](../../../geo/i/141593/about.de.html "Pazifischer Raum (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#D2 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141593,144256" title="über: Pazifischer Raum : Dichtung, Musik, Theater" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141593,144256))
+- D2 Pazifischer Raum [**&nearr;**](../../../geo/i/141593/about.de.html "Pazifischer Raum (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#D2 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141593,144256" title="über: Pazifischer Raum : Dichtung, Musik, Theater" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1415xx/141593/1442xx/144256/about.de.html))
 
 

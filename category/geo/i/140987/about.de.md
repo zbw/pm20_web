@@ -26,6 +26,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 ### Verwaltung
 
 - [h Verwaltung, Allgemein]{.gray}
-  - h Sm50 Verwaltung, Institutionen [**&nearr;**](../../../subject/i/205740/about.de.html "Verwaltung, Institutionen (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#h_Sm50 "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140987,205740" title="über: Portugal : Verwaltung, Institutionen" target="_blank">31 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140987,205740))
+  - h Sm50 Verwaltung, Institutionen [**&nearr;**](../../../subject/i/205740/about.de.html "Verwaltung, Institutionen (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#h_Sm50 "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140987,205740" title="über: Portugal : Verwaltung, Institutionen" target="_blank">31 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140987/2057xx/205740/about.de.html))
 
 

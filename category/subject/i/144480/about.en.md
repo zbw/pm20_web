@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Africa
 
-- C27 Tangier [**&nearr;**](../../../geo/i/141360/about.en.html "Tangier (all folders)") [**&uarr;**](../../../geo/about.en.html#C27 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141360,144480" title="about: Tangier : Economic war, payment bans and cancellation of supply contracts of individual foreigners" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141360,144480))
+- C27 Tangier [**&nearr;**](../../../geo/i/141360/about.en.html "Tangier (all folders)") [**&uarr;**](../../../geo/about.en.html#C27 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141360,144480" title="about: Tangier : Economic war, payment bans and cancellation of supply contracts of individual foreigners" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1413xx/141360/1444xx/144480/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

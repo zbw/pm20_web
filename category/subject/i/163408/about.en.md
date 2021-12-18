@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A43 Ottoman Empire [**&nearr;**](../../../geo/i/141034/about.en.html "Ottoman Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A43 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141034,163408" title="about: Ottoman Empire : Economic war, payment bans and cancellation of supply agreements" target="_blank">10 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141034,163408))
+- A43 Ottoman Empire [**&nearr;**](../../../geo/i/141034/about.en.html "Ottoman Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A43 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141034,163408" title="about: Ottoman Empire : Economic war, payment bans and cancellation of supply agreements" target="_blank">10 documents</a>) ([folder](../../../../folder/sh/1410xx/141034/1634xx/163408/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

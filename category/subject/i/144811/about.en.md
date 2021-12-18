@@ -25,7 +25,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,144811" title="about: Southeastern Europe : Numerical war and revolution compensation claims and benefits, general" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140900,144811))
+- A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,144811" title="about: Southeastern Europe : Numerical war and revolution compensation claims and benefits, general" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1448xx/144811/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

@@ -27,6 +27,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Asien
 
-- B23 Irak [**&nearr;**](../../../geo/i/141113/about.de.html "Irak (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B23 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141113,146014" title="über: Irak : Mossulfrage" target="_blank">317 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141113,146014))
+- B23 Irak [**&nearr;**](../../../geo/i/141113/about.de.html "Irak (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B23 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141113,146014" title="über: Irak : Mossulfrage" target="_blank">317 Dokumente</a>) ([Mappe](../../../../folder/sh/1411xx/141113/1460xx/146014/about.de.html))
 
 

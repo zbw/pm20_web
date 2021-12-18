@@ -22,15 +22,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 
 
-- B21 Türkei (1923 -) [**&nearr;**](../../../geo/i/141111/about.de.html "Türkei (1923 -) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B21 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,163269" title="über: Türkei (1923 -) : Zollformalitäten" target="_blank">49 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141111,163269))
+- B21 Türkei (1923 -) [**&nearr;**](../../../geo/i/141111/about.de.html "Türkei (1923 -) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B21 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141111,163269" title="über: Türkei (1923 -) : Zollformalitäten" target="_blank">49 Dokumente</a>) ([Mappe](../../../../folder/sh/1411xx/141111/1632xx/163269/about.de.html))
 
 ### Afrika
 
-- C70 Spanisch-Guinea [**&nearr;**](../../../geo/i/141412/about.de.html "Spanisch-Guinea (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C70 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141412,163269" title="über: Spanisch-Guinea : Zollformalitäten" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141412,163269))
-- C87 Deutsch-Südwestafrika [**&nearr;**](../../../geo/i/141450/about.de.html "Deutsch-Südwestafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C87 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141450,163269" title="über: Deutsch-Südwestafrika : Zollformalitäten" target="_blank">3 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141450,163269))
+- C70 Spanisch-Guinea [**&nearr;**](../../../geo/i/141412/about.de.html "Spanisch-Guinea (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C70 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141412,163269" title="über: Spanisch-Guinea : Zollformalitäten" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141412/1632xx/163269/about.de.html))
+- C87 Deutsch-Südwestafrika [**&nearr;**](../../../geo/i/141450/about.de.html "Deutsch-Südwestafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C87 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141450,163269" title="über: Deutsch-Südwestafrika : Zollformalitäten" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141450/1632xx/163269/about.de.html))
 
 ### Amerika
 
-- E102 Britisch-Guayana [**&nearr;**](../../../geo/i/141700/about.de.html "Britisch-Guayana (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E102 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141700,163269" title="über: Britisch-Guayana : Zollformalitäten" target="_blank">4 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141700,163269))
+- E102 Britisch-Guayana [**&nearr;**](../../../geo/i/141700/about.de.html "Britisch-Guayana (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E102 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141700,163269" title="über: Britisch-Guayana : Zollformalitäten" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1417xx/141700/1632xx/163269/about.de.html))
 
 

@@ -25,6 +25,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Wirtschaft
 
-- n19 Handelsbeziehungen zu einzelnen Ländern [**&nearr;**](../../../subject/i/145289/about.de.html "Handelsbeziehungen zu einzelnen Ländern (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n19 "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140098,145289" title="über: Böhmen und Mähren (Reichsprotektorat) : Handelsbeziehungen zu einzelnen Ländern" target="_blank">1 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140098,145289))
+- n19 Handelsbeziehungen zu einzelnen Ländern [**&nearr;**](../../../subject/i/145289/about.de.html "Handelsbeziehungen zu einzelnen Ländern (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n19 "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140098,145289" title="über: Böhmen und Mähren (Reichsprotektorat) : Handelsbeziehungen zu einzelnen Ländern" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1400xx/140098/1452xx/145289/about.de.html))
 
 

@@ -22,7 +22,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144769" title="about: Argentina : Former German and Austrian warships" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,144769))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144769" title="about: Argentina : Former German and Austrian warships" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1447xx/144769/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

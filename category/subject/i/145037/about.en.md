@@ -14,7 +14,7 @@ fn-stub: about
 
 
 
-In total 4 subject folders, 57 documents - folders incomplete.
+In total 4 subject folders, 58 documents - folders incomplete.
 For material not published as folders, please check the [digitized films](/film/h1_sh) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
@@ -22,16 +22,16 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ## Subject archives
 
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145037" title="about: Hamburg : Land prices (overviews)" target="_blank">19 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140905,145037))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145037" title="about: Hamburg : Land prices (overviews)" target="_blank">20 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1450xx/145037/about.en.html))
 
 ### Asia
 
-- B102 Hong Kong [**&nearr;**](../../../geo/i/141268/about.en.html "Hong Kong (all folders)") [**&uarr;**](../../../geo/about.en.html#B102 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141268,145037" title="about: Hong Kong : Land prices (overviews)" target="_blank">1 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141268,145037))
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145037" title="about: Japan : Land prices (overviews)" target="_blank">17 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141272,145037))
+- B102 Hong Kong [**&nearr;**](../../../geo/i/141268/about.en.html "Hong Kong (all folders)") [**&uarr;**](../../../geo/about.en.html#B102 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141268,145037" title="about: Hong Kong : Land prices (overviews)" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1412xx/141268/1450xx/145037/about.en.html))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145037" title="about: Japan : Land prices (overviews)" target="_blank">17 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1450xx/145037/about.en.html))
 
 ### America
 
-- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145037" title="about: Argentina : Land prices (overviews)" target="_blank">20 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/141692,145037))
+- E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,145037" title="about: Argentina : Land prices (overviews)" target="_blank">20 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1450xx/145037/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._

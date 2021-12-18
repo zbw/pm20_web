@@ -25,16 +25,16 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,161846" title="über: Hamburg : Regelung der Arbeitszeit, Löhne" target="_blank">5 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140905,161846))
-- A10p Polnisch-Schlesien [**&nearr;**](../../../geo/i/140951/about.de.html "Polnisch-Schlesien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10p "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140951,161846" title="über: Polnisch-Schlesien : Regelung der Arbeitszeit, Löhne" target="_blank">7 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/140951,161846))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,161846" title="über: Hamburg : Regelung der Arbeitszeit, Löhne" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1618xx/161846/about.de.html))
+- A10p Polnisch-Schlesien [**&nearr;**](../../../geo/i/140951/about.de.html "Polnisch-Schlesien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10p "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140951,161846" title="über: Polnisch-Schlesien : Regelung der Arbeitszeit, Löhne" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140951/1618xx/161846/about.de.html))
 
 ### Asien
 
-- B24a Palästina (-1945) [**&nearr;**](../../../geo/i/141115/about.de.html "Palästina (-1945) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B24a "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,161846" title="über: Palästina (-1945) : Regelung der Arbeitszeit, Löhne" target="_blank">14 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141115,161846))
+- B24a Palästina (-1945) [**&nearr;**](../../../geo/i/141115/about.de.html "Palästina (-1945) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B24a "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141115,161846" title="über: Palästina (-1945) : Regelung der Arbeitszeit, Löhne" target="_blank">14 Dokumente</a>) ([Mappe](../../../../folder/sh/1411xx/141115/1618xx/161846/about.de.html))
 
 ### Afrika
 
-- C25 Französisch-Marokko [**&nearr;**](../../../geo/i/141358/about.de.html "Französisch-Marokko (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C25 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141358,161846" title="über: Französisch-Marokko : Regelung der Arbeitszeit, Löhne" target="_blank">7 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141358,161846))
-- C110 Deutsch-Ostafrika [**&nearr;**](../../../geo/i/141471/about.de.html "Deutsch-Ostafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C110 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141471,161846" title="über: Deutsch-Ostafrika : Regelung der Arbeitszeit, Löhne" target="_blank">12 Dokumente</a>) ([Mappe](http://purl.org/pressemappe20/folder/sh/141471,161846))
+- C25 Französisch-Marokko [**&nearr;**](../../../geo/i/141358/about.de.html "Französisch-Marokko (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C25 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141358,161846" title="über: Französisch-Marokko : Regelung der Arbeitszeit, Löhne" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/sh/1413xx/141358/1618xx/161846/about.de.html))
+- C110 Deutsch-Ostafrika [**&nearr;**](../../../geo/i/141471/about.de.html "Deutsch-Ostafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C110 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141471,161846" title="über: Deutsch-Ostafrika : Regelung der Arbeitszeit, Löhne" target="_blank">12 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141471/1618xx/161846/about.de.html))
 
 

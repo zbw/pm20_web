@@ -25,8 +25,8 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A4 Western Europe [**&nearr;**](../../../geo/i/140897/about.en.html "Western Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A4 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140897,145375" title="about: Western Europe : Borrowing of foreign countries, individual countries" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140897,145375))
-- A8 Russian peripheral countries [**&nearr;**](../../../geo/i/140904/about.en.html "Russian peripheral countries (all folders)") [**&uarr;**](../../../geo/about.en.html#A8 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140904,145375" title="about: Russian peripheral countries : Borrowing of foreign countries, individual countries" target="_blank">2 documents</a>) ([folder](http://purl.org/pressemappe20/folder/sh/140904,145375))
+- A4 Western Europe [**&nearr;**](../../../geo/i/140897/about.en.html "Western Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A4 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140897,145375" title="about: Western Europe : Borrowing of foreign countries, individual countries" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1408xx/140897/1453xx/145375/about.en.html))
+- A8 Russian peripheral countries [**&nearr;**](../../../geo/i/140904/about.en.html "Russian peripheral countries (all folders)") [**&uarr;**](../../../geo/about.en.html#A8 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140904,145375" title="about: Russian peripheral countries : Borrowing of foreign countries, individual countries" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1409xx/140904/1453xx/145375/about.en.html))
 
 
 _* The English category label is an unchecked automated translation of the German label._
