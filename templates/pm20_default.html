@@ -21,7 +21,7 @@ $if(is_en)$
   <link rel="alternate" hreflang="de" href="$fn-stub$.de.html" />
 $endif$
 $endif$
-  <title>$if(title-prefix)$$title-prefix$ – $endif$$pagetitle$</title>
+  <title>$if(title-prefix)$$title-prefix$ – $endif$$pagetitle$ | ZBW $if(is_de)$Pressearchive$endif$$if(is_en)$Press Archives$endif$</title>
   <style>
       code{white-space: pre-wrap;}
       span.smallcaps{font-variant: small-caps;}
@@ -105,7 +105,8 @@ $endif$
 $if(backlink)$
   <p><a href="$backlink$">zurück zu $backlink-title$</a></p>
 $endif$
-<p><a href="https://www.zbw.eu/de/impressum/">Impressum</a> &nbsp; <a href="https://www.zbw.eu/de/datenschutz/">Datenschutz</a></p>
+<p><a href="mailto:pressemappe20@zbw.eu?subject=Feedback%20zu%20PM20%20$pagetitle$&body=%0D%0A%0D%0A%0D%0A---%0D%0Ahttps://pm20.zbw.eu/$outputfile$">Feedback</a> &nbsp; 
+<a href="https://www.zbw.eu/de/impressum/">Impressum</a> &nbsp; <a href="https://www.zbw.eu/de/datenschutz/">Datenschutz</a> &nbsp; Alle Metadaten unter <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">CC0</a> Lizenz</p>
 </footer>
 $endif$
 $if(is_en)$
@@ -116,7 +117,8 @@ $endif$
 $if(backlink)$
   <p><a href="$backlink$">back to $backlink-title$</a></p>
 $endif$
-<p><a href="https://www.zbw.eu/en/imprint/">Imprint</a> &nbsp; <a href="https://www.zbw.eu/en/data-protection/">Data protection</a></p>
+<p><a href="mailto:pressemappe20@zbw.eu?subject=Feedback%20about%20PM20%20$pagetitle$&body=%0D%0A%0D%0A%0D%0A---%0D%0Ahttps://pm20.zbw.eu/$outputfile$">Feedback</a> &nbsp; 
+<a href="https://www.zbw.eu/en/imprint/">Imprint</a> &nbsp; <a href="https://www.zbw.eu/en/data-protection/">Data protection</a> &nbsp; All metadata under <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a> license</p>
 </footer>
 $endif$
 </body>
