@@ -1,6 +1,5 @@
 ---
 title: "Home"
-pagelink: "about.de.html"
 fn-stub: about
 ---
 

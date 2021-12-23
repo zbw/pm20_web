@@ -1,6 +1,5 @@
 ---
 title: "Mappen"
-pagelink: folder/about.de.html
 backlink: ../about.de.html
 backlink-title: "Home"
 fn-stub: about
@@ -11,5 +10,6 @@ fn-stub: about
 
 * [Personenarchiv](pe/about.de.html)
 * [Firmen/Institutionarchiv](co/about.de.html)
-* [Länder-Sacharchiv](sh/about.de.html)
+* [Länder-Sacharchiv - nach Ländersystematik](../category/geo/about.de.html)
+* [Länder-Sacharchiv - nach Sachsystematik](../category/subject/about.de.html)
 * [Warenarchiv](wa/about.de.html)
