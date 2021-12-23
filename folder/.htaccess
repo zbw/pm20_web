@@ -8,6 +8,6 @@ RewriteRule "(.*)/mets$" "$1/internal.mets"
 RewriteCond "%{ENV:PM20_INTERNAL}" ""
 RewriteRule "(.*)/mets$" "$1/public.mets"
 
-# TEMPORARY for tree in test dir
-##AddType "text/plain; charset=UTF-8" tree
-
+### short urls for folders
+RewriteRule "^(co|pe)/(....)(..)$" "https://pm20.zbw.eu/folder/$1/$2xx/$2$3/about"
+RewriteRule "^(sh|wa)/(....)(..),(....)(..)$" "https://pm20.zbw.eu/folder/$1/$2xx/$2$3/$4xx/$4$5/about.de.html"

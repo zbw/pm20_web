@@ -134,6 +134,5 @@ RewriteCond "%{ENV:PM20_INTERNAL}" "1"
 RewriteRule "^dfgview/(sh|wa)/(....)(..),(....)(..)$" "https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/folder/$1/$2xx/$2$3/$4xx/$4$5/intern.mets"
 
 
-# TODO Apparently does not work
-### short urls for folders
-##RewriteRule "^folder/(co|pe)/(....)(..)$" "https://pm20.zbw.eu/folder/$1/$2xx/$2$3/about"
+# rules for /folder/ moved to folder dir
+
