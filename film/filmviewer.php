@@ -244,7 +244,7 @@ function extract_imgname($file, $film, $fn_type)
 }
 
 function build_canonical_link($filmpath, $img) {
-  return "http://pm20intern.zbw.eu$filmpath/$img";
+  return "https://pm20.zbw.eu$filmpath/$img";
   # annotating a film by page number does not work due to changing anchors
 }
 
