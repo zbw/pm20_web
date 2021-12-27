@@ -88,15 +88,9 @@ SetEnvIf Remote_Addr "^2a00:4e00:4000:125::66$" PM20_INTERNAL=1
 #DirectorySlash Off
 #DirectoryIndexRedirect off
 
-# temporary redirects created for Archivführer Kolonialzeit
-Redirect "/home" "http://webopac.hwwa.de/pressemappe20/"
-Redirect "/terms-of-use" "http://webopac.hwwa.de/PresseMappe20E/templatesText/Info_Button_TermsOfUse.cfm"
-
-# The following redirects are temporarily implemented by about.lang.html pages in the according directories
-#Redirect "/folder/co" "http://webopac.hwwa.de/pressemappe20/PM20.cfm?T=F&qt=211933&CFID=14609657&CFTOKEN=61910584"
-#Redirect "/folder/pe" "http://webopac.hwwa.de/pressemappe20/PM20.cfm?T=P&qt=211524&CFID=14609657&CFTOKEN=61910584"
-#Redirect "/folder/sh" "http://webopac.hwwa.de/pressemappe20/PM20.cfm?T=S&qt=212105&CFID=14609657&CFTOKEN=61910584"
-#Redirect "/folder/wa" "http://webopac.hwwa.de/pressemappe20/PM20.cfm?T=W&qt=212042&CFID=14609657&CFTOKEN=61910584"
+# redirects created for Archivführer Kolonialzeit
+Redirect "/home" "/about"
+Redirect "/terms-of-use" "/about-pm20/legal"
 
 
 # CAUTION: Do not use RewriteBase, because only the last RewriteBase directive
@@ -133,6 +127,8 @@ RewriteRule "^dfgview/(co|pe)/(....)(..)$" "https://dfg-viewer.de/show/?tx_dlf[i
 RewriteCond "%{ENV:PM20_INTERNAL}" "1"
 RewriteRule "^dfgview/(sh|wa)/(....)(..),(....)(..)$" "https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/folder/$1/$2xx/$2$3/$4xx/$4$5/intern.mets"
 
+# PDF
+RewriteRule ^pdf/ /error/no_pdf_download
 
 # rules for /folder/ moved to folder dir
 
