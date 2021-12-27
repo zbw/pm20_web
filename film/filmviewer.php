@@ -9,9 +9,6 @@
  * optional: lang (default de, en NYI)
  */
 
-require_once "etracker.inc.php";
- 
- 
 
 // fixed texts
 
@@ -40,19 +37,6 @@ if ( ! is_dir("$fs_root$filmpath") ) {
   echo "\nFilm path $filmpath not found\n";
   exit;
 }
-
-// etracker code
-$et_code = etracker::getCode(
-  "b9xWmg",
-  [
-    "et_pagename" => "FI $set $collection $film $img",
-    "et_areas" => "PM20/$lang/filmview/$set/$collection",
-  ],
-  [
-    "respect_dnt" => true,
-    "block_cookies" => true,
-  ]
-);
 
 // get a list of all acessible files in the film directory
 if ( getenv("PM20_INTERNAL") == 1 ) {
