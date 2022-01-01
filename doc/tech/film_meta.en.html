@@ -19,7 +19,7 @@
 </head>
 <body>
 <header>
-  <img src="/images/zbw_pm20.en.jpg" alt="ZBW PM20 Logo" usemap="#logomap"/>
+  <img src="/images/zbw_pm20.en.png" alt="ZBW PM20 Logo" usemap="#logomap"/>
   <map name="logomap"> <area alt="ZBW home" shape="rect" coords="0,0,166,73" href="https://www.zbw.eu/en" /><area alt="PM20 home" shape="rect" coords="180,0,1041,73" href="/about.en.html" /></map>
 <div class="hint is-flex">
   <span class="has-text-left">
@@ -39,7 +39,7 @@
 <li><code>title_en</code>, <code>title_de</code>: short title for the section (optional, free format)</li>
 <li><code>start</code>, <code>end</code>: first and last image checked for copyright issues (mandatory)</li>
 <li><code>checked_by</code>, <code>checked_date</code>: who has done the checking, and when (mandatory)</li>
-<li><a href="h1/sh/S0292H/checked.yaml">example</a></li>
+<li><a href="../../film/h1/sh/S0292H/checked.yaml">example</a></li>
 </ul></li>
 <li>for each article with a named text and/or image author, create lock and/or meta files for each page</li>
 </ul>
@@ -53,7 +53,7 @@
 <li><code>title</code>: title of the article</li>
 <li><code>publication</code>: in case of an identified publication QID of the publication’s Wikidata item</li>
 <li><code>pos</code>: position on the page L=left, R=right</li>
-<li><a href="h1/sh/S0292H/S02920681H.meta.yaml">example 1</a> (<a href="h1/sh/S0292H/0681">image</a>), <a href="h1/sh/S0449H/S04491187H.meta.yaml">example 2 (locked)</a> (<a href="h1/sh/S0449H/1187">image</a>)</li>
+<li><a href="../../film/h1/sh/S0292H/S02920681H.meta.yaml">example 1</a> (<a href="../../film/h1/sh/S0292H/0681">image</a>), <a href="../../film/h1/sh/S0449H/S04491187H.meta.yaml">example 2 (locked)</a> (<a href="../../film/h1/sh/S0449H/1187">image</a>)</li>
 <li>the file may describe more than one article, and one article may stretch across multiple pages</li>
 <li>for meta files of follow-up pages of an article, symlinks may be used</li>
 <li>see also structure of <a href="annotation">annotations for <em>articles</em></a></li>
@@ -68,7 +68,7 @@
     cp ../../../checked.yaml .</code></pre>
 <ul>
 <li>Fill in <code>checked.yaml</code> (set title for the section, identify first and last image, etc.)</li>
-<li><a href="ipr">Check images for intellectual property rights</a> and create a lock file for every dubious image file</li>
+<li><a href="../ipr">Check images for intellectual property rights</a> and create a lock file for every dubious image file</li>
 </ul>
 <pre><code>    touch {image_name}.locked.txt</code></pre>
 <ul>
@@ -78,7 +78,7 @@
 <ul>
 <li>Execute <code>bin/public_film_sections.sh</code></li>
 </ul>
-<h3 id="massive-ammounts-draft">Massive ammounts (draft)</h3>
+<h3 id="massive-amounts-draft">Massive amounts (draft)</h3>
 <ul>
 <li>Files
 <ul>
@@ -102,8 +102,10 @@
 </ul>
 <footer>
   <p><a href="../about">back to Dokumentation / Documentation</a></p>
-<p><a href="mailto:pressemappe20@zbw.eu?subject=Feedback%20about%20PM20%20Metadata structures for films and film images&body=%0D%0A%0D%0A%0D%0A---%0D%0Ahttps://pm20.zbw.eu/doc/tech/film_meta.en.html">Feedback</a> &nbsp; 
-<a href="https://www.zbw.eu/en/imprint/">Imprint</a> &nbsp; <a href="https://www.zbw.eu/en/data-protection/">Data protection</a> &nbsp; All metadata under <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a> license</p>
+<p><a href="&#109;&#97;ilto&#58;p%72essema%70pe&#50;0&#64;&#37;&#55;Ab%77&#46;eu?subject=Feedback%20about%20PM20%20Metadata structures for films and film images&body=%0D%0A%0D%0A%0D%0A---%0D%0Ahttps://pm20.zbw.eu/doc/tech/film_meta.en.html">Feedback</a> &nbsp;
+<a href="/about-pm20/legal.en.html">Legal</a> &nbsp;
+<a href="https://www.zbw.eu/en/imprint/">Imprint</a> &nbsp; <a href="https://www.zbw.eu/en/data-protection/">Data protection</a> &nbsp;
+All metadata under <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a> license</p>
 </footer>
 </body>
 </html>

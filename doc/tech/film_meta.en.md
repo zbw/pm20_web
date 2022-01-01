@@ -18,7 +18,7 @@ be checked.
   * `title_en`, `title_de`: short title for the section (optional, free format)
   * `start`, `end`: first and last image checked for copyright issues (mandatory)
   * `checked_by`, `checked_date`: who has done the checking, and when (mandatory)
-  * [example](h1/sh/S0292H/checked.yaml)
+  * [example](../../film/h1/sh/S0292H/checked.yaml)
 * for each article with a named text and/or image author, create lock and/or meta files for each page
 
 ## Film images
@@ -30,7 +30,7 @@ be checked.
   * `title`: title of the article
   * `publication`: in case of an identified publication QID of the publication's Wikidata item
   * `pos`: position on the page L=left, R=right
-  * [example 1](h1/sh/S0292H/S02920681H.meta.yaml) ([image](h1/sh/S0292H/0681)), [example 2 (locked)](h1/sh/S0449H/S04491187H.meta.yaml) ([image](h1/sh/S0449H/1187))
+  * [example 1](../../film/h1/sh/S0292H/S02920681H.meta.yaml) ([image](../../film/h1/sh/S0292H/0681)), [example 2 (locked)](../../film/h1/sh/S0449H/S04491187H.meta.yaml) ([image](../../film/h1/sh/S0449H/1187))
   * the file may describe more than one article, and one article may stretch across multiple pages
   * for meta files of follow-up pages of an article, symlinks may be used
   * see also structure of [annotations for _articles_](annotation)
@@ -45,7 +45,7 @@ be checked.
     cp ../../../checked.yaml .
 ```
 * Fill in `checked.yaml` (set title for the section, identify first and last image, etc.)
-* [Check images for intellectual property rights](ipr) and create a lock file for every dubious image file
+* [Check images for intellectual property rights](../ipr) and create a lock file for every dubious image file
 ```
     touch {image_name}.locked.txt
 ```
@@ -55,7 +55,7 @@ be checked.
 ```
 * Execute `bin/public_film_sections.sh`
 
-### Massive ammounts (draft)
+### Massive amounts (draft)
 
 * Files
   * per film, create a csv or yaml file for `checked_yaml`, with fields film_id, section_no, title_de, title_en, checked_by, checked_date
