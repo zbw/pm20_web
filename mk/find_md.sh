@@ -46,6 +46,9 @@ case $set in
     ##echo $collection $hash1 $folder_nk1 $hash2 $folder_nk2 $dir
     find $dir -type f -name "*.md"
     ;;
+  ##ALL)
+    # would need -L and take forever - use bin/web_make_all.sh
+    ##;;
   *)
     echo "usage: default | category | {collection} | {folder-id}"
     ;;
