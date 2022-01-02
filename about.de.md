@@ -6,8 +6,8 @@ fn-stub: about
 <div class="home">
 
 Historische Pressearchive der ZBW. Übernommen vom
-"Hamburgischen-Welt-Wirtschafts-Archiv" und vom "Wirtschaftsarchiv" des
-Instituts für Weltwirtschaft in Kiel. Teilweise digitalisiert mit
+"Hamburgischen Welt-Wirtschafts-Archiv" und vom "Wirtschaftsarchiv" des
+Instituts für Weltwirtschaft in Kiel. Teil-digitalisiert mit
 Unterstützung der DFG.
 
 * [Personenarchiv](folder/pe/about.de.html)

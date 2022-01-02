@@ -6,7 +6,7 @@ fn-stub: about
 
 <div class="home">
 
-Historical press archives of ZBW. Inherited from the "Hamburgisches-Welt-Wirtschafts-Archiv" and the "Wirtschaftsarchiv" of the Kiel Institute for the World Economy. Partially digitized with funding from the German Research Foundation (DFG).
+Historical press archives of ZBW. Inherited from the "Hamburgisches Welt-Wirtschafts-Archiv" and the "Wirtschaftsarchiv" of the Kiel Institute for the World Economy. Partially digitized with funding from the German Research Foundation (DFG).
 
 * [Persons archive](folder/pe/about.en.html)
 * [Companies/Institutions archive](folder/co/about.en.html)
