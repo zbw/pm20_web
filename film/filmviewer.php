@@ -308,8 +308,9 @@ function build_canonical_link($filmpath, $img) {
     };
   </script>
 
-  <link rel="canonical"
-    href="<?= $canonical_link ?>"/>
+  <link rel="canonical" href="<?= $canonical_link ?>"/>
+  <meta name="dc.identifier" content="<?= $filmpath ?>/<?= $img ?>">
+  <meta name="dc.relation.ispartof" content="pm20.zbw.eu">
 </head>
 <body>
 
