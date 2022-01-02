@@ -8,8 +8,8 @@ backlink-title: Dokumentation / Documentation
 # Metadata structures for films and film images
 
 The primary purpose of the data structures described below is to allow for
-publication of selected articles, after their intellectual property status had
-be checked.
+publication of selected articles - technically sections of film images -, after
+their intellectual property status had be checked.
 
 ## Films
 
@@ -58,16 +58,16 @@ be checked.
 ### Massive amounts (draft)
 
 * Files
-  * per film, create a csv or yaml file for `checked_yaml`, with fields film_id, section_no, title_de, title_en, checked_by, checked_date
+  * per film, create a `checked_yaml` (from csv or yaml template), with fields film_id, section_no, title_de, title_en, checked_by, checked_date
   * create a csv file with, for each image of a film_id, image_id (as link), is_locked (defaults true), pos, author, date, publication, title
 * Workflow
   * user sets the fields for checked.yaml 
   * in csv, user fills in section number(s) and optionally removes all lines not needed for sections (optional)
-  * user checks ipr status for every image, removes is_locked
+  * user checks the rights status for every image, removes is_locked
   * optional: user fills in author and other fields (make pos required in that case)
 * Verification
   * valid and matching film_ids
   * matching and ascending section numbers
   * pos set for locked and annotated images
-* Alternatively, set annotations completely with Hypothes.is
+* Alternatively, set annotations completely with an external software plus custom script.
 

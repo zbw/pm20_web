@@ -30,7 +30,7 @@
 </div>
 </header>
 <h1 id="metadata-structures-for-films-and-film-images">Metadata structures for films and film images</h1>
-<p>The primary purpose of the data structures described below is to allow for publication of selected articles, after their intellectual property status had be checked.</p>
+<p>The primary purpose of the data structures described below is to allow for publication of selected articles - technically sections of film images -, after their intellectual property status had be checked.</p>
 <h2 id="films">Films</h2>
 <ul>
 <li>File <code>checked.yaml</code> in a film directory lists sections of the film which can published, because every image had been checked for intellectual property issues
@@ -82,14 +82,14 @@
 <ul>
 <li>Files
 <ul>
-<li>per film, create a csv or yaml file for <code>checked_yaml</code>, with fields film_id, section_no, title_de, title_en, checked_by, checked_date</li>
+<li>per film, create a <code>checked_yaml</code> (from csv or yaml template), with fields film_id, section_no, title_de, title_en, checked_by, checked_date</li>
 <li>create a csv file with, for each image of a film_id, image_id (as link), is_locked (defaults true), pos, author, date, publication, title</li>
 </ul></li>
 <li>Workflow
 <ul>
 <li>user sets the fields for checked.yaml</li>
 <li>in csv, user fills in section number(s) and optionally removes all lines not needed for sections (optional)</li>
-<li>user checks ipr status for every image, removes is_locked</li>
+<li>user checks the rights status for every image, removes is_locked</li>
 <li>optional: user fills in author and other fields (make pos required in that case)</li>
 </ul></li>
 <li>Verification
@@ -98,7 +98,7 @@
 <li>matching and ascending section numbers</li>
 <li>pos set for locked and annotated images</li>
 </ul></li>
-<li>Alternatively, set annotations completely with Hypothes.is</li>
+<li>Alternatively, set annotations completely with an external software plus custom script.</li>
 </ul>
 <footer>
   <p><a href="../about">back to Dokumentation / Documentation</a></p>
