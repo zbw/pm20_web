@@ -1,1 +1,3 @@
 disallow: /dfgview
+disallow: *.JPG
+
