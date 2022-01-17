@@ -7,6 +7,10 @@ fn-stub: glossary
 
 # PM20-Glossar
 
+Signatur
+: (oder auch: Notation) Kurzer alphanumerischer Code für eine Stelle innerhalb
+einer Systematik, z.B. "A10" für Deutschland.
+
 Systematikstelle
 : Eintrag in der Systematik (oder auch: Klassifikation), z.B. der
 Ländersystematik. Systematikstellen werden durch ihren Typ und eine Signatur
@@ -17,8 +21,4 @@ Systematik-Typ
 : geo - Ländersystmatik
 : subject - Sachsystematik
 : ware - Warensystematik
-
-Signatur
-: (oder auch: Notation) Kurzer alphanumerischer Code für eine Stelle innerhalb
-einer Systematik, z.B. "A10" für Deutschland.
 
