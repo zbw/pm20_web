@@ -80,6 +80,7 @@ if (! file_exists("$fs_root$cur_file")) {
   exit;
 }
 
+// TODO optimize - use only prebuilt link fragment (or prebuild complete page html)
 // construct link list
 $links = '';
 $count = 0;
@@ -94,6 +95,13 @@ foreach ($files as $key => $file) {
   } else {
     $links = $links . '<a id="img_' . $tmp_img . '" href="' . $tmp_path . '">' . $tmp_img . '</a> &#160;' . "\n";
   }
+}
+// overwrite if link fragment file exists
+$links_file = "$fs_root$filmpath/links.de.html.frag";
+if (file_exists($links_file)) {
+  $links = file_get_contents($links_file);
+  $cur_img = extract_imgname($cur_file, $film, $fn_type);
+  $links = preg_replace("/(id='img_$cur_img')/s", "$1 class='current'", $links);
 }
 
 // initialize main navigation paths
@@ -236,7 +244,6 @@ function build_canonical_link($filmpath, $img) {
 ?><!DOCTYPE html>
 <html>
 <head>
-<?= $et_code ?>
   <meta charset="UTF-8">
   <title><?= $title ?></title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
@@ -251,6 +258,15 @@ function build_canonical_link($filmpath, $img) {
 
     a:hover, a:visited, a:link, a:active {
       text-decoration: none;
+    }
+
+    .current {
+      background-color: silver;
+    }
+
+    .unrecognized {
+      color: gray;
+      font-style: italic;
     }
 
     .imgview-full {
