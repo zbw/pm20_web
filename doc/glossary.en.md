@@ -24,14 +24,15 @@ category type
 : subject - PM20 subject category system
 : ware - PM20 ware category system
 
-holding
-: Archives holding, either 
+provenance
+: Provenance of archives holding, either 
 : h - Hamburgisches Welt-Wirtschafts-Archiv (HWWA), or 
 : k - Wirtschaftsarchiv Kiel (WiA)
 
-set (of films)
-: The result of a specific filming of one part of a holding, e.g. "h1_sh" for
-the first filming of the countries-subjects collection from the HWWA archives
+set, subset (of films)
+: The result of a specific filming of one part of a holding, e.g. set "h1" and
+subset "h1_sh" for the first filming of the countries-subjects collection from
+the HWWA archives.
 
 signature
 : (or: notation) Short code for a category within a category system, e.g. "A10"
