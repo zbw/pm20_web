@@ -269,6 +269,10 @@ function build_canonical_link($filmpath, $img) {
       font-style: italic;
     }
 
+    .date-limit {
+      color: gray;
+    }
+
     .imgview-full {
       width: 97vw;
       height: 98vh;
@@ -352,9 +356,9 @@ function build_canonical_link($filmpath, $img) {
 
   <div><br /><a href="/film/<?= $set ?>_<?= $collection ?>.de.html">zurück zum Filmverzeichnis</a></div>
 
-  <p>&#160;</p>
-
-  <div><?= $links ?></div>
+  <div>&#160;<br />
+  <?= $links ?>
+  </div>
 
   <div><br /><a href="/film/<?= $set ?>_<?= $collection ?>.de.html">zurück zum Filmverzeichnis</a></div>
 

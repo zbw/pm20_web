@@ -2,6 +2,7 @@
 title: Die Entstehung der Pressedokumentation des Hamburgischen Welt-Wirtschafts-Archivs
 backlink: ./about.de.html
 backlink-title: Über die ZBW Pressearchive
+fn-stub: hwwa
 ---
 
 # Die Entstehung der Pressedokumentation des Hamburgischen Welt-Wirtschafts-Archivs (HWWA)

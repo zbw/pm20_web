@@ -2,6 +2,7 @@
 title: "Forschungsstelle für das Übersee-Deutschtum"
 backlink: ./about.de.html
 backlink-title: Über die ZBW Pressearchive
+fn-stub: fs
 ---
 
 # Forschungsstelle für das Übersee-Deutschtum (Hamburg)

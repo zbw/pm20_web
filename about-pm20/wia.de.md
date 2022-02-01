@@ -2,6 +2,7 @@
 title: Das Wirtschaftsarchiv des Instituts für Weltwirtschaft
 backlink: ./about.de.html
 backlink-title: Über die ZBW Pressearchive
+fn-stub: wia
 ---
 
 # Das Wirtschaftsarchiv des Instituts für Weltwirtschaft (Kiel)
