@@ -70,6 +70,8 @@ if ( $pid == 0 ) {
 ##  die "Der Child-Prozess wurde nicht ordnungsgemäß beendet!\n $?";
 ##}
 
+## CGI::Push does not work with many browsers - see
+## https://stackoverflow.com/questions/11532735/how-to-create-a-countdown-cgi-script-in-perl
 do_push(
   -next_page => \&next_page,
   -last_page => \&last_page,
