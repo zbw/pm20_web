@@ -22,13 +22,16 @@ my $q = CGI->new;
 
 # cleanup cache by apache user
 ##`/bin/rm -rf /pm20/cache/pdf/*`;
+##`/bin/rm -rf /tmp/.folder2pdfLGGHMXQS`;
 ##exit;
 
 # init log file
-$File::Temp::KEEP_ALL = 1;
-my $tempdir = File::Temp::tempdir('/tmp/.folder2pdfXXXXXXXX');
-chmod( 0755, $tempdir );
-my $log_file = "$tempdir/build.log";
+##$File::Temp::KEEP_ALL = 1;
+my $log_file = File::Temp->new(
+  TEMPLATE => '/tmp/.folder2pdf_XXXXXXXX',
+  SUFFIX   => '.log',
+  PERMS    => 0666
+);
 ## init log here to avoid race condition
 path($log_file)->touch;
 
