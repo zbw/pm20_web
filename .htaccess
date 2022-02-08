@@ -127,11 +127,24 @@ RewriteRule "^dfgview/(co|pe)/(....)(..)$" "https://dfg-viewer.de/show/?tx_dlf[i
 RewriteCond "%{ENV:PM20_INTERNAL}" "1"
 RewriteRule "^dfgview/(sh|wa)/(....)(..),(....)(..)$" "https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/folder/$1/$2xx/$2$3/$4xx/$4$5/intern.mets"
 
+
 # GND redirect
 RewriteRule ^gnd/(.+)$  "/folder/${gndmap:$1|/error/signature_not_found.en.html}"
 
-# PDF
-RewriteRule ^pdf/ /error/no_pdf_download
+
+# PDF production
+# save download file instead of display
+# (this setting overides the mimetype set in the mets file)
+AddType application/octet-stream .pdf
+
+# Use to temporarily disable pdf production
+##RewriteRule ^pdf/ /error/no_pdf_download
+
+# serve from cache dir if file exists
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^pdf/.*$ /cgi-bin/folder2pdf.cgi?pdf=https://pm20.zbw.eu%{REQUEST_URI} [L]
+
 
 # rules for /folder/ moved to folder dir
 
