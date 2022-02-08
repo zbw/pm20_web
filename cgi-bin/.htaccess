@@ -1,0 +1,5 @@
+Options +ExecCGI
+PassEnv PATH
+SetEnv PERL5LIB /opt/perl5/lib/perl5:/opt/perllib
+AddHandler cgi-script cgi pl
+
