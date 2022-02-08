@@ -45,7 +45,11 @@ if ( not $pdf_url ) {
   exit;
 }
 
-if ( not $pdf_url =~ m/^$PDF_URL_ROOT([a-z0-9\/\.])+$/ ) {
+if (
+  not $pdf_url =~
+m;^$PDF_URL_ROOT(((co|pe)/\d{4}xx/\d{6}/\d{6})|((sh|wa)/\d{4}xx/\d{6}/\d{4}xx/\d{6}/[0-9,]{13}))\.pdf$;
+  )
+{
   print $q->header( 'text/plain', '400 Bad Request' );
   print "Mal-formed PDF URL: $pdf_url\n";
   exit;
