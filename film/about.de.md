@@ -46,6 +46,6 @@ Filme.
 
 ## _Weitere Informationen_
 
-* [Pressemappe 20. Jahrhundert](http://webopac.hwwa.de/pressemappe20)
+* [Altanwendung "Pressemappe 20. Jahrhundert"](http://webopac.hwwa.de/pressemappe20)
 * [Bestandsübersicht](../doc/holding)
 
