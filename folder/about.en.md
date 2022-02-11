@@ -12,4 +12,4 @@ fn-stub: about
 * [Companies/Institutions archive](co/about.en.html)
 * [Countries-Subjects archive - by country category system](../category/geo/about.en.html)
 * [Countries-Subjects archive - by subject category system](../category/subject/about.en.html)
-* [Wares archive](wa/about.en.html)
+* [Commodities/Wares archive](wa/about.en.html)
