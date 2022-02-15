@@ -31,6 +31,8 @@ $film = $query_parts['film'] ?: '0200';
 $img = $query_parts['img'] ?: '';
 $lang = 'de';
 
+require "prev_next_film.${set}_${collection}.inc";
+
 $filmpath = "$web_root$set/$collection/$film";
 if ( ! is_dir("$fs_root$filmpath") ) {
   header("HTTP/1.0 404 Not Found");
@@ -140,6 +142,9 @@ if (array_key_exists($cur_key + $fast_skip, $files)) {
 $title = $set . ' / ' . $collection . ' / ' . $film . ' / ' . $img . ' | PM20 Filmviewer ';
 $canonical_link = build_canonical_link($filmpath, $img);
 
+$film_nav = film_nav($film);
+
+
 function get_filename_type($file)
 {
   $fn_type = 0;
@@ -240,6 +245,18 @@ function build_canonical_link($filmpath, $img) {
   # annotating a film by page number does not work due to changing anchors
 }
 
+function film_nav($film) {
+  [ $prev_film, $next_film ] = prev_next_film($film);
+  $nav = '<div><br />';
+  if(!empty($prev_film)) {
+    $nav .= "<a href=\"../$prev_film\">voriger Film</a> &#160;";
+  }
+  if(!empty($next_film)) {
+    $nav .= "<a href=\"../$next_film\">nächster Film</a> &#160;";
+  }
+  $nav .= "<a href=\"/film/${set}_${collection}.de.html\">zurück zum Filmverzeichnis</a></div>";
+  return $nav;
+}
 
 ?><!DOCTYPE html>
 <html>
@@ -354,13 +371,14 @@ function build_canonical_link($filmpath, $img) {
   <h1>PM20 Filmviewer</h1>
   <h2>Verfilmung <?= $set ?> - Archiv <?= $collection ?> - Film <?= $film ?> - Bild <?= $img ?> von <?= $count ?></h2>
 
-  <div><br /><a href="/film/<?= $set ?>_<?= $collection ?>.de.html">zurück zum Filmverzeichnis</a></div>
+  <?= $film_nav ?>
 
   <div>&#160;<br />
   <?= $links ?>
   </div>
 
-  <div><br /><a href="/film/<?= $set ?>_<?= $collection ?>.de.html">zurück zum Filmverzeichnis</a></div>
+  <?php prev_next_film($film) ?>
+
 
   <h2>Bedienung</h2>
 
