@@ -15,7 +15,7 @@ folder/??/2*
 # html fragments (are included on pages and tracked as .md)
 templates/fragments/*.html.frag
 # publication dir moved to doc
-publication/
+./publication/
 #
 # mets dir is generated (temporarily, and large)
 mets
