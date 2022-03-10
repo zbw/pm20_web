@@ -117,7 +117,7 @@ RewriteCond %{DOCUMENT_ROOT}/%{REQUEST_URI} -d
 RewriteRule ^film/([hk][12])/(sh|wa|co)/([A-Z0-9_]+)/$ /film/filmviewer.php?set=$1&collection=$2&film=$3 [QSA,PT,L]
 
 
-# DFG Viewer for folders
+# DFG Viewer for folders with public and internal versions
 RewriteCond "%{ENV:PM20_INTERNAL}" ^$
 RewriteRule "^dfgview/(co|pe)/(....)(..)$" "https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/folder/$1/$2xx/$2$3/public.mets"
 RewriteCond "%{ENV:PM20_INTERNAL}" ^$
@@ -126,6 +126,14 @@ RewriteCond "%{ENV:PM20_INTERNAL}" "1"
 RewriteRule "^dfgview/(co|pe)/(....)(..)$" "https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/folder/$1/$2xx/$2$3/intern.mets"
 RewriteCond "%{ENV:PM20_INTERNAL}" "1"
 RewriteRule "^dfgview/(sh|wa)/(....)(..),(....)(..)$" "https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/folder/$1/$2xx/$2$3/$4xx/$4$5/intern.mets"
+
+
+# IIIF for folders with public and internal versions
+# (CORS rules for iiif in iiif/.htaccess) 
+RewriteCond "%{ENV:PM20_INTERNAL}" ^$
+RewriteRule "^iiif/folder/(co|pe|wa|sh)/([0-9,]+)/manifest.json$" "/iiif/folder/$1/$2/public.manifest.json" [PT]
+RewriteCond "%{ENV:PM20_INTERNAL}" "1"
+RewriteRule "^iiif/folder/(co|pe|wa|sh)/([0-9,]+)/manifest.json$" "/iiif/folder/$1/$2/interm.manifest.json" [PT]
 
 
 # GND redirect
