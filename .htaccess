@@ -133,7 +133,7 @@ RewriteRule "^dfgview/(sh|wa)/(....)(..),(....)(..)$" "https://dfg-viewer.de/sho
 RewriteCond "%{ENV:PM20_INTERNAL}" ^$
 RewriteRule "^iiif/folder/(co|pe|wa|sh)/([0-9,]+)/manifest.json$" "/iiif/folder/$1/$2/public.manifest.json" [PT]
 RewriteCond "%{ENV:PM20_INTERNAL}" "1"
-RewriteRule "^iiif/folder/(co|pe|wa|sh)/([0-9,]+)/manifest.json$" "/iiif/folder/$1/$2/interm.manifest.json" [PT]
+RewriteRule "^iiif/folder/(co|pe|wa|sh)/([0-9,]+)/manifest.json$" "/iiif/folder/$1/$2/intern.manifest.json" [PT]
 
 
 # GND redirect
