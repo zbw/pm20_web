@@ -15,7 +15,7 @@ Unterstützung der DFG.
 * [Länder-Sacharchiv - nach Ländersystematik](category/geo/about.de.html)
 * [Länder-Sacharchiv - nach Sachsystematik](category/subject/about.de.html)
 * [Warenarchiv](folder/wa)
-* [Digitalisierte Filme](film)
+* [Digitalisierte Mikrofilme](film)
 * [Über die ZBW Pressearchive](about-pm20/about.de.html)
 
 </div>
