@@ -142,7 +142,7 @@ if (array_key_exists($cur_key + $fast_skip, $files)) {
 $title = $set . ' / ' . $collection . ' / ' . $film . ' / ' . $img . ' | PM20 Filmviewer ';
 $canonical_link = build_canonical_link($filmpath, $img);
 
-$film_nav = film_nav($film);
+$film_nav = film_nav($film, $set, $collection);
 
 
 function get_filename_type($file)
@@ -245,14 +245,14 @@ function build_canonical_link($filmpath, $img) {
   # annotating a film by page number does not work due to changing anchors
 }
 
-function film_nav($film) {
+function film_nav($film, $set, $collection) {
   [ $prev_film, $next_film ] = prev_next_film($film);
   $nav = '<div><br />';
   if(!empty($prev_film)) {
-    $nav .= "<a href=\"../$prev_film\">voriger Film</a> &#160;";
+    $nav .= "<a href=\"../$prev_film\">voriger Film</a> &#160;&#160;";
   }
   if(!empty($next_film)) {
-    $nav .= "<a href=\"../$next_film\">nächster Film</a> &#160;";
+    $nav .= "<a href=\"../$next_film\">nächster Film</a> &#160;&#160;";
   }
   $nav .= "<a href=\"/film/${set}_${collection}.de.html\">zurück zum Filmverzeichnis</a></div>";
   return $nav;
