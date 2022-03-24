@@ -34,7 +34,7 @@ case $set in
     hash1=${set:3:4}
     dir=$folderroot/$collection/${hash1}xx/$folder_nk1
     echo $dir
-    find $dir -type f -name "*.md"
+    find $dir -type f -name "*.md" | sort
     ;;
   sh/* | wa/*)
     collection=${set:0:2}
