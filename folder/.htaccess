@@ -1,5 +1,9 @@
 RewriteEngine On
 
+# for sh folders, do not show plain folder list, but redirect to geo categories
+RewriteRule ^sh$ /category/geo
+RewriteRule ^sh/$ /category/geo
+
 #### Switch for public and internal mets files ####
 
 RewriteCond "%{ENV:PM20_INTERNAL}" "1"
