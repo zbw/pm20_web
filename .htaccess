@@ -6,8 +6,6 @@ AddLanguage en .en
 LanguagePriority en de
 ForceLanguagePriority Fallback
 
-RewriteEngine on
-
 
 #### Custom error messages ####
 
@@ -93,11 +91,16 @@ Redirect "/home" "/about"
 Redirect "/terms-of-use" "/about-pm20/legal"
 
 
+#### Rewrites
+
+RewriteEngine on
+
+
 # CAUTION: Do not use RewriteBase, because only the last RewriteBase directive
 # in a .htaccess is interpreted
 
 
-# film redirects
+# film rewrites
 
 # Redirect collection index to findbuch/filmlist pages
 RewriteRule ^film/([hk][12])_(sh|wa|co)$ /film/$1_$2.de.html
