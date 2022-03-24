@@ -1,5 +1,5 @@
 ---
-title: "Waren"
+title: "Waren Mappen"
 modified: 
 backlink: ../../about.de.html
 backlink-title: "Home"
@@ -7,7 +7,10 @@ fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# Waren-Mappen
+# Waren Mappen
+
+
+
 
 
 Für eine strukturiertere Auswahl, siehe <a href="http://webopac.hwwa.de/pressemappe20/Digiview_MENU.cfm?T=W&W=x">PM20 Altanwendung</a>.

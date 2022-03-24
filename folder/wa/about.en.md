@@ -1,5 +1,5 @@
 ---
-title: "Commodities/Wares"
+title: "Commodities/Wares folders"
 modified: 
 backlink: ../../about.en.html
 backlink-title: "Home"
@@ -8,6 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 # Commodities/Wares folders
+
+
+
 
 
 

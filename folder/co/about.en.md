@@ -1,13 +1,18 @@
 ---
-title: "Companies/Institutions"
+title: "Companies/Institutions folders"
 modified: 
-backlink: ../about.en.html
-backlink-title: "folders"
+backlink: ../../about.en.html
+backlink-title: "Home"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 # Companies/Institutions folders
+
+_Metadata about additional folders (without digitized documents) are [here](without_docs.en.html)_
+
+
+
 
 <div class="spacer">&#160;</div>
 

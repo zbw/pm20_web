@@ -1,13 +1,18 @@
 ---
-title: "Firmen/Institutionen"
+title: "Firmen/Institutionen Mappen"
 modified: 
-backlink: ../about.de.html
-backlink-title: "Mappen"
+backlink: ../../about.de.html
+backlink-title: "Home"
 fn-stub: about
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# Firmen/Institutionen-Mappen
+# Firmen/Institutionen Mappen
+
+_Metadaten für weitere Mappen (ohne digitalisierte Dokumente) [hier](without_docs.de.html)._
+
+
+
 
 <div class="spacer">&#160;</div>
 
