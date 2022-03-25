@@ -26,12 +26,14 @@ EXPORTED_FRAG =  $(SOURCE_FRAG:.md.frag=.html.frag)
 TEMPLATE    := /pm20/web/templates/pm20_default.html
 PANDOC_OPTS	:= --standalone
 TMPL_OPTS		:= --template $(TEMPLATE) --css /styles/simple.css
-EXT_OPTS		:= -t html+pipe_tables+fenced_divs+bracketed_spans
+EXT_OPTS		:= -f markdown+pipe_tables+fenced_divs+bracketed_spans -t html
 
 # extract language from filename, e.g. about.de.md
 lang 			= $(subst .,$(EMPTY),$(suffix $(basename $<)))
 lang_opts = --variable is_$(lang) --variable lang:$(lang)
 
+# path
+path_opts = --variable targetdir:$(@D)
 
 # Pattern-matching Rules
 set: $(EXPORTED_FRAG) $(EXPORTED_DOCS)
@@ -42,7 +44,7 @@ include $(wildcard mk/*.mk)
 # standalone HTML pages
 %.html: %.md $(SOURCE_FRAG) $(TEMPLATE)
 	@echo $@
-	@$(PANDOC) $(PANDOC_OPTS) $(lang_opts) $(TMPL_OPTS) $(EXT_OPTS) -o $@ $<
+	@$(PANDOC) $(PANDOC_OPTS) $(lang_opts) $(path_opts) $(TMPL_OPTS) $(EXT_OPTS) -o $@ $<
 
 # HTML fragments (for inclusion)
 %.html.frag: %.md.frag
