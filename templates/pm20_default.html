@@ -14,12 +14,8 @@ $if(keywords)$
   <meta name="keywords" content="$for(keywords)$$keywords$$sep$, $endfor$" />
 $endif$
 $if(fn-stub)$
-$if(is_de)$
   <link rel="alternate" hreflang="en" href="$fn-stub$.en.html" />
-$endif$
-$if(is_en)$
   <link rel="alternate" hreflang="de" href="$fn-stub$.de.html" />
-$endif$
   <link rel="alternate" hreflang="x-default" href="$fn-stub$" />
 $endif$
   <title>$if(title-prefix)$$title-prefix$ – $endif$$pagetitle$ | ZBW $if(is_de)$Pressearchive$endif$$if(is_en)$Press Archives$endif$</title>
