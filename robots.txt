@@ -1,3 +1,4 @@
-disallow: /dfgview
-disallow: *.JPG
+User-agent: *
+Disallow: /dfgview
+Disallow: *.JPG
 
