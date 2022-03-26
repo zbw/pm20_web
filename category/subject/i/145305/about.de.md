@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/n23
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -13,8 +14,8 @@ fn-stub: about
 
 
 
-Insgesamt 46 Sach-Mappen, 1328 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
+Insgesamt 46 Sach-Mappen, 1330 Dokumente - Mappen unvollständig.
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
 
@@ -27,7 +28,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,145305" title="über: Südosteuropa : Geld und Währung" target="_blank">16 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1453xx/145305/about.de.html))
 - A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140902,145305" title="über: Orient : Geld und Währung" target="_blank">21 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1453xx/145305/about.de.html))
 - A8 Russische Randstaaten [**&nearr;**](../../../geo/i/140904/about.de.html "Russische Randstaaten (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A8 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140904,145305" title="über: Russische Randstaaten : Geld und Währung" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140904/1453xx/145305/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145305" title="über: Hamburg : Geld und Währung" target="_blank">22 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1453xx/145305/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145305" title="über: Hamburg : Geld und Währung" target="_blank">24 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1453xx/145305/about.de.html))
 - A10n(1) Oberschlesien (dt.-poln. Abstimmungsgebiet) [**&nearr;**](../../../geo/i/140948/about.de.html "Oberschlesien (dt.-poln. Abstimmungsgebiet) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10n(1) "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140948,145305" title="über: Oberschlesien (dt.-poln. Abstimmungsgebiet) : Geld und Währung" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140948/1453xx/145305/about.de.html))
 - A10p Polnisch-Schlesien [**&nearr;**](../../../geo/i/140951/about.de.html "Polnisch-Schlesien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10p "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140951,145305" title="über: Polnisch-Schlesien : Geld und Währung" target="_blank">14 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140951/1453xx/145305/about.de.html))
 - A11 Deutsche Kolonien [**&nearr;**](../../../geo/i/140960/about.de.html "Deutsche Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A11 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140960,145305" title="über: Deutsche Kolonien : Geld und Währung" target="_blank">11 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140960/1453xx/145305/about.de.html))

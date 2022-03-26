@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/m1_Sm5.II
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -14,8 +15,8 @@ fn-stub: about
 
 
 
-In total 31 subject folders, 1153 documents - folders incomplete.
-For material not published as folders, please check the [digitized films](/film/h1_sh) (in German).
+In total 31 subject folders, 1154 documents - folders incomplete.
+For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -27,7 +28,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 - A2 Central Europe [**&nearr;**](../../../geo/i/140895/about.en.html "Central Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A2 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140895,144819" title="about: Central Europe : External debt owed to individual countries" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1408xx/140895/1448xx/144819/about.en.html))
 - A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,144819" title="about: Southeastern Europe : External debt owed to individual countries" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1448xx/144819/about.en.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144819" title="about: Hamburg : External debt owed to individual countries" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1448xx/144819/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144819" title="about: Hamburg : External debt owed to individual countries" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1448xx/144819/about.en.html))
 - A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140960,144819" title="about: German imperial colonies : External debt owed to individual countries" target="_blank">264 documents</a>) ([folder](../../../../folder/sh/1409xx/140960/1448xx/144819/about.en.html))
 - A38 Free State of Fiume [**&nearr;**](../../../geo/i/141014/about.en.html "Free State of Fiume (all folders)") [**&uarr;**](../../../geo/about.en.html#A38 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141014,144819" title="about: Free State of Fiume : External debt owed to individual countries" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1410xx/141014/1448xx/144819/about.en.html))
 - A43 Ottoman Empire [**&nearr;**](../../../geo/i/141034/about.en.html "Ottoman Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A43 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141034,144819" title="about: Ottoman Empire : External debt owed to individual countries" target="_blank">26 documents</a>) ([folder](../../../../folder/sh/1410xx/141034/1448xx/144819/about.en.html))

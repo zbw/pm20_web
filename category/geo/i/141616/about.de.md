@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/D16
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)

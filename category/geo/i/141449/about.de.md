@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/C85
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [C85]{.gray}&#8201; Portugiesisch-Westafrika&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q916)
+# [C85]{.gray}&#8201; Portugiesisch-Westafrika&#160; 
 
 
 > Scope Note: Portugiesisch-Westafrika (bis 1975), VR Angola, Republik Angola (ab 1992)
@@ -16,7 +17,7 @@ fn-stub: about
 
 
 Insgesamt 4 Sach-Mappen, 50 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
 

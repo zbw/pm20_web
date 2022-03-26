@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/C87
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [C87]{.gray}&#8201; German South-West Africa&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q153665)
+# [C87]{.gray}&#8201; German South-West Africa&#160; 
 
 
 

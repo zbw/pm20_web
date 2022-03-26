@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/n32_Sm2
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -13,8 +14,8 @@ fn-stub: about
 
 
 
-Insgesamt 6 Sach-Mappen, 263 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
+Insgesamt 6 Sach-Mappen, 268 Dokumente - Mappen unvollständig.
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
 
@@ -25,7 +26,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145569" title="über: Hamburg : Schiffsverkäufe und Schiffskäufe" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1455xx/145569/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145569" title="über: Hamburg : Schiffsverkäufe und Schiffskäufe" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1455xx/145569/about.de.html))
 - A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,145569" title="über: Deutschland : Schiffsverkäufe und Schiffskäufe" target="_blank">87 Dokumente</a>) ([Mappe](../../../../folder/sh/1261xx/126128/1455xx/145569/about.de.html))
 
 ### Asien

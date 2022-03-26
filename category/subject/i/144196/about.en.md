@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/b
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -14,8 +15,8 @@ fn-stub: about
 
 
 
-In total 80 subject folders, 1954 documents - folders incomplete.
-For material not published as folders, please check the [digitized films](/film/h1_sh) (in German).
+In total 80 subject folders, 1959 documents - folders incomplete.
+For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -33,8 +34,8 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A5a Mediterranean region [**&nearr;**](../../../geo/i/140899/about.en.html "Mediterranean region (all folders)") [**&uarr;**](../../../geo/about.en.html#A5a "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140899,144196" title="about: Mediterranean region : The country and its people, politics and economy, general" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1408xx/140899/1441xx/144196/about.en.html))
 - A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,144196" title="about: Southeastern Europe : The country and its people, politics and economy, general" target="_blank">24 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1441xx/144196/about.en.html))
 - A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140902,144196" title="about: Orient : The country and its people, politics and economy, general" target="_blank">6 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1441xx/144196/about.en.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144196" title="about: Hamburg : The country and its people, politics and economy, general" target="_blank">47 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1441xx/144196/about.en.html))
-- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,144196" title="about: Germany : The country and its people, politics and economy, general" target="_blank">205 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1441xx/144196/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144196" title="about: Hamburg : The country and its people, politics and economy, general" target="_blank">48 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1441xx/144196/about.en.html))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,144196" title="about: Germany : The country and its people, politics and economy, general" target="_blank">209 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1441xx/144196/about.en.html))
 - A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140960,144196" title="about: German imperial colonies : The country and its people, politics and economy, general" target="_blank">18 documents</a>) ([folder](../../../../folder/sh/1409xx/140960/1441xx/144196/about.en.html))
 - A12 Poland [**&nearr;**](../../../geo/i/140962/about.en.html "Poland (all folders)") [**&uarr;**](../../../geo/about.en.html#A12 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140962,144196" title="about: Poland : The country and its people, politics and economy, general" target="_blank">67 documents</a>) ([folder](../../../../folder/sh/1409xx/140962/1441xx/144196/about.en.html))
 - A37 Monaco [**&nearr;**](../../../geo/i/141013/about.en.html "Monaco (all folders)") [**&uarr;**](../../../geo/about.en.html#A37 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141013,144196" title="about: Monaco : The country and its people, politics and economy, general" target="_blank">9 documents</a>) ([folder](../../../../folder/sh/1410xx/141013/1441xx/144196/about.en.html))

@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/A10n(1)
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [A10n(1)]{.gray}&#8201; Oberschlesien (dt.-poln. Abstimmungsgebiet)&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q81011)
+# [A10n(1)]{.gray}&#8201; Oberschlesien (dt.-poln. Abstimmungsgebiet)&#160; 
 
 
 > Scope Note: bis 1.1.1923.  Plebiszit am 20. März 1921
@@ -16,7 +17,7 @@ fn-stub: about
 
 
 Insgesamt 42 Sach-Mappen, 1095 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
 

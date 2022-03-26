@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/A5a
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [A5a]{.gray}&#8201; Mediterranean region&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q72499)
+# [A5a]{.gray}&#8201; Mediterranean region&#160; 
 
 
 

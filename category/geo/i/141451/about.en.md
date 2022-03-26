@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/C90
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [C90]{.gray}&#8201; Ascension Island&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q46197)
+# [C90]{.gray}&#8201; Ascension Island&#160; 
 
 
 

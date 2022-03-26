@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/D11
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [D11]{.gray}&#8201; Salomoninseln und Bismarck-Archipel&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q97060007)
+# [D11]{.gray}&#8201; Salomoninseln und Bismarck-Archipel&#160; 
 
 
 > Scope Note: Bismarck Archipel, Neu-Hannover (Lavongai), Neu-Lauenburg, Neu-Pommern, Salomon Inseln i.G.

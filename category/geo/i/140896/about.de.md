@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/A3
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [A3]{.gray}&#8201; Osteuropa&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q27468)
+# [A3]{.gray}&#8201; Osteuropa&#160; 
 
 
 > Scope Note: (einschl.: Litauen, Lettland, Estland, Weißrussland, Moldawien, Ukraine und den europäischen Teil Russlands)

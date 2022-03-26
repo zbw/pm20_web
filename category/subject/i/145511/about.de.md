@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/n28_Sm2.I
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -13,8 +14,8 @@ fn-stub: about
 
 
 
-Insgesamt 11 Sach-Mappen, 139 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
+Insgesamt 11 Sach-Mappen, 158 Dokumente - Mappen unvollständig.
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
 
@@ -27,8 +28,8 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 - A1a Ostseeländer [**&nearr;**](../../../geo/i/140894/about.de.html "Ostseeländer (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1a "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140894,145511" title="über: Ostseeländer : Reiseverkehr, Fremdenverkehr, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140894/1455xx/145511/about.de.html))
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,145511" title="über: Südosteuropa : Reiseverkehr, Fremdenverkehr, Allgemein" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1455xx/145511/about.de.html))
-- A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140902,145511" title="über: Orient : Reiseverkehr, Fremdenverkehr, Allgemein" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1455xx/145511/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145511" title="über: Hamburg : Reiseverkehr, Fremdenverkehr, Allgemein" target="_blank">21 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1455xx/145511/about.de.html))
+- A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140902,145511" title="über: Orient : Reiseverkehr, Fremdenverkehr, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1455xx/145511/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145511" title="über: Hamburg : Reiseverkehr, Fremdenverkehr, Allgemein" target="_blank">39 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1455xx/145511/about.de.html))
 - A39 Liechtenstein [**&nearr;**](../../../geo/i/141016/about.de.html "Liechtenstein (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A39 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141016,145511" title="über: Liechtenstein : Reiseverkehr, Fremdenverkehr, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141016/1455xx/145511/about.de.html))
 
 ### Asien

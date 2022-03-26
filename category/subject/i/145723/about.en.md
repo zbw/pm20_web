@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/n37
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -14,8 +15,8 @@ fn-stub: about
 
 
 
-In total 25 subject folders, 303 documents - folders incomplete.
-For material not published as folders, please check the [digitized films](/film/h1_sh) (in German).
+In total 25 subject folders, 304 documents - folders incomplete.
+For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -27,7 +28,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 - A5 Levant [**&nearr;**](../../../geo/i/140898/about.en.html "Levant (all folders)") [**&uarr;**](../../../geo/about.en.html#A5 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140898,145723" title="about: Levant : Insurance" target="_blank">4 documents</a>) ([folder](../../../../folder/sh/1408xx/140898/1457xx/145723/about.en.html))
 - A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,145723" title="about: Southeastern Europe : Insurance" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1457xx/145723/about.en.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145723" title="about: Hamburg : Insurance" target="_blank">29 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1457xx/145723/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145723" title="about: Hamburg : Insurance" target="_blank">30 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1457xx/145723/about.en.html))
 - A10n(1) Upper Silesia (German-Polish border region) [**&nearr;**](../../../geo/i/140948/about.en.html "Upper Silesia (German-Polish border region) (all folders)") [**&uarr;**](../../../geo/about.en.html#A10n(1) "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140948,145723" title="about: Upper Silesia (German-Polish border region) : Insurance" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1409xx/140948/1457xx/145723/about.en.html))
 - A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140960,145723" title="about: German imperial colonies : Insurance" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1409xx/140960/1457xx/145723/about.en.html))
 - A39 Liechtenstein [**&nearr;**](../../../geo/i/141016/about.en.html "Liechtenstein (all folders)") [**&uarr;**](../../../geo/about.en.html#A39 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141016,145723" title="about: Liechtenstein : Insurance" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1410xx/141016/1457xx/145723/about.en.html))

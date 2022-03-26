@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/C70
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [C70]{.gray}&#8201; Spanisch-Guinea&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q1232509)
+# [C70]{.gray}&#8201; Spanisch-Guinea&#160; 
 
 
 > Scope Note: Spanisch Guinea mit Fernando Po u. Dependenzen, Äquatorial-Guinea (ab 12.10.1968)

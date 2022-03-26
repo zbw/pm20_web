@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/A40
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [A40]{.gray}&#8201; Österreich-Ungarn&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q28513)
+# [A40]{.gray}&#8201; Österreich-Ungarn&#160; 
 
 
 > Scope Note: Österreich-Ungarn (1867-1918) (k.[aiserliche] und k.[önigliche] Monarchie) war eine Doppel-Monarchie und ein Vielvölkerstaat in Mitteleuropa. (einschl.: Dalmatien, Kroatien, Ungarn bis 1919)
@@ -16,7 +17,7 @@ fn-stub: about
 
 
 Insgesamt 13 Sach-Mappen, 303 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
 

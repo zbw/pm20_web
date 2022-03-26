@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/A43
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [A43]{.gray}&#8201; Osmanisches Reich (-1923)&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q12560)
+# [A43]{.gray}&#8201; Osmanisches Reich (-1923)&#160; 
 
 
 > Scope Note: Ab 1923 für Türkei nur B 021 verwenden!

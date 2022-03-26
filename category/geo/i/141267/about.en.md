@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/B101
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [B101]{.gray}&#8201; Macau&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q3916279)
+# [B101]{.gray}&#8201; Macau&#160; 
 
 
 

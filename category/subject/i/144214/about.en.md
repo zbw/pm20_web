@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/c9
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -14,8 +15,8 @@ fn-stub: about
 
 
 
-In total 45 subject folders, 3130 documents - folders incomplete.
-For material not published as folders, please check the [digitized films](/film/h1_sh) (in German).
+In total 45 subject folders, 3151 documents - folders incomplete.
+For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -27,7 +28,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 - A1 Europe [**&nearr;**](../../../geo/i/140892/about.en.html "Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A1 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,144214" title="about: Europe : Landscapes, description of individual places and areas" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1408xx/140892/1442xx/144214/about.en.html))
 - A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144214" title="about: Hamburg : Landscapes, description of individual places and areas" target="_blank">101 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1442xx/144214/about.en.html))
-- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,144214" title="about: Germany : Landscapes, description of individual places and areas" target="_blank">912 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1442xx/144214/about.en.html))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,144214" title="about: Germany : Landscapes, description of individual places and areas" target="_blank">933 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1442xx/144214/about.en.html))
 - A10p East Upper Silesia [**&nearr;**](../../../geo/i/140951/about.en.html "East Upper Silesia (all folders)") [**&uarr;**](../../../geo/about.en.html#A10p "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140951,144214" title="about: East Upper Silesia : Landscapes, description of individual places and areas" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1409xx/140951/1442xx/144214/about.en.html))
 - A43 Ottoman Empire [**&nearr;**](../../../geo/i/141034/about.en.html "Ottoman Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A43 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141034,144214" title="about: Ottoman Empire : Landscapes, description of individual places and areas" target="_blank">19 documents</a>) ([folder](../../../../folder/sh/1410xx/141034/1442xx/144214/about.en.html))
 

@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/m3a
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -14,8 +15,8 @@ fn-stub: about
 
 
 
-In total 26 subject folders, 1290 documents - folders incomplete.
-For material not published as folders, please check the [digitized films](/film/h1_sh) (in German).
+In total 26 subject folders, 1302 documents - folders incomplete.
+For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -23,7 +24,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 - A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,144889" title="about: Southeastern Europe : Individual taxes" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1448xx/144889/about.en.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144889" title="about: Hamburg : Individual taxes" target="_blank">434 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1448xx/144889/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144889" title="about: Hamburg : Individual taxes" target="_blank">446 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1448xx/144889/about.en.html))
 - A36 Italian Empire [**&nearr;**](../../../geo/i/141012/about.en.html "Italian Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A36 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141012,144889" title="about: Italian Empire : Individual taxes" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1410xx/141012/1448xx/144889/about.en.html))
 - A43 Ottoman Empire [**&nearr;**](../../../geo/i/141034/about.en.html "Ottoman Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A43 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141034,144889" title="about: Ottoman Empire : Individual taxes" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1410xx/141034/1448xx/144889/about.en.html))
 

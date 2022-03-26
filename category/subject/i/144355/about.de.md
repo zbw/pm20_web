@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/f4
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -13,8 +14,8 @@ fn-stub: about
 
 
 
-Insgesamt 42 Sach-Mappen, 1366 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
+Insgesamt 42 Sach-Mappen, 1369 Dokumente - Mappen unvollständig.
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
 
@@ -27,7 +28,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 - A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,144355" title="über: Europa : Verfassung, Staatsform" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1443xx/144355/about.de.html))
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,144355" title="über: Südosteuropa : Verfassung, Staatsform" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1443xx/144355/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144355" title="über: Hamburg : Verfassung, Staatsform" target="_blank">125 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1443xx/144355/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144355" title="über: Hamburg : Verfassung, Staatsform" target="_blank">128 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1443xx/144355/about.de.html))
 - A10n(1) Oberschlesien (dt.-poln. Abstimmungsgebiet) [**&nearr;**](../../../geo/i/140948/about.de.html "Oberschlesien (dt.-poln. Abstimmungsgebiet) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10n(1) "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140948,144355" title="über: Oberschlesien (dt.-poln. Abstimmungsgebiet) : Verfassung, Staatsform" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140948/1443xx/144355/about.de.html))
 - A11 Deutsche Kolonien [**&nearr;**](../../../geo/i/140960/about.de.html "Deutsche Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A11 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140960,144355" title="über: Deutsche Kolonien : Verfassung, Staatsform" target="_blank">23 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140960/1443xx/144355/about.de.html))
 - A36 Italienische Kolonien [**&nearr;**](../../../geo/i/141012/about.de.html "Italienische Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A36 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141012,144355" title="über: Italienische Kolonien : Verfassung, Staatsform" target="_blank">13 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141012/1443xx/144355/about.de.html))

@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/C56
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [C56]{.gray}&#8201; Liberia&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q1014)
+# [C56]{.gray}&#8201; Liberia&#160; 
 
 
 

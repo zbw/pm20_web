@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/C58
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [C58]{.gray}&#8201; Togo&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q945)
+# [C58]{.gray}&#8201; Togo&#160; 
 
 
 

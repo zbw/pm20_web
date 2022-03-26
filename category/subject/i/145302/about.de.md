@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/n21_Sm8
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -13,8 +14,8 @@ fn-stub: about
 
 
 
-Insgesamt 9 Sach-Mappen, 150 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
+Insgesamt 9 Sach-Mappen, 181 Dokumente - Mappen unvollständig.
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
 
@@ -24,7 +25,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 - A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,145302" title="über: Europa : Lichtspielwesen" target="_blank">13 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1453xx/145302/about.de.html))
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,145302" title="über: Südosteuropa : Lichtspielwesen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1453xx/145302/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145302" title="über: Hamburg : Lichtspielwesen" target="_blank">66 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1453xx/145302/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145302" title="über: Hamburg : Lichtspielwesen" target="_blank">97 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1453xx/145302/about.de.html))
 
 ### Asien
 

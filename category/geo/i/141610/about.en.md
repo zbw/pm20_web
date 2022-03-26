@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/D11
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [D11]{.gray}&#8201; Solomon Islands and Bismarck Archipelago&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q97060007)
+# [D11]{.gray}&#8201; Solomon Islands and Bismarck Archipelago&#160; 
 
 
 

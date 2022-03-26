@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/C80
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [C80]{.gray}&#8201; Belgisch-Kongo&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q213510)
+# [C80]{.gray}&#8201; Belgisch-Kongo&#160; 
 
 
 > Scope Note: Belgisch-Kongo (1907-1960), Demokratische Republik Kongo (1960-1971; 1997-), Zaire (1971-1997)
@@ -16,7 +17,7 @@ fn-stub: about
 
 
 Insgesamt 2 Sach-Mappen, 5 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
 

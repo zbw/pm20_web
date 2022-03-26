@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/A38
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [A38]{.gray}&#8201; Fiume&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q1647)
+# [A38]{.gray}&#8201; Fiume&#160; 
 
 
 > Scope Note: Freistaat Fiume von 1920 bis 127.01.1924. Italienischer und ungarischer Name von Rijeka, daneben auch ungarisch Szentvit, deutsch veraltet auch St. Veit am Flaum.  Hafenstadt an der Kvarner-Bucht in Kroatien

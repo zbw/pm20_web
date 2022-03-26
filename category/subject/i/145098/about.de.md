@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/n13
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -13,8 +14,8 @@ fn-stub: about
 
 
 
-Insgesamt 38 Sach-Mappen, 1462 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
+Insgesamt 38 Sach-Mappen, 1466 Dokumente - Mappen unvollständig.
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
 
@@ -31,7 +32,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 - A5 Levante [**&nearr;**](../../../geo/i/140898/about.de.html "Levante (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A5 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140898,145098" title="über: Levante : Industrie" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140898/1450xx/145098/about.de.html))
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,145098" title="über: Südosteuropa : Industrie" target="_blank">13 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1450xx/145098/about.de.html))
 - A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140902,145098" title="über: Orient : Industrie" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1450xx/145098/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145098" title="über: Hamburg : Industrie" target="_blank">138 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1450xx/145098/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145098" title="über: Hamburg : Industrie" target="_blank">142 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1450xx/145098/about.de.html))
 - A10n(1) Oberschlesien (dt.-poln. Abstimmungsgebiet) [**&nearr;**](../../../geo/i/140948/about.de.html "Oberschlesien (dt.-poln. Abstimmungsgebiet) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10n(1) "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140948,145098" title="über: Oberschlesien (dt.-poln. Abstimmungsgebiet) : Industrie" target="_blank">19 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140948/1450xx/145098/about.de.html))
 - A11 Deutsche Kolonien [**&nearr;**](../../../geo/i/140960/about.de.html "Deutsche Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A11 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140960,145098" title="über: Deutsche Kolonien : Industrie" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140960/1450xx/145098/about.de.html))
 - A36 Italienische Kolonien [**&nearr;**](../../../geo/i/141012/about.de.html "Italienische Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A36 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141012,145098" title="über: Italienische Kolonien : Industrie" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141012/1450xx/145098/about.de.html))

@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/l7
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -14,8 +15,8 @@ fn-stub: about
 
 
 
-In total 9 subject folders, 104 documents - folders incomplete.
-For material not published as folders, please check the [digitized films](/film/h1_sh) (in German).
+In total 9 subject folders, 106 documents - folders incomplete.
+For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -25,7 +26,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144783" title="about: Hamburg : Pay, pensions, war grants, veteran care" target="_blank">23 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1447xx/144783/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144783" title="about: Hamburg : Pay, pensions, war grants, veteran care" target="_blank">25 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1447xx/144783/about.en.html))
 - A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140960,144783" title="about: German imperial colonies : Pay, pensions, war grants, veteran care" target="_blank">5 documents</a>) ([folder](../../../../folder/sh/1409xx/140960/1447xx/144783/about.en.html))
 - A43 Ottoman Empire [**&nearr;**](../../../geo/i/141034/about.en.html "Ottoman Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A43 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141034,144783" title="about: Ottoman Empire : Pay, pensions, war grants, veteran care" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1410xx/141034/1447xx/144783/about.en.html))
 

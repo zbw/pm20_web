@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/n_Sm28
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -14,15 +15,15 @@ fn-stub: about
 
 
 
-In total 11 subject folders, 174 documents - folders incomplete.
-For material not published as folders, please check the [digitized films](/film/h1_sh) (in German).
+In total 11 subject folders, 177 documents - folders incomplete.
+For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 ## Subject archives
 
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145824" title="about: Hamburg : Casinos, private lotteries, betting companies, general" target="_blank">38 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1458xx/145824/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145824" title="about: Hamburg : Casinos, private lotteries, betting companies, general" target="_blank">41 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1458xx/145824/about.en.html))
 - A37 Monaco [**&nearr;**](../../../geo/i/141013/about.en.html "Monaco (all folders)") [**&uarr;**](../../../geo/about.en.html#A37 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141013,145824" title="about: Monaco : Casinos, private lotteries, betting companies, general" target="_blank">7 documents</a>) ([folder](../../../../folder/sh/1410xx/141013/1458xx/145824/about.en.html))
 - A39 Liechtenstein [**&nearr;**](../../../geo/i/141016/about.en.html "Liechtenstein (all folders)") [**&uarr;**](../../../geo/about.en.html#A39 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141016,145824" title="about: Liechtenstein : Casinos, private lotteries, betting companies, general" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1410xx/141016/1458xx/145824/about.en.html))
 

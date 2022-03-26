@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/p7
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -13,8 +14,8 @@ fn-stub: about
 
 
 
-Insgesamt 7 Sach-Mappen, 96 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
+Insgesamt 7 Sach-Mappen, 97 Dokumente - Mappen unvollständig.
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
 
@@ -23,7 +24,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 
 - A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,145939" title="über: Europa : Binnenwanderungsbewegungen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1459xx/145939/about.de.html))
-- A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140902,145939" title="über: Orient : Binnenwanderungsbewegungen" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1459xx/145939/about.de.html))
+- A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140902,145939" title="über: Orient : Binnenwanderungsbewegungen" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1459xx/145939/about.de.html))
 - A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145939" title="über: Hamburg : Binnenwanderungsbewegungen" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1459xx/145939/about.de.html))
 - A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,145939" title="über: Deutschland : Binnenwanderungsbewegungen" target="_blank">76 Dokumente</a>) ([Mappe](../../../../folder/sh/1261xx/126128/1459xx/145939/about.de.html))
 

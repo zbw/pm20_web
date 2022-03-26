@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/f
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -14,8 +15,8 @@ fn-stub: about
 
 
 
-In total 45 subject folders, 1041 documents - folders incomplete.
-For material not published as folders, please check the [digitized films](/film/h1_sh) (in German).
+In total 45 subject folders, 1042 documents - folders incomplete.
+For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -31,7 +32,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A5a Mediterranean region [**&nearr;**](../../../geo/i/140899/about.en.html "Mediterranean region (all folders)") [**&uarr;**](../../../geo/about.en.html#A5a "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140899,144282" title="about: Mediterranean region : History, politics, general" target="_blank">5 documents</a>) ([folder](../../../../folder/sh/1408xx/140899/1442xx/144282/about.en.html))
 - A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,144282" title="about: Southeastern Europe : History, politics, general" target="_blank">29 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1442xx/144282/about.en.html))
 - A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140902,144282" title="about: Orient : History, politics, general" target="_blank">5 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1442xx/144282/about.en.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144282" title="about: Hamburg : History, politics, general" target="_blank">192 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1442xx/144282/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144282" title="about: Hamburg : History, politics, general" target="_blank">193 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1442xx/144282/about.en.html))
 - A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,144282" title="about: Germany : History, politics, general" target="_blank">345 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1442xx/144282/about.en.html))
 - A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140960,144282" title="about: German imperial colonies : History, politics, general" target="_blank">38 documents</a>) ([folder](../../../../folder/sh/1409xx/140960/1442xx/144282/about.en.html))
 - A36 Italian Empire [**&nearr;**](../../../geo/i/141012/about.en.html "Italian Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A36 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141012,144282" title="about: Italian Empire : History, politics, general" target="_blank">4 documents</a>) ([folder](../../../../folder/sh/1410xx/141012/1442xx/144282/about.en.html))

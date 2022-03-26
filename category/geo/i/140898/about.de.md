@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/A5
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [A5]{.gray}&#8201; Levante&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q81483)
+# [A5]{.gray}&#8201; Levante&#160; 
 
 
 > Scope Note: Länder des östlichen Mittelmeeres, eigentlich alle Länder, die östlich von Italien liegen, besonders das Küstengebiet von Kleinasien, Libanon, Syrien und Ägypten.

@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/C57
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [C57]{.gray}&#8201; Gold Coast incl. British Togoland&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q503623)
+# [C57]{.gray}&#8201; Gold Coast incl. British Togoland&#160; 
 
 
 

@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/n9
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -13,8 +14,8 @@ fn-stub: about
 
 
 
-Insgesamt 36 Sach-Mappen, 399 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
+Insgesamt 36 Sach-Mappen, 402 Dokumente - Mappen unvollständig.
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
 
@@ -29,7 +30,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 - A3 Osteuropa [**&nearr;**](../../../geo/i/140896/about.de.html "Osteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A3 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140896,145074" title="über: Osteuropa : Forstwirtschaft" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140896/1450xx/145074/about.de.html))
 - A5a Mittelmeerländer [**&nearr;**](../../../geo/i/140899/about.de.html "Mittelmeerländer (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A5a "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140899,145074" title="über: Mittelmeerländer : Forstwirtschaft" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140899/1450xx/145074/about.de.html))
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,145074" title="über: Südosteuropa : Forstwirtschaft" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1450xx/145074/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145074" title="über: Hamburg : Forstwirtschaft" target="_blank">22 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1450xx/145074/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145074" title="über: Hamburg : Forstwirtschaft" target="_blank">25 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1450xx/145074/about.de.html))
 - A11 Deutsche Kolonien [**&nearr;**](../../../geo/i/140960/about.de.html "Deutsche Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A11 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140960,145074" title="über: Deutsche Kolonien : Forstwirtschaft" target="_blank">10 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140960/1450xx/145074/about.de.html))
 - A36 Italienische Kolonien [**&nearr;**](../../../geo/i/141012/about.de.html "Italienische Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A36 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141012,145074" title="über: Italienische Kolonien : Forstwirtschaft" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141012/1450xx/145074/about.de.html))
 - A43 Osmanisches Reich (-1923) [**&nearr;**](../../../geo/i/141034/about.de.html "Osmanisches Reich (-1923) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A43 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141034,145074" title="über: Osmanisches Reich (-1923) : Forstwirtschaft" target="_blank">10 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141034/1450xx/145074/about.de.html))

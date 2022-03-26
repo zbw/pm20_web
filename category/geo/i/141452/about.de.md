@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/C91
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [C91]{.gray}&#8201; Sankt Helena&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q34497)
+# [C91]{.gray}&#8201; Sankt Helena&#160; 
 
 
 > Scope Note: Die Kronkolonie St. Helena und Nebengebiete (engl.: the Crown Colony of Saint Helena and Dependencies) ist eine Insel im Südatlantik.

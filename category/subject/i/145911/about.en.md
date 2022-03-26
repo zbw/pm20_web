@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/o1_Sm500
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -14,8 +15,8 @@ fn-stub: about
 
 
 
-In total 68 subject folders, 5455 documents - folders incomplete.
-For material not published as folders, please check the [digitized films](/film/h1_sh) (in German).
+In total 68 subject folders, 5456 documents - folders incomplete.
+For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -71,7 +72,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - C80 Belgian Congo [**&nearr;**](../../../geo/i/141444/about.en.html "Belgian Congo (all folders)") [**&uarr;**](../../../geo/about.en.html#C80 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141444,145911" title="about: Belgian Congo : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1414xx/141444/1459xx/145911/about.en.html))
 - C85 Portuguese Angola [**&nearr;**](../../../geo/i/141449/about.en.html "Portuguese Angola (all folders)") [**&uarr;**](../../../geo/about.en.html#C85 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141449,145911" title="about: Portuguese Angola : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">18 documents</a>) ([folder](../../../../folder/sh/1414xx/141449/1459xx/145911/about.en.html))
 - C87 German South-West Africa [**&nearr;**](../../../geo/i/141450/about.en.html "German South-West Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C87 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141450,145911" title="about: German South-West Africa : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">651 documents</a>) ([folder](../../../../folder/sh/1414xx/141450/1459xx/145911/about.en.html))
-- C93 Union of South Africa [**&nearr;**](../../../geo/i/141454/about.en.html "Union of South Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C93 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141454,145911" title="about: Union of South Africa : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">231 documents</a>) ([folder](../../../../folder/sh/1414xx/141454/1459xx/145911/about.en.html))
+- C93 Union of South Africa [**&nearr;**](../../../geo/i/141454/about.en.html "Union of South Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C93 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141454,145911" title="about: Union of South Africa : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">232 documents</a>) ([folder](../../../../folder/sh/1414xx/141454/1459xx/145911/about.en.html))
 - C100 Portuguese Mozambique [**&nearr;**](../../../geo/i/141463/about.en.html "Portuguese Mozambique (all folders)") [**&uarr;**](../../../geo/about.en.html#C100 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141463,145911" title="about: Portuguese Mozambique : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">6 documents</a>) ([folder](../../../../folder/sh/1414xx/141463/1459xx/145911/about.en.html))
 - C102 Madagascar [**&nearr;**](../../../geo/i/141464/about.en.html "Madagascar (all folders)") [**&uarr;**](../../../geo/about.en.html#C102 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141464,145911" title="about: Madagascar : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1414xx/141464/1459xx/145911/about.en.html))
 - C115 Zanzibar [**&nearr;**](../../../geo/i/141474/about.en.html "Zanzibar (all folders)") [**&uarr;**](../../../geo/about.en.html#C115 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141474,145911" title="about: Zanzibar : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1414xx/141474/1459xx/145911/about.en.html))

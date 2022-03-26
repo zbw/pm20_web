@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/n34
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -14,8 +15,8 @@ fn-stub: about
 
 
 
-In total 48 subject folders, 1417 documents - folders incomplete.
-For material not published as folders, please check the [digitized films](/film/h1_sh) (in German).
+In total 48 subject folders, 1418 documents - folders incomplete.
+For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -26,7 +27,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A5 Levant [**&nearr;**](../../../geo/i/140898/about.en.html "Levant (all folders)") [**&uarr;**](../../../geo/about.en.html#A5 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140898,145662" title="about: Levant : Postal services, telegraphy and telephony" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1408xx/140898/1456xx/145662/about.en.html))
 - A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,145662" title="about: Southeastern Europe : Postal services, telegraphy and telephony" target="_blank">16 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1456xx/145662/about.en.html))
 - A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140902,145662" title="about: Orient : Postal services, telegraphy and telephony" target="_blank">0 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1456xx/145662/about.en.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145662" title="about: Hamburg : Postal services, telegraphy and telephony" target="_blank">72 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1456xx/145662/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145662" title="about: Hamburg : Postal services, telegraphy and telephony" target="_blank">73 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1456xx/145662/about.en.html))
 - A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,145662" title="about: Germany : Postal services, telegraphy and telephony" target="_blank">538 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1456xx/145662/about.en.html))
 - A10n(1) Upper Silesia (German-Polish border region) [**&nearr;**](../../../geo/i/140948/about.en.html "Upper Silesia (German-Polish border region) (all folders)") [**&uarr;**](../../../geo/about.en.html#A10n(1) "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140948,145662" title="about: Upper Silesia (German-Polish border region) : Postal services, telegraphy and telephony" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1409xx/140948/1456xx/145662/about.en.html))
 - A10p East Upper Silesia [**&nearr;**](../../../geo/i/140951/about.en.html "East Upper Silesia (all folders)") [**&uarr;**](../../../geo/about.en.html#A10p "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140951,145662" title="about: East Upper Silesia : Postal services, telegraphy and telephony" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1409xx/140951/1456xx/145662/about.en.html))

@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/m1
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -14,8 +15,8 @@ fn-stub: about
 
 
 
-In total 43 subject folders, 2997 documents - folders incomplete.
-For material not published as folders, please check the [digitized films](/film/h1_sh) (in German).
+In total 43 subject folders, 3026 documents - folders incomplete.
+For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -26,7 +27,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A4 Western Europe [**&nearr;**](../../../geo/i/140897/about.en.html "Western Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A4 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140897,144810" title="about: Western Europe : State budget" target="_blank">6 documents</a>) ([folder](../../../../folder/sh/1408xx/140897/1448xx/144810/about.en.html))
 - A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,144810" title="about: Southeastern Europe : State budget" target="_blank">12 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1448xx/144810/about.en.html))
 - A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140902,144810" title="about: Orient : State budget" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1448xx/144810/about.en.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144810" title="about: Hamburg : State budget" target="_blank">65 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1448xx/144810/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144810" title="about: Hamburg : State budget" target="_blank">94 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1448xx/144810/about.en.html))
 - A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140960,144810" title="about: German imperial colonies : State budget" target="_blank">86 documents</a>) ([folder](../../../../folder/sh/1409xx/140960/1448xx/144810/about.en.html))
 - A36 Italian Empire [**&nearr;**](../../../geo/i/141012/about.en.html "Italian Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A36 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141012,144810" title="about: Italian Empire : State budget" target="_blank">33 documents</a>) ([folder](../../../../folder/sh/1410xx/141012/1448xx/144810/about.en.html))
 - A39 Liechtenstein [**&nearr;**](../../../geo/i/141016/about.en.html "Liechtenstein (all folders)") [**&uarr;**](../../../geo/about.en.html#A39 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141016,144810" title="about: Liechtenstein : State budget" target="_blank">9 documents</a>) ([folder](../../../../folder/sh/1410xx/141016/1448xx/144810/about.en.html))

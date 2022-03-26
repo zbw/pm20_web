@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/o1_Sm500
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -13,8 +14,8 @@ fn-stub: about
 
 
 
-Insgesamt 68 Sach-Mappen, 5455 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
+Insgesamt 68 Sach-Mappen, 5456 Dokumente - Mappen unvollständig.
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
 
@@ -71,7 +72,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 - C80 Belgisch-Kongo [**&nearr;**](../../../geo/i/141444/about.de.html "Belgisch-Kongo (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C80 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141444,145911" title="über: Belgisch-Kongo : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141444/1459xx/145911/about.de.html))
 - C85 Portugiesisch-Westafrika [**&nearr;**](../../../geo/i/141449/about.de.html "Portugiesisch-Westafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C85 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141449,145911" title="über: Portugiesisch-Westafrika : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">18 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141449/1459xx/145911/about.de.html))
 - C87 Deutsch-Südwestafrika [**&nearr;**](../../../geo/i/141450/about.de.html "Deutsch-Südwestafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C87 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141450,145911" title="über: Deutsch-Südwestafrika : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">651 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141450/1459xx/145911/about.de.html))
-- C93 Britisch-Südafrika [**&nearr;**](../../../geo/i/141454/about.de.html "Britisch-Südafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C93 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141454,145911" title="über: Britisch-Südafrika : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">231 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141454/1459xx/145911/about.de.html))
+- C93 Britisch-Südafrika [**&nearr;**](../../../geo/i/141454/about.de.html "Britisch-Südafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C93 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141454,145911" title="über: Britisch-Südafrika : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">232 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141454/1459xx/145911/about.de.html))
 - C100 Portugiesisch-Ostafrika [**&nearr;**](../../../geo/i/141463/about.de.html "Portugiesisch-Ostafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C100 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141463,145911" title="über: Portugiesisch-Ostafrika : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141463/1459xx/145911/about.de.html))
 - C102 Madagaskar [**&nearr;**](../../../geo/i/141464/about.de.html "Madagaskar (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C102 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141464,145911" title="über: Madagaskar : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141464/1459xx/145911/about.de.html))
 - C115 Sansibar [**&nearr;**](../../../geo/i/141474/about.de.html "Sansibar (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C115 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141474,145911" title="über: Sansibar : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141474/1459xx/145911/about.de.html))

@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/h5a
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -14,8 +15,8 @@ fn-stub: about
 
 
 
-In total 12 subject folders, 309 documents - folders incomplete.
-For material not published as folders, please check the [digitized films](/film/h1_sh) (in German).
+In total 12 subject folders, 313 documents - folders incomplete.
+For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -25,7 +26,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144676" title="about: Hamburg : Administration, individual states, provinces and municipalities" target="_blank">125 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1446xx/144676/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144676" title="about: Hamburg : Administration, individual states, provinces and municipalities" target="_blank">129 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1446xx/144676/about.en.html))
 - A10p East Upper Silesia [**&nearr;**](../../../geo/i/140951/about.en.html "East Upper Silesia (all folders)") [**&uarr;**](../../../geo/about.en.html#A10p "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140951,144676" title="about: East Upper Silesia : Administration, individual states, provinces and municipalities" target="_blank">6 documents</a>) ([folder](../../../../folder/sh/1409xx/140951/1446xx/144676/about.en.html))
 - A43 Ottoman Empire [**&nearr;**](../../../geo/i/141034/about.en.html "Ottoman Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A43 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141034,144676" title="about: Ottoman Empire : Administration, individual states, provinces and municipalities" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1410xx/141034/1446xx/144676/about.en.html))
 

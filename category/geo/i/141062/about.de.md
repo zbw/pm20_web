@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/B6
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [B6]{.gray}&#8201; Ostasien&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q27231)
+# [B6]{.gray}&#8201; Ostasien&#160; 
 
 
 > Scope Note: Umfasst Südchina , die Große Ebene u. die Mandschurei sowie Korea, ferner die vorgelagerten Kurilen, Sachalin, die japanischen Inseln, Taiwan u. weiter kleine Inseln
@@ -16,7 +17,7 @@ fn-stub: about
 
 
 Insgesamt 1 Sach-Mappen, 40 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
 

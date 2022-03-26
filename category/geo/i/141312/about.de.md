@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/C2a
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [C2a]{.gray}&#8201; Frankophones Afrika&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q2470685)
+# [C2a]{.gray}&#8201; Frankophones Afrika&#160; 
 
 
 > Scope Note: Französisch Nord- und Westafrika i.G.
@@ -16,7 +17,7 @@ fn-stub: about
 
 
 Insgesamt 2 Sach-Mappen, 3 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
 

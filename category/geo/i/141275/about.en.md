@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/B114
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [B114]{.gray}&#8201; Guangdong&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q15175)
+# [B114]{.gray}&#8201; Guangdong&#160; 
 
 
 

@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/D13
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [D13]{.gray}&#8201; Karolinen-Inseln&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q118350)
+# [D13]{.gray}&#8201; Karolinen-Inseln&#160; 
 
 
 > Scope Note: bis 30.6.1919, dann unter Japanische Mandantsländer in Ozeanien (D 18); 	

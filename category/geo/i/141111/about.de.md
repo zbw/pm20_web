@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/B21
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [B21]{.gray}&#8201; Türkei (1923 -)&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q43)
+# [B21]{.gray}&#8201; Türkei (1923 -)&#160; 
 
 
 > Scope Note: vor 1921 hier auch A 043!

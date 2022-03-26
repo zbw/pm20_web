@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/n26_Sm1
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -13,8 +14,8 @@ fn-stub: about
 
 
 
-Insgesamt 7 Sach-Mappen, 142 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
+Insgesamt 7 Sach-Mappen, 146 Dokumente - Mappen unvollständig.
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
 
@@ -26,7 +27,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 ### Europa
 
 - A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140902,145492" title="über: Orient : Handelskammern, Industriekammern und Gewerbekammern, Allgemein" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1454xx/145492/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145492" title="über: Hamburg : Handelskammern, Industriekammern und Gewerbekammern, Allgemein" target="_blank">59 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1454xx/145492/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145492" title="über: Hamburg : Handelskammern, Industriekammern und Gewerbekammern, Allgemein" target="_blank">63 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1454xx/145492/about.de.html))
 
 ### Asien
 

@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/g4
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -13,8 +14,8 @@ fn-stub: about
 
 
 
-Insgesamt 46 Sach-Mappen, 2036 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
+Insgesamt 46 Sach-Mappen, 2037 Dokumente - Mappen unvollständig.
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
 
@@ -35,7 +36,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,144470" title="über: Südosteuropa : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein" target="_blank">154 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1444xx/144470/about.de.html))
 - A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140902,144470" title="über: Orient : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1444xx/144470/about.de.html))
 - A8 Russische Randstaaten [**&nearr;**](../../../geo/i/140904/about.de.html "Russische Randstaaten (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A8 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140904,144470" title="über: Russische Randstaaten : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein" target="_blank">9 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140904/1444xx/144470/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144470" title="über: Hamburg : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein" target="_blank">12 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1444xx/144470/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144470" title="über: Hamburg : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein" target="_blank">13 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1444xx/144470/about.de.html))
 - A10p Polnisch-Schlesien [**&nearr;**](../../../geo/i/140951/about.de.html "Polnisch-Schlesien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10p "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140951,144470" title="über: Polnisch-Schlesien : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140951/1444xx/144470/about.de.html))
 - A36 Italienische Kolonien [**&nearr;**](../../../geo/i/141012/about.de.html "Italienische Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A36 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141012,144470" title="über: Italienische Kolonien : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141012/1444xx/144470/about.de.html))
 - A39 Liechtenstein [**&nearr;**](../../../geo/i/141016/about.de.html "Liechtenstein (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A39 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141016,144470" title="über: Liechtenstein : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141016/1444xx/144470/about.de.html))

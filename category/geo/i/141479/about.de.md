@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/C122
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [C122]{.gray}&#8201; Französisch-Somaliland&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q977)
+# [C122]{.gray}&#8201; Französisch-Somaliland&#160; 
 
 
 > Scope Note: Französisch Somaliland, Französisch Afar und Issar-Küste (ab 15.6.1967), Dschibuti (ab 28.6.1977)
@@ -16,7 +17,7 @@ fn-stub: about
 
 
 Insgesamt 11 Sach-Mappen, 52 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
 

@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/C87
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [C87]{.gray}&#8201; Deutsch-Südwestafrika&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q153665)
+# [C87]{.gray}&#8201; Deutsch-Südwestafrika&#160; 
 
 
 > Scope Note: Deutsch Südwest Afrika (1884-1915), Südwestafrika (britisch, ab 1920 südafrikanisches Mandatsgebiet), Namibia (ab 1990)

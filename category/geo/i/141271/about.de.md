@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/B110
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [B110]{.gray}&#8201; Weihaiwei&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q15939896)
+# [B110]{.gray}&#8201; Weihaiwei&#160; 
 
 
 > Scope Note: 1898 an England verpachtet, bis 30.9.1930, dann China (B 94),

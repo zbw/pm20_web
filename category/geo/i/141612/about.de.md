@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/D12
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [D12]{.gray}&#8201; Kaiser-Wilhelmsland&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q691017)
+# [D12]{.gray}&#8201; Kaiser-Wilhelmsland&#160; 
 
 
 > Scope Note: nordöstliche Teil der Insel Neuguinea

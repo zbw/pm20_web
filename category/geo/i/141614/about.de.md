@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/D14
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [D14]{.gray}&#8201; Palau Islands&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q1588974)
+# [D14]{.gray}&#8201; Palau Islands&#160; 
 
 
 > Scope Note: bis 30.6.1919, dann unter Japanische Mandatländer in Ozeanien (D 18)

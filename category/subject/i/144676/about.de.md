@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/h5a
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -13,8 +14,8 @@ fn-stub: about
 
 
 
-Insgesamt 12 Sach-Mappen, 309 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
+Insgesamt 12 Sach-Mappen, 313 Dokumente - Mappen unvollständig.
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
 
@@ -25,7 +26,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144676" title="über: Hamburg : Verwaltung, einzelne Bundesstaaten, Provinzen und Kommunen" target="_blank">125 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1446xx/144676/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144676" title="über: Hamburg : Verwaltung, einzelne Bundesstaaten, Provinzen und Kommunen" target="_blank">129 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1446xx/144676/about.de.html))
 - A10p Polnisch-Schlesien [**&nearr;**](../../../geo/i/140951/about.de.html "Polnisch-Schlesien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10p "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140951,144676" title="über: Polnisch-Schlesien : Verwaltung, einzelne Bundesstaaten, Provinzen und Kommunen" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140951/1446xx/144676/about.de.html))
 - A43 Osmanisches Reich (-1923) [**&nearr;**](../../../geo/i/141034/about.de.html "Osmanisches Reich (-1923) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A43 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141034,144676" title="über: Osmanisches Reich (-1923) : Verwaltung, einzelne Bundesstaaten, Provinzen und Kommunen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141034/1446xx/144676/about.de.html))
 

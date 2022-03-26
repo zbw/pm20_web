@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/d5
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -14,8 +15,8 @@ fn-stub: about
 
 
 
-In total 31 subject folders, 391 documents - folders incomplete.
-For material not published as folders, please check the [digitized films](/film/h1_sh) (in German).
+In total 31 subject folders, 392 documents - folders incomplete.
+For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -25,7 +26,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A1 Europe [**&nearr;**](../../../geo/i/140892/about.en.html "Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A1 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,144233" title="about: Europe : Social conditions, social situation" target="_blank">6 documents</a>) ([folder](../../../../folder/sh/1408xx/140892/1442xx/144233/about.en.html))
 - A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,144233" title="about: Southeastern Europe : Social conditions, social situation" target="_blank">4 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1442xx/144233/about.en.html))
 - A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140902,144233" title="about: Orient : Social conditions, social situation" target="_blank">4 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1442xx/144233/about.en.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144233" title="about: Hamburg : Social conditions, social situation" target="_blank">37 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1442xx/144233/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144233" title="about: Hamburg : Social conditions, social situation" target="_blank">38 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1442xx/144233/about.en.html))
 - A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,144233" title="about: Germany : Social conditions, social situation" target="_blank">111 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1442xx/144233/about.en.html))
 - A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140960,144233" title="about: German imperial colonies : Social conditions, social situation" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1409xx/140960/1442xx/144233/about.en.html))
 - A36 Italian Empire [**&nearr;**](../../../geo/i/141012/about.en.html "Italian Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A36 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141012,144233" title="about: Italian Empire : Social conditions, social situation" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1410xx/141012/1442xx/144233/about.en.html))

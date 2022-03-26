@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/C97
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [C97]{.gray}&#8201; Swaziland&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q1050)
+# [C97]{.gray}&#8201; Swaziland&#160; 
 
 
 > Scope Note: Königreich, britisches Protektorat, ab 1968 unabhängig
@@ -16,7 +17,7 @@ fn-stub: about
 
 
 Insgesamt 1 Sach-Mappen, 1 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
 

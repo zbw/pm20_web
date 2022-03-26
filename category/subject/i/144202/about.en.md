@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/c2
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -14,8 +15,8 @@ fn-stub: about
 
 
 
-In total 33 subject folders, 389 documents - folders incomplete.
-For material not published as folders, please check the [digitized films](/film/h1_sh) (in German).
+In total 33 subject folders, 399 documents - folders incomplete.
+For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -28,7 +29,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A1 Europe [**&nearr;**](../../../geo/i/140892/about.en.html "Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A1 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,144202" title="about: Europe : State borders, political division" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1408xx/140892/1442xx/144202/about.en.html))
 - A2 Central Europe [**&nearr;**](../../../geo/i/140895/about.en.html "Central Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A2 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140895,144202" title="about: Central Europe : State borders, political division" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1408xx/140895/1442xx/144202/about.en.html))
 - A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,144202" title="about: Southeastern Europe : State borders, political division" target="_blank">4 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1442xx/144202/about.en.html))
-- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,144202" title="about: Germany : State borders, political division" target="_blank">192 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1442xx/144202/about.en.html))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,144202" title="about: Germany : State borders, political division" target="_blank">202 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1442xx/144202/about.en.html))
 - A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140960,144202" title="about: German imperial colonies : State borders, political division" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1409xx/140960/1442xx/144202/about.en.html))
 - A12 Poland [**&nearr;**](../../../geo/i/140962/about.en.html "Poland (all folders)") [**&uarr;**](../../../geo/about.en.html#A12 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140962,144202" title="about: Poland : State borders, political division" target="_blank">53 documents</a>) ([folder](../../../../folder/sh/1409xx/140962/1442xx/144202/about.en.html))
 

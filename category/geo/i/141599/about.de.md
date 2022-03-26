@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/D8
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [D8]{.gray}&#8201; Nauru&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q697)
+# [D8]{.gray}&#8201; Nauru&#160; 
 
 
 > Scope Note: 1888 von Deutschland annektiert. 1914 von australischen Truppen besetzt. Ab 1920 unter australischem Mandat.

@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/n24_Sm3
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -13,8 +14,8 @@ fn-stub: about
 
 
 
-Insgesamt 11 Sach-Mappen, 162 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
+Insgesamt 11 Sach-Mappen, 174 Dokumente - Mappen unvollständig.
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
 
@@ -26,7 +27,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 ### Europa
 
 - A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,145343" title="über: Europa : Sparkassenwesen, Spareinrichtungen, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1453xx/145343/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145343" title="über: Hamburg : Sparkassenwesen, Spareinrichtungen, Allgemein" target="_blank">61 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1453xx/145343/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145343" title="über: Hamburg : Sparkassenwesen, Spareinrichtungen, Allgemein" target="_blank">73 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1453xx/145343/about.de.html))
 - A11 Deutsche Kolonien [**&nearr;**](../../../geo/i/140960/about.de.html "Deutsche Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A11 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140960,145343" title="über: Deutsche Kolonien : Sparkassenwesen, Spareinrichtungen, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140960/1453xx/145343/about.de.html))
 
 ### Asien

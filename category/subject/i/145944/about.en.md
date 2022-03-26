@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/q_Sm2.IIb
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -14,8 +15,8 @@ fn-stub: about
 
 
 
-In total 14 subject folders, 198 documents - folders incomplete.
-For material not published as folders, please check the [digitized films](/film/h1_sh) (in German).
+In total 14 subject folders, 205 documents - folders incomplete.
+For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -26,7 +27,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### Europe
 
 - A4 Western Europe [**&nearr;**](../../../geo/i/140897/about.en.html "Western Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A4 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140897,145944" title="about: Western Europe : War material deliveries from abroad, through individual countries" target="_blank">17 documents</a>) ([folder](../../../../folder/sh/1408xx/140897/1459xx/145944/about.en.html))
-- A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140902,145944" title="about: Orient : War material deliveries from abroad, through individual countries" target="_blank">9 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1459xx/145944/about.en.html))
+- A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140902,145944" title="about: Orient : War material deliveries from abroad, through individual countries" target="_blank">16 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1459xx/145944/about.en.html))
 - A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,145944" title="about: Germany : War material deliveries from abroad, through individual countries" target="_blank">24 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1459xx/145944/about.en.html))
 
 ### Asia

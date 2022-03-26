@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/f2a
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -13,8 +14,8 @@ fn-stub: about
 
 
 
-Insgesamt 19 Sach-Mappen, 4407 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
+Insgesamt 19 Sach-Mappen, 4408 Dokumente - Mappen unvollständig.
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
 
@@ -22,7 +23,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144354" title="über: Hamburg : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten" target="_blank">141 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1443xx/144354/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144354" title="über: Hamburg : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten" target="_blank">142 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1443xx/144354/about.de.html))
 - A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,144354" title="über: Deutschland : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten" target="_blank">2837 Dokumente</a>) ([Mappe](../../../../folder/sh/1261xx/126128/1443xx/144354/about.de.html))
 
 ### Asien

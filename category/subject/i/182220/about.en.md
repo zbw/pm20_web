@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/o3
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -14,8 +15,8 @@ fn-stub: about
 
 
 
-In total 37 subject folders, 850 documents - folders incomplete.
-For material not published as folders, please check the [digitized films](/film/h1_sh) (in German).
+In total 37 subject folders, 852 documents - folders incomplete.
+For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -30,7 +31,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,182220" title="about: Southeastern Europe : Minorities from individual countries" target="_blank">8 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1822xx/182220/about.en.html))
 - A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140902,182220" title="about: Orient : Minorities from individual countries" target="_blank">8 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1822xx/182220/about.en.html))
 - A8 Russian peripheral countries [**&nearr;**](../../../geo/i/140904/about.en.html "Russian peripheral countries (all folders)") [**&uarr;**](../../../geo/about.en.html#A8 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140904,182220" title="about: Russian peripheral countries : Minorities from individual countries" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1409xx/140904/1822xx/182220/about.en.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,182220" title="about: Hamburg : Minorities from individual countries" target="_blank">94 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1822xx/182220/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,182220" title="about: Hamburg : Minorities from individual countries" target="_blank">96 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1822xx/182220/about.en.html))
 - A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140960,182220" title="about: German imperial colonies : Minorities from individual countries" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1409xx/140960/1822xx/182220/about.en.html))
 - A43 Ottoman Empire [**&nearr;**](../../../geo/i/141034/about.en.html "Ottoman Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A43 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141034,182220" title="about: Ottoman Empire : Minorities from individual countries" target="_blank">20 documents</a>) ([folder](../../../../folder/sh/1410xx/141034/1822xx/182220/about.en.html))
 

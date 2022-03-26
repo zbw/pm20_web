@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/n2_Sm4
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -13,8 +14,8 @@ fn-stub: about
 
 
 
-Insgesamt 11 Sach-Mappen, 322 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
+Insgesamt 11 Sach-Mappen, 367 Dokumente - Mappen unvollständig.
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
 
@@ -26,7 +27,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 ### Europa
 
 - A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,144976" title="über: Europa : Arbeitsmarkt, Erwerbslosenstatistik" target="_blank">12 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1449xx/144976/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144976" title="über: Hamburg : Arbeitsmarkt, Erwerbslosenstatistik" target="_blank">105 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1449xx/144976/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144976" title="über: Hamburg : Arbeitsmarkt, Erwerbslosenstatistik" target="_blank">150 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1449xx/144976/about.de.html))
 - A10p Polnisch-Schlesien [**&nearr;**](../../../geo/i/140951/about.de.html "Polnisch-Schlesien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10p "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140951,144976" title="über: Polnisch-Schlesien : Arbeitsmarkt, Erwerbslosenstatistik" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140951/1449xx/144976/about.de.html))
 
 ### Asien

@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/E101
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [E101]{.gray}&#8201; Niederländisch-Guayana&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q730)
+# [E101]{.gray}&#8201; Niederländisch-Guayana&#160; 
 
 
 > Scope Note: Surinam (ab 1975)
@@ -16,7 +17,7 @@ fn-stub: about
 
 
 Insgesamt 60 Sach-Mappen, 404 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
 

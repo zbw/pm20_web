@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/C110
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [C110]{.gray}&#8201; Deutsch-Ostafrika&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q153963)
+# [C110]{.gray}&#8201; Deutsch-Ostafrika&#160; 
 
 
 > Scope Note: Deutsch Ostafrika (1891-1920), Tanganyika territory (ab 1920 brit. Mandat), Republik Tanganyika (1962-64), mit Sansibar zusammengeschlossen zu Vereinigter Republik von Tansania

@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/B24b
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [B24b]{.gray}&#8201; Jordanien&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q810)
+# [B24b]{.gray}&#8201; Jordanien&#160; 
 
 
 > Scope Note: bis 1946 Transjordanien
@@ -16,7 +17,7 @@ fn-stub: about
 
 
 Insgesamt 23 Sach-Mappen, 234 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
 

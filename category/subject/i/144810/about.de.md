@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/m1
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -13,8 +14,8 @@ fn-stub: about
 
 
 
-Insgesamt 43 Sach-Mappen, 2997 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
+Insgesamt 43 Sach-Mappen, 3026 Dokumente - Mappen unvollständig.
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
 
@@ -26,7 +27,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 - A4 Westeuropa [**&nearr;**](../../../geo/i/140897/about.de.html "Westeuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A4 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140897,144810" title="über: Westeuropa : Staatshaushalt" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140897/1448xx/144810/about.de.html))
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,144810" title="über: Südosteuropa : Staatshaushalt" target="_blank">12 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1448xx/144810/about.de.html))
 - A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140902,144810" title="über: Orient : Staatshaushalt" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1448xx/144810/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144810" title="über: Hamburg : Staatshaushalt" target="_blank">65 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1448xx/144810/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144810" title="über: Hamburg : Staatshaushalt" target="_blank">94 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1448xx/144810/about.de.html))
 - A11 Deutsche Kolonien [**&nearr;**](../../../geo/i/140960/about.de.html "Deutsche Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A11 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140960,144810" title="über: Deutsche Kolonien : Staatshaushalt" target="_blank">86 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140960/1448xx/144810/about.de.html))
 - A36 Italienische Kolonien [**&nearr;**](../../../geo/i/141012/about.de.html "Italienische Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A36 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141012,144810" title="über: Italienische Kolonien : Staatshaushalt" target="_blank">33 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141012/1448xx/144810/about.de.html))
 - A39 Liechtenstein [**&nearr;**](../../../geo/i/141016/about.de.html "Liechtenstein (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A39 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141016,144810" title="über: Liechtenstein : Staatshaushalt" target="_blank">9 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141016/1448xx/144810/about.de.html))

@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/i1
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -14,8 +15,8 @@ fn-stub: about
 
 
 
-In total 24 subject folders, 337 documents - folders incomplete.
-For material not published as folders, please check the [digitized films](/film/h1_sh) (in German).
+In total 24 subject folders, 339 documents - folders incomplete.
+For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -25,7 +26,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144695" title="about: Hamburg : Judicial system" target="_blank">72 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1446xx/144695/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144695" title="about: Hamburg : Judicial system" target="_blank">74 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1446xx/144695/about.en.html))
 - A10n(1) Upper Silesia (German-Polish border region) [**&nearr;**](../../../geo/i/140948/about.en.html "Upper Silesia (German-Polish border region) (all folders)") [**&uarr;**](../../../geo/about.en.html#A10n(1) "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140948,144695" title="about: Upper Silesia (German-Polish border region) : Judicial system" target="_blank">7 documents</a>) ([folder](../../../../folder/sh/1409xx/140948/1446xx/144695/about.en.html))
 - A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140960,144695" title="about: German imperial colonies : Judicial system" target="_blank">5 documents</a>) ([folder](../../../../folder/sh/1409xx/140960/1446xx/144695/about.en.html))
 - A36 Italian Empire [**&nearr;**](../../../geo/i/141012/about.en.html "Italian Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A36 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141012,144695" title="about: Italian Empire : Judicial system" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1410xx/141012/1446xx/144695/about.en.html))

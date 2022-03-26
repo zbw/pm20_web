@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/D13
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [D13]{.gray}&#8201; Caroline Islands&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q118350)
+# [D13]{.gray}&#8201; Caroline Islands&#160; 
 
 
 

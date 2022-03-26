@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/f5a
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -14,8 +15,8 @@ fn-stub: about
 
 
 
-In total 19 subject folders, 1266 documents - folders incomplete.
-For material not published as folders, please check the [digitized films](/film/h1_sh) (in German).
+In total 19 subject folders, 1284 documents - folders incomplete.
+For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -27,7 +28,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 - A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,144420" title="about: Southeastern Europe : Individual parties and party groups" target="_blank">5 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1444xx/144420/about.en.html))
 - A8 Russian peripheral countries [**&nearr;**](../../../geo/i/140904/about.en.html "Russian peripheral countries (all folders)") [**&uarr;**](../../../geo/about.en.html#A8 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140904,144420" title="about: Russian peripheral countries : Individual parties and party groups" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1409xx/140904/1444xx/144420/about.en.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144420" title="about: Hamburg : Individual parties and party groups" target="_blank">456 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1444xx/144420/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144420" title="about: Hamburg : Individual parties and party groups" target="_blank">474 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1444xx/144420/about.en.html))
 - A10n(1) Upper Silesia (German-Polish border region) [**&nearr;**](../../../geo/i/140948/about.en.html "Upper Silesia (German-Polish border region) (all folders)") [**&uarr;**](../../../geo/about.en.html#A10n(1) "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140948,144420" title="about: Upper Silesia (German-Polish border region) : Individual parties and party groups" target="_blank">7 documents</a>) ([folder](../../../../folder/sh/1409xx/140948/1444xx/144420/about.en.html))
 - A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140960,144420" title="about: German imperial colonies : Individual parties and party groups" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1409xx/140960/1444xx/144420/about.en.html))
 - A36 Italian Empire [**&nearr;**](../../../geo/i/141012/about.en.html "Italian Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A36 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141012,144420" title="about: Italian Empire : Individual parties and party groups" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1410xx/141012/1444xx/144420/about.en.html))

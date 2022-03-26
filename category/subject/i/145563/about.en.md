@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/n31
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -14,8 +15,8 @@ fn-stub: about
 
 
 
-In total 41 subject folders, 1329 documents - folders incomplete.
-For material not published as folders, please check the [digitized films](/film/h1_sh) (in German).
+In total 41 subject folders, 1406 documents - folders incomplete.
+For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -28,8 +29,8 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A1 Europe [**&nearr;**](../../../geo/i/140892/about.en.html "Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A1 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,145563" title="about: Europe : Port facilities and their management" target="_blank">9 documents</a>) ([folder](../../../../folder/sh/1408xx/140892/1455xx/145563/about.en.html))
 - A3 Eastern Europe [**&nearr;**](../../../geo/i/140896/about.en.html "Eastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A3 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140896,145563" title="about: Eastern Europe : Port facilities and their management" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1408xx/140896/1455xx/145563/about.en.html))
 - A5 Levant [**&nearr;**](../../../geo/i/140898/about.en.html "Levant (all folders)") [**&uarr;**](../../../geo/about.en.html#A5 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140898,145563" title="about: Levant : Port facilities and their management" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1408xx/140898/1455xx/145563/about.en.html))
-- A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140902,145563" title="about: Orient : Port facilities and their management" target="_blank">0 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1455xx/145563/about.en.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145563" title="about: Hamburg : Port facilities and their management" target="_blank">712 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1455xx/145563/about.en.html))
+- A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140902,145563" title="about: Orient : Port facilities and their management" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1455xx/145563/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145563" title="about: Hamburg : Port facilities and their management" target="_blank">787 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1455xx/145563/about.en.html))
 - A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,145563" title="about: Germany : Port facilities and their management" target="_blank">127 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1455xx/145563/about.en.html))
 - A38 Free State of Fiume [**&nearr;**](../../../geo/i/141014/about.en.html "Free State of Fiume (all folders)") [**&uarr;**](../../../geo/about.en.html#A38 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141014,145563" title="about: Free State of Fiume : Port facilities and their management" target="_blank">5 documents</a>) ([folder](../../../../folder/sh/1410xx/141014/1455xx/145563/about.en.html))
 - A43 Ottoman Empire [**&nearr;**](../../../geo/i/141034/about.en.html "Ottoman Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A43 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141034,145563" title="about: Ottoman Empire : Port facilities and their management" target="_blank">5 documents</a>) ([folder](../../../../folder/sh/1410xx/141034/1455xx/145563/about.en.html))

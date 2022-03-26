@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/q_Sm2.IIb
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -13,8 +14,8 @@ fn-stub: about
 
 
 
-Insgesamt 14 Sach-Mappen, 198 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
+Insgesamt 14 Sach-Mappen, 205 Dokumente - Mappen unvollständig.
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
 
@@ -26,7 +27,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 ### Europa
 
 - A4 Westeuropa [**&nearr;**](../../../geo/i/140897/about.de.html "Westeuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A4 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140897,145944" title="über: Westeuropa : Kriegsmateriallieferungen durch das Ausland, Durch Einzelne Länder" target="_blank">17 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140897/1459xx/145944/about.de.html))
-- A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140902,145944" title="über: Orient : Kriegsmateriallieferungen durch das Ausland, Durch Einzelne Länder" target="_blank">9 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1459xx/145944/about.de.html))
+- A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140902,145944" title="über: Orient : Kriegsmateriallieferungen durch das Ausland, Durch Einzelne Länder" target="_blank">16 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1459xx/145944/about.de.html))
 - A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,145944" title="über: Deutschland : Kriegsmateriallieferungen durch das Ausland, Durch Einzelne Länder" target="_blank">24 Dokumente</a>) ([Mappe](../../../../folder/sh/1261xx/126128/1459xx/145944/about.de.html))
 
 ### Asien

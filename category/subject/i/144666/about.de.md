@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/h4
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -13,8 +14,8 @@ fn-stub: about
 
 
 
-Insgesamt 28 Sach-Mappen, 652 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
+Insgesamt 28 Sach-Mappen, 660 Dokumente - Mappen unvollständig.
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
 
@@ -25,7 +26,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 ### Europa
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144666" title="über: Hamburg : Polizeiwesen" target="_blank">331 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1446xx/144666/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144666" title="über: Hamburg : Polizeiwesen" target="_blank">339 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1446xx/144666/about.de.html))
 - A10n(1) Oberschlesien (dt.-poln. Abstimmungsgebiet) [**&nearr;**](../../../geo/i/140948/about.de.html "Oberschlesien (dt.-poln. Abstimmungsgebiet) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10n(1) "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140948,144666" title="über: Oberschlesien (dt.-poln. Abstimmungsgebiet) : Polizeiwesen" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140948/1446xx/144666/about.de.html))
 - A36 Italienische Kolonien [**&nearr;**](../../../geo/i/141012/about.de.html "Italienische Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A36 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141012,144666" title="über: Italienische Kolonien : Polizeiwesen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141012/1446xx/144666/about.de.html))
 - A43 Osmanisches Reich (-1923) [**&nearr;**](../../../geo/i/141034/about.de.html "Osmanisches Reich (-1923) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A43 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141034,144666" title="über: Osmanisches Reich (-1923) : Polizeiwesen" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141034/1446xx/144666/about.de.html))

@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/g4a
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -14,8 +15,8 @@ fn-stub: about
 
 
 
-In total 43 subject folders, 6795 documents - folders incomplete.
-For material not published as folders, please check the [digitized films](/film/h1_sh) (in German).
+In total 43 subject folders, 6800 documents - folders incomplete.
+For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -34,7 +35,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,144531" title="about: Southeastern Europe : Economic relations with individual countries" target="_blank">678 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1445xx/144531/about.en.html))
 - A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140902,144531" title="about: Orient : Economic relations with individual countries" target="_blank">43 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1445xx/144531/about.en.html))
 - A8 Russian peripheral countries [**&nearr;**](../../../geo/i/140904/about.en.html "Russian peripheral countries (all folders)") [**&uarr;**](../../../geo/about.en.html#A8 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140904,144531" title="about: Russian peripheral countries : Economic relations with individual countries" target="_blank">8 documents</a>) ([folder](../../../../folder/sh/1409xx/140904/1445xx/144531/about.en.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144531" title="about: Hamburg : Economic relations with individual countries" target="_blank">187 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1445xx/144531/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144531" title="about: Hamburg : Economic relations with individual countries" target="_blank">192 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1445xx/144531/about.en.html))
 - A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,144531" title="about: Germany : Economic relations with individual countries" target="_blank">554 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1445xx/144531/about.en.html))
 - A10n(1) Upper Silesia (German-Polish border region) [**&nearr;**](../../../geo/i/140948/about.en.html "Upper Silesia (German-Polish border region) (all folders)") [**&uarr;**](../../../geo/about.en.html#A10n(1) "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140948,144531" title="about: Upper Silesia (German-Polish border region) : Economic relations with individual countries" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1409xx/140948/1445xx/144531/about.en.html))
 - A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140960,144531" title="about: German imperial colonies : Economic relations with individual countries" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1409xx/140960/1445xx/144531/about.en.html))

@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/n19
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -13,8 +14,8 @@ fn-stub: about
 
 
 
-Insgesamt 44 Sach-Mappen, 2599 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
+Insgesamt 44 Sach-Mappen, 2600 Dokumente - Mappen unvollständig.
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
 
@@ -33,7 +34,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,145289" title="über: Südosteuropa : Handelsbeziehungen zu einzelnen Ländern" target="_blank">256 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1452xx/145289/about.de.html))
 - A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140902,145289" title="über: Orient : Handelsbeziehungen zu einzelnen Ländern" target="_blank">35 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1452xx/145289/about.de.html))
 - A8 Russische Randstaaten [**&nearr;**](../../../geo/i/140904/about.de.html "Russische Randstaaten (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A8 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140904,145289" title="über: Russische Randstaaten : Handelsbeziehungen zu einzelnen Ländern" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140904/1452xx/145289/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145289" title="über: Hamburg : Handelsbeziehungen zu einzelnen Ländern" target="_blank">95 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1452xx/145289/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145289" title="über: Hamburg : Handelsbeziehungen zu einzelnen Ländern" target="_blank">96 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1452xx/145289/about.de.html))
 - A10(19) Böhmen und Mähren (Reichsprotektorat) [**&nearr;**](../../../geo/i/140098/about.de.html "Böhmen und Mähren (Reichsprotektorat) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10(19) "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140098,145289" title="über: Böhmen und Mähren (Reichsprotektorat) : Handelsbeziehungen zu einzelnen Ländern" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1400xx/140098/1452xx/145289/about.de.html))
 - A10n(1) Oberschlesien (dt.-poln. Abstimmungsgebiet) [**&nearr;**](../../../geo/i/140948/about.de.html "Oberschlesien (dt.-poln. Abstimmungsgebiet) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10n(1) "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140948,145289" title="über: Oberschlesien (dt.-poln. Abstimmungsgebiet) : Handelsbeziehungen zu einzelnen Ländern" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140948/1452xx/145289/about.de.html))
 - A11 Deutsche Kolonien [**&nearr;**](../../../geo/i/140960/about.de.html "Deutsche Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A11 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140960,145289" title="über: Deutsche Kolonien : Handelsbeziehungen zu einzelnen Ländern" target="_blank">23 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140960/1452xx/145289/about.de.html))

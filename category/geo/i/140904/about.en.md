@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/A8
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [A8]{.gray}&#8201; Russian peripheral countries&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q90303093)
+# [A8]{.gray}&#8201; Russian peripheral countries&#160; 
 
 
 

@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/C92
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [C92]{.gray}&#8201; Tristan da Cunha&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q220982)
+# [C92]{.gray}&#8201; Tristan da Cunha&#160; 
 
 
 > Scope Note: Hauptinsel des gleichnamigen, aus vier Inseln und einigen Felseilanden bestehenden Archipels in südlichen Atlantischen Ozean

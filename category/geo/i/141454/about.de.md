@@ -5,18 +5,19 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/C93
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [C93]{.gray}&#8201; Britisch-Südafrika&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q193619)
+# [C93]{.gray}&#8201; Britisch-Südafrika&#160; 
 
 
 > Scope Note: Britisch Südafrika, Südafrikanische Union (ab 2.5.1910), Südafrikanische Republik (ab 1961)
 
 
 
-Insgesamt 22 Sach-Mappen, 943 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
+Insgesamt 22 Sach-Mappen, 944 Dokumente - Mappen unvollständig.
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
 
@@ -60,7 +61,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 ### Fremdstämmige und einzelne Minderheiten
 
 - [o1 Deutsche Minderheiten und Deutschtum]{.gray}
-  - o1 Sm500 Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145911/about.de.html "Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#o1_Sm500 "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141454,145911" title="über: Britisch-Südafrika : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">231 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141454/1459xx/145911/about.de.html))
+  - o1 Sm500 Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145911/about.de.html "Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#o1_Sm500 "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141454,145911" title="über: Britisch-Südafrika : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">232 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141454/1459xx/145911/about.de.html))
 
 ### Siedlung und Wanderung
 

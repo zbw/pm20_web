@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/n23
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -14,8 +15,8 @@ fn-stub: about
 
 
 
-In total 46 subject folders, 1328 documents - folders incomplete.
-For material not published as folders, please check the [digitized films](/film/h1_sh) (in German).
+In total 46 subject folders, 1330 documents - folders incomplete.
+For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -27,7 +28,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,145305" title="about: Southeastern Europe : Money and currency" target="_blank">16 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1453xx/145305/about.en.html))
 - A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140902,145305" title="about: Orient : Money and currency" target="_blank">21 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1453xx/145305/about.en.html))
 - A8 Russian peripheral countries [**&nearr;**](../../../geo/i/140904/about.en.html "Russian peripheral countries (all folders)") [**&uarr;**](../../../geo/about.en.html#A8 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140904,145305" title="about: Russian peripheral countries : Money and currency" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1409xx/140904/1453xx/145305/about.en.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145305" title="about: Hamburg : Money and currency" target="_blank">22 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1453xx/145305/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145305" title="about: Hamburg : Money and currency" target="_blank">24 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1453xx/145305/about.en.html))
 - A10n(1) Upper Silesia (German-Polish border region) [**&nearr;**](../../../geo/i/140948/about.en.html "Upper Silesia (German-Polish border region) (all folders)") [**&uarr;**](../../../geo/about.en.html#A10n(1) "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140948,145305" title="about: Upper Silesia (German-Polish border region) : Money and currency" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1409xx/140948/1453xx/145305/about.en.html))
 - A10p East Upper Silesia [**&nearr;**](../../../geo/i/140951/about.en.html "East Upper Silesia (all folders)") [**&uarr;**](../../../geo/about.en.html#A10p "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140951,145305" title="about: East Upper Silesia : Money and currency" target="_blank">14 documents</a>) ([folder](../../../../folder/sh/1409xx/140951/1453xx/145305/about.en.html))
 - A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140960,145305" title="about: German imperial colonies : Money and currency" target="_blank">11 documents</a>) ([folder](../../../../folder/sh/1409xx/140960/1453xx/145305/about.en.html))

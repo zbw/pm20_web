@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/k_Sm3
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -14,15 +15,15 @@ fn-stub: about
 
 
 
-In total 9 subject folders, 171 documents - folders incomplete.
-For material not published as folders, please check the [digitized films](/film/h1_sh) (in German).
+In total 9 subject folders, 182 documents - folders incomplete.
+For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 ## Subject archives
 
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144754" title="about: Hamburg : Museums, botanical and zoological gardens" target="_blank">104 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1447xx/144754/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144754" title="about: Hamburg : Museums, botanical and zoological gardens" target="_blank">115 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1447xx/144754/about.en.html))
 - A37 Monaco [**&nearr;**](../../../geo/i/141013/about.en.html "Monaco (all folders)") [**&uarr;**](../../../geo/about.en.html#A37 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141013,144754" title="about: Monaco : Museums, botanical and zoological gardens" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1410xx/141013/1447xx/144754/about.en.html))
 
 ### Asia

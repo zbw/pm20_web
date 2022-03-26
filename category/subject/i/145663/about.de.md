@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/n34_Sm1
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -13,8 +14,8 @@ fn-stub: about
 
 
 
-Insgesamt 43 Sach-Mappen, 544 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
+Insgesamt 43 Sach-Mappen, 545 Dokumente - Mappen unvollständig.
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
 
@@ -28,7 +29,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 - A5 Levante [**&nearr;**](../../../geo/i/140898/about.de.html "Levante (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A5 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140898,145663" title="über: Levante : Drahtlose Telegraphie und Telephonie, Rundfunk" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140898/1456xx/145663/about.de.html))
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,145663" title="über: Südosteuropa : Drahtlose Telegraphie und Telephonie, Rundfunk" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1456xx/145663/about.de.html))
 - A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140902,145663" title="über: Orient : Drahtlose Telegraphie und Telephonie, Rundfunk" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1456xx/145663/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145663" title="über: Hamburg : Drahtlose Telegraphie und Telephonie, Rundfunk" target="_blank">56 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1456xx/145663/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145663" title="über: Hamburg : Drahtlose Telegraphie und Telephonie, Rundfunk" target="_blank">57 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1456xx/145663/about.de.html))
 - A11 Deutsche Kolonien [**&nearr;**](../../../geo/i/140960/about.de.html "Deutsche Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A11 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140960,145663" title="über: Deutsche Kolonien : Drahtlose Telegraphie und Telephonie, Rundfunk" target="_blank">15 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140960/1456xx/145663/about.de.html))
 - A38 Fiume [**&nearr;**](../../../geo/i/141014/about.de.html "Fiume (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A38 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141014,145663" title="über: Fiume : Drahtlose Telegraphie und Telephonie, Rundfunk" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141014/1456xx/145663/about.de.html))
 - A39 Liechtenstein [**&nearr;**](../../../geo/i/141016/about.de.html "Liechtenstein (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A39 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141016,145663" title="über: Liechtenstein : Drahtlose Telegraphie und Telephonie, Rundfunk" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141016/1456xx/145663/about.de.html))

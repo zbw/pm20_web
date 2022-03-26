@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/f6
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -14,15 +15,15 @@ fn-stub: about
 
 
 
-In total 10 subject folders, 808 documents - folders incomplete.
-For material not published as folders, please check the [digitized films](/film/h1_sh) (in German).
+In total 10 subject folders, 826 documents - folders incomplete.
+For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 ## Subject archives
 
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144440" title="about: Hamburg : Negotiations of parliamentary and political bodies" target="_blank">170 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1444xx/144440/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144440" title="about: Hamburg : Negotiations of parliamentary and political bodies" target="_blank">188 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1444xx/144440/about.en.html))
 
 ### Asia
 

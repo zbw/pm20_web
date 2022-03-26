@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/B102
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [B102]{.gray}&#8201; Hongkong&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q8646)
+# [B102]{.gray}&#8201; Hongkong&#160; 
 
 
 

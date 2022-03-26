@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/A1a
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [A1a]{.gray}&#8201; Baltic region&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q579938)
+# [A1a]{.gray}&#8201; Baltic region&#160; 
 
 
 

@@ -5,17 +5,18 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/A10(t2)
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [A10(t2)]{.gray}&#8201; Germany (Federal Republic of Germany)&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q713750)
+# [A10(t2)]{.gray}&#8201; Germany (Federal Republic of Germany)&#160; 
 
 
 
 
 
-In total 7 subject folders, 4 documents - folders incomplete.
-For material not published as folders, please check the [digitized films](/film/h1_sh) (in German).
+In total 7 subject folders, 16 documents - folders incomplete.
+For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -31,7 +32,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Economy
 
-- n14 Crafts and trades [**&nearr;**](../../../subject/i/145135/about.en.html "Crafts and trades (all over the world)") [**&uarr;**](../../../subject/about.en.html#n14 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/187232,145135" title="about: Germany (Federal Republic of Germany) : Crafts and trades" target="_blank">0 documents</a>) ([folder](../../../../folder/sh/1872xx/187232/1451xx/145135/about.en.html))
+- n14 Crafts and trades [**&nearr;**](../../../subject/i/145135/about.en.html "Crafts and trades (all over the world)") [**&uarr;**](../../../subject/about.en.html#n14 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/187232,145135" title="about: Germany (Federal Republic of Germany) : Crafts and trades" target="_blank">12 documents</a>) ([folder](../../../../folder/sh/1872xx/187232/1451xx/145135/about.en.html))
 - [n15 Labor question, labor relations]{.gray}
   - n15 Sm5 Women workers, general [**&nearr;**](../../../subject/i/145166/about.en.html "Women workers, general (all over the world)") [**&uarr;**](../../../subject/about.en.html#n15_Sm5 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/187232,145166" title="about: Germany (Federal Republic of Germany) : Women workers, general" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1872xx/187232/1451xx/145166/about.en.html))
 - [n21 Art and literature (economic relations)]{.gray}

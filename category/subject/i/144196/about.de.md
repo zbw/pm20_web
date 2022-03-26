@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/b
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -13,8 +14,8 @@ fn-stub: about
 
 
 
-Insgesamt 80 Sach-Mappen, 1954 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
+Insgesamt 80 Sach-Mappen, 1959 Dokumente - Mappen unvollständig.
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
 
@@ -33,8 +34,8 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 - A5a Mittelmeerländer [**&nearr;**](../../../geo/i/140899/about.de.html "Mittelmeerländer (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A5a "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140899,144196" title="über: Mittelmeerländer : Land und Leute, Politik und Wirtschaft, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140899/1441xx/144196/about.de.html))
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,144196" title="über: Südosteuropa : Land und Leute, Politik und Wirtschaft, Allgemein" target="_blank">24 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1441xx/144196/about.de.html))
 - A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140902,144196" title="über: Orient : Land und Leute, Politik und Wirtschaft, Allgemein" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1441xx/144196/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144196" title="über: Hamburg : Land und Leute, Politik und Wirtschaft, Allgemein" target="_blank">47 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1441xx/144196/about.de.html))
-- A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,144196" title="über: Deutschland : Land und Leute, Politik und Wirtschaft, Allgemein" target="_blank">205 Dokumente</a>) ([Mappe](../../../../folder/sh/1261xx/126128/1441xx/144196/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144196" title="über: Hamburg : Land und Leute, Politik und Wirtschaft, Allgemein" target="_blank">48 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1441xx/144196/about.de.html))
+- A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,144196" title="über: Deutschland : Land und Leute, Politik und Wirtschaft, Allgemein" target="_blank">209 Dokumente</a>) ([Mappe](../../../../folder/sh/1261xx/126128/1441xx/144196/about.de.html))
 - A11 Deutsche Kolonien [**&nearr;**](../../../geo/i/140960/about.de.html "Deutsche Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A11 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140960,144196" title="über: Deutsche Kolonien : Land und Leute, Politik und Wirtschaft, Allgemein" target="_blank">18 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140960/1441xx/144196/about.de.html))
 - A12 Polen [**&nearr;**](../../../geo/i/140962/about.de.html "Polen (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A12 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140962,144196" title="über: Polen : Land und Leute, Politik und Wirtschaft, Allgemein" target="_blank">67 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140962/1441xx/144196/about.de.html))
 - A37 Monaco [**&nearr;**](../../../geo/i/141013/about.de.html "Monaco (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A37 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141013,144196" title="über: Monaco : Land und Leute, Politik und Wirtschaft, Allgemein" target="_blank">9 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141013/1441xx/144196/about.de.html))

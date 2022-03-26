@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/D18
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [D18]{.gray}&#8201; Japanese South Pacific Mandate&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q718763)
+# [D18]{.gray}&#8201; Japanese South Pacific Mandate&#160; 
 
 
 

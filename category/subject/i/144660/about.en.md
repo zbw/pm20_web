@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/h1
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -14,15 +15,15 @@ fn-stub: about
 
 
 
-In total 7 subject folders, 338 documents - folders incomplete.
-For material not published as folders, please check the [digitized films](/film/h1_sh) (in German).
+In total 7 subject folders, 341 documents - folders incomplete.
+For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 ## Subject archives
 
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144660" title="about: Hamburg : Authorities, general" target="_blank">144 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1446xx/144660/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144660" title="about: Hamburg : Authorities, general" target="_blank">147 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1446xx/144660/about.en.html))
 - A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,144660" title="about: Germany : Authorities, general" target="_blank">102 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1446xx/144660/about.en.html))
 - A10(t1) Allied occupied Germany [**&nearr;**](../../../geo/i/187230/about.en.html "Allied occupied Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10(t1) "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/187230,144660" title="about: Allied occupied Germany : Authorities, general" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1872xx/187230/1446xx/144660/about.en.html))
 

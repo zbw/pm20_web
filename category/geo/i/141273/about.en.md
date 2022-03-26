@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/B112
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [B112]{.gray}&#8201; Japanese Empire&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q6158424)
+# [B112]{.gray}&#8201; Japanese Empire&#160; 
 
 
 

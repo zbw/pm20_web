@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/n32b
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -13,8 +14,8 @@ fn-stub: about
 
 
 
-Insgesamt 36 Sach-Mappen, 1664 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
+Insgesamt 36 Sach-Mappen, 1690 Dokumente - Mappen unvollständig.
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
 
@@ -31,7 +32,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 - A5 Levante [**&nearr;**](../../../geo/i/140898/about.de.html "Levante (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A5 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140898,145645" title="über: Levante : Schiffsverkehr mit einzelnen Ländern" target="_blank">24 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140898/1456xx/145645/about.de.html))
 - A5a Mittelmeerländer [**&nearr;**](../../../geo/i/140899/about.de.html "Mittelmeerländer (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A5a "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140899,145645" title="über: Mittelmeerländer : Schiffsverkehr mit einzelnen Ländern" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140899/1456xx/145645/about.de.html))
 - A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140902,145645" title="über: Orient : Schiffsverkehr mit einzelnen Ländern" target="_blank">21 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1456xx/145645/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145645" title="über: Hamburg : Schiffsverkehr mit einzelnen Ländern" target="_blank">221 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1456xx/145645/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145645" title="über: Hamburg : Schiffsverkehr mit einzelnen Ländern" target="_blank">247 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1456xx/145645/about.de.html))
 - A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,145645" title="über: Deutschland : Schiffsverkehr mit einzelnen Ländern" target="_blank">513 Dokumente</a>) ([Mappe](../../../../folder/sh/1261xx/126128/1456xx/145645/about.de.html))
 - A11 Deutsche Kolonien [**&nearr;**](../../../geo/i/140960/about.de.html "Deutsche Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A11 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140960,145645" title="über: Deutsche Kolonien : Schiffsverkehr mit einzelnen Ländern" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140960/1456xx/145645/about.de.html))
 - A38 Fiume [**&nearr;**](../../../geo/i/141014/about.de.html "Fiume (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A38 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141014,145645" title="über: Fiume : Schiffsverkehr mit einzelnen Ländern" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141014/1456xx/145645/about.de.html))

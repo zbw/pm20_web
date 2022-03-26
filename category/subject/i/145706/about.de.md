@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/n35b
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -13,8 +14,8 @@ fn-stub: about
 
 
 
-Insgesamt 25 Sach-Mappen, 682 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
+Insgesamt 25 Sach-Mappen, 692 Dokumente - Mappen unvollständig.
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
 
@@ -28,7 +29,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 - A2 Mitteleuropa [**&nearr;**](../../../geo/i/140895/about.de.html "Mitteleuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A2 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140895,145706" title="über: Mitteleuropa : Luftverkehr mit einzelnen Ländern" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140895/1457xx/145706/about.de.html))
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,145706" title="über: Südosteuropa : Luftverkehr mit einzelnen Ländern" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1457xx/145706/about.de.html))
 - A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140902,145706" title="über: Orient : Luftverkehr mit einzelnen Ländern" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1457xx/145706/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145706" title="über: Hamburg : Luftverkehr mit einzelnen Ländern" target="_blank">12 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1457xx/145706/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145706" title="über: Hamburg : Luftverkehr mit einzelnen Ländern" target="_blank">22 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1457xx/145706/about.de.html))
 
 ### Asien
 

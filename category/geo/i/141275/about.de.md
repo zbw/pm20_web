@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/B114
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [B114]{.gray}&#8201; Kwangtung&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q15175)
+# [B114]{.gray}&#8201; Kwangtung&#160; 
 
 
 > Scope Note: Guangzhou (auch Kanton), Provinz Guangdong (Kanton), VR China

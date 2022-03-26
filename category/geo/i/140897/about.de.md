@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/A4
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [A4]{.gray}&#8201; Westeuropa&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q27496)
+# [A4]{.gray}&#8201; Westeuropa&#160; 
 
 
 > Scope Note: (einschl.: Frankreich, Britische Inseln, Belgien, Luxemburg, Niederlande)

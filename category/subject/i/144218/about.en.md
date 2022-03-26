@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/c_Sm2
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -14,8 +15,8 @@ fn-stub: about
 
 
 
-In total 10 subject folders, 42 documents - folders incomplete.
-For material not published as folders, please check the [digitized films](/film/h1_sh) (in German).
+In total 10 subject folders, 43 documents - folders incomplete.
+For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -26,7 +27,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### Europe
 
 - A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144218" title="about: Hamburg : Cartography" target="_blank">9 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1442xx/144218/about.en.html))
-- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,144218" title="about: Germany : Cartography" target="_blank">7 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1442xx/144218/about.en.html))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,144218" title="about: Germany : Cartography" target="_blank">8 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1442xx/144218/about.en.html))
 - A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140960,144218" title="about: German imperial colonies : Cartography" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1409xx/140960/1442xx/144218/about.en.html))
 - A12 Poland [**&nearr;**](../../../geo/i/140962/about.en.html "Poland (all folders)") [**&uarr;**](../../../geo/about.en.html#A12 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140962,144218" title="about: Poland : Cartography" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1409xx/140962/1442xx/144218/about.en.html))
 

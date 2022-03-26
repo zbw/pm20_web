@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/n17
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -13,8 +14,8 @@ fn-stub: about
 
 
 
-Insgesamt 26 Sach-Mappen, 914 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
+Insgesamt 26 Sach-Mappen, 1042 Dokumente - Mappen unvollständig.
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
 
@@ -27,7 +28,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 
 - A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140892,145250" title="über: Europa : Bauwesen und Wohnungswesen" target="_blank">10 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1452xx/145250/about.de.html))
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,145250" title="über: Südosteuropa : Bauwesen und Wohnungswesen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1452xx/145250/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145250" title="über: Hamburg : Bauwesen und Wohnungswesen" target="_blank">658 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1452xx/145250/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145250" title="über: Hamburg : Bauwesen und Wohnungswesen" target="_blank">786 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1452xx/145250/about.de.html))
 - A10n(1) Oberschlesien (dt.-poln. Abstimmungsgebiet) [**&nearr;**](../../../geo/i/140948/about.de.html "Oberschlesien (dt.-poln. Abstimmungsgebiet) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10n(1) "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140948,145250" title="über: Oberschlesien (dt.-poln. Abstimmungsgebiet) : Bauwesen und Wohnungswesen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140948/1452xx/145250/about.de.html))
 - A10p Polnisch-Schlesien [**&nearr;**](../../../geo/i/140951/about.de.html "Polnisch-Schlesien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10p "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140951,145250" title="über: Polnisch-Schlesien : Bauwesen und Wohnungswesen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140951/1452xx/145250/about.de.html))
 - A11 Deutsche Kolonien [**&nearr;**](../../../geo/i/140960/about.de.html "Deutsche Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A11 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140960,145250" title="über: Deutsche Kolonien : Bauwesen und Wohnungswesen" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140960/1452xx/145250/about.de.html))

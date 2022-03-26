@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/A8
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [A8]{.gray}&#8201; Russische Randstaaten&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q90303093)
+# [A8]{.gray}&#8201; Russische Randstaaten&#160; 
 
 
 > Scope Note: Baltische Staaten, Litauen, Polen, Finnland. Aus dem ehemaligen zarist. Russland neu entstandene Staaten (bis 1.1.1940)

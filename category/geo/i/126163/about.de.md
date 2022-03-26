@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/B103
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [B103]{.gray}&#8201; Kiautschou&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q675321)
+# [B103]{.gray}&#8201; Kiautschou&#160; 
 
 
 > Scope Note: bis 9.12.1922, dann China (B 94). Von 1898 bis 1914 eine deutsche Kolonie mit der Hauptstadt Tsingtau an der Südküste der Provinz Shandong der Volksrepublik China.

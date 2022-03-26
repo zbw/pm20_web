@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/B100
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [B100]{.gray}&#8201; Kuangtschouwan&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q185682)
+# [B100]{.gray}&#8201; Kuangtschouwan&#160; 
 
 
 > Scope Note: Gebiet in China, 1898 an Frankreich verpachtet

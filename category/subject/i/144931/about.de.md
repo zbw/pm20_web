@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/n1
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -13,8 +14,8 @@ fn-stub: about
 
 
 
-Insgesamt 44 Sach-Mappen, 1691 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Filme](/film/h1_sh).
+Insgesamt 44 Sach-Mappen, 1694 Dokumente - Mappen unvollständig.
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
 
@@ -32,7 +33,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140900,144931" title="über: Südosteuropa : Wirtschaftspolitik" target="_blank">25 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1449xx/144931/about.de.html))
 - A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140902,144931" title="über: Orient : Wirtschaftspolitik" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1449xx/144931/about.de.html))
 - A8 Russische Randstaaten [**&nearr;**](../../../geo/i/140904/about.de.html "Russische Randstaaten (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A8 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140904,144931" title="über: Russische Randstaaten : Wirtschaftspolitik" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140904/1449xx/144931/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144931" title="über: Hamburg : Wirtschaftspolitik" target="_blank">120 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1449xx/144931/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,144931" title="über: Hamburg : Wirtschaftspolitik" target="_blank">123 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1449xx/144931/about.de.html))
 - A10n(1) Oberschlesien (dt.-poln. Abstimmungsgebiet) [**&nearr;**](../../../geo/i/140948/about.de.html "Oberschlesien (dt.-poln. Abstimmungsgebiet) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10n(1) "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140948,144931" title="über: Oberschlesien (dt.-poln. Abstimmungsgebiet) : Wirtschaftspolitik" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140948/1449xx/144931/about.de.html))
 - A10p Polnisch-Schlesien [**&nearr;**](../../../geo/i/140951/about.de.html "Polnisch-Schlesien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10p "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140951,144931" title="über: Polnisch-Schlesien : Wirtschaftspolitik" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140951/1449xx/144931/about.de.html))
 - A11 Deutsche Kolonien [**&nearr;**](../../../geo/i/140960/about.de.html "Deutsche Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A11 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140960,144931" title="über: Deutsche Kolonien : Wirtschaftspolitik" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140960/1449xx/144931/about.de.html))

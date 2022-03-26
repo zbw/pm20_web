@@ -5,10 +5,11 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/geo/s/B103
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# [B103]{.gray}&#8201; Jiaozhou&#160; [![Wikidata item](/images/Wikidata-logo.svg){.inline-icon}](http://www.wikidata.org/entity/Q675321)
+# [B103]{.gray}&#8201; Jiaozhou&#160; 
 
 
 

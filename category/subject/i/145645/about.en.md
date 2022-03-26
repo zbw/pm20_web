@@ -5,6 +5,7 @@ modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
+x-canonical: https://pm20.zbw.eu/category/subject/s/n32b
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -14,8 +15,8 @@ fn-stub: about
 
 
 
-In total 36 subject folders, 1664 documents - folders incomplete.
-For material not published as folders, please check the [digitized films](/film/h1_sh) (in German).
+In total 36 subject folders, 1690 documents - folders incomplete.
+For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -31,7 +32,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A5 Levant [**&nearr;**](../../../geo/i/140898/about.en.html "Levant (all folders)") [**&uarr;**](../../../geo/about.en.html#A5 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140898,145645" title="about: Levant : Shipping traffic with individual countries" target="_blank">24 documents</a>) ([folder](../../../../folder/sh/1408xx/140898/1456xx/145645/about.en.html))
 - A5a Mediterranean region [**&nearr;**](../../../geo/i/140899/about.en.html "Mediterranean region (all folders)") [**&uarr;**](../../../geo/about.en.html#A5a "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140899,145645" title="about: Mediterranean region : Shipping traffic with individual countries" target="_blank">8 documents</a>) ([folder](../../../../folder/sh/1408xx/140899/1456xx/145645/about.en.html))
 - A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140902,145645" title="about: Orient : Shipping traffic with individual countries" target="_blank">21 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1456xx/145645/about.en.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145645" title="about: Hamburg : Shipping traffic with individual countries" target="_blank">221 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1456xx/145645/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,145645" title="about: Hamburg : Shipping traffic with individual countries" target="_blank">247 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1456xx/145645/about.en.html))
 - A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,145645" title="about: Germany : Shipping traffic with individual countries" target="_blank">513 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1456xx/145645/about.en.html))
 - A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/140960,145645" title="about: German imperial colonies : Shipping traffic with individual countries" target="_blank">4 documents</a>) ([folder](../../../../folder/sh/1409xx/140960/1456xx/145645/about.en.html))
 - A38 Free State of Fiume [**&nearr;**](../../../geo/i/141014/about.en.html "Free State of Fiume (all folders)") [**&uarr;**](../../../geo/about.en.html#A38 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141014,145645" title="about: Free State of Fiume : Shipping traffic with individual countries" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1410xx/141014/1456xx/145645/about.en.html))
