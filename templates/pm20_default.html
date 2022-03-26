@@ -16,7 +16,15 @@ $endif$
 $if(fn-stub)$
   <link rel="alternate" hreflang="en" href="https://pm20.zbw.eu/$targetdir$/$fn-stub$.en.html" />
   <link rel="alternate" hreflang="de" href="https://pm20.zbw.eu/$targetdir$/$fn-stub$.de.html" />
+$if(x-canonical)$
+  <link rel="alternate" hreflang="x-default" href="$x-canonical$" />
+$else$
+$if(is_about)$
+  <link rel="alternate" hreflang="x-default" href="https://pm20.zbw.eu/$targetdir$" />
+$else$
   <link rel="alternate" hreflang="x-default" href="https://pm20.zbw.eu/$targetdir$/$fn-stub$" />
+$endif$
+$endif$
 $endif$
   <title>$if(title-prefix)$$title-prefix$ – $endif$$pagetitle$ | ZBW $if(is_de)$Pressearchive$endif$$if(is_en)$Press Archives$endif$</title>
   <style>

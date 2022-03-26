@@ -35,6 +35,10 @@ lang_opts = --variable is_$(lang) --variable lang:$(lang)
 # path
 path_opts = --variable targetdir:$(@D)
 
+# input file basename (strip dir portion and both extensions)
+bsname	= $(basename $(basename $(notdir $<)))
+
+
 # Pattern-matching Rules
 set: $(EXPORTED_FRAG) $(EXPORTED_DOCS)
 
@@ -42,9 +46,13 @@ set: $(EXPORTED_FRAG) $(EXPORTED_DOCS)
 include $(wildcard mk/*.mk)
 
 # standalone HTML pages
-%.html: %.md $(SOURCE_FRAG) $(TEMPLATE)
+# treat index pages (about.(de|en).md) specially, in suppressing them in
+# template output
+%.html: %.md $(source_frag) $(TEMPLATE)
 	@echo $@
-	@$(PANDOC) $(PANDOC_OPTS) $(lang_opts) $(path_opts) $(TMPL_OPTS) $(EXT_OPTS) -o $@ $<
+	@if [ "$(bsname)" = "about" ]; then export about_opt="--variable is_about:1"; fi ;\
+	echo debug $$about_opt ;\
+	$(PANDOC) $(PANDOC_OPTS) $(lang_opts) $(path_opts) $$about_opt $(TMPL_OPTS) $(EXT_OPTS) -o $@ $<
 
 # HTML fragments (for inclusion)
 %.html.frag: %.md.frag
