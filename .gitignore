@@ -19,6 +19,7 @@ templates/fragments/*.html.frag
 #
 # mets dir is generated (temporarily, and large)
 mets
+#
 # only temp files in work
 work
 tmp
@@ -27,3 +28,9 @@ tmp
 intern/
 intern-test879cfb674eed/
 #
+# preparation for another font face
+styles/arimo-fontfacekit.zip
+styles/readme.txt
+#
+# just a backup
+about-pm20/publication/publication.tgz

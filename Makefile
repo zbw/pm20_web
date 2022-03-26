@@ -51,7 +51,6 @@ include $(wildcard mk/*.mk)
 %.html: %.md $(source_frag) $(TEMPLATE)
 	@echo $@
 	@if [ "$(bsname)" = "about" ]; then export about_opt="--variable is_about:1"; fi ;\
-	echo debug $$about_opt ;\
 	$(PANDOC) $(PANDOC_OPTS) $(lang_opts) $(path_opts) $$about_opt $(TMPL_OPTS) $(EXT_OPTS) -o $@ $<
 
 # HTML fragments (for inclusion)

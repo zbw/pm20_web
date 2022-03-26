@@ -3,6 +3,8 @@ RewriteEngine On
 # for sh folders, do not show plain folder list, but redirect to geo categories
 RewriteRule ^sh$ /category/geo
 RewriteRule ^sh/$ /category/geo
+RewriteRule ^sh/about.en.html$ /category/geo/about.en.html
+RewriteRule ^sh/about.de.html$ /category/geo/about.de.html
 
 #### Switch for public and internal mets files ####
 
