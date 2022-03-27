@@ -32,7 +32,7 @@ Enthält: Leveknecht, H.: 100 Jahre Pressedokumentation im HWWA. - Huck, Th. S. 
        
 - Becker, Johanna Elisabeth : Die Gründung des Deutschen Kolonialinstituts in Hamburg. Zur Vorgeschichte der Hamburgischen Universität. - Wissenschaftliche Hausarbeit zur Erlangung des akademisches Grades eines Magister Artium der Universität Hamburg. - Hamburg, 2005 - [PDF](Becker_Kolonialinstitut.pdf)
         
-- Jeude, Kirsten : Besondere Herausforderungen bei der retrospektiven Digitalisierung historischen Pressematerials am Beispiel eines Projekts des Hamburgischen Welt-Wirtschafts-Archivs. - Abschlussarbeit [der berufsbegleitenden Fortbildung zur "Wissenschaftliche/r Dokumentar/in" des Institut für Information und Dokumentation (IID) an der FH Potsdam]. - 2005 - [PDF](Abschlussarbeit_Jeude.pdf)
+- Jeude, Kirsten : Besondere Herausforderungen bei der retrospektiven Digitalisierung historischen Pressematerials am Beispiel eines Projekts des Hamburgischen Welt-Wirtschafts-Archivs. - Abschlussarbeit [der berufsbegleitenden Fortbildung zur "Wissenschaftliche/r Dokumentar/in" des Institut für Information und Dokumentation (IID) an der FH Potsdam]. - 2005 - [PDF](Abschlussarbeit_Jeude.pdf), Anhänge [1](Anhang1_projekte_sw_Jeude.pdf), [2](Anhang2_Jeude.pdf), [3.1](Anhang3_1_Jeude.pdf), [3.2](Anhang3_2_Jeude.pdf), [3.3](Anhang3_3_Jeude.pdf)
          
 - Leveknecht, Helmut: 90 Jahre HWWA : von der Zentralstelle des Hamburgischen Kolonialinstituts bis zur Stiftung HWWA ; eine Chronik. - Hamburg: HWWA-Inst. für Wirtschaftsforschung. 1998 - [PDF](Leveknecht_Chronik_HWWA.pdf) 
 

@@ -17,7 +17,7 @@ fn-stub: about
 
 * [Publications](publication/about.en.html)
 
-## Materials
+## Further information
 
 * [Reports](../report/about.en.html)
 * [List of evaluated newspapers and jounals](../list/publication/about.en.html)

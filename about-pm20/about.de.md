@@ -18,7 +18,7 @@ fn-stub: about
 * [Publikationen](publication/about.de.html)
 * [Vernetzte Institutionen und Projekte](links.de.html)
 
-## Materialien
+## Weitere Informationen
 
 * [Auswertungen](../report/about.de.html)
 * [Liste der genutzten Zeitungen und Zeitschriften](../list/publication/about.de.html)
