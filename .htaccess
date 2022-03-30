@@ -100,6 +100,9 @@ RewriteEngine on
 # in a .htaccess is interpreted
 
 
+# for folder and document rewrites, see ./folder/.htaccess
+
+
 # film rewrites
 
 # Redirect collection index to findbuch/filmlist pages
@@ -131,12 +134,18 @@ RewriteCond "%{ENV:PM20_INTERNAL}" "1"
 RewriteRule "^dfgview/(sh|wa)/(....)(..),(....)(..)$" "https://dfg-viewer.de/show/?tx_dlf[id]=https://pm20.zbw.eu/folder/$1/$2xx/$2$3/$4xx/$4$5/intern.mets"
 
 
-# IIIF for folders with public and internal versions
-# (CORS rules for iiif in iiif/.htaccess) 
+# IIIF manifests for folders with public and internal versions
+# (CORS rules for iiif in iiif/.htaccess)
 RewriteCond "%{ENV:PM20_INTERNAL}" ^$
 RewriteRule "^iiif/folder/(co|pe|wa|sh)/([0-9,]+)/manifest.json$" "/iiif/folder/$1/$2/public.manifest.json" [PT]
 RewriteCond "%{ENV:PM20_INTERNAL}" "1"
 RewriteRule "^iiif/folder/(co|pe|wa|sh)/([0-9,]+)/manifest.json$" "/iiif/folder/$1/$2/intern.manifest.json" [PT]
+
+# IIIF viewer links for folders
+RewriteRule "^iiifview/folder/(co|pe|sh|wa)/([0-9,]+)$" "https://manducus.net/m3c/?manifest=https://pm20.zbw.eu/iiif/folder/$1/$2/manifest.json"
+
+# IIIF viewer links for documents
+RewriteRule "^iiifview/folder/(co|pe|sh|wa)/([0-9,]+)/([0-9]{5})$" "https://manducus.net/m3c/?manifest=https://pm20.zbw.eu/iiif/folder/$1/$2/manifest.json&canvas=https://pm20.zbw.eu/iiif/folder/$1/$2/$3/0001/canvas"
 
 
 # GND redirect
