@@ -13,6 +13,9 @@ $endif$
 $if(keywords)$
   <meta name="keywords" content="$for(keywords)$$keywords$$sep$, $endfor$" />
 $endif$
+$if(robots)$
+  <meta name="robots" content="$robots$" />
+$endif$
 $if(fn-stub)$
   <link rel="alternate" hreflang="en" href="https://pm20.zbw.eu/$targetdir$/$fn-stub$.en.html" />
   <link rel="alternate" hreflang="de" href="https://pm20.zbw.eu/$targetdir$/$fn-stub$.de.html" />
