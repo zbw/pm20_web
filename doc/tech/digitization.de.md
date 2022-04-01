@@ -2,6 +2,7 @@
 title: "Notizen Digitalisierung"
 backlink: ./about
 backlink-title: Dokumentation / Documentation
+robots: noindex
 ---
 
 # Notizen Digitalisierung

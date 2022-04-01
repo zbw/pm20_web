@@ -1,6 +1,6 @@
 ---
 title: Access forbidden
-etr: error
+robots: noindex
 ---
 
 # Access to this page is forbidden

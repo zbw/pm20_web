@@ -1,6 +1,7 @@
 ---
 title: Folder page not addressable
 fn-stub: folder_page_not_adressable
+robots: noindex
 ---
 
 # Folder page not addressable

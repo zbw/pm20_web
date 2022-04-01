@@ -1,8 +1,8 @@
 ---
 title: Metadata structures for documents
-etr: doc
 backlink: ../about
 backlink-title: Dokumentation / Documentation
+robots: noindex
 ---
 
 # Metadata structures for documents

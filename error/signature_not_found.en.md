@@ -1,6 +1,6 @@
 ---
 title: Signature not found
-etr: error
+robots: noindex
 ---
 
 # Not found

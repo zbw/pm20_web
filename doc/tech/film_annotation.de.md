@@ -1,8 +1,8 @@
 ---
 title: "Annotationen"
-etr: doc
 backlink: ../about
 backlink-title: Dokumentation / Documentation
+robots: noindex
 ---
 
 # Annotationen für Filme - Anleitung (Entwurf)

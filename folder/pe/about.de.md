@@ -4,6 +4,7 @@ modified:
 backlink: ../../about.de.html
 backlink-title: "Home"
 fn-stub: about
+
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
