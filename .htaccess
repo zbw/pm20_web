@@ -146,7 +146,7 @@ RewriteRule "^iiifview/folder/(co|pe|sh|wa)/([0-9,]+)$" "https://manducus.net/m3
 
 # IIIF viewer links for documents
 ##RewriteRule "^iiifview/folder/(co|pe|sh|wa)/([0-9,]+)/([0-9]{5})$" "https://manducus.net/m3c/?manifest=https://pm20.zbw.eu/iiif/folder/$1/$2/manifest.json&canvas=https://pm20.zbw.eu/iiif/folder/$1/$2/$3/0001/canvas"
-RewriteRule "^iiifview/folder/(co|pe|sh|wa)/([0-9,]+)/([0-9]{5})$" "https://pm20.zbw.eu/mirador/?manifest=https://pm20.zbw.eu/iiif/folder/$1/$2/manifest.json&canvas=https://pm20.zbw.eu/iiif/folder/$1/$2/$3/0001/canvas"
+RewriteRule "^iiifview/folder/(co|pe|sh|wa)/([0-9,]+)/([0-9]{5})$" "https://pm20.zbw.eu/mirador/?manifestId=https://pm20.zbw.eu/iiif/folder/$1/$2/manifest.json&canvasId=https://pm20.zbw.eu/iiif/folder/$1/$2/$3/0001/canvas"
 
 
 # GND redirect
