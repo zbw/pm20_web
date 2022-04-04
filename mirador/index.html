@@ -1,0 +1,28 @@
+<html>
+<head>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/mirador@3.3.0/dist/mirador.min.js"></script>
+</head>
+<body>
+<div id="mirador" style="position:absolute; top:0; bottom:0; left:0; right:0;"></div>
+<script type="text/javascript">
+  document.addEventListener("DOMContentLoaded", () => {
+    let config = {
+      id:'mirador',
+      windows: []
+    }
+    let url = new URL(window.location.href)
+    let m = url.searchParams.get("manifestId")
+    let c = url.searchParams.get("canvasId")
+    if(m) {
+      let w = { manifestId:m }
+      if(c) {
+        w.canvasId = c
+      }
+      config.windows.push(w)
+    }
+    let miradorInstance = Mirador.viewer(config)
+  })
+</script>
+</body>
+</html>
+
