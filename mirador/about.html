@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <meta charset="UTF-8">
   <script type="text/javascript" src="mirador.min.js"></script>
 </head>
 <body>
@@ -9,13 +10,30 @@
   document.addEventListener("DOMContentLoaded", () => {
     let config = {
       id:'mirador',
-      windows: []
+      language: 'de',
+      // not working - #3539
+      availableLanguages: {
+        de: 'Deutsch',
+        en: 'English'
+      },
+      windows: [],
+      workspace: {
+        showZoomControls: true
+      }
     }
     let url = new URL(window.location.href)
     let m = url.searchParams.get("manifestId")
     let c = url.searchParams.get("canvasId")
     if(m) {
-      let w = { manifestId:m }
+      let w = {
+        manifestId: m,
+        allowClose: false,
+        sideBarOpen: true,
+        sideBarPanel: 'canvas',
+        // obsolete options!!
+        //defaultSideBarPanel: 'index', 
+        //sideBarOpenByDefault: true
+      }
       if(c) {
         w.canvasId = c
       }
