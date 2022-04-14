@@ -1,13 +1,13 @@
 ---
 title: "Sacharchiv Kiel 2. Verfilmung"
-modified: 2022-04-12
+modified: 2022-04-14
 ---
 
 # Sacharchiv Kiel 2. Verfilmung
 
-## Liste der bisher tatsächlich verfügbaren Filme
+## Liste der tatsächlich digital verfügbaren Filme
 
-Zahlreiche Abweichungen von der [aus den Excel-Metadaten erzeugten Liste](k2_sh.de.html).
+Vergleiche die [aus den Excel-Metadaten erzeugten Liste](k2_sh.de.html).
 
 _Die Filmlinks sind nur inhouse aufrufbar!_
 
@@ -296,9 +296,9 @@ Film|Bemerkungen
 [0698](k2/sh/0698)| 
 [0699](k2/sh/0699)| 
 [0700](k2/sh/0700)| 
-- | Bruch in der Nummerierung durch Doppelvergabe von Nummern bei der Verfilmung. Die Nummer auf dem ersten Bild des Film jeweils hier eingetragen.
+- | Bruch in der Nummerierung durch Doppelvergabe von Nummern bei der Verfilmung. Die Nummer auf dem ersten Bild des Films ist jeweils hier eingetragen.
 [9547](k2/sh/9547)| 547A
--  | kein 9548 - 9554
+-  | 9548 - 9554 fehlt
 [9555](k2/sh/9555)| 555A
 [9556](k2/sh/9556)| 556A
 [9557](k2/sh/9557)| 557A

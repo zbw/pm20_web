@@ -3564,6 +3564,274 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 566|788|Frankreich|70|g20|1947|1966||
 566|950|Frankreich|70|g21|1947|1962||
 566|978|Frankreich|70|g23|1946|1966||
+567|61|Frankreich|70|g24|1946|1966||Nummer für die Verarbeitung geändert. Auf den Filmdosen nummeriert als Römisch 1, also xxx I. 07.04.2022, gh
+567|149|Frankreich|70|g30|1947|1966||
+567|384|Frankreich|70|g31|1950|1966||
+567|400|Frankreich|70|g32|1946|1966||
+567|448|Frankreich|70|g33|1946|1966||
+567|495|Frankreich|70|g36|1946|1966||
+567|551|Frankreich|70|g39|1949|1966||
+567|569|Frankreich|70|g40|1949|1965||
+567|590|Frankreich|70|g43|1947|1966||
+567|678|Frankreich|70|g44|1948|1966||
+567|734|Frankreich|70|g45|1949|1965||
+567|748|Frankreich|70|g46|1949|1966||
+567|758|Frankreich|70|g47|1952|1965||
+567|775|Frankreich|70|g48|1948|1966||
+567|843|Frankreich|70|g49|1948|||
+567|875|Frankreich|70|g50|1949|1966||
+567|886|Frankreich|70|g60|1949|1966||
+567|922|Frankreich|70|g62|1947|1966||
+567|1144|Frankreich|70|vs-|1946|1966||
+567|1196|Frankreich|70|vs1|1951|1966||
+567|1201|Frankreich|70|vs2|1948|1966||
+567|1222|Frankreich|70|vs10|1946|1966||
+568|61|Frankreich|70|vs11|1950|1966||
+568|132|Frankreich|70|vs12|1948|1966||
+568|172|Frankreich|70|vs13|1946|1966||
+568|263|Frankreich|70|vs14|1952|1963||
+568|271|Frankreich|70|vs15|1953|1966||
+568|300|Frankreich|70|vs20|1957|1963||
+568|304|Frankreich|70|vs21|1950|1966||
+568|319|Frankreich|70|vs22|1959|1966||
+568|328|Frankreich|70|vs23|1948|1960||
+568|333|Frankreich|70|vs24|1946|1966||
+568|340|Frankreich|70|vs25|1950|1966||
+568|373|Frankreich|70|vs28|1947|1966||
+568|389|Frankreich|70|vs29|1956|1958||
+568|392|Frankreich|70|vs30|1947|1961||
+568|400|Frankreich|70|h-|1949|1964||
+568|542|Frankreich|70|h3|1951|1966||
+568|543|Frankreich|70|h7|1947|1966||
+568|565|Frankreich|70|h8 M1|1947|1966||
+568|616|Frankreich|70|h8 M2|1947|1961||
+568|697|Frankreich|70|h9|1949|1966||
+568|704|Frankreich|70|h11|1946|1966||
+568|770|Frankreich|70|h12|1953|1961||
+568|796|Frankreich|70|h13|1954|||
+568|806|Frankreich|70|h20|1946|1966||
+568|808|Frankreich|70|ah-|1947|1966||
+568|1178|Frankreich|70|ah7|1946|1966||
+568|1211|Frankreich|70|ah8|1946|1966||
+568|1314|Frankreich|70|ah11|1946|1966||
+568|1363|Frankreich|70|ah12|1949|1964||
+568|1378|Frankreich|70|ah13|1951|1966||
+569|62|Frankreich|70|ah20|1946|1966||
+569|461|Frankreich|70|ah22|1946|1966||
+569|1034|Frankreich|70|ah23|1954|1966||
+569|1171|Frankreich|70|ah24|1958|||
+569|1174|Frankreich|70|ah25|1947|1966||
+569|1181|Frankreich|70|ah26|1960|1964||
+569|1186|Frankreich|70|x-|1946|1948||
+570|61|Frankreich|70|x-|1959|1966||
+570|174|Frankreich|70|x1|1949|1959||
+570|188|Frankreich|70|x2|1946|1966||
+570|743|Frankreich|70|x3|1958|1966||
+570|767|Frankreich|70|x4|1950|1966||
+570|787|Frankreich|70|x5|1956|1966||
+570|794|Frankreich|70|x6|||1946-66|
+570|795|Frankreich|70|x10|1946|1966||
+570|952|Frankreich|70|x20|1946|1966||
+570|1292|Frankreich|70|x21|1946|1966||
+570|1313|Frankreich|70|x22|1951|1956||
+570|1317|Frankreich|70|x23|||1946-66|
+570|1318|Frankreich|70|x24|1956|||
+570|1321|Frankreich|70|x28|1948|1966||
+570|1355|Frankreich|70|x30|1946|1957||
+571|61|Frankreich|70|x30|1958|1966||
+571|304|Frankreich|70|x35|1946|1966||
+571|445|Frankreich|70|x40|1956|1961||
+571|448|Frankreich|70|x41|1946|1965||
+571|470|Frankreich|70|x43|1948|1961||
+571|477|Frankreich|70|x45|1948|1960||
+571|490|Frankreich|70|x46|1947|1966||
+571|545|Frankreich|70|x60|1948|1963||
+571|555|Frankreich|70|x65|1948|1965||
+571|579|Frankreich|70|x70|1947|1962||
+571|619|Frankreich|70|x71|1948|1964||
+571|626|Frankreich|70|x72|1947|1965||
+571|637|Frankreich|70|x75|1950|1961||
+571|647|Frankreich|70|x78|1948|1966||
+571|681|Frankreich|70|x79|1946|1966||
+571|1198|Frankreich|70|x80|1946|1966||
+571|1376|Frankreich|70|x81|1949|1966||
+571|1436|Frankreich|70|x82|1952|1962||
+571|1444|Frankreich|70|x83|1947|1966||
+572|61|Frankreich|70|x84|1949|1963||
+572|78|Frankreich|70|x90|1947|1966||
+572|121|Frankreich|70|x100|1947|1966||
+572|274|Frankreich|70|x101|1950|1961||
+572|278|Frankreich|70|x102|1947|1962||
+572|286|Frankreich|70|x103|1947|1961||
+572|294|Frankreich|70|x104|1948|1966||
+572|310|Frankreich|70|x105|1948|1950||
+572|314|Frankreich|70|x106|1950|1957||
+572|318|Frankreich|70|x110|1946|1966||
+572|771|Frankreich|70|x111|1946|1966||
+572|826|Frankreich|70|x112|1946|1966||
+572|1054|Frankreich|70|x113|1948|1966||
+572|1104|Frankreich|70|x115|1949|1961||
+572|1114|Frankreich|70|x116|1948|1966||
+572|1150|Frankreich|70|x117|1947|1966||
+572|1186|Frankreich|70|x118|1950|1966||
+572|1195|Frankreich|70|x119|1949|1963||
+572|1216|Frankreich|70|x120|1955|1964||
+572|1221|Frankreich|70|x121|1948|1966||
+572|1236|Frankreich|70|x125|1949|1966||
+572|1265|Frankreich|70|x130|1948|1966||
+572|1279|Frankreich|70|x131|||1946-66|
+572|1280|Frankreich|70|x132|1947|1966||
+572|1295|Frankreich|70|x133|1949|1966||
+572|1306|Frankreich|70|x134|1947|1965||
+572|1319|Frankreich|70|x135|1948|1965||
+572|1332|Frankreich|70|x136|1946|1966||
+572|1373|Frankreich|70|x137|1947|1957||
+572|1382|Frankreich|70|x140|||1946-66|
+573|61|Frankreich|70|x141|1946|1966||
+573|93|Frankreich|70|x145|1948|1966||
+573|125|Frankreich|70|x150|1947|1966||
+573|321|Frankreich|70|x151|1949|1966||
+573|336|Frankreich|70|x152|1946|1966||
+573|451|Frankreich|70|x153|1946|1966||
+573|721|Frankreich|70|x154|1946|1966||
+573|818|Frankreich|70|x155|1946|1966||
+573|831|Frankreich|70|x156|1947|1966||
+573|901|Frankreich|70|x157|1946|1965||
+573|919|Frankreich|70|x165|1949|1966||
+573|945|Frankreich|70|x170|1947|1963||
+573|981|Frankreich|70|x171|1948|1965||
+573|998|Frankreich|70|x172|1947|1966||
+573|1028|Frankreich|70|x173|1951|1966||
+573|1039|Frankreich|70|x175|1947|1966||
+573|1055|Frankreich|70|x176|1956|1966||
+573|1067|Frankreich|70|x177|1946|1966||
+573|1385|Frankreich|70|x178|1946|1958||
+574|61|Frankreich|70|x178|1959|1966||
+574|218|Frankreich|70|x179|1946|1966||
+574|273|Frankreich|70|x180|1946|1966||
+574|490|Frankreich|70|x184|1958|1966||
+574|547|Frankreich|70|x185|1946|166||
+574|792|Frankreich|70|x188|1946|1966||
+574|868|Frankreich|70|x190|1946|1960||
+574|881|Frankreich|70|x192|1948|1966||
+574|919|Frankreich|70|x200|1946|1966||
+574|1115|Frankreich|70|x202|||1946-66|
+574|1116|Frankreich|70|x210|1946|1966||
+574|1142|Frankreich|70|x211|1948|1966||
+574|1166|Frankreich|70|x212|1947|1964||
+574|1184|Frankreich|70|x231|1942|1966||
+574|1236|Frankreich|70|x232|1946|1965||
+574|1256|Frankreich|70|x235|1950|1963||
+574|1268|Frankreich|70|x240|1948|1966||
+574|1287|Frankreich|70|x250|1947|1966||
+574|1374|Frankreich|70|x275|1947|1966||
+574|1425|Frankreich|70|x279|1946|1960||
+575|61|Frankreich|70|x279|1961|1966||
+575|92|Frankreich|70|x280|1946|1966||
+575|201|Frankreich|70|x281|1946|1966||
+575|506|Frankreich|70|x282|1950|1966||
+575|557|Frankreich|70|x284 M1|1947|1966||
+575|728|Frankreich|70|x285|1957|1965||
+575|740|Frankreich|70|x300|1946|1964||
+576|61|Frankreich|70|x300|1965|1966||
+576|195|Frankreich|70|x305|1951|1966||
+576|230|Frankreich|70|x310|1946|1966||
+576|335|Frankreich|70|x311|1946|1966||
+576|408|Frankreich|70|x312|1961|||
+576|410|Frankreich|70|x313|1962|||
+576|412|Frankreich|70|x314|1950|1966||
+576|423|Frankreich|70|x315|1948|1966||
+576|443|Frankreich|70|x316|1947|1964||
+576|462|Frankreich|70|x325|||1946-66|
+576|463|Frankreich|70|x327|1947|1965||
+576|473|Frankreich|70|x330|1949|1965||
+576|495|Frankreich|70|x331|1946|1966||
+576|523|Frankreich|70|x340|1946|1966||
+576|551|Frankreich|70|x341|1959|1966||
+576|557|Frankreich|70|x350|1946|1966||
+576|625|Frankreich|70|x358|1960|||
+576|627|Frankreich|70|x361|1947|1966||
+576|653|Frankreich|70|x363|1946|1960||
+576|660|Frankreich|70|x364|1949|1966||
+576|674|Frankreich|70|x370|||1946-66|
+576|676|Frankreich|70|x377|1948|1966||
+576|687|Frankreich|70|x378|1946|1966||
+576|720|Frankreich|70|x380|1957|1964||
+576|725|Frankreich|70|x400|1946|1966||
+576|811|Frankreich|70|x410|1947|1966||
+576|885|Frankreich|70|x411|1948|1966||
+576|900|Frankreich|70|x420|||1946-66|
+576|901|Frankreich|70|x428|1947|1966||
+576|922|Frankreich|70|x430|1948|1966||
+576|954|Frankreich|70|x431|1946|1966||
+576|1039|Frankreich|70|x432|1946|1966||
+576|1239|Frankreich|70|x433|1947|1966||
+576|1272|Frankreich|70|x435|1949|1966||
+576|1290|Frankreich|70|x445|1957|1964||
+576|1296|Frankreich|70|x450|1946|1966||
+576|1330|Frankreich|70|x451|1948|1960||
+576|1336|Frankreich|70|x452|1946|1966||
+576|1404|Frankreich|70|x543|1958|1962||
+576|1407|Frankreich|70|x455|1949|1966||
+577|61|Frankreich|70|x460|1947|1966||
+577|111|Frankreich|70|x462|1948|1966||
+577|154|Frankreich|70|x463|1947|1966||
+577|176|Frankreich|70|x465|1947|1966||
+577|224|Frankreich|70|x466|1948|1966||
+577|256|Frankreich|70|x475|1950|||
+577|265|Frankreich|70|x500|1947|1966||
+577|294|Frankreich|70|x502|1948|1966||
+577|306|Frankreich|70|x503|1952|1966||
+577|521|Frankreich|70|x504|1950|1964||
+577|328|Frankreich|70|x505|1948|1966||
+577|348|Frankreich|70|x506|1946|1965||
+577|363|Frankreich|70|x507|1946|1966||
+577|483|Frankreich|70|x508|1947|1965||
+577|490|Frankreich|70|x509|1949|1966||
+577|504|Frankreich|70|x510|1946|1966||
+577|529|Frankreich|70|x511|1949|1965||
+577|556|Frankreich|70|x512|1948|1966||
+577|554|Frankreich|70|x515|1965|||
+577|566|Frankreich|70|x516|1949|1965||
+577|572|Frankreich|70|x518|||1946-66|
+577|573|Frankreich|70|x530|1946|1966||
+577|603|Frankreich|70|x531|1947|1966||
+577|667|Frankreich|70|x532|1947|1966||
+577|693|Frankreich|70|x533|1948|1966||
+577|710|Frankreich|70|x540|1948|1966||
+577|756|Frankreich|70|x541|1959|1965||
+577|758|Frankreich|70|x545|1947|1966||
+577|764|Frankreich|70|x550|1947|1966||
+577|789|Frankreich|70|x553|1950|1966||
+577|794|Frankreich|70|x554|1963|||
+577|796|Frankreich|70|x555|1948|1966||
+577|813|Frankreich|70|x556|1948|1960||
+577|824|Frankreich|70|x558|1947|1959||
+577|830|Frankreich|70|x560|1950|1961||
+577|838|Frankreich|70|x562|1948|1966||
+577|848|Frankreich|70|x565|1950|1966||
+577|863|Frankreich|70|x570|1946|1966||
+577|999|Frankreich|70|x572|1946|1966||
+577|1074|Frankreich|70|x573|1947|1966||
+577|1095|Frankreich|70|x574|1948|1960||
+577|1107|Frankreich|70|x575|1948|1966||
+577|1137|Frankreich|70|x582|1946|1966||
+577|1204|Frankreich|70|x584|1946|1966||
+577|1230|Frankreich|70|x585|1947|1966||
+577|1275|Frankreich|70|x586|1947|1966||
+577|1292|Frankreich|70|x587|1947|1963||
+577|1297|Frankreich|70|x588|1948|1962||
+577|1307|Frankreich|70|x589|1950|1966||
+577|1318|Frankreich|70|x595|1949|1950||
+577|1322|Frankreich|70|x596|1948|1966||
+577|1327|Frankreich|70|x598|1946|1966||
+577|1381|Frankreich|70|x599|1946|1966||
+577|1418|Frankreich|70|x600|1948|1966||
+578|61|Frankreich|70|x600|1962|1966||
+578|76|Frankreich|70|x601|1948|1959||
+578|84|Frankreich|70|x606|1958|1966||
+578|102|Frankreich|80|x607|1961|||
+579|61|Frankreich|80|w-|1960|1966||
 580|61|Großbritannien|80|f3|1961|1966||
 580|273|Großbritannien|80|f4|1946|1966||
 580|282|Großbritannien|80|f5|1946|1966||
@@ -3786,853 +4054,570 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 600|1131|Großbritannien|80|x172|1946|1966||
 600|1179|Großbritannien|80|x173|1948|1966||
 600|1246|Großbritannien|80|x175|1947|1966||
-547/A|061|Deutschland / Russische Zone|1R|allgem.|1959|1966||
-547/A|092|Deutschland / Russische Zone|1R|w-|1947|1966||
-548/A|061|Deutschland / Russische Zone||||||
-548/A|1048|Deutschland / Russische Zone|1R|w1|1946|1966||
-548/A|1141|Deutschland / Russische Zone|1R|w2|1945|1966||
-548/A|1304|Deutschland / Russische Zone|1R|w3|1947|1966||
-549/A|061|Deutschland / Russische Zone|1|w4|1945|1966||
-549/A|355|Deutschland / Russische Zone|1R|w5|1945|1965||
-549/A|362|Deutschland / Russische Zone|1R|w6|1946|1950||
-549/A|378|Deutschland / Russische Zone|1R|w7|1945|1961||
-549/A|413|Deutschland / Russische Zone|1R|w8|1945|1946||
-549/A|420|Deutschland / Russische Zone|1R|w9|1945|1946||
-549/A|484|Deutschland / Russische Zone|1R|w10|1946|1966||
-549/A|562|Deutschland / Russische Zone|1R|w11|1948|1966||
-549/A|755|Deutschland / Russische Zone|1R|w12|1949|1966||
-549/A|810|Deutschland / Russische Zone|1R|w13|1947|1966||
-549/A|860|Deutschland / Russische Zone|1R|w14|1949|1952||
-549/A|866|Deutschland / Russische Zone|1R|w20|1958|1960||
-549/A|871|Deutschland / Russische Zone|1R|w21|1956|1965||
-549/A|876|Deutschland / Russische Zone|1R|w25|1950|1956||
-549/A|888|Deutschland / Russische Zone|1R|w28|1946|1966||
-549/A|907|Deutschland / Russische Zone|1R|w29|1963|1966||
-549/A|911|Deutschland / Russische Zone|1R|w30|1949|1966||
-549/A|972|Deutschland / Russische Zone|1R|w35|1953|1965||
-549/A|1014|Deutschland / Russische Zone|1R|w39|1948|1965||
-549/A|1020|Deutschland / Russische Zone|1R|w45|1946|1966||
-549/A|1071|Deutschland / Russische Zone|1R|w50|1961|||
-549/A|1073|Deutschland / Russische Zone|1R|aw-|1967|1965||
-549/A|1124|Deutschland / Russische Zone|1R|aw1|1961|||
-549/A|1126|Deutschland / Russische Zone|1R|aw3|1961|||
-549A|1130|Deutschland / Russische Zone|1R|aw4|1957|1965||
-549/A|1137|Deutschland / Russische Zone|1R|aw10|1945|1965||
-549/A|1178|Deutschland / Russische Zone|1R|aw11|1953|1957||
-549/A|1182|Deutschland / Russische Zone|1R|aw12|1950|1966||
-549/A|1196|Deutschland / Russische Zone|1R|aw20|1949|1966||
-550/A|61|Deutschland / Russische Zone|1R|aw-0 bis 90|1947|1966||
-550/A|334|Deutschland / Russische Zone|1R|aw-100 bis 180|1950|1966||
-550/A|400|Deutschland / Russische Zone|1R|aw- 200 bis 290|1952|1966||
-550/A|456|Deutschland / Russische Zone|1R|aw-300 bis 380|1954|1966||
-550/A|476|Deutschland / Russische Zone|1R|aw- 400 bis 480|1959|1960||
-550/A|479|Deutschland / Russische Zone|1R|k-|1946|1966||
-550/A|552|Deutschland / Russische Zone|1R|k1|1948|1966||
-550/A|607|Deutschland / Russische Zone|1R|k2|1945|1966||
-550/A|844|Deutschland / Russische Zone|1R|k3M1|1945|1966||
-550/A|980|Deutschland / Russische Zone|1R|k3M2|1946|1966||
-550/A|1003|Deutschland / Russische Zone|1R|k10|1953|1966||
-550/A|1038|Deutschland / Russische Zone|1R|k11|1945|1966||
-551/A|61|Deutschland / Russische Zone|1R|k12|1946|1966||
-551/A|104|Deutschland / Russische Zone|1R|k14|1947|1961||
-551/A|115|Deutschland / Russische Zone|1R|k15|1945|1966||
-551/A|326|Deutschland / Russische Zone|1R|k16|1946|1966||
-551/A|351|Deutschland / Russische Zone|1R|k20|1945|1966||
-551/A|510|Deutschland / Russische Zone|1R|k21|1945|1966||
-551/A|651|Deutschland / Russische Zone|1R|k22|1946|1966||
-551/A|901|Deutschland / Russische Zone|1R|k23|1946|1964||
-551/A|908|Deutschland / Russische Zone|1R|b-|1946|1966||
-551/A|927|Deutschland / Russische Zone|1R|b1|1945|1966||
-551/A|980|Deutschland / Russische Zone|1R|b2|1945|1966||
-551/A|1079|Deutschland / Russische Zone|1R|b10|1946|1966||
-551/A|1109|Deutschland / Russische Zone|1R|b11|1946|1965||
-551/A|1116|Deutschland / Russische Zone|1R|b12|1949|1965||
-551/A|1120|Deutschland / Russische Zone|1R|b14||1964||
-551/A|1124|Deutschland / Russische Zone|1R|b20|1945|1966||
-551/A|1129|Deutschland / Russische Zone|1R|b25|1945|1966||
-551/A|1163|Deutschland / Russische Zone|1R|a-|1946|1965||
-551/A|1285|Deutschland / Russische Zone|1R|a1|1945|1952||
-552/A|61|Deutschland / Russische Zone|1R|a1|1953|1966||
-552/A|117|Deutschland / Russische Zone|1R|a2|1949|1965||
-552/A|130|Deutschland / Russische Zone|1R|a3|1949|1960||
-552/A|136|Deutschland / Russische Zone|1R|a4|1958|||
-552/A|140|Deutschland / Russische Zone|1R|a5|1945|1965||
-552/A|169|Deutschland / Russische Zone|1R|a6|1946|1963||
-552/A|199|Deutschland / Russische Zone|1R|a7|1959|1966||
-552/A|217|Deutschland / Russische Zone|1R|a8|1946|1966||
-552/A|231|Deutschland / Russische Zone|1R|a9|1945|1966||
-552/A|350|Deutschland / Russische Zone|1R|a10|1945|1966||
-552/A|429|Deutschland / Russische Zone|1R|a15|1946|1966||
-552/A|502|Deutschland / Russische Zone|1R|a19|1966|||
-552/A|504|Deutschland / Russische Zone|1R|a20|1946|1966||
-552/A|566|Deutschland / Russische Zone|1R|a21|1946|1958||
-552/A|572|Deutschland / Russische Zone|1R|a22|1946|1966||
-552/A|826|Deutschland / Russische Zone|1R|a23|1957|1966||
-552/A|841|Deutschland / Russische Zone|1R|a24|1946|1965||
-552/A|956|Deutschland / Russische Zone|1R|a25|1964|1965||
-552/A|966|Deutschland / Russische Zone|1R|a26|1945|1966||
-552/A|998|Deutschland / Russische Zone|1R|a29|1950|1952||
-552/A|1002|Deutschland / Russische Zone|1R|a30|1946|1953||
-552/A|1009|Deutschland / Russische Zone|1R|a31|1946|1962||
-552/A|1016|Deutschland / Russische Zone|1R|a32|1946|1962||
-552/A|1034|Deutschland / Russische Zone|1R|a40|1951|||
-552/A|1037|Deutschland / Russische Zone|1R|a41|1945|1963||
-552/A|1066|Deutschland / Russische Zone|1R|a42|1949|||
-552/A|1068|Deutschland / Russische Zone|1R|a44|||1945-66|
-552/A|1069|Deutschland / Russische Zone|1R|a45|1947|1957||
-552/A|1072|Deutschland / Russische Zone|1R|a46|||1945-66|
-552/A|1073|Deutschland / Russische Zone|1R|a47|1947|||
-552/A|1075|Deutschland / Russische Zone|1R|a48|||1945-66|
-552/A|1076|Deutschland / Russische Zone|1R|p-|1946|1966||
-552/A|1138|Deutschland / Russische Zone|1R|p1|1945|1954||
-553/A|61|Deutschland / Russische Zone|1R|p1|1955|1966||
-553/A|291|Deutschland / Russische Zone|1R|p2|1945|1966||
-553/A|757|Deutschland / Russische Zone|1R|p3|1946|1966||
-553/A|1061|Deutschland / Russische Zone|1R|p4|1945|1966||
-553/a|1113|Deutschland / Russische Zone|1R|p5|1947|1966||
-553/A|1204|Deutschland / Russische Zone|1R|p8|1945|1950||
-555/A|61|Deutschland / Russische Zone|1R|p8|1951|1966||
-554/A|222|Deutschland / Russische Zone|1R|p9|1946|1966||
-554/A|309|Deutschland / Russische Zone|1R|p10|1945|1966||
-554/A|516|Deutschland / Russische Zone|1R|p11|1945|1966||
-554/A|809|Deutschland / Russische Zone|1R|p20|1945|1963||
-555/A|61|Deutschland / Russische Zone|1R|p20|1964|1966||
-555/A|210|Deutschland / Russische Zone|1R|p21|||1945-66|
-555/A|211|Deutschland / Russische Zone|1R|p22|1950|1965||
-555/A|228|Deutschland / Russische Zone|1R|p23|1949|1966||
-555/A|299|Deutschland / Russische Zone|1R|p24|1949|1966||
-555/A|323|Deutschland / Russische Zone|1R|p30|||1945-66|
-555/A|324|Deutschland / Russische Zone|1R|p31|1948|1962||
-555/A|344|Deutschland / Russische Zone|1R|p40|1955|1951||
-555/A|383|Deutschland / Russische Zone|1R|p41|||1945-66|
-555/A|384|Deutschland / Russische Zone|1R|p42|1954|1966||
-555/A|406|Deutschland / Russische Zone|1R|f-|1945|1965||
-555/A|515|Deutschland / Russische Zone|1R|f1|1946|1966||
-555/A|689|Deutschland / Russische Zone|1r|f2|1959|1966||
-555/A|692|Deutschland / Russische Zone|1R|f3|1945|1962||
-555/A|768|Deutschland / Russische Zone|1R|f4|1946|1947||
-555/A|772|Deutschland / Russische Zone|1R|f5|1946|1961||
-555/A|868|Deutschland / Russische Zone|1R|f6|1947|1960||
-555/A|884|Deutschland / Russische Zone|1R|f7|1949|1957||
-555/A|888|Deutschland / Russische Zone|1R|f10|1950|||
-555/A|890|Deutschland / Russische Zone|1R|f11|1957|||
-555/A|893|Deutschland / Russische Zone|1R|f12|1946|1962||
-555/A|914|Deutschland / Russische Zone|1R|f13|1946|1961||
-555/A|918|Deutschland / Russische Zone|1R|f14|1958|||
-555/A|920|Deutschland / Russische Zone|1R|f15|||1945-66|
-555/A|921|Deutschland / Russische Zone|1R|f20|1947|1965||
-555/A|929|Deutschland / Russische Zone|1R|f21|1952|1962||
-555/A|938|Deutschland / Russische Zone|1R|f22|||1945-66|
-555/a|939|Deutschland / Russische Zone|1R|f30|1947|1954||
-555/A|948|Deutschland / Russische Zone|1R|f31|1946|1953||
-555/A|956|Deutschland / Russische Zone|1R|f32|1946|1961||
-555/A|971|Deutschland / Russische Zone|1R|f33|1951|1964||
-555/A|980|Deutschland / Russische Zone|1R|f34|1956|1960||
-555/A|986|Deutschland / Russische Zone|1R|f35|1946|1963||
-555/A|1001|Deutschland / Russische Zone|1R|f36|1946|1965||
-555/A|1025|Deutschland / Russische Zone|1R|f37|||1945-66|
-555/(A|1026|Deutschland / Russische Zone|1R|f40|1947|1950||
-555/A|1029|Deutschland / Russische Zone|1R|v-|1945|1966||
-555/A|1097|Deutschland / Russische Zone|1R|v1|1945|1966||
-555/A|1173|Deutschland / Russische Zone|1R|v2|1945|1966||
-555/A|1286|Deutschland / Russische Zone|1R|v10|1947|1966||
-556/A|61|Deutschland / Russische Zone|1R|v11|1945|1966||
-556/A|135|Deutschland / Russische Zone|1R|v12|1949|1966||
-556/A|138|Deutschland / Russische Zone|1R|v13|1950|1966||
-556/A|172|Deutschland / Russische Zone|1R|v15|1946|1966||
-556/A|208|Deutschland / Russische Zone|1R|v15M2|1946|1966||
-556/A|255|Deutschland / Russische Zone|1R|v16|1948|1966||
-556/A|323|Deutschland / Russische Zone|1R|v18|1945|1966||
-556/A|324|Deutschland / Russische Zone|1R|v20|1946|1966||
-556/A|371|Deutschland / Russische Zone|1R|v21|1946|1966||
-556/A|401|Deutschland / Russische Zone|1R|v22|1948|1960||
-556/A|428|Deutschland / Russische Zone|1R|v23|1948|1966||
-556/A|463|Deutschland / Russische Zone|1R|v24|1946|1966||
-556/A|506|Deutschland / Russische Zone|1R|vs25|1950|1966||
-556/A|522|Deutschland / Russische Zone|1R|v26M1|1946|1966|1945-66|
-556/A|523|Deutschland / Russische Zone|1R|v30|1945|1966||
-556/A|611|Deutschland / Russische Zone|1R|v40|1946|1964||
-556/A|640|Deutschland / Russische Zone|1R|v50|1945|1966||
-556/A|709|Deutschland / Russische Zone|1R|g-|1946|1961||
-556/A|713|Deutschland / Russische Zone|1R|g1|1946|1966||
-555/A|801|Deutschland / Russische Zone|1R|g2|1946|1961||
-556/A|825|Deutschland / Russische Zone|1R|g3|1946|1957||
-556/A|831|Deutschland / Russische Zone|1R|g5|1948|1965||
-556/A|841|Deutschland / Russische Zone|1R|g7|1946|1964||
-556/A|851|Deutschland / Russische Zone|1R|g10|1946|1955||
-556/A|861|Deutschland / Russische Zone|1R|g11|1946|1950||
-556/A|865|Deutschland / Russische Zone|1R|g12|1946|1961||
-556/A|868|Deutschland / Russische Zone|1R|g13|1946|1964||
-556/A|883|Deutschland / Russische Zone|1R|g14|1947|1950||
-556/A|886|Deutschland / Russische Zone|1R|g20|1946|1966||
-556/A|904|Deutschland / Russische Zone|1R|g21|1950|1955||
-556/A|908|Deutschland / Russische Zone|1R|g23|1945|1966||
-556/A|976|Deutschland / Russische Zone|1R|g24|1957|1962||
-556/A|981|Deutschland / Russische Zone|1R|g30|1946|1966||
-556/A|1021|Deutschland / Russische Zone|1R|g31|1946|1962||
-556/A|1035|Deutschland / Russische Zone|1R|g32|1946|1962||
-556/A|1046|Deutschland / Russische Zone|1R|g33|1952|1964||
-556/A|1050|Deutschland / Russische Zone|1R|g36|||1945-66|
-556/A|1052|Deutschland / Russische Zone|1R|g39|1946|1945||
-556/A|1078|Deutschland / Russische Zone|1R|g40|1950|1957||
-556/A|1084|Deutschland / Russische Zone|1R|g41|1948|1961||
-556/A|1088|Deutschland / Russische Zone|1R|g43|1945|1952||
-556/A|1140|Deutschland / Russische Zone|1R|g44|1945|1966||
-556/A|1189|Deutschland / Russische Zone|1R|g45|1948|1960||
-556/A|1192|Deutschland / Russische Zone|1R|g46|1950|1960||
-556/A|1197|Deutschland / Russische Zone|1R|g47|1946|1961||
-556/A|1212|Deutschland / Russische Zone|1R|g48|||1945-66|
-556/A|1213|Deutschland / Russische Zone|1R|g49|||1945-66|
-556/A|1214|Deutschland / Russische Zone|1R|g50|1955|1962||
-556/A|1221|Deutschland / Russische Zone|1R|g60|||1945-66|
-556/A|1222|Deutschland / Russische Zone|1R|g62|1946|1965||
-556/A|1233|Deutschland / Russische Zone|1R|vs-|1945|1966||
-556/A|1279|Deutschland / Russische Zone|1R|vs1|1946|||
-556/A|1281|Deutschland / Russische Zone|1R|vs2|1946|1957||
-557/A|61|Deutschland / Russische Zone|1R|vs10|1945|1966||
-557/A|150|Deutschland / Russische Zone|1R|vs11|1947|1966||
-557/A|166|Deutschland / Russische Zone|1R|vs12|1947|1961||
-557/A|181|Deutschland / Russische Zone|1R|vs13|1946|1965||
-557/A|213|Deutschland / Russische Zone|1R|vs14|1955|1949||
-557/A|215|Deutschland / Russische Zone|1R|vs15|1947|||
-557/A|217|Deutschland / Russische Zone|1R|vs20|1951|1962||
-557/A|220|Deutschland / Russische Zone|1R|vs21|1946|1961||
-557/A|236|Deutschland / Russische Zone|1R|vs22|1945|1960||
-557/A|245|Deutschland / Russische Zone|1R|vs23|1946|1963||
-557/A|255|Deutschland / Russische Zone|1R|vs24|1954|||
-557/A|257|Deutschland / Russische Zone|1R|vs25|1946|1964||
-557/A|264|Deutschland / Russische Zone|1R|vs28|1959|||
-557/A|266|Deutschland / Russische Zone|1R|vs29|1958|1960||
-557/A|270|Deutschland / Russische Zone|1R|vs30|1960|||
-557/A|272|Deutschland / Russische Zone|1R|vs31|1945|1966||
-557/A|273|Deutschland / Russische Zone|1R|h-|1945|1966||
-557/A|444|Deutschland / Russische Zone|1R|h3|1946|1966||
-557A|482|Deutschland / Russische Zone|1R|h7|1945|1966||
-557/A|529|Deutschland / Russische Zone|1R|h8|1945|1966||
-557/A|1089|Deutschland / Russische Zone|1R|h9|||1945-66|
-557/A|1090|Deutschland / Russische Zone|1R|h11|1946|1966||
-557/A|1177|Deutschland / Russische Zone|1R|h12|1952|1966||
-555/A|1185|Deutschland / Russische Zone|1R|h12|1950|1952||
-557/A|1188|Deutschland / Russische Zone|1R|h20|||1945-66|
-557/A|1189|Deutschland / Russische Zone|1R|ah-|1945|1956||
-558/A|61|Deutschland / Russische Zone|1R|ah-|1957|1966||
-558/A|326|Deutschland / Russische Zone|1R|ah7|1946|1966||
-558/A|409|Deutschland / Russische Zone|1R|ah8|1947|1966||
-558/A|444|Deutschland / Russische Zone|1R|ah11|||1945-66|
-558/A|527|Deutschland / Russische Zone|1R|ah12|1945|1966||
-558/A|539|Deutschland / Russische Zone|1R|ah13|1952|1966||
-558/A|548|Deutschland / Russische Zone|1R|ah20|1947|1966||
-558/A|646|Deutschland / Russische Zone|1R|ah22|1946|1966||
-558/A|791|Deutschland / Russische Zone|1R|ah23M1|1957|1966||
-558/A|816|Deutschland / Russische Zone|1R|ah24M1|||1945-66|
-558/A|817|Deutschland / Russische Zone|1R|ah25|1951|1954||
-558/A|826|Deutschland / Russische Zone|1R|ah26|1947|1953||
-558/A|829|Deutschland / Russische Zone|1R|x-|||1945-66|
-558/A|1120|Deutschland / Russische Zone|1R|x1|1946|1966||
-588/A|1153|Deutschland / Russische Zone|1R|x2|1945|1953||
-559/A|61|Deutschland / Russische Zone|1R|x2|1954|1966||
-559/A|359|Deutschland / Russische Zone|1R|x3M1|1945|1966||
-559/A|559|Deutschland / Russische Zone|1R|x6|||1945-66|
-559/A|405|Deutschland / Russische Zone|1R|x4|1945|1966||
-559/A|551|Deutschland / Russische Zone|1R|x5|1947|1966||
-559/A|560|Deutschland / Russische Zone|1R|x10|1945|1966||
-559/A|645|Deutschland / Russische Zone|1R|x20|1945|1966||
-559/A|740|Deutschland / Russische Zone|1R|x21|1948|1966||
-559/A|756|Deutschland / Russische Zone|1R|x22|1945|1966||
-559/A|900|Deutschland / Russische Zone|1R|x23|1947|1966||
-559/A|904|Deutschland / Russische Zone|1R|x24|1946|1958||
-559/A|919|Deutschland / Russische Zone|1R|x28|1945|1966||
-559/A|943|Deutschland / Russische Zone|1R|x30|1946|1966||
-559/A|994|Deutschland / Russische Zone|1R|x35|1945|1966||
-559/A|1030|Deutschland / Russische Zone|1R|x40|1949|1965||
-559/A|1041|Deutschland / Russische Zone|1R|x41|1946|1966||
-559/A|1111|Deutschland / Russische Zone|1R|x43|1946|1966||
-559/a|1119|Deutschland / Russische Zone|1R|x45|1948|1965||
-559/A|1125|Deutschland / Russische Zone|1R|x46|1946|1966||
-559/A|1159|Deutschland / Russische Zone|1R|x60|1947|1956||
-559/A|1162|Deutschland / Russische Zone|1R|x65|1946|1966||
-559/A|1190|Deutschland / Russische Zone|1R|x70|1946|1966||
-559/A|1210|Deutschland / Russische Zone|1R|x71|1947|1962||
-559/A|1220|Deutschland / Russische Zone|1R|x72|1946|1966||
-559/A|1243|Deutschland / Russische Zone|1R|x75|1946|1963||
-559/A|1255|Deutschland / Russische Zone|1R|x78|1945|1950||
-560/A|61|Deutschland / Russische Zone|1R|x79||||
-560/A|747|Deutschland / Russische Zone|1R|x80|1945|1960||
-560/A|531|Deutschland / Russische Zone|1R|x81|1946|1966||
-560/A|766|Deutschland / Russische Zone|1R|x82|1945|1961||
-560/A|781|Deutschland / Russische Zone|1R|x83|1946|1966||
-560/A|803|Deutschland / Russische Zone|1R|x84|1946|1966||
-560/A|823|Deutschland / Russische Zone|1R|x90|1945|1966||
-560/A|871|Deutschland / Russische Zone|1R|x100|1946|1966||
-560/A|990|Deutschland / Russische Zone|1R|x101|||1945-66|
-560/A|991|Deutschland / Russische Zone|1R|x102|1946|1957||
-560/A|999|Deutschland / Russische Zone|1R|x103|1946|1966||
-560/A|1007|Deutschland / Russische Zone|1R|x104|||1945-66|
-560/A|1008|Deutschland / Russische Zone|1R|x105|1946|1947||
-560/A|1011|Deutschland / Russische Zone|1R|x106|1961|||
-560/A|1013|Deutschland / Russische Zone|1R|x110|||1945-66|
-560/A|1104|Deutschland / Russische Zone|1R|x111|1948|1966||
-560/A|1126|Deutschland / Russische Zone|1R|x112|1946|1966||
-560/A|1195|Deutschland / Russische Zone|1R|x113|1946|1966||
-560/A|1242|Deutschland / Russische Zone|1R|x115|1951|1965||
-560/A|1252|Deutschland / Russische Zone|1R|x116|1948|1966||
-560/A|1266|Deutschland / Russische Zone|1R|x117|1949|1966||
-560/A|1278|Deutschland / Russische Zone|1R|x118|1947|1966||
-561/A|61|Deutschland / Russische Zone|1R|x119|1946|1959||
-561/A|78|Deutschland / Russische Zone|1R|x120|1949|1966||
-561/A|83|Deutschland / Russische Zone|1R|x121|1955|1965||
-561/A|89|Deutschland / Russische Zone|1R|x125|1947|1968||
-561/A|109|Deutschland / Russische Zone|1R|x130|1946|1962||
-561/A|129|Deutschland / Russische Zone|1R|x131|||1945-66|
-561/A|130|Deutschland / Russische Zone|1R|x132|1960|1966||
-561/a|134|Deutschland / Russische Zone|1R|x133|1956|||
-561/A|137|Deutschland / Russische Zone|1R|x134|1955|1959||
-561/A|142|Deutschland / Russische Zone|1R|x135|1956|1961||
-561/A|150|Deutschland / Russische Zone|1R|x136|1946|1966||
-561/A|162|Deutschland / Russische Zone|1R|x137|1956|||
-561/A|164|Deutschland / Russische Zone|1R|x140|||1945-66|
-561/A|165|Deutschland / Russische Zone|1R|x141|1947|1961||
-561/A|202|Deutschland / Russische Zone|1R|x145|1946|1965||
-561/a|220|Deutschland / Russische Zone|1R|x150|1946|1966||
-561/A|423|Deutschland / Russische Zone|1R|x151|1954|1966||
-561/A|439|Deutschland / Russische Zone|1R|x152|1946|1966||
-561/A|563|Deutschland / Russische Zone|1R|x153|1946|1966||
-561/A|733|Deutschland / Russische Zone|1R|x154|1947|1966||
-561/A|788|Deutschland / Russische Zone|1R|x155|1946|1966||
-561/A|810|Deutschland / Russische Zone|1R|x156|1945|1966||
-561/A|872|Deutschland / Russische Zone|1R|x157|1948|1966||
-561/A|881|Deutschland / Russische Zone|1R|x165|1948|1966||
-561/A|939|Deutschland / Russische Zone|1R|x170|1947|1966||
-561/A|961|Deutschland / Russische Zone|1R|x171|1945|1966||
-561/A|978|Deutschland / Russische Zone|1R|x172|1946|1965||
-561/A|994|Deutschland / Russische Zone|1R|x173|1947|1966||
-561/A|1014|Deutschland / Russische Zone|1R|x175|1947|1962||
-561/A|1028|Deutschland / Russische Zone|1R|x176|1950|1960||
-561/A|1030|Deutschland / Russische Zone|1R|x177|1945|1966||
-561/a|1120|Deutschland / Russische Zone|1R|x178|1946|1966||
-561/A|1145|Deutschland / Russische Zone|1R|x179|1946|1966||
-561/A|1187|Deutschland / Russische Zone|1R|x180|1945|1966||
-562/A|61|Deutschland / Russische Zone|1R|x84 M1|1960|1962||
-562/A|65|Deutschland / Russische Zone|1R|x185|1945|1966||
-562/A|126|Deutschland / Russische Zone|1R|x188|1945|1966||
-562/A|172|Deutschland / Russische Zone|1R|x190|1947|1966||
-562/A|184|Deutschland / Russische Zone|1R|x192|1946|1966||
-562/A|210|Deutschland / Russische Zone|1R|x200|1946|1966||
-562A|424|Deutschland / Russische Zone|1R|x202|1958|||
-562/A|426|Deutschland / Russische Zone|1R|x210|1945|1966||
-562/A|487|Deutschland / Russische Zone|1R|x211|1947|1965||
-562/A|499|Deutschland / Russische Zone|1R|x212|1946|1964||
-562A|510|Deutschland / Russische Zone|1R|x231|1946|1966||
-562/A|575|Deutschland / Russische Zone|1R|x232|1947|1958||
-562A|579|Deutschland / Russische Zone|1R|x235|1945|1955||
-562/A|584|Deutschland / Russische Zone|1R|x240|1946|1966||
-562/A|601|Deutschland / Russische Zone|1R|x250|1946|1966||
-562/A|659|Deutschland / Russische Zone|1R|x275|1946|1966||
-562/A|695|Deutschland / Russische Zone|1R|x279|1947|1966||
-562/A|751|Deutschland / Russische Zone|1R|x280|1945|1966||
-562/A|774|Deutschland / Russische Zone|1R|x281|1949|1966||
-562/A|880|Deutschland / Russische Zone|1R|x282|1945|1966||
-562/A|933|Deutschland / Russische Zone|1R|x284|1949|1966||
-562/A|972|Deutschland / Russische Zone|1R|x285|1945|1966||
-562/A|990|Deutschland / Russische Zone|1R|x300|1945|1950||
-563/A|61|Deutschland / Russische Zone|1R|x300|1951|1966||
-563/A|650|Deutschland / Russische Zone|1R|x305|1949|1966||
-563/A|1058|Deutschland / Russische Zone|1R|x310|1945|1966||
-563/A|1094|Deutschland / Russische Zone|1R|x311|1948|1966||
-563/A|1101|Deutschland / Russische Zone|1R|x312|1945|1966||
-563/A|1102|Deutschland / Russische Zone|1R|x313|1945|1966||
-563/A|1103|Deutschland / Russische Zone|1R|x314|1954|1959||
-563/A|1107|Deutschland / Russische Zone|1R|x315|1955|1965||
-563/A|1128|Deutschland / Russische Zone|1R|x316|1960|1963||
-563/A|1131|Deutschland / Russische Zone|1R|x325|1945|1966||
-563/A|1132|Deutschland / Russische Zone|1R|x327|1950|1962||
-563/A|1178|Deutschland / Russische Zone|1R|x330|1947|1960||
-563/A|1195|Deutschland / Russische Zone|1R|x331|1945|1966||
-563/A|1210|Deutschland / Russische Zone|1R|x340|1945|1966||
-563/A|1262|Deutschland / Russische Zone|1R|x341|1946|1962||
-563/A|1268|Deutschland / Russische Zone|1R|x350|1945|1966||
-564/A|61|Deutschland / Russische Zone|1R|x358|1945|1966||
-564/A|68|Deutschland / Russische Zone|1R|x361|1949|1966||
-564/A|80|Deutschland / Russische Zone|1R|x363|1946|1953||
-564/A|83|Deutschland / Russische Zone|1R|x364|1949|1958||
-564/A|89|Deutschland / Russische Zone|1R|x370|1947|1960||
-564/A|93|Deutschland / Russische Zone|1R|x377|1953|1964||
-564/A|102|Deutschland / Russische Zone|1R|x378|1945|1966||
-564/A|137|Deutschland / Russische Zone|1R|x380|1946|1962||
-564/A|195|Deutschland / Russische Zone|1R|x400|1945|1966||
-564/A|367|Deutschland / Russische Zone|1R|x410|1945|1966||
-564/A|411|Deutschland / Russische Zone|1R|x411|1959|1966||
-564/A|465|Deutschland / Russische Zone|1R|x420|1950|1960||
-564/A|470|Deutschland / Russische Zone|1R|x428|1947|||
-564/A|474|Deutschland / Russische Zone|1R|x430|1951|||
-564/A|477|Deutschland / Russische Zone|1R|x431|1945|1960||
-564/A|504|Deutschland / Russische Zone|1R|x432|1951|1964||
-564/A|511|Deutschland / Russische Zone|1R|x433|1946|1961||
-564/A|526|Deutschland / Russische Zone|1R|x435|1951|1965||
-564/A|534|Deutschland / Russische Zone|1R|x445|1946|1966||
-564/a|541|Deutschland / Russische Zone|1R|x450|1945|1966||
-564/A|600|Deutschland / Russische Zone|1R|x451|1947|1952||
-564/A|604|Deutschland / Russische Zone|1R|x452|1946|1966||
-564/A|635|Deutschland / Russische Zone|1R|x453|1947|1965||
-564/A|638|Deutschland / Russische Zone|1R|x455|1947|1959||
-564/A|649|Deutschland / Russische Zone|1R|x460|1946|1966||
-564/A|714|Deutschland / Russische Zone|1R|x462|1946|1966||
-564/A|741|Deutschland / Russische Zone|1R|x463|1947|1955||
-564/A|746|Deutschland / Russische Zone|1R|x465|1946|1963||
-564/A|766|Deutschland / Russische Zone|1R|x466|1945|1966||
-564/A|838|Deutschland / Russische Zone|1R|x475|1946|1966||
-564/A|852|Deutschland / Russische Zone|1R|x500|1946|||
-564/A|989|Deutschland / Russische Zone|1R|x502|1946|1963||
-564/A|997|Deutschland / Russische Zone|1R|x503|1947|1966||
-564/A|1029|Deutschland / Russische Zone|1R|x504|1947|1966||
-564/A|1058|Deutschland / Russische Zone|1R|x505|1945|1965||
-564/A|1077|Deutschland / Russische Zone|1R|x506|1946|1966||
-564/A|1092|Deutschland / Russische Zone|1R|x507|1946|1966||
-564/A|1117|Deutschland / Russische Zone|1R|x508|1958|966||
-564/A|1119|Deutschland / Russische Zone|1R|x509|1947|1966||
-564/A|1148|Deutschland / Russische Zone|1R|x510|1946|1966||
-564/A|1184|Deutschland / Russische Zone|1R|x511|1946|1966||
-564/A|1205|Deutschland / Russische Zone|1R|x512|1948|1964||
-564/A|1211|Deutschland / Russische Zone|1R|x515|1963|1966||
-564/A|1215|Deutschland / Russische Zone|1R|x516|1947|1961||
-564/A|1224|Deutschland / Russische Zone|1R|x518|||1946-66|
-564/A|1225|Deutschland / Russische Zone|1R|x530|1946|1966||
-564/A|1240|Deutschland / Russische Zone|1R|x531|1946|1966||
-564/A|1263|Deutschland / Russische Zone|1R|x532|1948|1962||
-564/A|1275|Deutschland / Russische Zone|1R|x533|1954|||
-565/A|61|Deutschland / Russische Zone|1R|x540|1946|1966||
-565/A|134|Deutschland / Russische Zone|1R|x541|1954|1964||
-565/A|138|Deutschland / Russische Zone|1R|x545|1946|1961||
-565/A|145|Deutschland / Russische Zone|1R|x550|1946|1965||
-565/A|169|Deutschland / Russische Zone|1R|x553|1946|1951||
-565/A|173|Deutschland / Russische Zone|1R|x554|||1945-66|
-565/A|174|Deutschland / Russische Zone|1R|x555|1961|||
-565/A|176|Deutschland / Russische Zone|1R|x556|||1945-66|
-565/A|177|Deutschland / Russische Zone|1R|x558|||1945-66|
-565/A|178|Deutschland / Russische Zone|1R|x560|1947|1965||
-565/A|188|Deutschland / Russische Zone|1R|x562|1946|1958||
-565/A|204|Deutschland / Russische Zone|1R|x565|1946|1962||
-565/A|215|Deutschland / Russische Zone|1R|x570|1945|1966||
-565/A|344|Deutschland / Russische Zone|1R|x572|1946|1966||
-565/A|364|Deutschland / Russische Zone|1R|x573|1946|1963||
-565/A|395|Deutschland / Russische Zone|1R|x574|1947|1952||
-565/A|408|Deutschland / Russische Zone|1R|x575|1947|1952||
-565/A|411|Deutschland / Russische Zone|1R|x582|1946|1962||
-565/A|439|Deutschland / Russische Zone|1R|x584|1946|1963||
-565/A|449|Deutschland / Russische Zone|1R|x585|1945|1966||
-565/A|489|Deutschland / Russische Zone|1R|x586|1946|1966||
-565/A|505|Deutschland / Russische Zone|1R|x587|1946|1961||
-565/A|518|Deutschland / Russische Zone|1R|x588|1947|1960||
-565/A|528|Deutschland / Russische Zone|1R|x589|1947|1962||
-565/A|537|Deutschland / Russische Zone|1R|x595|1946|1966||
-565/A|549|Deutschland / Russische Zone|1R|x596|1946|1961||
-565/A|556|Deutschland / Russische Zone|1R|x598|1946|1966||
-565/A|593|Deutschland / Russische Zone|1R|x599|1946|1966||
-565/A|679|Deutschland / Russische Zone|1R|x600|1946|1966||
-565/A|734|Deutschland / Russische Zone|1R|x601|||1946-66|
-565/A|736|Deutschland / Russische Zone|1R|x606|1962|1966||
-565/A|742|Deutschland / Russische Zone|1R|x607M1|1963|||
-565/A|744|Großbritannien|80|w1|1946|1966||Ergänzung s. Film 578II
-565/A|924|Großbritannien|80|w2|1946|1955||
-566II|61|Großbritannien|80|w2|1966|||
-566II|119|Großbritannien|80|w3|1946|1966||
-566II|177|Großbritannien|80|w4|1947|1966||
-566II|276|Großbritannien|80|w5|1946|1966||
-566II|526|Großbritannien|80|w6|1946|1966||
-566II|571|Großbritannien|80|w7|1946|1965||
-566II|587|Großbritannien|80|w8|1949|1966||
-566II|599|Großbritannien|80|w9|1947|1966||
-566II|756|Großbritannien|80|w10|1946|1966||
-566II|855|Großbritannien|80|w11|1946|1966||
-566II|1007|Großbritannien|80|w12|1946|1965||
-566II|1034|Großbritannien|80|w13|1949|1966||
-566II|1115|Großbritannien|80|w14|1946|1966||
-566II|1140|Großbritannien|80|w20|1946|1966||
-566II|1141|Großbritannien|80|w21|1962|1966||
-566II|1146|Großbritannien|80|w25|1948|1953||
-566II|1153|Großbritannien|80|w28|1946|1966||
-567I|61|Frankreich|70|g24|1946|1966||
-567I|149|Frankreich|70|g30|1947|1966||
-567I|384|Frankreich|70|g31|1950|1966||
-567I|400|Frankreich|70|g32|1946|1966||
-567I|448|Frankreich|70|g33|1946|1966||
-567I|495|Frankreich|70|g36|1946|1966||
-567I|551|Frankreich|70|g39|1949|1966||
-567I|569|Frankreich|70|g40|1949|1965||
-567I|590|Frankreich|70|g43|1947|1966||
-567I|678|Frankreich|70|g44|1948|1966||
-567I|734|Frankreich|70|g45|1949|1965||
-567I|748|Frankreich|70|g46|1949|1966||
-567I|758|Frankreich|70|g47|1952|1965||
-567I|775|Frankreich|70|g48|1948|1966||
-567I|843|Frankreich|70|g49|1948|||
-567I|875|Frankreich|70|g50|1949|1966||
-567I|886|Frankreich|70|g60|1949|1966||
-567I|922|Frankreich|70|g62|1947|1966||
-567I|1144|Frankreich|70|vs-|1946|1966||
-567I|1196|Frankreich|70|vs1|1951|1966||
-567I|1201|Frankreich|70|vs2|1948|1966||
-567I|1222|Frankreich|70|vs10|1946|1966||
-567II|61|Großbritannien|80|w29|1953|||
-567II|162|Großbritannien|80|w30|1953|1966||
-567II|363|Großbritannien|80|w35|1948|1966||
-567II|464|Großbritannien|80|w39|1946|1965||
-567II|476|Großbritannien|80|w45|1946|1966||
-567II|1045|Großbritannien|80|w50|1949|1955||
-567II|1061|Großbritannien|80|aw-|1946|1966||
-568I|61|Frankreich|70|vs11|1950|1966||
-568I|132|Frankreich|70|vs12|1948|1966||
-568I|172|Frankreich|70|vs13|1946|1966||
-568I|263|Frankreich|70|vs14|1952|1963||
-568I|271|Frankreich|70|vs15|1953|1966||
-568I|300|Frankreich|70|vs20|1957|1963||
-568I|304|Frankreich|70|vs21|1950|1966||
-568I|319|Frankreich|70|vs22|1959|1966||
-568I|328|Frankreich|70|vs23|1948|1960||
-568I|333|Frankreich|70|vs24|1946|1966||
-568I|340|Frankreich|70|vs25|1950|1966||
-568I|373|Frankreich|70|vs28|1947|1966||
-568I|389|Frankreich|70|vs29|1956|1958||
-568I|392|Frankreich|70|vs30|1947|1961||
-568I|400|Frankreich|70|h-|1949|1964||
-568I|542|Frankreich|70|h3|1951|1966||
-568I|543|Frankreich|70|h7|1947|1966||
-568I|565|Frankreich|70|h8 M1|1947|1966||
-568I|616|Frankreich|70|h8 M2|1947|1961||
-568I|697|Frankreich|70|h9|1949|1966||
-568I|704|Frankreich|70|h11|1946|1966||
-568I|770|Frankreich|70|h12|1953|1961||
-568I|796|Frankreich|70|h13|1954|||
-568I|806|Frankreich|70|h20|1946|1966||
-568I|808|Frankreich|70|ah-|1947|1966||
-568I|1178|Frankreich|70|ah7|1946|1966||
-568I|1211|Frankreich|70|ah8|1946|1966||
-568I|1314|Frankreich|70|ah11|1946|1966||
-568I|1363|Frankreich|70|ah12|1949|1964||
-568I|1378|Frankreich|70|ah13|1951|1966||
-568II|62|Großbritannien|80|aw-|1953|1966||
-568II|160|Großbritannien|80|aw-/ 0 bis18|1946|1966||
-568II|1022|Großbritannien|80|aw-/ 19 bis 55|1946|1966||
-568II|1094|Großbritannien|80|aw-/ 59 bis 67|1946|1966||
-568II|1117|Großbritannien|80|aw-/ 69 bis 77|1946|1966||
-568II|1138|Großbritannien|80|aw-/ 82 bis 92|1946|1966||
-568II|1165|Großbritannien|80|aw-/ 100 bis180|1946|1966||
-568II|1213|Großbritannien|80|aw-/ 200 bis 293|146|1966||
-568II|1251|Großbritannien|80|aw-/ 300 bis 311|1946|1966||
-568II|1266|Großbritannien|80|aw-/ 312 bis 380|1946|1966||
-569I|62|Frankreich|70|ah20|1946|1966||
-569I|461|Frankreich|70|ah22|1946|1966||
-569I|1034|Frankreich|70|ah23|1954|1966||
-569I|1171|Frankreich|70|ah24|1958|||
-569I|1174|Frankreich|70|ah25|1947|1966||
-569I|1181|Frankreich|70|ah26|1960|1964||
-569I|1186|Frankreich|70|x-|1946|1948||
-569II|61|Großbritannien|80|aw-/ 400 bis 490|1946|1966||
-569II|79|Großbritannien|80|aw-/ 1|1946|1966||
-569II|119|Großbritannien|80|aw1|1956|1963||
-569II|123|Großbritannien|80|aw3|1946|1964||
-569II|179|Großbritannien|80|aw4 M1|1952|1966||
-569II|343|Großbritannien|80|aw10|1946|1966||
-569II|531|Großbritannien|80|aw11|1946|1966||
-569II|575|Großbritannien|80|aw12|1946|1966||
-569II|610|Großbritannien|80|aw20|1946|1966||
-569II|638|Großbritannien|80|k-|1946|1966||
-569II|662|Großbritannien|80|k1|1946|1966||
-569II|707|Großbritannien|80|k2|1946|1966||
-569II|772|Großbritannien|80|k3 M1|1946|1966||
-570I|61|Frankreich|70|x-|1959|1966||
-570I|174|Frankreich|70|x1|1949|1959||
-570I|188|Frankreich|70|x2|1946|1966||
-570I|743|Frankreich|70|x3|1958|1966||
-570I|767|Frankreich|70|x4|1950|1966||
-570I|787|Frankreich|70|x5|1956|1966||
-570I|794|Frankreich|70|x6|||1946-66|
-570I|795|Frankreich|70|x10|1946|1966||
-570I|952|Frankreich|70|x20|1946|1966||
-570I|1292|Frankreich|70|x21|1946|1966||
-570I|1313|Frankreich|70|x22|1951|1956||
-570I|1317|Frankreich|70|x23|||1946-66|
-570I|1318|Frankreich|70|x24|1956|||
-570I|1321|Frankreich|70|x28|1948|1966||
-570I|1355|Frankreich|70|x30|1946|1957||
-570II|61|Großbritannien|80|K11|1964|1966||
-570II|255|Großbritannien|80|k12 M1|1946|1966||
-570II|322|Großbritannien|80|k14|1946|1966||
-570II|401|Großbritannien|80|k15|1946|1966||
-570II|914|Großbritannien|80|k16|1946|1966||
-570II|1001|Großbritannien|80|k20|1946|166||
-570II|1184|Großbritannien|80|k21|146|1966||
-571I|61|Frankreich|70|x30|1958|1966||
-571I|304|Frankreich|70|x35|1946|1966||
-571I|445|Frankreich|70|x40|1956|1961||
-571I|448|Frankreich|70|x41|1946|1965||
-571I|470|Frankreich|70|x43|1948|1961||
-571I|477|Frankreich|70|x45|1948|1960||
-571I|490|Frankreich|70|x46|1947|1966||
-571I|545|Frankreich|70|x60|1948|1963||
-571I|555|Frankreich|70|x65|1948|1965||
-571I|579|Frankreich|70|x70|1947|1962||
-571I|619|Frankreich|70|x71|1948|1964||
-571I|626|Frankreich|70|x72|1947|1965||
-571I|637|Frankreich|70|x75|1950|1961||
-571I|647|Frankreich|70|x78|1948|1966||
-571I|681|Frankreich|70|x79|1946|1966||
-571I|1198|Frankreich|70|x80|1946|1966||
-571I|1376|Frankreich|70|x81|1949|1966||
-571I|1436|Frankreich|70|x82|1952|1962||
-571I|1444|Frankreich|70|x83|1947|1966||
-571II|61|Großbritannien|80|k22|1946|1966||
-571II|507|Großbritannien|80|k23|1946|1966||
-571II|554|Großbritannien|80|b-|1946|1966||
-571II|621|Großbritannien|80|b1|1946|1966||
-571II|707|Großbritannien|80|b2|1946|1966||
-571II|935|Großbritannien|80|b10|1946|1966||
-571II|1007|Großbritannien|80|b11|1946|1966||
-571II|1032|Großbritannien|80|b12|1946|1966||
-571II|1043|Großbritannien|80|b14|1950|1965||
-571II|1051|Großbritannien|80|b20|1946|1957||
-572I|61|Frankreich|70|x84|1949|1963||
-572I|78|Frankreich|70|x90|1947|1966||
-572I|121|Frankreich|70|x100|1947|1966||
-572I|274|Frankreich|70|x101|1950|1961||
-572I|278|Frankreich|70|x102|1947|1962||
-572I|286|Frankreich|70|x103|1947|1961||
-572I|294|Frankreich|70|x104|1948|1966||
-572I|310|Frankreich|70|x105|1948|1950||
-572I|314|Frankreich|70|x106|1950|1957||
-572I|318|Frankreich|70|x110|1946|1966||
-572I|771|Frankreich|70|x111|1946|1966||
-572I|826|Frankreich|70|x112|1946|1966||
-572I|1054|Frankreich|70|x113|1948|1966||
-572I|1104|Frankreich|70|x115|1949|1961||
-572I|1114|Frankreich|70|x116|1948|1966||
-572I|1150|Frankreich|70|x117|1947|1966||
-572I|1186|Frankreich|70|x118|1950|1966||
-572I|1195|Frankreich|70|x119|1949|1963||
-572I|1216|Frankreich|70|x120|1955|1964||
-572i|1221|Frankreich|70|x121|1948|1966||
-572I|1236|Frankreich|70|x125|1949|1966||
-572I|1265|Frankreich|70|x130|1948|1966||
-572I|1279|Frankreich|70|x131|||1946-66|
-572I|1280|Frankreich|70|x132|1947|1966||
-572I|1295|Frankreich|70|x133|1949|1966||
-572I|1306|Frankreich|70|x134|1947|1965||
-572I|1319|Frankreich|70|x135|1948|1965||
-572I|1332|Frankreich|70|x136|1946|1966||
-572I|1373|Frankreich|70|x137|1947|1957||
-572I|1382|Frankreich|70|x140|||1946-66|
-572II|61|Großbritannien|80|b20|1958|1966||
-572II|337|Großbritannien|80|b25|1946|1966||
-572II|421|Großbritannien|80|a-|1946|1964||
-572II|427|Großbritannien|80|a1|1946|1966||
-572II|590|Großbritannien|80|a2|1947|1966||
-573I|61|Frankreich|70|x141|1946|1966||
-573I|93|Frankreich|70|x145|1948|1966||
-573I|125|Frankreich|70|x150|1947|1966||
-573I|321|Frankreich|70|x151|1949|1966||
-573I|336|Frankreich|70|x152|1946|1966||
-573I|451|Frankreich|70|x153|1946|1966||
-573I|721|Frankreich|70|x154|1946|1966||
-573I|818|Frankreich|70|x155|1946|1966||
-573I|831|Frankreich|70|x156|1947|1966||
-573I|901|Frankreich|70|x157|1946|1965||
-573I|919|Frankreich|70|x165|1949|1966||
-573I|945|Frankreich|70|x170|1947|1963||
-573I|981|Frankreich|70|x171|1948|1965||
-573I|998|Frankreich|70|x172|1947|1966||
-573I|1028|Frankreich|70|x173|1951|1966||
-573I|1039|Frankreich|70|x175|1947|1966||
-573I|1055|Frankreich|70|x176|1956|1966||
-573I|1067|Frankreich|70|x177|1946|1966||
-573I|1385|Frankreich|70|x178|1946|1958||
-573II|61|Großbritannien|80|a3|1947|1965||
-573II|89|Großbritannien|80|a4|1952|1966||
-573II|116|Großbritannien|80|a5|1946|1966||
-573II|420|Großbritannien|80|a6|1946|1966||
-573II|452|Großbritannien|80|a7|1947|1966||
-573II|542|Großbritannien|80|a8|1946|1966||
-573II|608|Großbritannien|80|a9|1946|1966||
-573II|716|Großbritannien|80|a10|1946|1966||
-573II|806|Großbritannien|80|a15|1946|1966||
-573II|888|Großbritannien|80|a19|1954|1966||
-573II|905|Großbritannien|80|a20|1946|1966||
-574I|61|Frankreich|70|x178|1959|1966||
-574I|218|Frankreich|70|x179|1946|1966||
-574I|273|Frankreich|70|x180|1946|1966||
-574I|490|Frankreich|70|x184|1958|1966||
-574I|547|Frankreich|70|x185|1946|166||
-574I|792|Frankreich|70|x188|1946|1966||
-574I|868|Frankreich|70|x190|1946|1960||
-574I|881|Frankreich|70|x192|1948|1966||
-574I|919|Frankreich|70|x200|1946|1966||
-574I|1115|Frankreich|70|x202|||1946-66|
-574I|1116|Frankreich|70|x210|1946|1966||
-574I|1142|Frankreich|70|x211|1948|1966||
-574I|1166|Frankreich|70|x212|1947|1964||
-574I|1184|Frankreich|70|x231|1942|1966||
-574I|1236|Frankreich|70|x232|1946|1965||
-574I|1256|Frankreich|70|x235|1950|1963||
-574I|1268|Frankreich|70|x240|1948|1966||
-574I|1287|Frankreich|70|x250|1947|1966||
-574I|1374|Frankreich|70|x275|1947|1966||
-574I|1425|Frankreich|70|x279|1946|1960||
-574II|61|Großbritannien|80|a20|1966|||
-574II|79|Großbritannien|80|a21|1946|1966||
-574II|94|Großbritannien|80|a22|1946|1966||
-574II|226|Großbritannien|80|a23|1948|1966||
-574II|264|Großbritannien|80|a24|1946|1966||
-574II|844|Großbritannien|80|a25|1946|1964||
-574II|893|Großbritannien|80|a26|1948|1966||
-574II|917|Großbritannien|80|a29|||1946-66|
-574II|918|Großbritannien|80|a30|1946|1966||
-574II|1096|Großbritannien|80|a31|1946|1966||
-574II|1202|Großbritannien|80|a32|1950|1966||
-574II|1235|Großbritannien|80|a40|1946|1965||
-574II|1242|Großbritannien|80|a41|1946|1951||
-575I|61|Frankreich|70|x279|1961|1966||
-575I|92|Frankreich|70|x280|1946|1966||
-575I|201|Frankreich|70|x281|1946|1966||
-575I|506|Frankreich|70|x282|1950|1966||
-575I|557|Frankreich|70|x284 M1|1947|1966||
-575I|728|Frankreich|70|x285|1957|1965||
-575I|740|Frankreich|70|x300|1946|1964||
-575II|61|Großbritannien|80|a41|1952|1966||
-575II|231|Großbritannien|80|a42|1964|||
-575II|233|Großbritannien|80|a44|1961|1965||
-575II|238|Großbritannien|80|a45|1961|1966||
-575II|247|Großbritannien|80|a46|1951|||
-575II|249|Großbritannien|80|a47|1949|1965||
-575II|266|Großbritannien|80|a48|1948|1965||
-575II|269|Großbritannien|80|p-|1948|1966||
-575II|304|Großbritannien|80|p1|1946|1966||
-575II|443|Großbritannien|80|p2|1946|1966||
-575II|751|Großbritannien|80|p3|1946|1960||
-576I|61|Frankreich|70|x300|1965|1966||
-576I|195|Frankreich|70|x305|1951|1966||
-576I|230|Frankreich|70|x310|1946|1966||
-576I|335|Frankreich|70|x311|1946|1966||
-576I|408|Frankreich|70|x312|1961|||
-576I|410|Frankreich|70|x313|1962|||
-576I|412|Frankreich|70|x314|1950|1966||
-576I|423|Frankreich|70|x315|1948|1966||
-576I|443|Frankreich|70|x316|1947|1964||
-576I|462|Frankreich|70|x325|||1946-66|
-576I|463|Frankreich|70|x327|1947|1965||
-576I|473|Frankreich|70|x330|1949|1965||
-576I|495|Frankreich|70|x331|1946|1966||
-576I|523|Frankreich|70|x340|1946|1966||
-576I|551|Frankreich|70|x341|1959|1966||
-576I|557|Frankreich|70|x350|1946|1966||
-576I|625|Frankreich|70|x358|1960|||
-576I|627|Frankreich|70|x361|1947|1966||
-576I|653|Frankreich|70|x363|1946|1960||
-576I|660|Frankreich|70|x364|1949|1966||
-576I|674|Frankreich|70|x370|||1946-66|
-576I|676|Frankreich|70|x377|1948|1966||
-576I|687|Frankreich|70|x378|1946|1966||
-576I|720|Frankreich|70|x380|1957|1964||
-576I|725|Frankreich|70|x400|1946|1966||
-576I|811|Frankreich|70|x410|1947|1966||
-576I|885|Frankreich|70|x411|1948|1966||
-576I|900|Frankreich|70|x420|||1946-66|
-576I|901|Frankreich|70|x428|1947|1966||
-576I|922|Frankreich|70|x430|1948|1966||
-576I|954|Frankreich|70|x431|1946|1966||
-576I|1039|Frankreich|70|x432|1946|1966||
-576I|1239|Frankreich|70|x433|1947|1966||
-576I|1272|Frankreich|70|x435|1949|1966||
-576I|1290|Frankreich|70|x445|1957|1964||
-576I|1296|Frankreich|70|x450|1946|1966||
-576I|1330|Frankreich|70|x451|1948|1960||
-576I|1336|Frankreich|70|x452|1946|1966||
-576I|1404|Frankreich|70|x543|1958|1962||
-576I|1407|Frankreich|70|x455|1949|1966||
-576II|61|Großbritannien|80|p3|1961|1966||
-576II|601|Großbritannien|80|p4|1961|1966||
-576II|653|Großbritannien|80|p5M1|1947|1966||
-576II|667|Großbritannien|80|p5M2|1946|1966||
-576II|678|Großbritannien|80|p8|1946|1966||
-576II|1010|Großbritannien|80|p9|1946|1966||
-576II|1154|Großbritannien|80|p10|1946|1966||
-577I|61|Frankreich|70|x460|1947|1966||
-577I|111|Frankreich|70|x462|1948|1966||
-577I|154|Frankreich|70|x463|1947|1966||
-577I|176|Frankreich|70|x465|1947|1966||
-577I|224|Frankreich|70|x466|1948|1966||
-577I|256|Frankreich|70|x475|1950|||
-577I|265|Frankreich|70|x500|1947|1966||
-577I|294|Frankreich|70|x502|1948|1966||
-577I|306|Frankreich|70|x503|1952|1966||
-577I|521|Frankreich|70|x504|1950|1964||
-577I|328|Frankreich|70|x505|1948|1966||
-577I|348|Frankreich|70|x506|1946|1965||
-577I|363|Frankreich|70|x507|1946|1966||
-577I|483|Frankreich|70|x508|1947|1965||
-577I|490|Frankreich|70|x509|1949|1966||
-577I|504|Frankreich|70|x510|1946|1966||
-577I|529|Frankreich|70|x511|1949|1965||
-577I|556|Frankreich|70|x512|1948|1966||
-577I|554|Frankreich|70|x515|1965|||
-577I|566|Frankreich|70|x516|1949|1965||
-577I|572|Frankreich|70|x518|||1946-66|
-577I|573|Frankreich|70|x530|1946|1966||
-577I|603|Frankreich|70|x531|1947|1966||
-577I|667|Frankreich|70|x532|1947|1966||
-577I|693|Frankreich|70|x533|1948|1966||
-577I|710|Frankreich|70|x540|1948|1966||
-577I|756|Frankreich|70|x541|1959|1965||
-577I|758|Frankreich|70|x545|1947|1966||
-577I|764|Frankreich|70|x550|1947|1966||
-577I|789|Frankreich|70|x553|1950|1966||
-577I|794|Frankreich|70|x554|1963|||
-577I|796|Frankreich|70|x555|1948|1966||
-577I|813|Frankreich|70|x556|1948|1960||
-577I|824|Frankreich|70|x558|1947|1959||
-577I|830|Frankreich|70|x560|1950|1961||
-577I|838|Frankreich|70|x562|1948|1966||
-577I|848|Frankreich|70|x565|1950|1966||
-577I|863|Frankreich|70|x570|1946|1966||
-577I|999|Frankreich|70|x572|1946|1966||
-577I|1074|Frankreich|70|x573|1947|1966||
-577I|1095|Frankreich|70|x574|1948|1960||
-577I|1107|Frankreich|70|x575|1948|1966||
-577I|1137|Frankreich|70|x582|1946|1966||
-577I|1204|Frankreich|70|x584|1946|1966||
-577I|1230|Frankreich|70|x585|1947|1966||
-577I|1275|Frankreich|70|x586|1947|1966||
-577I|1292|Frankreich|70|x587|1947|1963||
-577I|1297|Frankreich|70|x588|1948|1962||
-577I|1307|Frankreich|70|x589|1950|1966||
-577I|1318|Frankreich|70|x595|1949|1950||
-577I|1322|Frankreich|70|x596|1948|1966||
-577I|1327|Frankreich|70|x598|1946|1966||
-577I|1381|Frankreich|70|x599|1946|1966||
-577I|1418|Frankreich|70|x600|1948|1966||
-577II|61|Großbritrannien|80|p10|1951|1966||
-577II|880|Großbritrannien|80|p11|1946|1966||
-577II|1240|Großbritrannien|80|p20|1946|||
-578I|61|Frankreich|70|x600|1962|1966||
-578I|76|Frankreich|70|x601|1948|1959||
-578I|84|Frankreich|70|x606|1958|1966||
-578I|102|Frankreich|80|x607|1961|||
-578II|104|Großbritannien|80|allgem.|1947|1966||Ergänzung s. Film 565/A
-578II|134|Großbritannien|80|w-|1960|1960||
-578II|61|Großbritannien|80|p20|1947|1960||
-579I|61|Frankreich|80|w-|1960|1966||
-579II|61|Großbritannien|80|p20|1966|||
-579II|117|Großbritannien|80|p21|1949|1950||
-579II|120|Großbritannien|80|p22|1947|1965||
-579II|130|Großbritannien|80|p23|1946|1966||
-579II|192|Großbritannien|80|p24|1946|1951||
-579II|229|Großbritannien|80|p30|1946|1966||
-579II|230|Großbritannien|80|p31|1946|1951||
-579II|237|Großbritannien|80|p40|1947|1966||
-579II|255|Großbritannien|80|p41|||1946-66|
-579II|256|Großbritannien|80|p42|1946|1955||
-579II|270|Großbritannien|80|f-|1946|1966||
-579II|370|Großbritannien|80|f1|1946|1966||
-579II|1009|Großbritannien|80|f2|1946|1966||
-579II|1073|Großbritannien|80|f3|1946|1960||
+9547|061|Deutschland / Russische Zone|1R|allgem.|1959|1966||
+9547|092|Deutschland / Russische Zone|1R|w-|1947|1966||
+9548|061|Deutschland / Russische Zone||||||
+9548|1048|Deutschland / Russische Zone|1R|w1|1946|1966||
+9548|1141|Deutschland / Russische Zone|1R|w2|1945|1966||
+9548|1304|Deutschland / Russische Zone|1R|w3|1947|1966||
+9549|061|Deutschland / Russische Zone|1|w4|1945|1966||
+9549|355|Deutschland / Russische Zone|1R|w5|1945|1965||
+9549|362|Deutschland / Russische Zone|1R|w6|1946|1950||
+9549|378|Deutschland / Russische Zone|1R|w7|1945|1961||
+9549|413|Deutschland / Russische Zone|1R|w8|1945|1946||
+9549|420|Deutschland / Russische Zone|1R|w9|1945|1946||
+9549|484|Deutschland / Russische Zone|1R|w10|1946|1966||
+9549|562|Deutschland / Russische Zone|1R|w11|1948|1966||
+9549|755|Deutschland / Russische Zone|1R|w12|1949|1966||
+9549|810|Deutschland / Russische Zone|1R|w13|1947|1966||
+9549|860|Deutschland / Russische Zone|1R|w14|1949|1952||
+9549|866|Deutschland / Russische Zone|1R|w20|1958|1960||
+9549|871|Deutschland / Russische Zone|1R|w21|1956|1965||
+9549|876|Deutschland / Russische Zone|1R|w25|1950|1956||
+9549|888|Deutschland / Russische Zone|1R|w28|1946|1966||
+9549|907|Deutschland / Russische Zone|1R|w29|1963|1966||
+9549|911|Deutschland / Russische Zone|1R|w30|1949|1966||
+9549|972|Deutschland / Russische Zone|1R|w35|1953|1965||
+9549|1014|Deutschland / Russische Zone|1R|w39|1948|1965||
+9549|1020|Deutschland / Russische Zone|1R|w45|1946|1966||
+9549|1071|Deutschland / Russische Zone|1R|w50|1961|||
+9549|1073|Deutschland / Russische Zone|1R|aw-|1967|1965||
+9549|1124|Deutschland / Russische Zone|1R|aw1|1961|||
+9549|1126|Deutschland / Russische Zone|1R|aw3|1961|||
+9549|1130|Deutschland / Russische Zone|1R|aw4|1957|1965||
+9549|1137|Deutschland / Russische Zone|1R|aw10|1945|1965||
+9549|1178|Deutschland / Russische Zone|1R|aw11|1953|1957||
+9549|1182|Deutschland / Russische Zone|1R|aw12|1950|1966||
+9549|1196|Deutschland / Russische Zone|1R|aw20|1949|1966||
+9550|61|Deutschland / Russische Zone|1R|aw-0 bis 90|1947|1966||
+9550|334|Deutschland / Russische Zone|1R|aw-100 bis 180|1950|1966||
+9550|400|Deutschland / Russische Zone|1R|aw- 200 bis 290|1952|1966||
+9550|456|Deutschland / Russische Zone|1R|aw-300 bis 380|1954|1966||
+9550|476|Deutschland / Russische Zone|1R|aw- 400 bis 480|1959|1960||
+9550|479|Deutschland / Russische Zone|1R|k-|1946|1966||
+9550|552|Deutschland / Russische Zone|1R|k1|1948|1966||
+9550|607|Deutschland / Russische Zone|1R|k2|1945|1966||
+9550|844|Deutschland / Russische Zone|1R|k3M1|1945|1966||
+9550|980|Deutschland / Russische Zone|1R|k3M2|1946|1966||
+9550|1003|Deutschland / Russische Zone|1R|k10|1953|1966||
+9550|1038|Deutschland / Russische Zone|1R|k11|1945|1966||
+9551|61|Deutschland / Russische Zone|1R|k12|1946|1966||
+9551|104|Deutschland / Russische Zone|1R|k14|1947|1961||
+9551|115|Deutschland / Russische Zone|1R|k15|1945|1966||
+9551|326|Deutschland / Russische Zone|1R|k16|1946|1966||
+9551|351|Deutschland / Russische Zone|1R|k20|1945|1966||
+9551|510|Deutschland / Russische Zone|1R|k21|1945|1966||
+9551|651|Deutschland / Russische Zone|1R|k22|1946|1966||
+9551|901|Deutschland / Russische Zone|1R|k23|1946|1964||
+9551|908|Deutschland / Russische Zone|1R|b-|1946|1966||
+9551|927|Deutschland / Russische Zone|1R|b1|1945|1966||
+9551|980|Deutschland / Russische Zone|1R|b2|1945|1966||
+9551|1079|Deutschland / Russische Zone|1R|b10|1946|1966||
+9551|1109|Deutschland / Russische Zone|1R|b11|1946|1965||
+9551|1116|Deutschland / Russische Zone|1R|b12|1949|1965||
+9551|1120|Deutschland / Russische Zone|1R|b14||1964||
+9551|1124|Deutschland / Russische Zone|1R|b20|1945|1966||
+9551|1129|Deutschland / Russische Zone|1R|b25|1945|1966||
+9551|1163|Deutschland / Russische Zone|1R|a-|1946|1965||
+9551|1285|Deutschland / Russische Zone|1R|a1|1945|1952||
+9552|61|Deutschland / Russische Zone|1R|a1|1953|1966||
+9552|117|Deutschland / Russische Zone|1R|a2|1949|1965||
+9552|130|Deutschland / Russische Zone|1R|a3|1949|1960||
+9552|136|Deutschland / Russische Zone|1R|a4|1958|||
+9552|140|Deutschland / Russische Zone|1R|a5|1945|1965||
+9552|169|Deutschland / Russische Zone|1R|a6|1946|1963||
+9552|199|Deutschland / Russische Zone|1R|a7|1959|1966||
+9552|217|Deutschland / Russische Zone|1R|a8|1946|1966||
+9552|231|Deutschland / Russische Zone|1R|a9|1945|1966||
+9552|350|Deutschland / Russische Zone|1R|a10|1945|1966||
+9552|429|Deutschland / Russische Zone|1R|a15|1946|1966||
+9552|502|Deutschland / Russische Zone|1R|a19|1966|||
+9552|504|Deutschland / Russische Zone|1R|a20|1946|1966||
+9552|566|Deutschland / Russische Zone|1R|a21|1946|1958||
+9552|572|Deutschland / Russische Zone|1R|a22|1946|1966||
+9552|826|Deutschland / Russische Zone|1R|a23|1957|1966||
+9552|841|Deutschland / Russische Zone|1R|a24|1946|1965||
+9552|956|Deutschland / Russische Zone|1R|a25|1964|1965||
+9552|966|Deutschland / Russische Zone|1R|a26|1945|1966||
+9552|998|Deutschland / Russische Zone|1R|a29|1950|1952||
+9552|1002|Deutschland / Russische Zone|1R|a30|1946|1953||
+9552|1009|Deutschland / Russische Zone|1R|a31|1946|1962||
+9552|1016|Deutschland / Russische Zone|1R|a32|1946|1962||
+9552|1034|Deutschland / Russische Zone|1R|a40|1951|||
+9552|1037|Deutschland / Russische Zone|1R|a41|1945|1963||
+9552|1066|Deutschland / Russische Zone|1R|a42|1949|||
+9552|1068|Deutschland / Russische Zone|1R|a44|||1945-66|
+9552|1069|Deutschland / Russische Zone|1R|a45|1947|1957||
+9552|1072|Deutschland / Russische Zone|1R|a46|||1945-66|
+9552|1073|Deutschland / Russische Zone|1R|a47|1947|||
+9552|1075|Deutschland / Russische Zone|1R|a48|||1945-66|
+9552|1076|Deutschland / Russische Zone|1R|p-|1946|1966||
+9552|1138|Deutschland / Russische Zone|1R|p1|1945|1954||
+9553|61|Deutschland / Russische Zone|1R|p1|1955|1966||
+9553|291|Deutschland / Russische Zone|1R|p2|1945|1966||
+9553|757|Deutschland / Russische Zone|1R|p3|1946|1966||
+9553|1061|Deutschland / Russische Zone|1R|p4|1945|1966||
+9553|1113|Deutschland / Russische Zone|1R|p5|1947|1966||
+9553|1204|Deutschland / Russische Zone|1R|p8|1945|1950||
+9555|61|Deutschland / Russische Zone|1R|p8|1951|1966||
+9554|222|Deutschland / Russische Zone|1R|p9|1946|1966||
+9554|309|Deutschland / Russische Zone|1R|p10|1945|1966||
+9554|516|Deutschland / Russische Zone|1R|p11|1945|1966||
+9554|809|Deutschland / Russische Zone|1R|p20|1945|1963||
+9555|61|Deutschland / Russische Zone|1R|p20|1964|1966||
+9555|210|Deutschland / Russische Zone|1R|p21|||1945-66|
+9555|211|Deutschland / Russische Zone|1R|p22|1950|1965||
+9555|228|Deutschland / Russische Zone|1R|p23|1949|1966||
+9555|299|Deutschland / Russische Zone|1R|p24|1949|1966||
+9555|323|Deutschland / Russische Zone|1R|p30|||1945-66|
+9555|324|Deutschland / Russische Zone|1R|p31|1948|1962||
+9555|344|Deutschland / Russische Zone|1R|p40|1955|1951||
+9555|383|Deutschland / Russische Zone|1R|p41|||1945-66|
+9555|384|Deutschland / Russische Zone|1R|p42|1954|1966||
+9555|406|Deutschland / Russische Zone|1R|f-|1945|1965||
+9555|515|Deutschland / Russische Zone|1R|f1|1946|1966||
+9555|689|Deutschland / Russische Zone|1r|f2|1959|1966||
+9555|692|Deutschland / Russische Zone|1R|f3|1945|1962||
+9555|768|Deutschland / Russische Zone|1R|f4|1946|1947||
+9555|772|Deutschland / Russische Zone|1R|f5|1946|1961||
+9555|868|Deutschland / Russische Zone|1R|f6|1947|1960||
+9555|884|Deutschland / Russische Zone|1R|f7|1949|1957||
+9555|888|Deutschland / Russische Zone|1R|f10|1950|||
+9555|890|Deutschland / Russische Zone|1R|f11|1957|||
+9555|893|Deutschland / Russische Zone|1R|f12|1946|1962||
+9555|914|Deutschland / Russische Zone|1R|f13|1946|1961||
+9555|918|Deutschland / Russische Zone|1R|f14|1958|||
+9555|920|Deutschland / Russische Zone|1R|f15|||1945-66|
+9555|921|Deutschland / Russische Zone|1R|f20|1947|1965||
+9555|929|Deutschland / Russische Zone|1R|f21|1952|1962||
+9555|938|Deutschland / Russische Zone|1R|f22|||1945-66|
+9555|939|Deutschland / Russische Zone|1R|f30|1947|1954||
+9555|948|Deutschland / Russische Zone|1R|f31|1946|1953||
+9555|956|Deutschland / Russische Zone|1R|f32|1946|1961||
+9555|971|Deutschland / Russische Zone|1R|f33|1951|1964||
+9555|980|Deutschland / Russische Zone|1R|f34|1956|1960||
+9555|986|Deutschland / Russische Zone|1R|f35|1946|1963||
+9555|1001|Deutschland / Russische Zone|1R|f36|1946|1965||
+9555|1025|Deutschland / Russische Zone|1R|f37|||1945-66|
+9555|1026|Deutschland / Russische Zone|1R|f40|1947|1950||
+9555|1029|Deutschland / Russische Zone|1R|v-|1945|1966||
+9555|1097|Deutschland / Russische Zone|1R|v1|1945|1966||
+9555|1173|Deutschland / Russische Zone|1R|v2|1945|1966||
+9555|1286|Deutschland / Russische Zone|1R|v10|1947|1966||
+9556|61|Deutschland / Russische Zone|1R|v11|1945|1966||
+9556|135|Deutschland / Russische Zone|1R|v12|1949|1966||
+9556|138|Deutschland / Russische Zone|1R|v13|1950|1966||
+9556|172|Deutschland / Russische Zone|1R|v15|1946|1966||
+9556|208|Deutschland / Russische Zone|1R|v15M2|1946|1966||
+9556|255|Deutschland / Russische Zone|1R|v16|1948|1966||
+9556|323|Deutschland / Russische Zone|1R|v18|1945|1966||
+9556|324|Deutschland / Russische Zone|1R|v20|1946|1966||
+9556|371|Deutschland / Russische Zone|1R|v21|1946|1966||
+9556|401|Deutschland / Russische Zone|1R|v22|1948|1960||
+9556|428|Deutschland / Russische Zone|1R|v23|1948|1966||
+9556|463|Deutschland / Russische Zone|1R|v24|1946|1966||
+9556|506|Deutschland / Russische Zone|1R|vs25|1950|1966||
+9556|522|Deutschland / Russische Zone|1R|v26M1|1946|1966|1945-66|
+9556|523|Deutschland / Russische Zone|1R|v30|1945|1966||
+9556|611|Deutschland / Russische Zone|1R|v40|1946|1964||
+9556|640|Deutschland / Russische Zone|1R|v50|1945|1966||
+9556|709|Deutschland / Russische Zone|1R|g-|1946|1961||
+9556|713|Deutschland / Russische Zone|1R|g1|1946|1966||
+9555|801|Deutschland / Russische Zone|1R|g2|1946|1961||
+9556|825|Deutschland / Russische Zone|1R|g3|1946|1957||
+9556|831|Deutschland / Russische Zone|1R|g5|1948|1965||
+9556|841|Deutschland / Russische Zone|1R|g7|1946|1964||
+9556|851|Deutschland / Russische Zone|1R|g10|1946|1955||
+9556|861|Deutschland / Russische Zone|1R|g11|1946|1950||
+9556|865|Deutschland / Russische Zone|1R|g12|1946|1961||
+9556|868|Deutschland / Russische Zone|1R|g13|1946|1964||
+9556|883|Deutschland / Russische Zone|1R|g14|1947|1950||
+9556|886|Deutschland / Russische Zone|1R|g20|1946|1966||
+9556|904|Deutschland / Russische Zone|1R|g21|1950|1955||
+9556|908|Deutschland / Russische Zone|1R|g23|1945|1966||
+9556|976|Deutschland / Russische Zone|1R|g24|1957|1962||
+9556|981|Deutschland / Russische Zone|1R|g30|1946|1966||
+9556|1021|Deutschland / Russische Zone|1R|g31|1946|1962||
+9556|1035|Deutschland / Russische Zone|1R|g32|1946|1962||
+9556|1046|Deutschland / Russische Zone|1R|g33|1952|1964||
+9556|1050|Deutschland / Russische Zone|1R|g36|||1945-66|
+9556|1052|Deutschland / Russische Zone|1R|g39|1946|1945||
+9556|1078|Deutschland / Russische Zone|1R|g40|1950|1957||
+9556|1084|Deutschland / Russische Zone|1R|g41|1948|1961||
+9556|1088|Deutschland / Russische Zone|1R|g43|1945|1952||
+9556|1140|Deutschland / Russische Zone|1R|g44|1945|1966||
+9556|1189|Deutschland / Russische Zone|1R|g45|1948|1960||
+9556|1192|Deutschland / Russische Zone|1R|g46|1950|1960||
+9556|1197|Deutschland / Russische Zone|1R|g47|1946|1961||
+9556|1212|Deutschland / Russische Zone|1R|g48|||1945-66|
+9556|1213|Deutschland / Russische Zone|1R|g49|||1945-66|
+9556|1214|Deutschland / Russische Zone|1R|g50|1955|1962||
+9556|1221|Deutschland / Russische Zone|1R|g60|||1945-66|
+9556|1222|Deutschland / Russische Zone|1R|g62|1946|1965||
+9556|1233|Deutschland / Russische Zone|1R|vs-|1945|1966||
+9556|1279|Deutschland / Russische Zone|1R|vs1|1946|||
+9556|1281|Deutschland / Russische Zone|1R|vs2|1946|1957||
+9557|61|Deutschland / Russische Zone|1R|vs10|1945|1966||
+9557|150|Deutschland / Russische Zone|1R|vs11|1947|1966||
+9557|166|Deutschland / Russische Zone|1R|vs12|1947|1961||
+9557|181|Deutschland / Russische Zone|1R|vs13|1946|1965||
+9557|213|Deutschland / Russische Zone|1R|vs14|1955|1949||
+9557|215|Deutschland / Russische Zone|1R|vs15|1947|||
+9557|217|Deutschland / Russische Zone|1R|vs20|1951|1962||
+9557|220|Deutschland / Russische Zone|1R|vs21|1946|1961||
+9557|236|Deutschland / Russische Zone|1R|vs22|1945|1960||
+9557|245|Deutschland / Russische Zone|1R|vs23|1946|1963||
+9557|255|Deutschland / Russische Zone|1R|vs24|1954|||
+9557|257|Deutschland / Russische Zone|1R|vs25|1946|1964||
+9557|264|Deutschland / Russische Zone|1R|vs28|1959|||
+9557|266|Deutschland / Russische Zone|1R|vs29|1958|1960||
+9557|270|Deutschland / Russische Zone|1R|vs30|1960|||
+9557|272|Deutschland / Russische Zone|1R|vs31|1945|1966||
+9557|273|Deutschland / Russische Zone|1R|h-|1945|1966||
+9557|444|Deutschland / Russische Zone|1R|h3|1946|1966||
+9557|482|Deutschland / Russische Zone|1R|h7|1945|1966||
+9557|529|Deutschland / Russische Zone|1R|h8|1945|1966||
+9557|1089|Deutschland / Russische Zone|1R|h9|||1945-66|
+9557|1090|Deutschland / Russische Zone|1R|h11|1946|1966||
+9557|1177|Deutschland / Russische Zone|1R|h12|1952|1966||
+9555|1185|Deutschland / Russische Zone|1R|h12|1950|1952||
+9557|1188|Deutschland / Russische Zone|1R|h20|||1945-66|
+9557|1189|Deutschland / Russische Zone|1R|ah-|1945|1956||
+9558|61|Deutschland / Russische Zone|1R|ah-|1957|1966||
+9558|326|Deutschland / Russische Zone|1R|ah7|1946|1966||
+9558|409|Deutschland / Russische Zone|1R|ah8|1947|1966||
+9558|444|Deutschland / Russische Zone|1R|ah11|||1945-66|
+9558|527|Deutschland / Russische Zone|1R|ah12|1945|1966||
+9558|539|Deutschland / Russische Zone|1R|ah13|1952|1966||
+9558|548|Deutschland / Russische Zone|1R|ah20|1947|1966||
+9558|646|Deutschland / Russische Zone|1R|ah22|1946|1966||
+9558|791|Deutschland / Russische Zone|1R|ah23M1|1957|1966||
+9558|816|Deutschland / Russische Zone|1R|ah24M1|||1945-66|
+9558|817|Deutschland / Russische Zone|1R|ah25|1951|1954||
+9558|826|Deutschland / Russische Zone|1R|ah26|1947|1953||
+9558|829|Deutschland / Russische Zone|1R|x-|||1945-66|
+9558|1120|Deutschland / Russische Zone|1R|x1|1946|1966||
+9559|61|Deutschland / Russische Zone|1R|x2|1954|1966||
+9559|359|Deutschland / Russische Zone|1R|x3M1|1945|1966||
+9559|559|Deutschland / Russische Zone|1R|x6|||1945-66|
+9559|405|Deutschland / Russische Zone|1R|x4|1945|1966||
+9559|551|Deutschland / Russische Zone|1R|x5|1947|1966||
+9559|560|Deutschland / Russische Zone|1R|x10|1945|1966||
+9559|645|Deutschland / Russische Zone|1R|x20|1945|1966||
+9559|740|Deutschland / Russische Zone|1R|x21|1948|1966||
+9559|756|Deutschland / Russische Zone|1R|x22|1945|1966||
+9559|900|Deutschland / Russische Zone|1R|x23|1947|1966||
+9559|904|Deutschland / Russische Zone|1R|x24|1946|1958||
+9559|919|Deutschland / Russische Zone|1R|x28|1945|1966||
+9559|943|Deutschland / Russische Zone|1R|x30|1946|1966||
+9559|994|Deutschland / Russische Zone|1R|x35|1945|1966||
+9559|1030|Deutschland / Russische Zone|1R|x40|1949|1965||
+9559|1041|Deutschland / Russische Zone|1R|x41|1946|1966||
+9559|1111|Deutschland / Russische Zone|1R|x43|1946|1966||
+9559|1119|Deutschland / Russische Zone|1R|x45|1948|1965||
+9559|1125|Deutschland / Russische Zone|1R|x46|1946|1966||
+9559|1159|Deutschland / Russische Zone|1R|x60|1947|1956||
+9559|1162|Deutschland / Russische Zone|1R|x65|1946|1966||
+9559|1190|Deutschland / Russische Zone|1R|x70|1946|1966||
+9559|1210|Deutschland / Russische Zone|1R|x71|1947|1962||
+9559|1220|Deutschland / Russische Zone|1R|x72|1946|1966||
+9559|1243|Deutschland / Russische Zone|1R|x75|1946|1963||
+9559|1255|Deutschland / Russische Zone|1R|x78|1945|1950||
+9560|61|Deutschland / Russische Zone|1R|x79||||
+9560|747|Deutschland / Russische Zone|1R|x80|1945|1960||
+9560|531|Deutschland / Russische Zone|1R|x81|1946|1966||
+9560|766|Deutschland / Russische Zone|1R|x82|1945|1961||
+9560|781|Deutschland / Russische Zone|1R|x83|1946|1966||
+9560|803|Deutschland / Russische Zone|1R|x84|1946|1966||
+9560|823|Deutschland / Russische Zone|1R|x90|1945|1966||
+9560|871|Deutschland / Russische Zone|1R|x100|1946|1966||
+9560|990|Deutschland / Russische Zone|1R|x101|||1945-66|
+9560|991|Deutschland / Russische Zone|1R|x102|1946|1957||
+9560|999|Deutschland / Russische Zone|1R|x103|1946|1966||
+9560|1007|Deutschland / Russische Zone|1R|x104|||1945-66|
+9560|1008|Deutschland / Russische Zone|1R|x105|1946|1947||
+9560|1011|Deutschland / Russische Zone|1R|x106|1961|||
+9560|1013|Deutschland / Russische Zone|1R|x110|||1945-66|
+9560|1104|Deutschland / Russische Zone|1R|x111|1948|1966||
+9560|1126|Deutschland / Russische Zone|1R|x112|1946|1966||
+9560|1195|Deutschland / Russische Zone|1R|x113|1946|1966||
+9560|1242|Deutschland / Russische Zone|1R|x115|1951|1965||
+9560|1252|Deutschland / Russische Zone|1R|x116|1948|1966||
+9560|1266|Deutschland / Russische Zone|1R|x117|1949|1966||
+9560|1278|Deutschland / Russische Zone|1R|x118|1947|1966||
+9561|61|Deutschland / Russische Zone|1R|x119|1946|1959||
+9561|78|Deutschland / Russische Zone|1R|x120|1949|1966||
+9561|83|Deutschland / Russische Zone|1R|x121|1955|1965||
+9561|89|Deutschland / Russische Zone|1R|x125|1947|1968||
+9561|109|Deutschland / Russische Zone|1R|x130|1946|1962||
+9561|129|Deutschland / Russische Zone|1R|x131|||1945-66|
+9561|130|Deutschland / Russische Zone|1R|x132|1960|1966||
+9561|134|Deutschland / Russische Zone|1R|x133|1956|||
+9561|137|Deutschland / Russische Zone|1R|x134|1955|1959||
+9561|142|Deutschland / Russische Zone|1R|x135|1956|1961||
+9561|150|Deutschland / Russische Zone|1R|x136|1946|1966||
+9561|162|Deutschland / Russische Zone|1R|x137|1956|||
+9561|164|Deutschland / Russische Zone|1R|x140|||1945-66|
+9561|165|Deutschland / Russische Zone|1R|x141|1947|1961||
+9561|202|Deutschland / Russische Zone|1R|x145|1946|1965||
+9561|220|Deutschland / Russische Zone|1R|x150|1946|1966||
+9561|423|Deutschland / Russische Zone|1R|x151|1954|1966||
+9561|439|Deutschland / Russische Zone|1R|x152|1946|1966||
+9561|563|Deutschland / Russische Zone|1R|x153|1946|1966||
+9561|733|Deutschland / Russische Zone|1R|x154|1947|1966||
+9561|788|Deutschland / Russische Zone|1R|x155|1946|1966||
+9561|810|Deutschland / Russische Zone|1R|x156|1945|1966||
+9561|872|Deutschland / Russische Zone|1R|x157|1948|1966||
+9561|881|Deutschland / Russische Zone|1R|x165|1948|1966||
+9561|939|Deutschland / Russische Zone|1R|x170|1947|1966||
+9561|961|Deutschland / Russische Zone|1R|x171|1945|1966||
+9561|978|Deutschland / Russische Zone|1R|x172|1946|1965||
+9561|994|Deutschland / Russische Zone|1R|x173|1947|1966||
+9561|1014|Deutschland / Russische Zone|1R|x175|1947|1962||
+9561|1028|Deutschland / Russische Zone|1R|x176|1950|1960||
+9561|1030|Deutschland / Russische Zone|1R|x177|1945|1966||
+9561|1120|Deutschland / Russische Zone|1R|x178|1946|1966||
+9561|1145|Deutschland / Russische Zone|1R|x179|1946|1966||
+9561|1187|Deutschland / Russische Zone|1R|x180|1945|1966||
+9562|61|Deutschland / Russische Zone|1R|x84 M1|1960|1962||
+9562|65|Deutschland / Russische Zone|1R|x185|1945|1966||
+9562|126|Deutschland / Russische Zone|1R|x188|1945|1966||
+9562|172|Deutschland / Russische Zone|1R|x190|1947|1966||
+9562|184|Deutschland / Russische Zone|1R|x192|1946|1966||
+9562|210|Deutschland / Russische Zone|1R|x200|1946|1966||
+9562|424|Deutschland / Russische Zone|1R|x202|1958|||
+9562|426|Deutschland / Russische Zone|1R|x210|1945|1966||
+9562|487|Deutschland / Russische Zone|1R|x211|1947|1965||
+9562|499|Deutschland / Russische Zone|1R|x212|1946|1964||
+9562|510|Deutschland / Russische Zone|1R|x231|1946|1966||
+9562|575|Deutschland / Russische Zone|1R|x232|1947|1958||
+9562|579|Deutschland / Russische Zone|1R|x235|1945|1955||
+9562|584|Deutschland / Russische Zone|1R|x240|1946|1966||
+9562|601|Deutschland / Russische Zone|1R|x250|1946|1966||
+9562|659|Deutschland / Russische Zone|1R|x275|1946|1966||
+9562|695|Deutschland / Russische Zone|1R|x279|1947|1966||
+9562|751|Deutschland / Russische Zone|1R|x280|1945|1966||
+9562|774|Deutschland / Russische Zone|1R|x281|1949|1966||
+9562|880|Deutschland / Russische Zone|1R|x282|1945|1966||
+9562|933|Deutschland / Russische Zone|1R|x284|1949|1966||
+9562|972|Deutschland / Russische Zone|1R|x285|1945|1966||
+9562|990|Deutschland / Russische Zone|1R|x300|1945|1950||
+9563|61|Deutschland / Russische Zone|1R|x300|1951|1966||
+9563|650|Deutschland / Russische Zone|1R|x305|1949|1966||
+9563|1058|Deutschland / Russische Zone|1R|x310|1945|1966||
+9563|1094|Deutschland / Russische Zone|1R|x311|1948|1966||
+9563|1101|Deutschland / Russische Zone|1R|x312|1945|1966||
+9563|1102|Deutschland / Russische Zone|1R|x313|1945|1966||
+9563|1103|Deutschland / Russische Zone|1R|x314|1954|1959||
+9563|1107|Deutschland / Russische Zone|1R|x315|1955|1965||
+9563|1128|Deutschland / Russische Zone|1R|x316|1960|1963||
+9563|1131|Deutschland / Russische Zone|1R|x325|1945|1966||
+9563|1132|Deutschland / Russische Zone|1R|x327|1950|1962||
+9563|1178|Deutschland / Russische Zone|1R|x330|1947|1960||
+9563|1195|Deutschland / Russische Zone|1R|x331|1945|1966||
+9563|1210|Deutschland / Russische Zone|1R|x340|1945|1966||
+9563|1262|Deutschland / Russische Zone|1R|x341|1946|1962||
+9563|1268|Deutschland / Russische Zone|1R|x350|1945|1966||
+9564|61|Deutschland / Russische Zone|1R|x358|1945|1966||
+9564|68|Deutschland / Russische Zone|1R|x361|1949|1966||
+9564|80|Deutschland / Russische Zone|1R|x363|1946|1953||
+9564|83|Deutschland / Russische Zone|1R|x364|1949|1958||
+9564|89|Deutschland / Russische Zone|1R|x370|1947|1960||
+9564|93|Deutschland / Russische Zone|1R|x377|1953|1964||
+9564|102|Deutschland / Russische Zone|1R|x378|1945|1966||
+9564|137|Deutschland / Russische Zone|1R|x380|1946|1962||
+9564|195|Deutschland / Russische Zone|1R|x400|1945|1966||
+9564|367|Deutschland / Russische Zone|1R|x410|1945|1966||
+9564|411|Deutschland / Russische Zone|1R|x411|1959|1966||
+9564|465|Deutschland / Russische Zone|1R|x420|1950|1960||
+9564|470|Deutschland / Russische Zone|1R|x428|1947|||
+9564|474|Deutschland / Russische Zone|1R|x430|1951|||
+9564|477|Deutschland / Russische Zone|1R|x431|1945|1960||
+9564|504|Deutschland / Russische Zone|1R|x432|1951|1964||
+9564|511|Deutschland / Russische Zone|1R|x433|1946|1961||
+9564|526|Deutschland / Russische Zone|1R|x435|1951|1965||
+9564|534|Deutschland / Russische Zone|1R|x445|1946|1966||
+564_a|541|Deutschland / Russische Zone|1R|x450|1945|1966||
+9564|600|Deutschland / Russische Zone|1R|x451|1947|1952||
+9564|604|Deutschland / Russische Zone|1R|x452|1946|1966||
+9564|635|Deutschland / Russische Zone|1R|x453|1947|1965||
+9564|638|Deutschland / Russische Zone|1R|x455|1947|1959||
+9564|649|Deutschland / Russische Zone|1R|x460|1946|1966||
+9564|714|Deutschland / Russische Zone|1R|x462|1946|1966||
+9564|741|Deutschland / Russische Zone|1R|x463|1947|1955||
+9564|746|Deutschland / Russische Zone|1R|x465|1946|1963||
+9564|766|Deutschland / Russische Zone|1R|x466|1945|1966||
+9564|838|Deutschland / Russische Zone|1R|x475|1946|1966||
+9564|852|Deutschland / Russische Zone|1R|x500|1946|||
+9564|989|Deutschland / Russische Zone|1R|x502|1946|1963||
+9564|997|Deutschland / Russische Zone|1R|x503|1947|1966||
+9564|1029|Deutschland / Russische Zone|1R|x504|1947|1966||
+9564|1058|Deutschland / Russische Zone|1R|x505|1945|1965||
+9564|1077|Deutschland / Russische Zone|1R|x506|1946|1966||
+9564|1092|Deutschland / Russische Zone|1R|x507|1946|1966||
+9564|1117|Deutschland / Russische Zone|1R|x508|1958|966||
+9564|1119|Deutschland / Russische Zone|1R|x509|1947|1966||
+9564|1148|Deutschland / Russische Zone|1R|x510|1946|1966||
+9564|1184|Deutschland / Russische Zone|1R|x511|1946|1966||
+9564|1205|Deutschland / Russische Zone|1R|x512|1948|1964||
+9564|1211|Deutschland / Russische Zone|1R|x515|1963|1966||
+9564|1215|Deutschland / Russische Zone|1R|x516|1947|1961||
+9564|1224|Deutschland / Russische Zone|1R|x518|||1946-66|
+9564|1225|Deutschland / Russische Zone|1R|x530|1946|1966||
+9564|1240|Deutschland / Russische Zone|1R|x531|1946|1966||
+9564|1263|Deutschland / Russische Zone|1R|x532|1948|1962||
+9564|1275|Deutschland / Russische Zone|1R|x533|1954|||
+9565|61|Deutschland / Russische Zone|1R|x540|1946|1966||
+9565|134|Deutschland / Russische Zone|1R|x541|1954|1964||
+9565|138|Deutschland / Russische Zone|1R|x545|1946|1961||
+9565|145|Deutschland / Russische Zone|1R|x550|1946|1965||
+9565|169|Deutschland / Russische Zone|1R|x553|1946|1951||
+9565|173|Deutschland / Russische Zone|1R|x554|||1945-66|
+9565|174|Deutschland / Russische Zone|1R|x555|1961|||
+9565|176|Deutschland / Russische Zone|1R|x556|||1945-66|
+9565|177|Deutschland / Russische Zone|1R|x558|||1945-66|
+9565|178|Deutschland / Russische Zone|1R|x560|1947|1965||
+9565|188|Deutschland / Russische Zone|1R|x562|1946|1958||
+9565|204|Deutschland / Russische Zone|1R|x565|1946|1962||
+9565|215|Deutschland / Russische Zone|1R|x570|1945|1966||
+9565|344|Deutschland / Russische Zone|1R|x572|1946|1966||
+9565|364|Deutschland / Russische Zone|1R|x573|1946|1963||
+9565|395|Deutschland / Russische Zone|1R|x574|1947|1952||
+9565|408|Deutschland / Russische Zone|1R|x575|1947|1952||
+9565|411|Deutschland / Russische Zone|1R|x582|1946|1962||
+9565|439|Deutschland / Russische Zone|1R|x584|1946|1963||
+9565|449|Deutschland / Russische Zone|1R|x585|1945|1966||
+9565|489|Deutschland / Russische Zone|1R|x586|1946|1966||
+9565|505|Deutschland / Russische Zone|1R|x587|1946|1961||
+9565|518|Deutschland / Russische Zone|1R|x588|1947|1960||
+9565|528|Deutschland / Russische Zone|1R|x589|1947|1962||
+9565|537|Deutschland / Russische Zone|1R|x595|1946|1966||
+9565|549|Deutschland / Russische Zone|1R|x596|1946|1961||
+9565|556|Deutschland / Russische Zone|1R|x598|1946|1966||
+9565|593|Deutschland / Russische Zone|1R|x599|1946|1966||
+9565|679|Deutschland / Russische Zone|1R|x600|1946|1966||
+9565|734|Deutschland / Russische Zone|1R|x601|||1946-66|
+9565|736|Deutschland / Russische Zone|1R|x606|1962|1966||
+9565|742|Deutschland / Russische Zone|1R|x607M1|1963|||
+9565|744|Großbritannien|80|w1|1946|1966||Ergänzung s. Film 578_A
+9565|924|Großbritannien|80|w2|1946|1955||
+9566|61|Großbritannien|80|w2|1966|||Nummer für die Verarbeitung geändert. Auf den Filmdosen nummeriert als Römisch 2, also xxx II. 07.04.2022, gh
+9566|119|Großbritannien|80|w3|1946|1966||
+9566|177|Großbritannien|80|w4|1947|1966||
+9566|276|Großbritannien|80|w5|1946|1966||
+9566|526|Großbritannien|80|w6|1946|1966||
+9566|571|Großbritannien|80|w7|1946|1965||
+9566|587|Großbritannien|80|w8|1949|1966||
+9566|599|Großbritannien|80|w9|1947|1966||
+9566|756|Großbritannien|80|w10|1946|1966||
+9566|855|Großbritannien|80|w11|1946|1966||
+9566|1007|Großbritannien|80|w12|1946|1965||
+9566|1034|Großbritannien|80|w13|1949|1966||
+9566|1115|Großbritannien|80|w14|1946|1966||
+9566|1140|Großbritannien|80|w20|1946|1966||
+9566|1141|Großbritannien|80|w21|1962|1966||
+9566|1146|Großbritannien|80|w25|1948|1953||
+9566|1153|Großbritannien|80|w28|1946|1966||
+9567|61|Großbritannien|80|w29|1953|||
+9567|162|Großbritannien|80|w30|1953|1966||
+9567|363|Großbritannien|80|w35|1948|1966||
+9567|464|Großbritannien|80|w39|1946|1965||
+9567|476|Großbritannien|80|w45|1946|1966||
+9567|1045|Großbritannien|80|w50|1949|1955||
+9567|1061|Großbritannien|80|aw-|1946|1966||
+9568|62|Großbritannien|80|aw-|1953|1966||
+9568|160|Großbritannien|80|aw-/ 0 bis18|1946|1966||
+9568|1022|Großbritannien|80|aw-/ 19 bis 55|1946|1966||
+9568|1094|Großbritannien|80|aw-/ 59 bis 67|1946|1966||
+9568|1117|Großbritannien|80|aw-/ 69 bis 77|1946|1966||
+9568|1138|Großbritannien|80|aw-/ 82 bis 92|1946|1966||
+9568|1165|Großbritannien|80|aw-/ 100 bis180|1946|1966||
+9568|1213|Großbritannien|80|aw-/ 200 bis 293|146|1966||
+9568|1251|Großbritannien|80|aw-/ 300 bis 311|1946|1966||
+9568|1266|Großbritannien|80|aw-/ 312 bis 380|1946|1966||
+9569|61|Großbritannien|80|aw-/ 400 bis 490|1946|1966||
+9569|79|Großbritannien|80|aw-/ 1|1946|1966||
+9569|119|Großbritannien|80|aw1|1956|1963||
+9569|123|Großbritannien|80|aw3|1946|1964||
+9569|179|Großbritannien|80|aw4 M1|1952|1966||
+9569|343|Großbritannien|80|aw10|1946|1966||
+9569|531|Großbritannien|80|aw11|1946|1966||
+9569|575|Großbritannien|80|aw12|1946|1966||
+9569|610|Großbritannien|80|aw20|1946|1966||
+9569|638|Großbritannien|80|k-|1946|1966||
+9569|662|Großbritannien|80|k1|1946|1966||
+9569|707|Großbritannien|80|k2|1946|1966||
+9569|772|Großbritannien|80|k3 M1|1946|1966||
+9570|61|Großbritannien|80|K11|1964|1966||
+9570|255|Großbritannien|80|k12 M1|1946|1966||
+9570|322|Großbritannien|80|k14|1946|1966||
+9570|401|Großbritannien|80|k15|1946|1966||
+9570|914|Großbritannien|80|k16|1946|1966||
+9570|1001|Großbritannien|80|k20|1946|166||
+9570|1184|Großbritannien|80|k21|146|1966||
+9571|61|Großbritannien|80|k22|1946|1966||
+9571|507|Großbritannien|80|k23|1946|1966||
+9571|554|Großbritannien|80|b-|1946|1966||
+9571|621|Großbritannien|80|b1|1946|1966||
+9571|707|Großbritannien|80|b2|1946|1966||
+9571|935|Großbritannien|80|b10|1946|1966||
+9571|1007|Großbritannien|80|b11|1946|1966||
+9571|1032|Großbritannien|80|b12|1946|1966||
+9571|1043|Großbritannien|80|b14|1950|1965||
+9571|1051|Großbritannien|80|b20|1946|1957||
+9572|61|Großbritannien|80|b20|1958|1966||
+9572|337|Großbritannien|80|b25|1946|1966||
+9572|421|Großbritannien|80|a-|1946|1964||
+9572|427|Großbritannien|80|a1|1946|1966||
+9572|590|Großbritannien|80|a2|1947|1966||
+9573|61|Großbritannien|80|a3|1947|1965||
+9573|89|Großbritannien|80|a4|1952|1966||
+9573|116|Großbritannien|80|a5|1946|1966||
+9573|420|Großbritannien|80|a6|1946|1966||
+9573|452|Großbritannien|80|a7|1947|1966||
+9573|542|Großbritannien|80|a8|1946|1966||
+9573|608|Großbritannien|80|a9|1946|1966||
+9573|716|Großbritannien|80|a10|1946|1966||
+9573|806|Großbritannien|80|a15|1946|1966||
+9573|888|Großbritannien|80|a19|1954|1966||
+9573|905|Großbritannien|80|a20|1946|1966||
+9574|61|Großbritannien|80|a20|1966|||
+9574|79|Großbritannien|80|a21|1946|1966||
+9574|94|Großbritannien|80|a22|1946|1966||
+9574|226|Großbritannien|80|a23|1948|1966||
+9574|264|Großbritannien|80|a24|1946|1966||
+9574|844|Großbritannien|80|a25|1946|1964||
+9574|893|Großbritannien|80|a26|1948|1966||
+9574|917|Großbritannien|80|a29|||1946-66|
+9574|918|Großbritannien|80|a30|1946|1966||
+9574|1096|Großbritannien|80|a31|1946|1966||
+9574|1202|Großbritannien|80|a32|1950|1966||
+9574|1235|Großbritannien|80|a40|1946|1965||
+9574|1242|Großbritannien|80|a41|1946|1951||
+9575|61|Großbritannien|80|a41|1952|1966||
+9575|231|Großbritannien|80|a42|1964|||
+9575|233|Großbritannien|80|a44|1961|1965||
+9575|238|Großbritannien|80|a45|1961|1966||
+9575|247|Großbritannien|80|a46|1951|||
+9575|249|Großbritannien|80|a47|1949|1965||
+9575|266|Großbritannien|80|a48|1948|1965||
+9575|269|Großbritannien|80|p-|1948|1966||
+9575|304|Großbritannien|80|p1|1946|1966||
+9575|443|Großbritannien|80|p2|1946|1966||
+9575|751|Großbritannien|80|p3|1946|1960||
+9576|61|Großbritannien|80|p3|1961|1966||
+9576|601|Großbritannien|80|p4|1961|1966||
+9576|653|Großbritannien|80|p5M1|1947|1966||
+9576|667|Großbritannien|80|p5M2|1946|1966||
+9576|678|Großbritannien|80|p8|1946|1966||
+9576|1010|Großbritannien|80|p9|1946|1966||
+9576|1154|Großbritannien|80|p10|1946|1966||
+9577|61|Großbritrannien|80|p10|1951|1966||
+9577|880|Großbritrannien|80|p11|1946|1966||
+9577|1240|Großbritrannien|80|p20|1946|||
+9578|104|Großbritannien|80|allgem.|1947|1966||Ergänzung s. Film 565_A
+9578|134|Großbritannien|80|w-|1960|1960||
+9578|61|Großbritannien|80|p20|1947|1960||
 601|61|Großbritannien|80|x176|1948|1966||
 601|99|Großbritannien|80|x177|1946|1965||
 602|61|Großbritannien|80|x177|1966|||

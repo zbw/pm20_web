@@ -3564,6 +3564,274 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 " |[0788](k2/sh/0566/0788)|Frankreich|70|g20|1947|1966||
 " |[0950](k2/sh/0566/0950)|Frankreich|70|g21|1947|1962||
 " |[0978](k2/sh/0566/0978)|Frankreich|70|g23|1946|1966||
+[0567](k2/sh/0567)|[0061](k2/sh/0567/0061)|Frankreich|70|g24|1946|1966||Nummer für die Verarbeitung geändert. Auf den Filmdosen nummeriert als Römisch 1, also xxx I. 07.04.2022, gh
+" |[0149](k2/sh/0567/0149)|Frankreich|70|g30|1947|1966||
+" |[0384](k2/sh/0567/0384)|Frankreich|70|g31|1950|1966||
+" |[0400](k2/sh/0567/0400)|Frankreich|70|g32|1946|1966||
+" |[0448](k2/sh/0567/0448)|Frankreich|70|g33|1946|1966||
+" |[0495](k2/sh/0567/0495)|Frankreich|70|g36|1946|1966||
+" |[0551](k2/sh/0567/0551)|Frankreich|70|g39|1949|1966||
+" |[0569](k2/sh/0567/0569)|Frankreich|70|g40|1949|1965||
+" |[0590](k2/sh/0567/0590)|Frankreich|70|g43|1947|1966||
+" |[0678](k2/sh/0567/0678)|Frankreich|70|g44|1948|1966||
+" |[0734](k2/sh/0567/0734)|Frankreich|70|g45|1949|1965||
+" |[0748](k2/sh/0567/0748)|Frankreich|70|g46|1949|1966||
+" |[0758](k2/sh/0567/0758)|Frankreich|70|g47|1952|1965||
+" |[0775](k2/sh/0567/0775)|Frankreich|70|g48|1948|1966||
+" |[0843](k2/sh/0567/0843)|Frankreich|70|g49|1948|||
+" |[0875](k2/sh/0567/0875)|Frankreich|70|g50|1949|1966||
+" |[0886](k2/sh/0567/0886)|Frankreich|70|g60|1949|1966||
+" |[0922](k2/sh/0567/0922)|Frankreich|70|g62|1947|1966||
+" |[1144](k2/sh/0567/1144)|Frankreich|70|vs-|1946|1966||
+" |[1196](k2/sh/0567/1196)|Frankreich|70|vs1|1951|1966||
+" |[1201](k2/sh/0567/1201)|Frankreich|70|vs2|1948|1966||
+" |[1222](k2/sh/0567/1222)|Frankreich|70|vs10|1946|1966||
+[0568](k2/sh/0568)|[0061](k2/sh/0568/0061)|Frankreich|70|vs11|1950|1966||
+" |[0132](k2/sh/0568/0132)|Frankreich|70|vs12|1948|1966||
+" |[0172](k2/sh/0568/0172)|Frankreich|70|vs13|1946|1966||
+" |[0263](k2/sh/0568/0263)|Frankreich|70|vs14|1952|1963||
+" |[0271](k2/sh/0568/0271)|Frankreich|70|vs15|1953|1966||
+" |[0300](k2/sh/0568/0300)|Frankreich|70|vs20|1957|1963||
+" |[0304](k2/sh/0568/0304)|Frankreich|70|vs21|1950|1966||
+" |[0319](k2/sh/0568/0319)|Frankreich|70|vs22|1959|1966||
+" |[0328](k2/sh/0568/0328)|Frankreich|70|vs23|1948|1960||
+" |[0333](k2/sh/0568/0333)|Frankreich|70|vs24|1946|1966||
+" |[0340](k2/sh/0568/0340)|Frankreich|70|vs25|1950|1966||
+" |[0373](k2/sh/0568/0373)|Frankreich|70|vs28|1947|1966||
+" |[0389](k2/sh/0568/0389)|Frankreich|70|vs29|1956|1958||
+" |[0392](k2/sh/0568/0392)|Frankreich|70|vs30|1947|1961||
+" |[0400](k2/sh/0568/0400)|Frankreich|70|h-|1949|1964||
+" |[0542](k2/sh/0568/0542)|Frankreich|70|h3|1951|1966||
+" |[0543](k2/sh/0568/0543)|Frankreich|70|h7|1947|1966||
+" |[0565](k2/sh/0568/0565)|Frankreich|70|h8 M1|1947|1966||
+" |[0616](k2/sh/0568/0616)|Frankreich|70|h8 M2|1947|1961||
+" |[0697](k2/sh/0568/0697)|Frankreich|70|h9|1949|1966||
+" |[0704](k2/sh/0568/0704)|Frankreich|70|h11|1946|1966||
+" |[0770](k2/sh/0568/0770)|Frankreich|70|h12|1953|1961||
+" |[0796](k2/sh/0568/0796)|Frankreich|70|h13|1954|||
+" |[0806](k2/sh/0568/0806)|Frankreich|70|h20|1946|1966||
+" |[0808](k2/sh/0568/0808)|Frankreich|70|ah-|1947|1966||
+" |[1178](k2/sh/0568/1178)|Frankreich|70|ah7|1946|1966||
+" |[1211](k2/sh/0568/1211)|Frankreich|70|ah8|1946|1966||
+" |[1314](k2/sh/0568/1314)|Frankreich|70|ah11|1946|1966||
+" |1363|Frankreich|70|ah12|1949|1964||
+" |1378|Frankreich|70|ah13|1951|1966||
+[0569](k2/sh/0569)|[0062](k2/sh/0569/0062)|Frankreich|70|ah20|1946|1966||
+" |[0461](k2/sh/0569/0461)|Frankreich|70|ah22|1946|1966||
+" |[1034](k2/sh/0569/1034)|Frankreich|70|ah23|1954|1966||
+" |[1171](k2/sh/0569/1171)|Frankreich|70|ah24|1958|||
+" |[1174](k2/sh/0569/1174)|Frankreich|70|ah25|1947|1966||
+" |[1181](k2/sh/0569/1181)|Frankreich|70|ah26|1960|1964||
+" |[1186](k2/sh/0569/1186)|Frankreich|70|x-|1946|1948||
+[0570](k2/sh/0570)|[0061](k2/sh/0570/0061)|Frankreich|70|x-|1959|1966||
+" |[0174](k2/sh/0570/0174)|Frankreich|70|x1|1949|1959||
+" |[0188](k2/sh/0570/0188)|Frankreich|70|x2|1946|1966||
+" |[0743](k2/sh/0570/0743)|Frankreich|70|x3|1958|1966||
+" |[0767](k2/sh/0570/0767)|Frankreich|70|x4|1950|1966||
+" |[0787](k2/sh/0570/0787)|Frankreich|70|x5|1956|1966||
+" |[0794](k2/sh/0570/0794)|Frankreich|70|x6|||1946-66|
+" |[0795](k2/sh/0570/0795)|Frankreich|70|x10|1946|1966||
+" |[0952](k2/sh/0570/0952)|Frankreich|70|x20|1946|1966||
+" |[1292](k2/sh/0570/1292)|Frankreich|70|x21|1946|1966||
+" |[1313](k2/sh/0570/1313)|Frankreich|70|x22|1951|1956||
+" |[1317](k2/sh/0570/1317)|Frankreich|70|x23|||1946-66|
+" |[1318](k2/sh/0570/1318)|Frankreich|70|x24|1956|||
+" |[1321](k2/sh/0570/1321)|Frankreich|70|x28|1948|1966||
+" |[1355](k2/sh/0570/1355)|Frankreich|70|x30|1946|1957||
+[0571](k2/sh/0571)|[0061](k2/sh/0571/0061)|Frankreich|70|x30|1958|1966||
+" |[0304](k2/sh/0571/0304)|Frankreich|70|x35|1946|1966||
+" |[0445](k2/sh/0571/0445)|Frankreich|70|x40|1956|1961||
+" |[0448](k2/sh/0571/0448)|Frankreich|70|x41|1946|1965||
+" |[0470](k2/sh/0571/0470)|Frankreich|70|x43|1948|1961||
+" |[0477](k2/sh/0571/0477)|Frankreich|70|x45|1948|1960||
+" |[0490](k2/sh/0571/0490)|Frankreich|70|x46|1947|1966||
+" |[0545](k2/sh/0571/0545)|Frankreich|70|x60|1948|1963||
+" |[0555](k2/sh/0571/0555)|Frankreich|70|x65|1948|1965||
+" |[0579](k2/sh/0571/0579)|Frankreich|70|x70|1947|1962||
+" |[0619](k2/sh/0571/0619)|Frankreich|70|x71|1948|1964||
+" |[0626](k2/sh/0571/0626)|Frankreich|70|x72|1947|1965||
+" |[0637](k2/sh/0571/0637)|Frankreich|70|x75|1950|1961||
+" |[0647](k2/sh/0571/0647)|Frankreich|70|x78|1948|1966||
+" |[0681](k2/sh/0571/0681)|Frankreich|70|x79|1946|1966||
+" |[1198](k2/sh/0571/1198)|Frankreich|70|x80|1946|1966||
+" |[1376](k2/sh/0571/1376)|Frankreich|70|x81|1949|1966||
+" |1436|Frankreich|70|x82|1952|1962||
+" |1444|Frankreich|70|x83|1947|1966||
+[0572](k2/sh/0572)|[0061](k2/sh/0572/0061)|Frankreich|70|x84|1949|1963||
+" |[0078](k2/sh/0572/0078)|Frankreich|70|x90|1947|1966||
+" |[0121](k2/sh/0572/0121)|Frankreich|70|x100|1947|1966||
+" |[0274](k2/sh/0572/0274)|Frankreich|70|x101|1950|1961||
+" |[0278](k2/sh/0572/0278)|Frankreich|70|x102|1947|1962||
+" |[0286](k2/sh/0572/0286)|Frankreich|70|x103|1947|1961||
+" |[0294](k2/sh/0572/0294)|Frankreich|70|x104|1948|1966||
+" |[0310](k2/sh/0572/0310)|Frankreich|70|x105|1948|1950||
+" |[0314](k2/sh/0572/0314)|Frankreich|70|x106|1950|1957||
+" |[0318](k2/sh/0572/0318)|Frankreich|70|x110|1946|1966||
+" |[0771](k2/sh/0572/0771)|Frankreich|70|x111|1946|1966||
+" |[0826](k2/sh/0572/0826)|Frankreich|70|x112|1946|1966||
+" |[1054](k2/sh/0572/1054)|Frankreich|70|x113|1948|1966||
+" |[1104](k2/sh/0572/1104)|Frankreich|70|x115|1949|1961||
+" |[1114](k2/sh/0572/1114)|Frankreich|70|x116|1948|1966||
+" |[1150](k2/sh/0572/1150)|Frankreich|70|x117|1947|1966||
+" |[1186](k2/sh/0572/1186)|Frankreich|70|x118|1950|1966||
+" |[1195](k2/sh/0572/1195)|Frankreich|70|x119|1949|1963||
+" |[1216](k2/sh/0572/1216)|Frankreich|70|x120|1955|1964||
+" |[1221](k2/sh/0572/1221)|Frankreich|70|x121|1948|1966||
+" |[1236](k2/sh/0572/1236)|Frankreich|70|x125|1949|1966||
+" |[1265](k2/sh/0572/1265)|Frankreich|70|x130|1948|1966||
+" |[1279](k2/sh/0572/1279)|Frankreich|70|x131|||1946-66|
+" |[1280](k2/sh/0572/1280)|Frankreich|70|x132|1947|1966||
+" |[1295](k2/sh/0572/1295)|Frankreich|70|x133|1949|1966||
+" |[1306](k2/sh/0572/1306)|Frankreich|70|x134|1947|1965||
+" |[1319](k2/sh/0572/1319)|Frankreich|70|x135|1948|1965||
+" |1332|Frankreich|70|x136|1946|1966||
+" |1373|Frankreich|70|x137|1947|1957||
+" |1382|Frankreich|70|x140|||1946-66|
+[0573](k2/sh/0573)|[0061](k2/sh/0573/0061)|Frankreich|70|x141|1946|1966||
+" |[0093](k2/sh/0573/0093)|Frankreich|70|x145|1948|1966||
+" |[0125](k2/sh/0573/0125)|Frankreich|70|x150|1947|1966||
+" |[0321](k2/sh/0573/0321)|Frankreich|70|x151|1949|1966||
+" |[0336](k2/sh/0573/0336)|Frankreich|70|x152|1946|1966||
+" |[0451](k2/sh/0573/0451)|Frankreich|70|x153|1946|1966||
+" |[0721](k2/sh/0573/0721)|Frankreich|70|x154|1946|1966||
+" |[0818](k2/sh/0573/0818)|Frankreich|70|x155|1946|1966||
+" |[0831](k2/sh/0573/0831)|Frankreich|70|x156|1947|1966||
+" |[0901](k2/sh/0573/0901)|Frankreich|70|x157|1946|1965||
+" |[0919](k2/sh/0573/0919)|Frankreich|70|x165|1949|1966||
+" |[0945](k2/sh/0573/0945)|Frankreich|70|x170|1947|1963||
+" |[0981](k2/sh/0573/0981)|Frankreich|70|x171|1948|1965||
+" |[0998](k2/sh/0573/0998)|Frankreich|70|x172|1947|1966||
+" |[1028](k2/sh/0573/1028)|Frankreich|70|x173|1951|1966||
+" |[1039](k2/sh/0573/1039)|Frankreich|70|x175|1947|1966||
+" |[1055](k2/sh/0573/1055)|Frankreich|70|x176|1956|1966||
+" |[1067](k2/sh/0573/1067)|Frankreich|70|x177|1946|1966||
+" |1385|Frankreich|70|x178|1946|1958||
+[0574](k2/sh/0574)|[0061](k2/sh/0574/0061)|Frankreich|70|x178|1959|1966||
+" |[0218](k2/sh/0574/0218)|Frankreich|70|x179|1946|1966||
+" |[0273](k2/sh/0574/0273)|Frankreich|70|x180|1946|1966||
+" |[0490](k2/sh/0574/0490)|Frankreich|70|x184|1958|1966||
+" |[0547](k2/sh/0574/0547)|Frankreich|70|x185|1946|166||
+" |[0792](k2/sh/0574/0792)|Frankreich|70|x188|1946|1966||
+" |[0868](k2/sh/0574/0868)|Frankreich|70|x190|1946|1960||
+" |[0881](k2/sh/0574/0881)|Frankreich|70|x192|1948|1966||
+" |[0919](k2/sh/0574/0919)|Frankreich|70|x200|1946|1966||
+" |[1115](k2/sh/0574/1115)|Frankreich|70|x202|||1946-66|
+" |[1116](k2/sh/0574/1116)|Frankreich|70|x210|1946|1966||
+" |[1142](k2/sh/0574/1142)|Frankreich|70|x211|1948|1966||
+" |[1166](k2/sh/0574/1166)|Frankreich|70|x212|1947|1964||
+" |[1184](k2/sh/0574/1184)|Frankreich|70|x231|1942|1966||
+" |[1236](k2/sh/0574/1236)|Frankreich|70|x232|1946|1965||
+" |[1256](k2/sh/0574/1256)|Frankreich|70|x235|1950|1963||
+" |[1268](k2/sh/0574/1268)|Frankreich|70|x240|1948|1966||
+" |[1287](k2/sh/0574/1287)|Frankreich|70|x250|1947|1966||
+" |[1374](k2/sh/0574/1374)|Frankreich|70|x275|1947|1966||
+" |1425|Frankreich|70|x279|1946|1960||
+[0575](k2/sh/0575)|[0061](k2/sh/0575/0061)|Frankreich|70|x279|1961|1966||
+" |[0092](k2/sh/0575/0092)|Frankreich|70|x280|1946|1966||
+" |[0201](k2/sh/0575/0201)|Frankreich|70|x281|1946|1966||
+" |[0506](k2/sh/0575/0506)|Frankreich|70|x282|1950|1966||
+" |[0557](k2/sh/0575/0557)|Frankreich|70|x284 M1|1947|1966||
+" |[0728](k2/sh/0575/0728)|Frankreich|70|x285|1957|1965||
+" |[0740](k2/sh/0575/0740)|Frankreich|70|x300|1946|1964||
+[0576](k2/sh/0576)|[0061](k2/sh/0576/0061)|Frankreich|70|x300|1965|1966||
+" |[0195](k2/sh/0576/0195)|Frankreich|70|x305|1951|1966||
+" |[0230](k2/sh/0576/0230)|Frankreich|70|x310|1946|1966||
+" |[0335](k2/sh/0576/0335)|Frankreich|70|x311|1946|1966||
+" |[0408](k2/sh/0576/0408)|Frankreich|70|x312|1961|||
+" |[0410](k2/sh/0576/0410)|Frankreich|70|x313|1962|||
+" |[0412](k2/sh/0576/0412)|Frankreich|70|x314|1950|1966||
+" |[0423](k2/sh/0576/0423)|Frankreich|70|x315|1948|1966||
+" |[0443](k2/sh/0576/0443)|Frankreich|70|x316|1947|1964||
+" |[0462](k2/sh/0576/0462)|Frankreich|70|x325|||1946-66|
+" |[0463](k2/sh/0576/0463)|Frankreich|70|x327|1947|1965||
+" |[0473](k2/sh/0576/0473)|Frankreich|70|x330|1949|1965||
+" |[0495](k2/sh/0576/0495)|Frankreich|70|x331|1946|1966||
+" |[0523](k2/sh/0576/0523)|Frankreich|70|x340|1946|1966||
+" |[0551](k2/sh/0576/0551)|Frankreich|70|x341|1959|1966||
+" |[0557](k2/sh/0576/0557)|Frankreich|70|x350|1946|1966||
+" |[0625](k2/sh/0576/0625)|Frankreich|70|x358|1960|||
+" |[0627](k2/sh/0576/0627)|Frankreich|70|x361|1947|1966||
+" |[0653](k2/sh/0576/0653)|Frankreich|70|x363|1946|1960||
+" |[0660](k2/sh/0576/0660)|Frankreich|70|x364|1949|1966||
+" |[0674](k2/sh/0576/0674)|Frankreich|70|x370|||1946-66|
+" |[0676](k2/sh/0576/0676)|Frankreich|70|x377|1948|1966||
+" |[0687](k2/sh/0576/0687)|Frankreich|70|x378|1946|1966||
+" |[0720](k2/sh/0576/0720)|Frankreich|70|x380|1957|1964||
+" |[0725](k2/sh/0576/0725)|Frankreich|70|x400|1946|1966||
+" |[0811](k2/sh/0576/0811)|Frankreich|70|x410|1947|1966||
+" |[0885](k2/sh/0576/0885)|Frankreich|70|x411|1948|1966||
+" |[0900](k2/sh/0576/0900)|Frankreich|70|x420|||1946-66|
+" |[0901](k2/sh/0576/0901)|Frankreich|70|x428|1947|1966||
+" |[0922](k2/sh/0576/0922)|Frankreich|70|x430|1948|1966||
+" |[0954](k2/sh/0576/0954)|Frankreich|70|x431|1946|1966||
+" |[1039](k2/sh/0576/1039)|Frankreich|70|x432|1946|1966||
+" |[1239](k2/sh/0576/1239)|Frankreich|70|x433|1947|1966||
+" |[1272](k2/sh/0576/1272)|Frankreich|70|x435|1949|1966||
+" |[1290](k2/sh/0576/1290)|Frankreich|70|x445|1957|1964||
+" |[1296](k2/sh/0576/1296)|Frankreich|70|x450|1946|1966||
+" |[1330](k2/sh/0576/1330)|Frankreich|70|x451|1948|1960||
+" |[1336](k2/sh/0576/1336)|Frankreich|70|x452|1946|1966||
+" |1404|Frankreich|70|x543|1958|1962||
+" |1407|Frankreich|70|x455|1949|1966||
+[0577](k2/sh/0577)|[0061](k2/sh/0577/0061)|Frankreich|70|x460|1947|1966||
+" |[0111](k2/sh/0577/0111)|Frankreich|70|x462|1948|1966||
+" |[0154](k2/sh/0577/0154)|Frankreich|70|x463|1947|1966||
+" |[0176](k2/sh/0577/0176)|Frankreich|70|x465|1947|1966||
+" |[0224](k2/sh/0577/0224)|Frankreich|70|x466|1948|1966||
+" |[0256](k2/sh/0577/0256)|Frankreich|70|x475|1950|||
+" |[0265](k2/sh/0577/0265)|Frankreich|70|x500|1947|1966||
+" |[0294](k2/sh/0577/0294)|Frankreich|70|x502|1948|1966||
+" |[0306](k2/sh/0577/0306)|Frankreich|70|x503|1952|1966||
+" |[0521](k2/sh/0577/0521)|Frankreich|70|x504|1950|1964||
+" |[0328](k2/sh/0577/0328)|Frankreich|70|x505|1948|1966||
+" |[0348](k2/sh/0577/0348)|Frankreich|70|x506|1946|1965||
+" |[0363](k2/sh/0577/0363)|Frankreich|70|x507|1946|1966||
+" |[0483](k2/sh/0577/0483)|Frankreich|70|x508|1947|1965||
+" |[0490](k2/sh/0577/0490)|Frankreich|70|x509|1949|1966||
+" |[0504](k2/sh/0577/0504)|Frankreich|70|x510|1946|1966||
+" |[0529](k2/sh/0577/0529)|Frankreich|70|x511|1949|1965||
+" |[0556](k2/sh/0577/0556)|Frankreich|70|x512|1948|1966||
+" |[0554](k2/sh/0577/0554)|Frankreich|70|x515|1965|||
+" |[0566](k2/sh/0577/0566)|Frankreich|70|x516|1949|1965||
+" |[0572](k2/sh/0577/0572)|Frankreich|70|x518|||1946-66|
+" |[0573](k2/sh/0577/0573)|Frankreich|70|x530|1946|1966||
+" |[0603](k2/sh/0577/0603)|Frankreich|70|x531|1947|1966||
+" |[0667](k2/sh/0577/0667)|Frankreich|70|x532|1947|1966||
+" |[0693](k2/sh/0577/0693)|Frankreich|70|x533|1948|1966||
+" |[0710](k2/sh/0577/0710)|Frankreich|70|x540|1948|1966||
+" |[0756](k2/sh/0577/0756)|Frankreich|70|x541|1959|1965||
+" |[0758](k2/sh/0577/0758)|Frankreich|70|x545|1947|1966||
+" |[0764](k2/sh/0577/0764)|Frankreich|70|x550|1947|1966||
+" |[0789](k2/sh/0577/0789)|Frankreich|70|x553|1950|1966||
+" |[0794](k2/sh/0577/0794)|Frankreich|70|x554|1963|||
+" |[0796](k2/sh/0577/0796)|Frankreich|70|x555|1948|1966||
+" |[0813](k2/sh/0577/0813)|Frankreich|70|x556|1948|1960||
+" |[0824](k2/sh/0577/0824)|Frankreich|70|x558|1947|1959||
+" |[0830](k2/sh/0577/0830)|Frankreich|70|x560|1950|1961||
+" |[0838](k2/sh/0577/0838)|Frankreich|70|x562|1948|1966||
+" |[0848](k2/sh/0577/0848)|Frankreich|70|x565|1950|1966||
+" |[0863](k2/sh/0577/0863)|Frankreich|70|x570|1946|1966||
+" |[0999](k2/sh/0577/0999)|Frankreich|70|x572|1946|1966||
+" |[1074](k2/sh/0577/1074)|Frankreich|70|x573|1947|1966||
+" |[1095](k2/sh/0577/1095)|Frankreich|70|x574|1948|1960||
+" |[1107](k2/sh/0577/1107)|Frankreich|70|x575|1948|1966||
+" |[1137](k2/sh/0577/1137)|Frankreich|70|x582|1946|1966||
+" |[1204](k2/sh/0577/1204)|Frankreich|70|x584|1946|1966||
+" |[1230](k2/sh/0577/1230)|Frankreich|70|x585|1947|1966||
+" |[1275](k2/sh/0577/1275)|Frankreich|70|x586|1947|1966||
+" |[1292](k2/sh/0577/1292)|Frankreich|70|x587|1947|1963||
+" |[1297](k2/sh/0577/1297)|Frankreich|70|x588|1948|1962||
+" |[1307](k2/sh/0577/1307)|Frankreich|70|x589|1950|1966||
+" |[1318](k2/sh/0577/1318)|Frankreich|70|x595|1949|1950||
+" |[1322](k2/sh/0577/1322)|Frankreich|70|x596|1948|1966||
+" |[1327](k2/sh/0577/1327)|Frankreich|70|x598|1946|1966||
+" |1381|Frankreich|70|x599|1946|1966||
+" |1418|Frankreich|70|x600|1948|1966||
+[0578](k2/sh/0578)|[0061](k2/sh/0578/0061)|Frankreich|70|x600|1962|1966||
+" |[0076](k2/sh/0578/0076)|Frankreich|70|x601|1948|1959||
+" |[0084](k2/sh/0578/0084)|Frankreich|70|x606|1958|1966||
+" |[0102](k2/sh/0578/0102)|Frankreich|80|x607|1961|||
+[0579](k2/sh/0579)|[0061](k2/sh/0579/0061)|Frankreich|80|w-|1960|1966||
 [0580](k2/sh/0580)|[0061](k2/sh/0580/0061)|Großbritannien|80|f3|1961|1966||
 " |[0273](k2/sh/0580/0273)|Großbritannien|80|f4|1946|1966||
 " |[0282](k2/sh/0580/0282)|Großbritannien|80|f5|1946|1966||
@@ -3786,13 +4054,13 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 " |[1131](k2/sh/0600/1131)|Großbritannien|80|x172|1946|1966||
 " |[1179](k2/sh/0600/1179)|Großbritannien|80|x173|1948|1966||
 " |1246|Großbritannien|80|x175|1947|1966||
-547/A|0061|Deutschland / Russische Zone|1R|allgem.|1959|1966||
-" |0092|Deutschland / Russische Zone|1R|w-|1947|1966||
-548/A|0061|Deutschland / Russische Zone||||||
+[9547](k2/sh/9547)|[0061](k2/sh/9547/0061)|Deutschland / Russische Zone|1R|allgem.|1959|1966||
+" |[0092](k2/sh/9547/0092)|Deutschland / Russische Zone|1R|w-|1947|1966||
+9548|0061|Deutschland / Russische Zone||||||
 " |1048|Deutschland / Russische Zone|1R|w1|1946|1966||
 " |1141|Deutschland / Russische Zone|1R|w2|1945|1966||
 " |1304|Deutschland / Russische Zone|1R|w3|1947|1966||
-549/A|0061|Deutschland / Russische Zone|1|w4|1945|1966||
+9549|0061|Deutschland / Russische Zone|1|w4|1945|1966||
 " |0355|Deutschland / Russische Zone|1R|w5|1945|1965||
 " |0362|Deutschland / Russische Zone|1R|w6|1946|1950||
 " |0378|Deutschland / Russische Zone|1R|w7|1945|1961||
@@ -3816,12 +4084,12 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 " |1073|Deutschland / Russische Zone|1R|aw-|1967|1965||
 " |1124|Deutschland / Russische Zone|1R|aw1|1961|||
 " |1126|Deutschland / Russische Zone|1R|aw3|1961|||
-549A|1130|Deutschland / Russische Zone|1R|aw4|1957|1965||
-549/A|1137|Deutschland / Russische Zone|1R|aw10|1945|1965||
+" |1130|Deutschland / Russische Zone|1R|aw4|1957|1965||
+" |1137|Deutschland / Russische Zone|1R|aw10|1945|1965||
 " |1178|Deutschland / Russische Zone|1R|aw11|1953|1957||
 " |1182|Deutschland / Russische Zone|1R|aw12|1950|1966||
 " |1196|Deutschland / Russische Zone|1R|aw20|1949|1966||
-550/A|0061|Deutschland / Russische Zone|1R|aw-0 bis 90|1947|1966||
+9550|0061|Deutschland / Russische Zone|1R|aw-0 bis 90|1947|1966||
 " |0334|Deutschland / Russische Zone|1R|aw-100 bis 180|1950|1966||
 " |0400|Deutschland / Russische Zone|1R|aw- 200 bis 290|1952|1966||
 " |0456|Deutschland / Russische Zone|1R|aw-300 bis 380|1954|1966||
@@ -3833,7 +4101,7 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 " |0980|Deutschland / Russische Zone|1R|k3M2|1946|1966||
 " |1003|Deutschland / Russische Zone|1R|k10|1953|1966||
 " |1038|Deutschland / Russische Zone|1R|k11|1945|1966||
-551/A|0061|Deutschland / Russische Zone|1R|k12|1946|1966||
+9551|0061|Deutschland / Russische Zone|1R|k12|1946|1966||
 " |0104|Deutschland / Russische Zone|1R|k14|1947|1961||
 " |0115|Deutschland / Russische Zone|1R|k15|1945|1966||
 " |0326|Deutschland / Russische Zone|1R|k16|1946|1966||
@@ -3852,7 +4120,7 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 " |1129|Deutschland / Russische Zone|1R|b25|1945|1966||
 " |1163|Deutschland / Russische Zone|1R|a-|1946|1965||
 " |1285|Deutschland / Russische Zone|1R|a1|1945|1952||
-552/A|0061|Deutschland / Russische Zone|1R|a1|1953|1966||
+9552|0061|Deutschland / Russische Zone|1R|a1|1953|1966||
 " |0117|Deutschland / Russische Zone|1R|a2|1949|1965||
 " |0130|Deutschland / Russische Zone|1R|a3|1949|1960||
 " |0136|Deutschland / Russische Zone|1R|a4|1958|||
@@ -3885,754 +4153,471 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 " |1075|Deutschland / Russische Zone|1R|a48|||1945-66|
 " |1076|Deutschland / Russische Zone|1R|p-|1946|1966||
 " |1138|Deutschland / Russische Zone|1R|p1|1945|1954||
-553/A|0061|Deutschland / Russische Zone|1R|p1|1955|1966||
+9553|0061|Deutschland / Russische Zone|1R|p1|1955|1966||
 " |0291|Deutschland / Russische Zone|1R|p2|1945|1966||
 " |0757|Deutschland / Russische Zone|1R|p3|1946|1966||
 " |1061|Deutschland / Russische Zone|1R|p4|1945|1966||
-553/a|1113|Deutschland / Russische Zone|1R|p5|1947|1966||
-553/A|1204|Deutschland / Russische Zone|1R|p8|1945|1950||
-555/A|0061|Deutschland / Russische Zone|1R|p8|1951|1966||
-554/A|0222|Deutschland / Russische Zone|1R|p9|1946|1966||
+" |1113|Deutschland / Russische Zone|1R|p5|1947|1966||
+" |1204|Deutschland / Russische Zone|1R|p8|1945|1950||
+[9555](k2/sh/9555)|[0061](k2/sh/9555/0061)|Deutschland / Russische Zone|1R|p8|1951|1966||
+9554|0222|Deutschland / Russische Zone|1R|p9|1946|1966||
 " |0309|Deutschland / Russische Zone|1R|p10|1945|1966||
 " |0516|Deutschland / Russische Zone|1R|p11|1945|1966||
 " |0809|Deutschland / Russische Zone|1R|p20|1945|1963||
-555/A|0061|Deutschland / Russische Zone|1R|p20|1964|1966||
-" |0210|Deutschland / Russische Zone|1R|p21|||1945-66|
-" |0211|Deutschland / Russische Zone|1R|p22|1950|1965||
-" |0228|Deutschland / Russische Zone|1R|p23|1949|1966||
-" |0299|Deutschland / Russische Zone|1R|p24|1949|1966||
-" |0323|Deutschland / Russische Zone|1R|p30|||1945-66|
-" |0324|Deutschland / Russische Zone|1R|p31|1948|1962||
-" |0344|Deutschland / Russische Zone|1R|p40|1955|1951||
-" |0383|Deutschland / Russische Zone|1R|p41|||1945-66|
-" |0384|Deutschland / Russische Zone|1R|p42|1954|1966||
-" |0406|Deutschland / Russische Zone|1R|f-|1945|1965||
-" |0515|Deutschland / Russische Zone|1R|f1|1946|1966||
-" |0689|Deutschland / Russische Zone|1r|f2|1959|1966||
-" |0692|Deutschland / Russische Zone|1R|f3|1945|1962||
-" |0768|Deutschland / Russische Zone|1R|f4|1946|1947||
-" |0772|Deutschland / Russische Zone|1R|f5|1946|1961||
-" |0868|Deutschland / Russische Zone|1R|f6|1947|1960||
-" |0884|Deutschland / Russische Zone|1R|f7|1949|1957||
-" |0888|Deutschland / Russische Zone|1R|f10|1950|||
-" |0890|Deutschland / Russische Zone|1R|f11|1957|||
-" |0893|Deutschland / Russische Zone|1R|f12|1946|1962||
-" |0914|Deutschland / Russische Zone|1R|f13|1946|1961||
-" |0918|Deutschland / Russische Zone|1R|f14|1958|||
-" |0920|Deutschland / Russische Zone|1R|f15|||1945-66|
-" |0921|Deutschland / Russische Zone|1R|f20|1947|1965||
-" |0929|Deutschland / Russische Zone|1R|f21|1952|1962||
-" |0938|Deutschland / Russische Zone|1R|f22|||1945-66|
-555/a|0939|Deutschland / Russische Zone|1R|f30|1947|1954||
-555/A|0948|Deutschland / Russische Zone|1R|f31|1946|1953||
-" |0956|Deutschland / Russische Zone|1R|f32|1946|1961||
-" |0971|Deutschland / Russische Zone|1R|f33|1951|1964||
-" |0980|Deutschland / Russische Zone|1R|f34|1956|1960||
-" |0986|Deutschland / Russische Zone|1R|f35|1946|1963||
-" |1001|Deutschland / Russische Zone|1R|f36|1946|1965||
-" |1025|Deutschland / Russische Zone|1R|f37|||1945-66|
-555/(A|1026|Deutschland / Russische Zone|1R|f40|1947|1950||
-555/A|1029|Deutschland / Russische Zone|1R|v-|1945|1966||
-" |1097|Deutschland / Russische Zone|1R|v1|1945|1966||
-" |1173|Deutschland / Russische Zone|1R|v2|1945|1966||
+[9555](k2/sh/9555)|[0061](k2/sh/9555/0061)|Deutschland / Russische Zone|1R|p20|1964|1966||
+" |[0210](k2/sh/9555/0210)|Deutschland / Russische Zone|1R|p21|||1945-66|
+" |[0211](k2/sh/9555/0211)|Deutschland / Russische Zone|1R|p22|1950|1965||
+" |[0228](k2/sh/9555/0228)|Deutschland / Russische Zone|1R|p23|1949|1966||
+" |[0299](k2/sh/9555/0299)|Deutschland / Russische Zone|1R|p24|1949|1966||
+" |[0323](k2/sh/9555/0323)|Deutschland / Russische Zone|1R|p30|||1945-66|
+" |[0324](k2/sh/9555/0324)|Deutschland / Russische Zone|1R|p31|1948|1962||
+" |[0344](k2/sh/9555/0344)|Deutschland / Russische Zone|1R|p40|1955|1951||
+" |[0383](k2/sh/9555/0383)|Deutschland / Russische Zone|1R|p41|||1945-66|
+" |[0384](k2/sh/9555/0384)|Deutschland / Russische Zone|1R|p42|1954|1966||
+" |[0406](k2/sh/9555/0406)|Deutschland / Russische Zone|1R|f-|1945|1965||
+" |[0515](k2/sh/9555/0515)|Deutschland / Russische Zone|1R|f1|1946|1966||
+" |[0689](k2/sh/9555/0689)|Deutschland / Russische Zone|1r|f2|1959|1966||
+" |[0692](k2/sh/9555/0692)|Deutschland / Russische Zone|1R|f3|1945|1962||
+" |[0768](k2/sh/9555/0768)|Deutschland / Russische Zone|1R|f4|1946|1947||
+" |[0772](k2/sh/9555/0772)|Deutschland / Russische Zone|1R|f5|1946|1961||
+" |[0868](k2/sh/9555/0868)|Deutschland / Russische Zone|1R|f6|1947|1960||
+" |[0884](k2/sh/9555/0884)|Deutschland / Russische Zone|1R|f7|1949|1957||
+" |[0888](k2/sh/9555/0888)|Deutschland / Russische Zone|1R|f10|1950|||
+" |[0890](k2/sh/9555/0890)|Deutschland / Russische Zone|1R|f11|1957|||
+" |[0893](k2/sh/9555/0893)|Deutschland / Russische Zone|1R|f12|1946|1962||
+" |[0914](k2/sh/9555/0914)|Deutschland / Russische Zone|1R|f13|1946|1961||
+" |[0918](k2/sh/9555/0918)|Deutschland / Russische Zone|1R|f14|1958|||
+" |[0920](k2/sh/9555/0920)|Deutschland / Russische Zone|1R|f15|||1945-66|
+" |[0921](k2/sh/9555/0921)|Deutschland / Russische Zone|1R|f20|1947|1965||
+" |[0929](k2/sh/9555/0929)|Deutschland / Russische Zone|1R|f21|1952|1962||
+" |[0938](k2/sh/9555/0938)|Deutschland / Russische Zone|1R|f22|||1945-66|
+" |[0939](k2/sh/9555/0939)|Deutschland / Russische Zone|1R|f30|1947|1954||
+" |[0948](k2/sh/9555/0948)|Deutschland / Russische Zone|1R|f31|1946|1953||
+" |[0956](k2/sh/9555/0956)|Deutschland / Russische Zone|1R|f32|1946|1961||
+" |[0971](k2/sh/9555/0971)|Deutschland / Russische Zone|1R|f33|1951|1964||
+" |[0980](k2/sh/9555/0980)|Deutschland / Russische Zone|1R|f34|1956|1960||
+" |[0986](k2/sh/9555/0986)|Deutschland / Russische Zone|1R|f35|1946|1963||
+" |[1001](k2/sh/9555/1001)|Deutschland / Russische Zone|1R|f36|1946|1965||
+" |[1025](k2/sh/9555/1025)|Deutschland / Russische Zone|1R|f37|||1945-66|
+" |[1026](k2/sh/9555/1026)|Deutschland / Russische Zone|1R|f40|1947|1950||
+" |[1029](k2/sh/9555/1029)|Deutschland / Russische Zone|1R|v-|1945|1966||
+" |[1097](k2/sh/9555/1097)|Deutschland / Russische Zone|1R|v1|1945|1966||
+" |[1173](k2/sh/9555/1173)|Deutschland / Russische Zone|1R|v2|1945|1966||
 " |1286|Deutschland / Russische Zone|1R|v10|1947|1966||
-556/A|0061|Deutschland / Russische Zone|1R|v11|1945|1966||
-" |0135|Deutschland / Russische Zone|1R|v12|1949|1966||
-" |0138|Deutschland / Russische Zone|1R|v13|1950|1966||
-" |0172|Deutschland / Russische Zone|1R|v15|1946|1966||
-" |0208|Deutschland / Russische Zone|1R|v15M2|1946|1966||
-" |0255|Deutschland / Russische Zone|1R|v16|1948|1966||
-" |0323|Deutschland / Russische Zone|1R|v18|1945|1966||
-" |0324|Deutschland / Russische Zone|1R|v20|1946|1966||
-" |0371|Deutschland / Russische Zone|1R|v21|1946|1966||
-" |0401|Deutschland / Russische Zone|1R|v22|1948|1960||
-" |0428|Deutschland / Russische Zone|1R|v23|1948|1966||
-" |0463|Deutschland / Russische Zone|1R|v24|1946|1966||
-" |0506|Deutschland / Russische Zone|1R|vs25|1950|1966||
-" |0522|Deutschland / Russische Zone|1R|v26M1|1946|1966|1945-66|
-" |0523|Deutschland / Russische Zone|1R|v30|1945|1966||
-" |0611|Deutschland / Russische Zone|1R|v40|1946|1964||
-" |0640|Deutschland / Russische Zone|1R|v50|1945|1966||
-" |0709|Deutschland / Russische Zone|1R|g-|1946|1961||
-" |0713|Deutschland / Russische Zone|1R|g1|1946|1966||
-555/A|0801|Deutschland / Russische Zone|1R|g2|1946|1961||
-556/A|0825|Deutschland / Russische Zone|1R|g3|1946|1957||
-" |0831|Deutschland / Russische Zone|1R|g5|1948|1965||
-" |0841|Deutschland / Russische Zone|1R|g7|1946|1964||
-" |0851|Deutschland / Russische Zone|1R|g10|1946|1955||
-" |0861|Deutschland / Russische Zone|1R|g11|1946|1950||
-" |0865|Deutschland / Russische Zone|1R|g12|1946|1961||
-" |0868|Deutschland / Russische Zone|1R|g13|1946|1964||
-" |0883|Deutschland / Russische Zone|1R|g14|1947|1950||
-" |0886|Deutschland / Russische Zone|1R|g20|1946|1966||
-" |0904|Deutschland / Russische Zone|1R|g21|1950|1955||
-" |0908|Deutschland / Russische Zone|1R|g23|1945|1966||
-" |0976|Deutschland / Russische Zone|1R|g24|1957|1962||
-" |0981|Deutschland / Russische Zone|1R|g30|1946|1966||
-" |1021|Deutschland / Russische Zone|1R|g31|1946|1962||
-" |1035|Deutschland / Russische Zone|1R|g32|1946|1962||
-" |1046|Deutschland / Russische Zone|1R|g33|1952|1964||
-" |1050|Deutschland / Russische Zone|1R|g36|||1945-66|
-" |1052|Deutschland / Russische Zone|1R|g39|1946|1945||
-" |1078|Deutschland / Russische Zone|1R|g40|1950|1957||
-" |1084|Deutschland / Russische Zone|1R|g41|1948|1961||
-" |1088|Deutschland / Russische Zone|1R|g43|1945|1952||
-" |1140|Deutschland / Russische Zone|1R|g44|1945|1966||
-" |1189|Deutschland / Russische Zone|1R|g45|1948|1960||
-" |1192|Deutschland / Russische Zone|1R|g46|1950|1960||
-" |1197|Deutschland / Russische Zone|1R|g47|1946|1961||
-" |1212|Deutschland / Russische Zone|1R|g48|||1945-66|
-" |1213|Deutschland / Russische Zone|1R|g49|||1945-66|
-" |1214|Deutschland / Russische Zone|1R|g50|1955|1962||
-" |1221|Deutschland / Russische Zone|1R|g60|||1945-66|
-" |1222|Deutschland / Russische Zone|1R|g62|1946|1965||
-" |1233|Deutschland / Russische Zone|1R|vs-|1945|1966||
+[9556](k2/sh/9556)|[0061](k2/sh/9556/0061)|Deutschland / Russische Zone|1R|v11|1945|1966||
+" |[0135](k2/sh/9556/0135)|Deutschland / Russische Zone|1R|v12|1949|1966||
+" |[0138](k2/sh/9556/0138)|Deutschland / Russische Zone|1R|v13|1950|1966||
+" |[0172](k2/sh/9556/0172)|Deutschland / Russische Zone|1R|v15|1946|1966||
+" |[0208](k2/sh/9556/0208)|Deutschland / Russische Zone|1R|v15M2|1946|1966||
+" |[0255](k2/sh/9556/0255)|Deutschland / Russische Zone|1R|v16|1948|1966||
+" |[0323](k2/sh/9556/0323)|Deutschland / Russische Zone|1R|v18|1945|1966||
+" |[0324](k2/sh/9556/0324)|Deutschland / Russische Zone|1R|v20|1946|1966||
+" |[0371](k2/sh/9556/0371)|Deutschland / Russische Zone|1R|v21|1946|1966||
+" |[0401](k2/sh/9556/0401)|Deutschland / Russische Zone|1R|v22|1948|1960||
+" |[0428](k2/sh/9556/0428)|Deutschland / Russische Zone|1R|v23|1948|1966||
+" |[0463](k2/sh/9556/0463)|Deutschland / Russische Zone|1R|v24|1946|1966||
+" |[0506](k2/sh/9556/0506)|Deutschland / Russische Zone|1R|vs25|1950|1966||
+" |[0522](k2/sh/9556/0522)|Deutschland / Russische Zone|1R|v26M1|1946|1966|1945-66|
+" |[0523](k2/sh/9556/0523)|Deutschland / Russische Zone|1R|v30|1945|1966||
+" |[0611](k2/sh/9556/0611)|Deutschland / Russische Zone|1R|v40|1946|1964||
+" |[0640](k2/sh/9556/0640)|Deutschland / Russische Zone|1R|v50|1945|1966||
+" |[0709](k2/sh/9556/0709)|Deutschland / Russische Zone|1R|g-|1946|1961||
+" |[0713](k2/sh/9556/0713)|Deutschland / Russische Zone|1R|g1|1946|1966||
+[9555](k2/sh/9555)|[0801](k2/sh/9555/0801)|Deutschland / Russische Zone|1R|g2|1946|1961||
+[9556](k2/sh/9556)|[0825](k2/sh/9556/0825)|Deutschland / Russische Zone|1R|g3|1946|1957||
+" |[0831](k2/sh/9556/0831)|Deutschland / Russische Zone|1R|g5|1948|1965||
+" |[0841](k2/sh/9556/0841)|Deutschland / Russische Zone|1R|g7|1946|1964||
+" |[0851](k2/sh/9556/0851)|Deutschland / Russische Zone|1R|g10|1946|1955||
+" |[0861](k2/sh/9556/0861)|Deutschland / Russische Zone|1R|g11|1946|1950||
+" |[0865](k2/sh/9556/0865)|Deutschland / Russische Zone|1R|g12|1946|1961||
+" |[0868](k2/sh/9556/0868)|Deutschland / Russische Zone|1R|g13|1946|1964||
+" |[0883](k2/sh/9556/0883)|Deutschland / Russische Zone|1R|g14|1947|1950||
+" |[0886](k2/sh/9556/0886)|Deutschland / Russische Zone|1R|g20|1946|1966||
+" |[0904](k2/sh/9556/0904)|Deutschland / Russische Zone|1R|g21|1950|1955||
+" |[0908](k2/sh/9556/0908)|Deutschland / Russische Zone|1R|g23|1945|1966||
+" |[0976](k2/sh/9556/0976)|Deutschland / Russische Zone|1R|g24|1957|1962||
+" |[0981](k2/sh/9556/0981)|Deutschland / Russische Zone|1R|g30|1946|1966||
+" |[1021](k2/sh/9556/1021)|Deutschland / Russische Zone|1R|g31|1946|1962||
+" |[1035](k2/sh/9556/1035)|Deutschland / Russische Zone|1R|g32|1946|1962||
+" |[1046](k2/sh/9556/1046)|Deutschland / Russische Zone|1R|g33|1952|1964||
+" |[1050](k2/sh/9556/1050)|Deutschland / Russische Zone|1R|g36|||1945-66|
+" |[1052](k2/sh/9556/1052)|Deutschland / Russische Zone|1R|g39|1946|1945||
+" |[1078](k2/sh/9556/1078)|Deutschland / Russische Zone|1R|g40|1950|1957||
+" |[1084](k2/sh/9556/1084)|Deutschland / Russische Zone|1R|g41|1948|1961||
+" |[1088](k2/sh/9556/1088)|Deutschland / Russische Zone|1R|g43|1945|1952||
+" |[1140](k2/sh/9556/1140)|Deutschland / Russische Zone|1R|g44|1945|1966||
+" |[1189](k2/sh/9556/1189)|Deutschland / Russische Zone|1R|g45|1948|1960||
+" |[1192](k2/sh/9556/1192)|Deutschland / Russische Zone|1R|g46|1950|1960||
+" |[1197](k2/sh/9556/1197)|Deutschland / Russische Zone|1R|g47|1946|1961||
+" |[1212](k2/sh/9556/1212)|Deutschland / Russische Zone|1R|g48|||1945-66|
+" |[1213](k2/sh/9556/1213)|Deutschland / Russische Zone|1R|g49|||1945-66|
+" |[1214](k2/sh/9556/1214)|Deutschland / Russische Zone|1R|g50|1955|1962||
+" |[1221](k2/sh/9556/1221)|Deutschland / Russische Zone|1R|g60|||1945-66|
+" |[1222](k2/sh/9556/1222)|Deutschland / Russische Zone|1R|g62|1946|1965||
+" |[1233](k2/sh/9556/1233)|Deutschland / Russische Zone|1R|vs-|1945|1966||
 " |1279|Deutschland / Russische Zone|1R|vs1|1946|||
 " |1281|Deutschland / Russische Zone|1R|vs2|1946|1957||
-557/A|0061|Deutschland / Russische Zone|1R|vs10|1945|1966||
-" |0150|Deutschland / Russische Zone|1R|vs11|1947|1966||
-" |0166|Deutschland / Russische Zone|1R|vs12|1947|1961||
-" |0181|Deutschland / Russische Zone|1R|vs13|1946|1965||
-" |0213|Deutschland / Russische Zone|1R|vs14|1955|1949||
-" |0215|Deutschland / Russische Zone|1R|vs15|1947|||
-" |0217|Deutschland / Russische Zone|1R|vs20|1951|1962||
-" |0220|Deutschland / Russische Zone|1R|vs21|1946|1961||
-" |0236|Deutschland / Russische Zone|1R|vs22|1945|1960||
-" |0245|Deutschland / Russische Zone|1R|vs23|1946|1963||
-" |0255|Deutschland / Russische Zone|1R|vs24|1954|||
-" |0257|Deutschland / Russische Zone|1R|vs25|1946|1964||
-" |0264|Deutschland / Russische Zone|1R|vs28|1959|||
-" |0266|Deutschland / Russische Zone|1R|vs29|1958|1960||
-" |0270|Deutschland / Russische Zone|1R|vs30|1960|||
-" |0272|Deutschland / Russische Zone|1R|vs31|1945|1966||
-" |0273|Deutschland / Russische Zone|1R|h-|1945|1966||
-" |0444|Deutschland / Russische Zone|1R|h3|1946|1966||
-557A|0482|Deutschland / Russische Zone|1R|h7|1945|1966||
-557/A|0529|Deutschland / Russische Zone|1R|h8|1945|1966||
-" |1089|Deutschland / Russische Zone|1R|h9|||1945-66|
-" |1090|Deutschland / Russische Zone|1R|h11|1946|1966||
-" |1177|Deutschland / Russische Zone|1R|h12|1952|1966||
-555/A|1185|Deutschland / Russische Zone|1R|h12|1950|1952||
-557/A|1188|Deutschland / Russische Zone|1R|h20|||1945-66|
-" |1189|Deutschland / Russische Zone|1R|ah-|1945|1956||
-558/A|0061|Deutschland / Russische Zone|1R|ah-|1957|1966||
-" |0326|Deutschland / Russische Zone|1R|ah7|1946|1966||
-" |0409|Deutschland / Russische Zone|1R|ah8|1947|1966||
-" |0444|Deutschland / Russische Zone|1R|ah11|||1945-66|
-" |0527|Deutschland / Russische Zone|1R|ah12|1945|1966||
-" |0539|Deutschland / Russische Zone|1R|ah13|1952|1966||
-" |0548|Deutschland / Russische Zone|1R|ah20|1947|1966||
-" |0646|Deutschland / Russische Zone|1R|ah22|1946|1966||
-" |0791|Deutschland / Russische Zone|1R|ah23M1|1957|1966||
-" |0816|Deutschland / Russische Zone|1R|ah24M1|||1945-66|
-" |0817|Deutschland / Russische Zone|1R|ah25|1951|1954||
-" |0826|Deutschland / Russische Zone|1R|ah26|1947|1953||
-" |0829|Deutschland / Russische Zone|1R|x-|||1945-66|
-" |1120|Deutschland / Russische Zone|1R|x1|1946|1966||
-588/A|1153|Deutschland / Russische Zone|1R|x2|1945|1953||
-559/A|0061|Deutschland / Russische Zone|1R|x2|1954|1966||
-" |0359|Deutschland / Russische Zone|1R|x3M1|1945|1966||
-" |0559|Deutschland / Russische Zone|1R|x6|||1945-66|
-" |0405|Deutschland / Russische Zone|1R|x4|1945|1966||
-" |0551|Deutschland / Russische Zone|1R|x5|1947|1966||
-" |0560|Deutschland / Russische Zone|1R|x10|1945|1966||
-" |0645|Deutschland / Russische Zone|1R|x20|1945|1966||
-" |0740|Deutschland / Russische Zone|1R|x21|1948|1966||
-" |0756|Deutschland / Russische Zone|1R|x22|1945|1966||
-" |0900|Deutschland / Russische Zone|1R|x23|1947|1966||
-" |0904|Deutschland / Russische Zone|1R|x24|1946|1958||
-" |0919|Deutschland / Russische Zone|1R|x28|1945|1966||
-" |0943|Deutschland / Russische Zone|1R|x30|1946|1966||
-" |0994|Deutschland / Russische Zone|1R|x35|1945|1966||
-" |1030|Deutschland / Russische Zone|1R|x40|1949|1965||
-" |1041|Deutschland / Russische Zone|1R|x41|1946|1966||
-" |1111|Deutschland / Russische Zone|1R|x43|1946|1966||
-559/a|1119|Deutschland / Russische Zone|1R|x45|1948|1965||
-559/A|1125|Deutschland / Russische Zone|1R|x46|1946|1966||
-" |1159|Deutschland / Russische Zone|1R|x60|1947|1956||
-" |1162|Deutschland / Russische Zone|1R|x65|1946|1966||
-" |1190|Deutschland / Russische Zone|1R|x70|1946|1966||
-" |1210|Deutschland / Russische Zone|1R|x71|1947|1962||
-" |1220|Deutschland / Russische Zone|1R|x72|1946|1966||
+[9557](k2/sh/9557)|[0061](k2/sh/9557/0061)|Deutschland / Russische Zone|1R|vs10|1945|1966||
+" |[0150](k2/sh/9557/0150)|Deutschland / Russische Zone|1R|vs11|1947|1966||
+" |[0166](k2/sh/9557/0166)|Deutschland / Russische Zone|1R|vs12|1947|1961||
+" |[0181](k2/sh/9557/0181)|Deutschland / Russische Zone|1R|vs13|1946|1965||
+" |[0213](k2/sh/9557/0213)|Deutschland / Russische Zone|1R|vs14|1955|1949||
+" |[0215](k2/sh/9557/0215)|Deutschland / Russische Zone|1R|vs15|1947|||
+" |[0217](k2/sh/9557/0217)|Deutschland / Russische Zone|1R|vs20|1951|1962||
+" |[0220](k2/sh/9557/0220)|Deutschland / Russische Zone|1R|vs21|1946|1961||
+" |[0236](k2/sh/9557/0236)|Deutschland / Russische Zone|1R|vs22|1945|1960||
+" |[0245](k2/sh/9557/0245)|Deutschland / Russische Zone|1R|vs23|1946|1963||
+" |[0255](k2/sh/9557/0255)|Deutschland / Russische Zone|1R|vs24|1954|||
+" |[0257](k2/sh/9557/0257)|Deutschland / Russische Zone|1R|vs25|1946|1964||
+" |[0264](k2/sh/9557/0264)|Deutschland / Russische Zone|1R|vs28|1959|||
+" |[0266](k2/sh/9557/0266)|Deutschland / Russische Zone|1R|vs29|1958|1960||
+" |[0270](k2/sh/9557/0270)|Deutschland / Russische Zone|1R|vs30|1960|||
+" |[0272](k2/sh/9557/0272)|Deutschland / Russische Zone|1R|vs31|1945|1966||
+" |[0273](k2/sh/9557/0273)|Deutschland / Russische Zone|1R|h-|1945|1966||
+" |[0444](k2/sh/9557/0444)|Deutschland / Russische Zone|1R|h3|1946|1966||
+" |[0482](k2/sh/9557/0482)|Deutschland / Russische Zone|1R|h7|1945|1966||
+" |[0529](k2/sh/9557/0529)|Deutschland / Russische Zone|1R|h8|1945|1966||
+" |[1089](k2/sh/9557/1089)|Deutschland / Russische Zone|1R|h9|||1945-66|
+" |[1090](k2/sh/9557/1090)|Deutschland / Russische Zone|1R|h11|1946|1966||
+" |[1177](k2/sh/9557/1177)|Deutschland / Russische Zone|1R|h12|1952|1966||
+[9555](k2/sh/9555)|[1185](k2/sh/9555/1185)|Deutschland / Russische Zone|1R|h12|1950|1952||
+[9557](k2/sh/9557)|[1188](k2/sh/9557/1188)|Deutschland / Russische Zone|1R|h20|||1945-66|
+" |[1189](k2/sh/9557/1189)|Deutschland / Russische Zone|1R|ah-|1945|1956||
+[9558](k2/sh/9558)|[0061](k2/sh/9558/0061)|Deutschland / Russische Zone|1R|ah-|1957|1966||
+" |[0326](k2/sh/9558/0326)|Deutschland / Russische Zone|1R|ah7|1946|1966||
+" |[0409](k2/sh/9558/0409)|Deutschland / Russische Zone|1R|ah8|1947|1966||
+" |[0444](k2/sh/9558/0444)|Deutschland / Russische Zone|1R|ah11|||1945-66|
+" |[0527](k2/sh/9558/0527)|Deutschland / Russische Zone|1R|ah12|1945|1966||
+" |[0539](k2/sh/9558/0539)|Deutschland / Russische Zone|1R|ah13|1952|1966||
+" |[0548](k2/sh/9558/0548)|Deutschland / Russische Zone|1R|ah20|1947|1966||
+" |[0646](k2/sh/9558/0646)|Deutschland / Russische Zone|1R|ah22|1946|1966||
+" |[0791](k2/sh/9558/0791)|Deutschland / Russische Zone|1R|ah23M1|1957|1966||
+" |[0816](k2/sh/9558/0816)|Deutschland / Russische Zone|1R|ah24M1|||1945-66|
+" |[0817](k2/sh/9558/0817)|Deutschland / Russische Zone|1R|ah25|1951|1954||
+" |[0826](k2/sh/9558/0826)|Deutschland / Russische Zone|1R|ah26|1947|1953||
+" |[0829](k2/sh/9558/0829)|Deutschland / Russische Zone|1R|x-|||1945-66|
+" |[1120](k2/sh/9558/1120)|Deutschland / Russische Zone|1R|x1|1946|1966||
+[9559](k2/sh/9559)|[0061](k2/sh/9559/0061)|Deutschland / Russische Zone|1R|x2|1954|1966||
+" |[0359](k2/sh/9559/0359)|Deutschland / Russische Zone|1R|x3M1|1945|1966||
+" |[0559](k2/sh/9559/0559)|Deutschland / Russische Zone|1R|x6|||1945-66|
+" |[0405](k2/sh/9559/0405)|Deutschland / Russische Zone|1R|x4|1945|1966||
+" |[0551](k2/sh/9559/0551)|Deutschland / Russische Zone|1R|x5|1947|1966||
+" |[0560](k2/sh/9559/0560)|Deutschland / Russische Zone|1R|x10|1945|1966||
+" |[0645](k2/sh/9559/0645)|Deutschland / Russische Zone|1R|x20|1945|1966||
+" |[0740](k2/sh/9559/0740)|Deutschland / Russische Zone|1R|x21|1948|1966||
+" |[0756](k2/sh/9559/0756)|Deutschland / Russische Zone|1R|x22|1945|1966||
+" |[0900](k2/sh/9559/0900)|Deutschland / Russische Zone|1R|x23|1947|1966||
+" |[0904](k2/sh/9559/0904)|Deutschland / Russische Zone|1R|x24|1946|1958||
+" |[0919](k2/sh/9559/0919)|Deutschland / Russische Zone|1R|x28|1945|1966||
+" |[0943](k2/sh/9559/0943)|Deutschland / Russische Zone|1R|x30|1946|1966||
+" |[0994](k2/sh/9559/0994)|Deutschland / Russische Zone|1R|x35|1945|1966||
+" |[1030](k2/sh/9559/1030)|Deutschland / Russische Zone|1R|x40|1949|1965||
+" |[1041](k2/sh/9559/1041)|Deutschland / Russische Zone|1R|x41|1946|1966||
+" |[1111](k2/sh/9559/1111)|Deutschland / Russische Zone|1R|x43|1946|1966||
+" |[1119](k2/sh/9559/1119)|Deutschland / Russische Zone|1R|x45|1948|1965||
+" |[1125](k2/sh/9559/1125)|Deutschland / Russische Zone|1R|x46|1946|1966||
+" |[1159](k2/sh/9559/1159)|Deutschland / Russische Zone|1R|x60|1947|1956||
+" |[1162](k2/sh/9559/1162)|Deutschland / Russische Zone|1R|x65|1946|1966||
+" |[1190](k2/sh/9559/1190)|Deutschland / Russische Zone|1R|x70|1946|1966||
+" |[1210](k2/sh/9559/1210)|Deutschland / Russische Zone|1R|x71|1947|1962||
+" |[1220](k2/sh/9559/1220)|Deutschland / Russische Zone|1R|x72|1946|1966||
 " |1243|Deutschland / Russische Zone|1R|x75|1946|1963||
 " |1255|Deutschland / Russische Zone|1R|x78|1945|1950||
-560/A|0061|Deutschland / Russische Zone|1R|x79||||
-" |0747|Deutschland / Russische Zone|1R|x80|1945|1960||
-" |0531|Deutschland / Russische Zone|1R|x81|1946|1966||
-" |0766|Deutschland / Russische Zone|1R|x82|1945|1961||
-" |0781|Deutschland / Russische Zone|1R|x83|1946|1966||
-" |0803|Deutschland / Russische Zone|1R|x84|1946|1966||
-" |0823|Deutschland / Russische Zone|1R|x90|1945|1966||
-" |0871|Deutschland / Russische Zone|1R|x100|1946|1966||
-" |0990|Deutschland / Russische Zone|1R|x101|||1945-66|
-" |0991|Deutschland / Russische Zone|1R|x102|1946|1957||
-" |0999|Deutschland / Russische Zone|1R|x103|1946|1966||
-" |1007|Deutschland / Russische Zone|1R|x104|||1945-66|
-" |1008|Deutschland / Russische Zone|1R|x105|1946|1947||
-" |1011|Deutschland / Russische Zone|1R|x106|1961|||
-" |1013|Deutschland / Russische Zone|1R|x110|||1945-66|
-" |1104|Deutschland / Russische Zone|1R|x111|1948|1966||
-" |1126|Deutschland / Russische Zone|1R|x112|1946|1966||
-" |1195|Deutschland / Russische Zone|1R|x113|1946|1966||
+[9560](k2/sh/9560)|[0061](k2/sh/9560/0061)|Deutschland / Russische Zone|1R|x79||||
+" |[0747](k2/sh/9560/0747)|Deutschland / Russische Zone|1R|x80|1945|1960||
+" |[0531](k2/sh/9560/0531)|Deutschland / Russische Zone|1R|x81|1946|1966||
+" |[0766](k2/sh/9560/0766)|Deutschland / Russische Zone|1R|x82|1945|1961||
+" |[0781](k2/sh/9560/0781)|Deutschland / Russische Zone|1R|x83|1946|1966||
+" |[0803](k2/sh/9560/0803)|Deutschland / Russische Zone|1R|x84|1946|1966||
+" |[0823](k2/sh/9560/0823)|Deutschland / Russische Zone|1R|x90|1945|1966||
+" |[0871](k2/sh/9560/0871)|Deutschland / Russische Zone|1R|x100|1946|1966||
+" |[0990](k2/sh/9560/0990)|Deutschland / Russische Zone|1R|x101|||1945-66|
+" |[0991](k2/sh/9560/0991)|Deutschland / Russische Zone|1R|x102|1946|1957||
+" |[0999](k2/sh/9560/0999)|Deutschland / Russische Zone|1R|x103|1946|1966||
+" |[1007](k2/sh/9560/1007)|Deutschland / Russische Zone|1R|x104|||1945-66|
+" |[1008](k2/sh/9560/1008)|Deutschland / Russische Zone|1R|x105|1946|1947||
+" |[1011](k2/sh/9560/1011)|Deutschland / Russische Zone|1R|x106|1961|||
+" |[1013](k2/sh/9560/1013)|Deutschland / Russische Zone|1R|x110|||1945-66|
+" |[1104](k2/sh/9560/1104)|Deutschland / Russische Zone|1R|x111|1948|1966||
+" |[1126](k2/sh/9560/1126)|Deutschland / Russische Zone|1R|x112|1946|1966||
+" |[1195](k2/sh/9560/1195)|Deutschland / Russische Zone|1R|x113|1946|1966||
 " |1242|Deutschland / Russische Zone|1R|x115|1951|1965||
 " |1252|Deutschland / Russische Zone|1R|x116|1948|1966||
 " |1266|Deutschland / Russische Zone|1R|x117|1949|1966||
 " |1278|Deutschland / Russische Zone|1R|x118|1947|1966||
-561/A|0061|Deutschland / Russische Zone|1R|x119|1946|1959||
-" |0078|Deutschland / Russische Zone|1R|x120|1949|1966||
-" |0083|Deutschland / Russische Zone|1R|x121|1955|1965||
-" |0089|Deutschland / Russische Zone|1R|x125|1947|1968||
-" |0109|Deutschland / Russische Zone|1R|x130|1946|1962||
-" |0129|Deutschland / Russische Zone|1R|x131|||1945-66|
-" |0130|Deutschland / Russische Zone|1R|x132|1960|1966||
-561/a|0134|Deutschland / Russische Zone|1R|x133|1956|||
-561/A|0137|Deutschland / Russische Zone|1R|x134|1955|1959||
-" |0142|Deutschland / Russische Zone|1R|x135|1956|1961||
-" |0150|Deutschland / Russische Zone|1R|x136|1946|1966||
-" |0162|Deutschland / Russische Zone|1R|x137|1956|||
-" |0164|Deutschland / Russische Zone|1R|x140|||1945-66|
-" |0165|Deutschland / Russische Zone|1R|x141|1947|1961||
-" |0202|Deutschland / Russische Zone|1R|x145|1946|1965||
-561/a|0220|Deutschland / Russische Zone|1R|x150|1946|1966||
-561/A|0423|Deutschland / Russische Zone|1R|x151|1954|1966||
-" |0439|Deutschland / Russische Zone|1R|x152|1946|1966||
-" |0563|Deutschland / Russische Zone|1R|x153|1946|1966||
-" |0733|Deutschland / Russische Zone|1R|x154|1947|1966||
-" |0788|Deutschland / Russische Zone|1R|x155|1946|1966||
-" |0810|Deutschland / Russische Zone|1R|x156|1945|1966||
-" |0872|Deutschland / Russische Zone|1R|x157|1948|1966||
-" |0881|Deutschland / Russische Zone|1R|x165|1948|1966||
-" |0939|Deutschland / Russische Zone|1R|x170|1947|1966||
-" |0961|Deutschland / Russische Zone|1R|x171|1945|1966||
-" |0978|Deutschland / Russische Zone|1R|x172|1946|1965||
-" |0994|Deutschland / Russische Zone|1R|x173|1947|1966||
-" |1014|Deutschland / Russische Zone|1R|x175|1947|1962||
-" |1028|Deutschland / Russische Zone|1R|x176|1950|1960||
-" |1030|Deutschland / Russische Zone|1R|x177|1945|1966||
-561/a|1120|Deutschland / Russische Zone|1R|x178|1946|1966||
-561/A|1145|Deutschland / Russische Zone|1R|x179|1946|1966||
-" |1187|Deutschland / Russische Zone|1R|x180|1945|1966||
-562/A|0061|Deutschland / Russische Zone|1R|x84 M1|1960|1962||
-" |0065|Deutschland / Russische Zone|1R|x185|1945|1966||
-" |0126|Deutschland / Russische Zone|1R|x188|1945|1966||
-" |0172|Deutschland / Russische Zone|1R|x190|1947|1966||
-" |0184|Deutschland / Russische Zone|1R|x192|1946|1966||
-" |0210|Deutschland / Russische Zone|1R|x200|1946|1966||
-562A|0424|Deutschland / Russische Zone|1R|x202|1958|||
-562/A|0426|Deutschland / Russische Zone|1R|x210|1945|1966||
-" |0487|Deutschland / Russische Zone|1R|x211|1947|1965||
-" |0499|Deutschland / Russische Zone|1R|x212|1946|1964||
-562A|0510|Deutschland / Russische Zone|1R|x231|1946|1966||
-562/A|0575|Deutschland / Russische Zone|1R|x232|1947|1958||
-562A|0579|Deutschland / Russische Zone|1R|x235|1945|1955||
-562/A|0584|Deutschland / Russische Zone|1R|x240|1946|1966||
-" |0601|Deutschland / Russische Zone|1R|x250|1946|1966||
-" |0659|Deutschland / Russische Zone|1R|x275|1946|1966||
-" |0695|Deutschland / Russische Zone|1R|x279|1947|1966||
-" |0751|Deutschland / Russische Zone|1R|x280|1945|1966||
-" |0774|Deutschland / Russische Zone|1R|x281|1949|1966||
-" |0880|Deutschland / Russische Zone|1R|x282|1945|1966||
-" |0933|Deutschland / Russische Zone|1R|x284|1949|1966||
-" |0972|Deutschland / Russische Zone|1R|x285|1945|1966||
-" |0990|Deutschland / Russische Zone|1R|x300|1945|1950||
-563/A|0061|Deutschland / Russische Zone|1R|x300|1951|1966||
-" |0650|Deutschland / Russische Zone|1R|x305|1949|1966||
-" |1058|Deutschland / Russische Zone|1R|x310|1945|1966||
-" |1094|Deutschland / Russische Zone|1R|x311|1948|1966||
-" |1101|Deutschland / Russische Zone|1R|x312|1945|1966||
-" |1102|Deutschland / Russische Zone|1R|x313|1945|1966||
-" |1103|Deutschland / Russische Zone|1R|x314|1954|1959||
-" |1107|Deutschland / Russische Zone|1R|x315|1955|1965||
-" |1128|Deutschland / Russische Zone|1R|x316|1960|1963||
-" |1131|Deutschland / Russische Zone|1R|x325|1945|1966||
-" |1132|Deutschland / Russische Zone|1R|x327|1950|1962||
-" |1178|Deutschland / Russische Zone|1R|x330|1947|1960||
-" |1195|Deutschland / Russische Zone|1R|x331|1945|1966||
-" |1210|Deutschland / Russische Zone|1R|x340|1945|1966||
+[9561](k2/sh/9561)|[0061](k2/sh/9561/0061)|Deutschland / Russische Zone|1R|x119|1946|1959||
+" |[0078](k2/sh/9561/0078)|Deutschland / Russische Zone|1R|x120|1949|1966||
+" |[0083](k2/sh/9561/0083)|Deutschland / Russische Zone|1R|x121|1955|1965||
+" |[0089](k2/sh/9561/0089)|Deutschland / Russische Zone|1R|x125|1947|1968||
+" |[0109](k2/sh/9561/0109)|Deutschland / Russische Zone|1R|x130|1946|1962||
+" |[0129](k2/sh/9561/0129)|Deutschland / Russische Zone|1R|x131|||1945-66|
+" |[0130](k2/sh/9561/0130)|Deutschland / Russische Zone|1R|x132|1960|1966||
+" |[0134](k2/sh/9561/0134)|Deutschland / Russische Zone|1R|x133|1956|||
+" |[0137](k2/sh/9561/0137)|Deutschland / Russische Zone|1R|x134|1955|1959||
+" |[0142](k2/sh/9561/0142)|Deutschland / Russische Zone|1R|x135|1956|1961||
+" |[0150](k2/sh/9561/0150)|Deutschland / Russische Zone|1R|x136|1946|1966||
+" |[0162](k2/sh/9561/0162)|Deutschland / Russische Zone|1R|x137|1956|||
+" |[0164](k2/sh/9561/0164)|Deutschland / Russische Zone|1R|x140|||1945-66|
+" |[0165](k2/sh/9561/0165)|Deutschland / Russische Zone|1R|x141|1947|1961||
+" |[0202](k2/sh/9561/0202)|Deutschland / Russische Zone|1R|x145|1946|1965||
+" |[0220](k2/sh/9561/0220)|Deutschland / Russische Zone|1R|x150|1946|1966||
+" |[0423](k2/sh/9561/0423)|Deutschland / Russische Zone|1R|x151|1954|1966||
+" |[0439](k2/sh/9561/0439)|Deutschland / Russische Zone|1R|x152|1946|1966||
+" |[0563](k2/sh/9561/0563)|Deutschland / Russische Zone|1R|x153|1946|1966||
+" |[0733](k2/sh/9561/0733)|Deutschland / Russische Zone|1R|x154|1947|1966||
+" |[0788](k2/sh/9561/0788)|Deutschland / Russische Zone|1R|x155|1946|1966||
+" |[0810](k2/sh/9561/0810)|Deutschland / Russische Zone|1R|x156|1945|1966||
+" |[0872](k2/sh/9561/0872)|Deutschland / Russische Zone|1R|x157|1948|1966||
+" |[0881](k2/sh/9561/0881)|Deutschland / Russische Zone|1R|x165|1948|1966||
+" |[0939](k2/sh/9561/0939)|Deutschland / Russische Zone|1R|x170|1947|1966||
+" |[0961](k2/sh/9561/0961)|Deutschland / Russische Zone|1R|x171|1945|1966||
+" |[0978](k2/sh/9561/0978)|Deutschland / Russische Zone|1R|x172|1946|1965||
+" |[0994](k2/sh/9561/0994)|Deutschland / Russische Zone|1R|x173|1947|1966||
+" |[1014](k2/sh/9561/1014)|Deutschland / Russische Zone|1R|x175|1947|1962||
+" |[1028](k2/sh/9561/1028)|Deutschland / Russische Zone|1R|x176|1950|1960||
+" |[1030](k2/sh/9561/1030)|Deutschland / Russische Zone|1R|x177|1945|1966||
+" |[1120](k2/sh/9561/1120)|Deutschland / Russische Zone|1R|x178|1946|1966||
+" |[1145](k2/sh/9561/1145)|Deutschland / Russische Zone|1R|x179|1946|1966||
+" |[1187](k2/sh/9561/1187)|Deutschland / Russische Zone|1R|x180|1945|1966||
+[9562](k2/sh/9562)|[0061](k2/sh/9562/0061)|Deutschland / Russische Zone|1R|x84 M1|1960|1962||
+" |[0065](k2/sh/9562/0065)|Deutschland / Russische Zone|1R|x185|1945|1966||
+" |[0126](k2/sh/9562/0126)|Deutschland / Russische Zone|1R|x188|1945|1966||
+" |[0172](k2/sh/9562/0172)|Deutschland / Russische Zone|1R|x190|1947|1966||
+" |[0184](k2/sh/9562/0184)|Deutschland / Russische Zone|1R|x192|1946|1966||
+" |[0210](k2/sh/9562/0210)|Deutschland / Russische Zone|1R|x200|1946|1966||
+" |[0424](k2/sh/9562/0424)|Deutschland / Russische Zone|1R|x202|1958|||
+" |[0426](k2/sh/9562/0426)|Deutschland / Russische Zone|1R|x210|1945|1966||
+" |[0487](k2/sh/9562/0487)|Deutschland / Russische Zone|1R|x211|1947|1965||
+" |[0499](k2/sh/9562/0499)|Deutschland / Russische Zone|1R|x212|1946|1964||
+" |[0510](k2/sh/9562/0510)|Deutschland / Russische Zone|1R|x231|1946|1966||
+" |[0575](k2/sh/9562/0575)|Deutschland / Russische Zone|1R|x232|1947|1958||
+" |[0579](k2/sh/9562/0579)|Deutschland / Russische Zone|1R|x235|1945|1955||
+" |[0584](k2/sh/9562/0584)|Deutschland / Russische Zone|1R|x240|1946|1966||
+" |[0601](k2/sh/9562/0601)|Deutschland / Russische Zone|1R|x250|1946|1966||
+" |[0659](k2/sh/9562/0659)|Deutschland / Russische Zone|1R|x275|1946|1966||
+" |[0695](k2/sh/9562/0695)|Deutschland / Russische Zone|1R|x279|1947|1966||
+" |[0751](k2/sh/9562/0751)|Deutschland / Russische Zone|1R|x280|1945|1966||
+" |[0774](k2/sh/9562/0774)|Deutschland / Russische Zone|1R|x281|1949|1966||
+" |[0880](k2/sh/9562/0880)|Deutschland / Russische Zone|1R|x282|1945|1966||
+" |[0933](k2/sh/9562/0933)|Deutschland / Russische Zone|1R|x284|1949|1966||
+" |[0972](k2/sh/9562/0972)|Deutschland / Russische Zone|1R|x285|1945|1966||
+" |[0990](k2/sh/9562/0990)|Deutschland / Russische Zone|1R|x300|1945|1950||
+[9563](k2/sh/9563)|[0061](k2/sh/9563/0061)|Deutschland / Russische Zone|1R|x300|1951|1966||
+" |[0650](k2/sh/9563/0650)|Deutschland / Russische Zone|1R|x305|1949|1966||
+" |[1058](k2/sh/9563/1058)|Deutschland / Russische Zone|1R|x310|1945|1966||
+" |[1094](k2/sh/9563/1094)|Deutschland / Russische Zone|1R|x311|1948|1966||
+" |[1101](k2/sh/9563/1101)|Deutschland / Russische Zone|1R|x312|1945|1966||
+" |[1102](k2/sh/9563/1102)|Deutschland / Russische Zone|1R|x313|1945|1966||
+" |[1103](k2/sh/9563/1103)|Deutschland / Russische Zone|1R|x314|1954|1959||
+" |[1107](k2/sh/9563/1107)|Deutschland / Russische Zone|1R|x315|1955|1965||
+" |[1128](k2/sh/9563/1128)|Deutschland / Russische Zone|1R|x316|1960|1963||
+" |[1131](k2/sh/9563/1131)|Deutschland / Russische Zone|1R|x325|1945|1966||
+" |[1132](k2/sh/9563/1132)|Deutschland / Russische Zone|1R|x327|1950|1962||
+" |[1178](k2/sh/9563/1178)|Deutschland / Russische Zone|1R|x330|1947|1960||
+" |[1195](k2/sh/9563/1195)|Deutschland / Russische Zone|1R|x331|1945|1966||
+" |[1210](k2/sh/9563/1210)|Deutschland / Russische Zone|1R|x340|1945|1966||
 " |1262|Deutschland / Russische Zone|1R|x341|1946|1962||
 " |1268|Deutschland / Russische Zone|1R|x350|1945|1966||
-564/A|0061|Deutschland / Russische Zone|1R|x358|1945|1966||
-" |0068|Deutschland / Russische Zone|1R|x361|1949|1966||
-" |0080|Deutschland / Russische Zone|1R|x363|1946|1953||
-" |0083|Deutschland / Russische Zone|1R|x364|1949|1958||
-" |0089|Deutschland / Russische Zone|1R|x370|1947|1960||
-" |0093|Deutschland / Russische Zone|1R|x377|1953|1964||
-" |0102|Deutschland / Russische Zone|1R|x378|1945|1966||
-" |0137|Deutschland / Russische Zone|1R|x380|1946|1962||
-" |0195|Deutschland / Russische Zone|1R|x400|1945|1966||
-" |0367|Deutschland / Russische Zone|1R|x410|1945|1966||
-" |0411|Deutschland / Russische Zone|1R|x411|1959|1966||
-" |0465|Deutschland / Russische Zone|1R|x420|1950|1960||
-" |0470|Deutschland / Russische Zone|1R|x428|1947|||
-" |0474|Deutschland / Russische Zone|1R|x430|1951|||
-" |0477|Deutschland / Russische Zone|1R|x431|1945|1960||
-" |0504|Deutschland / Russische Zone|1R|x432|1951|1964||
-" |0511|Deutschland / Russische Zone|1R|x433|1946|1961||
-" |0526|Deutschland / Russische Zone|1R|x435|1951|1965||
-" |0534|Deutschland / Russische Zone|1R|x445|1946|1966||
-564/a|0541|Deutschland / Russische Zone|1R|x450|1945|1966||
-564/A|0600|Deutschland / Russische Zone|1R|x451|1947|1952||
-" |0604|Deutschland / Russische Zone|1R|x452|1946|1966||
-" |0635|Deutschland / Russische Zone|1R|x453|1947|1965||
-" |0638|Deutschland / Russische Zone|1R|x455|1947|1959||
-" |0649|Deutschland / Russische Zone|1R|x460|1946|1966||
-" |0714|Deutschland / Russische Zone|1R|x462|1946|1966||
-" |0741|Deutschland / Russische Zone|1R|x463|1947|1955||
-" |0746|Deutschland / Russische Zone|1R|x465|1946|1963||
-" |0766|Deutschland / Russische Zone|1R|x466|1945|1966||
-" |0838|Deutschland / Russische Zone|1R|x475|1946|1966||
-" |0852|Deutschland / Russische Zone|1R|x500|1946|||
-" |0989|Deutschland / Russische Zone|1R|x502|1946|1963||
-" |0997|Deutschland / Russische Zone|1R|x503|1947|1966||
-" |1029|Deutschland / Russische Zone|1R|x504|1947|1966||
-" |1058|Deutschland / Russische Zone|1R|x505|1945|1965||
-" |1077|Deutschland / Russische Zone|1R|x506|1946|1966||
-" |1092|Deutschland / Russische Zone|1R|x507|1946|1966||
-" |1117|Deutschland / Russische Zone|1R|x508|1958|966||
-" |1119|Deutschland / Russische Zone|1R|x509|1947|1966||
-" |1148|Deutschland / Russische Zone|1R|x510|1946|1966||
-" |1184|Deutschland / Russische Zone|1R|x511|1946|1966||
-" |1205|Deutschland / Russische Zone|1R|x512|1948|1964||
-" |1211|Deutschland / Russische Zone|1R|x515|1963|1966||
-" |1215|Deutschland / Russische Zone|1R|x516|1947|1961||
+[9564](k2/sh/9564)|[0061](k2/sh/9564/0061)|Deutschland / Russische Zone|1R|x358|1945|1966||
+" |[0068](k2/sh/9564/0068)|Deutschland / Russische Zone|1R|x361|1949|1966||
+" |[0080](k2/sh/9564/0080)|Deutschland / Russische Zone|1R|x363|1946|1953||
+" |[0083](k2/sh/9564/0083)|Deutschland / Russische Zone|1R|x364|1949|1958||
+" |[0089](k2/sh/9564/0089)|Deutschland / Russische Zone|1R|x370|1947|1960||
+" |[0093](k2/sh/9564/0093)|Deutschland / Russische Zone|1R|x377|1953|1964||
+" |[0102](k2/sh/9564/0102)|Deutschland / Russische Zone|1R|x378|1945|1966||
+" |[0137](k2/sh/9564/0137)|Deutschland / Russische Zone|1R|x380|1946|1962||
+" |[0195](k2/sh/9564/0195)|Deutschland / Russische Zone|1R|x400|1945|1966||
+" |[0367](k2/sh/9564/0367)|Deutschland / Russische Zone|1R|x410|1945|1966||
+" |[0411](k2/sh/9564/0411)|Deutschland / Russische Zone|1R|x411|1959|1966||
+" |[0465](k2/sh/9564/0465)|Deutschland / Russische Zone|1R|x420|1950|1960||
+" |[0470](k2/sh/9564/0470)|Deutschland / Russische Zone|1R|x428|1947|||
+" |[0474](k2/sh/9564/0474)|Deutschland / Russische Zone|1R|x430|1951|||
+" |[0477](k2/sh/9564/0477)|Deutschland / Russische Zone|1R|x431|1945|1960||
+" |[0504](k2/sh/9564/0504)|Deutschland / Russische Zone|1R|x432|1951|1964||
+" |[0511](k2/sh/9564/0511)|Deutschland / Russische Zone|1R|x433|1946|1961||
+" |[0526](k2/sh/9564/0526)|Deutschland / Russische Zone|1R|x435|1951|1965||
+" |[0534](k2/sh/9564/0534)|Deutschland / Russische Zone|1R|x445|1946|1966||
+564_a|0541|Deutschland / Russische Zone|1R|x450|1945|1966||
+[9564](k2/sh/9564)|[0600](k2/sh/9564/0600)|Deutschland / Russische Zone|1R|x451|1947|1952||
+" |[0604](k2/sh/9564/0604)|Deutschland / Russische Zone|1R|x452|1946|1966||
+" |[0635](k2/sh/9564/0635)|Deutschland / Russische Zone|1R|x453|1947|1965||
+" |[0638](k2/sh/9564/0638)|Deutschland / Russische Zone|1R|x455|1947|1959||
+" |[0649](k2/sh/9564/0649)|Deutschland / Russische Zone|1R|x460|1946|1966||
+" |[0714](k2/sh/9564/0714)|Deutschland / Russische Zone|1R|x462|1946|1966||
+" |[0741](k2/sh/9564/0741)|Deutschland / Russische Zone|1R|x463|1947|1955||
+" |[0746](k2/sh/9564/0746)|Deutschland / Russische Zone|1R|x465|1946|1963||
+" |[0766](k2/sh/9564/0766)|Deutschland / Russische Zone|1R|x466|1945|1966||
+" |[0838](k2/sh/9564/0838)|Deutschland / Russische Zone|1R|x475|1946|1966||
+" |[0852](k2/sh/9564/0852)|Deutschland / Russische Zone|1R|x500|1946|||
+" |[0989](k2/sh/9564/0989)|Deutschland / Russische Zone|1R|x502|1946|1963||
+" |[0997](k2/sh/9564/0997)|Deutschland / Russische Zone|1R|x503|1947|1966||
+" |[1029](k2/sh/9564/1029)|Deutschland / Russische Zone|1R|x504|1947|1966||
+" |[1058](k2/sh/9564/1058)|Deutschland / Russische Zone|1R|x505|1945|1965||
+" |[1077](k2/sh/9564/1077)|Deutschland / Russische Zone|1R|x506|1946|1966||
+" |[1092](k2/sh/9564/1092)|Deutschland / Russische Zone|1R|x507|1946|1966||
+" |[1117](k2/sh/9564/1117)|Deutschland / Russische Zone|1R|x508|1958|966||
+" |[1119](k2/sh/9564/1119)|Deutschland / Russische Zone|1R|x509|1947|1966||
+" |[1148](k2/sh/9564/1148)|Deutschland / Russische Zone|1R|x510|1946|1966||
+" |[1184](k2/sh/9564/1184)|Deutschland / Russische Zone|1R|x511|1946|1966||
+" |[1205](k2/sh/9564/1205)|Deutschland / Russische Zone|1R|x512|1948|1964||
+" |[1211](k2/sh/9564/1211)|Deutschland / Russische Zone|1R|x515|1963|1966||
+" |[1215](k2/sh/9564/1215)|Deutschland / Russische Zone|1R|x516|1947|1961||
 " |1224|Deutschland / Russische Zone|1R|x518|||1946-66|
 " |1225|Deutschland / Russische Zone|1R|x530|1946|1966||
 " |1240|Deutschland / Russische Zone|1R|x531|1946|1966||
 " |1263|Deutschland / Russische Zone|1R|x532|1948|1962||
 " |1275|Deutschland / Russische Zone|1R|x533|1954|||
-565/A|0061|Deutschland / Russische Zone|1R|x540|1946|1966||
-" |0134|Deutschland / Russische Zone|1R|x541|1954|1964||
-" |0138|Deutschland / Russische Zone|1R|x545|1946|1961||
-" |0145|Deutschland / Russische Zone|1R|x550|1946|1965||
-" |0169|Deutschland / Russische Zone|1R|x553|1946|1951||
-" |0173|Deutschland / Russische Zone|1R|x554|||1945-66|
-" |0174|Deutschland / Russische Zone|1R|x555|1961|||
-" |0176|Deutschland / Russische Zone|1R|x556|||1945-66|
-" |0177|Deutschland / Russische Zone|1R|x558|||1945-66|
-" |0178|Deutschland / Russische Zone|1R|x560|1947|1965||
-" |0188|Deutschland / Russische Zone|1R|x562|1946|1958||
-" |0204|Deutschland / Russische Zone|1R|x565|1946|1962||
-" |0215|Deutschland / Russische Zone|1R|x570|1945|1966||
-" |0344|Deutschland / Russische Zone|1R|x572|1946|1966||
-" |0364|Deutschland / Russische Zone|1R|x573|1946|1963||
-" |0395|Deutschland / Russische Zone|1R|x574|1947|1952||
-" |0408|Deutschland / Russische Zone|1R|x575|1947|1952||
-" |0411|Deutschland / Russische Zone|1R|x582|1946|1962||
-" |0439|Deutschland / Russische Zone|1R|x584|1946|1963||
-" |0449|Deutschland / Russische Zone|1R|x585|1945|1966||
-" |0489|Deutschland / Russische Zone|1R|x586|1946|1966||
-" |0505|Deutschland / Russische Zone|1R|x587|1946|1961||
-" |0518|Deutschland / Russische Zone|1R|x588|1947|1960||
-" |0528|Deutschland / Russische Zone|1R|x589|1947|1962||
-" |0537|Deutschland / Russische Zone|1R|x595|1946|1966||
-" |0549|Deutschland / Russische Zone|1R|x596|1946|1961||
-" |0556|Deutschland / Russische Zone|1R|x598|1946|1966||
-" |0593|Deutschland / Russische Zone|1R|x599|1946|1966||
-" |0679|Deutschland / Russische Zone|1R|x600|1946|1966||
-" |0734|Deutschland / Russische Zone|1R|x601|||1946-66|
-" |0736|Deutschland / Russische Zone|1R|x606|1962|1966||
-" |0742|Deutschland / Russische Zone|1R|x607M1|1963|||
-" |0744|Großbritannien|80|w1|1946|1966||Ergänzung s. Film 578II
-" |0924|Großbritannien|80|w2|1946|1955||
-566II|0061|Großbritannien|80|w2|1966|||
-" |0119|Großbritannien|80|w3|1946|1966||
-" |0177|Großbritannien|80|w4|1947|1966||
-" |0276|Großbritannien|80|w5|1946|1966||
-" |0526|Großbritannien|80|w6|1946|1966||
-" |0571|Großbritannien|80|w7|1946|1965||
-" |0587|Großbritannien|80|w8|1949|1966||
-" |0599|Großbritannien|80|w9|1947|1966||
-" |0756|Großbritannien|80|w10|1946|1966||
-" |0855|Großbritannien|80|w11|1946|1966||
-" |1007|Großbritannien|80|w12|1946|1965||
-" |1034|Großbritannien|80|w13|1949|1966||
-" |1115|Großbritannien|80|w14|1946|1966||
-" |1140|Großbritannien|80|w20|1946|1966||
-" |1141|Großbritannien|80|w21|1962|1966||
-" |1146|Großbritannien|80|w25|1948|1953||
-" |1153|Großbritannien|80|w28|1946|1966||
-567I|0061|Frankreich|70|g24|1946|1966||
-" |0149|Frankreich|70|g30|1947|1966||
-" |0384|Frankreich|70|g31|1950|1966||
-" |0400|Frankreich|70|g32|1946|1966||
-" |0448|Frankreich|70|g33|1946|1966||
-" |0495|Frankreich|70|g36|1946|1966||
-" |0551|Frankreich|70|g39|1949|1966||
-" |0569|Frankreich|70|g40|1949|1965||
-" |0590|Frankreich|70|g43|1947|1966||
-" |0678|Frankreich|70|g44|1948|1966||
-" |0734|Frankreich|70|g45|1949|1965||
-" |0748|Frankreich|70|g46|1949|1966||
-" |0758|Frankreich|70|g47|1952|1965||
-" |0775|Frankreich|70|g48|1948|1966||
-" |0843|Frankreich|70|g49|1948|||
-" |0875|Frankreich|70|g50|1949|1966||
-" |0886|Frankreich|70|g60|1949|1966||
-" |0922|Frankreich|70|g62|1947|1966||
-" |1144|Frankreich|70|vs-|1946|1966||
-" |1196|Frankreich|70|vs1|1951|1966||
-" |1201|Frankreich|70|vs2|1948|1966||
-" |1222|Frankreich|70|vs10|1946|1966||
-567II|0061|Großbritannien|80|w29|1953|||
-" |0162|Großbritannien|80|w30|1953|1966||
-" |0363|Großbritannien|80|w35|1948|1966||
-" |0464|Großbritannien|80|w39|1946|1965||
-" |0476|Großbritannien|80|w45|1946|1966||
-" |1045|Großbritannien|80|w50|1949|1955||
-" |1061|Großbritannien|80|aw-|1946|1966||
-568I|0061|Frankreich|70|vs11|1950|1966||
-" |0132|Frankreich|70|vs12|1948|1966||
-" |0172|Frankreich|70|vs13|1946|1966||
-" |0263|Frankreich|70|vs14|1952|1963||
-" |0271|Frankreich|70|vs15|1953|1966||
-" |0300|Frankreich|70|vs20|1957|1963||
-" |0304|Frankreich|70|vs21|1950|1966||
-" |0319|Frankreich|70|vs22|1959|1966||
-" |0328|Frankreich|70|vs23|1948|1960||
-" |0333|Frankreich|70|vs24|1946|1966||
-" |0340|Frankreich|70|vs25|1950|1966||
-" |0373|Frankreich|70|vs28|1947|1966||
-" |0389|Frankreich|70|vs29|1956|1958||
-" |0392|Frankreich|70|vs30|1947|1961||
-" |0400|Frankreich|70|h-|1949|1964||
-" |0542|Frankreich|70|h3|1951|1966||
-" |0543|Frankreich|70|h7|1947|1966||
-" |0565|Frankreich|70|h8 M1|1947|1966||
-" |0616|Frankreich|70|h8 M2|1947|1961||
-" |0697|Frankreich|70|h9|1949|1966||
-" |0704|Frankreich|70|h11|1946|1966||
-" |0770|Frankreich|70|h12|1953|1961||
-" |0796|Frankreich|70|h13|1954|||
-" |0806|Frankreich|70|h20|1946|1966||
-" |0808|Frankreich|70|ah-|1947|1966||
-" |1178|Frankreich|70|ah7|1946|1966||
-" |1211|Frankreich|70|ah8|1946|1966||
-" |1314|Frankreich|70|ah11|1946|1966||
-" |1363|Frankreich|70|ah12|1949|1964||
-" |1378|Frankreich|70|ah13|1951|1966||
-568II|0062|Großbritannien|80|aw-|1953|1966||
-" |0160|Großbritannien|80|aw-/ 0 bis18|1946|1966||
-" |1022|Großbritannien|80|aw-/ 19 bis 55|1946|1966||
-" |1094|Großbritannien|80|aw-/ 59 bis 67|1946|1966||
-" |1117|Großbritannien|80|aw-/ 69 bis 77|1946|1966||
-" |1138|Großbritannien|80|aw-/ 82 bis 92|1946|1966||
-" |1165|Großbritannien|80|aw-/ 100 bis180|1946|1966||
-" |1213|Großbritannien|80|aw-/ 200 bis 293|146|1966||
+[9565](k2/sh/9565)|[0061](k2/sh/9565/0061)|Deutschland / Russische Zone|1R|x540|1946|1966||
+" |[0134](k2/sh/9565/0134)|Deutschland / Russische Zone|1R|x541|1954|1964||
+" |[0138](k2/sh/9565/0138)|Deutschland / Russische Zone|1R|x545|1946|1961||
+" |[0145](k2/sh/9565/0145)|Deutschland / Russische Zone|1R|x550|1946|1965||
+" |[0169](k2/sh/9565/0169)|Deutschland / Russische Zone|1R|x553|1946|1951||
+" |[0173](k2/sh/9565/0173)|Deutschland / Russische Zone|1R|x554|||1945-66|
+" |[0174](k2/sh/9565/0174)|Deutschland / Russische Zone|1R|x555|1961|||
+" |[0176](k2/sh/9565/0176)|Deutschland / Russische Zone|1R|x556|||1945-66|
+" |[0177](k2/sh/9565/0177)|Deutschland / Russische Zone|1R|x558|||1945-66|
+" |[0178](k2/sh/9565/0178)|Deutschland / Russische Zone|1R|x560|1947|1965||
+" |[0188](k2/sh/9565/0188)|Deutschland / Russische Zone|1R|x562|1946|1958||
+" |[0204](k2/sh/9565/0204)|Deutschland / Russische Zone|1R|x565|1946|1962||
+" |[0215](k2/sh/9565/0215)|Deutschland / Russische Zone|1R|x570|1945|1966||
+" |[0344](k2/sh/9565/0344)|Deutschland / Russische Zone|1R|x572|1946|1966||
+" |[0364](k2/sh/9565/0364)|Deutschland / Russische Zone|1R|x573|1946|1963||
+" |[0395](k2/sh/9565/0395)|Deutschland / Russische Zone|1R|x574|1947|1952||
+" |[0408](k2/sh/9565/0408)|Deutschland / Russische Zone|1R|x575|1947|1952||
+" |[0411](k2/sh/9565/0411)|Deutschland / Russische Zone|1R|x582|1946|1962||
+" |[0439](k2/sh/9565/0439)|Deutschland / Russische Zone|1R|x584|1946|1963||
+" |[0449](k2/sh/9565/0449)|Deutschland / Russische Zone|1R|x585|1945|1966||
+" |[0489](k2/sh/9565/0489)|Deutschland / Russische Zone|1R|x586|1946|1966||
+" |[0505](k2/sh/9565/0505)|Deutschland / Russische Zone|1R|x587|1946|1961||
+" |[0518](k2/sh/9565/0518)|Deutschland / Russische Zone|1R|x588|1947|1960||
+" |[0528](k2/sh/9565/0528)|Deutschland / Russische Zone|1R|x589|1947|1962||
+" |[0537](k2/sh/9565/0537)|Deutschland / Russische Zone|1R|x595|1946|1966||
+" |[0549](k2/sh/9565/0549)|Deutschland / Russische Zone|1R|x596|1946|1961||
+" |[0556](k2/sh/9565/0556)|Deutschland / Russische Zone|1R|x598|1946|1966||
+" |[0593](k2/sh/9565/0593)|Deutschland / Russische Zone|1R|x599|1946|1966||
+" |[0679](k2/sh/9565/0679)|Deutschland / Russische Zone|1R|x600|1946|1966||
+" |[0734](k2/sh/9565/0734)|Deutschland / Russische Zone|1R|x601|||1946-66|
+" |[0736](k2/sh/9565/0736)|Deutschland / Russische Zone|1R|x606|1962|1966||
+" |[0742](k2/sh/9565/0742)|Deutschland / Russische Zone|1R|x607M1|1963|||
+" |[0744](k2/sh/9565/0744)|Großbritannien|80|w1|1946|1966||Ergänzung s. Film 578_A
+" |[0924](k2/sh/9565/0924)|Großbritannien|80|w2|1946|1955||
+[9566](k2/sh/9566)|[0061](k2/sh/9566/0061)|Großbritannien|80|w2|1966|||Nummer für die Verarbeitung geändert. Auf den Filmdosen nummeriert als Römisch 2, also xxx II. 07.04.2022, gh
+" |[0119](k2/sh/9566/0119)|Großbritannien|80|w3|1946|1966||
+" |[0177](k2/sh/9566/0177)|Großbritannien|80|w4|1947|1966||
+" |[0276](k2/sh/9566/0276)|Großbritannien|80|w5|1946|1966||
+" |[0526](k2/sh/9566/0526)|Großbritannien|80|w6|1946|1966||
+" |[0571](k2/sh/9566/0571)|Großbritannien|80|w7|1946|1965||
+" |[0587](k2/sh/9566/0587)|Großbritannien|80|w8|1949|1966||
+" |[0599](k2/sh/9566/0599)|Großbritannien|80|w9|1947|1966||
+" |[0756](k2/sh/9566/0756)|Großbritannien|80|w10|1946|1966||
+" |[0855](k2/sh/9566/0855)|Großbritannien|80|w11|1946|1966||
+" |[1007](k2/sh/9566/1007)|Großbritannien|80|w12|1946|1965||
+" |[1034](k2/sh/9566/1034)|Großbritannien|80|w13|1949|1966||
+" |[1115](k2/sh/9566/1115)|Großbritannien|80|w14|1946|1966||
+" |[1140](k2/sh/9566/1140)|Großbritannien|80|w20|1946|1966||
+" |[1141](k2/sh/9566/1141)|Großbritannien|80|w21|1962|1966||
+" |[1146](k2/sh/9566/1146)|Großbritannien|80|w25|1948|1953||
+" |[1153](k2/sh/9566/1153)|Großbritannien|80|w28|1946|1966||
+[9567](k2/sh/9567)|[0061](k2/sh/9567/0061)|Großbritannien|80|w29|1953|||
+" |[0162](k2/sh/9567/0162)|Großbritannien|80|w30|1953|1966||
+" |[0363](k2/sh/9567/0363)|Großbritannien|80|w35|1948|1966||
+" |[0464](k2/sh/9567/0464)|Großbritannien|80|w39|1946|1965||
+" |[0476](k2/sh/9567/0476)|Großbritannien|80|w45|1946|1966||
+" |[1045](k2/sh/9567/1045)|Großbritannien|80|w50|1949|1955||
+" |[1061](k2/sh/9567/1061)|Großbritannien|80|aw-|1946|1966||
+[9568](k2/sh/9568)|[0062](k2/sh/9568/0062)|Großbritannien|80|aw-|1953|1966||
+" |[0160](k2/sh/9568/0160)|Großbritannien|80|aw-/ 0 bis18|1946|1966||
+" |[1022](k2/sh/9568/1022)|Großbritannien|80|aw-/ 19 bis 55|1946|1966||
+" |[1094](k2/sh/9568/1094)|Großbritannien|80|aw-/ 59 bis 67|1946|1966||
+" |[1117](k2/sh/9568/1117)|Großbritannien|80|aw-/ 69 bis 77|1946|1966||
+" |[1138](k2/sh/9568/1138)|Großbritannien|80|aw-/ 82 bis 92|1946|1966||
+" |[1165](k2/sh/9568/1165)|Großbritannien|80|aw-/ 100 bis180|1946|1966||
+" |[1213](k2/sh/9568/1213)|Großbritannien|80|aw-/ 200 bis 293|146|1966||
 " |1251|Großbritannien|80|aw-/ 300 bis 311|1946|1966||
 " |1266|Großbritannien|80|aw-/ 312 bis 380|1946|1966||
-569I|0062|Frankreich|70|ah20|1946|1966||
-" |0461|Frankreich|70|ah22|1946|1966||
-" |1034|Frankreich|70|ah23|1954|1966||
-" |1171|Frankreich|70|ah24|1958|||
-" |1174|Frankreich|70|ah25|1947|1966||
-" |1181|Frankreich|70|ah26|1960|1964||
-" |1186|Frankreich|70|x-|1946|1948||
-569II|0061|Großbritannien|80|aw-/ 400 bis 490|1946|1966||
-" |0079|Großbritannien|80|aw-/ 1|1946|1966||
-" |0119|Großbritannien|80|aw1|1956|1963||
-" |0123|Großbritannien|80|aw3|1946|1964||
-" |0179|Großbritannien|80|aw4 M1|1952|1966||
-" |0343|Großbritannien|80|aw10|1946|1966||
-" |0531|Großbritannien|80|aw11|1946|1966||
-" |0575|Großbritannien|80|aw12|1946|1966||
-" |0610|Großbritannien|80|aw20|1946|1966||
-" |0638|Großbritannien|80|k-|1946|1966||
-" |0662|Großbritannien|80|k1|1946|1966||
-" |0707|Großbritannien|80|k2|1946|1966||
-" |0772|Großbritannien|80|k3 M1|1946|1966||
-570I|0061|Frankreich|70|x-|1959|1966||
-" |0174|Frankreich|70|x1|1949|1959||
-" |0188|Frankreich|70|x2|1946|1966||
-" |0743|Frankreich|70|x3|1958|1966||
-" |0767|Frankreich|70|x4|1950|1966||
-" |0787|Frankreich|70|x5|1956|1966||
-" |0794|Frankreich|70|x6|||1946-66|
-" |0795|Frankreich|70|x10|1946|1966||
-" |0952|Frankreich|70|x20|1946|1966||
-" |1292|Frankreich|70|x21|1946|1966||
-" |1313|Frankreich|70|x22|1951|1956||
-" |1317|Frankreich|70|x23|||1946-66|
-" |1318|Frankreich|70|x24|1956|||
-" |1321|Frankreich|70|x28|1948|1966||
-" |1355|Frankreich|70|x30|1946|1957||
-570II|0061|Großbritannien|80|K11|1964|1966||
-" |0255|Großbritannien|80|k12 M1|1946|1966||
-" |0322|Großbritannien|80|k14|1946|1966||
-" |0401|Großbritannien|80|k15|1946|1966||
-" |0914|Großbritannien|80|k16|1946|1966||
-" |1001|Großbritannien|80|k20|1946|166||
-" |1184|Großbritannien|80|k21|146|1966||
-571I|0061|Frankreich|70|x30|1958|1966||
-" |0304|Frankreich|70|x35|1946|1966||
-" |0445|Frankreich|70|x40|1956|1961||
-" |0448|Frankreich|70|x41|1946|1965||
-" |0470|Frankreich|70|x43|1948|1961||
-" |0477|Frankreich|70|x45|1948|1960||
-" |0490|Frankreich|70|x46|1947|1966||
-" |0545|Frankreich|70|x60|1948|1963||
-" |0555|Frankreich|70|x65|1948|1965||
-" |0579|Frankreich|70|x70|1947|1962||
-" |0619|Frankreich|70|x71|1948|1964||
-" |0626|Frankreich|70|x72|1947|1965||
-" |0637|Frankreich|70|x75|1950|1961||
-" |0647|Frankreich|70|x78|1948|1966||
-" |0681|Frankreich|70|x79|1946|1966||
-" |1198|Frankreich|70|x80|1946|1966||
-" |1376|Frankreich|70|x81|1949|1966||
-" |1436|Frankreich|70|x82|1952|1962||
-" |1444|Frankreich|70|x83|1947|1966||
-571II|0061|Großbritannien|80|k22|1946|1966||
-" |0507|Großbritannien|80|k23|1946|1966||
-" |0554|Großbritannien|80|b-|1946|1966||
-" |0621|Großbritannien|80|b1|1946|1966||
-" |0707|Großbritannien|80|b2|1946|1966||
-" |0935|Großbritannien|80|b10|1946|1966||
-" |1007|Großbritannien|80|b11|1946|1966||
-" |1032|Großbritannien|80|b12|1946|1966||
-" |1043|Großbritannien|80|b14|1950|1965||
-" |1051|Großbritannien|80|b20|1946|1957||
-572I|0061|Frankreich|70|x84|1949|1963||
-" |0078|Frankreich|70|x90|1947|1966||
-" |0121|Frankreich|70|x100|1947|1966||
-" |0274|Frankreich|70|x101|1950|1961||
-" |0278|Frankreich|70|x102|1947|1962||
-" |0286|Frankreich|70|x103|1947|1961||
-" |0294|Frankreich|70|x104|1948|1966||
-" |0310|Frankreich|70|x105|1948|1950||
-" |0314|Frankreich|70|x106|1950|1957||
-" |0318|Frankreich|70|x110|1946|1966||
-" |0771|Frankreich|70|x111|1946|1966||
-" |0826|Frankreich|70|x112|1946|1966||
-" |1054|Frankreich|70|x113|1948|1966||
-" |1104|Frankreich|70|x115|1949|1961||
-" |1114|Frankreich|70|x116|1948|1966||
-" |1150|Frankreich|70|x117|1947|1966||
-" |1186|Frankreich|70|x118|1950|1966||
-" |1195|Frankreich|70|x119|1949|1963||
-" |1216|Frankreich|70|x120|1955|1964||
-572i|1221|Frankreich|70|x121|1948|1966||
-572I|1236|Frankreich|70|x125|1949|1966||
-" |1265|Frankreich|70|x130|1948|1966||
-" |1279|Frankreich|70|x131|||1946-66|
-" |1280|Frankreich|70|x132|1947|1966||
-" |1295|Frankreich|70|x133|1949|1966||
-" |1306|Frankreich|70|x134|1947|1965||
-" |1319|Frankreich|70|x135|1948|1965||
-" |1332|Frankreich|70|x136|1946|1966||
-" |1373|Frankreich|70|x137|1947|1957||
-" |1382|Frankreich|70|x140|||1946-66|
-572II|0061|Großbritannien|80|b20|1958|1966||
-" |0337|Großbritannien|80|b25|1946|1966||
-" |0421|Großbritannien|80|a-|1946|1964||
-" |0427|Großbritannien|80|a1|1946|1966||
+[9569](k2/sh/9569)|[0061](k2/sh/9569/0061)|Großbritannien|80|aw-/ 400 bis 490|1946|1966||
+" |[0079](k2/sh/9569/0079)|Großbritannien|80|aw-/ 1|1946|1966||
+" |[0119](k2/sh/9569/0119)|Großbritannien|80|aw1|1956|1963||
+" |[0123](k2/sh/9569/0123)|Großbritannien|80|aw3|1946|1964||
+" |[0179](k2/sh/9569/0179)|Großbritannien|80|aw4 M1|1952|1966||
+" |[0343](k2/sh/9569/0343)|Großbritannien|80|aw10|1946|1966||
+" |[0531](k2/sh/9569/0531)|Großbritannien|80|aw11|1946|1966||
+" |[0575](k2/sh/9569/0575)|Großbritannien|80|aw12|1946|1966||
+" |[0610](k2/sh/9569/0610)|Großbritannien|80|aw20|1946|1966||
+" |[0638](k2/sh/9569/0638)|Großbritannien|80|k-|1946|1966||
+" |[0662](k2/sh/9569/0662)|Großbritannien|80|k1|1946|1966||
+" |[0707](k2/sh/9569/0707)|Großbritannien|80|k2|1946|1966||
+" |[0772](k2/sh/9569/0772)|Großbritannien|80|k3 M1|1946|1966||
+[9570](k2/sh/9570)|[0061](k2/sh/9570/0061)|Großbritannien|80|K11|1964|1966||
+" |[0255](k2/sh/9570/0255)|Großbritannien|80|k12 M1|1946|1966||
+" |[0322](k2/sh/9570/0322)|Großbritannien|80|k14|1946|1966||
+" |[0401](k2/sh/9570/0401)|Großbritannien|80|k15|1946|1966||
+" |[0914](k2/sh/9570/0914)|Großbritannien|80|k16|1946|1966||
+" |[1001](k2/sh/9570/1001)|Großbritannien|80|k20|1946|166||
+" |[1184](k2/sh/9570/1184)|Großbritannien|80|k21|146|1966||
+[9571](k2/sh/9571)|[0061](k2/sh/9571/0061)|Großbritannien|80|k22|1946|1966||
+" |[0507](k2/sh/9571/0507)|Großbritannien|80|k23|1946|1966||
+" |[0554](k2/sh/9571/0554)|Großbritannien|80|b-|1946|1966||
+" |[0621](k2/sh/9571/0621)|Großbritannien|80|b1|1946|1966||
+" |[0707](k2/sh/9571/0707)|Großbritannien|80|b2|1946|1966||
+" |[0935](k2/sh/9571/0935)|Großbritannien|80|b10|1946|1966||
+" |[1007](k2/sh/9571/1007)|Großbritannien|80|b11|1946|1966||
+" |[1032](k2/sh/9571/1032)|Großbritannien|80|b12|1946|1966||
+" |[1043](k2/sh/9571/1043)|Großbritannien|80|b14|1950|1965||
+" |[1051](k2/sh/9571/1051)|Großbritannien|80|b20|1946|1957||
+[9572](k2/sh/9572)|[0061](k2/sh/9572/0061)|Großbritannien|80|b20|1958|1966||
+" |[0337](k2/sh/9572/0337)|Großbritannien|80|b25|1946|1966||
+" |[0421](k2/sh/9572/0421)|Großbritannien|80|a-|1946|1964||
+" |[0427](k2/sh/9572/0427)|Großbritannien|80|a1|1946|1966||
 " |0590|Großbritannien|80|a2|1947|1966||
-573I|0061|Frankreich|70|x141|1946|1966||
-" |0093|Frankreich|70|x145|1948|1966||
-" |0125|Frankreich|70|x150|1947|1966||
-" |0321|Frankreich|70|x151|1949|1966||
-" |0336|Frankreich|70|x152|1946|1966||
-" |0451|Frankreich|70|x153|1946|1966||
-" |0721|Frankreich|70|x154|1946|1966||
-" |0818|Frankreich|70|x155|1946|1966||
-" |0831|Frankreich|70|x156|1947|1966||
-" |0901|Frankreich|70|x157|1946|1965||
-" |0919|Frankreich|70|x165|1949|1966||
-" |0945|Frankreich|70|x170|1947|1963||
-" |0981|Frankreich|70|x171|1948|1965||
-" |0998|Frankreich|70|x172|1947|1966||
-" |1028|Frankreich|70|x173|1951|1966||
-" |1039|Frankreich|70|x175|1947|1966||
-" |1055|Frankreich|70|x176|1956|1966||
-" |1067|Frankreich|70|x177|1946|1966||
-" |1385|Frankreich|70|x178|1946|1958||
-573II|0061|Großbritannien|80|a3|1947|1965||
-" |0089|Großbritannien|80|a4|1952|1966||
-" |0116|Großbritannien|80|a5|1946|1966||
-" |0420|Großbritannien|80|a6|1946|1966||
-" |0452|Großbritannien|80|a7|1947|1966||
-" |0542|Großbritannien|80|a8|1946|1966||
-" |0608|Großbritannien|80|a9|1946|1966||
-" |0716|Großbritannien|80|a10|1946|1966||
-" |0806|Großbritannien|80|a15|1946|1966||
-" |0888|Großbritannien|80|a19|1954|1966||
-" |0905|Großbritannien|80|a20|1946|1966||
-574I|0061|Frankreich|70|x178|1959|1966||
-" |0218|Frankreich|70|x179|1946|1966||
-" |0273|Frankreich|70|x180|1946|1966||
-" |0490|Frankreich|70|x184|1958|1966||
-" |0547|Frankreich|70|x185|1946|166||
-" |0792|Frankreich|70|x188|1946|1966||
-" |0868|Frankreich|70|x190|1946|1960||
-" |0881|Frankreich|70|x192|1948|1966||
-" |0919|Frankreich|70|x200|1946|1966||
-" |1115|Frankreich|70|x202|||1946-66|
-" |1116|Frankreich|70|x210|1946|1966||
-" |1142|Frankreich|70|x211|1948|1966||
-" |1166|Frankreich|70|x212|1947|1964||
-" |1184|Frankreich|70|x231|1942|1966||
-" |1236|Frankreich|70|x232|1946|1965||
-" |1256|Frankreich|70|x235|1950|1963||
-" |1268|Frankreich|70|x240|1948|1966||
-" |1287|Frankreich|70|x250|1947|1966||
-" |1374|Frankreich|70|x275|1947|1966||
-" |1425|Frankreich|70|x279|1946|1960||
-574II|0061|Großbritannien|80|a20|1966|||
-" |0079|Großbritannien|80|a21|1946|1966||
-" |0094|Großbritannien|80|a22|1946|1966||
-" |0226|Großbritannien|80|a23|1948|1966||
-" |0264|Großbritannien|80|a24|1946|1966||
-" |0844|Großbritannien|80|a25|1946|1964||
-" |0893|Großbritannien|80|a26|1948|1966||
-" |0917|Großbritannien|80|a29|||1946-66|
-" |0918|Großbritannien|80|a30|1946|1966||
-" |1096|Großbritannien|80|a31|1946|1966||
-" |1202|Großbritannien|80|a32|1950|1966||
-" |1235|Großbritannien|80|a40|1946|1965||
+[9573](k2/sh/9573)|[0061](k2/sh/9573/0061)|Großbritannien|80|a3|1947|1965||
+" |[0089](k2/sh/9573/0089)|Großbritannien|80|a4|1952|1966||
+" |[0116](k2/sh/9573/0116)|Großbritannien|80|a5|1946|1966||
+" |[0420](k2/sh/9573/0420)|Großbritannien|80|a6|1946|1966||
+" |[0452](k2/sh/9573/0452)|Großbritannien|80|a7|1947|1966||
+" |[0542](k2/sh/9573/0542)|Großbritannien|80|a8|1946|1966||
+" |[0608](k2/sh/9573/0608)|Großbritannien|80|a9|1946|1966||
+" |[0716](k2/sh/9573/0716)|Großbritannien|80|a10|1946|1966||
+" |[0806](k2/sh/9573/0806)|Großbritannien|80|a15|1946|1966||
+" |[0888](k2/sh/9573/0888)|Großbritannien|80|a19|1954|1966||
+" |[0905](k2/sh/9573/0905)|Großbritannien|80|a20|1946|1966||
+[9574](k2/sh/9574)|[0061](k2/sh/9574/0061)|Großbritannien|80|a20|1966|||
+" |[0079](k2/sh/9574/0079)|Großbritannien|80|a21|1946|1966||
+" |[0094](k2/sh/9574/0094)|Großbritannien|80|a22|1946|1966||
+" |[0226](k2/sh/9574/0226)|Großbritannien|80|a23|1948|1966||
+" |[0264](k2/sh/9574/0264)|Großbritannien|80|a24|1946|1966||
+" |[0844](k2/sh/9574/0844)|Großbritannien|80|a25|1946|1964||
+" |[0893](k2/sh/9574/0893)|Großbritannien|80|a26|1948|1966||
+" |[0917](k2/sh/9574/0917)|Großbritannien|80|a29|||1946-66|
+" |[0918](k2/sh/9574/0918)|Großbritannien|80|a30|1946|1966||
+" |[1096](k2/sh/9574/1096)|Großbritannien|80|a31|1946|1966||
+" |[1202](k2/sh/9574/1202)|Großbritannien|80|a32|1950|1966||
+" |[1235](k2/sh/9574/1235)|Großbritannien|80|a40|1946|1965||
 " |1242|Großbritannien|80|a41|1946|1951||
-575I|0061|Frankreich|70|x279|1961|1966||
-" |0092|Frankreich|70|x280|1946|1966||
-" |0201|Frankreich|70|x281|1946|1966||
-" |0506|Frankreich|70|x282|1950|1966||
-" |0557|Frankreich|70|x284 M1|1947|1966||
-" |0728|Frankreich|70|x285|1957|1965||
-" |0740|Frankreich|70|x300|1946|1964||
-575II|0061|Großbritannien|80|a41|1952|1966||
-" |0231|Großbritannien|80|a42|1964|||
-" |0233|Großbritannien|80|a44|1961|1965||
-" |0238|Großbritannien|80|a45|1961|1966||
-" |0247|Großbritannien|80|a46|1951|||
-" |0249|Großbritannien|80|a47|1949|1965||
-" |0266|Großbritannien|80|a48|1948|1965||
-" |0269|Großbritannien|80|p-|1948|1966||
-" |0304|Großbritannien|80|p1|1946|1966||
-" |0443|Großbritannien|80|p2|1946|1966||
-" |0751|Großbritannien|80|p3|1946|1960||
-576I|0061|Frankreich|70|x300|1965|1966||
-" |0195|Frankreich|70|x305|1951|1966||
-" |0230|Frankreich|70|x310|1946|1966||
-" |0335|Frankreich|70|x311|1946|1966||
-" |0408|Frankreich|70|x312|1961|||
-" |0410|Frankreich|70|x313|1962|||
-" |0412|Frankreich|70|x314|1950|1966||
-" |0423|Frankreich|70|x315|1948|1966||
-" |0443|Frankreich|70|x316|1947|1964||
-" |0462|Frankreich|70|x325|||1946-66|
-" |0463|Frankreich|70|x327|1947|1965||
-" |0473|Frankreich|70|x330|1949|1965||
-" |0495|Frankreich|70|x331|1946|1966||
-" |0523|Frankreich|70|x340|1946|1966||
-" |0551|Frankreich|70|x341|1959|1966||
-" |0557|Frankreich|70|x350|1946|1966||
-" |0625|Frankreich|70|x358|1960|||
-" |0627|Frankreich|70|x361|1947|1966||
-" |0653|Frankreich|70|x363|1946|1960||
-" |0660|Frankreich|70|x364|1949|1966||
-" |0674|Frankreich|70|x370|||1946-66|
-" |0676|Frankreich|70|x377|1948|1966||
-" |0687|Frankreich|70|x378|1946|1966||
-" |0720|Frankreich|70|x380|1957|1964||
-" |0725|Frankreich|70|x400|1946|1966||
-" |0811|Frankreich|70|x410|1947|1966||
-" |0885|Frankreich|70|x411|1948|1966||
-" |0900|Frankreich|70|x420|||1946-66|
-" |0901|Frankreich|70|x428|1947|1966||
-" |0922|Frankreich|70|x430|1948|1966||
-" |0954|Frankreich|70|x431|1946|1966||
-" |1039|Frankreich|70|x432|1946|1966||
-" |1239|Frankreich|70|x433|1947|1966||
-" |1272|Frankreich|70|x435|1949|1966||
-" |1290|Frankreich|70|x445|1957|1964||
-" |1296|Frankreich|70|x450|1946|1966||
-" |1330|Frankreich|70|x451|1948|1960||
-" |1336|Frankreich|70|x452|1946|1966||
-" |1404|Frankreich|70|x543|1958|1962||
-" |1407|Frankreich|70|x455|1949|1966||
-576II|0061|Großbritannien|80|p3|1961|1966||
-" |0601|Großbritannien|80|p4|1961|1966||
-" |0653|Großbritannien|80|p5M1|1947|1966||
-" |0667|Großbritannien|80|p5M2|1946|1966||
-" |0678|Großbritannien|80|p8|1946|1966||
-" |1010|Großbritannien|80|p9|1946|1966||
-" |1154|Großbritannien|80|p10|1946|1966||
-577I|0061|Frankreich|70|x460|1947|1966||
-" |0111|Frankreich|70|x462|1948|1966||
-" |0154|Frankreich|70|x463|1947|1966||
-" |0176|Frankreich|70|x465|1947|1966||
-" |0224|Frankreich|70|x466|1948|1966||
-" |0256|Frankreich|70|x475|1950|||
-" |0265|Frankreich|70|x500|1947|1966||
-" |0294|Frankreich|70|x502|1948|1966||
-" |0306|Frankreich|70|x503|1952|1966||
-" |0521|Frankreich|70|x504|1950|1964||
-" |0328|Frankreich|70|x505|1948|1966||
-" |0348|Frankreich|70|x506|1946|1965||
-" |0363|Frankreich|70|x507|1946|1966||
-" |0483|Frankreich|70|x508|1947|1965||
-" |0490|Frankreich|70|x509|1949|1966||
-" |0504|Frankreich|70|x510|1946|1966||
-" |0529|Frankreich|70|x511|1949|1965||
-" |0556|Frankreich|70|x512|1948|1966||
-" |0554|Frankreich|70|x515|1965|||
-" |0566|Frankreich|70|x516|1949|1965||
-" |0572|Frankreich|70|x518|||1946-66|
-" |0573|Frankreich|70|x530|1946|1966||
-" |0603|Frankreich|70|x531|1947|1966||
-" |0667|Frankreich|70|x532|1947|1966||
-" |0693|Frankreich|70|x533|1948|1966||
-" |0710|Frankreich|70|x540|1948|1966||
-" |0756|Frankreich|70|x541|1959|1965||
-" |0758|Frankreich|70|x545|1947|1966||
-" |0764|Frankreich|70|x550|1947|1966||
-" |0789|Frankreich|70|x553|1950|1966||
-" |0794|Frankreich|70|x554|1963|||
-" |0796|Frankreich|70|x555|1948|1966||
-" |0813|Frankreich|70|x556|1948|1960||
-" |0824|Frankreich|70|x558|1947|1959||
-" |0830|Frankreich|70|x560|1950|1961||
-" |0838|Frankreich|70|x562|1948|1966||
-" |0848|Frankreich|70|x565|1950|1966||
-" |0863|Frankreich|70|x570|1946|1966||
-" |0999|Frankreich|70|x572|1946|1966||
-" |1074|Frankreich|70|x573|1947|1966||
-" |1095|Frankreich|70|x574|1948|1960||
-" |1107|Frankreich|70|x575|1948|1966||
-" |1137|Frankreich|70|x582|1946|1966||
-" |1204|Frankreich|70|x584|1946|1966||
-" |1230|Frankreich|70|x585|1947|1966||
-" |1275|Frankreich|70|x586|1947|1966||
-" |1292|Frankreich|70|x587|1947|1963||
-" |1297|Frankreich|70|x588|1948|1962||
-" |1307|Frankreich|70|x589|1950|1966||
-" |1318|Frankreich|70|x595|1949|1950||
-" |1322|Frankreich|70|x596|1948|1966||
-" |1327|Frankreich|70|x598|1946|1966||
-" |1381|Frankreich|70|x599|1946|1966||
-" |1418|Frankreich|70|x600|1948|1966||
-577II|0061|Großbritrannien|80|p10|1951|1966||
-" |0880|Großbritrannien|80|p11|1946|1966||
+[9575](k2/sh/9575)|[0061](k2/sh/9575/0061)|Großbritannien|80|a41|1952|1966||
+" |[0231](k2/sh/9575/0231)|Großbritannien|80|a42|1964|||
+" |[0233](k2/sh/9575/0233)|Großbritannien|80|a44|1961|1965||
+" |[0238](k2/sh/9575/0238)|Großbritannien|80|a45|1961|1966||
+" |[0247](k2/sh/9575/0247)|Großbritannien|80|a46|1951|||
+" |[0249](k2/sh/9575/0249)|Großbritannien|80|a47|1949|1965||
+" |[0266](k2/sh/9575/0266)|Großbritannien|80|a48|1948|1965||
+" |[0269](k2/sh/9575/0269)|Großbritannien|80|p-|1948|1966||
+" |[0304](k2/sh/9575/0304)|Großbritannien|80|p1|1946|1966||
+" |[0443](k2/sh/9575/0443)|Großbritannien|80|p2|1946|1966||
+" |[0751](k2/sh/9575/0751)|Großbritannien|80|p3|1946|1960||
+[9576](k2/sh/9576)|[0061](k2/sh/9576/0061)|Großbritannien|80|p3|1961|1966||
+" |[0601](k2/sh/9576/0601)|Großbritannien|80|p4|1961|1966||
+" |[0653](k2/sh/9576/0653)|Großbritannien|80|p5M1|1947|1966||
+" |[0667](k2/sh/9576/0667)|Großbritannien|80|p5M2|1946|1966||
+" |[0678](k2/sh/9576/0678)|Großbritannien|80|p8|1946|1966||
+" |[1010](k2/sh/9576/1010)|Großbritannien|80|p9|1946|1966||
+" |[1154](k2/sh/9576/1154)|Großbritannien|80|p10|1946|1966||
+[9577](k2/sh/9577)|[0061](k2/sh/9577/0061)|Großbritrannien|80|p10|1951|1966||
+" |[0880](k2/sh/9577/0880)|Großbritrannien|80|p11|1946|1966||
 " |1240|Großbritrannien|80|p20|1946|||
-578I|0061|Frankreich|70|x600|1962|1966||
-" |0076|Frankreich|70|x601|1948|1959||
-" |0084|Frankreich|70|x606|1958|1966||
-" |0102|Frankreich|80|x607|1961|||
-578II|0104|Großbritannien|80|allgem.|1947|1966||Ergänzung s. Film 565/A
-" |0134|Großbritannien|80|w-|1960|1960||
-" |0061|Großbritannien|80|p20|1947|1960||
-579I|0061|Frankreich|80|w-|1960|1966||
-579II|0061|Großbritannien|80|p20|1966|||
-" |0117|Großbritannien|80|p21|1949|1950||
-" |0120|Großbritannien|80|p22|1947|1965||
-" |0130|Großbritannien|80|p23|1946|1966||
-" |0192|Großbritannien|80|p24|1946|1951||
-" |0229|Großbritannien|80|p30|1946|1966||
-" |0230|Großbritannien|80|p31|1946|1951||
-" |0237|Großbritannien|80|p40|1947|1966||
-" |0255|Großbritannien|80|p41|||1946-66|
-" |0256|Großbritannien|80|p42|1946|1955||
-" |0270|Großbritannien|80|f-|1946|1966||
-" |0370|Großbritannien|80|f1|1946|1966||
-" |1009|Großbritannien|80|f2|1946|1966||
-" |1073|Großbritannien|80|f3|1946|1960||
+[9578](k2/sh/9578)|[0104](k2/sh/9578/0104)|Großbritannien|80|allgem.|1947|1966||Ergänzung s. Film 565_A
+" |[0134](k2/sh/9578/0134)|Großbritannien|80|w-|1960|1960||
+" |[0061](k2/sh/9578/0061)|Großbritannien|80|p20|1947|1960||
 [0601](k2/sh/0601)|[0061](k2/sh/0601/0061)|Großbritannien|80|x176|1948|1966||
 " |[0099](k2/sh/0601/0099)|Großbritannien|80|x177|1946|1965||
 [0602](k2/sh/0602)|[0061](k2/sh/0602/0061)|Großbritannien|80|x177|1966|||
