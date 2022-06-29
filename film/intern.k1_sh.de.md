@@ -5656,6 +5656,7 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 " |[0668](k1/sh/0040/0668)|Deutschland|AL1|x46|1928|||
 " |[0678](k1/sh/0040/0678)|Deutschland|AL1|x46|1929|||
 " |[0686](k1/sh/0040/0686)|Deutschland|AL1|x46|1930|||
+" |[0696](k1/sh/0040/0696)|Deutschland|AL1|x46|1931|||
 " |[0700](k1/sh/0040/0700)|Deutschland|AL1|x46|1932|||
 " |[0710](k1/sh/0040/0710)|Deutschland|AL1|x46|1933|||
 " |[0721](k1/sh/0040/0721)|Deutschland|AL1|x46|1934|||
@@ -6343,8 +6344,8 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 " |[0173](k1/sh/0045/0173)|Deutschland|AL1|x121|1926|||
 " |[0175](k1/sh/0045/0175)|Deutschland|AL1|x121|1927|||
 " |[0177](k1/sh/0045/0177)|Deutschland|AL1|x121|1928|||
-[0054](k1/sh/0054)|[0181](k1/sh/0054/0181)|Deutschland|AL1|x121|||1929-34|
-[0045](k1/sh/0045)|[0182](k1/sh/0045/0182)|Deutschland|AL1|x121|1935|||
+" |[0181](k1/sh/0045/0181)|Deutschland|AL1|x121|||1929-34|
+" |[0182](k1/sh/0045/0182)|Deutschland|AL1|x121|1935|||
 " |[0183](k1/sh/0045/0183)|Deutschland|AL1|x121|1936|||
 " |[0186](k1/sh/0045/0186)|Deutschland|AL1|x121|1937|||
 " |[0187](k1/sh/0045/0187)|Deutschland|AL1|x121|1938|||
@@ -6397,6 +6398,7 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 " |[0352](k1/sh/0045/0352)|Deutschland|AL1|x125|1936|||
 " |[0356](k1/sh/0045/0356)|Deutschland|AL1|x125|1937|||
 " |[0359](k1/sh/0045/0359)|Deutschland|AL1|x125|1938|||
+" |[0362](k1/sh/0045/0362)|Deutschland|AL1|x125|1939|||
 " |[0364](k1/sh/0045/0364)|Deutschland|AL1|x125|1940|||
 " |[0372](k1/sh/0045/0372)|Deutschland|AL1|x125|1941|||
 " |[0376](k1/sh/0045/0376)|Deutschland|AL1|x125|1942|||
@@ -6442,8 +6444,8 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 " |[0523](k1/sh/0045/0523)|Deutschland|AL1|x131|1931|||
 " |[0525](k1/sh/0045/0525)|Deutschland|AL1|x131|1932|||
 " |[0527](k1/sh/0045/0527)|Deutschland|AL1|x131|1933|||
-[0004](k1/sh/0004)|[0529](k1/sh/0004/0529)|Deutschland|AL1|x131|||1934-36|
-[0045](k1/sh/0045)|[0530](k1/sh/0045/0530)|Deutschland|AL1|x131|1937|||
+" |[0529](k1/sh/0045/0529)|Deutschland|AL1|x131|||1934-36|
+" |[0530](k1/sh/0045/0530)|Deutschland|AL1|x131|1937|||
 " |[0532](k1/sh/0045/0532)|Deutschland|AL1|x131|||1938-41|
 " |[0533](k1/sh/0045/0533)|Deutschland|AL1|x131|1942|||
 " |[0535](k1/sh/0045/0535)|Deutschland|AL1|x131|1943|||
@@ -6798,13 +6800,15 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 " |[0846](k1/sh/0046/0846)|Deutschland|AL1|x157|1931|||
 " |[0848](k1/sh/0046/0848)|Deutschland|AL1|x157|1932|||
 " |[0853](k1/sh/0046/0853)|Deutschland|AL1|x157|1933|||
+" |[0855](k1/sh/0046/0855)|Deutschland|AL1|x157|1934|||
 " |[0857](k1/sh/0046/0857)|Deutschland|AL1|x157|1935|||
 " |[0859](k1/sh/0046/0859)|Deutschland|AL1|x157|1936|||
 " |[0862](k1/sh/0046/0862)|Deutschland|AL1|x157|1937|||
 " |[0866](k1/sh/0046/0866)|Deutschland|AL1|x157|1938|||
 " |[0868](k1/sh/0046/0868)|Deutschland|AL1|x157|1939|||
-[0006](k1/sh/0006)|[0871](k1/sh/0006/0871)|Deutschland|AL1|x157|1940|||
-[0046](k1/sh/0046)|[0880](k1/sh/0046/0880)|Deutschland|AL1|x157|1942|||
+" |[0871](k1/sh/0046/0871)|Deutschland|AL1|x157|1940|||
+" |[0877](k1/sh/0046/0877)|Deutschland|AL1|x157|1941|||
+" |[0880](k1/sh/0046/0880)|Deutschland|AL1|x157|1942|||
 " |[0885](k1/sh/0046/0885)|Deutschland|AL1|x157|1943|||
 " |[0888](k1/sh/0046/0888)|Deutschland|AL1|x157|1944|||
 " |[0890](k1/sh/0046/0890)|Deutschland|AL1|x157|1945|||
@@ -8449,8 +8453,8 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 " |[0159](k1/sh/0056/0159)|Deutschland|Al1|x455|1923|||
 " |[0160](k1/sh/0056/0160)|Deutschland|Al1|x455|1924|||
 " |[0161](k1/sh/0056/0161)|Deutschland|Al1|x455|1925|||
-[0156](k1/sh/0156)|[0162](k1/sh/0156/0162)|Deutschland|Al1|x455|1926|||
-[0056](k1/sh/0056)|[0165](k1/sh/0056/0165)|Deutschland|Al1|x455|||1927|
+" |[0162](k1/sh/0056/0162)|Deutschland|Al1|x455|1926|||
+" |[0165](k1/sh/0056/0165)|Deutschland|Al1|x455|||1927|
 " |[0166](k1/sh/0056/0166)|Deutschland|Al1|x455|1928|||
 " |[0167](k1/sh/0056/0167)|Deutschland|Al1|x455|1929|||
 " |[0170](k1/sh/0056/0170)|Deutschland|Al1|x455|1930|||
@@ -8909,6 +8913,7 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 " |[0447](k1/sh/0058/0447)|Deutschland|Al1|x512|1930|||
 " |[0455](k1/sh/0058/0455)|Deutschland|Al1|x512|1931|||
 " |[0459](k1/sh/0058/0459)|Deutschland|Al1|x512|1932|||
+" |[0462](k1/sh/0058/0462)|Deutschland|Al1|x512|1933|||
 " |[0464](k1/sh/0058/0464)|Deutschland|Al1|x512|1934|||
 " |[0466](k1/sh/0058/0466)|Deutschland|Al1|x512|1935|||
 " |[0470](k1/sh/0058/0470)|Deutschland|Al1|x512|1936|||
@@ -11658,9 +11663,10 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 " |[0910](k1/sh/0095/0910)|Schweden|15|x411|1923|1945|1920-22,24-28,31-34,38,40|
 " |[0923](k1/sh/0095/0923)|Schweden|15|x420|1939|1942|1920-38,43-45|
 " |[0931](k1/sh/0095/0931)|Schweden|15|x428|1933|1944|1920-32,34,36-37,45|
-1925|0941|Schweden|15|x430|1920|1945||
-[0095](k1/sh/0095)|[1070](k1/sh/0095/1070)|Schweden|15|x431|1920|1945|1927-30|
+" |[0941](k1/sh/0095/0941)|Schweden|15|x430|1920|1945||
+" |[1070](k1/sh/0095/1070)|Schweden|15|x431|1920|1945|1927-30|
 " |[1160](k1/sh/0095/1160)|Schweden|15|x432|1923|1942|1920-22,24,26-33,43-45|
+" |[1170](k1/sh/0095/1170)|Schweden|15|x433|1922|1945|1920-21,24,30-31,37|
 " |[1211](k1/sh/0095/1211)|Schweden|15|x435|1938|1944|1920-37,41-43,45|
 " |[1217](k1/sh/0095/1217)|Schweden|15|x445|||1920-45|
 " |[1218](k1/sh/0095/1218)|Schweden|15|x450|1920|1945|1921|
@@ -16414,6 +16420,7 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 " |[0692](k1/sh/0190/0692)|Bulgarien|52|vs25|||1920-45|
 " |[0693](k1/sh/0190/0693)|Bulgarien|52|vs28|1937|||
 " |[0695](k1/sh/0190/0695)|Bulgarien|52|vs29|1942|1945||
+" |[0698](k1/sh/0190/0698)|Bulgarien|52|vs30|||1920-45|
 " |[0699](k1/sh/0190/0699)|Bulgarien|52|vs31|||1920-45|
 " |[0700](k1/sh/0190/0700)|Bulgarien|52|h-|1920|1944||
 " |[0737](k1/sh/0190/0737)|Bulgarien|52|h3|1934|1944||
@@ -19715,6 +19722,7 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 " |[0701](k1/sh/0252/0701)|Belgien|74|x281|1921|1945||
 " |[0740](k1/sh/0252/0740)|Belgien|74|x282|1935|1942||
 " |[0746](k1/sh/0252/0746)|Belgien|74|x300|1920|1944||
+" |[0914](k1/sh/0252/0914)|Belgien|74|x305|1920|1945||
 " |[0915](k1/sh/0252/0915)|Belgien|74|x310|1920|1944||
 " |[0951](k1/sh/0252/0951)|Belgien|74|x311|1923|1944||
 " |[0963](k1/sh/0252/0963)|Belgien|74|x312|1933|1938||
@@ -19786,8 +19794,8 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 " |[0498](k1/sh/0253/0498)|Belgien|74|x554|1920|1924||
 " |[0501](k1/sh/0253/0501)|Belgien|74|x555|1920|1941||
 " |[0504](k1/sh/0253/0504)|Belgien|74|x556|||1920-45|
-[0023](k1/sh/0023)|[0505](k1/sh/0023/0505)|Belgien|74|x558|||1920-45|
-[0253](k1/sh/0253)|[0506](k1/sh/0253/0506)|Belgien|74|x560|1921|1942||
+" |[0505](k1/sh/0253/0505)|Belgien|74|x558|||1920-45|
+" |[0506](k1/sh/0253/0506)|Belgien|74|x560|1921|1942||
 " |[0519](k1/sh/0253/0519)|Belgien|74|x562|1921|1944||
 " |[0531](k1/sh/0253/0531)|Belgien|74|x565|1924|1944||
 " |[0540](k1/sh/0253/0540)|Belgien|74|x570|1920|1945||
@@ -23712,26 +23720,26 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 " |[0396](k1/sh/0314/0396)|Marokko|202|x400 bis x475|1939|||
 " |[0398](k1/sh/0314/0398)|Marokko|202| x500 bis x565|1920|1945||
 " |[0423](k1/sh/0314/0423)|Marokko|202|x570 bis x601|1920|1945||
-" |[0447](k1/sh/0314/0447)|Allgerien|203|allgem.-|1930|1939||
-" |[0455](k1/sh/0314/0455)|Allgerien|203|w|1920|1945||
-" |[0538](k1/sh/0314/0538)|Allgerien|203|aw|1921|1942||
-" |[0544](k1/sh/0314/0544)|Allgerien|203|b|1941|1942||
-" |[0547](k1/sh/0314/0547)|Allgerien|203|a|1923|1945||
-" |[0558](k1/sh/0314/0558)|Allgerien|203|p|1921|1945||
-" |[0571](k1/sh/0314/0571)|Allgerien|203|f|1920|1945||
-" |[0599](k1/sh/0314/0599)|Allgerien|203|v|1920|1944||
-" |[0624](k1/sh/0314/0624)|Allgerien|203|g|1921|1943||
-" |[0659](k1/sh/0314/0659)|Allgerien|203|vs|1940|1942||
-" |[0679](k1/sh/0314/0679)|Allgerien|203|h|1920|1942||
-" |[0684](k1/sh/0314/0684)|Allgerien|203|ah|1920|1944||
-" |[0698](k1/sh/0314/0698)|Allgerien|203|x- bis x3|1920|1942||
-" |[0739](k1/sh/0314/0739)|Allgerien|203|x10 bis x90|1920|1943||
-" |[0748](k1/sh/0314/0748)|Allgerien|203|x100 bis x192|1920|1943||
-" |[0778](k1/sh/0314/0778)|Allgerien|203|x200 bis x281|1920|1943||
-" |[0802](k1/sh/0314/0802)|Allgerien|203|x300 bis x380|1920|1943||
-" |[0823](k1/sh/0314/0823)|Allgerien|203|x400 bis x475|1939|1942||
-" |[0869](k1/sh/0314/0869)|Allgerien|203|x500 bis x565|1931|1942||
-" |[0890](k1/sh/0314/0890)|Allgerien|203|x570 bis x601|1920|1939||
+" |[0447](k1/sh/0314/0447)|Algerien|203|allgem.-|1930|1939||
+" |[0455](k1/sh/0314/0455)|Algerien|203|w|1920|1945||
+" |[0538](k1/sh/0314/0538)|Algerien|203|aw|1921|1942||
+" |[0544](k1/sh/0314/0544)|Algerien|203|b|1941|1942||
+" |[0547](k1/sh/0314/0547)|Algerien|203|a|1923|1945||
+" |[0558](k1/sh/0314/0558)|Algerien|203|p|1921|1945||
+" |[0571](k1/sh/0314/0571)|Algerien|203|f|1920|1945||
+" |[0599](k1/sh/0314/0599)|Algerien|203|v|1920|1944||
+" |[0624](k1/sh/0314/0624)|Algerien|203|g|1921|1943||
+" |[0659](k1/sh/0314/0659)|Algerien|203|vs|1940|1942||
+" |[0679](k1/sh/0314/0679)|Algerien|203|h|1920|1942||
+" |[0684](k1/sh/0314/0684)|Algerien|203|ah|1920|1944||
+" |[0698](k1/sh/0314/0698)|Algerien|203|x- bis x3|1920|1942||
+" |[0739](k1/sh/0314/0739)|Algerien|203|x10 bis x90|1920|1943||
+" |[0748](k1/sh/0314/0748)|Algerien|203|x100 bis x192|1920|1943||
+" |[0778](k1/sh/0314/0778)|Algerien|203|x200 bis x281|1920|1943||
+" |[0802](k1/sh/0314/0802)|Algerien|203|x300 bis x380|1920|1943||
+" |[0823](k1/sh/0314/0823)|Algerien|203|x400 bis x475|1939|1942||
+" |[0869](k1/sh/0314/0869)|Algerien|203|x500 bis x565|1931|1942||
+" |[0890](k1/sh/0314/0890)|Algerien|203|x570 bis x601|1920|1939||
 " |[0914](k1/sh/0314/0914)|Tunis|204|allgem.-|1923|1942||
 " |[0923](k1/sh/0314/0923)|Tunis|204|w|1920|1943||
 " |[0958](k1/sh/0314/0958)|Tunis|204|aw|1921|1940||
@@ -25649,7 +25657,9 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 " |[1089](k1/sh/0342/1089)|Vereinigte Staaten von Amerika|310|g36|1920|1945||
 " |[1158](k1/sh/0342/1158)|Vereinigte Staaten von Amerika|310|g39|1929|1944||
 " |1411|Vereinigte Staaten von Amerika|310|g40|1920|1931||
-[0343](k1/sh/0343)|[0599](k1/sh/0343/0599)|Vereinigte Staaten von Amerika|310|g43|1920|1945||
+[0343](k1/sh/0343)|[0061](k1/sh/0343/0061)|Vereinigte Staaten von Amerika|310|g40|1932|194||
+" |[0152](k1/sh/0343/0152)|Vereinigte Staaten von Amerika|310|g41|1920|1945||
+" |[0599](k1/sh/0343/0599)|Vereinigte Staaten von Amerika|310|g43|1920|1945||
 " |[0935](k1/sh/0343/0935)|Vereinigte Staaten von Amerika|310|g44|1920|1944||
 " |[1016](k1/sh/0343/1016)|Vereinigte Staaten von Amerika|310|g45|1920|1942||
 " |[1081](k1/sh/0343/1081)|Vereinigte Staaten von Amerika|310|g46|1936|||
@@ -28740,6 +28750,7 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 " |0247|Europa||vs31|1942|||
 " |0249|Europa||h-|1941|1942||
 " |0253|Europa||h3 / h7|||1920-45|
+" |0254|Europa||h8|1943|||
 " |0256|Europa||h9|1931|1932||
 " |0259|Europa||h11|1931|1940||
 " |0262|Europa||h12|1942|1943||
@@ -28920,8 +28931,6 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 " |1236|Malaysia|126|x72|1922|||
 " |1238|Malaysia|126|x78|1924|1937||
 " |1244|Malaysia|126|x81|1922|1936||
-[0338](k1/sh/0338)|[0338](k1/sh/0338/0338)|Großbritannien|80|g11|1946|1966||
-[0123](k1/sh/0123)|[0061](k1/sh/0123/0061)|Deutschland|1|w80|1980|1986||
 
 :::
 

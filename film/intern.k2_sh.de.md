@@ -17,16 +17,6 @@ Vorläufige Übersicht
 
 Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 --|--|---|--|--|-|-|-|---
-[0696](k2/sh/0696)|[0696](k2/sh/0696/0696)|Deutschland|AL1|x46|1931|||
-0045|0362|Deutschland|AL1|x125|1939|||
-0046|0855|Deutschland|AL1|x157|1934|||
-" |0877|Deutschland|AL1|x157|1941|||
-0058|0462|Deutschland|Al1|x512|1933|||
-0090|0698|Bulgarien|52|vs30|||1920-45|
-0914|0914|Belgien|74|x305|1920|1945||
-[0443](k2/sh/0443)|[0061](k2/sh/0443/0061)|Vereinigte Staaten von Amerika|310|g40|1932|194||
-" |[0152](k2/sh/0443/0152)|Vereinigte Staaten von Amerika|310|g41|1920|1945||
-[0480](k2/sh/0480)|[0254](k2/sh/0480/0254)|Europa||h8|1943|||
 [0409](k2/sh/0409)|[0061](k2/sh/0409/0061)|Europa||allgem.-|1952|1966||
 " |[0094](k2/sh/0409/0094)|Europa||w-|1946|1966||
 " |[0849](k2/sh/0409/0849)|Europa||w1|1946|1966||
@@ -3386,7 +3376,7 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 " |[0172](k2/sh/0554/0172)|Protekorat Böhmen|Al40|f5|1943|1944||
 " |[0185](k2/sh/0554/0185)|Frankreich|70|allgem.|1948|1964||
 " |[0225](k2/sh/0554/0225)|Frankreich|70|w-|1946|||
-[0555](k2/sh/0555)|[0061](k2/sh/0555/0061)|Frankreich|70|w-|1,960|1966||
+[0555](k2/sh/0555)|[0061](k2/sh/0555/0061)|Frankreich|70|w-|1960|1966||
 " |[1137](k2/sh/0555/1137)|Frankreich|70|w1|1946|1962||
 " |[1158](k2/sh/0555/1158)|Frankreich|70|w2||||
 [0556](k2/sh/0556)|[0067](k2/sh/0556/0067)|Frankreich|70|w2|1964|1966||
@@ -3832,7 +3822,7 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 " |[0084](k2/sh/0578/0084)|Frankreich|70|x606|1958|1966||
 " |[0102](k2/sh/0578/0102)|Frankreich|80|x607|1961|||
 [0579](k2/sh/0579)|[0061](k2/sh/0579/0061)|Frankreich|80|w-|1960|1966||
-[0580](k2/sh/0580)|[0061](k2/sh/0580/0061)|Großbritannien|80|f3|1961|1966||
+[0580](k2/sh/0580)|[0001](k2/sh/0580/0001)|Großbritannien|80|f3|1961|1966||
 " |[0273](k2/sh/0580/0273)|Großbritannien|80|f4|1946|1966||
 " |[0282](k2/sh/0580/0282)|Großbritannien|80|f5|1946|1966||
 " |[0489](k2/sh/0580/0489)|Großbritannien|80|f6|1946|1966||
@@ -3898,6 +3888,7 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 " |[0179](k2/sh/0586/0179)|Großbritannien|80|g5|1946|1966||
 " |[0283](k2/sh/0586/0283)|Großbritannien|80|g7|1946|1966||
 " |[0332](k2/sh/0586/0332)|Großbritannien|80|g10|1958|1964||
+" |[0338](k2/sh/0586/0338)|Großbritannien|80|g11|1946|1966||
 " |[0370](k2/sh/0586/0370)|Großbritannien|80|g12|1947|1966||
 " |[0396](k2/sh/0586/0396)|Großbritannien|80|g13|1946|1966||
 " |[0414](k2/sh/0586/0414)|Großbritannien|80|g14|1950|1966||
@@ -4437,8 +4428,8 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 " |[0511](k2/sh/9564/0511)|Deutschland / Russische Zone|1R|x433|1946|1961||
 " |[0526](k2/sh/9564/0526)|Deutschland / Russische Zone|1R|x435|1951|1965||
 " |[0534](k2/sh/9564/0534)|Deutschland / Russische Zone|1R|x445|1946|1966||
-564_a|0541|Deutschland / Russische Zone|1R|x450|1945|1966||
-[9564](k2/sh/9564)|[0600](k2/sh/9564/0600)|Deutschland / Russische Zone|1R|x451|1947|1952||
+" |[0541](k2/sh/9564/0541)|Deutschland / Russische Zone|1R|x450|1945|1966||
+" |[0600](k2/sh/9564/0600)|Deutschland / Russische Zone|1R|x451|1947|1952||
 " |[0604](k2/sh/9564/0604)|Deutschland / Russische Zone|1R|x452|1946|1966||
 " |[0635](k2/sh/9564/0635)|Deutschland / Russische Zone|1R|x453|1947|1965||
 " |[0638](k2/sh/9564/0638)|Deutschland / Russische Zone|1R|x455|1947|1959||
@@ -6193,6 +6184,7 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 " |0547|Deutschland|1|w80|1967|1972||
 0721|0061|Deutschland|1|w80|1972|1976||
 0722|0061|Deutschland|1|w80|1976|1980||
+0723|0061|Deutschland|1|w80|1980|1986||
 0724|0061|Deutschland|1|w80|1986|1989||
 0725|0061|Deutschland|1|w80|1989|||
 " |0159|Deutschland||w90|1967|1989||

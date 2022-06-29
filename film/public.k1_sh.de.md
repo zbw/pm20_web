@@ -5656,6 +5656,7 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 040|668|Deutschland|AL1|x46|1928|||
 040|678|Deutschland|AL1|x46|1929|||
 040|686|Deutschland|AL1|x46|1930|||
+040|696|Deutschland|AL1|x46|1931|||
 040|700|Deutschland|AL1|x46|1932|||
 040|710|Deutschland|AL1|x46|1933|||
 040|721|Deutschland|AL1|x46|1934|||
@@ -6343,7 +6344,7 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 045|173|Deutschland|AL1|x121|1926|||
 045|175|Deutschland|AL1|x121|1927|||
 045|177|Deutschland|AL1|x121|1928|||
-054|181|Deutschland|AL1|x121|||1929-34|
+045|181|Deutschland|AL1|x121|||1929-34|
 045|182|Deutschland|AL1|x121|1935|||
 045|183|Deutschland|AL1|x121|1936|||
 045|186|Deutschland|AL1|x121|1937|||
@@ -6397,6 +6398,7 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 045|352|Deutschland|AL1|x125|1936|||
 045|356|Deutschland|AL1|x125|1937|||
 045|359|Deutschland|AL1|x125|1938|||
+045|362|Deutschland|AL1|x125|1939|||
 045|364|Deutschland|AL1|x125|1940|||
 045|372|Deutschland|AL1|x125|1941|||
 045|376|Deutschland|AL1|x125|1942|||
@@ -6442,7 +6444,7 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 045|523|Deutschland|AL1|x131|1931|||
 045|525|Deutschland|AL1|x131|1932|||
 045|527|Deutschland|AL1|x131|1933|||
-04|529|Deutschland|AL1|x131|||1934-36|
+045|529|Deutschland|AL1|x131|||1934-36|
 045|530|Deutschland|AL1|x131|1937|||
 045|532|Deutschland|AL1|x131|||1938-41|
 045|533|Deutschland|AL1|x131|1942|||
@@ -6798,12 +6800,14 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 046|846|Deutschland|AL1|x157|1931|||
 046|848|Deutschland|AL1|x157|1932|||
 046|853|Deutschland|AL1|x157|1933|||
+046|855|Deutschland|AL1|x157|1934|||
 046|857|Deutschland|AL1|x157|1935|||
 046|859|Deutschland|AL1|x157|1936|||
 046|862|Deutschland|AL1|x157|1937|||
 046|866|Deutschland|AL1|x157|1938|||
 046|868|Deutschland|AL1|x157|1939|||
-06|871|Deutschland|AL1|x157|1940|||
+046|871|Deutschland|AL1|x157|1940|||
+046|877|Deutschland|AL1|x157|1941|||
 046|880|Deutschland|AL1|x157|1942|||
 046|885|Deutschland|AL1|x157|1943|||
 046|888|Deutschland|AL1|x157|1944|||
@@ -8449,7 +8453,7 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 056|159|Deutschland|Al1|x455|1923|||
 056|160|Deutschland|Al1|x455|1924|||
 056|161|Deutschland|Al1|x455|1925|||
-156|162|Deutschland|Al1|x455|1926|||
+056|162|Deutschland|Al1|x455|1926|||
 056|165|Deutschland|Al1|x455|||1927|
 056|166|Deutschland|Al1|x455|1928|||
 056|167|Deutschland|Al1|x455|1929|||
@@ -8909,6 +8913,7 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 058|447|Deutschland|Al1|x512|1930|||
 058|455|Deutschland|Al1|x512|1931|||
 058|459|Deutschland|Al1|x512|1932|||
+058|462|Deutschland|Al1|x512|1933|||
 058|464|Deutschland|Al1|x512|1934|||
 058|466|Deutschland|Al1|x512|1935|||
 058|470|Deutschland|Al1|x512|1936|||
@@ -11658,9 +11663,10 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 095|910|Schweden|15|x411|1923|1945|1920-22,24-28,31-34,38,40|
 095|923|Schweden|15|x420|1939|1942|1920-38,43-45|
 095|931|Schweden|15|x428|1933|1944|1920-32,34,36-37,45|
-1925|941|Schweden|15|x430|1920|1945||
+095|941|Schweden|15|x430|1920|1945||
 095|1070|Schweden|15|x431|1920|1945|1927-30|
 095|1160|Schweden|15|x432|1923|1942|1920-22,24,26-33,43-45|
+095|1170|Schweden|15|x433|1922|1945|1920-21,24,30-31,37|
 095|1211|Schweden|15|x435|1938|1944|1920-37,41-43,45|
 095|1217|Schweden|15|x445|||1920-45|
 095|1218|Schweden|15|x450|1920|1945|1921|
@@ -16414,6 +16420,7 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 190|692|Bulgarien|52|vs25|||1920-45|
 190|693|Bulgarien|52|vs28|1937|||
 190|695|Bulgarien|52|vs29|1942|1945||
+190|698|Bulgarien|52|vs30|||1920-45|
 190|699|Bulgarien|52|vs31|||1920-45|
 190|700|Bulgarien|52|h-|1920|1944||
 190|737|Bulgarien|52|h3|1934|1944||
@@ -19715,6 +19722,7 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 252|701|Belgien|74|x281|1921|1945||
 252|740|Belgien|74|x282|1935|1942||
 252|746|Belgien|74|x300|1920|1944||
+252|914|Belgien|74|x305|1920|1945||
 252|915|Belgien|74|x310|1920|1944||
 252|951|Belgien|74|x311|1923|1944||
 252|963|Belgien|74|x312|1933|1938||
@@ -19786,7 +19794,7 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 253|498|Belgien|74|x554|1920|1924||
 253|501|Belgien|74|x555|1920|1941||
 253|504|Belgien|74|x556|||1920-45|
-23|505|Belgien|74|x558|||1920-45|
+253|505|Belgien|74|x558|||1920-45|
 253|506|Belgien|74|x560|1921|1942||
 253|519|Belgien|74|x562|1921|1944||
 253|531|Belgien|74|x565|1924|1944||
@@ -23712,26 +23720,26 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 314|396|Marokko|202|x400 bis x475|1939|||
 314|398|Marokko|202| x500 bis x565|1920|1945||
 314|423|Marokko|202|x570 bis x601|1920|1945||
-314|447|Allgerien|203|allgem.-|1930|1939||
-314|455|Allgerien|203|w|1920|1945||
-314|538|Allgerien|203|aw|1921|1942||
-314|544|Allgerien|203|b|1941|1942||
-314|547|Allgerien|203|a|1923|1945||
-314|558|Allgerien|203|p|1921|1945||
-314|571|Allgerien|203|f|1920|1945||
-314|599|Allgerien|203|v|1920|1944||
-314|624|Allgerien|203|g|1921|1943||
-314|659|Allgerien|203|vs|1940|1942||
-314|679|Allgerien|203|h|1920|1942||
-314|684|Allgerien|203|ah|1920|1944||
-314|698|Allgerien|203|x- bis x3|1920|1942||
-314|739|Allgerien|203|x10 bis x90|1920|1943||
-314|748|Allgerien|203|x100 bis x192|1920|1943||
-314|778|Allgerien|203|x200 bis x281|1920|1943||
-314|802|Allgerien|203|x300 bis x380|1920|1943||
-314|823|Allgerien|203|x400 bis x475|1939|1942||
-314|869|Allgerien|203|x500 bis x565|1931|1942||
-314|890|Allgerien|203|x570 bis x601|1920|1939||
+314|447|Algerien|203|allgem.-|1930|1939||
+314|455|Algerien|203|w|1920|1945||
+314|538|Algerien|203|aw|1921|1942||
+314|544|Algerien|203|b|1941|1942||
+314|547|Algerien|203|a|1923|1945||
+314|558|Algerien|203|p|1921|1945||
+314|571|Algerien|203|f|1920|1945||
+314|599|Algerien|203|v|1920|1944||
+314|624|Algerien|203|g|1921|1943||
+314|659|Algerien|203|vs|1940|1942||
+314|679|Algerien|203|h|1920|1942||
+314|684|Algerien|203|ah|1920|1944||
+314|698|Algerien|203|x- bis x3|1920|1942||
+314|739|Algerien|203|x10 bis x90|1920|1943||
+314|748|Algerien|203|x100 bis x192|1920|1943||
+314|778|Algerien|203|x200 bis x281|1920|1943||
+314|802|Algerien|203|x300 bis x380|1920|1943||
+314|823|Algerien|203|x400 bis x475|1939|1942||
+314|869|Algerien|203|x500 bis x565|1931|1942||
+314|890|Algerien|203|x570 bis x601|1920|1939||
 314|914|Tunis|204|allgem.-|1923|1942||
 314|923|Tunis|204|w|1920|1943||
 314|958|Tunis|204|aw|1921|1940||
@@ -25649,6 +25657,8 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 342|1089|Vereinigte Staaten von Amerika|310|g36|1920|1945||
 342|1158|Vereinigte Staaten von Amerika|310|g39|1929|1944||
 342|1411|Vereinigte Staaten von Amerika|310|g40|1920|1931||
+343|061|Vereinigte Staaten von Amerika|310|g40|1932|194||
+343|152|Vereinigte Staaten von Amerika|310|g41|1920|1945||
 343|599|Vereinigte Staaten von Amerika|310|g43|1920|1945||
 343|935|Vereinigte Staaten von Amerika|310|g44|1920|1944||
 343|1016|Vereinigte Staaten von Amerika|310|g45|1920|1942||
@@ -28740,6 +28750,7 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 408|247|Europa||vs31|1942|||
 408|249|Europa||h-|1941|1942||
 408|253|Europa||h3 / h7|||1920-45|
+408|254|Europa||h8|1943|||
 408|256|Europa||h9|1931|1932||
 408|259|Europa||h11|1931|1940||
 408|262|Europa||h12|1942|1943||
@@ -28920,8 +28931,6 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 408|1236|Malaysia|126|x72|1922|||
 408|1238|Malaysia|126|x78|1924|1937||
 408|1244|Malaysia|126|x81|1922|1936||
-338|338|Großbritannien|80|g11|1946|1966||
-123|61|Deutschland|1|w80|1980|1986||
 
 :::
 

@@ -17,16 +17,6 @@ Vorläufige Übersicht
 
 Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 --|--|---|--|--|-|-|-|---
-696|696|Deutschland|AL1|x46|1931|||
-45|362|Deutschland|AL1|x125|1939|||
-46|855|Deutschland|AL1|x157|1934|||
-46|877|Deutschland|AL1|x157|1941|||
-58|462|Deutschland|Al1|x512|1933|||
-90|698|Bulgarien|52|vs30|||1920-45|
-914|914|Belgien|74|x305|1920|1945||
-443|061|Vereinigte Staaten von Amerika|310|g40|1932|194||
-443|152|Vereinigte Staaten von Amerika|310|g41|1920|1945||
-480|254|Europa||h8|1943|||
 409|061|Europa||allgem.-|1952|1966||
 409|094|Europa||w-|1946|1966||
 409|849|Europa||w1|1946|1966||
@@ -3386,7 +3376,7 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 554|172|Protekorat Böhmen|Al40|f5|1943|1944||
 554|185|Frankreich|70|allgem.|1948|1964||
 554|225|Frankreich|70|w-|1946|||
-555|61|Frankreich|70|w-|1,960|1966||
+555|61|Frankreich|70|w-|1960|1966||
 555|1137|Frankreich|70|w1|1946|1962||
 555|1158|Frankreich|70|w2||||
 556|67|Frankreich|70|w2|1964|1966||
@@ -3832,7 +3822,7 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 578|84|Frankreich|70|x606|1958|1966||
 578|102|Frankreich|80|x607|1961|||
 579|61|Frankreich|80|w-|1960|1966||
-580|61|Großbritannien|80|f3|1961|1966||
+580|1|Großbritannien|80|f3|1961|1966||
 580|273|Großbritannien|80|f4|1946|1966||
 580|282|Großbritannien|80|f5|1946|1966||
 580|489|Großbritannien|80|f6|1946|1966||
@@ -3898,6 +3888,7 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 586|179|Großbritannien|80|g5|1946|1966||
 586|283|Großbritannien|80|g7|1946|1966||
 586|332|Großbritannien|80|g10|1958|1964||
+586|338|Großbritannien|80|g11|1946|1966||
 586|370|Großbritannien|80|g12|1947|1966||
 586|396|Großbritannien|80|g13|1946|1966||
 586|414|Großbritannien|80|g14|1950|1966||
@@ -4437,7 +4428,7 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 9564|511|Deutschland / Russische Zone|1R|x433|1946|1961||
 9564|526|Deutschland / Russische Zone|1R|x435|1951|1965||
 9564|534|Deutschland / Russische Zone|1R|x445|1946|1966||
-564_a|541|Deutschland / Russische Zone|1R|x450|1945|1966||
+9564|541|Deutschland / Russische Zone|1R|x450|1945|1966||
 9564|600|Deutschland / Russische Zone|1R|x451|1947|1952||
 9564|604|Deutschland / Russische Zone|1R|x452|1946|1966||
 9564|635|Deutschland / Russische Zone|1R|x453|1947|1965||
@@ -6193,6 +6184,7 @@ Film|Aufnahme|Land|Ländersign.|Sachsignatur|Von|Bis|Kein Material|Bemerkungen
 720|547|Deutschland|1|w80|1967|1972||
 721|61|Deutschland|1|w80|1972|1976||
 722|61|Deutschland|1|w80|1976|1980||
+723|61|Deutschland|1|w80|1980|1986||
 724|61|Deutschland|1|w80|1986|1989||
 725|61|Deutschland|1|w80|1989|||
 725|159|Deutschland||w90|1967|1989||
