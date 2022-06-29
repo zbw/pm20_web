@@ -15,7 +15,7 @@
 $ip_hints = file_get_contents('/pm20/web/templates/fragments/ip_hints.de.html.frag');
 
 // get actual dir name
-$fs_root = dirname( getcwd() );
+$fs_root = dirname(getcwd());
 $web_root = '/film/';
 $fast_skip = 50;
 
@@ -31,19 +31,19 @@ $film = $query_parts['film'] ?: '0200';
 $img = $query_parts['img'] ?: '';
 $lang = 'de';
 
-require "prev_next_film.${set}_${collection}.inc";
+require "prev_next_film.${set}_$collection.inc";
 
 $filmpath = "$web_root$set/$collection/$film";
-if ( ! is_dir("$fs_root$filmpath") ) {
+if (!is_dir("$fs_root$filmpath")) {
   header("HTTP/1.0 404 Not Found");
   echo "\nFilm path $filmpath not found\n";
   exit;
 }
 
-// get a list of all acessible files in the film directory
-if ( getenv("PM20_INTERNAL") == 1 ) {
+// get a list of all accessible files in the film directory
+if (getenv("PM20_INTERNAL") == 1) {
   // access to all files is free
-  // asuming glob returns files in correct sequence
+  // assuming glob returns files in correct sequence
   $files = glob($fs_root . $filmpath . '/' . "*.jpg");
 } else {
   // all access is forbidden via Apache mod_authz
@@ -51,7 +51,7 @@ if ( getenv("PM20_INTERNAL") == 1 ) {
   // only for these
   $files = [];
   $htaccess = $fs_root . $filmpath . '/.htaccess';
-  if ( file_exists($htaccess) ) {
+  if (file_exists($htaccess)) {
     $lines = explode("\n", file_get_contents($htaccess));
     foreach ($lines as $line) {
       if (preg_match('/^SetEnvIf Request_URI "(\S+\.jpg)\$" allowedURL$/', $line, $matches)) {
@@ -76,7 +76,7 @@ if (empty($img)) {
 
 // construct file name from image number
 $cur_file = build_filepath($filmpath, $img, $fn_type);
-if (! file_exists("$fs_root$cur_file")) {
+if (!file_exists("$fs_root$cur_file")) {
   header("HTTP/1.0 404 Not Found");
   echo "\nImage file  $cur_file not found\n";
   exit;
@@ -93,7 +93,7 @@ foreach ($files as $key => $file) {
   $tmp_path = "$filmpath/$tmp_img";
   if ("$fs_root$cur_file" == $file) {
     $cur_key = $key;
-    $links = $links . '<b><a id="img_' . $tmp_img . '">' . $tmp_img . '</a></b> &#160;' . "\n" ;
+    $links = $links . '<b><a id="img_' . $tmp_img . '">' . $tmp_img . '</a></b> &#160;' . "\n";
   } else {
     $links = $links . '<a id="img_' . $tmp_img . '" href="' . $tmp_path . '">' . $tmp_img . '</a> &#160;' . "\n";
   }
@@ -145,7 +145,7 @@ $canonical_link = build_canonical_link($filmpath, $img);
 $film_nav = film_nav($film, $set, $collection);
 
 
-function get_filename_type($file)
+function get_filename_type($file): string
 {
   $fn_type = 0;
   $fn = basename($file);
@@ -178,10 +178,9 @@ function get_filename_type($file)
   }
 }
 
-function build_filepath($filmpath, $img, $fn_type)
+function build_filepath($filmpath, $img, $fn_type): string
 {
   $film = basename($filmpath);
-  $fn = '';
   switch ($fn_type) {
     case 1:
       $fn = "S$film${img}K.jpg";
@@ -204,13 +203,13 @@ function build_filepath($filmpath, $img, $fn_type)
       break;
     default:
       header("HTTP/1.0 400 Bad request");
-      echo "\nUnknown fn_type: $fn_type\n";;
+      echo "\nUnknown fn_type: $fn_type\n";
       exit;
   }
   return "$filmpath/$fn";
 }
 
-function extract_imgname($file, $film, $fn_type)
+function extract_imgname($file, $film, $fn_type): string
 {
   switch ($fn_type) {
     case 1:
@@ -240,30 +239,32 @@ function extract_imgname($file, $film, $fn_type)
   return $img;
 }
 
-function build_canonical_link($filmpath, $img) {
+function build_canonical_link($filmpath, $img): string
+{
   return "https://pm20.zbw.eu$filmpath/$img";
   # annotating a film by page number does not work due to changing anchors
 }
 
-function film_nav($film, $set, $collection) {
-  [ $prev_film, $next_film ] = prev_next_film($film);
+function film_nav($film, $set, $collection): string
+{
+  [$prev_film, $next_film] = prev_next_film($film);
   $nav = '<div><br />';
-  if(!empty($prev_film)) {
+  if (!empty($prev_film)) {
     $nav .= "<a href=\"../$prev_film\">voriger Film</a> &#160;&#160;";
   }
-  if(!empty($next_film)) {
+  if (!empty($next_film)) {
     $nav .= "<a href=\"../$next_film\">nächster Film</a> &#160;&#160;";
   }
-  $nav .= "<a href=\"/film/${set}_${collection}.de.html\">zurück zum Filmverzeichnis</a></div>";
+  $nav .= "<a href=\"/film/${set}_$collection.de.html\">zurück zum Filmverzeichnis</a></div>";
   return $nav;
 }
 
 ?><!DOCTYPE html>
-<html>
+<html lang="de">
 <head>
   <meta charset="UTF-8">
   <title><?= $title ?></title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes"/>
   <style>
     * {
       font-family: Arial, sans-serif;
@@ -313,7 +314,9 @@ function film_nav($film, $set, $collection) {
     }
   </style>
   <script type="application/json" class="js-hypothesis-config">
-    { "openSidebar": false }
+    {
+      "openSidebar": false
+    }
   </script>
 
   <script src="https://hypothes.is/embed.js" async></script>
@@ -322,17 +325,20 @@ function film_nav($film, $set, $collection) {
     function leftArrowPressed() {
       <?php if (!empty($prev_path)): ?>window.open("<?= $prev_path ?>", "_self");<?php endif; ?>
     }
+
     function rightArrowPressed() {
       <?php if (!empty($next_path)): ?>window.open("<?= $next_path ?>", "_self");<?php endif; ?>
     }
+
     function ctrlLeftArrowPressed() {
       window.open("<?= $fprev_path ?>", "_self");
     }
+
     function ctrlRightArrowPressed() {
       window.open("<?= $fnext_path ?>", "_self");
     }
 
-    document.onkeydown = function(evt) {
+    document.onkeydown = function (evt) {
       evt = evt || window.event;
       switch (evt.keyCode) {
         case 37:
@@ -352,12 +358,12 @@ function film_nav($film, $set, $collection) {
 <body>
 
 <div class="imgview-pos">
-  <img id="img-id" class="imgview-full" src="<?= $cur_file ?>" alt="Image" />
+  <img id="img-id" class="imgview-full" src="<?= $cur_file ?>" alt="Image"/>
   <?php if (!empty($prev_path)): ?><a href="<?= $prev_path ?>"
-                                     style="top: 0%; left: 0%; width: 25%; height: 100%;"></a><?php endif; ?>
+                                      style="top: 0%; left: 0%; width: 25%; height: 100%;"></a><?php endif; ?>
   <a href="<?= $cur_file ?>" style="top: 0%; left: 35%; width: 40%; height: 100%;"></a>
   <?php if (!empty($next_path)): ?><a href="<?= $next_path ?>"
-                                     style="top: 0%; left: 75%; width: 25%; height: 100%;"></a><?php endif; ?>
+                                      style="top: 0%; left: 75%; width: 25%; height: 100%;"></a><?php endif; ?>
 </div>
 
 <div class="no-print" style="margin-top: 1.5em;">
@@ -365,16 +371,17 @@ function film_nav($film, $set, $collection) {
   <img src="/images/zbw_pm20.de.jpg" alt="ZBW PM20 Logo" usemap="#logomap" width="500px">
 
   <map name="logomap">
-    <area shape="rect" coords="0, 0, 166, 73" href="https://www.zbw.eu/de">
-    <area shape="rect" coords="180, 0, 1041, 73" href="/about.de.html"></map>
+    <area shape="rect" coords="0, 0, 166, 73" href="https://www.zbw.eu/de" alt="logo section zbw">
+    <area shape="rect" coords="180, 0, 1041, 73" href="/about.de.html" alt="logo section pm20">
+  </map>
 
   <h1>PM20 Filmviewer</h1>
   <h2>Verfilmung <?= $set ?> - Archiv <?= $collection ?> - Film <?= $film ?> - Bild <?= $img ?> von <?= $count ?></h2>
 
   <?= $film_nav ?>
 
-  <div>&#160;<br />
-  <?= $links ?>
+  <div>&#160;<br/>
+    <?= $links ?>
   </div>
 
   <?php prev_next_film($film) ?>
@@ -383,18 +390,23 @@ function film_nav($film, $set, $collection) {
   <h2>Bedienung</h2>
 
   <ul>
-  <li><b>Vor-/Zurückblättern</b>: Pfeil rechts/links, oder Mausklick im rechten/linken Bildviertel (im Filmviewer-Modus)</li>
-  <li><b>Springen im Film/zurück in die Filmliste</b>: Herunterblättern, um die Navigation anzuzeigen (im Filmviewer-Modus)</li>
-  <li><b>Einzelbildanzeige</b>: Mausklick in Bildmitte</li>
-  <li><b>Vergrößern</b>: mit Mauszeiger (Lupen-Symbol) auf gewünschten Bereich klicken (im Einzelbild-Modus)</li>
-  <li><b>Einzelbild-Modus verlassen</b>: Alt-Pfeil links </li>
+    <li><b>Vor-/Zurückblättern</b>: Pfeil rechts/links, oder Mausklick im rechten/linken Bildviertel (im
+      Filmviewer-Modus)
+    </li>
+    <li><b>Springen im Film/zurück in die Filmliste</b>: Herunterblättern, um die Navigation anzuzeigen (im
+      Filmviewer-Modus)
+    </li>
+    <li><b>Einzelbildanzeige</b>: Mausklick in Bildmitte</li>
+    <li><b>Vergrößern</b>: mit Mauszeiger (Lupen-Symbol) auf gewünschten Bereich klicken (im Einzelbild-Modus)</li>
+    <li><b>Einzelbild-Modus verlassen</b>: Alt-Pfeil links</li>
   </ul>
 
   <?= $ip_hints ?>
 
 </div>
 
-<footer><p><br /><a href="https://www.zbw.eu/de/impressum/">Impressum</a> &nbsp; <a href="https://www.zbw.eu/de/datenschutz/">Datenschutz</a></p></footer>
+<footer><p><br/><a href="https://www.zbw.eu/de/impressum/">Impressum</a> &nbsp; <a
+        href="https://www.zbw.eu/de/datenschutz/">Datenschutz</a></p></footer>
 
 </body>
 </html>
