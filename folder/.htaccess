@@ -14,12 +14,15 @@ RewriteRule "(.*)/mets$" "$1/internal.mets"
 RewriteCond "%{ENV:PM20_INTERNAL}" ""
 RewriteRule "(.*)/mets$" "$1/public.mets"
 
-### short urls for folders
+### URIs for folders
 RewriteRule "^(co|pe)/(....)(..)$" "https://pm20.zbw.eu/folder/$1/$2xx/$2$3/about"
 RewriteRule "^(sh|wa)/(....)(..),(....)(..)$" "https://pm20.zbw.eu/folder/$1/$2xx/$2$3/$4xx/$4$5/about.de.html"
 
-### short urls for  documents - rewrite to iiif view
+### URIs for documents - rewrite to iiif view
 RewriteRule "^(co|pe|sh|wa)/([0-9,]+)/([0-9]{5})$" "https://pm20.zbw.eu/iiifview/folder/$1/$2/$3"
+
+### URIs for pages of documents - rewrite to iiif view
+RewriteRule "^(co|pe|sh|wa)/([0-9,]+)/([0-9]{5})/([0-9]{4})$" "https://pm20.zbw.eu/iiifview/folder/$1/$2/$3/$4"
 
 
 ### CORS rule
