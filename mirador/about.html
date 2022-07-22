@@ -19,7 +19,9 @@
       windows: [],
       workspace: {
         showZoomControls: true
-      }
+      },
+      // TODO activate when language picker works
+      //workspaceControlPanel: { enabled: false }
     }
     let url = new URL(window.location.href)
     let m = url.searchParams.get("manifestId")
@@ -27,14 +29,14 @@
     if(m) {
       let w = {
         manifestId: m,
-        allowClose: false,
         sideBarOpen: true,
         sideBarPanel: 'canvas',
+        showLocalePicker: true,
         // obsolete options!!
         //defaultSideBarPanel: 'index', 
         //sideBarOpenByDefault: true
       }
-      if(c) {
+      if (c) {
         w.canvasId = c
       }
       config.windows.push(w)
