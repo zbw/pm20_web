@@ -1,35 +1,46 @@
 ---
 title: "h7 Sm50 Soziale Fürsorge, Institutionen"
-etr: category/subject/h7 Sm50
 modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
-x-canonical: https://pm20.zbw.eu/category/subject/s/h7_Sm50
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
+
 # [h7 Sm50]{.gray}&#8201; Soziale Fürsorge, Institutionen&#160; 
 
 
 
 
-Insgesamt 2 Sach-Mappen, 25 Dokumente - Mappen unvollständig.
+
+
+
+## Länder-Sacharchiv
+
+
+
+
+Insgesamt 2 Mappen, 25 Dokumente - Mappen unvollständig.
 Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
-_Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
-
-## Sacharchiv
+_Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
 
 
 
 ### Europa
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/140905,181120" title="über: Hamburg : Soziale Fürsorge, Institutionen" target="_blank">22 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1811xx/181120/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,181120" title="über: Hamburg : Soziale Fürsorge, Institutionen" target="_blank">22 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1811xx/181120/about.de.html))
 
 ### Asien
 
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,181120" title="über: Japan : Soziale Fürsorge, Institutionen" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141272/1811xx/181120/about.de.html))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141272,181120" title="über: Japan : Soziale Fürsorge, Institutionen" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141272/1811xx/181120/about.de.html))
+
+
+
+
+
+
 
 

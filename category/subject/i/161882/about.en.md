@@ -1,37 +1,46 @@
 ---
 title: "n13 Sm4 Industrial exploitation of natural forces"
-etr: category/subject/n13 Sm4
 modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
-x-canonical: https://pm20.zbw.eu/category/subject/s/n13_Sm4
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
+
 # [n13 Sm4]{.gray}&#8201; Industrial exploitation of natural forces&#160; 
 
 
 
 
 
-In total 2 subject folders, 5 documents - folders incomplete.
+
+
+## Countries-subject archives
+
+
+
+
+
+In total 2 folders, 5 documents - folders incomplete.
 For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
-
-## Subject archives
 
 
 
 ### Africa
 
-- C110 German East Africa [**&nearr;**](../../../geo/i/141471/about.en.html "German East Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C110 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141471,161882" title="about: German East Africa : Industrial exploitation of natural forces" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1414xx/141471/1618xx/161882/about.en.html))
+- C110 German East Africa [**&nearr;**](../../../geo/i/141471/about.en.html "German East Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C110 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141471,161882" title="about: German East Africa : Industrial exploitation of natural forces" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1414xx/141471/1618xx/161882/about.en.html))
 
 ### Australia and Oceania
 
-- D5 Hawaii [**&nearr;**](../../../geo/i/141595/about.en.html "Hawaii (all folders)") [**&uarr;**](../../../geo/about.en.html#D5 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141595,161882" title="about: Hawaii : Industrial exploitation of natural forces" target="_blank">4 documents</a>) ([folder](../../../../folder/sh/1415xx/141595/1618xx/161882/about.en.html))
+- D5 Hawaii [**&nearr;**](../../../geo/i/141595/about.en.html "Hawaii (all folders)") [**&uarr;**](../../../geo/about.en.html#D5 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141595,161882" title="about: Hawaii : Industrial exploitation of natural forces" target="_blank">4 documents</a>) ([folder](../../../../folder/sh/1415xx/141595/1618xx/161882/about.en.html))
 
 
-_* The English category label is an unchecked automated translation of the German label._
+
+
+
+
+
 

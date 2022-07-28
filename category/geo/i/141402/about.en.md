@@ -1,35 +1,74 @@
 ---
 title: "C54 British West Africa"
-etr: category/geo/C54
-modified: 2021-03-13
+modified: 2022-07-17
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
-x-canonical: https://pm20.zbw.eu/category/geo/s/C54
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
+
 # [C54]{.gray}&#8201; British West Africa&#160; 
 
 
 
 
 
-In total 2 subject folders, 8 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
 
-_For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
+
+
 
 ## Subject archives
 
 
-  - o1 Sm500 German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145911/about.en.html "German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum) (all over the world)") [**&uarr;**](../../../subject/about.en.html#o1_Sm500 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141402,145911" title="about: British West Africa : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">6 documents</a>) ([folder](../../../../folder/sh/1414xx/141402/1459xx/145911/about.en.html))
+
+
+
+
+
+In total 2 folders, 8 documents - folders incomplete.
+For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+_For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
+
+
+  - o1 Sm500 German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145911/about.en.html "German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum) (all over the world)") [**&uarr;**](../../../subject/about.en.html#o1_Sm500 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141402,145911" title="about: British West Africa : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">6 documents</a>) ([folder](../../../../folder/sh/1414xx/141402/1459xx/145911/about.en.html))
 
 ### Settling and migration
 
 - [p3 Immigration and Immigration Policy]{.gray}
-  - p3 Sm500 German immigrants (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145921/about.en.html "German immigrants (Forschungsstelle für das Übersee-Deutschtum) (all over the world)") [**&uarr;**](../../../subject/about.en.html#p3_Sm500 "Subject category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141402,145921" title="about: British West Africa : German immigrants (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1414xx/141402/1459xx/145921/about.en.html))
+  - p3 Sm500 German immigrants (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145921/about.en.html "German immigrants (Forschungsstelle für das Übersee-Deutschtum) (all over the world)") [**&uarr;**](../../../subject/about.en.html#p3_Sm500 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141402,145921" title="about: British West Africa : German immigrants (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1414xx/141402/1459xx/145921/about.en.html))
 
 
-_* The English category label is an unchecked automated translation of the German label._
+
+
+
+
+
+## Commodities/wares archives
+
+
+
+
+
+
+
+
+
+In total 6 folders, 75 documents - folders incomplete.
+For material not published as folders, please check the [digitized micro-films](/film/h1_wa.de.html) (in German).
+
+_For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
+
+
+- Alcoholic beverage [**&nearr;**](../../../ware/i/141966/about.en.html "Alcoholic beverage (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20.02-Sp "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141402" title="about: Alcoholic beverage : British West Africa" target="_blank">20 documents</a>) ([folder](../../../../folder/wa/1419xx/141966/1414xx/141402/about.en.html))
+- Banana [**&nearr;**](../../../ware/i/142038/about.en.html "Banana (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bn "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141402" title="about: Banana : British West Africa" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142038/1414xx/141402/about.en.html))
+- Citrus fruits [**&nearr;**](../../../ware/i/141948/about.en.html "Citrus fruits (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Zs "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141402" title="about: Citrus fruits : British West Africa" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1414xx/141402/about.en.html))
+- Cotton [**&nearr;**](../../../ware/i/142089/about.en.html "Cotton (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bw "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141402" title="about: Cotton : British West Africa" target="_blank">51 documents</a>) ([folder](../../../../folder/wa/1420xx/142089/1414xx/141402/about.en.html))
+- Orange [**&nearr;**](../../../ware/i/141981/about.en.html "Orange (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Zs01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,141402" title="about: Orange : British West Africa" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141981/1414xx/141402/about.en.html))
+- Pineapple [**&nearr;**](../../../ware/i/141970/about.en.html "Pineapple (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Tr01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141970,141402" title="about: Pineapple : British West Africa" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141970/1414xx/141402/about.en.html))
+
+
+
 

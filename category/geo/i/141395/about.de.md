@@ -1,28 +1,67 @@
 ---
 title: "C47 Kanarische Inseln"
-etr: category/geo/C47
-modified: 2021-03-13
+modified: 2022-07-17
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
-x-canonical: https://pm20.zbw.eu/category/geo/s/C47
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
+
 # [C47]{.gray}&#8201; Kanarische Inseln&#160; 
 
 
 
 
-Insgesamt 1 Sach-Mappen, 13 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+[Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
 
-_Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
+
+
+
 
 ## Sacharchiv
 
 
 
-  - o1 Sm500 Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145911/about.de.html "Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#o1_Sm500 "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141395,145911" title="über: Kanarische Inseln : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">13 Dokumente</a>) ([Mappe](../../../../folder/sh/1413xx/141395/1459xx/145911/about.de.html))
+
+
+
+Insgesamt 1 Mappen, 13 Dokumente - Mappen unvollständig.
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+_Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
+
+
+
+  - o1 Sm500 Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145911/about.de.html "Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#o1_Sm500 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141395,145911" title="über: Kanarische Inseln : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">13 Dokumente</a>) ([Mappe](../../../../folder/sh/1413xx/141395/1459xx/145911/about.de.html))
+
+
+
+
+
+
+
+## Warenarchiv
+
+
+
+
+
+
+
+
+Insgesamt 4 Mappen, 71 Dokumente - Mappen unvollständig.
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+_Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
+
+
+
+- Banane [**&nearr;**](../../../ware/i/142038/about.de.html "Banane (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bn "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141395" title="über: Banane : Kanarische Inseln" target="_blank">64 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142038/1413xx/141395/about.de.html))
+- Baumaterial [**&nearr;**](../../../ware/i/142086/about.de.html "Baumaterial (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141395" title="über: Baumaterial : Kanarische Inseln" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142086/1413xx/141395/about.de.html))
+- Benzin [**&nearr;**](../../../ware/i/142108/about.de.html "Benzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141395" title="über: Benzin : Kanarische Inseln" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1413xx/141395/about.de.html))
+- Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141395" title="über: Kohle : Kanarische Inseln" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1413xx/141395/about.de.html))
+
+
 
 

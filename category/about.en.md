@@ -11,4 +11,5 @@ backlink-title: Home
 
 - [by Country Category System](geo/about.en.html)
 - [by Subject Category System](subject/about.en.html)
+- [by Ware Category System](ware/about.en.html)
 

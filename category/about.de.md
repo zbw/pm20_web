@@ -11,3 +11,4 @@ backlink-title: Home
 
 - [nach Ländersytematik](geo/about.de.html)
 - [nach Sachsystematik](subject/about.de.html)
+- [nach Warensystematik](ware/about.de.html)

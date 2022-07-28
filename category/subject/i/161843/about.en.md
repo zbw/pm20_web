@@ -1,33 +1,42 @@
 ---
 title: "n15 Sm11 Foreign and colonial workers"
-etr: category/subject/n15 Sm11
 modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
-x-canonical: https://pm20.zbw.eu/category/subject/s/n15_Sm11
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
+
 # [n15 Sm11]{.gray}&#8201; Foreign and colonial workers&#160; 
 
 
 
 
 
-In total 1 subject folders, 1 documents - folders incomplete.
+
+
+## Countries-subject archives
+
+
+
+
+
+In total 1 folders, 1 documents - folders incomplete.
 For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
-
-## Subject archives
 
 
 
 ### Australia and Oceania
 
-- D5 Hawaii [**&nearr;**](../../../geo/i/141595/about.en.html "Hawaii (all folders)") [**&uarr;**](../../../geo/about.en.html#D5 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141595,161843" title="about: Hawaii : Foreign and colonial workers" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1415xx/141595/1618xx/161843/about.en.html))
+- D5 Hawaii [**&nearr;**](../../../geo/i/141595/about.en.html "Hawaii (all folders)") [**&uarr;**](../../../geo/about.en.html#D5 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141595,161843" title="about: Hawaii : Foreign and colonial workers" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1415xx/141595/1618xx/161843/about.en.html))
 
 
-_* The English category label is an unchecked automated translation of the German label._
+
+
+
+
+
 

@@ -1,31 +1,42 @@
 ---
 title: "n2 Sm9.IIIf Indexziffern, Einzelne Indices, Wertpapierindex"
-etr: category/subject/n2 Sm9.IIIf
 modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
-x-canonical: https://pm20.zbw.eu/category/subject/s/n2_Sm9.IIIf
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
+
 # [n2 Sm9.IIIf]{.gray}&#8201; Indexziffern, Einzelne Indices, Wertpapierindex&#160; 
 
 
 
 
-Insgesamt 1 Sach-Mappen, 20 Dokumente - Mappen unvollständig.
+
+
+
+## Länder-Sacharchiv
+
+
+
+
+Insgesamt 1 Mappen, 20 Dokumente - Mappen unvollständig.
 Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
-_Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
-
-## Sacharchiv
+_Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
 
 
 
 ### Asien
 
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,144989" title="über: Japan : Indexziffern, Einzelne Indices, Wertpapierindex" target="_blank">20 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141272/1449xx/144989/about.de.html))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141272,144989" title="über: Japan : Indexziffern, Einzelne Indices, Wertpapierindex" target="_blank">20 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141272/1449xx/144989/about.de.html))
+
+
+
+
+
+
 
 

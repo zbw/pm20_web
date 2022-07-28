@@ -1,32 +1,64 @@
 ---
 title: "B1 Asien"
-etr: category/geo/B1
-modified: 2021-03-13
+modified: 2022-07-17
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
-x-canonical: https://pm20.zbw.eu/category/geo/s/B1
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
+
 # [B1]{.gray}&#8201; Asien&#160; 
 
 
 
 
-Insgesamt 1 Sach-Mappen, 0 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+[Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
 
-_Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
+
+
+
 
 ## Sacharchiv
 
 
 
 
-### Fremdstämmige und einzelne Minderheiten
 
-- [o1 Deutsche Minderheiten und Deutschtum]{.gray}
-  - o1 Sm500 Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145911/about.de.html "Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#o1_Sm500 "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141056,145911" title="über: Asien : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141056/1459xx/145911/about.de.html))
+
+Insgesamt 1 Mappen, 0 Dokumente - Mappen unvollständig.
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+_Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
+
+
+
+  - o1 Sm500 Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145911/about.de.html "Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#o1_Sm500 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141056,145911" title="über: Asien : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141056/1459xx/145911/about.de.html))
+
+
+
+
+
+
+
+## Warenarchiv
+
+
+
+
+
+
+
+
+Insgesamt 1 Mappen, 1 Dokumente - Mappen unvollständig.
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+_Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
+
+
+
+- Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141056" title="über: Kohle : Asien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1410xx/141056/about.de.html))
+
+
 
 

@@ -1,35 +1,46 @@
 ---
 title: "g4a Sm22 Wasserwirtschaft, Wasserkraft"
-etr: category/subject/g4a Sm22
 modified: 2021-03-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
-x-canonical: https://pm20.zbw.eu/category/subject/s/g4a_Sm22
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
+
 # [g4a Sm22]{.gray}&#8201; Wasserwirtschaft, Wasserkraft&#160; 
 
 
 
 
-Insgesamt 2 Sach-Mappen, 9 Dokumente - Mappen unvollständig.
+
+
+
+## Länder-Sacharchiv
+
+
+
+
+Insgesamt 2 Mappen, 9 Dokumente - Mappen unvollständig.
 Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
-_Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
-
-## Sacharchiv
+_Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
 
 
 
 ### Europa
 
-- A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/126128,144551" title="über: Deutschland : Wasserwirtschaft, Wasserkraft" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1261xx/126128/1445xx/144551/about.de.html))
+- A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,144551" title="über: Deutschland : Wasserwirtschaft, Wasserkraft" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1261xx/126128/1445xx/144551/about.de.html))
 
 ### Amerika
 
-- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141692,144551" title="über: Argentinien : Wasserwirtschaft, Wasserkraft" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1445xx/144551/about.de.html))
+- E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144551" title="über: Argentinien : Wasserwirtschaft, Wasserkraft" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1445xx/144551/about.de.html))
+
+
+
+
+
+
 
 

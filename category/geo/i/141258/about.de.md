@@ -1,14 +1,13 @@
 ---
 title: "B95 Mandschurei"
-etr: category/geo/B95
-modified: 2021-03-13
+modified: 2022-07-17
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
-x-canonical: https://pm20.zbw.eu/category/geo/s/B95
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
+
 # [B95]{.gray}&#8201; Mandschurei&#160; 
 
 
@@ -16,12 +15,23 @@ x-canonical: https://pm20.zbw.eu/category/geo/s/B95
 
 
 
-Insgesamt 1 Sach-Mappen, 29 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+[Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
 
-_Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe)" für Mappeninformation._
+
+
+
 
 ## Sacharchiv
+
+
+
+
+
+
+Insgesamt 1 Mappen, 29 Dokumente - Mappen unvollständig.
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+_Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
 
 
@@ -29,6 +39,49 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im DFG-Viewer und "(Mappe
 ### Fremdstämmige und einzelne Minderheiten
 
 - [o1 Deutsche Minderheiten und Deutschtum]{.gray}
-  - o1 Sm500 Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145911/about.de.html "Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#o1_Sm500 "Sachsystematik") (<a href="https://pm20.zbw.eu/dfgview/sh/141258,145911" title="über: Mandschurei : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">29 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141258/1459xx/145911/about.de.html))
+  - o1 Sm500 Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145911/about.de.html "Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#o1_Sm500 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141258,145911" title="über: Mandschurei : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">29 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141258/1459xx/145911/about.de.html))
+
+
+
+
+
+
+
+## Warenarchiv
+
+
+
+
+
+
+
+
+Insgesamt 18 Mappen, 404 Dokumente - Mappen unvollständig.
+Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+_Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
+
+
+
+- Abfälle und Altmaterial [**&nearr;**](../../../ware/i/141942/about.de.html "Abfälle und Altmaterial (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB01-01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141942,141258" title="über: Abfälle und Altmaterial : Mandschurei" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141942/1412xx/141258/about.de.html))
+- Alkohol (Chemie) [**&nearr;**](../../../ware/i/163481/about.de.html "Alkohol (Chemie) (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/163481,141258" title="über: Alkohol (Chemie) : Mandschurei" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1634xx/163481/1412xx/141258/about.de.html))
+- Aluminium [**&nearr;**](../../../ware/i/141969/about.de.html "Aluminium (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,141258" title="über: Aluminium : Mandschurei" target="_blank">24 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141969/1412xx/141258/about.de.html))
+- Ammoniak [**&nearr;**](../../../ware/i/165930/about.de.html "Ammoniak (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Du01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/165930,141258" title="über: Ammoniak : Mandschurei" target="_blank">20 Dokumente</a>) ([Mappe](../../../../folder/wa/1659xx/165930/1412xx/141258/about.de.html))
+- Antimon [**&nearr;**](../../../ware/i/141977/about.de.html "Antimon (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Hm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141977,141258" title="über: Antimon : Mandschurei" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141977/1412xx/141258/about.de.html))
+- Apfel [**&nearr;**](../../../ware/i/141980/about.de.html "Apfel (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Ob01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141980,141258" title="über: Apfel : Mandschurei" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141980/1412xx/141258/about.de.html))
+- Asbest [**&nearr;**](../../../ware/i/142014/about.de.html "Asbest (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID23-As "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,141258" title="über: Asbest : Mandschurei" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142014/1412xx/141258/about.de.html))
+- Baumaterial [**&nearr;**](../../../ware/i/142086/about.de.html "Baumaterial (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141258" title="über: Baumaterial : Mandschurei" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142086/1412xx/141258/about.de.html))
+- Baumwolle [**&nearr;**](../../../ware/i/142089/about.de.html "Baumwolle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bw "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141258" title="über: Baumwolle : Mandschurei" target="_blank">115 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142089/1412xx/141258/about.de.html))
+- Baumwollgarn [**&nearr;**](../../../ware/i/196460/about.de.html "Baumwollgarn (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Nf02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/196460,141258" title="über: Baumwollgarn : Mandschurei" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1964xx/196460/1412xx/141258/about.de.html))
+- Baumwollindustrie [**&nearr;**](../../../ware/i/142091/about.de.html "Baumwollindustrie (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bw01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142091,141258" title="über: Baumwollindustrie : Mandschurei" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142091/1412xx/141258/about.de.html))
+- Bekleidung [**&nearr;**](../../../ware/i/142106/about.de.html "Bekleidung (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bk "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141258" title="über: Bekleidung : Mandschurei" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142106/1412xx/141258/about.de.html))
+- Benzin [**&nearr;**](../../../ware/i/142108/about.de.html "Benzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141258" title="über: Benzin : Mandschurei" target="_blank">13 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1412xx/141258/about.de.html))
+- Bergbaumaschine [**&nearr;**](../../../ware/i/142112/about.de.html "Bergbaumaschine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Bg "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142112,141258" title="über: Bergbaumaschine : Mandschurei" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142112/1412xx/141258/about.de.html))
+- Bernstein [**&nearr;**](../../../ware/i/142111/about.de.html "Bernstein (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID04-Sc01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142111,141258" title="über: Bernstein : Mandschurei" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142111/1412xx/141258/about.de.html))
+- Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141258" title="über: Kohle : Mandschurei" target="_blank">193 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1412xx/141258/about.de.html))
+- Kohlemaschinen (Gewinnung und Aufbereitung) [**&nearr;**](../../../ware/i/143121/about.de.html "Kohlemaschinen (Gewinnung und Aufbereitung) (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Bg02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143121,141258" title="über: Kohlemaschinen (Gewinnung und Aufbereitung) : Mandschurei" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143121/1412xx/141258/about.de.html))
+- Kohlenstoff (Ruß) [**&nearr;**](../../../ware/i/143123/about.de.html "Kohlenstoff (Ruß) (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01-Ru "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143123,141258" title="über: Kohlenstoff (Ruß) : Mandschurei" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143123/1412xx/141258/about.de.html))
+
+
 
 

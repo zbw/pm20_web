@@ -1,33 +1,42 @@
 ---
 title: "n38 Sm2.II Protection of industrial property, foreigners and citizens"
-etr: category/subject/n38 Sm2.II
 modified: 2021-03-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
-x-canonical: https://pm20.zbw.eu/category/subject/s/n38_Sm2.II
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
+
 # [n38 Sm2.II]{.gray}&#8201; Protection of industrial property, foreigners and citizens&#160; 
 
 
 
 
 
-In total 1 subject folders, 2 documents - folders incomplete.
+
+
+## Countries-subject archives
+
+
+
+
+
+In total 1 folders, 2 documents - folders incomplete.
 For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
-
-## Subject archives
 
 
 
 ### Asia
 
-- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/dfgview/sh/141272,145760" title="about: Japan : Protection of industrial property, foreigners and citizens" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1457xx/145760/about.en.html))
+- B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141272,145760" title="about: Japan : Protection of industrial property, foreigners and citizens" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1457xx/145760/about.en.html))
 
 
-_* The English category label is an unchecked automated translation of the German label._
+
+
+
+
+
 
