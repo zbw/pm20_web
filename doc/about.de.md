@@ -17,4 +17,5 @@ fn-stub: about
 * [Metadata structures for films and film images](tech/film_meta.en.html) (auf Englisch)
 * [Metadata structures for documents](tech/document_meta.en.html) (auf Englisch)
 * [Annotationen für Filme - Anleitung (Entwurf)](tech/film_annotation.de.html)
+* [BEACON Dateien - Zugriff über GND](beacon/about.de.html)
 

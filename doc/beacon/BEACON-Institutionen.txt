@@ -5,7 +5,7 @@
 #TARGET: http://purl.org/pressemappe20/gnd/co/{ID}
 #COMMENT: deprecated target: http://webopac.hwwa.de/digiview/DigiView_GKD.cfm?GKD={ID}
 #PREFIX: http://d-nb.info/gnd/{ID}/about/html
-#CONTACT: Max-Michael Wannags <pressemappe20@zbw.eu> (Beacon: pressemappe20@zbw.eu)
+#CONTACT: Joachim Neubert <pressemappe20@zbw.eu> (Beacon: pressemappe20@zbw.eu)
 #MESSAGE: Digitalisierung der Pressearchive von HWWA und IfW (DFG-Projekt 2004-2007)
 #INSTITUTION: ZBW Leibniz-Informationszentrum Wirtschaft - Pressearchive von HWWA und IfW
 #TITLE: Beaconlist about published organisations and companies in pressemappe20
