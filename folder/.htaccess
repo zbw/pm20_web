@@ -6,6 +6,12 @@ RewriteRule ^sh/$ /category/geo
 RewriteRule ^sh/about.en.html$ /category/geo/about.en.html
 RewriteRule ^sh/about.de.html$ /category/geo/about.de.html
 
+# for wa folders, do not show plain folder list, but redirect to ware categories
+RewriteRule ^wa$ /category/ware
+RewriteRule ^wa/$ /category/ware
+RewriteRule ^wa/about.en.html$ /category/ware/about.en.html
+RewriteRule ^wa/about.de.html$ /category/ware/about.de.html
+
 #### Switch for public and internal mets files ####
 
 RewriteCond "%{ENV:PM20_INTERNAL}" "1"
