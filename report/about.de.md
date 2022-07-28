@@ -1,5 +1,5 @@
 ---
-title: "Auswertungen"
+title: "Auswertungen | ZBW Pressearchive"
 etr: report
 backlink: ../about.de.html
 backlink-title: Home
@@ -33,5 +33,7 @@ Ergebnisse von Abfragen der Pressearchiv-Datenbank (Metadaten über das ehemalig
 * [Vollständige Ländersystematik](https://pm20.zbw.eu/report/pm20_result.de.html?jsonFile=vocab/geo_by_signature.de.json&main_title=Vollständige+Ländersystematik) <small>([html](vocab/geo_by_signature.de.html), [json](vocab/geo_by_signature.de.json))</small>
 
 * [Vollständige Sachsystematik](https://pm20.zbw.eu/report/pm20_result.de.html?jsonFile=vocab/subject_by_signature.de.json&main_title=Vollständige+Sachsystematik) <small>([html](vocab/subject_by_signature.de.html), [json](vocab/subject_by_signature.de.json))</small>
+
+* [Vollständige Warensystematik](https://pm20.zbw.eu/report/pm20_result.de.html?jsonFile=vocab/ware_by_signature.de.json&main_title=Vollständige+Warensystematik) <small>([html](vocab/ware_by_signature.de.html), [json](vocab/ware_by_signature.de.json))</small>
 
 <small>Diese Daten sind auch über einen [SPARQL-Endpoint](http://zbw.eu/beta/sparql-lab/about#pm20) abfragbar. Die Quelltexte der Abfragen sind über [Github](https://github.com/zbw/sparql-queries/tree/master/pm20) zugänglich.</small>

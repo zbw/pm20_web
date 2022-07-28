@@ -1,5 +1,5 @@
 ---
-title: "Reports"
+title: "Reports | ZBW Press Archives"
 etr: report
 backlink: ../about.en.html
 backlink-title: Home
@@ -33,5 +33,7 @@ Query results from the press archives database (metadata about the former HWWW a
 * [Complete country category system](https://pm20.zbw.eu/report/pm20_result.en.html?jsonFile=vocab/geo_by_signature.en.json&main_title=Complete+country+category+system) <small>([html](vocab/geo_by_signature.en.html), [json](vocab/geo_by_signature.en.json))</small>
 
 * [Complete subject category system](https://pm20.zbw.eu/report/pm20_result.en.html?jsonFile=vocab/subject_by_signature.en.json&main_title=Complete+subject+category+system) <small>([html](vocab/subject_by_signature.en.html), [json](vocab/subject_by_signature.en.json))</small>
+
+* [Complete commodities/wares category system](https://pm20.zbw.eu/report/pm20_result.en.html?jsonFile=vocab/ware_by_signature.en.json&main_title=Complete+commodities/wares+category+system) <small>([html](vocab/ware_by_signature.en.html), [json](vocab/ware_by_signature.en.json))</small>
 
 <small>This data is also queryable via a [SPARQL endpoint](http://zbw.eu/beta/sparql-lab/about#pm20).. The source code of the queries is accessible on [Github](https://github.com/zbw/sparql-queries/tree/master/pm20).</small>
