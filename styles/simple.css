@@ -72,6 +72,18 @@ table.listing,table.listing td {
   text-decoration: none;
 }
 
+.btn-small {
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  font-size: 81%;
+  border-radius: 4px;
+  border: solid 1px #4479BA;
+  background: #6994c8;
+  color: #FFF;
+  padding: 8px 12px;
+  text-decoration: none;
+}
+
 div.home {
   font-size: 160%;
 }
