@@ -10,9 +10,9 @@ Historical press archives of ZBW. Inherited from the "Hamburgisches Welt-Wirtsch
 
 * [Persons archive](folder/pe/about.en.html)
 * [Companies/Institutions archive](folder/co/about.en.html)
-* [Countries-Subjects archive - by country category system](category/geo/about.en.html)
+* [Countries-Subjects and Commodities/Wares archive - by country category system](category/geo/about.en.html)
 * [Countries-Subjects archive - by subject category system](category/subject/about.en.html)
-* [Commodities/Wares archive](folder/wa/about.en.html)
+* [Commodities/Wares archive - by ware category system](category/ware/about.en.html)
 * [Digitized microfilms](film) <span class="gray">(only metadata on the web - full content from ZBW reading room)</span>
 * [About ZBW Press Archives](about-pm20/about.en.html)
 

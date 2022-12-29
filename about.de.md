@@ -12,9 +12,9 @@ Unterstützung der DFG.
 
 * [Personenarchiv](folder/pe/about.de.html)
 * [Firmen/Institutionenarchiv](folder/co/about.de.html)
-* [Länder-Sacharchiv - nach Ländersystematik](category/geo/about.de.html)
+* [Länder-Sacharchiv und Warenarchiv - nach Ländersystematik](category/geo/about.de.html)
 * [Länder-Sacharchiv - nach Sachsystematik](category/subject/about.de.html)
-* [Warenarchiv](folder/wa)
+* [Warenarchiv - nach Warensystematik](category/ware/about.de.html)
 * [Digitalisierte Mikrofilme](film)
 * [Über die ZBW Pressearchive](about-pm20/about.de.html)
 
