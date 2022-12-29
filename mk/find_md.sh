@@ -16,17 +16,17 @@ folderroot=./folder
 case $set in
 	default)
 		##find -L . -type d \( -path "./tmp" -o -path "./category" -o -path "./folder/*" \) -prune -o -type f -name '*.md' 
-    find -L . -regextype posix-extended -maxdepth 4 -type d -regex '\./(tmp|category|folder/.*/[0-9])' -prune -o -type f -name "*.md"
+    find -L . -regextype posix-extended -maxdepth 4 -type d -regex '\./(tmp|category|folder/.*/[0-9])' -prune -o -type f -name "*.md" | sort
     ;;
   category)
-    find ./category -type f -name "*.md"
+    find ./category -type f -name "*.md" | sort
     ;;
   co | pe)
-    find $folderroot/$set -regextype posix-extended -maxdepth 3 -type f -name "*.md"
+    find $folderroot/$set -regextype posix-extended -maxdepth 3 -type f -name "*.md" | sort
     ;;
 
   sh | wa)
-    find $folderroot/$set -regextype posix-extended -maxdepth 5 -type f -name "*.md"
+    find $folderroot/$set -regextype posix-extended -maxdepth 5 -type f -name "*.md" | sort
     ;;
   co/* | pe/*)
     collection=${set:0:2}
@@ -44,7 +44,7 @@ case $set in
     hash2=${set:10:4}
     dir=$folderroot/$collection/${hash1}xx/$folder_nk1/${hash2}xx/$folder_nk2
     ##echo $collection $hash1 $folder_nk1 $hash2 $folder_nk2 $dir
-    find $dir -type f -name "*.md"
+    find $dir -type f -name "*.md" | sort
     ;;
   ##ALL)
     # would need -L and take forever - use bin/web_make_all.sh
