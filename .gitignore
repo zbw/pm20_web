@@ -34,3 +34,7 @@ styles/readme.txt
 #
 # just a backup
 about-pm20/publication/publication.tgz
+
+# gzipped large html pages
+folder/??/*.html.gz
+
