@@ -7,6 +7,7 @@
 <body>
 <div id="mirador" style="position:absolute; top:0; bottom:0; left:0; right:0;"></div>
 <script type="text/javascript">
+  // config should be JSON snytax, not js!
   document.addEventListener("DOMContentLoaded", () => {
     let config = {
       id:'mirador',
@@ -16,10 +17,12 @@
         de: 'Deutsch',
         en: 'English'
       },
+      // apparently no difference - is now default?
+      //allowFullscreen: true,
       windows: [],
       workspace: {
         showZoomControls: true
-      },
+      }
       // TODO activate when language picker works
       //workspaceControlPanel: { enabled: false }
     }
