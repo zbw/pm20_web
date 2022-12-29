@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Kohlemaschinen (Gewinnung und Aufbereitung)&#160; 
+# Kohlemaschinen (Gewinnung und Aufbereitung) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q113376052)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/143121`</div>
 
 
 

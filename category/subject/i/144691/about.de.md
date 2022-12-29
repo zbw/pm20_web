@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [h7 Sm11.II]{.gray}&#8201; Verschickung oder Aufnahme Erholungsbedürftiger und Urlaubsfahrer, von und nach einz. Ländern&#160; 
+# [h7 Sm11.II]{.gray}&#8201; Verschickung oder Aufnahme Erholungsbedürftiger und Urlaubsfahrer, von und nach einz. Ländern &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700125)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144691`</div>
 
 
 

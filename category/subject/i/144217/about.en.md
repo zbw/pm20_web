@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [c Sm1 (alt)]{.gray}&#8201; Nature reserve&#160; 
+# [c Sm1 (alt)]{.gray}&#8201; Nature reserve &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699229)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144217`</div>
 
 
 

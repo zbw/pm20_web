@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [p3 Sm6.II]{.gray}&#8201; Rückwanderung nach ..., aus Einzelnen Ländern&#160; 
+# [p3 Sm6.II]{.gray}&#8201; Rückwanderung nach ..., aus Einzelnen Ländern &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711352)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145923`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [p6 Sm2]{.gray}&#8201; Ländliche Kleinsiedlungen&#160; 
+# [p6 Sm2]{.gray}&#8201; Ländliche Kleinsiedlungen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711361)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145934`</div>
 
 
 

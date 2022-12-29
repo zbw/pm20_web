@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [p3 Sm1]{.gray}&#8201; Agreements on migration policy, including on workers&#160; 
+# [p3 Sm1]{.gray}&#8201; Agreements on migration policy, including on workers &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711346)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145918`</div>
 
 
 

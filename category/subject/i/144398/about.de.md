@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [f5 Sm1.IIIa]{.gray}&#8201; Wahlen für parlamentarische Körperschaften und sonstige politische Wahlen des Gesamtstaates&#160; 
+# [f5 Sm1.IIIa]{.gray}&#8201; Wahlen für parlamentarische Körperschaften und sonstige politische Wahlen des Gesamtstaates &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699651)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144398`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [m1 Sm1.II]{.gray}&#8201; Numerical war and revolution compensation claims from and to foreign countries, general&#160; 
+# [m1 Sm1.II]{.gray}&#8201; Numerical war and revolution compensation claims from and to foreign countries, general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700280)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144812`</div>
 
 
 

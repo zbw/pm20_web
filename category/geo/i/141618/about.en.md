@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [D18]{.gray}&#8201; Japanese South Pacific Mandate&#160; 
+# [D18]{.gray}&#8201; Japanese South Pacific Mandate &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q718763) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/South_Seas_Mandate)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141618`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -142,6 +144,9 @@ For material not published as folders, please check the [digitized micro-films](
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
+
+
+### A
 
 - Aluminium [**&nearr;**](../../../ware/i/141969/about.en.html "Aluminium (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID07.01-Lm01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,141618" title="about: Aluminium : Japanese South Pacific Mandate" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1419xx/141969/1416xx/141618/about.en.html))
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n18 Sm29 (alt)]{.gray}&#8201; Periodische Handelsstatistiken&#160; 
+# [n18 Sm29 (alt)]{.gray}&#8201; Periodische Handelsstatistiken &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710940)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145279`</div>
 
 
 

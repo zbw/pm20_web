@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [h8]{.gray}&#8201; Eingeborenenpolitik&#160; 
+# [h8]{.gray}&#8201; Eingeborenenpolitik &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427895)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144692`</div>
 
 
 

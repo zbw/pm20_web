@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n24 Sm34.I]{.gray}&#8201; Bankwesen, Private Kreditaufnahme im Ausland, Allgemein&#160; 
+# [n24 Sm34.I]{.gray}&#8201; Bankwesen, Private Kreditaufnahme im Ausland, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711055)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145404`</div>
 
 
 

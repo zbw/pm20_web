@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [l Sm7]{.gray}&#8201; Indigenous troops (colored)&#160; 
+# [l Sm7]{.gray}&#8201; Indigenous troops (colored) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700212)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144795`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n24 Sm2.I]{.gray}&#8201; Private Auslandsforderungen, Schuldenausgleich, Allgemein&#160; 
+# [n24 Sm2.I]{.gray}&#8201; Private Auslandsforderungen, Schuldenausgleich, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710989)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145341`</div>
 
 
 

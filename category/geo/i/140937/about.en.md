@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A10c]{.gray}&#8201; Alsace-Lorraine&#160; 
+# [A10c]{.gray}&#8201; Alsace-Lorraine
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140937`</div>
 
 
 

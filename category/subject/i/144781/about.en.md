@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [l6 Sm1]{.gray}&#8201; Ammunition&#160; 
+# [l6 Sm1]{.gray}&#8201; Ammunition &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700247)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144781`</div>
 
 
 

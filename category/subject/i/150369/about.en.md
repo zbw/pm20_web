@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [d Sm20]{.gray}&#8201; Population and population policy, conferences&#160; 
+# [d Sm20]{.gray}&#8201; Population and population policy, conferences &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699244)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/150369`</div>
 
 
 

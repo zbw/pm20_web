@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n13 Sm12.I]{.gray}&#8201; Verflechtung mit der Industrie des Auslandes, Allgemein&#160; 
+# [n13 Sm12.I]{.gray}&#8201; Verflechtung mit der Industrie des Auslandes, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710576)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145111`</div>
 
-> Scope Note: Beziehungen zur Industrie des Auslandes
-
+<div class="hint">
+Scope Note: Beziehungen zur Industrie des Auslandes
+</div>
 
 
 

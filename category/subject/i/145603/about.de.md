@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n32 Sm29 (alt)]{.gray}&#8201; Schiffsverkehr, Verkehrsstatistik (Übersichten)&#160; 
+# [n32 Sm29 (alt)]{.gray}&#8201; Schiffsverkehr, Verkehrsstatistik (Übersichten) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711188)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145603`</div>
 
 
 

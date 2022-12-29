@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Apfel&#160; 
+# Apfel &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q89) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Tafelapfel)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141980`</div>
 
 
 

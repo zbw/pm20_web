@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A10d]{.gray}&#8201; Saar&#160; 
+# [A10d]{.gray}&#8201; Saar
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140938`</div>
 
 
 
@@ -34,7 +36,13 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 - Alcoholic beverage [**&nearr;**](../../../ware/i/141966/about.en.html "Alcoholic beverage (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20.02-Sp "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,140938" title="about: Alcoholic beverage : Saar" target="_blank">4 documents</a>) ([folder](../../../../folder/wa/1419xx/141966/1409xx/140938/about.en.html))
 - Ammonia [**&nearr;**](../../../ware/i/165930/about.en.html "Ammonia (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13-Du01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/165930,140938" title="about: Ammonia : Saar" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1659xx/165930/1409xx/140938/about.en.html))
+
+### B
+
 - Benzene [**&nearr;**](../../../ware/i/142110/about.en.html "Benzene (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13-Ko04 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142110,140938" title="about: Benzene : Saar" target="_blank">5 documents</a>) ([folder](../../../../folder/wa/1421xx/142110/1409xx/140938/about.en.html))
+
+### C
+
 - Carbon (soot) [**&nearr;**](../../../ware/i/143123/about.en.html "Carbon (soot) (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB02.01-Ru "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143123,140938" title="about: Carbon (soot) : Saar" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1431xx/143123/1409xx/140938/about.en.html))
 - Clothing [**&nearr;**](../../../ware/i/142106/about.en.html "Clothing (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Bk "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,140938" title="about: Clothing : Saar" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1421xx/142106/1409xx/140938/about.en.html))
 - Coal [**&nearr;**](../../../ware/i/143120/about.en.html "Coal (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB02.01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,140938" title="about: Coal : Saar" target="_blank">511 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1409xx/140938/about.en.html))

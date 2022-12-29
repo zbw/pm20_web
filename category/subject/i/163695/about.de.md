@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [e4 Sm2]{.gray}&#8201; Trinkwasserversorgung, Kanalisation&#160; 
+# [e4 Sm2]{.gray}&#8201; Trinkwasserversorgung, Kanalisation &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699285)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/163695`</div>
 
 
 

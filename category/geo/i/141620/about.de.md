@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [D21]{.gray}&#8201; Britisch-Neuguinea&#160; 
+# [D21]{.gray}&#8201; Britisch-Neuguinea &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q530560) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Britisch-Neuguinea)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141620`</div>
 
-> Scope Note: Britisch Neu-Guinea, Australisch Neuguinea und Papua (ab 2.5.1945)
-
+<div class="hint">
+Scope Note: Britisch Neu-Guinea, Australisch Neuguinea und Papua (ab 2.5.1945)
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -140,6 +142,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 - Baumwolle [**&nearr;**](../../../ware/i/142089/about.de.html "Baumwolle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bw "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141620" title="über: Baumwolle : Britisch-Neuguinea" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142089/1416xx/141620/about.de.html))
+
+### K
+
 - Kokosfaser [**&nearr;**](../../../ware/i/143125/about.de.html "Kokosfaser (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Nf11 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143125,141620" title="über: Kokosfaser : Britisch-Neuguinea" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143125/1416xx/141620/about.de.html))
 
 

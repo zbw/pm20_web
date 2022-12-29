@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n12 Sm501 (B24a)]{.gray}&#8201; Ausbeutung des Toten Meeres&#160; 
+# [n12 Sm501 (B24a)]{.gray}&#8201; Ausbeutung des Toten Meeres &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710565)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145096`</div>
 
 
 

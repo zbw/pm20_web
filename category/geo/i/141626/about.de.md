@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [D40]{.gray}&#8201; Fidschi&#160; 
+# [D40]{.gray}&#8201; Fidschi
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141626`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n26]{.gray}&#8201; Representation of economic interests (lobbying), business associations, professional organization&#160; 
+# [n26]{.gray}&#8201; Representation of economic interests (lobbying), business associations, professional organization &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428059)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145491`</div>
 
 
 

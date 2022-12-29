@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [E47]{.gray}&#8201; Leeward Islands&#160; 
+# [E47]{.gray}&#8201; Leeward Islands
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141668`</div>
 
-> Scope Note: Inseln über dem Wind (Jungferninseln (britisch beziehungsweise USA), Anguilla (britisch), Sint Eustatius (niederländisch), Sint Maarten - Saint-Martin (niederländisch und französisch), Saint-Barthélemy (französisch), Saba (niederländisch), Barbuda (zu Antigua), St. Kitts und Nevis (unabhängig), Antigua (unabhängig), Montserrat (britisch), Guadeloupe (Teil Frankreichs), Marie-Galante (zu Guadeloupe)
-
+<div class="hint">
+Scope Note: Inseln über dem Wind (Jungferninseln (britisch beziehungsweise USA), Anguilla (britisch), Sint Eustatius (niederländisch), Sint Maarten - Saint-Martin (niederländisch und französisch), Saint-Barthélemy (französisch), Saba (niederländisch), Barbuda (zu Antigua), St. Kitts und Nevis (unabhängig), Antigua (unabhängig), Montserrat (britisch), Guadeloupe (Teil Frankreichs), Marie-Galante (zu Guadeloupe)
+</div>
 
 
 

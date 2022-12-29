@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n4 Sm3]{.gray}&#8201; Gartenbau&#160; 
+# [n4 Sm3]{.gray}&#8201; Gartenbau &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710527)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145051`</div>
 
 
 

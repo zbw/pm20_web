@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [c2a]{.gray}&#8201; State borders with individual countries&#160; 
+# [c2a]{.gray}&#8201; State borders with individual countries &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427832)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144203`</div>
 
 
 

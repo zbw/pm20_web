@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [m5a Sm4]{.gray}&#8201; Einzelne inländische Anleihen (Kommunales Finanzwesen) einz. Städte&#160; 
+# [m5a Sm4]{.gray}&#8201; Einzelne inländische Anleihen (Kommunales Finanzwesen) einz. Städte &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700335)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144904`</div>
 
 
 

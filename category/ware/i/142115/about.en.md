@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Narcotics&#160; 
+# Narcotics &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q850692) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Controlled_substance)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142115`</div>
 
 
 

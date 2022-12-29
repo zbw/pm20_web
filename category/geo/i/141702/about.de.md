@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [F10]{.gray}&#8201; Arktis&#160; 
+# [F10]{.gray}&#8201; Arktis &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q25322) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Arktis)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141702`</div>
 
 
 

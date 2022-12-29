@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Anhänger (Last- und Wohnanhänger)&#160; 
+# Anhänger (Last- und Wohnanhänger) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q216146) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Anh%C3%A4nger)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141974`</div>
 
-> Scope Note: Nicht selbstfahrendes Straßenfahrzeug
-
+<div class="hint">
+Scope Note: Nicht selbstfahrendes Straßenfahrzeug
+</div>
 
 
 

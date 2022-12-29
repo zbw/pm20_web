@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n15 Sm9]{.gray}&#8201; Operational control and employee profit sharing&#160; 
+# [n15 Sm9]{.gray}&#8201; Operational control and employee profit sharing &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710719)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145173`</div>
 
 
 

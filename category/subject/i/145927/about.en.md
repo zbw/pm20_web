@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [p4 Sm2]{.gray}&#8201; Emigration via individual ports&#160; 
+# [p4 Sm2]{.gray}&#8201; Emigration via individual ports &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711355)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145927`</div>
 
 
 

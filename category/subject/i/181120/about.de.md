@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [h7 Sm50]{.gray}&#8201; Soziale Fürsorge, Institutionen&#160; 
+# [h7 Sm50]{.gray}&#8201; Soziale Fürsorge, Institutionen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700131)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/181120`</div>
 
 
 

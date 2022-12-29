@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A38]{.gray}&#8201; Free State of Fiume&#160; 
+# [A38]{.gray}&#8201; Free State of Fiume &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q1647) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Rijeka)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141014`</div>
 
 
 

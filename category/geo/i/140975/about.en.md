@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A22a]{.gray}&#8201; Island of Ireland&#160; 
+# [A22a]{.gray}&#8201; Island of Ireland
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140975`</div>
 
 
 
@@ -31,6 +33,9 @@ For material not published as folders, please check the [digitized micro-films](
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
+
+
+### A
 
 - Aluminium [**&nearr;**](../../../ware/i/141969/about.en.html "Aluminium (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID07.01-Lm01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,140975" title="about: Aluminium : Island of Ireland" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141969/1409xx/140975/about.en.html))
 

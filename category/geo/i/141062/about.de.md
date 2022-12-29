@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B6]{.gray}&#8201; Ostasien&#160; 
+# [B6]{.gray}&#8201; Ostasien &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q27231) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Ostasien)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141062`</div>
 
-> Scope Note: Umfasst Südchina , die Große Ebene u. die Mandschurei sowie Korea, ferner die vorgelagerten Kurilen, Sachalin, die japanischen Inseln, Taiwan u. weiter kleine Inseln
-
+<div class="hint">
+Scope Note: Umfasst Südchina , die Große Ebene u. die Mandschurei sowie Korea, ferner die vorgelagerten Kurilen, Sachalin, die japanischen Inseln, Taiwan u. weiter kleine Inseln
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -59,7 +61,13 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Anis [**&nearr;**](../../../ware/i/141976/about.de.html "Anis (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Gw01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141976,141062" title="über: Anis : Ostasien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141976/1410xx/141062/about.de.html))
+
+### B
+
 - Baumwolle [**&nearr;**](../../../ware/i/142089/about.de.html "Baumwolle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bw "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141062" title="über: Baumwolle : Ostasien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142089/1410xx/141062/about.de.html))
 
 

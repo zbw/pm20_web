@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n3 Sm2]{.gray}&#8201; Kommunale Bodenbesitzverhältnisse und Bodenpolitik, Allgemein&#160; 
+# [n3 Sm2]{.gray}&#8201; Kommunale Bodenbesitzverhältnisse und Bodenpolitik, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710512)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145033`</div>
 
 
 

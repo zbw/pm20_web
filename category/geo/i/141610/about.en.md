@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [D11]{.gray}&#8201; Solomon Islands and Bismarck Archipelago&#160; 
+# [D11]{.gray}&#8201; Solomon Islands and Bismarck Archipelago &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q97060007)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141610`</div>
 
 
 

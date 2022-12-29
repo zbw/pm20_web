@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n30 Sm2]{.gray}&#8201; Nationalization and de-nationalization of the railways&#160; 
+# [n30 Sm2]{.gray}&#8201; Nationalization and de-nationalization of the railways &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711113)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145533`</div>
 
 
 

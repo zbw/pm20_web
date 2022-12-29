@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [g4 Sm19]{.gray}&#8201; Entsendung und Heranziehung von Sachverständigen und Spezialarbeitern&#160; 
+# [g4 Sm19]{.gray}&#8201; Entsendung und Heranziehung von Sachverständigen und Spezialarbeitern &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700017)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144491`</div>
 
 
 

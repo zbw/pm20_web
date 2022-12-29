@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [q Sm502 (A1)]{.gray}&#8201; Donauraumfragen&#160; 
+# [q Sm502 (A1)]{.gray}&#8201; Donauraumfragen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711424)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/146050`</div>
 
 
 

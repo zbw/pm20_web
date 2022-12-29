@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n33a Sm3]{.gray}&#8201; Einzelne Binnenschiffahrtsstrassen und Seekanäle, Verwaltung&#160; 
+# [n33a Sm3]{.gray}&#8201; Einzelne Binnenschiffahrtsstrassen und Seekanäle, Verwaltung &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711239)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145654`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [g4]{.gray}&#8201; Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein&#160; 
+# [g4]{.gray}&#8201; Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427880)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144470`</div>
 
 
 

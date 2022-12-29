@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n33 Sm20]{.gray}&#8201; Inland navigation, conferences&#160; 
+# [n33 Sm20]{.gray}&#8201; Inland navigation, conferences &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711214)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/194370`</div>
 
 
 

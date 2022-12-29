@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n39 Sm20]{.gray}&#8201; Hotel and catering industry, amusement industry. Conferences and fairs&#160; 
+# [n39 Sm20]{.gray}&#8201; Hotel and catering industry, amusement industry. Conferences and fairs &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711326)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/199620`</div>
 
 
 

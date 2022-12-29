@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n3 Sm5]{.gray}&#8201; Real estate owned by foreigners, foreign infiltration&#160; 
+# [n3 Sm5]{.gray}&#8201; Real estate owned by foreigners, foreign infiltration &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710515)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145036`</div>
 
 
 

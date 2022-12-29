@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C57]{.gray}&#8201; Goldküste, einschl. Togo (brit.)&#160; 
+# [C57]{.gray}&#8201; Goldküste, einschl. Togo (brit.) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q503623) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Goldk%C3%BCste_(Kolonie))
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141406`</div>
 
-> Scope Note: Goldküste (bis 1957), Ghana (ab 1957)
-
+<div class="hint">
+Scope Note: Goldküste (bis 1957), Ghana (ab 1957)
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -218,17 +220,26 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Agrumen [**&nearr;**](../../../ware/i/141948/about.de.html "Agrumen (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141406" title="über: Agrumen : Goldküste, einschl. Togo (brit.)" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1414xx/141406/about.de.html))
 - Alkohol (Chemie) [**&nearr;**](../../../ware/i/163481/about.de.html "Alkohol (Chemie) (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/163481,141406" title="über: Alkohol (Chemie) : Goldküste, einschl. Togo (brit.)" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1634xx/163481/1414xx/141406/about.de.html))
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141406" title="über: Alkohol : Goldküste, einschl. Togo (brit.)" target="_blank">23 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1414xx/141406/about.de.html))
 - Aluminium [**&nearr;**](../../../ware/i/141969/about.de.html "Aluminium (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,141406" title="über: Aluminium : Goldküste, einschl. Togo (brit.)" target="_blank">14 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141969/1414xx/141406/about.de.html))
 - Ananas [**&nearr;**](../../../ware/i/141970/about.de.html "Ananas (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Tr01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141970,141406" title="über: Ananas : Goldküste, einschl. Togo (brit.)" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141970/1414xx/141406/about.de.html))
 - Apfel [**&nearr;**](../../../ware/i/141980/about.de.html "Apfel (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Ob01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141980,141406" title="über: Apfel : Goldküste, einschl. Togo (brit.)" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141980/1414xx/141406/about.de.html))
+
+### B
+
 - Banane [**&nearr;**](../../../ware/i/142038/about.de.html "Banane (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bn "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141406" title="über: Banane : Goldküste, einschl. Togo (brit.)" target="_blank">14 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142038/1414xx/141406/about.de.html))
 - Baumwolle [**&nearr;**](../../../ware/i/142089/about.de.html "Baumwolle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bw "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141406" title="über: Baumwolle : Goldküste, einschl. Togo (brit.)" target="_blank">20 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142089/1414xx/141406/about.de.html))
 - Baumwolltextilien [**&nearr;**](../../../ware/i/154932/about.de.html "Baumwolltextilien (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bw02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/154932,141406" title="über: Baumwolltextilien : Goldküste, einschl. Togo (brit.)" target="_blank">48 Dokumente</a>) ([Mappe](../../../../folder/wa/1549xx/154932/1414xx/141406/about.de.html))
 - Bekleidung [**&nearr;**](../../../ware/i/142106/about.de.html "Bekleidung (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bk "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141406" title="über: Bekleidung : Goldküste, einschl. Togo (brit.)" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142106/1414xx/141406/about.de.html))
 - Benzin [**&nearr;**](../../../ware/i/142108/about.de.html "Benzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141406" title="über: Benzin : Goldküste, einschl. Togo (brit.)" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1414xx/141406/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141406" title="über: Kohle : Goldküste, einschl. Togo (brit.)" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1414xx/141406/about.de.html))
 
 

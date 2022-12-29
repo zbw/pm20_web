@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Beschläge und Scharniere&#160; 
+# Beschläge und Scharniere &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q111973638)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142113`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [k1 Sm4]{.gray}&#8201; Technical higher education&#160; 
+# [k1 Sm4]{.gray}&#8201; Technical higher education &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700174)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144724`</div>
 
 
 

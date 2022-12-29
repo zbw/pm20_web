@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B42]{.gray}&#8201; Britisch-Indien&#160; 
+# [B42]{.gray}&#8201; Britisch-Indien &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q129286)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141189`</div>
 
 
 
@@ -62,6 +64,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Agrumen [**&nearr;**](../../../ware/i/141948/about.de.html "Agrumen (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141189" title="über: Agrumen : Britisch-Indien" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1411xx/141189/about.de.html))
 - Akazienrinde [**&nearr;**](../../../ware/i/141950/about.de.html "Akazienrinde (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW06-Fp01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141950,141189" title="über: Akazienrinde : Britisch-Indien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141950/1411xx/141189/about.de.html))
 - Alaun [**&nearr;**](../../../ware/i/141956/about.de.html "Alaun (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Pm02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141956,141189" title="über: Alaun : Britisch-Indien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141956/1411xx/141189/about.de.html))
@@ -77,6 +82,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Auster [**&nearr;**](../../../ware/i/142019/about.de.html "Auster (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW07-Mt02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142019,141189" title="über: Auster : Britisch-Indien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142019/1411xx/141189/about.de.html))
 - Automat [**&nearr;**](../../../ware/i/142020/about.de.html "Automat (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Au "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142020,141189" title="über: Automat : Britisch-Indien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142020/1411xx/141189/about.de.html))
 - Axt, Beil, Hammer [**&nearr;**](../../../ware/i/141947/about.de.html "Axt, Beil, Hammer (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.03-Wz01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141947,141189" title="über: Axt, Beil, Hammer : Britisch-Indien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141947/1411xx/141189/about.de.html))
+
+### B
+
 - Backwaren [**&nearr;**](../../../ware/i/142026/about.de.html "Backwaren (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141189" title="über: Backwaren : Britisch-Indien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142026/1411xx/141189/about.de.html))
 - Bagger [**&nearr;**](../../../ware/i/142028/about.de.html "Bagger (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID09.02-Nf01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142028,141189" title="über: Bagger : Britisch-Indien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142028/1411xx/141189/about.de.html))
 - Bambus [**&nearr;**](../../../ware/i/142035/about.de.html "Bambus (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Gr02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142035,141189" title="über: Bambus : Britisch-Indien" target="_blank">15 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142035/1411xx/141189/about.de.html))
@@ -92,6 +100,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Benzol [**&nearr;**](../../../ware/i/142110/about.de.html "Benzol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko04 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142110,141189" title="über: Benzol : Britisch-Indien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142110/1411xx/141189/about.de.html))
 - Beryllium [**&nearr;**](../../../ware/i/142103/about.de.html "Beryllium (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm03 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142103,141189" title="über: Beryllium : Britisch-Indien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142103/1411xx/141189/about.de.html))
 - Beschläge und Scharniere [**&nearr;**](../../../ware/i/142113/about.de.html "Beschläge und Scharniere (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.03-01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142113,141189" title="über: Beschläge und Scharniere : Britisch-Indien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142113/1411xx/141189/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141189" title="über: Kohle : Britisch-Indien" target="_blank">183 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1411xx/141189/about.de.html))
 - Kohlemaschinen (Gewinnung und Aufbereitung) [**&nearr;**](../../../ware/i/143121/about.de.html "Kohlemaschinen (Gewinnung und Aufbereitung) (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Bg02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143121,141189" title="über: Kohlemaschinen (Gewinnung und Aufbereitung) : Britisch-Indien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143121/1411xx/141189/about.de.html))
 - Kohlensäure [**&nearr;**](../../../ware/i/143122/about.de.html "Kohlensäure (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Sc06 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143122,141189" title="über: Kohlensäure : Britisch-Indien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143122/1411xx/141189/about.de.html))

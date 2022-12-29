@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [m2 Sm4.II]{.gray}&#8201; Zollformalitäten, im Handelsverkehr mit einzelnen Ländern&#160; 
+# [m2 Sm4.II]{.gray}&#8201; Zollformalitäten, im Handelsverkehr mit einzelnen Ländern &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700313)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144859`</div>
 
 
 

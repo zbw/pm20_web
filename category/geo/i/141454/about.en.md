@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C93]{.gray}&#8201; Union of South Africa&#160; 
+# [C93]{.gray}&#8201; Union of South Africa &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q193619) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Union_of_South_Africa)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141454`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -98,6 +100,9 @@ For material not published as folders, please check the [digitized micro-films](
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 
+
+### A
+
 - Acacia bark [**&nearr;**](../../../ware/i/141950/about.en.html "Acacia bark (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW06-Fp01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141950,141454" title="about: Acacia bark : Union of South Africa" target="_blank">26 documents</a>) ([folder](../../../../folder/wa/1419xx/141950/1414xx/141454/about.en.html))
 - Acetone [**&nearr;**](../../../ware/i/142022/about.en.html "Acetone (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13-Ko03 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142022,141454" title="about: Acetone : Union of South Africa" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142022/1414xx/141454/about.en.html))
 - Alcohol [**&nearr;**](../../../ware/i/163481/about.en.html "Alcohol (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13-Ko02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/163481,141454" title="about: Alcohol : Union of South Africa" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1634xx/163481/1414xx/141454/about.en.html))
@@ -115,6 +120,9 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - Asbestos [**&nearr;**](../../../ware/i/142014/about.en.html "Asbestos (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID23-As "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,141454" title="about: Asbestos : Union of South Africa" target="_blank">57 documents</a>) ([folder](../../../../folder/wa/1420xx/142014/1414xx/141454/about.en.html))
 - Asphalt [**&nearr;**](../../../ware/i/142016/about.en.html "Asphalt (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID22-Bd01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141454" title="about: Asphalt : Union of South Africa" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1420xx/142016/1414xx/141454/about.en.html))
 - Axe, hatchet, hammer [**&nearr;**](../../../ware/i/141947/about.en.html "Axe, hatchet, hammer (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID07.03-Wz01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141947,141454" title="about: Axe, hatchet, hammer : Union of South Africa" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141947/1414xx/141454/about.en.html))
+
+### B
+
 - Bakery product [**&nearr;**](../../../ware/i/142026/about.en.html "Bakery product (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20-Ba "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141454" title="about: Bakery product : Union of South Africa" target="_blank">4 documents</a>) ([folder](../../../../folder/wa/1420xx/142026/1414xx/141454/about.en.html))
 - Baking powder [**&nearr;**](../../../ware/i/142024/about.en.html "Baking powder (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13-Lm01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142024,141454" title="about: Baking powder : Union of South Africa" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142024/1414xx/141454/about.en.html))
 - Bamboo [**&nearr;**](../../../ware/i/142035/about.en.html "Bamboo (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Gr02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142035,141454" title="about: Bamboo : Union of South Africa" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142035/1414xx/141454/about.en.html))
@@ -125,6 +133,9 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - Beryllium [**&nearr;**](../../../ware/i/142103/about.en.html "Beryllium (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID07.01-Lm03 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142103,141454" title="about: Beryllium : Union of South Africa" target="_blank">5 documents</a>) ([folder](../../../../folder/wa/1421xx/142103/1414xx/141454/about.en.html))
 - Building and insulating panels [**&nearr;**](../../../ware/i/142083/about.en.html "Building and insulating panels (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID22-Bf01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142083,141454" title="about: Building and insulating panels : Union of South Africa" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1420xx/142083/1414xx/141454/about.en.html))
 - Building material [**&nearr;**](../../../ware/i/142086/about.en.html "Building material (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID22-Bs "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141454" title="about: Building material : Union of South Africa" target="_blank">5 documents</a>) ([folder](../../../../folder/wa/1420xx/142086/1414xx/141454/about.en.html))
+
+### C
+
 - Carbonic acid [**&nearr;**](../../../ware/i/143122/about.en.html "Carbonic acid (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13-Sc06 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143122,141454" title="about: Carbonic acid : Union of South Africa" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1431xx/143122/1414xx/141454/about.en.html))
 - Citrus fruits [**&nearr;**](../../../ware/i/141948/about.en.html "Citrus fruits (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Zs "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141454" title="about: Citrus fruits : Union of South Africa" target="_blank">159 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1414xx/141454/about.en.html))
 - Clothing [**&nearr;**](../../../ware/i/142106/about.en.html "Clothing (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Bk "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141454" title="about: Clothing : Union of South Africa" target="_blank">19 documents</a>) ([folder](../../../../folder/wa/1421xx/142106/1414xx/141454/about.en.html))
@@ -134,12 +145,27 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - Construction machinery [**&nearr;**](../../../ware/i/142084/about.en.html "Construction machinery (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID08-Ba "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142084,141454" title="about: Construction machinery : Union of South Africa" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142084/1414xx/141454/about.en.html))
 - Cotton [**&nearr;**](../../../ware/i/142089/about.en.html "Cotton (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bw "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141454" title="about: Cotton : Union of South Africa" target="_blank">125 documents</a>) ([folder](../../../../folder/wa/1420xx/142089/1414xx/141454/about.en.html))
 - Cottonseed, cottonseed oil [**&nearr;**](../../../ware/i/142093/about.en.html "Cottonseed, cottonseed oil (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20-Oe01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142093,141454" title="about: Cottonseed, cottonseed oil : Union of South Africa" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142093/1414xx/141454/about.en.html))
+
+### G
+
 - Gaming and vending machines [**&nearr;**](../../../ware/i/142020/about.en.html "Gaming and vending machines (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID08-Au "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142020,141454" title="about: Gaming and vending machines : Union of South Africa" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142020/1414xx/141454/about.en.html))
+
+### M
+
 - Mining machine [**&nearr;**](../../../ware/i/142112/about.en.html "Mining machine (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID08-Bg "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142112,141454" title="about: Mining machine : Union of South Africa" target="_blank">10 documents</a>) ([folder](../../../../folder/wa/1421xx/142112/1414xx/141454/about.en.html))
+
+### O
+
 - Orange [**&nearr;**](../../../ware/i/141981/about.en.html "Orange (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Zs01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,141454" title="about: Orange : Union of South Africa" target="_blank">52 documents</a>) ([folder](../../../../folder/wa/1419xx/141981/1414xx/141454/about.en.html))
 - Oyster [**&nearr;**](../../../ware/i/142019/about.en.html "Oyster (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW07-Mt02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142019,141454" title="about: Oyster : Union of South Africa" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142019/1414xx/141454/about.en.html))
+
+### P
+
 - Petrol [**&nearr;**](../../../ware/i/142108/about.en.html "Petrol (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13.02-Ks02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141454" title="about: Petrol : Union of South Africa" target="_blank">66 documents</a>) ([folder](../../../../folder/wa/1421xx/142108/1414xx/141454/about.en.html))
 - Pineapple [**&nearr;**](../../../ware/i/141970/about.en.html "Pineapple (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Tr01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141970,141454" title="about: Pineapple : Union of South Africa" target="_blank">8 documents</a>) ([folder](../../../../folder/wa/1419xx/141970/1414xx/141454/about.en.html))
+
+### W
+
 - Waste and scrap [**&nearr;**](../../../ware/i/141942/about.en.html "Waste and scrap (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB01-01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141942,141454" title="about: Waste and scrap : Union of South Africa" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141942/1414xx/141454/about.en.html))
 
 

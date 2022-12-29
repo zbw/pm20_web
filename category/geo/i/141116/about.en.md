@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B24b]{.gray}&#8201; Jordan (Kingdom)&#160; 
+# [B24b]{.gray}&#8201; Jordan (Kingdom) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q810) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Jordan)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141116`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -100,6 +102,9 @@ For material not published as folders, please check the [digitized micro-films](
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
+
+
+### P
 
 - Petrol [**&nearr;**](../../../ware/i/142108/about.en.html "Petrol (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13.02-Ks02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141116" title="about: Petrol : Jordan (Kingdom)" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1421xx/142108/1411xx/141116/about.en.html))
 

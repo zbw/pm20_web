@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n24 Sm42]{.gray}&#8201; Fiduciary and auditing, audit firms&#160; 
+# [n24 Sm42]{.gray}&#8201; Fiduciary and auditing, audit firms &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711062)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145414`</div>
 
 
 

@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C4]{.gray}&#8201; Zentralafrika&#160; 
+# [C4]{.gray}&#8201; Zentralafrika
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141314`</div>
 
-> Scope Note: bis 31.12.1967 (einschl.: Äquatorialguinea, Gabun, Kongo <Volksrepublik>, Zaïre, Zentralafrikanische Republik)
-
+<div class="hint">
+Scope Note: bis 31.12.1967 (einschl.: Äquatorialguinea, Gabun, Kongo <Volksrepublik>, Zaïre, Zentralafrikanische Republik)
+</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [q Sm501 (C125)]{.gray}&#8201; Lake Tana project (Lake Tana)&#160; 
+# [q Sm501 (C125)]{.gray}&#8201; Lake Tana project (Lake Tana) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711422)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/146024`</div>
 
 
 

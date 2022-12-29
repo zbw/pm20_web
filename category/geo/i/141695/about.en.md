@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [E95]{.gray}&#8201; Uruguay&#160; 
+# [E95]{.gray}&#8201; Uruguay &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q77) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Uruguay)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141695`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -135,11 +137,17 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - Appliances and instruments [**&nearr;**](../../../ware/i/141985/about.en.html "Appliances and instruments (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID08-Ap "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141985,141695" title="about: Appliances and instruments : Uruguay" target="_blank">6 documents</a>) ([folder](../../../../folder/wa/1419xx/141985/1416xx/141695/about.en.html))
 - Araucaria [**&nearr;**](../../../ware/i/142002/about.en.html "Araucaria (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW06-Hz01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142002,141695" title="about: Araucaria : Uruguay" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142002/1416xx/141695/about.en.html))
 - Asbestos [**&nearr;**](../../../ware/i/142014/about.en.html "Asbestos (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID23-As "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,141695" title="about: Asbestos : Uruguay" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1420xx/142014/1416xx/141695/about.en.html))
+
+### B
+
 - Bakelit [**&nearr;**](../../../ware/i/142029/about.en.html "Bakelit (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID14-Ha01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142029,141695" title="about: Bakelit : Uruguay" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142029/1416xx/141695/about.en.html))
 - Bakery product [**&nearr;**](../../../ware/i/142026/about.en.html "Bakery product (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20-Ba "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141695" title="about: Bakery product : Uruguay" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142026/1416xx/141695/about.en.html))
 - Barium [**&nearr;**](../../../ware/i/142042/about.en.html "Barium (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID07.01-Lm02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142042,141695" title="about: Barium : Uruguay" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142042/1416xx/141695/about.en.html))
 - Benzene [**&nearr;**](../../../ware/i/142110/about.en.html "Benzene (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13-Ko04 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142110,141695" title="about: Benzene : Uruguay" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1421xx/142110/1416xx/141695/about.en.html))
 - Building material [**&nearr;**](../../../ware/i/142086/about.en.html "Building material (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID22-Bs "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141695" title="about: Building material : Uruguay" target="_blank">18 documents</a>) ([folder](../../../../folder/wa/1420xx/142086/1416xx/141695/about.en.html))
+
+### C
+
 - Carbonic acid [**&nearr;**](../../../ware/i/143122/about.en.html "Carbonic acid (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13-Sc06 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143122,141695" title="about: Carbonic acid : Uruguay" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1431xx/143122/1416xx/141695/about.en.html))
 - Citrus fruits [**&nearr;**](../../../ware/i/141948/about.en.html "Citrus fruits (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Zs "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141695" title="about: Citrus fruits : Uruguay" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1416xx/141695/about.en.html))
 - Clothing [**&nearr;**](../../../ware/i/142106/about.en.html "Clothing (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Bk "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141695" title="about: Clothing : Uruguay" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1421xx/142106/1416xx/141695/about.en.html))
@@ -148,8 +156,17 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - Cotton industry [**&nearr;**](../../../ware/i/142091/about.en.html "Cotton industry (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Bw01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142091,141695" title="about: Cotton industry : Uruguay" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142091/1416xx/141695/about.en.html))
 - Cotton textiles [**&nearr;**](../../../ware/i/154932/about.en.html "Cotton textiles (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Bw02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/154932,141695" title="about: Cotton textiles : Uruguay" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1549xx/154932/1416xx/141695/about.en.html))
 - Cottonseed, cottonseed oil [**&nearr;**](../../../ware/i/142093/about.en.html "Cottonseed, cottonseed oil (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20-Oe01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142093,141695" title="about: Cottonseed, cottonseed oil : Uruguay" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142093/1416xx/141695/about.en.html))
+
+### M
+
 - Mining machine [**&nearr;**](../../../ware/i/142112/about.en.html "Mining machine (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID08-Bg "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142112,141695" title="about: Mining machine : Uruguay" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1421xx/142112/1416xx/141695/about.en.html))
+
+### O
+
 - Orange [**&nearr;**](../../../ware/i/141981/about.en.html "Orange (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Zs01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,141695" title="about: Orange : Uruguay" target="_blank">10 documents</a>) ([folder](../../../../folder/wa/1419xx/141981/1416xx/141695/about.en.html))
+
+### P
+
 - Petrol [**&nearr;**](../../../ware/i/142108/about.en.html "Petrol (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13.02-Ks02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141695" title="about: Petrol : Uruguay" target="_blank">41 documents</a>) ([folder](../../../../folder/wa/1421xx/142108/1416xx/141695/about.en.html))
 
 

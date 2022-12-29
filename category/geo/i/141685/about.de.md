@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [E72]{.gray}&#8201; Panama-Kanal-Zone&#160; 
+# [E72]{.gray}&#8201; Panama-Kanal-Zone
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141685`</div>
 
 
 

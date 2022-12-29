@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [g5]{.gray}&#8201; Kolonialpolitik, Allgemein&#160; 
+# [g5]{.gray}&#8201; Kolonialpolitik, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427882)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144558`</div>
 
 
 

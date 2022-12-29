@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [m Sm5]{.gray}&#8201; Fee system&#160; 
+# [m Sm5]{.gray}&#8201; Fee system &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700259)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144914`</div>
 
 
 

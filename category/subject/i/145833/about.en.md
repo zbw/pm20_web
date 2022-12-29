@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n Sm36.IIa]{.gray}&#8201; Heating industry, district heating, general&#160; 
+# [n Sm36.IIa]{.gray}&#8201; Heating industry, district heating, general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710353)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145833`</div>
 
 
 

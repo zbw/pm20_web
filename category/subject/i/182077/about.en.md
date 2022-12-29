@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n15 Sm50]{.gray}&#8201; Labor contracts, institutions&#160; 
+# [n15 Sm50]{.gray}&#8201; Labor contracts, institutions &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710795)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/182077`</div>
 
 
 

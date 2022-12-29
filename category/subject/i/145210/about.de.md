@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n15a Sm5]{.gray}&#8201; Arbeitnehmerverhältnisse, Chemische Industrie&#160; 
+# [n15a Sm5]{.gray}&#8201; Arbeitnehmerverhältnisse, Chemische Industrie &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710802)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145210`</div>
 
 
 

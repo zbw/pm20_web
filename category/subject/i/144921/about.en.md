@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [m Sm9.IV]{.gray}&#8201; State and provincial finance, interstate (etc.) taxes, general&#160; 
+# [m Sm9.IV]{.gray}&#8201; State and provincial finance, interstate (etc.) taxes, general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700271)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144921`</div>
 
 
 

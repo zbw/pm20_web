@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n Sm25]{.gray}&#8201; Private Kriegsschäden&#160; 
+# [n Sm25]{.gray}&#8201; Private Kriegsschäden &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700384)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/163226`</div>
 
 
 

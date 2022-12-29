@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n37a Sm5.I]{.gray}&#8201; Transport insurance, general&#160; 
+# [n37a Sm5.I]{.gray}&#8201; Transport insurance, general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711307)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145737`</div>
 
 
 

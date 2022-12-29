@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n15a Sm24.I]{.gray}&#8201; Labor contracts, shipping and port operations, general&#160; 
+# [n15a Sm24.I]{.gray}&#8201; Labor contracts, shipping and port operations, general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710820)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145227`</div>
 
 
 

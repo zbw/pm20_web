@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n30a Sm501 (B23)]{.gray}&#8201; Bagdadbahn&#160; 
+# [n30a Sm501 (B23)]{.gray}&#8201; Bagdadbahn &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711145)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/161612`</div>
 
 
 

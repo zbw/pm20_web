@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B1]{.gray}&#8201; Asia&#160; 
+# [B1]{.gray}&#8201; Asia &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q48) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Asia)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141056`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -56,6 +58,9 @@ For material not published as folders, please check the [digitized micro-films](
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
+
+
+### C
 
 - Coal [**&nearr;**](../../../ware/i/143120/about.en.html "Coal (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB02.01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141056" title="about: Coal : Asia" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1410xx/141056/about.en.html))
 

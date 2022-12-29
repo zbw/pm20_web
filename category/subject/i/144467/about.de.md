@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [g3 (alt)]{.gray}&#8201; Ausländer (rechtliche Stellung)&#160; 
+# [g3 (alt)]{.gray}&#8201; Ausländer (rechtliche Stellung) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699981)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144467`</div>
 
 
 

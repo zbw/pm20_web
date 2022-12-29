@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [h4 Sm1.II (alt)]{.gray}&#8201; Passwesen, Passbestimmungen für Angehörige einz. Staaten&#160; 
+# [h4 Sm1.II (alt)]{.gray}&#8201; Passwesen, Passbestimmungen für Angehörige einz. Staaten &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700083)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144668`</div>
 
 
 

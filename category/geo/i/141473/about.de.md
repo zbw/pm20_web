@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C114]{.gray}&#8201; Britisch-Ostafrika&#160; 
+# [C114]{.gray}&#8201; Britisch-Ostafrika &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q876185) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Britisch-Ostafrika)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141473`</div>
 
-> Scope Note: Kenia (ab 1963), Uganda (ab1962)
-
+<div class="hint">
+Scope Note: Kenia (ab 1963), Uganda (ab1962)
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -95,7 +97,13 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141473" title="über: Alkohol : Britisch-Ostafrika" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1414xx/141473/about.de.html))
+
+### B
+
 - Baumwolle [**&nearr;**](../../../ware/i/142089/about.de.html "Baumwolle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bw "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141473" title="über: Baumwolle : Britisch-Ostafrika" target="_blank">57 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142089/1414xx/141473/about.de.html))
 - Baumwolltextilien [**&nearr;**](../../../ware/i/154932/about.de.html "Baumwolltextilien (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bw02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/154932,141473" title="über: Baumwolltextilien : Britisch-Ostafrika" target="_blank">18 Dokumente</a>) ([Mappe](../../../../folder/wa/1549xx/154932/1414xx/141473/about.de.html))
 

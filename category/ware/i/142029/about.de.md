@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Bakelit&#160; 
+# Bakelit &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q146578) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Bakelit)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142029`</div>
 
-> Scope Note: (einschl.: Haveg; Rovotert)
-
+<div class="hint">
+Scope Note: (einschl.: Haveg; Rovotert)
+</div>
 
 
 

@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B41]{.gray}&#8201; Afghanistan&#160; 
+# [B41]{.gray}&#8201; Afghanistan &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q889) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Afghanistan)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141188`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -61,7 +63,13 @@ For material not published as folders, please check the [digitized micro-films](
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 
+
+### A
+
 - Asbestos [**&nearr;**](../../../ware/i/142014/about.en.html "Asbestos (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID23-As "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,141188" title="about: Asbestos : Afghanistan" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142014/1411xx/141188/about.en.html))
+
+### C
+
 - Coal [**&nearr;**](../../../ware/i/143120/about.en.html "Coal (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB02.01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141188" title="about: Coal : Afghanistan" target="_blank">5 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1411xx/141188/about.en.html))
 - Coal machines (mining and processing) [**&nearr;**](../../../ware/i/143121/about.en.html "Coal machines (mining and processing) (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID08-Bg02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143121,141188" title="about: Coal machines (mining and processing) : Afghanistan" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1431xx/143121/1411xx/141188/about.en.html))
 - Cotton [**&nearr;**](../../../ware/i/142089/about.en.html "Cotton (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bw "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141188" title="about: Cotton : Afghanistan" target="_blank">5 documents</a>) ([folder](../../../../folder/wa/1420xx/142089/1411xx/141188/about.en.html))

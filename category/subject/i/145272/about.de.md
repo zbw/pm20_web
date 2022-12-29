@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n18 Sm9]{.gray}&#8201; Handel, Unlauterer Wettbewerb&#160; 
+# [n18 Sm9]{.gray}&#8201; Handel, Unlauterer Wettbewerb &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710931)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145272`</div>
 
 
 

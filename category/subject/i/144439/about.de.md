@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [f5a.4]{.gray}&#8201; Bekämpfung der Partei&#160; 
+# [f5a.4]{.gray}&#8201; Bekämpfung der Partei &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699670)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144439`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [k2 Sm5]{.gray}&#8201; Kolonialschulwesen (im Mutterland)&#160; 
+# [k2 Sm5]{.gray}&#8201; Kolonialschulwesen (im Mutterland) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700198)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144744`</div>
 
 
 

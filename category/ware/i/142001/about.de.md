@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Aprikose&#160; 
+# Aprikose &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q3733836)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142001`</div>
 
 
 

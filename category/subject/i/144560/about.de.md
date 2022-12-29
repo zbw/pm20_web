@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [g5 Sm501 (A10)]{.gray}&#8201; Chartered Company-Frage&#160; 
+# [g5 Sm501 (A10)]{.gray}&#8201; Chartered Company-Frage &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700068)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144560`</div>
 
 
 

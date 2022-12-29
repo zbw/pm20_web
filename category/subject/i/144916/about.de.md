@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [m Sm7]{.gray}&#8201; Finanzkontrolle durch fremde Mächte&#160; 
+# [m Sm7]{.gray}&#8201; Finanzkontrolle durch fremde Mächte &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700262)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144916`</div>
 
 
 

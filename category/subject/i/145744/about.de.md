@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n37a Sm9]{.gray}&#8201; Rückversicherung&#160; 
+# [n37a Sm9]{.gray}&#8201; Rückversicherung &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711313)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145744`</div>
 
 
 

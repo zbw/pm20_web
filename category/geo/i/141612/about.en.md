@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [D12]{.gray}&#8201; Kaiser-Wilhelmsland&#160; 
+# [D12]{.gray}&#8201; Kaiser-Wilhelmsland &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q691017) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Kaiser-Wilhelmsland)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141612`</div>
 
 
 

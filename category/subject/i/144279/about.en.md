@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [e Sm2]{.gray}&#8201; Diet as a factor of public health&#160; 
+# [e Sm2]{.gray}&#8201; Diet as a factor of public health &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699283)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144279`</div>
 
 
 

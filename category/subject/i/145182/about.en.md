@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n15 Sm17]{.gray}&#8201; Arbitration in labor relations&#160; 
+# [n15 Sm17]{.gray}&#8201; Arbitration in labor relations &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710728)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145182`</div>
 
 
 

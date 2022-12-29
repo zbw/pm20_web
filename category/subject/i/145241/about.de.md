@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n16 Sm1.II]{.gray}&#8201; Beziehungen zu den Gewerkschaften des Auslandes, Einzelne Länder&#160; 
+# [n16 Sm1.II]{.gray}&#8201; Beziehungen zu den Gewerkschaften des Auslandes, Einzelne Länder &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710833)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145241`</div>
 
 
 

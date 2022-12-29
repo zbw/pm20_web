@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [q Sm8]{.gray}&#8201; Situation of Jewish people, Antisemitism (1910-1945)&#160; 
+# [q Sm8]{.gray}&#8201; Situation of Jewish people, Antisemitism (1910-1945) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711378)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145952`</div>
 
 
 

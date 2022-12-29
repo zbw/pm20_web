@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n Sm33]{.gray}&#8201; Operational organization, rationalization&#160; 
+# [n Sm33]{.gray}&#8201; Operational organization, rationalization &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710349)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145829`</div>
 
 
 

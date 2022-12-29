@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n2 Sm6]{.gray}&#8201; Suspension of payment, bankruptcies and liquidations&#160; 
+# [n2 Sm6]{.gray}&#8201; Suspension of payment, bankruptcies and liquidations &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710418)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144978`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [e4]{.gray}&#8201; Medizinalwesen, Hygiene, Sanitäre Einrichtungen&#160; 
+# [e4]{.gray}&#8201; Medizinalwesen, Hygiene, Sanitäre Einrichtungen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427859)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144266`</div>
 
 
 

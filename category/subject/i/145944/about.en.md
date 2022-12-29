@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [q Sm2.IIb]{.gray}&#8201; War material deliveries from abroad, through individual countries&#160; 
+# [q Sm2.IIb]{.gray}&#8201; War material deliveries from abroad, through individual countries &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711373)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145944`</div>
 
 
 

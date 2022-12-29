@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Non-ferrous metal&#160; 
+# Non-ferrous metal &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q5679431) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Non-ferrous_metal)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/161442`</div>
 
 
 

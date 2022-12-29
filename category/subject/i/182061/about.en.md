@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n4 Sm50]{.gray}&#8201; Agriculture, institutions&#160; 
+# [n4 Sm50]{.gray}&#8201; Agriculture, institutions &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710538)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/182061`</div>
 
 
 

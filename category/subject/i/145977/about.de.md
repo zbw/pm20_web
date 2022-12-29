@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [q Sm27.IIIa]{.gray}&#8201; Schiedsgerichte, Gemischte Schiedsgerichtshöfe zwischen zwei Ländern, Allgemein&#160; 
+# [q Sm27.IIIa]{.gray}&#8201; Schiedsgerichte, Gemischte Schiedsgerichtshöfe zwischen zwei Ländern, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711400)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145977`</div>
 
 
 

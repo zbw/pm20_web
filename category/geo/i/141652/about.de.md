@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [E11]{.gray}&#8201; Bermudas&#160; 
+# [E11]{.gray}&#8201; Bermudas
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141652`</div>
 
 
 
@@ -32,8 +34,14 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141652" title="über: Alkohol : Bermudas" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1416xx/141652/about.de.html))
 - Arrowroot (Tacca) [**&nearr;**](../../../ware/i/142005/about.de.html "Arrowroot (Tacca) (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Kf01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142005,141652" title="über: Arrowroot (Tacca) : Bermudas" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142005/1416xx/141652/about.de.html))
+
+### B
+
 - Bekleidung [**&nearr;**](../../../ware/i/142106/about.de.html "Bekleidung (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bk "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141652" title="über: Bekleidung : Bermudas" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142106/1416xx/141652/about.de.html))
 
 

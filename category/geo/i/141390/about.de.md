@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C37]{.gray}&#8201; Elfenbeinküste, Mauretanien&#160; 
+# [C37]{.gray}&#8201; Elfenbeinküste, Mauretanien
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141390`</div>
 
-> Scope Note: Còte d'Ivoire, Elfenbeinküste, Mauretanien (ab 28.11.1960)
-
+<div class="hint">
+Scope Note: Còte d'Ivoire, Elfenbeinküste, Mauretanien (ab 28.11.1960)
+</div>
 
 
 

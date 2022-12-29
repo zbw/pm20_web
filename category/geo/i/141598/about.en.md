@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [D6]{.gray}&#8201; Guam&#160; 
+# [D6]{.gray}&#8201; Guam &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q16635) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Guam)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141598`</div>
 
 
 

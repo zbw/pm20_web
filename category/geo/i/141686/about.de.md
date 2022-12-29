@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [E75]{.gray}&#8201; Venezuela&#160; 
+# [E75]{.gray}&#8201; Venezuela &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q717) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Venezuela)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141686`</div>
 
 
 
@@ -61,10 +63,16 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141686" title="über: Alkohol : Venezuela" target="_blank">14 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1416xx/141686/about.de.html))
 - Aluminium [**&nearr;**](../../../ware/i/141969/about.de.html "Aluminium (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,141686" title="über: Aluminium : Venezuela" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141969/1416xx/141686/about.de.html))
 - Asbest [**&nearr;**](../../../ware/i/142014/about.de.html "Asbest (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID23-As "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,141686" title="über: Asbest : Venezuela" target="_blank">15 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142014/1416xx/141686/about.de.html))
 - Asphalt [**&nearr;**](../../../ware/i/142016/about.de.html "Asphalt (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bd01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141686" title="über: Asphalt : Venezuela" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142016/1416xx/141686/about.de.html))
+
+### B
+
 - Backwaren [**&nearr;**](../../../ware/i/142026/about.de.html "Backwaren (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141686" title="über: Backwaren : Venezuela" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142026/1416xx/141686/about.de.html))
 - Balsam [**&nearr;**](../../../ware/i/142032/about.de.html "Balsam (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW06-Fp02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142032,141686" title="über: Balsam : Venezuela" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142032/1416xx/141686/about.de.html))
 - Banane [**&nearr;**](../../../ware/i/142038/about.de.html "Banane (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bn "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141686" title="über: Banane : Venezuela" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142038/1416xx/141686/about.de.html))
@@ -74,6 +82,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Baumwollindustrie [**&nearr;**](../../../ware/i/142091/about.de.html "Baumwollindustrie (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bw01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142091,141686" title="über: Baumwollindustrie : Venezuela" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142091/1416xx/141686/about.de.html))
 - Benzin [**&nearr;**](../../../ware/i/142108/about.de.html "Benzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141686" title="über: Benzin : Venezuela" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1416xx/141686/about.de.html))
 - Beschläge und Scharniere [**&nearr;**](../../../ware/i/142113/about.de.html "Beschläge und Scharniere (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.03-01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142113,141686" title="über: Beschläge und Scharniere : Venezuela" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142113/1416xx/141686/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141686" title="über: Kohle : Venezuela" target="_blank">31 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1416xx/141686/about.de.html))
 
 

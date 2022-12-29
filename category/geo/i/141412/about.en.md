@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C70]{.gray}&#8201; Spanish Guinea&#160; 
+# [C70]{.gray}&#8201; Spanish Guinea &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q1232509) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Spanish_Guinea)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141412`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -139,8 +141,14 @@ For material not published as folders, please check the [digitized micro-films](
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 
+
+### B
+
 - Banana [**&nearr;**](../../../ware/i/142038/about.en.html "Banana (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bn "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141412" title="about: Banana : Spanish Guinea" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142038/1414xx/141412/about.en.html))
 - Building material [**&nearr;**](../../../ware/i/142086/about.en.html "Building material (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID22-Bs "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141412" title="about: Building material : Spanish Guinea" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142086/1414xx/141412/about.en.html))
+
+### C
+
 - Cotton [**&nearr;**](../../../ware/i/142089/about.en.html "Cotton (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bw "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141412" title="about: Cotton : Spanish Guinea" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142089/1414xx/141412/about.en.html))
 
 

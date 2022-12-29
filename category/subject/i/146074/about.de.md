@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [q Sm502.V (A9)]{.gray}&#8201; Wirtschaftsgebiet an der Unterelbe (Groß-Hamburg)-Frage, Wandsbek&#160; 
+# [q Sm502.V (A9)]{.gray}&#8201; Wirtschaftsgebiet an der Unterelbe (Groß-Hamburg)-Frage, Wandsbek &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711432)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/146074`</div>
 
 
 

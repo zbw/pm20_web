@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B94]{.gray}&#8201; China&#160; 
+# [B94]{.gray}&#8201; China &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q148) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Volksrepublik_China)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141253`</div>
 
 
 
@@ -62,6 +64,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Abfälle und Altmaterial [**&nearr;**](../../../ware/i/141942/about.de.html "Abfälle und Altmaterial (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB01-01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141942,141253" title="über: Abfälle und Altmaterial : China" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141942/1412xx/141253/about.de.html))
 - Agrumen [**&nearr;**](../../../ware/i/141948/about.de.html "Agrumen (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141253" title="über: Agrumen : China" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1412xx/141253/about.de.html))
 - Alaun [**&nearr;**](../../../ware/i/141956/about.de.html "Alaun (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Pm02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141956,141253" title="über: Alaun : China" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141956/1412xx/141253/about.de.html))
@@ -78,6 +83,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Asbest [**&nearr;**](../../../ware/i/142014/about.de.html "Asbest (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID23-As "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,141253" title="über: Asbest : China" target="_blank">16 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142014/1412xx/141253/about.de.html))
 - Asphalt [**&nearr;**](../../../ware/i/142016/about.de.html "Asphalt (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bd01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141253" title="über: Asphalt : China" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142016/1412xx/141253/about.de.html))
 - Auster [**&nearr;**](../../../ware/i/142019/about.de.html "Auster (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW07-Mt02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142019,141253" title="über: Auster : China" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142019/1412xx/141253/about.de.html))
+
+### B
+
 - Backpulver [**&nearr;**](../../../ware/i/142024/about.de.html "Backpulver (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Lm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142024,141253" title="über: Backpulver : China" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142024/1412xx/141253/about.de.html))
 - Backwaren [**&nearr;**](../../../ware/i/142026/about.de.html "Backwaren (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141253" title="über: Backwaren : China" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142026/1412xx/141253/about.de.html))
 - Bagger [**&nearr;**](../../../ware/i/142028/about.de.html "Bagger (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID09.02-Nf01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142028,141253" title="über: Bagger : China" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142028/1412xx/141253/about.de.html))
@@ -94,6 +102,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Baumwolltextilien [**&nearr;**](../../../ware/i/154932/about.de.html "Baumwolltextilien (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bw02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/154932,141253" title="über: Baumwolltextilien : China" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1549xx/154932/1412xx/141253/about.de.html))
 - Bekleidung [**&nearr;**](../../../ware/i/142106/about.de.html "Bekleidung (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bk "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141253" title="über: Bekleidung : China" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142106/1412xx/141253/about.de.html))
 - Benzin [**&nearr;**](../../../ware/i/142108/about.de.html "Benzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141253" title="über: Benzin : China" target="_blank">10 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1412xx/141253/about.de.html))
+
+### K
+
 - Kohl [**&nearr;**](../../../ware/i/143119/about.de.html "Kohl (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Gm08 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143119,141253" title="über: Kohl : China" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143119/1412xx/141253/about.de.html))
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141253" title="über: Kohle : China" target="_blank">232 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1412xx/141253/about.de.html))
 - Kohlemaschinen (Gewinnung und Aufbereitung) [**&nearr;**](../../../ware/i/143121/about.de.html "Kohlemaschinen (Gewinnung und Aufbereitung) (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Bg02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143121,141253" title="über: Kohlemaschinen (Gewinnung und Aufbereitung) : China" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143121/1412xx/141253/about.de.html))

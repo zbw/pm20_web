@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C56]{.gray}&#8201; Liberia&#160; 
+# [C56]{.gray}&#8201; Liberia &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q1014) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Liberia)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141405`</div>
 
 
 

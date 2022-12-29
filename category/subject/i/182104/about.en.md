@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n20 I]{.gray}&#8201; Domestic trade&#160; 
+# [n20 I]{.gray}&#8201; Domestic trade &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710946)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/182104`</div>
 
 
 

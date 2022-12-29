@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [E102]{.gray}&#8201; Britisch-Guayana&#160; 
+# [E102]{.gray}&#8201; Britisch-Guayana &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q918126) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Britisch-Guayana)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141700`</div>
 
-> Scope Note: Guyana (ab 1966)
-
+<div class="hint">
+Scope Note: Guyana (ab 1966)
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -172,13 +174,22 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141700" title="über: Alkohol : Britisch-Guayana" target="_blank">9 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1417xx/141700/about.de.html))
 - Aluminium [**&nearr;**](../../../ware/i/141969/about.de.html "Aluminium (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,141700" title="über: Aluminium : Britisch-Guayana" target="_blank">32 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141969/1417xx/141700/about.de.html))
 - Asphalt [**&nearr;**](../../../ware/i/142016/about.de.html "Asphalt (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bd01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141700" title="über: Asphalt : Britisch-Guayana" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142016/1417xx/141700/about.de.html))
+
+### B
+
 - Bambus [**&nearr;**](../../../ware/i/142035/about.de.html "Bambus (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Gr02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142035,141700" title="über: Bambus : Britisch-Guayana" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142035/1417xx/141700/about.de.html))
 - Banane [**&nearr;**](../../../ware/i/142038/about.de.html "Banane (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bn "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141700" title="über: Banane : Britisch-Guayana" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142038/1417xx/141700/about.de.html))
 - Baumwolle [**&nearr;**](../../../ware/i/142089/about.de.html "Baumwolle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bw "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141700" title="über: Baumwolle : Britisch-Guayana" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142089/1417xx/141700/about.de.html))
 - Bekleidung [**&nearr;**](../../../ware/i/142106/about.de.html "Bekleidung (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bk "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141700" title="über: Bekleidung : Britisch-Guayana" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142106/1417xx/141700/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141700" title="über: Kohle : Britisch-Guayana" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1417xx/141700/about.de.html))
 
 

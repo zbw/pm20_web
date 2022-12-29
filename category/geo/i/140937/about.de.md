@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A10c]{.gray}&#8201; Elsaß-Lothringen&#160; 
+# [A10c]{.gray}&#8201; Elsaß-Lothringen
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140937`</div>
 
-> Scope Note: bis 28.6.1919
-
+<div class="hint">
+Scope Note: bis 28.6.1919
+</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [p6 Sm3]{.gray}&#8201; Military housing&#160; 
+# [p6 Sm3]{.gray}&#8201; Military housing &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711362)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145935`</div>
 
 
 

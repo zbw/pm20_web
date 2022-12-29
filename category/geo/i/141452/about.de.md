@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C91]{.gray}&#8201; Sankt Helena&#160; 
+# [C91]{.gray}&#8201; Sankt Helena &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q34497) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/St._Helena_(Insel))
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141452`</div>
 
-> Scope Note: Die Kronkolonie St. Helena und Nebengebiete (engl.: the Crown Colony of Saint Helena and Dependencies) ist eine Insel im Südatlantik.
-
+<div class="hint">
+Scope Note: Die Kronkolonie St. Helena und Nebengebiete (engl.: the Crown Colony of Saint Helena and Dependencies) ist eine Insel im Südatlantik.
+</div>
 
 
 

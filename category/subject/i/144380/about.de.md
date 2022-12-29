@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [f4 Sm502.II (A10)]{.gray}&#8201; Reichswirtschaftsrat&#160; 
+# [f4 Sm502.II (A10)]{.gray}&#8201; Reichswirtschaftsrat &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699645)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144380`</div>
 
 
 

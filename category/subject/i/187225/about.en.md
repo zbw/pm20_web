@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [k Sm7.I]{.gray}&#8201; Foundations for research and teaching, science, other foundations&#160; 
+# [k Sm7.I]{.gray}&#8201; Foundations for research and teaching, science, other foundations &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700156)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/187225`</div>
 
 
 

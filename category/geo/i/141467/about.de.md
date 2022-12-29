@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C103a]{.gray}&#8201; Kerguelen Inseln&#160; 
+# [C103a]{.gray}&#8201; Kerguelen Inseln
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141467`</div>
 
-> Scope Note: subantarktische Inselgruppe nördlich des antarktischen Kontinents westlich der Crozet-Inseln und nordwestlich der Heard- und McDonald-Inseln
-
+<div class="hint">
+Scope Note: subantarktische Inselgruppe nördlich des antarktischen Kontinents westlich der Crozet-Inseln und nordwestlich der Heard- und McDonald-Inseln
+</div>
 
 
 
@@ -33,6 +35,9 @@ Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfil
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
 
+
+
+### A
 
 - Achat [**&nearr;**](../../../ware/i/141944/about.de.html "Achat (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID23-Ed01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141944,141467" title="über: Achat : Kerguelen Inseln" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141944/1414xx/141467/about.de.html))
 

@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C121]{.gray}&#8201; Britisch-Somaliland&#160; 
+# [C121]{.gray}&#8201; Britisch-Somaliland
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141481`</div>
 
-> Scope Note: nordwestliches Gebiet des heutigen Somalia, zusammen mit Italienisch-Somaliland das heutige Somalia
-
+<div class="hint">
+Scope Note: nordwestliches Gebiet des heutigen Somalia, zusammen mit Italienisch-Somaliland das heutige Somalia
+</div>
 
 
 
@@ -35,6 +37,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 - Baumwolle [**&nearr;**](../../../ware/i/142089/about.de.html "Baumwolle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bw "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141481" title="über: Baumwolle : Britisch-Somaliland" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142089/1414xx/141481/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141481" title="über: Kohle : Britisch-Somaliland" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1414xx/141481/about.de.html))
 
 

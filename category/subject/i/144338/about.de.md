@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [f2 Sm504.I (A10)]{.gray}&#8201; Selbstschutzorganisationen, Vaterländische Verbände, Allgemein&#160; 
+# [f2 Sm504.I (A10)]{.gray}&#8201; Selbstschutzorganisationen, Vaterländische Verbände, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699608)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144338`</div>
 
 
 

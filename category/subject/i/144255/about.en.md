@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [d9 Sm1]{.gray}&#8201; Protection of minors ('Fight against dirt and trash')&#160; 
+# [d9 Sm1]{.gray}&#8201; Protection of minors ('Fight against dirt and trash') &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699280)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144255`</div>
 
 
 

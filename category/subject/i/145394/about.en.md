@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n24 Sm26]{.gray}&#8201; Bank secrecy&#160; 
+# [n24 Sm26]{.gray}&#8201; Bank secrecy &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711045)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145394`</div>
 
 
 

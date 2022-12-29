@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n2 Sm11.III]{.gray}&#8201; Overviews of price developments, retail prices&#160; 
+# [n2 Sm11.III]{.gray}&#8201; Overviews of price developments, retail prices &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710499)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145004`</div>
 
 
 

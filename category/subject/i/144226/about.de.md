@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [d3]{.gray}&#8201; Abstammung, Rassen&#160; 
+# [d3]{.gray}&#8201; Abstammung, Rassen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427846)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144226`</div>
 
 
 

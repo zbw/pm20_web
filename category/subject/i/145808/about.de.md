@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n Sm21]{.gray}&#8201; Bilanzen auf Goldbasis&#160; 
+# [n Sm21]{.gray}&#8201; Bilanzen auf Goldbasis &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700381)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145808`</div>
 
 
 

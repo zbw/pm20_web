@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n12 Sm8.II]{.gray}&#8201; Foreign rights and equity investments in mining, in individual countries&#160; 
+# [n12 Sm8.II]{.gray}&#8201; Foreign rights and equity investments in mining, in individual countries &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710559)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145092`</div>
 
 
 

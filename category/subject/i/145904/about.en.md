@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n Sm507 (A9)]{.gray}&#8201; NS Hago and GHG (Hamburg)&#160; 
+# [n Sm507 (A9)]{.gray}&#8201; NS Hago and GHG (Hamburg) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710387)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145904`</div>
 
 
 

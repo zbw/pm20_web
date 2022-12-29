@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [q Sm502 (A43)]{.gray}&#8201; Foyer turc movement (foyer turc)&#160; 
+# [q Sm502 (A43)]{.gray}&#8201; Foyer turc movement (foyer turc) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711427)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/146057`</div>
 
 
 

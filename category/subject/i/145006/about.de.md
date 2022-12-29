@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n2 Sm12]{.gray}&#8201; Produktionsstatistische Erhebungen&#160; 
+# [n2 Sm12]{.gray}&#8201; Produktionsstatistische Erhebungen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710501)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145006`</div>
 
 
 

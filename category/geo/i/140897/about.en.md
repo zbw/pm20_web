@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A4]{.gray}&#8201; Western Europe&#160; 
+# [A4]{.gray}&#8201; Western Europe &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q27496) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Western_Europe)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140897`</div>
 
 
 

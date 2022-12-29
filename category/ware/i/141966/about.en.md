@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Alcoholic beverage&#160; 
+# Alcoholic beverage &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q154) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Alcoholic_drink)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141966`</div>
 
 
 

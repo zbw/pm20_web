@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Baumwolltextilien&#160; 
+# Baumwolltextilien &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q7107274)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/154932`</div>
 
 
 

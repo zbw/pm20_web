@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [e4 Sm4]{.gray}&#8201; Abfallbeseitigung&#160; 
+# [e4 Sm4]{.gray}&#8201; Abfallbeseitigung &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699289)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144271`</div>
 
 
 

@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n29 Sm1]{.gray}&#8201; Autospezialstrassen, Allgemein&#160; 
+# [n29 Sm1]{.gray}&#8201; Autospezialstrassen, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711107)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145525`</div>
 
-> Scope Note: (einschl.: Autobahn; Reichsautobahn;)
-
+<div class="hint">
+Scope Note: (einschl.: Autobahn; Reichsautobahn;)
+</div>
 
 
 

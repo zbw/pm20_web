@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B10]{.gray}&#8201; Soviet Asia&#160; 
+# [B10]{.gray}&#8201; Soviet Asia
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141065`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n Sm6]{.gray}&#8201; Nationale Kapitalanlagen&#160; 
+# [n Sm6]{.gray}&#8201; Nationale Kapitalanlagen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700357)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/163245`</div>
 
 
 

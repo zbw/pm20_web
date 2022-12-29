@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n Sm9 (alt)]{.gray}&#8201; Food security&#160; 
+# [n Sm9 (alt)]{.gray}&#8201; Food security &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104627927)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145793`</div>
 
 
 

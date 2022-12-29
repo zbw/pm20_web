@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [f2 Sm14]{.gray}&#8201; Autonomy efforts, right of self-determination&#160; 
+# [f2 Sm14]{.gray}&#8201; Autonomy efforts, right of self-determination &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699322)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/163692`</div>
 
 
 

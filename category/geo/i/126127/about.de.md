@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A40]{.gray}&#8201; Österreich-Ungarn&#160; 
+# [A40]{.gray}&#8201; Österreich-Ungarn &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q28513) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/%C3%96sterreich-Ungarn)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/126127`</div>
 
-> Scope Note: Österreich-Ungarn (1867-1918) (k.[aiserliche] und k.[önigliche] Monarchie) war eine Doppel-Monarchie und ein Vielvölkerstaat in Mitteleuropa. (einschl.: Dalmatien, Kroatien, Ungarn bis 1919)
-
+<div class="hint">
+Scope Note: Österreich-Ungarn (1867-1918) (k.[aiserliche] und k.[önigliche] Monarchie) war eine Doppel-Monarchie und ein Vielvölkerstaat in Mitteleuropa. (einschl.: Dalmatien, Kroatien, Ungarn bis 1919)
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -83,8 +85,14 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,126127" title="über: Alkohol : Österreich-Ungarn" target="_blank">30 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1261xx/126127/about.de.html))
 - Aluminium [**&nearr;**](../../../ware/i/141969/about.de.html "Aluminium (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,126127" title="über: Aluminium : Österreich-Ungarn" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141969/1261xx/126127/about.de.html))
+
+### B
+
 - Bekleidung [**&nearr;**](../../../ware/i/142106/about.de.html "Bekleidung (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bk "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,126127" title="über: Bekleidung : Österreich-Ungarn" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142106/1261xx/126127/about.de.html))
 - Benzin [**&nearr;**](../../../ware/i/142108/about.de.html "Benzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,126127" title="über: Benzin : Österreich-Ungarn" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1261xx/126127/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,126127" title="über: Kohle : Österreich-Ungarn" target="_blank">76 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1261xx/126127/about.de.html))
 
 

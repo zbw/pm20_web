@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n Sm39.IV]{.gray}&#8201; Erwerbsgesellschaften, Sonderbestimmungen für ausländische Unternehmungen&#160; 
+# [n Sm39.IV]{.gray}&#8201; Erwerbsgesellschaften, Sonderbestimmungen für ausländische Unternehmungen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710365)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145844`</div>
 
 
 

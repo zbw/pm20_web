@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n18 Sm11]{.gray}&#8201; Commercial agents, general, sales agents&#160; 
+# [n18 Sm11]{.gray}&#8201; Commercial agents, general, sales agents &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710932)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145273`</div>
 
 
 

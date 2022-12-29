@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [g Sm4.I]{.gray}&#8201; Vorgeschichte des Weltkrieges, Allgemein&#160; 
+# [g Sm4.I]{.gray}&#8201; Vorgeschichte des Weltkrieges, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699671)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144573`</div>
 
 
 

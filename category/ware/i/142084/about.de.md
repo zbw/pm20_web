@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Baumaschine&#160; 
+# Baumaschine &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q102310586)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142084`</div>
 
-> Scope Note: (einschl.: Betonmaschinen; Maschinelle Hilfsmittel; Einbahnschienensystem; Betontransport; Rammen;)
-
+<div class="hint">
+Scope Note: (einschl.: Betonmaschinen; Maschinelle Hilfsmittel; Einbahnschienensystem; Betontransport; Rammen;)
+</div>
 
 
 

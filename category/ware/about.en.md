@@ -22,9 +22,10 @@ German)](https://pm20.zbw.eu/doc/hwwa/ware/warenarchiv_1908-1945_schemata.pdf),
 which is not adressable in the electronic folder.
 
 Of the PM20 Länder-/Sacharchiv up to 1949, only a rough estimate of one-eighth
-of the digitized holdings are indexed in folders and accessible here. Many small and large commodities/wares such as 
-China, India, France or the USA are missing at all or are only represented by a
-few folders originating from the "Forschungsstelle für das Übersee-Deutschtum".
+of the digitized holdings are indexed in folders and accessible here. Many
+small and large commodities/wares such as China, India, France or the USA are
+missing at all or are only represented by a few folders originating from the
+"Forschungsstelle für das Übersee-Deutschtum".
 
 All unprocessed material is accessible under [digitized
 films](/film/h1_wa.de.html) (in German), including material from the [second

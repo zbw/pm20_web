@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A2]{.gray}&#8201; Mitteleuropa&#160; 
+# [A2]{.gray}&#8201; Mitteleuropa &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q27509) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Mitteleuropa)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140895`</div>
 
-> Scope Note: (einschl.: Donauraum. Deutschland, Österreich, Polen, Schweiz, Slowakei, Slowenien, Tschechische Republik, Kroatien und Ungarn)
-
+<div class="hint">
+Scope Note: (einschl.: Donauraum. Deutschland, Österreich, Polen, Schweiz, Slowakei, Slowenien, Tschechische Republik, Kroatien und Ungarn)
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -106,9 +108,18 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,140895" title="über: Alkohol : Mitteleuropa" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1408xx/140895/about.de.html))
 - Aluminium [**&nearr;**](../../../ware/i/141969/about.de.html "Aluminium (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,140895" title="über: Aluminium : Mitteleuropa" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141969/1408xx/140895/about.de.html))
+
+### B
+
 - Banane [**&nearr;**](../../../ware/i/142038/about.de.html "Banane (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bn "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,140895" title="über: Banane : Mitteleuropa" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142038/1408xx/140895/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,140895" title="über: Kohle : Mitteleuropa" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1408xx/140895/about.de.html))
 
 

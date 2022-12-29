@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [i3 Sm1]{.gray}&#8201; Strafvollzug, Gefängniswesen&#160; 
+# [i3 Sm1]{.gray}&#8201; Strafvollzug, Gefängniswesen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700146)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144706`</div>
 
-> Scope Note: Gefängniswesen
-
+<div class="hint">
+Scope Note: Gefängniswesen
+</div>
 
 
 

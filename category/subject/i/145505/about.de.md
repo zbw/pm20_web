@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n27 Sm5]{.gray}&#8201; Absatzgenossenschaften&#160; 
+# [n27 Sm5]{.gray}&#8201; Absatzgenossenschaften &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711083)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145505`</div>
 
 
 

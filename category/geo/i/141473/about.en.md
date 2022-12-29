@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C114]{.gray}&#8201; British East Africa&#160; 
+# [C114]{.gray}&#8201; British East Africa &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q876185) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/East_Africa_Protectorate)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141473`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -93,7 +95,13 @@ For material not published as folders, please check the [digitized micro-films](
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 
+
+### A
+
 - Alcoholic beverage [**&nearr;**](../../../ware/i/141966/about.en.html "Alcoholic beverage (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20.02-Sp "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141473" title="about: Alcoholic beverage : British East Africa" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141966/1414xx/141473/about.en.html))
+
+### C
+
 - Cotton [**&nearr;**](../../../ware/i/142089/about.en.html "Cotton (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bw "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141473" title="about: Cotton : British East Africa" target="_blank">57 documents</a>) ([folder](../../../../folder/wa/1420xx/142089/1414xx/141473/about.en.html))
 - Cotton textiles [**&nearr;**](../../../ware/i/154932/about.en.html "Cotton textiles (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Bw02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/154932,141473" title="about: Cotton textiles : British East Africa" target="_blank">18 documents</a>) ([folder](../../../../folder/wa/1549xx/154932/1414xx/141473/about.en.html))
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n9]{.gray}&#8201; Forestry&#160; 
+# [n9]{.gray}&#8201; Forestry &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428027)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145074`</div>
 
 
 

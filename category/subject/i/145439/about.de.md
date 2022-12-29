@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n24 Sm502.IIa (A10)]{.gray}&#8201; Zwecksparkasse, für einzelne Zwecke, Bausparkasse&#160; 
+# [n24 Sm502.IIa (A10)]{.gray}&#8201; Zwecksparkasse, für einzelne Zwecke, Bausparkasse &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711068)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145439`</div>
 
 
 

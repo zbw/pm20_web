@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B95]{.gray}&#8201; Mandschurei&#160; 
+# [B95]{.gray}&#8201; Mandschurei &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q81126) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Mandschurei)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141258`</div>
 
-> Scope Note: Von 1931-1946 zeitweise unter japanischen Einfluss: Mandschurisches Kaiserreich (Mandschukuo)
-
+<div class="hint">
+Scope Note: Von 1931-1946 zeitweise unter japanischen Einfluss: Mandschurisches Kaiserreich (Mandschukuo)
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -63,6 +65,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Abfälle und Altmaterial [**&nearr;**](../../../ware/i/141942/about.de.html "Abfälle und Altmaterial (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB01-01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141942,141258" title="über: Abfälle und Altmaterial : Mandschurei" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141942/1412xx/141258/about.de.html))
 - Alkohol (Chemie) [**&nearr;**](../../../ware/i/163481/about.de.html "Alkohol (Chemie) (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/163481,141258" title="über: Alkohol (Chemie) : Mandschurei" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1634xx/163481/1412xx/141258/about.de.html))
 - Aluminium [**&nearr;**](../../../ware/i/141969/about.de.html "Aluminium (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,141258" title="über: Aluminium : Mandschurei" target="_blank">24 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141969/1412xx/141258/about.de.html))
@@ -70,6 +75,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Antimon [**&nearr;**](../../../ware/i/141977/about.de.html "Antimon (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Hm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141977,141258" title="über: Antimon : Mandschurei" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141977/1412xx/141258/about.de.html))
 - Apfel [**&nearr;**](../../../ware/i/141980/about.de.html "Apfel (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Ob01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141980,141258" title="über: Apfel : Mandschurei" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141980/1412xx/141258/about.de.html))
 - Asbest [**&nearr;**](../../../ware/i/142014/about.de.html "Asbest (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID23-As "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,141258" title="über: Asbest : Mandschurei" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142014/1412xx/141258/about.de.html))
+
+### B
+
 - Baumaterial [**&nearr;**](../../../ware/i/142086/about.de.html "Baumaterial (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141258" title="über: Baumaterial : Mandschurei" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142086/1412xx/141258/about.de.html))
 - Baumwolle [**&nearr;**](../../../ware/i/142089/about.de.html "Baumwolle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bw "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141258" title="über: Baumwolle : Mandschurei" target="_blank">115 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142089/1412xx/141258/about.de.html))
 - Baumwollgarn [**&nearr;**](../../../ware/i/196460/about.de.html "Baumwollgarn (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Nf02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/196460,141258" title="über: Baumwollgarn : Mandschurei" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1964xx/196460/1412xx/141258/about.de.html))
@@ -78,6 +86,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Benzin [**&nearr;**](../../../ware/i/142108/about.de.html "Benzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141258" title="über: Benzin : Mandschurei" target="_blank">13 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1412xx/141258/about.de.html))
 - Bergbaumaschine [**&nearr;**](../../../ware/i/142112/about.de.html "Bergbaumaschine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Bg "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142112,141258" title="über: Bergbaumaschine : Mandschurei" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142112/1412xx/141258/about.de.html))
 - Bernstein [**&nearr;**](../../../ware/i/142111/about.de.html "Bernstein (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID04-Sc01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142111,141258" title="über: Bernstein : Mandschurei" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142111/1412xx/141258/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141258" title="über: Kohle : Mandschurei" target="_blank">193 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1412xx/141258/about.de.html))
 - Kohlemaschinen (Gewinnung und Aufbereitung) [**&nearr;**](../../../ware/i/143121/about.de.html "Kohlemaschinen (Gewinnung und Aufbereitung) (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Bg02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143121,141258" title="über: Kohlemaschinen (Gewinnung und Aufbereitung) : Mandschurei" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143121/1412xx/141258/about.de.html))
 - Kohlenstoff (Ruß) [**&nearr;**](../../../ware/i/143123/about.de.html "Kohlenstoff (Ruß) (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01-Ru "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143123,141258" title="über: Kohlenstoff (Ruß) : Mandschurei" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143123/1412xx/141258/about.de.html))

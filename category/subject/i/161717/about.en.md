@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n24 Sm21.II]{.gray}&#8201; Terms and Conditions (in banking)&#160; 
+# [n24 Sm21.II]{.gray}&#8201; Terms and Conditions (in banking) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711038)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/161717`</div>
 
 
 

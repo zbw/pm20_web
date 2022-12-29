@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Agrumen&#160; 
+# Agrumen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q81513) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Zitruspflanzen)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141948`</div>
 
-> Scope Note: Agrumen (ital.: agrumi = Sauerfrüchte) sind eine Sammelbezeichnung für die wachsbedeckten Früchte von Zitruspflanzen. Die Zitruspflanzen (Citrus) gehören zu den Rautengewächsen (Rutaceae). Als Zitrusfrucht werden die Früchte der über 60 Arten der Gattung bezeichnet. Zitruspflanzen wachsen in warmen Regionen, beispielsweise rund um das Mittelmeer, es sind immergrüne Sträucher oder kleine Bäume und ihre Früchte enthalten viel Vitamin C. (www.wikipedia.de)
-
+<div class="hint">
+Scope Note: Agrumen (ital.: agrumi = Sauerfrüchte) sind eine Sammelbezeichnung für die wachsbedeckten Früchte von Zitruspflanzen. Die Zitruspflanzen (Citrus) gehören zu den Rautengewächsen (Rutaceae). Als Zitrusfrucht werden die Früchte der über 60 Arten der Gattung bezeichnet. Zitruspflanzen wachsen in warmen Regionen, beispielsweise rund um das Mittelmeer, es sind immergrüne Sträucher oder kleine Bäume und ihre Früchte enthalten viel Vitamin C. (www.wikipedia.de)
+</div>
 
 
 

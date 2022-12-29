@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [c8 Sm1]{.gray}&#8201; Animal protection&#160; 
+# [c8 Sm1]{.gray}&#8201; Animal protection &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699239)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144213`</div>
 
 
 

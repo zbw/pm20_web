@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [k2]{.gray}&#8201; Schulwesen&#160; 
+# [k2]{.gray}&#8201; Schulwesen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427913)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144739`</div>
 
 
 

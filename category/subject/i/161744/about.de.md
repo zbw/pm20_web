@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n24 Sm11]{.gray}&#8201; Postscheckverkehr, Postsparkassenwesen&#160; 
+# [n24 Sm11]{.gray}&#8201; Postscheckverkehr, Postsparkassenwesen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711006)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/161744`</div>
 
 
 

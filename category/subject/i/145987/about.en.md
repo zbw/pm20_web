@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [q Sm35 (alt)]{.gray}&#8201; Urban Development Act&#160; 
+# [q Sm35 (alt)]{.gray}&#8201; Urban Development Act &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711408)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145987`</div>
 
 
 

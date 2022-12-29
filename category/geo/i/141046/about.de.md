@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A53]{.gray}&#8201; Finnland&#160; 
+# [A53]{.gray}&#8201; Finnland
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141046`</div>
 
 
 
@@ -32,6 +34,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Abfälle und Altmaterial [**&nearr;**](../../../ware/i/141942/about.de.html "Abfälle und Altmaterial (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB01-01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141942,141046" title="über: Abfälle und Altmaterial : Finnland" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141942/1410xx/141046/about.de.html))
 - Alkohol (Chemie) [**&nearr;**](../../../ware/i/163481/about.de.html "Alkohol (Chemie) (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/163481,141046" title="über: Alkohol (Chemie) : Finnland" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1634xx/163481/1410xx/141046/about.de.html))
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141046" title="über: Alkohol : Finnland" target="_blank">158 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1410xx/141046/about.de.html))
@@ -42,6 +47,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Armatur [**&nearr;**](../../../ware/i/142004/about.de.html "Armatur (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Ar "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142004,141046" title="über: Armatur : Finnland" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142004/1410xx/141046/about.de.html))
 - Asbest [**&nearr;**](../../../ware/i/142014/about.de.html "Asbest (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID23-As "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,141046" title="über: Asbest : Finnland" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142014/1410xx/141046/about.de.html))
 - Asclepiasfaser [**&nearr;**](../../../ware/i/142013/about.de.html "Asclepiasfaser (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Nf06 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142013,141046" title="über: Asclepiasfaser : Finnland" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142013/1410xx/141046/about.de.html))
+
+### B
+
 - Backwaren [**&nearr;**](../../../ware/i/142026/about.de.html "Backwaren (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141046" title="über: Backwaren : Finnland" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142026/1410xx/141046/about.de.html))
 - Bagger [**&nearr;**](../../../ware/i/142028/about.de.html "Bagger (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID09.02-Nf01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142028,141046" title="über: Bagger : Finnland" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142028/1410xx/141046/about.de.html))
 - Bakelit [**&nearr;**](../../../ware/i/142029/about.de.html "Bakelit (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID14-Ha01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142029,141046" title="über: Bakelit : Finnland" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142029/1410xx/141046/about.de.html))
@@ -54,6 +62,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Bekleidungssparten und Zubehör [**&nearr;**](../../../ware/i/166456/about.de.html "Bekleidungssparten und Zubehör (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bz "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/166456,141046" title="über: Bekleidungssparten und Zubehör  : Finnland" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1664xx/166456/1410xx/141046/about.de.html))
 - Benzin [**&nearr;**](../../../ware/i/142108/about.de.html "Benzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141046" title="über: Benzin : Finnland" target="_blank">23 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1410xx/141046/about.de.html))
 - Benzol [**&nearr;**](../../../ware/i/142110/about.de.html "Benzol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko04 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142110,141046" title="über: Benzol : Finnland" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142110/1410xx/141046/about.de.html))
+
+### K
+
 - Kohl [**&nearr;**](../../../ware/i/143119/about.de.html "Kohl (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Gm08 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143119,141046" title="über: Kohl : Finnland" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143119/1410xx/141046/about.de.html))
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141046" title="über: Kohle : Finnland" target="_blank">103 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1410xx/141046/about.de.html))
 

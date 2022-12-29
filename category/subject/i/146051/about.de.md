@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [q Sm502 (A1) (alt)]{.gray}&#8201; Donauföderation&#160; 
+# [q Sm502 (A1) (alt)]{.gray}&#8201; Donauföderation &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711425)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/146051`</div>
 
 
 

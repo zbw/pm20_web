@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n4 Sm4]{.gray}&#8201; Staatliche Unterstützung der Landwirtschaft&#160; 
+# [n4 Sm4]{.gray}&#8201; Staatliche Unterstützung der Landwirtschaft &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710528)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145052`</div>
 
 
 

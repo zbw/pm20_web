@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C18]{.gray}&#8201; Tunesien&#160; 
+# [C18]{.gray}&#8201; Tunesien &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q948) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Tunesien)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141353`</div>
 
 
 
@@ -66,6 +68,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Apfelsine [**&nearr;**](../../../ware/i/141981/about.de.html "Apfelsine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,141353" title="über: Apfelsine : Tunesien" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141981/1413xx/141353/about.de.html))
 - Aprikose [**&nearr;**](../../../ware/i/142001/about.de.html "Aprikose (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142001,141353" title="über: Aprikose : Tunesien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142001/1413xx/141353/about.de.html))
 - Auster [**&nearr;**](../../../ware/i/142019/about.de.html "Auster (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW07-Mt02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142019,141353" title="über: Auster : Tunesien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142019/1413xx/141353/about.de.html))
+
+### B
+
 - Backpulver [**&nearr;**](../../../ware/i/142024/about.de.html "Backpulver (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Lm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142024,141353" title="über: Backpulver : Tunesien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142024/1413xx/141353/about.de.html))
 - Backwaren [**&nearr;**](../../../ware/i/142026/about.de.html "Backwaren (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141353" title="über: Backwaren : Tunesien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142026/1413xx/141353/about.de.html))
 - Banane [**&nearr;**](../../../ware/i/142038/about.de.html "Banane (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bn "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141353" title="über: Banane : Tunesien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142038/1413xx/141353/about.de.html))
@@ -73,6 +78,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Baumaterial [**&nearr;**](../../../ware/i/142086/about.de.html "Baumaterial (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141353" title="über: Baumaterial : Tunesien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142086/1413xx/141353/about.de.html))
 - Baumwolle [**&nearr;**](../../../ware/i/142089/about.de.html "Baumwolle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bw "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141353" title="über: Baumwolle : Tunesien" target="_blank">41 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142089/1413xx/141353/about.de.html))
 - Bekleidung [**&nearr;**](../../../ware/i/142106/about.de.html "Bekleidung (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bk "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141353" title="über: Bekleidung : Tunesien" target="_blank">9 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142106/1413xx/141353/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141353" title="über: Kohle : Tunesien" target="_blank">25 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1413xx/141353/about.de.html))
 - Koka, Kokain [**&nearr;**](../../../ware/i/143124/about.de.html "Koka, Kokain (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID04-Dr05 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,141353" title="über: Koka, Kokain : Tunesien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143124/1413xx/141353/about.de.html))
 

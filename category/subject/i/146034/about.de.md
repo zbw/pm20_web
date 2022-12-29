@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [q Sm501.II (B24a)]{.gray}&#8201; Judenstaat in Palästina, Zionistische Kongresse&#160; 
+# [q Sm501.II (B24a)]{.gray}&#8201; Judenstaat in Palästina, Zionistische Kongresse &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711423)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/146034`</div>
 
 
 

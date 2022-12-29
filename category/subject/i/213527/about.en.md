@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [c5 Sm50]{.gray}&#8201; Climate, institutions&#160; 
+# [c5 Sm50]{.gray}&#8201; Climate, institutions &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699238)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/213527`</div>
 
 
 

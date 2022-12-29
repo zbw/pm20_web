@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [q Sm12a.2]{.gray}&#8201; Relief campaigns abroad, in individual countries&#160; 
+# [q Sm12a.2]{.gray}&#8201; Relief campaigns abroad, in individual countries &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711385)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145958`</div>
 
 
 

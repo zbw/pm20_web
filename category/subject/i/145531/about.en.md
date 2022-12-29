@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n30]{.gray}&#8201; Railways&#160; 
+# [n30]{.gray}&#8201; Railways &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428066)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145531`</div>
 
 
 

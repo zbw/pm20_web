@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B115]{.gray}&#8201; Korea&#160; 
+# [B115]{.gray}&#8201; Korea &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q18097) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Korea)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141276`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -91,10 +93,19 @@ For material not published as folders, please check the [digitized micro-films](
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 
+
+### A
+
 - Alcoholic beverage [**&nearr;**](../../../ware/i/141966/about.en.html "Alcoholic beverage (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20.02-Sp "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141276" title="about: Alcoholic beverage : Korea" target="_blank">4 documents</a>) ([folder](../../../../folder/wa/1419xx/141966/1412xx/141276/about.en.html))
 - Aluminium [**&nearr;**](../../../ware/i/141969/about.en.html "Aluminium (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID07.01-Lm01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,141276" title="about: Aluminium : Korea" target="_blank">12 documents</a>) ([folder](../../../../folder/wa/1419xx/141969/1412xx/141276/about.en.html))
 - Ammonia [**&nearr;**](../../../ware/i/165930/about.en.html "Ammonia (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13-Du01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/165930,141276" title="about: Ammonia : Korea" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1659xx/165930/1412xx/141276/about.en.html))
+
+### B
+
 - Barium [**&nearr;**](../../../ware/i/142042/about.en.html "Barium (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID07.01-Lm02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142042,141276" title="about: Barium : Korea" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1420xx/142042/1412xx/141276/about.en.html))
+
+### C
+
 - Clothing [**&nearr;**](../../../ware/i/142106/about.en.html "Clothing (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Bk "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141276" title="about: Clothing : Korea" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1421xx/142106/1412xx/141276/about.en.html))
 - Coal [**&nearr;**](../../../ware/i/143120/about.en.html "Coal (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB02.01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141276" title="about: Coal : Korea" target="_blank">8 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1412xx/141276/about.en.html))
 - Cotton [**&nearr;**](../../../ware/i/142089/about.en.html "Cotton (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bw "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141276" title="about: Cotton : Korea" target="_blank">33 documents</a>) ([folder](../../../../folder/wa/1420xx/142089/1412xx/141276/about.en.html))

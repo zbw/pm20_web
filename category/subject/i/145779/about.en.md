@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n Sm3.II]{.gray}&#8201; Economic statistics, regarding individual subject areas&#160; 
+# [n Sm3.II]{.gray}&#8201; Economic statistics, regarding individual subject areas &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700351)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145779`</div>
 
 
 

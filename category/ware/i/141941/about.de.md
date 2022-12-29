@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Aal&#160; 
+# Aal &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q26387) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Europ%C3%A4ischer_Aal)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141941`</div>
 
-> Scope Note: Gattung schlangenförmiger Knochenfische, die auf allen Kontinenten vorkommt. Umgangssprachlich werden unter Aalen meist der "Europäische Aal" bzw. Derivate aalartiger Fische verstanden, wozu die meisten Fischarten mit langgestreckter Körperform gerechnet werden, wiewohl sie streng genommen der Gattung selbst gar nicht angehören wie etwa der Zitteraal (www.wikipedia.de, u.a.).
-
+<div class="hint">
+Scope Note: Gattung schlangenförmiger Knochenfische, die auf allen Kontinenten vorkommt. Umgangssprachlich werden unter Aalen meist der "Europäische Aal" bzw. Derivate aalartiger Fische verstanden, wozu die meisten Fischarten mit langgestreckter Körperform gerechnet werden, wiewohl sie streng genommen der Gattung selbst gar nicht angehören wie etwa der Zitteraal (www.wikipedia.de, u.a.).
+</div>
 
 
 

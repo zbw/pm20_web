@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [f4 Sm1.I]{.gray}&#8201; Wahlrecht, Allgemein&#160; 
+# [f4 Sm1.I]{.gray}&#8201; Wahlrecht, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699627)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144356`</div>
 
 
 

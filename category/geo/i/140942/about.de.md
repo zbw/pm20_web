@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A10h]{.gray}&#8201; Ostpreußen (deutsch)&#160; 
+# [A10h]{.gray}&#8201; Ostpreußen (deutsch)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140942`</div>
 
-> Scope Note: bis 31.12.1922. Landschaft und ehemalige preußische Provinz (von 1815-1945) im Nordosten des Mitteleuropäischen Tieflands, südlich und östlich der Ostseeküste; umfasste die Regierungsbezirke Königsberg, Gumbinnen, Allenstein und (bis 1939) den Regierungsbezirk Westpreußen; Hauptstadt war Königsberg (heute Kaliningrad).
-
+<div class="hint">
+Scope Note: bis 31.12.1922. Landschaft und ehemalige preußische Provinz (von 1815-1945) im Nordosten des Mitteleuropäischen Tieflands, südlich und östlich der Ostseeküste; umfasste die Regierungsbezirke Königsberg, Gumbinnen, Allenstein und (bis 1939) den Regierungsbezirk Westpreußen; Hauptstadt war Königsberg (heute Kaliningrad).
+</div>
 
 
 
@@ -33,6 +35,9 @@ Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfil
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
 
+
+
+### B
 
 - Bernstein [**&nearr;**](../../../ware/i/142111/about.de.html "Bernstein (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID04-Sc01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142111,140942" title="über: Bernstein : Ostpreußen (deutsch)" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142111/1409xx/140942/about.de.html))
 

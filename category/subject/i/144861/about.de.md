@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [m2 Sm6]{.gray}&#8201; Zollniederlagen&#160; 
+# [m2 Sm6]{.gray}&#8201; Zollniederlagen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700315)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144861`</div>
 
 
 

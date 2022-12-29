@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [g4 Sm5]{.gray}&#8201; Free trade restriction&#160; 
+# [g4 Sm5]{.gray}&#8201; Free trade restriction &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700012)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144486`</div>
 
 
 

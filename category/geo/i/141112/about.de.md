@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B22]{.gray}&#8201; Armenien (türkisch)&#160; 
+# [B22]{.gray}&#8201; Armenien (türkisch) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q2590074) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Armenier_in_der_T%C3%BCrkei)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141112`</div>
 
 
 

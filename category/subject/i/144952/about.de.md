@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n1 Sm19]{.gray}&#8201; Sicherung und Überwachung der Volksernährung&#160; 
+# [n1 Sm19]{.gray}&#8201; Sicherung und Überwachung der Volksernährung &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710407)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144952`</div>
 
 
 

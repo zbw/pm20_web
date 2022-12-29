@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [m3 Sm40]{.gray}&#8201; Taxation authority, professions and training&#160; 
+# [m3 Sm40]{.gray}&#8201; Taxation authority, professions and training &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700329)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/187242`</div>
 
 
 

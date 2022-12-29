@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A43]{.gray}&#8201; Osmanisches Reich (-1923)&#160; 
+# [A43]{.gray}&#8201; Osmanisches Reich (-1923) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q12560) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Osmanisches_Reich)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141034`</div>
 
-> Scope Note: Ab 1923 für Türkei nur B 021 verwenden!
-
+<div class="hint">
+Scope Note: Ab 1923 für Türkei nur B 021 verwenden!
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -242,13 +244,22 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Aal [**&nearr;**](../../../ware/i/141941/about.de.html "Aal (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW07-Mt01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141941,141034" title="über: Aal : Osmanisches Reich (-1923)" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141941/1410xx/141034/about.de.html))
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141034" title="über: Alkohol : Osmanisches Reich (-1923)" target="_blank">12 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1410xx/141034/about.de.html))
 - Apparate und Instrumente [**&nearr;**](../../../ware/i/141985/about.de.html "Apparate und Instrumente (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Ap "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141985,141034" title="über: Apparate und Instrumente : Osmanisches Reich (-1923)" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141985/1410xx/141034/about.de.html))
 - Automat [**&nearr;**](../../../ware/i/142020/about.de.html "Automat (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Au "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142020,141034" title="über: Automat : Osmanisches Reich (-1923)" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142020/1410xx/141034/about.de.html))
+
+### B
+
 - Backwaren [**&nearr;**](../../../ware/i/142026/about.de.html "Backwaren (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141034" title="über: Backwaren : Osmanisches Reich (-1923)" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142026/1410xx/141034/about.de.html))
 - Baumwolle [**&nearr;**](../../../ware/i/142089/about.de.html "Baumwolle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bw "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141034" title="über: Baumwolle : Osmanisches Reich (-1923)" target="_blank">14 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142089/1410xx/141034/about.de.html))
 - Bäckereimaschine [**&nearr;**](../../../ware/i/142027/about.de.html "Bäckereimaschine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Nm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142027,141034" title="über: Bäckereimaschine : Osmanisches Reich (-1923)" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142027/1410xx/141034/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141034" title="über: Kohle : Osmanisches Reich (-1923)" target="_blank">30 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1410xx/141034/about.de.html))
 - Koka, Kokain [**&nearr;**](../../../ware/i/143124/about.de.html "Koka, Kokain (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID04-Dr05 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,141034" title="über: Koka, Kokain : Osmanisches Reich (-1923)" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143124/1410xx/141034/about.de.html))
 

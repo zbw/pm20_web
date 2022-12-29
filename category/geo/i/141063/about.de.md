@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B9]{.gray}&#8201; Ferner Osten&#160; 
+# [B9]{.gray}&#8201; Ferner Osten
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141063`</div>
 
-> Scope Note: Benutzt für Südostasien und Ostasien
-
+<div class="hint">
+Scope Note: Benutzt für Südostasien und Ostasien
+</div>
 
 
 

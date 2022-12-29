@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n2 Sm11.II]{.gray}&#8201; Übersichten der Preisentwicklung, Kosten der Lebenshaltung&#160; 
+# [n2 Sm11.II]{.gray}&#8201; Übersichten der Preisentwicklung, Kosten der Lebenshaltung &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710498)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145003`</div>
 
 
 

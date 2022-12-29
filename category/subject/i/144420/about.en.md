@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [f5a]{.gray}&#8201; Individual parties and party groups&#160; 
+# [f5a]{.gray}&#8201; Individual parties and party groups &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427869)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144420`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [m2 Sm3]{.gray}&#8201; Konsulatsgebühren auf Fakturen&#160; 
+# [m2 Sm3]{.gray}&#8201; Konsulatsgebühren auf Fakturen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700308)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/163272`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Construction machinery&#160; 
+# Construction machinery &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q102310586)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142084`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n Sm46.IIb]{.gray}&#8201; Nuclear energy for peaceful purposes, individual power plants&#160; 
+# [n Sm46.IIb]{.gray}&#8201; Nuclear energy for peaceful purposes, individual power plants &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710374)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/187254`</div>
 
 
 

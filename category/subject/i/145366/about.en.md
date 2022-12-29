@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n24 Sm7]{.gray}&#8201; Foreign banks&#160; 
+# [n24 Sm7]{.gray}&#8201; Foreign banks &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711001)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145366`</div>
 
 
 

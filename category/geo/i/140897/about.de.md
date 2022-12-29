@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A4]{.gray}&#8201; Westeuropa&#160; 
+# [A4]{.gray}&#8201; Westeuropa &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q27496) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Westeuropa)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140897`</div>
 
-> Scope Note: (einschl.: Frankreich, Britische Inseln, Belgien, Luxemburg, Niederlande)
-
+<div class="hint">
+Scope Note: (einschl.: Frankreich, Britische Inseln, Belgien, Luxemburg, Niederlande)
+</div>
 
 
 

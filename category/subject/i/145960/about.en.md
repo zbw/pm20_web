@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [q Sm14]{.gray}&#8201; Pan-Pacific Movement&#160; 
+# [q Sm14]{.gray}&#8201; Pan-Pacific Movement &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711386)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145960`</div>
 
 
 

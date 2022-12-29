@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [E85]{.gray}&#8201; Chile&#160; 
+# [E85]{.gray}&#8201; Chile &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q298) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Chile)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141691`</div>
 
-> Scope Note: Chile, Feuerland (chilenischer Teil)
-
+<div class="hint">
+Scope Note: Chile, Feuerland (chilenischer Teil)
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -130,6 +132,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Alaun [**&nearr;**](../../../ware/i/141956/about.de.html "Alaun (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Pm02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141956,141691" title="über: Alaun : Chile" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141956/1416xx/141691/about.de.html))
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141691" title="über: Alkohol : Chile" target="_blank">64 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1416xx/141691/about.de.html))
 - Aluminium [**&nearr;**](../../../ware/i/141969/about.de.html "Aluminium (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,141691" title="über: Aluminium : Chile" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141969/1416xx/141691/about.de.html))
@@ -142,6 +147,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Asbest [**&nearr;**](../../../ware/i/142014/about.de.html "Asbest (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID23-As "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,141691" title="über: Asbest : Chile" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142014/1416xx/141691/about.de.html))
 - Asphalt [**&nearr;**](../../../ware/i/142016/about.de.html "Asphalt (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bd01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141691" title="über: Asphalt : Chile" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142016/1416xx/141691/about.de.html))
 - Auster [**&nearr;**](../../../ware/i/142019/about.de.html "Auster (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW07-Mt02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142019,141691" title="über: Auster : Chile" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142019/1416xx/141691/about.de.html))
+
+### B
+
 - Bau- und Isolierplatten [**&nearr;**](../../../ware/i/142083/about.de.html "Bau- und Isolierplatten (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bf01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142083,141691" title="über: Bau- und Isolierplatten : Chile" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142083/1416xx/141691/about.de.html))
 - Baumaterial [**&nearr;**](../../../ware/i/142086/about.de.html "Baumaterial (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141691" title="über: Baumaterial : Chile" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142086/1416xx/141691/about.de.html))
 - Baumwolle [**&nearr;**](../../../ware/i/142089/about.de.html "Baumwolle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bw "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141691" title="über: Baumwolle : Chile" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142089/1416xx/141691/about.de.html))
@@ -155,11 +163,17 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Benzin [**&nearr;**](../../../ware/i/142108/about.de.html "Benzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141691" title="über: Benzin : Chile" target="_blank">70 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1416xx/141691/about.de.html))
 - Bergbaumaschine [**&nearr;**](../../../ware/i/142112/about.de.html "Bergbaumaschine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Bg "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142112,141691" title="über: Bergbaumaschine : Chile" target="_blank">11 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142112/1416xx/141691/about.de.html))
 - Bäckereimaschine [**&nearr;**](../../../ware/i/142027/about.de.html "Bäckereimaschine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Nm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142027,141691" title="über: Bäckereimaschine : Chile" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142027/1416xx/141691/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141691" title="über: Kohle : Chile" target="_blank">282 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1416xx/141691/about.de.html))
 - Kohlemaschinen (Gewinnung und Aufbereitung) [**&nearr;**](../../../ware/i/143121/about.de.html "Kohlemaschinen (Gewinnung und Aufbereitung) (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Bg02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143121,141691" title="über: Kohlemaschinen (Gewinnung und Aufbereitung) : Chile" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143121/1416xx/141691/about.de.html))
 - Kohlenstaub [**&nearr;**](../../../ware/i/218756/about.de.html "Kohlenstaub (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01-St "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/218756,141691" title="über: Kohlenstaub : Chile" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/2187xx/218756/1416xx/141691/about.de.html))
 - Kohlensäure [**&nearr;**](../../../ware/i/143122/about.de.html "Kohlensäure (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Sc06 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143122,141691" title="über: Kohlensäure : Chile" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143122/1416xx/141691/about.de.html))
 - Koka, Kokain [**&nearr;**](../../../ware/i/143124/about.de.html "Koka, Kokain (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID04-Dr05 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,141691" title="über: Koka, Kokain : Chile" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143124/1416xx/141691/about.de.html))
+
+### Ä
+
 - Äther [**&nearr;**](../../../ware/i/141945/about.de.html "Äther (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141945,141691" title="über: Äther : Chile" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141945/1416xx/141691/about.de.html))
 
 

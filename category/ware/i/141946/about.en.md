@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Ethyl alcohol&#160; 
+# Ethyl alcohol &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q459852) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Common_ethanol_fuel_mixtures)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141946`</div>
 
 
 

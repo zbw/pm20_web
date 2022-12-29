@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n38 Sm2.I]{.gray}&#8201; Schutz des gewerblichen Eigentums , Allgemein&#160; 
+# [n38 Sm2.I]{.gray}&#8201; Schutz des gewerblichen Eigentums , Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711323)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145759`</div>
 
-> Scope Note: Patent-, Muster- und Markenschutz
-
+<div class="hint">
+Scope Note: Patent-, Muster- und Markenschutz
+</div>
 
 
 

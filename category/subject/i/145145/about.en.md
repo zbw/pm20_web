@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n14a Sm16]{.gray}&#8201; Crafts, pottery, stone products, glazing&#160; 
+# [n14a Sm16]{.gray}&#8201; Crafts, pottery, stone products, glazing &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710685)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145145`</div>
 
 
 

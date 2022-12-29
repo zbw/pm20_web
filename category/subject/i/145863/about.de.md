@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n Sm61]{.gray}&#8201; Aufkommen und Verwendung neuer Werkstoffe, Allgemein&#160; 
+# [n Sm61]{.gray}&#8201; Aufkommen und Verwendung neuer Werkstoffe, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710383)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145863`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [k1 Sm8]{.gray}&#8201; Economic research and teaching&#160; 
+# [k1 Sm8]{.gray}&#8201; Economic research and teaching &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700187)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144732`</div>
 
 
 

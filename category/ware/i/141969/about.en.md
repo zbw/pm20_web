@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Aluminium&#160; 
+# Aluminium &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q663) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Aluminium)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141969`</div>
 
 
 

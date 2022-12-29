@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [f5 Sm1.II]{.gray}&#8201; Wahl des Staatsoberhauptes&#160; 
+# [f5 Sm1.II]{.gray}&#8201; Wahl des Staatsoberhauptes &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699649)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144397`</div>
 
 
 

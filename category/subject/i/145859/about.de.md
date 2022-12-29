@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n Sm55 (alt)]{.gray}&#8201; Public Utilities (der Öffentlichkeit dienende Versorgungs- und Verkehrsbetriebe)&#160; 
+# [n Sm55 (alt)]{.gray}&#8201; Public Utilities (der Öffentlichkeit dienende Versorgungs- und Verkehrsbetriebe) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710379)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145859`</div>
 
-> Scope Note: der Öffentlichkeit dienende Versorgungs- und Verkehrsunternehmen
-
+<div class="hint">
+Scope Note: der Öffentlichkeit dienende Versorgungs- und Verkehrsunternehmen
+</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Kohl&#160; 
+# Kohl &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q146212) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Gem%C3%BCsekohl)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/143119`</div>
 
 
 

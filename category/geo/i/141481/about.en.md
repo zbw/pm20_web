@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C121]{.gray}&#8201; British Somaliland&#160; 
+# [C121]{.gray}&#8201; British Somaliland
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141481`</div>
 
 
 

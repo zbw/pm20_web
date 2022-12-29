@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Absinth&#160; 
+# Absinth &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q170210) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Absinth)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141943`</div>
 
-> Scope Note: Absinth (auch: Absinthe, Wermutspirituose) ist ein wermuthaltiges alkoholisches Getränk aus (im historischen Standardrezept) Anis, Fenchel und anderen Kräutern. Der Alkoholgehalt liegt standardmäßig zwischen 45 und 72 Volumen-Prozent und ist demnach dem oberen Bereich der Spirituosen zuzuordnen. Aufgrund der Verwendung bitter schmeckender Kräuter, insbesondere von Wermut, gilt Absinth als Bitterspirituose, obwohl er selbst nicht notwendigerweise bitter schmeckt (www.wikipedia.de).
-
+<div class="hint">
+Scope Note: Absinth (auch: Absinthe, Wermutspirituose) ist ein wermuthaltiges alkoholisches Getränk aus (im historischen Standardrezept) Anis, Fenchel und anderen Kräutern. Der Alkoholgehalt liegt standardmäßig zwischen 45 und 72 Volumen-Prozent und ist demnach dem oberen Bereich der Spirituosen zuzuordnen. Aufgrund der Verwendung bitter schmeckender Kräuter, insbesondere von Wermut, gilt Absinth als Bitterspirituose, obwohl er selbst nicht notwendigerweise bitter schmeckt (www.wikipedia.de).
+</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A40b(Wn)]{.gray}&#8201; Vienna&#160; 
+# [A40b(Wn)]{.gray}&#8201; Vienna
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141021`</div>
 
 
 
@@ -31,6 +33,9 @@ For material not published as folders, please check the [digitized micro-films](
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
+
+
+### A
 
 - Angora rabbit wool [**&nearr;**](../../../ware/i/141972/about.en.html "Angora rabbit wool (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW05-Wo01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141972,141021" title="about: Angora rabbit wool : Vienna" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141972/1410xx/141021/about.en.html))
 

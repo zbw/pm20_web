@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [l4 Sm2]{.gray}&#8201; Protection against air strikes&#160; 
+# [l4 Sm2]{.gray}&#8201; Protection against air strikes &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700246)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144777`</div>
 
 
 

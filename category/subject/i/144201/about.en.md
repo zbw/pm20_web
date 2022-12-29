@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [c1 Sm501 (B42)]{.gray}&#8201; Himalayas expeditions&#160; 
+# [c1 Sm501 (B42)]{.gray}&#8201; Himalayas expeditions &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699236)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144201`</div>
 
 
 

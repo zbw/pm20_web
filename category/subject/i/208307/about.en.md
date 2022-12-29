@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [q Sm8.I]{.gray}&#8201; Aryanization (1933-1945)&#160; 
+# [q Sm8.I]{.gray}&#8201; Aryanization (1933-1945) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711379)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/208307`</div>
 
 
 

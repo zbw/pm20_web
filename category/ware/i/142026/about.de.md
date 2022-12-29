@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Backwaren&#160; 
+# Backwaren &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q4498085) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Backware)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142026`</div>
 
-> Scope Note: (einschl.: Biscuit; Zwieback; Lebkuchen; Keks; Brot; Tortillia)
-
+<div class="hint">
+Scope Note: (einschl.: Biscuit; Zwieback; Lebkuchen; Keks; Brot; Tortillia)
+</div>
 
 
 

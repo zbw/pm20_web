@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [i2]{.gray}&#8201; Civil right&#160; 
+# [i2]{.gray}&#8201; Civil right &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427900)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144701`</div>
 
 
 

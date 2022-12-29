@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [E97]{.gray}&#8201; Brasilien&#160; 
+# [E97]{.gray}&#8201; Brasilien &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q155) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Brasilien)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141697`</div>
 
 
 
@@ -85,6 +87,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Agrumen [**&nearr;**](../../../ware/i/141948/about.de.html "Agrumen (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141697" title="über: Agrumen : Brasilien" target="_blank">75 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1416xx/141697/about.de.html))
 - Akazienrinde [**&nearr;**](../../../ware/i/141950/about.de.html "Akazienrinde (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW06-Fp01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141950,141697" title="über: Akazienrinde : Brasilien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141950/1416xx/141697/about.de.html))
 - Alaun [**&nearr;**](../../../ware/i/141956/about.de.html "Alaun (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Pm02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141956,141697" title="über: Alaun : Brasilien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141956/1416xx/141697/about.de.html))
@@ -101,6 +106,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Asphalt [**&nearr;**](../../../ware/i/142016/about.de.html "Asphalt (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bd01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141697" title="über: Asphalt : Brasilien" target="_blank">12 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142016/1416xx/141697/about.de.html))
 - Automat [**&nearr;**](../../../ware/i/142020/about.de.html "Automat (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Au "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142020,141697" title="über: Automat : Brasilien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142020/1416xx/141697/about.de.html))
 - Avocatbirne [**&nearr;**](../../../ware/i/142021/about.de.html "Avocatbirne (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Ob02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142021,141697" title="über: Avocatbirne : Brasilien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142021/1416xx/141697/about.de.html))
+
+### B
+
 - Babassunuss [**&nearr;**](../../../ware/i/142023/about.de.html "Babassunuss (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Nu01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142023,141697" title="über: Babassunuss : Brasilien" target="_blank">108 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142023/1416xx/141697/about.de.html))
 - Backpulver [**&nearr;**](../../../ware/i/142024/about.de.html "Backpulver (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Lm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142024,141697" title="über: Backpulver : Brasilien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142024/1416xx/141697/about.de.html))
 - Balsam [**&nearr;**](../../../ware/i/142032/about.de.html "Balsam (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW06-Fp02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142032,141697" title="über: Balsam : Brasilien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142032/1416xx/141697/about.de.html))
@@ -118,10 +126,16 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Bekleidungssparten und Zubehör [**&nearr;**](../../../ware/i/166456/about.de.html "Bekleidungssparten und Zubehör (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bz "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/166456,141697" title="über: Bekleidungssparten und Zubehör  : Brasilien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1664xx/166456/1416xx/141697/about.de.html))
 - Benzin [**&nearr;**](../../../ware/i/142108/about.de.html "Benzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141697" title="über: Benzin : Brasilien" target="_blank">56 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1416xx/141697/about.de.html))
 - Beryllium [**&nearr;**](../../../ware/i/142103/about.de.html "Beryllium (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm03 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142103,141697" title="über: Beryllium : Brasilien" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142103/1416xx/141697/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141697" title="über: Kohle : Brasilien" target="_blank">459 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1416xx/141697/about.de.html))
 - Kohlenstaub [**&nearr;**](../../../ware/i/218756/about.de.html "Kohlenstaub (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01-St "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/218756,141697" title="über: Kohlenstaub : Brasilien" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/2187xx/218756/1416xx/141697/about.de.html))
 - Koka, Kokain [**&nearr;**](../../../ware/i/143124/about.de.html "Koka, Kokain (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID04-Dr05 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,141697" title="über: Koka, Kokain : Brasilien" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143124/1416xx/141697/about.de.html))
 - Kokosfaser [**&nearr;**](../../../ware/i/143125/about.de.html "Kokosfaser (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Nf11 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143125,141697" title="über: Kokosfaser : Brasilien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143125/1416xx/141697/about.de.html))
+
+### T
+
 - Treibstoff [**&nearr;**](../../../ware/i/143989/about.de.html "Treibstoff (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143989,141697" title="über: Treibstoff : Brasilien" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1439xx/143989/1416xx/141697/about.de.html))
 
 

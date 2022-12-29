@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A22]{.gray}&#8201; Großbritannien&#160; 
+# [A22]{.gray}&#8201; Großbritannien
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140974`</div>
 
-> Scope Note: Britisches Empire i. G.; Benutzt für die Hauptinsel der Britischen Inseln und für das Vereinigte Königreich unter Einschluß Irlands bzw. Nordirlands; die Vereinigung Englands mit Schottland erfolgte 1707
-
+<div class="hint">
+Scope Note: Britisches Empire i. G.; Benutzt für die Hauptinsel der Britischen Inseln und für das Vereinigte Königreich unter Einschluß Irlands bzw. Nordirlands; die Vereinigung Englands mit Schottland erfolgte 1707
+</div>
 
 
 
@@ -63,6 +65,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Avocatbirne [**&nearr;**](../../../ware/i/142021/about.de.html "Avocatbirne (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Ob02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142021,140974" title="über: Avocatbirne : Großbritannien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142021/1409xx/140974/about.de.html))
 - Axt, Beil, Hammer [**&nearr;**](../../../ware/i/141947/about.de.html "Axt, Beil, Hammer (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.03-Wz01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141947,140974" title="über: Axt, Beil, Hammer : Großbritannien" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141947/1409xx/140974/about.de.html))
 - Azeton [**&nearr;**](../../../ware/i/142022/about.de.html "Azeton (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko03 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142022,140974" title="über: Azeton : Großbritannien" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142022/1409xx/140974/about.de.html))
+
+### B
+
 - Babassunuss [**&nearr;**](../../../ware/i/142023/about.de.html "Babassunuss (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Nu01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142023,140974" title="über: Babassunuss : Großbritannien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142023/1409xx/140974/about.de.html))
 - Backpulver [**&nearr;**](../../../ware/i/142024/about.de.html "Backpulver (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Lm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142024,140974" title="über: Backpulver : Großbritannien" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142024/1409xx/140974/about.de.html))
 - Backwaren [**&nearr;**](../../../ware/i/142026/about.de.html "Backwaren (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,140974" title="über: Backwaren : Großbritannien" target="_blank">21 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142026/1409xx/140974/about.de.html))
@@ -91,6 +96,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Bergbaumaschine [**&nearr;**](../../../ware/i/142112/about.de.html "Bergbaumaschine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Bg "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142112,140974" title="über: Bergbaumaschine : Großbritannien" target="_blank">22 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142112/1409xx/140974/about.de.html))
 - Beschläge und Scharniere [**&nearr;**](../../../ware/i/142113/about.de.html "Beschläge und Scharniere (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.03-01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142113,140974" title="über: Beschläge und Scharniere : Großbritannien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142113/1409xx/140974/about.de.html))
 - Bäckereimaschine [**&nearr;**](../../../ware/i/142027/about.de.html "Bäckereimaschine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Nm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142027,140974" title="über: Bäckereimaschine : Großbritannien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142027/1409xx/140974/about.de.html))
+
+### K
+
 - Kohl [**&nearr;**](../../../ware/i/143119/about.de.html "Kohl (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Gm08 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143119,140974" title="über: Kohl : Großbritannien" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143119/1409xx/140974/about.de.html))
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,140974" title="über: Kohle : Großbritannien" target="_blank">5708 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1409xx/140974/about.de.html))
 - Kohlemaschinen (Gewinnung und Aufbereitung) [**&nearr;**](../../../ware/i/143121/about.de.html "Kohlemaschinen (Gewinnung und Aufbereitung) (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Bg02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143121,140974" title="über: Kohlemaschinen (Gewinnung und Aufbereitung) : Großbritannien" target="_blank">16 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143121/1409xx/140974/about.de.html))
@@ -99,6 +107,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Kohlensäure [**&nearr;**](../../../ware/i/143122/about.de.html "Kohlensäure (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Sc06 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143122,140974" title="über: Kohlensäure : Großbritannien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143122/1409xx/140974/about.de.html))
 - Kohleveredelung [**&nearr;**](../../../ware/i/218757/about.de.html "Kohleveredelung (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/218757,140974" title="über: Kohleveredelung : Großbritannien" target="_blank">62 Dokumente</a>) ([Mappe](../../../../folder/wa/2187xx/218757/1409xx/140974/about.de.html))
 - Koka, Kokain [**&nearr;**](../../../ware/i/143124/about.de.html "Koka, Kokain (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID04-Dr05 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,140974" title="über: Koka, Kokain : Großbritannien" target="_blank">47 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143124/1409xx/140974/about.de.html))
+
+### Ä
+
 - Äthylbenzin [**&nearr;**](../../../ware/i/141946/about.de.html "Äthylbenzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141946,140974" title="über: Äthylbenzin : Großbritannien" target="_blank">9 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141946/1409xx/140974/about.de.html))
 
 

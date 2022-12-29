@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n13a Sm4]{.gray}&#8201; Elektrizitätsindustrie&#160; 
+# [n13a Sm4]{.gray}&#8201; Elektrizitätsindustrie &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710655)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145120`</div>
 
 
 

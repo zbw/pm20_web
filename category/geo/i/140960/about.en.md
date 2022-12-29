@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A11]{.gray}&#8201; German imperial colonies&#160; 
+# [A11]{.gray}&#8201; German imperial colonies &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q329618) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/German_colonial_empire)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140960`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -218,6 +220,9 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 - Cotton [**&nearr;**](../../../ware/i/142089/about.en.html "Cotton (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bw "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,140960" title="about: Cotton : German imperial colonies" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1420xx/142089/1409xx/140960/about.en.html))
+
+### T
+
 - Tree clearing machine [**&nearr;**](../../../ware/i/142087/about.en.html "Tree clearing machine (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID08-Ld01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142087,140960" title="about: Tree clearing machine : German imperial colonies" target="_blank">6 documents</a>) ([folder](../../../../folder/wa/1420xx/142087/1409xx/140960/about.en.html))
 
 

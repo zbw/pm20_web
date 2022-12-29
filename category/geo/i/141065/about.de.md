@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B10]{.gray}&#8201; Sowjetunion (Asiatischer Teil)&#160; 
+# [B10]{.gray}&#8201; Sowjetunion (Asiatischer Teil)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141065`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B15]{.gray}&#8201; Uzbekistan&#160; 
+# [B15]{.gray}&#8201; Uzbekistan
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141071`</div>
 
 
 
@@ -31,6 +33,9 @@ For material not published as folders, please check the [digitized micro-films](
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
+
+
+### A
 
 - Aluminium [**&nearr;**](../../../ware/i/141969/about.en.html "Aluminium (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID07.01-Lm01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,141071" title="about: Aluminium : Uzbekistan" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141969/1410xx/141071/about.en.html))
 

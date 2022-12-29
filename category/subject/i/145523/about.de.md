@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n28b]{.gray}&#8201; Verkehr (im Ganzen) mit einzelnen Ländern&#160; 
+# [n28b]{.gray}&#8201; Verkehr (im Ganzen) mit einzelnen Ländern &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428060)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145523`</div>
 
 
 

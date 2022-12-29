@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A11]{.gray}&#8201; Deutsche Kolonien&#160; 
+# [A11]{.gray}&#8201; Deutsche Kolonien &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q329618) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Deutsche_Kolonien)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140960`</div>
 
 
 
@@ -216,6 +218,9 @@ Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfil
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
 
+
+
+### B
 
 - Baumrodemaschine [**&nearr;**](../../../ware/i/142087/about.de.html "Baumrodemaschine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Ld01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142087,140960" title="über: Baumrodemaschine : Deutsche Kolonien" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142087/1409xx/140960/about.de.html))
 - Baumwolle [**&nearr;**](../../../ware/i/142089/about.de.html "Baumwolle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bw "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,140960" title="über: Baumwolle : Deutsche Kolonien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142089/1409xx/140960/about.de.html))

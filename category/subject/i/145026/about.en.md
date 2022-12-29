@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n2a]{.gray}&#8201; Report on the economic situation in individual states, provinces and cities&#160; 
+# [n2a]{.gray}&#8201; Report on the economic situation in individual states, provinces and cities &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428020)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145026`</div>
 
 
 

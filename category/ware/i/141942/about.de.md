@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Abfälle und Altmaterial&#160; 
+# Abfälle und Altmaterial &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q113375154)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141942`</div>
 
-> Scope Note: Vgl. auch unter "Abfall und Sekundärrohstoffe".
-
+<div class="hint">
+Scope Note: Vgl. auch unter "Abfall und Sekundärrohstoffe".
+</div>
 
 
 

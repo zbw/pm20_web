@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [d9 Sm1]{.gray}&#8201; Kampf gegen Schmutz und Schund, Jugendschutz&#160; 
+# [d9 Sm1]{.gray}&#8201; Kampf gegen Schmutz und Schund, Jugendschutz &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699280)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144255`</div>
 
-> Scope Note: von 1933 bis 1945 im nationalsozialistischen Deutschland auch im Sinne von Bücherverbrennung
-
+<div class="hint">
+Scope Note: von 1933 bis 1945 im nationalsozialistischen Deutschland auch im Sinne von Bücherverbrennung
+</div>
 
 
 

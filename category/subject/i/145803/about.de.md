@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n Sm17]{.gray}&#8201; Handels- und Industriespionage, Sabotage&#160; 
+# [n Sm17]{.gray}&#8201; Handels- und Industriespionage, Sabotage &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700376)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145803`</div>
 
 
 

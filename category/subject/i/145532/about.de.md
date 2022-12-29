@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n30 Sm1]{.gray}&#8201; Eisenbahnwesen, Finanzielles. Lage und Statistik der Privat-Eisenbahnunternehmungen&#160; 
+# [n30 Sm1]{.gray}&#8201; Eisenbahnwesen, Finanzielles. Lage und Statistik der Privat-Eisenbahnunternehmungen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711112)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145532`</div>
 
 
 

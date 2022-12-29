@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n16]{.gray}&#8201; Gewerkschaftswesen, Arbeiterorganisationen Allgemein&#160; 
+# [n16]{.gray}&#8201; Gewerkschaftswesen, Arbeiterorganisationen Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428040)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145239`</div>
 
 
 

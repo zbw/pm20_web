@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [l2 Sm1]{.gray}&#8201; Former German and Austrian warships&#160; 
+# [l2 Sm1]{.gray}&#8201; Former German and Austrian warships &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700224)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144769`</div>
 
 
 

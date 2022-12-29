@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A30]{.gray}&#8201; Spanien&#160; 
+# [A30]{.gray}&#8201; Spanien
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140984`</div>
 
 
 
@@ -32,6 +34,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Aal [**&nearr;**](../../../ware/i/141941/about.de.html "Aal (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW07-Mt01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141941,140984" title="über: Aal : Spanien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141941/1409xx/140984/about.de.html))
 - Abfälle und Altmaterial [**&nearr;**](../../../ware/i/141942/about.de.html "Abfälle und Altmaterial (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB01-01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141942,140984" title="über: Abfälle und Altmaterial : Spanien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141942/1409xx/140984/about.de.html))
 - Agrumen [**&nearr;**](../../../ware/i/141948/about.de.html "Agrumen (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,140984" title="über: Agrumen : Spanien" target="_blank">54 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1409xx/140984/about.de.html))
@@ -51,6 +56,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Asbest [**&nearr;**](../../../ware/i/142014/about.de.html "Asbest (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID23-As "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,140984" title="über: Asbest : Spanien" target="_blank">14 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142014/1409xx/140984/about.de.html))
 - Auster [**&nearr;**](../../../ware/i/142019/about.de.html "Auster (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW07-Mt02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142019,140984" title="über: Auster : Spanien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142019/1409xx/140984/about.de.html))
 - Automat [**&nearr;**](../../../ware/i/142020/about.de.html "Automat (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Au "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142020,140984" title="über: Automat : Spanien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142020/1409xx/140984/about.de.html))
+
+### B
+
 - Backwaren [**&nearr;**](../../../ware/i/142026/about.de.html "Backwaren (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,140984" title="über: Backwaren : Spanien" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142026/1409xx/140984/about.de.html))
 - Bagger [**&nearr;**](../../../ware/i/142028/about.de.html "Bagger (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID09.02-Nf01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142028,140984" title="über: Bagger : Spanien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142028/1409xx/140984/about.de.html))
 - Banane [**&nearr;**](../../../ware/i/142038/about.de.html "Banane (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bn "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,140984" title="über: Banane : Spanien" target="_blank">16 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142038/1409xx/140984/about.de.html))
@@ -69,9 +77,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Benzin [**&nearr;**](../../../ware/i/142108/about.de.html "Benzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,140984" title="über: Benzin : Spanien" target="_blank">67 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1409xx/140984/about.de.html))
 - Benzol [**&nearr;**](../../../ware/i/142110/about.de.html "Benzol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko04 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142110,140984" title="über: Benzol : Spanien" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142110/1409xx/140984/about.de.html))
 - Bergbaumaschine [**&nearr;**](../../../ware/i/142112/about.de.html "Bergbaumaschine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Bg "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142112,140984" title="über: Bergbaumaschine : Spanien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142112/1409xx/140984/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,140984" title="über: Kohle : Spanien" target="_blank">1080 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1409xx/140984/about.de.html))
 - Kohlemaschinen (Gewinnung und Aufbereitung) [**&nearr;**](../../../ware/i/143121/about.de.html "Kohlemaschinen (Gewinnung und Aufbereitung) (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Bg02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143121,140984" title="über: Kohlemaschinen (Gewinnung und Aufbereitung) : Spanien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143121/1409xx/140984/about.de.html))
 - Kokosfaser [**&nearr;**](../../../ware/i/143125/about.de.html "Kokosfaser (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Nf11 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143125,140984" title="über: Kokosfaser : Spanien" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143125/1409xx/140984/about.de.html))
+
+### Ä
+
 - Äther [**&nearr;**](../../../ware/i/141945/about.de.html "Äther (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141945,140984" title="über: Äther : Spanien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141945/1409xx/140984/about.de.html))
 
 

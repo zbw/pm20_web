@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n20 III g]{.gray}&#8201; Vending machines (retail)&#160; 
+# [n20 III g]{.gray}&#8201; Vending machines (retail) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710955)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/182111`</div>
 
 
 

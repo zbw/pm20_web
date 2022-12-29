@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [g6 Sm2]{.gray}&#8201; Verhandlungen und Abmachungen fremder Staaten über ...&#160; 
+# [g6 Sm2]{.gray}&#8201; Verhandlungen und Abmachungen fremder Staaten über ... &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700070)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144567`</div>
 
 
 

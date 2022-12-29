@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [D5]{.gray}&#8201; Hawaii&#160; 
+# [D5]{.gray}&#8201; Hawaii &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q782) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Hawaii)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141595`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -211,10 +213,22 @@ For material not published as folders, please check the [digitized micro-films](
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 
+
+### A
+
 - Avocate pear [**&nearr;**](../../../ware/i/142021/about.en.html "Avocate pear (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Ob02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142021,141595" title="about: Avocate pear : Hawaii" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142021/1415xx/141595/about.en.html))
+
+### B
+
 - Banana [**&nearr;**](../../../ware/i/142038/about.en.html "Banana (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bn "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141595" title="about: Banana : Hawaii" target="_blank">5 documents</a>) ([folder](../../../../folder/wa/1420xx/142038/1415xx/141595/about.en.html))
+
+### C
+
 - Coal [**&nearr;**](../../../ware/i/143120/about.en.html "Coal (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB02.01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141595" title="about: Coal : Hawaii" target="_blank">4 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1415xx/141595/about.en.html))
 - Cotton [**&nearr;**](../../../ware/i/142089/about.en.html "Cotton (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bw "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141595" title="about: Cotton : Hawaii" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1420xx/142089/1415xx/141595/about.en.html))
+
+### P
+
 - Petrol [**&nearr;**](../../../ware/i/142108/about.en.html "Petrol (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13.02-Ks02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141595" title="about: Petrol : Hawaii" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1421xx/142108/1415xx/141595/about.en.html))
 - Pineapple [**&nearr;**](../../../ware/i/141970/about.en.html "Pineapple (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Tr01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141970,141595" title="about: Pineapple : Hawaii" target="_blank">63 documents</a>) ([folder](../../../../folder/wa/1419xx/141970/1415xx/141595/about.en.html))
 

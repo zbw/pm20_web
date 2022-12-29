@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B24a]{.gray}&#8201; Palestine&#160; 
+# [B24a]{.gray}&#8201; Palestine &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q23792) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Palestine_(region))
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141115`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -426,15 +428,24 @@ For material not published as folders, please check the [digitized micro-films](
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 
+
+### A
+
 - Alcoholic beverage [**&nearr;**](../../../ware/i/141966/about.en.html "Alcoholic beverage (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20.02-Sp "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141115" title="about: Alcoholic beverage : Palestine" target="_blank">27 documents</a>) ([folder](../../../../folder/wa/1419xx/141966/1411xx/141115/about.en.html))
 - Aluminium [**&nearr;**](../../../ware/i/141969/about.en.html "Aluminium (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID07.01-Lm01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,141115" title="about: Aluminium : Palestine" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141969/1411xx/141115/about.en.html))
 - Ammonia [**&nearr;**](../../../ware/i/165930/about.en.html "Ammonia (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13-Du01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/165930,141115" title="about: Ammonia : Palestine" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1659xx/165930/1411xx/141115/about.en.html))
 - Asphalt [**&nearr;**](../../../ware/i/142016/about.en.html "Asphalt (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID22-Bd01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141115" title="about: Asphalt : Palestine" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1420xx/142016/1411xx/141115/about.en.html))
+
+### B
+
 - Bakelit [**&nearr;**](../../../ware/i/142029/about.en.html "Bakelit (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID14-Ha01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142029,141115" title="about: Bakelit : Palestine" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142029/1411xx/141115/about.en.html))
 - Bakery product [**&nearr;**](../../../ware/i/142026/about.en.html "Bakery product (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20-Ba "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141115" title="about: Bakery product : Palestine" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1420xx/142026/1411xx/141115/about.en.html))
 - Banana [**&nearr;**](../../../ware/i/142038/about.en.html "Banana (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bn "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141115" title="about: Banana : Palestine" target="_blank">8 documents</a>) ([folder](../../../../folder/wa/1420xx/142038/1411xx/141115/about.en.html))
 - Building and insulating panels [**&nearr;**](../../../ware/i/142083/about.en.html "Building and insulating panels (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID22-Bf01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142083,141115" title="about: Building and insulating panels : Palestine" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142083/1411xx/141115/about.en.html))
 - Building material [**&nearr;**](../../../ware/i/142086/about.en.html "Building material (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID22-Bs "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141115" title="about: Building material : Palestine" target="_blank">11 documents</a>) ([folder](../../../../folder/wa/1420xx/142086/1411xx/141115/about.en.html))
+
+### C
+
 - Cabbage [**&nearr;**](../../../ware/i/143119/about.en.html "Cabbage (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Gm08 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143119,141115" title="about: Cabbage : Palestine" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1431xx/143119/1411xx/141115/about.en.html))
 - Carbonic acid [**&nearr;**](../../../ware/i/143122/about.en.html "Carbonic acid (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13-Sc06 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143122,141115" title="about: Carbonic acid : Palestine" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1431xx/143122/1411xx/141115/about.en.html))
 - Citrus fruits [**&nearr;**](../../../ware/i/141948/about.en.html "Citrus fruits (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Zs "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141115" title="about: Citrus fruits : Palestine" target="_blank">254 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1411xx/141115/about.en.html))
@@ -442,10 +453,25 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - Coal [**&nearr;**](../../../ware/i/143120/about.en.html "Coal (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB02.01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141115" title="about: Coal : Palestine" target="_blank">12 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1411xx/141115/about.en.html))
 - Cotton [**&nearr;**](../../../ware/i/142089/about.en.html "Cotton (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bw "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141115" title="about: Cotton : Palestine" target="_blank">6 documents</a>) ([folder](../../../../folder/wa/1420xx/142089/1411xx/141115/about.en.html))
 - Cotton yarn [**&nearr;**](../../../ware/i/196460/about.en.html "Cotton yarn (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Nf02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/196460,141115" title="about: Cotton yarn : Palestine" target="_blank">4 documents</a>) ([folder](../../../../folder/wa/1964xx/196460/1411xx/141115/about.en.html))
+
+### F
+
 - Fittings (Armature) [**&nearr;**](../../../ware/i/142004/about.en.html "Fittings (Armature) (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID08-Ar "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142004,141115" title="about: Fittings (Armature) : Palestine" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1420xx/142004/1411xx/141115/about.en.html))
+
+### M
+
 - Mining machine [**&nearr;**](../../../ware/i/142112/about.en.html "Mining machine (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID08-Bg "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142112,141115" title="about: Mining machine : Palestine" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1421xx/142112/1411xx/141115/about.en.html))
+
+### O
+
 - Orange [**&nearr;**](../../../ware/i/141981/about.en.html "Orange (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Zs01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,141115" title="about: Orange : Palestine" target="_blank">284 documents</a>) ([folder](../../../../folder/wa/1419xx/141981/1411xx/141115/about.en.html))
+
+### P
+
 - Petrol [**&nearr;**](../../../ware/i/142108/about.en.html "Petrol (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13.02-Ks02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141115" title="about: Petrol : Palestine" target="_blank">5 documents</a>) ([folder](../../../../folder/wa/1421xx/142108/1411xx/141115/about.en.html))
+
+### T
+
 - Trailer [**&nearr;**](../../../ware/i/141974/about.en.html "Trailer (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID09.02-Kf "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141974,141115" title="about: Trailer : Palestine" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141974/1411xx/141115/about.en.html))
 
 

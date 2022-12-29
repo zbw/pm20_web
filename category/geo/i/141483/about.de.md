@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C126]{.gray}&#8201; Eritrea&#160; 
+# [C126]{.gray}&#8201; Eritrea &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q986) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Eritrea)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141483`</div>
 
 
 
@@ -190,7 +192,13 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141483" title="über: Alkohol : Eritrea" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1414xx/141483/about.de.html))
+
+### B
+
 - Banane [**&nearr;**](../../../ware/i/142038/about.de.html "Banane (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bn "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141483" title="über: Banane : Eritrea" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142038/1414xx/141483/about.de.html))
 - Baumwolle [**&nearr;**](../../../ware/i/142089/about.de.html "Baumwolle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bw "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141483" title="über: Baumwolle : Eritrea" target="_blank">16 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142089/1414xx/141483/about.de.html))
 

@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C35]{.gray}&#8201; Niger&#160; 
+# [C35]{.gray}&#8201; Niger
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141374`</div>
 
-> Scope Note: Militärterritorium Niger (später Kolonie Niger)
-
+<div class="hint">
+Scope Note: Militärterritorium Niger (später Kolonie Niger)
+</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Äthylbenzin&#160; 
+# Äthylbenzin &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q459852) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Ethanol-Kraftstoff)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141946`</div>
 
 
 

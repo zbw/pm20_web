@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n15]{.gray}&#8201; Arbeiterfrage, Arbeitsverhältnisse, Allgemein&#160; 
+# [n15]{.gray}&#8201; Arbeiterfrage, Arbeitsverhältnisse, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428036)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145155`</div>
 
 
 

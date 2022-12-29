@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [p6 Sm1]{.gray}&#8201; Bauernsiedlungen&#160; 
+# [p6 Sm1]{.gray}&#8201; Bauernsiedlungen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711359)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145932`</div>
 
 
 

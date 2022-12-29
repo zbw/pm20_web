@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C87]{.gray}&#8201; Deutsch-Südwestafrika&#160; 
+# [C87]{.gray}&#8201; Deutsch-Südwestafrika &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q153665) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Deutsch-S%C3%BCdwestafrika)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141450`</div>
 
-> Scope Note: Deutsch Südwest Afrika (1884-1915), Südwestafrika (britisch, ab 1920 südafrikanisches Mandatsgebiet), Namibia (ab 1990)
-
+<div class="hint">
+Scope Note: Deutsch Südwest Afrika (1884-1915), Südwestafrika (britisch, ab 1920 südafrikanisches Mandatsgebiet), Namibia (ab 1990)
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -332,13 +334,22 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141450" title="über: Alkohol : Deutsch-Südwestafrika" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1414xx/141450/about.de.html))
 - Aloe [**&nearr;**](../../../ware/i/141967/about.de.html "Aloe (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Kr01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141967,141450" title="über: Aloe : Deutsch-Südwestafrika" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141967/1414xx/141450/about.de.html))
 - Apfelsine [**&nearr;**](../../../ware/i/141981/about.de.html "Apfelsine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,141450" title="über: Apfelsine : Deutsch-Südwestafrika" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141981/1414xx/141450/about.de.html))
 - Asbest [**&nearr;**](../../../ware/i/142014/about.de.html "Asbest (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID23-As "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,141450" title="über: Asbest : Deutsch-Südwestafrika" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142014/1414xx/141450/about.de.html))
+
+### B
+
 - Baumwolle [**&nearr;**](../../../ware/i/142089/about.de.html "Baumwolle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bw "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141450" title="über: Baumwolle : Deutsch-Südwestafrika" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142089/1414xx/141450/about.de.html))
 - Benzin [**&nearr;**](../../../ware/i/142108/about.de.html "Benzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141450" title="über: Benzin : Deutsch-Südwestafrika" target="_blank">12 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1414xx/141450/about.de.html))
 - Beryllium [**&nearr;**](../../../ware/i/142103/about.de.html "Beryllium (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm03 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142103,141450" title="über: Beryllium : Deutsch-Südwestafrika" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142103/1414xx/141450/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141450" title="über: Kohle : Deutsch-Südwestafrika" target="_blank">27 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1414xx/141450/about.de.html))
 
 

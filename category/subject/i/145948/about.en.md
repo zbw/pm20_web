@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [q Sm4 (alt)]{.gray}&#8201; Chinese question&#160; 
+# [q Sm4 (alt)]{.gray}&#8201; Chinese question &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711375)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145948`</div>
 
 
 

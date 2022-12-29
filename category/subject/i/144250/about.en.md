@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [d7 Sm501.II (A10)]{.gray}&#8201; Bavarian Concordat I (German Empire)&#160; 
+# [d7 Sm501.II (A10)]{.gray}&#8201; Bavarian Concordat I (German Empire) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699277)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144250`</div>
 
 
 

@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C125]{.gray}&#8201; Abyssinia&#160; 
+# [C125]{.gray}&#8201; Abyssinia &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q207521) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Ethiopian_Empire)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141482`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -229,9 +231,18 @@ For material not published as folders, please check the [digitized micro-films](
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 
+
+### A
+
 - Alcoholic beverage [**&nearr;**](../../../ware/i/141966/about.en.html "Alcoholic beverage (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20.02-Sp "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141482" title="about: Alcoholic beverage : Abyssinia" target="_blank">4 documents</a>) ([folder](../../../../folder/wa/1419xx/141966/1414xx/141482/about.en.html))
+
+### B
+
 - Building and insulating panels [**&nearr;**](../../../ware/i/142083/about.en.html "Building and insulating panels (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID22-Bf01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142083,141482" title="about: Building and insulating panels : Abyssinia" target="_blank">5 documents</a>) ([folder](../../../../folder/wa/1420xx/142083/1414xx/141482/about.en.html))
 - Building material [**&nearr;**](../../../ware/i/142086/about.en.html "Building material (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID22-Bs "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141482" title="about: Building material : Abyssinia" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142086/1414xx/141482/about.en.html))
+
+### C
+
 - Clothing [**&nearr;**](../../../ware/i/142106/about.en.html "Clothing (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Bk "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141482" title="about: Clothing : Abyssinia" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1421xx/142106/1414xx/141482/about.en.html))
 - Coal [**&nearr;**](../../../ware/i/143120/about.en.html "Coal (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB02.01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141482" title="about: Coal : Abyssinia" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1414xx/141482/about.en.html))
 - Cotton [**&nearr;**](../../../ware/i/142089/about.en.html "Cotton (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bw "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141482" title="about: Cotton : Abyssinia" target="_blank">19 documents</a>) ([folder](../../../../folder/wa/1420xx/142089/1414xx/141482/about.en.html))

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n17 Sm4]{.gray}&#8201; Öffentliche Baupflege&#160; 
+# [n17 Sm4]{.gray}&#8201; Öffentliche Baupflege &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710840)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145256`</div>
 
 
 

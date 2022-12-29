@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n24 Sm4.IIf]{.gray}&#8201; Real credit, mortgage appreciation&#160; 
+# [n24 Sm4.IIf]{.gray}&#8201; Real credit, mortgage appreciation &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710997)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145350`</div>
 
 
 

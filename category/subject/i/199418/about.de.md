@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n32 Sm36]{.gray}&#8201; Seeschiffahrt, Schiffsausrüster&#160; 
+# [n32 Sm36]{.gray}&#8201; Seeschiffahrt, Schiffsausrüster &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711199)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/199418`</div>
 
 
 

@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C65]{.gray}&#8201; Kamerun&#160; 
+# [C65]{.gray}&#8201; Kamerun &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q1009) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Kamerun)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141410`</div>
 
-> Scope Note: Neu-Kamerun von 1911-1916. Deutsch-Kamerun ab 1920 franz. Mandat.
-
+<div class="hint">
+Scope Note: Neu-Kamerun von 1911-1916. Deutsch-Kamerun ab 1920 franz. Mandat.
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -270,9 +272,18 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141410" title="über: Alkohol : Kamerun" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1414xx/141410/about.de.html))
+
+### B
+
 - Banane [**&nearr;**](../../../ware/i/142038/about.de.html "Banane (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bn "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141410" title="über: Banane : Kamerun" target="_blank">47 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142038/1414xx/141410/about.de.html))
 - Baumwolle [**&nearr;**](../../../ware/i/142089/about.de.html "Baumwolle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bw "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141410" title="über: Baumwolle : Kamerun" target="_blank">14 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142089/1414xx/141410/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141410" title="über: Kohle : Kamerun" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1414xx/141410/about.de.html))
 - Koka, Kokain [**&nearr;**](../../../ware/i/143124/about.de.html "Koka, Kokain (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID04-Dr05 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,141410" title="über: Koka, Kokain : Kamerun" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143124/1414xx/141410/about.de.html))
 

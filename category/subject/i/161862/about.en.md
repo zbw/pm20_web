@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n15 Sm1.III]{.gray}&#8201; Calculation and promotion of work performance, indexes of work performance&#160; 
+# [n15 Sm1.III]{.gray}&#8201; Calculation and promotion of work performance, indexes of work performance &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710700)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/161862`</div>
 
 
 

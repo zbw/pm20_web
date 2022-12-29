@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [p4 Sm1]{.gray}&#8201; Emigrant welfare&#160; 
+# [p4 Sm1]{.gray}&#8201; Emigrant welfare &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711354)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145926`</div>
 
 
 

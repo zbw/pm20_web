@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [m3 Sm3]{.gray}&#8201; Taxation of foreigners, general&#160; 
+# [m3 Sm3]{.gray}&#8201; Taxation of foreigners, general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700322)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144871`</div>
 
 
 

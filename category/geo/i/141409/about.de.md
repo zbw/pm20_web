@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C60]{.gray}&#8201; Nigeria, einschl. Kamerun (brit.)&#160; 
+# [C60]{.gray}&#8201; Nigeria, einschl. Kamerun (brit.) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q1033) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Nigeria)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141409`</div>
 
 
 
@@ -236,12 +238,21 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Agrumen [**&nearr;**](../../../ware/i/141948/about.de.html "Agrumen (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141409" title="über: Agrumen : Nigeria, einschl. Kamerun (brit.)" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1414xx/141409/about.de.html))
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141409" title="über: Alkohol : Nigeria, einschl. Kamerun (brit.)" target="_blank">12 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1414xx/141409/about.de.html))
 - Ananas [**&nearr;**](../../../ware/i/141970/about.de.html "Ananas (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Tr01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141970,141409" title="über: Ananas : Nigeria, einschl. Kamerun (brit.)" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141970/1414xx/141409/about.de.html))
 - Apfelsine [**&nearr;**](../../../ware/i/141981/about.de.html "Apfelsine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,141409" title="über: Apfelsine : Nigeria, einschl. Kamerun (brit.)" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141981/1414xx/141409/about.de.html))
+
+### B
+
 - Baumwolle [**&nearr;**](../../../ware/i/142089/about.de.html "Baumwolle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bw "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141409" title="über: Baumwolle : Nigeria, einschl. Kamerun (brit.)" target="_blank">70 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142089/1414xx/141409/about.de.html))
 - Baumwolltextilien [**&nearr;**](../../../ware/i/154932/about.de.html "Baumwolltextilien (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bw02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/154932,141409" title="über: Baumwolltextilien : Nigeria, einschl. Kamerun (brit.)" target="_blank">10 Dokumente</a>) ([Mappe](../../../../folder/wa/1549xx/154932/1414xx/141409/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141409" title="über: Kohle : Nigeria, einschl. Kamerun (brit.)" target="_blank">61 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1414xx/141409/about.de.html))
 
 

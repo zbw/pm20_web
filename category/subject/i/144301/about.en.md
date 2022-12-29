@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [f2 Sm16]{.gray}&#8201; Treason and espionage in ..., general. (From 1945 also): resistance&#160; 
+# [f2 Sm16]{.gray}&#8201; Treason and espionage in ..., general. (From 1945 also): resistance &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699323)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144301`</div>
 
 
 

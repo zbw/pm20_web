@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C7]{.gray}&#8201; Europäische Kolonien in Afrika&#160; 
+# [C7]{.gray}&#8201; Europäische Kolonien in Afrika
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141747`</div>
 
 
 

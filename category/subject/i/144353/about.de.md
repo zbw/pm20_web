@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [f2 Sm509 (A10)]{.gray}&#8201; Barmat-Kutisker-Skandal&#160; 
+# [f2 Sm509 (A10)]{.gray}&#8201; Barmat-Kutisker-Skandal &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699617)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144353`</div>
 
 
 

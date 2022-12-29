@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n Sm43]{.gray}&#8201; Refrigeration, cooling systems, general&#160; 
+# [n Sm43]{.gray}&#8201; Refrigeration, cooling systems, general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710369)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145847`</div>
 
 
 

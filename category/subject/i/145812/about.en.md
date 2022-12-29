@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n Sm24]{.gray}&#8201; Private riot damages (later: private damages caused by political upheaval)&#160; 
+# [n Sm24]{.gray}&#8201; Private riot damages (later: private damages caused by political upheaval) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700383)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145812`</div>
 
 
 

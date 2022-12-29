@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [E70]{.gray}&#8201; Costa Rica&#160; 
+# [E70]{.gray}&#8201; Costa Rica
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141683`</div>
 
 
 
@@ -32,9 +34,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141683" title="über: Alkohol : Costa Rica" target="_blank">12 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1416xx/141683/about.de.html))
 - Ananas [**&nearr;**](../../../ware/i/141970/about.de.html "Ananas (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Tr01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141970,141683" title="über: Ananas : Costa Rica" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141970/1416xx/141683/about.de.html))
 - Asphalt [**&nearr;**](../../../ware/i/142016/about.de.html "Asphalt (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bd01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141683" title="über: Asphalt : Costa Rica" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142016/1416xx/141683/about.de.html))
+
+### B
+
 - Backpulver [**&nearr;**](../../../ware/i/142024/about.de.html "Backpulver (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Lm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142024,141683" title="über: Backpulver : Costa Rica" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142024/1416xx/141683/about.de.html))
 - Backwaren [**&nearr;**](../../../ware/i/142026/about.de.html "Backwaren (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141683" title="über: Backwaren : Costa Rica" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142026/1416xx/141683/about.de.html))
 - Balsaholz [**&nearr;**](../../../ware/i/142033/about.de.html "Balsaholz (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW06-Hz02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142033,141683" title="über: Balsaholz : Costa Rica" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142033/1416xx/141683/about.de.html))
@@ -46,6 +54,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Baumwollgarn [**&nearr;**](../../../ware/i/196460/about.de.html "Baumwollgarn (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Nf02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/196460,141683" title="über: Baumwollgarn : Costa Rica" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1964xx/196460/1416xx/141683/about.de.html))
 - Bekleidung [**&nearr;**](../../../ware/i/142106/about.de.html "Bekleidung (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bk "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141683" title="über: Bekleidung : Costa Rica" target="_blank">11 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142106/1416xx/141683/about.de.html))
 - Benzin [**&nearr;**](../../../ware/i/142108/about.de.html "Benzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141683" title="über: Benzin : Costa Rica" target="_blank">12 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1416xx/141683/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141683" title="über: Kohle : Costa Rica" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1416xx/141683/about.de.html))
 
 

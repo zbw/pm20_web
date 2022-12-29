@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n17 Sm20]{.gray}&#8201; Bauwesen, Konferenzen&#160; 
+# [n17 Sm20]{.gray}&#8201; Bauwesen, Konferenzen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710841)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/182080`</div>
 
 
 

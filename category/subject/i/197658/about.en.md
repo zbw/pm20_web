@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [e4 Sm12]{.gray}&#8201; Hospitals, medical institutions, nursing homes&#160; 
+# [e4 Sm12]{.gray}&#8201; Hospitals, medical institutions, nursing homes &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699298)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/197658`</div>
 
 
 

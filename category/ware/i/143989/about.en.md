@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Fuel&#160; 
+# Fuel &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q337540) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Motor_fuel)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/143989`</div>
 
 
 

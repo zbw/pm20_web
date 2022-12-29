@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n30 Sm503 (A10)]{.gray}&#8201; Von der Entente verbotene Eisenbahnlinien&#160; 
+# [n30 Sm503 (A10)]{.gray}&#8201; Von der Entente verbotene Eisenbahnlinien &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711142)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145551`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n24 Sm49]{.gray}&#8201; Konversion von auf fremde Währung lautenden Schuldverschreibungen auf Inlandwährung&#160; 
+# [n24 Sm49]{.gray}&#8201; Konversion von auf fremde Währung lautenden Schuldverschreibungen auf Inlandwährung &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711067)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145421`</div>
 
 
 

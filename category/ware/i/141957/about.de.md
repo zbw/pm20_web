@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Alfagras&#160; 
+# Alfagras &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q831011) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Halfagras)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141957`</div>
 
-> Scope Note: (einschl.: Espartogras; Halfagras)
-
+<div class="hint">
+Scope Note: (einschl.: Espartogras; Halfagras)
+</div>
 
 
 

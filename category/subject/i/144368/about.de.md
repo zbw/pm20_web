@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [f4 Sm12]{.gray}&#8201; Staatsangehörigkeit, Bürgerrecht, Naturalisation&#160; 
+# [f4 Sm12]{.gray}&#8201; Staatsangehörigkeit, Bürgerrecht, Naturalisation &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699640)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144368`</div>
 
 
 

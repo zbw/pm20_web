@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C27]{.gray}&#8201; Tanger&#160; 
+# [C27]{.gray}&#8201; Tanger &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q126148) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Tanger)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141360`</div>
 
 
 
@@ -148,8 +150,14 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141360" title="über: Alkohol : Tanger" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1413xx/141360/about.de.html))
 - Aluminium [**&nearr;**](../../../ware/i/141969/about.de.html "Aluminium (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,141360" title="über: Aluminium : Tanger" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141969/1413xx/141360/about.de.html))
+
+### B
+
 - Backwaren [**&nearr;**](../../../ware/i/142026/about.de.html "Backwaren (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141360" title="über: Backwaren : Tanger" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142026/1413xx/141360/about.de.html))
 - Bekleidung [**&nearr;**](../../../ware/i/142106/about.de.html "Bekleidung (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bk "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141360" title="über: Bekleidung : Tanger" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142106/1413xx/141360/about.de.html))
 

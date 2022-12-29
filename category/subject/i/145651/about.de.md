@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n33a]{.gray}&#8201; Einzelne Binnenschiffahrtsstrassen und Seekanäle&#160; 
+# [n33a]{.gray}&#8201; Einzelne Binnenschiffahrtsstrassen und Seekanäle &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428076)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145651`</div>
 
-> Scope Note: einschl. Wasserwirtschaftliches und Schiffahrt
-
+<div class="hint">
+Scope Note: einschl. Wasserwirtschaftliches und Schiffahrt
+</div>
 
 
 

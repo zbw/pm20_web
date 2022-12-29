@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [d1]{.gray}&#8201; Population movement, population statistics&#160; 
+# [d1]{.gray}&#8201; Population movement, population statistics &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427844)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144222`</div>
 
 
 

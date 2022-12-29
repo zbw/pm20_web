@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [E86]{.gray}&#8201; Argentinien&#160; 
+# [E86]{.gray}&#8201; Argentinien &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q414) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Argentinien)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141692`</div>
 
-> Scope Note: Argentinien, Feuerland (argentinischer Teil)
-
+<div class="hint">
+Scope Note: Argentinien, Feuerland (argentinischer Teil)
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -833,6 +835,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Absinth [**&nearr;**](../../../ware/i/141943/about.de.html "Absinth (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141943,141692" title="über: Absinth : Argentinien" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141943/1416xx/141692/about.de.html))
 - Agrumen [**&nearr;**](../../../ware/i/141948/about.de.html "Agrumen (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141692" title="über: Agrumen : Argentinien" target="_blank">68 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1416xx/141692/about.de.html))
 - Alfagras [**&nearr;**](../../../ware/i/141957/about.de.html "Alfagras (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Nf018 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141957,141692" title="über: Alfagras : Argentinien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141957/1416xx/141692/about.de.html))
@@ -852,6 +857,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Asphalt [**&nearr;**](../../../ware/i/142016/about.de.html "Asphalt (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bd01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141692" title="über: Asphalt : Argentinien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142016/1416xx/141692/about.de.html))
 - Auster [**&nearr;**](../../../ware/i/142019/about.de.html "Auster (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW07-Mt02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142019,141692" title="über: Auster : Argentinien" target="_blank">10 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142019/1416xx/141692/about.de.html))
 - Azeton [**&nearr;**](../../../ware/i/142022/about.de.html "Azeton (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko03 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142022,141692" title="über: Azeton : Argentinien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142022/1416xx/141692/about.de.html))
+
+### B
+
 - Backwaren [**&nearr;**](../../../ware/i/142026/about.de.html "Backwaren (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141692" title="über: Backwaren : Argentinien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142026/1416xx/141692/about.de.html))
 - Bagger [**&nearr;**](../../../ware/i/142028/about.de.html "Bagger (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID09.02-Nf01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142028,141692" title="über: Bagger : Argentinien" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142028/1416xx/141692/about.de.html))
 - Bakelit [**&nearr;**](../../../ware/i/142029/about.de.html "Bakelit (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID14-Ha01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142029,141692" title="über: Bakelit : Argentinien" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142029/1416xx/141692/about.de.html))
@@ -869,6 +877,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Benzin [**&nearr;**](../../../ware/i/142108/about.de.html "Benzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141692" title="über: Benzin : Argentinien" target="_blank">149 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1416xx/141692/about.de.html))
 - Beryllium [**&nearr;**](../../../ware/i/142103/about.de.html "Beryllium (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm03 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142103,141692" title="über: Beryllium : Argentinien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142103/1416xx/141692/about.de.html))
 - Bäckereimaschine [**&nearr;**](../../../ware/i/142027/about.de.html "Bäckereimaschine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Nm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142027,141692" title="über: Bäckereimaschine : Argentinien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142027/1416xx/141692/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141692" title="über: Kohle : Argentinien" target="_blank">253 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1416xx/141692/about.de.html))
 - Kohlenstoff (Ruß) [**&nearr;**](../../../ware/i/143123/about.de.html "Kohlenstoff (Ruß) (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01-Ru "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143123,141692" title="über: Kohlenstoff (Ruß) : Argentinien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143123/1416xx/141692/about.de.html))
 - Kohlensäure [**&nearr;**](../../../ware/i/143122/about.de.html "Kohlensäure (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Sc06 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143122,141692" title="über: Kohlensäure : Argentinien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143122/1416xx/141692/about.de.html))

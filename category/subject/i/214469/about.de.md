@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [g2 Sm40]{.gray}&#8201; Diplomatische und konsularische Vertretungen, Beruf und Ausbildung&#160; 
+# [g2 Sm40]{.gray}&#8201; Diplomatische und konsularische Vertretungen, Beruf und Ausbildung &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699978)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/214469`</div>
 
 
 

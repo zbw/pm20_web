@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n22]{.gray}&#8201; Spedition und Lagerung&#160; 
+# [n22]{.gray}&#8201; Spedition und Lagerung &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428053)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145303`</div>
 
 
 

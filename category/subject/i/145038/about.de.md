@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n3 Sm7]{.gray}&#8201; Grundstückshandel und Grundstücksmarkt, Immobilien-Börsen&#160; 
+# [n3 Sm7]{.gray}&#8201; Grundstückshandel und Grundstücksmarkt, Immobilien-Börsen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710517)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145038`</div>
 
 
 

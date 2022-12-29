@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [g2a]{.gray}&#8201; Diplomatic and consular representations in individual countries&#160; 
+# [g2a]{.gray}&#8201; Diplomatic and consular representations in individual countries &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427876)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144466`</div>
 
 
 

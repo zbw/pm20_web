@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [q Sm6 (alt)]{.gray}&#8201; Japanerfrage&#160; 
+# [q Sm6 (alt)]{.gray}&#8201; Japanerfrage &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711377)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145950`</div>
 
 
 

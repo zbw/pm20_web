@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [E95]{.gray}&#8201; Uruguay&#160; 
+# [E95]{.gray}&#8201; Uruguay &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q77) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Uruguay)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141695`</div>
 
 
 
@@ -137,6 +139,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Apparate und Instrumente [**&nearr;**](../../../ware/i/141985/about.de.html "Apparate und Instrumente (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Ap "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141985,141695" title="über: Apparate und Instrumente : Uruguay" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141985/1416xx/141695/about.de.html))
 - Araucaria [**&nearr;**](../../../ware/i/142002/about.de.html "Araucaria (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW06-Hz01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142002,141695" title="über: Araucaria : Uruguay" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142002/1416xx/141695/about.de.html))
 - Asbest [**&nearr;**](../../../ware/i/142014/about.de.html "Asbest (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID23-As "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,141695" title="über: Asbest : Uruguay" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142014/1416xx/141695/about.de.html))
+
+### B
+
 - Backwaren [**&nearr;**](../../../ware/i/142026/about.de.html "Backwaren (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141695" title="über: Backwaren : Uruguay" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142026/1416xx/141695/about.de.html))
 - Bakelit [**&nearr;**](../../../ware/i/142029/about.de.html "Bakelit (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID14-Ha01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142029,141695" title="über: Bakelit : Uruguay" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142029/1416xx/141695/about.de.html))
 - Barium [**&nearr;**](../../../ware/i/142042/about.de.html "Barium (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142042,141695" title="über: Barium : Uruguay" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142042/1416xx/141695/about.de.html))
@@ -149,6 +154,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Benzin [**&nearr;**](../../../ware/i/142108/about.de.html "Benzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141695" title="über: Benzin : Uruguay" target="_blank">41 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1416xx/141695/about.de.html))
 - Benzol [**&nearr;**](../../../ware/i/142110/about.de.html "Benzol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko04 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142110,141695" title="über: Benzol : Uruguay" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142110/1416xx/141695/about.de.html))
 - Bergbaumaschine [**&nearr;**](../../../ware/i/142112/about.de.html "Bergbaumaschine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Bg "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142112,141695" title="über: Bergbaumaschine : Uruguay" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142112/1416xx/141695/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141695" title="über: Kohle : Uruguay" target="_blank">37 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1416xx/141695/about.de.html))
 - Kohlensäure [**&nearr;**](../../../ware/i/143122/about.de.html "Kohlensäure (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Sc06 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143122,141695" title="über: Kohlensäure : Uruguay" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143122/1416xx/141695/about.de.html))
 

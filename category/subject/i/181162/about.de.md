@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [k Sm501 (A9)]{.gray}&#8201; Zentralstelle des Hamburgischen Kolonialinstitutes&#160; 
+# [k Sm501 (A9)]{.gray}&#8201; Zentralstelle des Hamburgischen Kolonialinstitutes &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700161)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/181162`</div>
 
-> Scope Note: (einschl.: Hamburgisches Welt Wirtschafts Archiv; Hamburgisches Welt Wirtschafts Institut)
-
+<div class="hint">
+Scope Note: (einschl.: Hamburgisches Welt Wirtschafts Archiv; Hamburgisches Welt Wirtschafts Institut)
+</div>
 
 
 

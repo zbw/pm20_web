@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [D8]{.gray}&#8201; Nauru&#160; 
+# [D8]{.gray}&#8201; Nauru &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q697) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Nauru)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141599`</div>
 
 
 

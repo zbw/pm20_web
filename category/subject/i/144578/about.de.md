@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [g Sm7]{.gray}&#8201; Waffenstillstand&#160; 
+# [g Sm7]{.gray}&#8201; Waffenstillstand &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699676)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144578`</div>
 
 
 

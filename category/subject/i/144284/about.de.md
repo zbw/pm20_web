@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [f1 Sm1 (alt)]{.gray}&#8201; Wirtschaftsgeschichtliche Rückblicke&#160; 
+# [f1 Sm1 (alt)]{.gray}&#8201; Wirtschaftsgeschichtliche Rückblicke &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699307)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144284`</div>
 
 
 

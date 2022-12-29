@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [f4 Sm13]{.gray}&#8201; Befugnis zum Waffentragen&#160; 
+# [f4 Sm13]{.gray}&#8201; Befugnis zum Waffentragen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699641)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144369`</div>
 
 
 

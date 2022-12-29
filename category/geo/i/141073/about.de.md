@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B17]{.gray}&#8201; Georgien&#160; 
+# [B17]{.gray}&#8201; Georgien
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141073`</div>
 
-> Scope Note: ab 15.08.1922 Transkaukasien B 017c
-
+<div class="hint">
+Scope Note: ab 15.08.1922 Transkaukasien B 017c
+</div>
 
 
 

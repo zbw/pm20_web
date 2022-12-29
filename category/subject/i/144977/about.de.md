@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n2 Sm5]{.gray}&#8201; Erwerbsmöglichkeiten in einzelnen Berufen (Übersichten)&#160; 
+# [n2 Sm5]{.gray}&#8201; Erwerbsmöglichkeiten in einzelnen Berufen (Übersichten) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710417)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144977`</div>
 
 
 

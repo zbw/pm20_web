@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [d5 Sm4]{.gray}&#8201; Trafficking in women, trafficking in children&#160; 
+# [d5 Sm4]{.gray}&#8201; Trafficking in women, trafficking in children &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699263)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144237`</div>
 
 
 

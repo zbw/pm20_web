@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [g4 Sm2.VII]{.gray}&#8201; Economic war, legal issues and lawsuits&#160; 
+# [g4 Sm2.VII]{.gray}&#8201; Economic war, legal issues and lawsuits &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700000)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144481`</div>
 
 
 

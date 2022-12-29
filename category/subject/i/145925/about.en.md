@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [p4]{.gray}&#8201; Emigration and emigration Policy&#160; 
+# [p4]{.gray}&#8201; Emigration and emigration Policy &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428200)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145925`</div>
 
 
 

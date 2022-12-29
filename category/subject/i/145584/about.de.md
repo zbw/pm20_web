@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n32 Sm13]{.gray}&#8201; Trampschifffahrt&#160; 
+# [n32 Sm13]{.gray}&#8201; Trampschifffahrt &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711167)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145584`</div>
 
-> Scope Note: wilde Schiffahrt
-
+<div class="hint">
+Scope Note: wilde Schiffahrt
+</div>
 
 
 

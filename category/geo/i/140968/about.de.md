@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A17]{.gray}&#8201; Schweden&#160; 
+# [A17]{.gray}&#8201; Schweden &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q34) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Schweden)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140968`</div>
 
 
 
@@ -61,6 +63,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Aal [**&nearr;**](../../../ware/i/141941/about.de.html "Aal (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW07-Mt01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141941,140968" title="über: Aal : Schweden" target="_blank">14 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141941/1409xx/140968/about.de.html))
 - Abfälle und Altmaterial [**&nearr;**](../../../ware/i/141942/about.de.html "Abfälle und Altmaterial (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB01-01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141942,140968" title="über: Abfälle und Altmaterial : Schweden" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141942/1409xx/140968/about.de.html))
 - Agrumen [**&nearr;**](../../../ware/i/141948/about.de.html "Agrumen (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,140968" title="über: Agrumen : Schweden" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1409xx/140968/about.de.html))
@@ -82,6 +87,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Automat [**&nearr;**](../../../ware/i/142020/about.de.html "Automat (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Au "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142020,140968" title="über: Automat : Schweden" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142020/1409xx/140968/about.de.html))
 - Axt, Beil, Hammer [**&nearr;**](../../../ware/i/141947/about.de.html "Axt, Beil, Hammer (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.03-Wz01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141947,140968" title="über: Axt, Beil, Hammer : Schweden" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141947/1409xx/140968/about.de.html))
 - Azeton [**&nearr;**](../../../ware/i/142022/about.de.html "Azeton (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko03 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142022,140968" title="über: Azeton : Schweden" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142022/1409xx/140968/about.de.html))
+
+### B
+
 - Backpulver [**&nearr;**](../../../ware/i/142024/about.de.html "Backpulver (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Lm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142024,140968" title="über: Backpulver : Schweden" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142024/1409xx/140968/about.de.html))
 - Backwaren [**&nearr;**](../../../ware/i/142026/about.de.html "Backwaren (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,140968" title="über: Backwaren : Schweden" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142026/1409xx/140968/about.de.html))
 - Bagger [**&nearr;**](../../../ware/i/142028/about.de.html "Bagger (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID09.02-Nf01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142028,140968" title="über: Bagger : Schweden" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142028/1409xx/140968/about.de.html))
@@ -98,6 +106,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Benzin [**&nearr;**](../../../ware/i/142108/about.de.html "Benzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,140968" title="über: Benzin : Schweden" target="_blank">67 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1409xx/140968/about.de.html))
 - Benzol [**&nearr;**](../../../ware/i/142110/about.de.html "Benzol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko04 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142110,140968" title="über: Benzol : Schweden" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142110/1409xx/140968/about.de.html))
 - Bergbaumaschine [**&nearr;**](../../../ware/i/142112/about.de.html "Bergbaumaschine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Bg "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142112,140968" title="über: Bergbaumaschine : Schweden" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142112/1409xx/140968/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,140968" title="über: Kohle : Schweden" target="_blank">235 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1409xx/140968/about.de.html))
 - Kohlensäure [**&nearr;**](../../../ware/i/143122/about.de.html "Kohlensäure (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Sc06 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143122,140968" title="über: Kohlensäure : Schweden" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143122/1409xx/140968/about.de.html))
 

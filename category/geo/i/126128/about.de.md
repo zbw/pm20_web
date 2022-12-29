@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A10]{.gray}&#8201; Deutschland&#160; 
+# [A10]{.gray}&#8201; Deutschland &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q183) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Deutschland)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/126128`</div>
 
-> Scope Note: (einschl.: Deutsches Reich)
-
+<div class="hint">
+Scope Note: (einschl.: Deutsches Reich)
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -387,6 +389,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Aal [**&nearr;**](../../../ware/i/141941/about.de.html "Aal (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW07-Mt01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141941,126128" title="über: Aal : Deutschland" target="_blank">28 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141941/1261xx/126128/about.de.html))
 - Abfälle und Altmaterial [**&nearr;**](../../../ware/i/141942/about.de.html "Abfälle und Altmaterial (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB01-01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141942,126128" title="über: Abfälle und Altmaterial : Deutschland" target="_blank">82 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141942/1261xx/126128/about.de.html))
 - Absinth [**&nearr;**](../../../ware/i/141943/about.de.html "Absinth (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141943,126128" title="über: Absinth : Deutschland" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141943/1261xx/126128/about.de.html))
@@ -420,6 +425,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Avocatbirne [**&nearr;**](../../../ware/i/142021/about.de.html "Avocatbirne (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Ob02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142021,126128" title="über: Avocatbirne : Deutschland" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142021/1261xx/126128/about.de.html))
 - Axt, Beil, Hammer [**&nearr;**](../../../ware/i/141947/about.de.html "Axt, Beil, Hammer (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.03-Wz01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141947,126128" title="über: Axt, Beil, Hammer : Deutschland" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141947/1261xx/126128/about.de.html))
 - Azeton [**&nearr;**](../../../ware/i/142022/about.de.html "Azeton (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko03 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142022,126128" title="über: Azeton : Deutschland" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142022/1261xx/126128/about.de.html))
+
+### B
+
 - Babassunuss [**&nearr;**](../../../ware/i/142023/about.de.html "Babassunuss (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Nu01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142023,126128" title="über: Babassunuss : Deutschland" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142023/1261xx/126128/about.de.html))
 - Backpulver [**&nearr;**](../../../ware/i/142024/about.de.html "Backpulver (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Lm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142024,126128" title="über: Backpulver : Deutschland" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142024/1261xx/126128/about.de.html))
 - Backwaren [**&nearr;**](../../../ware/i/142026/about.de.html "Backwaren (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,126128" title="über: Backwaren : Deutschland" target="_blank">35 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142026/1261xx/126128/about.de.html))
@@ -452,7 +460,13 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Beschläge und Scharniere [**&nearr;**](../../../ware/i/142113/about.de.html "Beschläge und Scharniere (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.03-01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142113,126128" title="über: Beschläge und Scharniere : Deutschland" target="_blank">34 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142113/1261xx/126128/about.de.html))
 - Betäubungsmittel [**&nearr;**](../../../ware/i/142115/about.de.html "Betäubungsmittel (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID04-Dr "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142115,126128" title="über: Betäubungsmittel : Deutschland" target="_blank">28 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142115/1261xx/126128/about.de.html))
 - Bäckereimaschine [**&nearr;**](../../../ware/i/142027/about.de.html "Bäckereimaschine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Nm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142027,126128" title="über: Bäckereimaschine : Deutschland" target="_blank">14 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142027/1261xx/126128/about.de.html))
+
+### H
+
 - Holzkohle [**&nearr;**](../../../ware/i/142964/about.de.html "Holzkohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PEW01.04-01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142964,126128" title="über: Holzkohle : Deutschland" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1429xx/142964/1261xx/126128/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,126128" title="über: Kohle : Deutschland" target="_blank">5228 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1261xx/126128/about.de.html))
 - Kohlemaschinen (Gewinnung und Aufbereitung) [**&nearr;**](../../../ware/i/143121/about.de.html "Kohlemaschinen (Gewinnung und Aufbereitung) (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Bg02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143121,126128" title="über: Kohlemaschinen (Gewinnung und Aufbereitung) : Deutschland" target="_blank">9 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143121/1261xx/126128/about.de.html))
 - Kohlenstaub [**&nearr;**](../../../ware/i/218756/about.de.html "Kohlenstaub (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01-St "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/218756,126128" title="über: Kohlenstaub : Deutschland" target="_blank">22 Dokumente</a>) ([Mappe](../../../../folder/wa/2187xx/218756/1261xx/126128/about.de.html))
@@ -461,6 +475,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Kohleveredelung [**&nearr;**](../../../ware/i/218757/about.de.html "Kohleveredelung (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/218757,126128" title="über: Kohleveredelung : Deutschland" target="_blank">16 Dokumente</a>) ([Mappe](../../../../folder/wa/2187xx/218757/1261xx/126128/about.de.html))
 - Koka, Kokain [**&nearr;**](../../../ware/i/143124/about.de.html "Koka, Kokain (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID04-Dr05 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,126128" title="über: Koka, Kokain : Deutschland" target="_blank">27 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143124/1261xx/126128/about.de.html))
 - Kokosfaser [**&nearr;**](../../../ware/i/143125/about.de.html "Kokosfaser (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Nf11 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143125,126128" title="über: Kokosfaser : Deutschland" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143125/1261xx/126128/about.de.html))
+
+### Ä
+
 - Äther [**&nearr;**](../../../ware/i/141945/about.de.html "Äther (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141945,126128" title="über: Äther : Deutschland" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141945/1261xx/126128/about.de.html))
 - Äthylbenzin [**&nearr;**](../../../ware/i/141946/about.de.html "Äthylbenzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141946,126128" title="über: Äthylbenzin : Deutschland" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141946/1261xx/126128/about.de.html))
 

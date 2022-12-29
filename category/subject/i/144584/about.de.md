@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [g Sm13]{.gray}&#8201; Islampolitik&#160; 
+# [g Sm13]{.gray}&#8201; Islampolitik &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699683)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144584`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [c3]{.gray}&#8201; Landeskunde, Oberflächengestaltung, Geomorphologie&#160; 
+# [c3]{.gray}&#8201; Landeskunde, Oberflächengestaltung, Geomorphologie &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427833)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144204`</div>
 
 
 

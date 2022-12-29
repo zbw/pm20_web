@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n1]{.gray}&#8201; Economic policy&#160; 
+# [n1]{.gray}&#8201; Economic policy &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428016)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144931`</div>
 
 
 

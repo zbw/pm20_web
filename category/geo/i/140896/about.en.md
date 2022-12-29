@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A3]{.gray}&#8201; Eastern Europe&#160; 
+# [A3]{.gray}&#8201; Eastern Europe &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q27468) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Eastern_Europe)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140896`</div>
 
 
 

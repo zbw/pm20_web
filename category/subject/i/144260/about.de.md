@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [d Sm2]{.gray}&#8201; Personenstandsregister&#160; 
+# [d Sm2]{.gray}&#8201; Personenstandsregister &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699242)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144260`</div>
 
 
 

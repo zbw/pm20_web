@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [d7 Sm100]{.gray}&#8201; Religious affairs, history&#160; 
+# [d7 Sm100]{.gray}&#8201; Religious affairs, history &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699274)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/222528`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A46]{.gray}&#8201; Bulgarien&#160; 
+# [A46]{.gray}&#8201; Bulgarien
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141039`</div>
 
 
 
@@ -32,6 +34,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Abfälle und Altmaterial [**&nearr;**](../../../ware/i/141942/about.de.html "Abfälle und Altmaterial (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB01-01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141942,141039" title="über: Abfälle und Altmaterial : Bulgarien" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141942/1410xx/141039/about.de.html))
 - Agrumen [**&nearr;**](../../../ware/i/141948/about.de.html "Agrumen (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141039" title="über: Agrumen : Bulgarien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1410xx/141039/about.de.html))
 - Alkohol (Chemie) [**&nearr;**](../../../ware/i/163481/about.de.html "Alkohol (Chemie) (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/163481,141039" title="über: Alkohol (Chemie) : Bulgarien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1634xx/163481/1410xx/141039/about.de.html))
@@ -47,6 +52,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Asphalt [**&nearr;**](../../../ware/i/142016/about.de.html "Asphalt (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bd01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141039" title="über: Asphalt : Bulgarien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142016/1410xx/141039/about.de.html))
 - Automat [**&nearr;**](../../../ware/i/142020/about.de.html "Automat (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Au "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142020,141039" title="über: Automat : Bulgarien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142020/1410xx/141039/about.de.html))
 - Axt, Beil, Hammer [**&nearr;**](../../../ware/i/141947/about.de.html "Axt, Beil, Hammer (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.03-Wz01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141947,141039" title="über: Axt, Beil, Hammer : Bulgarien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141947/1410xx/141039/about.de.html))
+
+### B
+
 - Backwaren [**&nearr;**](../../../ware/i/142026/about.de.html "Backwaren (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141039" title="über: Backwaren : Bulgarien" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142026/1410xx/141039/about.de.html))
 - Bakelit [**&nearr;**](../../../ware/i/142029/about.de.html "Bakelit (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID14-Ha01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142029,141039" title="über: Bakelit : Bulgarien" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142029/1410xx/141039/about.de.html))
 - Barium [**&nearr;**](../../../ware/i/142042/about.de.html "Barium (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142042,141039" title="über: Barium : Bulgarien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142042/1410xx/141039/about.de.html))
@@ -66,10 +74,16 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Bergbaumaschine [**&nearr;**](../../../ware/i/142112/about.de.html "Bergbaumaschine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Bg "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142112,141039" title="über: Bergbaumaschine : Bulgarien" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142112/1410xx/141039/about.de.html))
 - Beschläge und Scharniere [**&nearr;**](../../../ware/i/142113/about.de.html "Beschläge und Scharniere (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.03-01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142113,141039" title="über: Beschläge und Scharniere : Bulgarien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142113/1410xx/141039/about.de.html))
 - Bäckereimaschine [**&nearr;**](../../../ware/i/142027/about.de.html "Bäckereimaschine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Nm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142027,141039" title="über: Bäckereimaschine : Bulgarien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142027/1410xx/141039/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141039" title="über: Kohle : Bulgarien" target="_blank">352 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1410xx/141039/about.de.html))
 - Kohlemaschinen (Gewinnung und Aufbereitung) [**&nearr;**](../../../ware/i/143121/about.de.html "Kohlemaschinen (Gewinnung und Aufbereitung) (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Bg02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143121,141039" title="über: Kohlemaschinen (Gewinnung und Aufbereitung) : Bulgarien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143121/1410xx/141039/about.de.html))
 - Kohlenstoff (Ruß) [**&nearr;**](../../../ware/i/143123/about.de.html "Kohlenstoff (Ruß) (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01-Ru "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143123,141039" title="über: Kohlenstoff (Ruß) : Bulgarien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143123/1410xx/141039/about.de.html))
 - Kohlensäure [**&nearr;**](../../../ware/i/143122/about.de.html "Kohlensäure (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Sc06 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143122,141039" title="über: Kohlensäure : Bulgarien" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143122/1410xx/141039/about.de.html))
+
+### Ä
+
 - Äther [**&nearr;**](../../../ware/i/141945/about.de.html "Äther (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141945,141039" title="über: Äther : Bulgarien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141945/1410xx/141039/about.de.html))
 
 

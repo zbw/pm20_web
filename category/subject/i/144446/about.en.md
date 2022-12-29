@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [f6a]{.gray}&#8201; Negotiations of parliamentary bodies from individual states, provinces and cities&#160; 
+# [f6a]{.gray}&#8201; Negotiations of parliamentary bodies from individual states, provinces and cities &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427871)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144446`</div>
 
 
 

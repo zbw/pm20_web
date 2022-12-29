@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C10]{.gray}&#8201; Egypt&#160; 
+# [C10]{.gray}&#8201; Egypt &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q79) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Egypt)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141336`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -66,6 +68,9 @@ For material not published as folders, please check the [digitized micro-films](
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 
+
+### A
+
 - Absinth [**&nearr;**](../../../ware/i/141943/about.en.html "Absinth (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20.02-Sp01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141943,141336" title="about: Absinth : Egypt" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141943/1413xx/141336/about.en.html))
 - Alcohol [**&nearr;**](../../../ware/i/163481/about.en.html "Alcohol (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13-Ko02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/163481,141336" title="about: Alcohol : Egypt" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1634xx/163481/1413xx/141336/about.en.html))
 - Alcoholic beverage [**&nearr;**](../../../ware/i/141966/about.en.html "Alcoholic beverage (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20.02-Sp "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141336" title="about: Alcoholic beverage : Egypt" target="_blank">51 documents</a>) ([folder](../../../../folder/wa/1419xx/141966/1413xx/141336/about.en.html))
@@ -73,9 +78,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - Apple [**&nearr;**](../../../ware/i/141980/about.en.html "Apple (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Ob01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141980,141336" title="about: Apple : Egypt" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1419xx/141980/1413xx/141336/about.en.html))
 - Appliances and instruments [**&nearr;**](../../../ware/i/141985/about.en.html "Appliances and instruments (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID08-Ap "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141985,141336" title="about: Appliances and instruments : Egypt" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1419xx/141985/1413xx/141336/about.en.html))
 - Asphalt [**&nearr;**](../../../ware/i/142016/about.en.html "Asphalt (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID22-Bd01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141336" title="about: Asphalt : Egypt" target="_blank">5 documents</a>) ([folder](../../../../folder/wa/1420xx/142016/1413xx/141336/about.en.html))
+
+### B
+
 - Bakery product [**&nearr;**](../../../ware/i/142026/about.en.html "Bakery product (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20-Ba "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141336" title="about: Bakery product : Egypt" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1420xx/142026/1413xx/141336/about.en.html))
 - Banana [**&nearr;**](../../../ware/i/142038/about.en.html "Banana (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bn "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141336" title="about: Banana : Egypt" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1420xx/142038/1413xx/141336/about.en.html))
 - Building material [**&nearr;**](../../../ware/i/142086/about.en.html "Building material (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID22-Bs "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141336" title="about: Building material : Egypt" target="_blank">4 documents</a>) ([folder](../../../../folder/wa/1420xx/142086/1413xx/141336/about.en.html))
+
+### C
+
 - Carbonic acid [**&nearr;**](../../../ware/i/143122/about.en.html "Carbonic acid (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13-Sc06 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143122,141336" title="about: Carbonic acid : Egypt" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1431xx/143122/1413xx/141336/about.en.html))
 - Citrus fruits [**&nearr;**](../../../ware/i/141948/about.en.html "Citrus fruits (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Zs "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141336" title="about: Citrus fruits : Egypt" target="_blank">22 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1413xx/141336/about.en.html))
 - Clothing [**&nearr;**](../../../ware/i/142106/about.en.html "Clothing (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Bk "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141336" title="about: Clothing : Egypt" target="_blank">7 documents</a>) ([folder](../../../../folder/wa/1421xx/142106/1413xx/141336/about.en.html))
@@ -87,9 +98,18 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - Cotton textiles [**&nearr;**](../../../ware/i/154932/about.en.html "Cotton textiles (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Bw02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/154932,141336" title="about: Cotton textiles : Egypt" target="_blank">16 documents</a>) ([folder](../../../../folder/wa/1549xx/154932/1413xx/141336/about.en.html))
 - Cotton yarn [**&nearr;**](../../../ware/i/196460/about.en.html "Cotton yarn (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Nf02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/196460,141336" title="about: Cotton yarn : Egypt" target="_blank">28 documents</a>) ([folder](../../../../folder/wa/1964xx/196460/1413xx/141336/about.en.html))
 - Cottonseed, cottonseed oil [**&nearr;**](../../../ware/i/142093/about.en.html "Cottonseed, cottonseed oil (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20-Oe01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142093,141336" title="about: Cottonseed, cottonseed oil : Egypt" target="_blank">27 documents</a>) ([folder](../../../../folder/wa/1420xx/142093/1413xx/141336/about.en.html))
+
+### M
+
 - Mining machine [**&nearr;**](../../../ware/i/142112/about.en.html "Mining machine (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID08-Bg "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142112,141336" title="about: Mining machine : Egypt" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1421xx/142112/1413xx/141336/about.en.html))
+
+### O
+
 - Orange [**&nearr;**](../../../ware/i/141981/about.en.html "Orange (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Zs01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,141336" title="about: Orange : Egypt" target="_blank">23 documents</a>) ([folder](../../../../folder/wa/1419xx/141981/1413xx/141336/about.en.html))
 - Oyster [**&nearr;**](../../../ware/i/142019/about.en.html "Oyster (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW07-Mt02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142019,141336" title="about: Oyster : Egypt" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142019/1413xx/141336/about.en.html))
+
+### P
+
 - Petrol [**&nearr;**](../../../ware/i/142108/about.en.html "Petrol (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13.02-Ks02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141336" title="about: Petrol : Egypt" target="_blank">11 documents</a>) ([folder](../../../../folder/wa/1421xx/142108/1413xx/141336/about.en.html))
 
 

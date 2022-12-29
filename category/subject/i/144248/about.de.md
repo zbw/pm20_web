@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [d7 Sm501 (A43)]{.gray}&#8201; Ökumenisches Patriarchat&#160; 
+# [d7 Sm501 (A43)]{.gray}&#8201; Ökumenisches Patriarchat &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699275)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144248`</div>
 
 
 

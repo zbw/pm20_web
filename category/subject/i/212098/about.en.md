@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n35 Sm13.I]{.gray}&#8201; Orders for aircraft (including military) abroad&#160; 
+# [n35 Sm13.I]{.gray}&#8201; Orders for aircraft (including military) abroad &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711272)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/212098`</div>
 
 
 

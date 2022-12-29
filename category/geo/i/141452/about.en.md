@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C91]{.gray}&#8201; Saint Helena&#160; 
+# [C91]{.gray}&#8201; Saint Helena &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q34497) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Saint_Helena)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141452`</div>
 
 
 

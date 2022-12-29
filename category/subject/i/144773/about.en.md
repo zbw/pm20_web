@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [l3]{.gray}&#8201; Fortresses, military stations, ... (later: military buildings and properties)&#160; 
+# [l3]{.gray}&#8201; Fortresses, military stations, ... (later: military buildings and properties) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427919)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144773`</div>
 
 
 

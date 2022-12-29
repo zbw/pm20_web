@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A5]{.gray}&#8201; Levante&#160; 
+# [A5]{.gray}&#8201; Levante &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q81483) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Levante)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140898`</div>
 
-> Scope Note: Länder des östlichen Mittelmeeres, eigentlich alle Länder, die östlich von Italien liegen, besonders das Küstengebiet von Kleinasien, Libanon, Syrien und Ägypten.
-
+<div class="hint">
+Scope Note: Länder des östlichen Mittelmeeres, eigentlich alle Länder, die östlich von Italien liegen, besonders das Küstengebiet von Kleinasien, Libanon, Syrien und Ägypten.
+</div>
 
 
 

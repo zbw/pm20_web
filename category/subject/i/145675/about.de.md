@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n34 Sm60]{.gray}&#8201; Postwesen, Telegraphenwesen und Fernsprechwesen, Technisches&#160; 
+# [n34 Sm60]{.gray}&#8201; Postwesen, Telegraphenwesen und Fernsprechwesen, Technisches &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711259)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145675`</div>
 
 
 

@@ -8,12 +8,14 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [k1 Sm3]{.gray}&#8201; Volkshochschulen&#160; 
+# [k1 Sm3]{.gray}&#8201; Volkshochschulen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700173)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144723`</div>
 
-> Scope Note: (einschl.: Volkshochschulwesen, Volksuniversitätswesen, freie Erwachsenenbildung, Fernstudium
+<div class="hint">
+Scope Note: (einschl.: Volkshochschulwesen, Volksuniversitätswesen, freie Erwachsenenbildung, Fernstudium
 )
-
+</div>
 
 
 

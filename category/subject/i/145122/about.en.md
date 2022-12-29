@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n13a Sm6.I]{.gray}&#8201; Shipbuilding, general&#160; 
+# [n13a Sm6.I]{.gray}&#8201; Shipbuilding, general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710648)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145122`</div>
 
 
 

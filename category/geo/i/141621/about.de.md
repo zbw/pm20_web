@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [D30]{.gray}&#8201; Australien&#160; 
+# [D30]{.gray}&#8201; Australien &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q408) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Australien)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141621`</div>
 
-> Scope Note: Australischer Staatenbund m. Tasmanien
-
+<div class="hint">
+Scope Note: Australischer Staatenbund m. Tasmanien
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -165,6 +167,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Absinth [**&nearr;**](../../../ware/i/141943/about.de.html "Absinth (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141943,141621" title="über: Absinth : Australien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141943/1416xx/141621/about.de.html))
 - Agrumen [**&nearr;**](../../../ware/i/141948/about.de.html "Agrumen (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141621" title="über: Agrumen : Australien" target="_blank">12 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1416xx/141621/about.de.html))
 - Akazienrinde [**&nearr;**](../../../ware/i/141950/about.de.html "Akazienrinde (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW06-Fp01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141950,141621" title="über: Akazienrinde : Australien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141950/1416xx/141621/about.de.html))
@@ -184,6 +189,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Asclepiasfaser [**&nearr;**](../../../ware/i/142013/about.de.html "Asclepiasfaser (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Nf06 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142013,141621" title="über: Asclepiasfaser : Australien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142013/1416xx/141621/about.de.html))
 - Asphalt [**&nearr;**](../../../ware/i/142016/about.de.html "Asphalt (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bd01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141621" title="über: Asphalt : Australien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142016/1416xx/141621/about.de.html))
 - Auster [**&nearr;**](../../../ware/i/142019/about.de.html "Auster (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW07-Mt02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142019,141621" title="über: Auster : Australien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142019/1416xx/141621/about.de.html))
+
+### B
+
 - Backwaren [**&nearr;**](../../../ware/i/142026/about.de.html "Backwaren (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141621" title="über: Backwaren : Australien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142026/1416xx/141621/about.de.html))
 - Banane [**&nearr;**](../../../ware/i/142038/about.de.html "Banane (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bn "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141621" title="über: Banane : Australien" target="_blank">23 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142038/1416xx/141621/about.de.html))
 - Barium [**&nearr;**](../../../ware/i/142042/about.de.html "Barium (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142042,141621" title="über: Barium : Australien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142042/1416xx/141621/about.de.html))
@@ -200,6 +208,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Benzin [**&nearr;**](../../../ware/i/142108/about.de.html "Benzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141621" title="über: Benzin : Australien" target="_blank">18 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1416xx/141621/about.de.html))
 - Benzol [**&nearr;**](../../../ware/i/142110/about.de.html "Benzol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko04 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142110,141621" title="über: Benzol : Australien" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142110/1416xx/141621/about.de.html))
 - Bergbaumaschine [**&nearr;**](../../../ware/i/142112/about.de.html "Bergbaumaschine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Bg "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142112,141621" title="über: Bergbaumaschine : Australien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142112/1416xx/141621/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141621" title="über: Kohle : Australien" target="_blank">251 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1416xx/141621/about.de.html))
 - Kohlemaschinen (Gewinnung und Aufbereitung) [**&nearr;**](../../../ware/i/143121/about.de.html "Kohlemaschinen (Gewinnung und Aufbereitung) (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Bg02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143121,141621" title="über: Kohlemaschinen (Gewinnung und Aufbereitung) : Australien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143121/1416xx/141621/about.de.html))
 - Kohleveredelung [**&nearr;**](../../../ware/i/218757/about.de.html "Kohleveredelung (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/218757,141621" title="über: Kohleveredelung : Australien" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/wa/2187xx/218757/1416xx/141621/about.de.html))

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B17]{.gray}&#8201; Georgia (Republic)&#160; 
+# [B17]{.gray}&#8201; Georgia (Republic)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141073`</div>
 
 
 

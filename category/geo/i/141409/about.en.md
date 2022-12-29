@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C60]{.gray}&#8201; Colonial Nigeria, incl. British Cameroons&#160; 
+# [C60]{.gray}&#8201; Colonial Nigeria, incl. British Cameroons &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q1033) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Nigeria)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141409`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -236,12 +238,24 @@ For material not published as folders, please check the [digitized micro-films](
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 
+
+### A
+
 - Alcoholic beverage [**&nearr;**](../../../ware/i/141966/about.en.html "Alcoholic beverage (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20.02-Sp "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141409" title="about: Alcoholic beverage : Colonial Nigeria, incl. British Cameroons" target="_blank">12 documents</a>) ([folder](../../../../folder/wa/1419xx/141966/1414xx/141409/about.en.html))
+
+### C
+
 - Citrus fruits [**&nearr;**](../../../ware/i/141948/about.en.html "Citrus fruits (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Zs "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141409" title="about: Citrus fruits : Colonial Nigeria, incl. British Cameroons" target="_blank">6 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1414xx/141409/about.en.html))
 - Coal [**&nearr;**](../../../ware/i/143120/about.en.html "Coal (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB02.01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141409" title="about: Coal : Colonial Nigeria, incl. British Cameroons" target="_blank">61 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1414xx/141409/about.en.html))
 - Cotton [**&nearr;**](../../../ware/i/142089/about.en.html "Cotton (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bw "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141409" title="about: Cotton : Colonial Nigeria, incl. British Cameroons" target="_blank">70 documents</a>) ([folder](../../../../folder/wa/1420xx/142089/1414xx/141409/about.en.html))
 - Cotton textiles [**&nearr;**](../../../ware/i/154932/about.en.html "Cotton textiles (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Bw02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/154932,141409" title="about: Cotton textiles : Colonial Nigeria, incl. British Cameroons" target="_blank">10 documents</a>) ([folder](../../../../folder/wa/1549xx/154932/1414xx/141409/about.en.html))
+
+### O
+
 - Orange [**&nearr;**](../../../ware/i/141981/about.en.html "Orange (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Zs01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,141409" title="about: Orange : Colonial Nigeria, incl. British Cameroons" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141981/1414xx/141409/about.en.html))
+
+### P
+
 - Pineapple [**&nearr;**](../../../ware/i/141970/about.en.html "Pineapple (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Tr01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141970,141409" title="about: Pineapple : Colonial Nigeria, incl. British Cameroons" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141970/1414xx/141409/about.en.html))
 
 

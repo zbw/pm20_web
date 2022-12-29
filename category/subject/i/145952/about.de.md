@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [q Sm8]{.gray}&#8201; Juden, Judenfeindlichkeit und Antisemitismus bis 1945&#160; 
+# [q Sm8]{.gray}&#8201; Juden, Judenfeindlichkeit und Antisemitismus bis 1945 &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711378)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145952`</div>
 
-> Scope Note: In der alten Hamburger Systemarik bis 1945 unter "Judenfrage"
-
+<div class="hint">
+Scope Note: In der alten Hamburger Systemarik bis 1945 unter "Judenfrage"
+</div>
 
 
 

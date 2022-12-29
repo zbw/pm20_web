@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n Sm507 (A9)]{.gray}&#8201; NS Hago und GHG (Hamburg)&#160; 
+# [n Sm507 (A9)]{.gray}&#8201; NS Hago und GHG (Hamburg) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710387)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145904`</div>
 
-> Scope Note: Nat.-Soz. Handwerks-, Handels- und Gewerbeorganisation und Gesamtverband deutscher Handwerker, Kaufleute und Gewerbetreibender
-
+<div class="hint">
+Scope Note: Nat.-Soz. Handwerks-, Handels- und Gewerbeorganisation und Gesamtverband deutscher Handwerker, Kaufleute und Gewerbetreibender
+</div>
 
 
 

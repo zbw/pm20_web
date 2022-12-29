@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [g Sm8.III]{.gray}&#8201; Foreign propaganda for or against ...&#160; 
+# [g Sm8.III]{.gray}&#8201; Foreign propaganda for or against ... &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699680)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/220906`</div>
 
 
 

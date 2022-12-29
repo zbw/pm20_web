@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n Sm32.II]{.gray}&#8201; Water management (including water rights), waste water question&#160; 
+# [n Sm32.II]{.gray}&#8201; Water management (including water rights), waste water question &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710347)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145828`</div>
 
 
 

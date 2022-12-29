@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n35 Sm50]{.gray}&#8201; Luftschiffahrt, Flugwesen, Luftverkehr, Institutionen&#160; 
+# [n35 Sm50]{.gray}&#8201; Luftschiffahrt, Flugwesen, Luftverkehr, Institutionen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711278)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/199603`</div>
 
 
 

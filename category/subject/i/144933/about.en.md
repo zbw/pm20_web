@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n1 Sm2]{.gray}&#8201; Promotion of raw material imports from the colonies&#160; 
+# [n1 Sm2]{.gray}&#8201; Promotion of raw material imports from the colonies &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710390)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144933`</div>
 
 
 

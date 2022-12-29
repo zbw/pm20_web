@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B59]{.gray}&#8201; Straits Settlements&#160; 
+# [B59]{.gray}&#8201; Straits Settlements &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q376178) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Straits_Settlements)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141211`</div>
 
-> Scope Note: Singapur (ab 2.4.1946), Malacca,Penang, Singapur = Straits Settlements
-
+<div class="hint">
+Scope Note: Singapur (ab 2.4.1946), Malacca,Penang, Singapur = Straits Settlements
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -68,8 +70,14 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141211" title="über: Alkohol : Straits Settlements" target="_blank">21 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1412xx/141211/about.de.html))
 - Ananas [**&nearr;**](../../../ware/i/141970/about.de.html "Ananas (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Tr01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141970,141211" title="über: Ananas : Straits Settlements" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141970/1412xx/141211/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141211" title="über: Kohle : Straits Settlements" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1412xx/141211/about.de.html))
 - Koka, Kokain [**&nearr;**](../../../ware/i/143124/about.de.html "Koka, Kokain (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID04-Dr05 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,141211" title="über: Koka, Kokain : Straits Settlements" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143124/1412xx/141211/about.de.html))
 

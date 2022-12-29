@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n11 Sm2.II]{.gray}&#8201; Individual fishing ports&#160; 
+# [n11 Sm2.II]{.gray}&#8201; Individual fishing ports &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710551)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145079`</div>
 
 
 

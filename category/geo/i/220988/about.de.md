@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A50(1)]{.gray}&#8201; Russland&#160; 
+# [A50(1)]{.gray}&#8201; Russland
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/220988`</div>
 
-> Scope Note: bis Ende 1922, und ab 1991
-
+<div class="hint">
+Scope Note: bis Ende 1922, und ab 1991
+</div>
 
 
 

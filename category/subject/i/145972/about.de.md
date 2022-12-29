@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [q Sm25]{.gray}&#8201; Sonderstellung der Weissen&#160; 
+# [q Sm25]{.gray}&#8201; Sonderstellung der Weissen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711398)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145972`</div>
 
-> Scope Note: in Ländern mit starker Eingeborenen-Bevölkerung
-
+<div class="hint">
+Scope Note: in Ländern mit starker Eingeborenen-Bevölkerung
+</div>
 
 
 

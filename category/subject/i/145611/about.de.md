@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n32 Sm31.VI]{.gray}&#8201; Seekriegsrecht im Ganzen, Flaggenmißbrauch, Flaggenwechsel&#160; 
+# [n32 Sm31.VI]{.gray}&#8201; Seekriegsrecht im Ganzen, Flaggenmißbrauch, Flaggenwechsel &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711194)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145611`</div>
 
 
 

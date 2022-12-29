@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A10i]{.gray}&#8201; Memel (Stadt)&#160; 
+# [A10i]{.gray}&#8201; Memel (Stadt)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140943`</div>
 
-> Scope Note: bis 1.1.1929
-
+<div class="hint">
+Scope Note: bis 1.1.1929
+</div>
 
 
 

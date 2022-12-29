@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [f2.3.1]{.gray}&#8201; Geschichtliche Vorgänge 1919-1933 (Weimarer Republik)&#160; 
+# [f2.3.1]{.gray}&#8201; Geschichtliche Vorgänge 1919-1933 (Weimarer Republik) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699622)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/182454`</div>
 
 
 

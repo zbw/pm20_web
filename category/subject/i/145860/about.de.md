@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n Sm56]{.gray}&#8201; Gefangenenarbeit, Zwangsarbeit&#160; 
+# [n Sm56]{.gray}&#8201; Gefangenenarbeit, Zwangsarbeit &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710380)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145860`</div>
 
 
 

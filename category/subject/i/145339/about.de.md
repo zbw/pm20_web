@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n24]{.gray}&#8201; Kreditwesen und Bankwesen&#160; 
+# [n24]{.gray}&#8201; Kreditwesen und Bankwesen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428055)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145339`</div>
 
 
 

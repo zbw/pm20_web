@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [m Sm9.I]{.gray}&#8201; Finanzwesen der Bundesstaaten und Provinzen, Allgemein&#160; 
+# [m Sm9.I]{.gray}&#8201; Finanzwesen der Bundesstaaten und Provinzen, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700266)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144918`</div>
 
 
 

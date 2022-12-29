@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n18 Sm14]{.gray}&#8201; Markthallen&#160; 
+# [n18 Sm14]{.gray}&#8201; Markthallen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710935)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/161816`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n37a Sm12]{.gray}&#8201; Natural disaster insurance (except earthquakes)&#160; 
+# [n37a Sm12]{.gray}&#8201; Natural disaster insurance (except earthquakes) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711314)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145746`</div>
 
 
 

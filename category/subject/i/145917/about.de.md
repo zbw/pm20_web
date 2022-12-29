@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [p3]{.gray}&#8201; Einwanderung und Einwanderungspolitik&#160; 
+# [p3]{.gray}&#8201; Einwanderung und Einwanderungspolitik &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428101)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145917`</div>
 
 
 

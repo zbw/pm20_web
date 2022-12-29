@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n2 Sm9.IIIc]{.gray}&#8201; Indexes, individual indices, retail index&#160; 
+# [n2 Sm9.IIIc]{.gray}&#8201; Indexes, individual indices, retail index &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710427)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144986`</div>
 
 
 

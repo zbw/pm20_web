@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n Sm25.IV]{.gray}&#8201; Private Kriegsschäden, Entschädigungsverfahren&#160; 
+# [n Sm25.IV]{.gray}&#8201; Private Kriegsschäden, Entschädigungsverfahren &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700386)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145817`</div>
 
 
 

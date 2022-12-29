@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [H]{.gray}&#8201; Welt&#160; 
+# [H]{.gray}&#8201; Welt &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q16502) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Welt)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141728`</div>
 
 
 
@@ -94,6 +96,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Aal [**&nearr;**](../../../ware/i/141941/about.de.html "Aal (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW07-Mt01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141941,141728" title="über: Aal : Welt" target="_blank">34 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141941/1417xx/141728/about.de.html))
 - Abfälle und Altmaterial [**&nearr;**](../../../ware/i/141942/about.de.html "Abfälle und Altmaterial (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB01-01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141942,141728" title="über: Abfälle und Altmaterial : Welt" target="_blank">29 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141942/1417xx/141728/about.de.html))
 - Achat [**&nearr;**](../../../ware/i/141944/about.de.html "Achat (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID23-Ed01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141944,141728" title="über: Achat : Welt" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141944/1417xx/141728/about.de.html))
@@ -122,6 +127,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Asphalt [**&nearr;**](../../../ware/i/142016/about.de.html "Asphalt (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bd01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141728" title="über: Asphalt : Welt" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142016/1417xx/141728/about.de.html))
 - Axt, Beil, Hammer [**&nearr;**](../../../ware/i/141947/about.de.html "Axt, Beil, Hammer (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.03-Wz01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141947,141728" title="über: Axt, Beil, Hammer : Welt" target="_blank">18 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141947/1417xx/141728/about.de.html))
 - Azeton [**&nearr;**](../../../ware/i/142022/about.de.html "Azeton (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko03 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142022,141728" title="über: Azeton : Welt" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142022/1417xx/141728/about.de.html))
+
+### B
+
 - Babassunuss [**&nearr;**](../../../ware/i/142023/about.de.html "Babassunuss (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Nu01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142023,141728" title="über: Babassunuss : Welt" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142023/1417xx/141728/about.de.html))
 - Backwaren [**&nearr;**](../../../ware/i/142026/about.de.html "Backwaren (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141728" title="über: Backwaren : Welt" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142026/1417xx/141728/about.de.html))
 - Bakelit [**&nearr;**](../../../ware/i/142029/about.de.html "Bakelit (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID14-Ha01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142029,141728" title="über: Bakelit : Welt" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142029/1417xx/141728/about.de.html))
@@ -147,6 +155,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Beryllium [**&nearr;**](../../../ware/i/142103/about.de.html "Beryllium (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm03 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142103,141728" title="über: Beryllium : Welt" target="_blank">79 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142103/1417xx/141728/about.de.html))
 - Beschläge und Scharniere [**&nearr;**](../../../ware/i/142113/about.de.html "Beschläge und Scharniere (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.03-01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142113,141728" title="über: Beschläge und Scharniere : Welt" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142113/1417xx/141728/about.de.html))
 - Betäubungsmittel [**&nearr;**](../../../ware/i/142115/about.de.html "Betäubungsmittel (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID04-Dr "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142115,141728" title="über: Betäubungsmittel : Welt" target="_blank">176 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142115/1417xx/141728/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141728" title="über: Kohle : Welt" target="_blank">1871 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1417xx/141728/about.de.html))
 - Kohlemaschinen (Gewinnung und Aufbereitung) [**&nearr;**](../../../ware/i/143121/about.de.html "Kohlemaschinen (Gewinnung und Aufbereitung) (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Bg02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143121,141728" title="über: Kohlemaschinen (Gewinnung und Aufbereitung) : Welt" target="_blank">242 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143121/1417xx/141728/about.de.html))
 - Kohlenstaub [**&nearr;**](../../../ware/i/218756/about.de.html "Kohlenstaub (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01-St "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/218756,141728" title="über: Kohlenstaub : Welt" target="_blank">164 Dokumente</a>) ([Mappe](../../../../folder/wa/2187xx/218756/1417xx/141728/about.de.html))
@@ -156,9 +167,21 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Koka, Kokain [**&nearr;**](../../../ware/i/143124/about.de.html "Koka, Kokain (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID04-Dr05 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,141728" title="über: Koka, Kokain : Welt" target="_blank">51 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143124/1417xx/141728/about.de.html))
 - Kokosfaser [**&nearr;**](../../../ware/i/143125/about.de.html "Kokosfaser (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Nf11 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143125,141728" title="über: Kokosfaser : Welt" target="_blank">16 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143125/1417xx/141728/about.de.html))
 - Kokosnuss [**&nearr;**](../../../ware/i/143126/about.de.html "Kokosnuss (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Nu05 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143126,141728" title="über: Kokosnuss : Welt" target="_blank">200 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143126/1417xx/141728/about.de.html))
+
+### L
+
 - Leichtmetall [**&nearr;**](../../../ware/i/143572/about.de.html "Leichtmetall (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143572,141728" title="über: Leichtmetall : Welt" target="_blank">21 Dokumente</a>) ([Mappe](../../../../folder/wa/1435xx/143572/1417xx/141728/about.de.html))
+
+### M
+
 - Metalle [**&nearr;**](../../../ware/i/148466/about.de.html "Metalle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/148466,141728" title="über: Metalle : Welt" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1484xx/148466/1417xx/141728/about.de.html))
+
+### N
+
 - NE-Metall [**&nearr;**](../../../ware/i/161442/about.de.html "NE-Metall (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/161442,141728" title="über: NE-Metall : Welt" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1614xx/161442/1417xx/141728/about.de.html))
+
+### Ä
+
 - Äther [**&nearr;**](../../../ware/i/141945/about.de.html "Äther (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141945,141728" title="über: Äther : Welt" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141945/1417xx/141728/about.de.html))
 - Äthylbenzin [**&nearr;**](../../../ware/i/141946/about.de.html "Äthylbenzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141946,141728" title="über: Äthylbenzin : Welt" target="_blank">22 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141946/1417xx/141728/about.de.html))
 

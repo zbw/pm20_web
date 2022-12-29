@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [D14]{.gray}&#8201; Palau&#160; 
+# [D14]{.gray}&#8201; Palau &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q1588974)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141614`</div>
 
 
 

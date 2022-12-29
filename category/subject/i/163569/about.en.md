@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [g Sm501 (A43)]{.gray}&#8201; Sevres Peace Treaty (World War I)&#160; 
+# [g Sm501 (A43)]{.gray}&#8201; Sevres Peace Treaty (World War I) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699694)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/163569`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A10i]{.gray}&#8201; Klaipėda&#160; 
+# [A10i]{.gray}&#8201; Klaipėda
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140943`</div>
 
 
 

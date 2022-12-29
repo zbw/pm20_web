@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [D20]{.gray}&#8201; Dutch New Guinea&#160; 
+# [D20]{.gray}&#8201; Dutch New Guinea &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q941881) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Dutch_New_Guinea)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141619`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -119,7 +121,13 @@ For material not published as folders, please check the [digitized micro-films](
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 
+
+### B
+
 - Batata [**&nearr;**](../../../ware/i/142049/about.en.html "Batata (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Kf02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142049,141619" title="about: Batata : Dutch New Guinea" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142049/1416xx/141619/about.en.html))
+
+### C
+
 - Cotton [**&nearr;**](../../../ware/i/142089/about.en.html "Cotton (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bw "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141619" title="about: Cotton : Dutch New Guinea" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142089/1416xx/141619/about.en.html))
 
 

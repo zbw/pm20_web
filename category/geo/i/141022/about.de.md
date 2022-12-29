@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A40c]{.gray}&#8201; Tschechoslowakei&#160; 
+# [A40c]{.gray}&#8201; Tschechoslowakei
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141022`</div>
 
 
 
@@ -49,6 +51,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Asphalt [**&nearr;**](../../../ware/i/142016/about.de.html "Asphalt (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bd01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141022" title="über: Asphalt : Tschechoslowakei" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142016/1410xx/141022/about.de.html))
 - Automat [**&nearr;**](../../../ware/i/142020/about.de.html "Automat (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Au "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142020,141022" title="über: Automat : Tschechoslowakei" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142020/1410xx/141022/about.de.html))
 - Azeton [**&nearr;**](../../../ware/i/142022/about.de.html "Azeton (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko03 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142022,141022" title="über: Azeton : Tschechoslowakei" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142022/1410xx/141022/about.de.html))
+
+### B
+
 - Backpulver [**&nearr;**](../../../ware/i/142024/about.de.html "Backpulver (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Lm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142024,141022" title="über: Backpulver : Tschechoslowakei" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142024/1410xx/141022/about.de.html))
 - Backwaren [**&nearr;**](../../../ware/i/142026/about.de.html "Backwaren (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141022" title="über: Backwaren : Tschechoslowakei" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142026/1410xx/141022/about.de.html))
 - Bakelit [**&nearr;**](../../../ware/i/142029/about.de.html "Bakelit (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID14-Ha01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142029,141022" title="über: Bakelit : Tschechoslowakei" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142029/1410xx/141022/about.de.html))
@@ -65,6 +70,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Benzin [**&nearr;**](../../../ware/i/142108/about.de.html "Benzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141022" title="über: Benzin : Tschechoslowakei" target="_blank">74 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1410xx/141022/about.de.html))
 - Benzol [**&nearr;**](../../../ware/i/142110/about.de.html "Benzol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko04 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142110,141022" title="über: Benzol : Tschechoslowakei" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142110/1410xx/141022/about.de.html))
 - Beryllium [**&nearr;**](../../../ware/i/142103/about.de.html "Beryllium (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm03 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142103,141022" title="über: Beryllium : Tschechoslowakei" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142103/1410xx/141022/about.de.html))
+
+### K
+
 - Kohl [**&nearr;**](../../../ware/i/143119/about.de.html "Kohl (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Gm08 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143119,141022" title="über: Kohl : Tschechoslowakei" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143119/1410xx/141022/about.de.html))
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141022" title="über: Kohle : Tschechoslowakei" target="_blank">636 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1410xx/141022/about.de.html))
 - Kohlemaschinen (Gewinnung und Aufbereitung) [**&nearr;**](../../../ware/i/143121/about.de.html "Kohlemaschinen (Gewinnung und Aufbereitung) (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Bg02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143121,141022" title="über: Kohlemaschinen (Gewinnung und Aufbereitung) : Tschechoslowakei" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143121/1410xx/141022/about.de.html))

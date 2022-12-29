@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n33 Sm9]{.gray}&#8201; Inland navigation, subsidies, government loans&#160; 
+# [n33 Sm9]{.gray}&#8201; Inland navigation, subsidies, government loans &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711213)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145647`</div>
 
 
 

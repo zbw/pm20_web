@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [q Sm36]{.gray}&#8201; Mennoniten&#160; 
+# [q Sm36]{.gray}&#8201; Mennoniten &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711409)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145988`</div>
 
 
 

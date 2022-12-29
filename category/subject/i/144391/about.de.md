@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [f4a]{.gray}&#8201; Verfassung einzelner Bundes- und Vasallenstaaten&#160; 
+# [f4a]{.gray}&#8201; Verfassung einzelner Bundes- und Vasallenstaaten &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427867)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144391`</div>
 
 
 

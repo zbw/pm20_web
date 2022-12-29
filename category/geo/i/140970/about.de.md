@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A19]{.gray}&#8201; Niederlande&#160; 
+# [A19]{.gray}&#8201; Niederlande
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140970`</div>
 
 
 
@@ -32,6 +34,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Aal [**&nearr;**](../../../ware/i/141941/about.de.html "Aal (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW07-Mt01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141941,140970" title="über: Aal : Niederlande" target="_blank">15 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141941/1409xx/140970/about.de.html))
 - Abfälle und Altmaterial [**&nearr;**](../../../ware/i/141942/about.de.html "Abfälle und Altmaterial (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB01-01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141942,140970" title="über: Abfälle und Altmaterial : Niederlande" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141942/1409xx/140970/about.de.html))
 - Absinth [**&nearr;**](../../../ware/i/141943/about.de.html "Absinth (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141943,140970" title="über: Absinth : Niederlande" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141943/1409xx/140970/about.de.html))
@@ -51,6 +56,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Auster [**&nearr;**](../../../ware/i/142019/about.de.html "Auster (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW07-Mt02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142019,140970" title="über: Auster : Niederlande" target="_blank">26 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142019/1409xx/140970/about.de.html))
 - Automat [**&nearr;**](../../../ware/i/142020/about.de.html "Automat (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Au "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142020,140970" title="über: Automat : Niederlande" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142020/1409xx/140970/about.de.html))
 - Azeton [**&nearr;**](../../../ware/i/142022/about.de.html "Azeton (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko03 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142022,140970" title="über: Azeton : Niederlande" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142022/1409xx/140970/about.de.html))
+
+### B
+
 - Backwaren [**&nearr;**](../../../ware/i/142026/about.de.html "Backwaren (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,140970" title="über: Backwaren : Niederlande" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142026/1409xx/140970/about.de.html))
 - Bagger [**&nearr;**](../../../ware/i/142028/about.de.html "Bagger (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID09.02-Nf01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142028,140970" title="über: Bagger : Niederlande" target="_blank">16 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142028/1409xx/140970/about.de.html))
 - Balsaholz [**&nearr;**](../../../ware/i/142033/about.de.html "Balsaholz (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW06-Hz02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142033,140970" title="über: Balsaholz : Niederlande" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142033/1409xx/140970/about.de.html))
@@ -65,6 +73,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Bekleidungssparten und Zubehör [**&nearr;**](../../../ware/i/166456/about.de.html "Bekleidungssparten und Zubehör (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bz "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/166456,140970" title="über: Bekleidungssparten und Zubehör  : Niederlande" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1664xx/166456/1409xx/140970/about.de.html))
 - Benzin [**&nearr;**](../../../ware/i/142108/about.de.html "Benzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,140970" title="über: Benzin : Niederlande" target="_blank">120 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1409xx/140970/about.de.html))
 - Benzol [**&nearr;**](../../../ware/i/142110/about.de.html "Benzol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko04 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142110,140970" title="über: Benzol : Niederlande" target="_blank">11 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142110/1409xx/140970/about.de.html))
+
+### K
+
 - Kohl [**&nearr;**](../../../ware/i/143119/about.de.html "Kohl (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Gm08 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143119,140970" title="über: Kohl : Niederlande" target="_blank">18 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143119/1409xx/140970/about.de.html))
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,140970" title="über: Kohle : Niederlande" target="_blank">702 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1409xx/140970/about.de.html))
 - Kohlemaschinen (Gewinnung und Aufbereitung) [**&nearr;**](../../../ware/i/143121/about.de.html "Kohlemaschinen (Gewinnung und Aufbereitung) (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Bg02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143121,140970" title="über: Kohlemaschinen (Gewinnung und Aufbereitung) : Niederlande" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143121/1409xx/140970/about.de.html))
@@ -72,6 +83,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Kohleveredelung [**&nearr;**](../../../ware/i/218757/about.de.html "Kohleveredelung (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/218757,140970" title="über: Kohleveredelung : Niederlande" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/2187xx/218757/1409xx/140970/about.de.html))
 - Koka, Kokain [**&nearr;**](../../../ware/i/143124/about.de.html "Koka, Kokain (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID04-Dr05 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,140970" title="über: Koka, Kokain : Niederlande" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143124/1409xx/140970/about.de.html))
 - Kokosfaser [**&nearr;**](../../../ware/i/143125/about.de.html "Kokosfaser (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Nf11 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143125,140970" title="über: Kokosfaser : Niederlande" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143125/1409xx/140970/about.de.html))
+
+### Ä
+
 - Äther [**&nearr;**](../../../ware/i/141945/about.de.html "Äther (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141945,140970" title="über: Äther : Niederlande" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141945/1409xx/140970/about.de.html))
 
 

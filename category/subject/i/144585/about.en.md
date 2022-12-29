@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [g Sm14.I]{.gray}&#8201; Statements and position on the German peace dictation provisions (Versailles), general&#160; 
+# [g Sm14.I]{.gray}&#8201; Statements and position on the German peace dictation provisions (Versailles), general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699685)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144585`</div>
 
 
 

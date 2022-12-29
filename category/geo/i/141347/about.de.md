@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C16]{.gray}&#8201; Cyrenaica&#160; 
+# [C16]{.gray}&#8201; Cyrenaica
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141347`</div>
 
-> Scope Note: (1912-1934), Landschaft im östlichen Libyen
-
+<div class="hint">
+Scope Note: (1912-1934), Landschaft im östlichen Libyen
+</div>
 
 
 

@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C57]{.gray}&#8201; Gold Coast incl. British Togoland&#160; 
+# [C57]{.gray}&#8201; Gold Coast incl. British Togoland &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q503623) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Gold_Coast_(British_colony))
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141406`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -216,16 +218,28 @@ For material not published as folders, please check the [digitized micro-films](
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 
+
+### A
+
 - Alcohol [**&nearr;**](../../../ware/i/163481/about.en.html "Alcohol (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13-Ko02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/163481,141406" title="about: Alcohol : Gold Coast incl. British Togoland" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1634xx/163481/1414xx/141406/about.en.html))
 - Alcoholic beverage [**&nearr;**](../../../ware/i/141966/about.en.html "Alcoholic beverage (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20.02-Sp "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141406" title="about: Alcoholic beverage : Gold Coast incl. British Togoland" target="_blank">23 documents</a>) ([folder](../../../../folder/wa/1419xx/141966/1414xx/141406/about.en.html))
 - Aluminium [**&nearr;**](../../../ware/i/141969/about.en.html "Aluminium (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID07.01-Lm01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,141406" title="about: Aluminium : Gold Coast incl. British Togoland" target="_blank">14 documents</a>) ([folder](../../../../folder/wa/1419xx/141969/1414xx/141406/about.en.html))
 - Apple [**&nearr;**](../../../ware/i/141980/about.en.html "Apple (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Ob01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141980,141406" title="about: Apple : Gold Coast incl. British Togoland" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141980/1414xx/141406/about.en.html))
+
+### B
+
 - Banana [**&nearr;**](../../../ware/i/142038/about.en.html "Banana (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bn "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141406" title="about: Banana : Gold Coast incl. British Togoland" target="_blank">14 documents</a>) ([folder](../../../../folder/wa/1420xx/142038/1414xx/141406/about.en.html))
+
+### C
+
 - Citrus fruits [**&nearr;**](../../../ware/i/141948/about.en.html "Citrus fruits (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Zs "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141406" title="about: Citrus fruits : Gold Coast incl. British Togoland" target="_blank">5 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1414xx/141406/about.en.html))
 - Clothing [**&nearr;**](../../../ware/i/142106/about.en.html "Clothing (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Bk "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141406" title="about: Clothing : Gold Coast incl. British Togoland" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1421xx/142106/1414xx/141406/about.en.html))
 - Coal [**&nearr;**](../../../ware/i/143120/about.en.html "Coal (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB02.01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141406" title="about: Coal : Gold Coast incl. British Togoland" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1414xx/141406/about.en.html))
 - Cotton [**&nearr;**](../../../ware/i/142089/about.en.html "Cotton (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bw "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141406" title="about: Cotton : Gold Coast incl. British Togoland" target="_blank">20 documents</a>) ([folder](../../../../folder/wa/1420xx/142089/1414xx/141406/about.en.html))
 - Cotton textiles [**&nearr;**](../../../ware/i/154932/about.en.html "Cotton textiles (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Bw02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/154932,141406" title="about: Cotton textiles : Gold Coast incl. British Togoland" target="_blank">48 documents</a>) ([folder](../../../../folder/wa/1549xx/154932/1414xx/141406/about.en.html))
+
+### P
+
 - Petrol [**&nearr;**](../../../ware/i/142108/about.en.html "Petrol (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13.02-Ks02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141406" title="about: Petrol : Gold Coast incl. British Togoland" target="_blank">5 documents</a>) ([folder](../../../../folder/wa/1421xx/142108/1414xx/141406/about.en.html))
 - Pineapple [**&nearr;**](../../../ware/i/141970/about.en.html "Pineapple (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Tr01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141970,141406" title="about: Pineapple : Gold Coast incl. British Togoland" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141970/1414xx/141406/about.en.html))
 

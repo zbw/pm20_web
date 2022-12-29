@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A12]{.gray}&#8201; Polen&#160; 
+# [A12]{.gray}&#8201; Polen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q36) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Polen)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140962`</div>
 
-> Scope Note: (einschl.: auch Generalgouvernement)
-
+<div class="hint">
+Scope Note: (einschl.: auch Generalgouvernement)
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -72,6 +74,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Abfälle und Altmaterial [**&nearr;**](../../../ware/i/141942/about.de.html "Abfälle und Altmaterial (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB01-01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141942,140962" title="über: Abfälle und Altmaterial : Polen" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141942/1409xx/140962/about.de.html))
 - Agrumen [**&nearr;**](../../../ware/i/141948/about.de.html "Agrumen (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,140962" title="über: Agrumen : Polen" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1409xx/140962/about.de.html))
 - Algen und Seetang [**&nearr;**](../../../ware/i/141959/about.de.html "Algen und Seetang (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW07-Mp01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141959,140962" title="über: Algen und Seetang : Polen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141959/1409xx/140962/about.de.html))
@@ -90,6 +95,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Asclepiasfaser [**&nearr;**](../../../ware/i/142013/about.de.html "Asclepiasfaser (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Nf06 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142013,140962" title="über: Asclepiasfaser : Polen" target="_blank">9 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142013/1409xx/140962/about.de.html))
 - Asphalt [**&nearr;**](../../../ware/i/142016/about.de.html "Asphalt (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bd01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,140962" title="über: Asphalt : Polen" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142016/1409xx/140962/about.de.html))
 - Automat [**&nearr;**](../../../ware/i/142020/about.de.html "Automat (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Au "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142020,140962" title="über: Automat : Polen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142020/1409xx/140962/about.de.html))
+
+### B
+
 - Backpulver [**&nearr;**](../../../ware/i/142024/about.de.html "Backpulver (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Lm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142024,140962" title="über: Backpulver : Polen" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142024/1409xx/140962/about.de.html))
 - Backwaren [**&nearr;**](../../../ware/i/142026/about.de.html "Backwaren (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,140962" title="über: Backwaren : Polen" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142026/1409xx/140962/about.de.html))
 - Bakelit [**&nearr;**](../../../ware/i/142029/about.de.html "Bakelit (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID14-Ha01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142029,140962" title="über: Bakelit : Polen" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142029/1409xx/140962/about.de.html))
@@ -105,10 +113,16 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Benzin [**&nearr;**](../../../ware/i/142108/about.de.html "Benzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,140962" title="über: Benzin : Polen" target="_blank">38 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1409xx/140962/about.de.html))
 - Benzol [**&nearr;**](../../../ware/i/142110/about.de.html "Benzol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko04 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142110,140962" title="über: Benzol : Polen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142110/1409xx/140962/about.de.html))
 - Bernstein [**&nearr;**](../../../ware/i/142111/about.de.html "Bernstein (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID04-Sc01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142111,140962" title="über: Bernstein : Polen" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142111/1409xx/140962/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,140962" title="über: Kohle : Polen" target="_blank">1735 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1409xx/140962/about.de.html))
 - Kohlemaschinen (Gewinnung und Aufbereitung) [**&nearr;**](../../../ware/i/143121/about.de.html "Kohlemaschinen (Gewinnung und Aufbereitung) (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Bg02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143121,140962" title="über: Kohlemaschinen (Gewinnung und Aufbereitung) : Polen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143121/1409xx/140962/about.de.html))
 - Kohlensäure [**&nearr;**](../../../ware/i/143122/about.de.html "Kohlensäure (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Sc06 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143122,140962" title="über: Kohlensäure : Polen" target="_blank">17 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143122/1409xx/140962/about.de.html))
 - Koka, Kokain [**&nearr;**](../../../ware/i/143124/about.de.html "Koka, Kokain (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID04-Dr05 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,140962" title="über: Koka, Kokain : Polen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143124/1409xx/140962/about.de.html))
+
+### Ä
+
 - Äther [**&nearr;**](../../../ware/i/141945/about.de.html "Äther (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141945,140962" title="über: Äther : Polen" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141945/1409xx/140962/about.de.html))
 - Äthylbenzin [**&nearr;**](../../../ware/i/141946/about.de.html "Äthylbenzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141946,140962" title="über: Äthylbenzin : Polen" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141946/1409xx/140962/about.de.html))
 

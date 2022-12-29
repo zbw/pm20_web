@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n24 Sm22]{.gray}&#8201; Bankwesen, Staatliche Aufsicht (Kontrolle), Publizitätspflicht&#160; 
+# [n24 Sm22]{.gray}&#8201; Bankwesen, Staatliche Aufsicht (Kontrolle), Publizitätspflicht &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711041)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145390`</div>
 
 
 

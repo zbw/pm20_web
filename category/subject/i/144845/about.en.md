@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [m1a Sm4]{.gray}&#8201; Individual domestic bonds (state budget) from individual states or provinces&#160; 
+# [m1a Sm4]{.gray}&#8201; Individual domestic bonds (state budget) from individual states or provinces &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700297)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144845`</div>
 
 
 

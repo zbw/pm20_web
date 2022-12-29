@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n12 Sm6]{.gray}&#8201; Accidents, rescue, safety regulations in mining&#160; 
+# [n12 Sm6]{.gray}&#8201; Accidents, rescue, safety regulations in mining &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710556)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145089`</div>
 
 
 

@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [c9]{.gray}&#8201; Landeskunde, Landschaften, Beschreibung einzelner Orte und Gegenden&#160; 
+# [c9]{.gray}&#8201; Landeskunde, Landschaften, Beschreibung einzelner Orte und Gegenden &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427840)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144214`</div>
 
-> Scope Note: Beschreibung einzelner Orte und Gegenden
-
+<div class="hint">
+Scope Note: Beschreibung einzelner Orte und Gegenden
+</div>
 
 
 

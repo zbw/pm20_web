@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A1]{.gray}&#8201; Europe&#160; 
+# [A1]{.gray}&#8201; Europe &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q46) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Europe)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140892`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -318,57 +320,25 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
-In total 27 folders, 1532 documents - folders incomplete.
+In total 7 folders, 556 documents - folders incomplete.
 For material not published as folders, please check the [digitized micro-films](/film/h1_wa.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 
 
-### Literature
-
-- a Literature, general [**&nearr;**](../../../subject/i/142393/about.en.html "Literature, general (all over the world)") [**&uarr;**](../../../subject/about.en.html#a "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141728,142393" title="about: World : Literature, general" target="_blank">20 documents</a>) ([folder](../../../../folder/sh/1417xx/141728/1423xx/142393/about.en.html))
-- a1 Map literature [**&nearr;**](../../../subject/i/144193/about.en.html "Map literature (all over the world)") [**&uarr;**](../../../subject/about.en.html#a1 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141728,144193" title="about: World : Map literature" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1417xx/141728/1441xx/144193/about.en.html))
-
-### The country and its people, politics and economy
-
-- b The country and its people, politics and economy, general [**&nearr;**](../../../subject/i/144196/about.en.html "The country and its people, politics and economy, general (all over the world)") [**&uarr;**](../../../subject/about.en.html#b "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141728,144196" title="about: World : The country and its people, politics and economy, general" target="_blank">37 documents</a>) ([folder](../../../../folder/sh/1417xx/141728/1441xx/144196/about.en.html))
-
-### Country studies
-
-- c Country studies, general [**&nearr;**](../../../subject/i/144199/about.en.html "Country studies, general (all over the world)") [**&uarr;**](../../../subject/about.en.html#c "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141728,144199" title="about: World : Country studies, general" target="_blank">63 documents</a>) ([folder](../../../../folder/sh/1417xx/141728/1441xx/144199/about.en.html))
-  - c Sm2 Cartography [**&nearr;**](../../../subject/i/144218/about.en.html "Cartography (all over the world)") [**&uarr;**](../../../subject/about.en.html#c_Sm2 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141728,144218" title="about: World : Cartography" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1417xx/141728/1442xx/144218/about.en.html))
-  - c Sm2.I (alt) Cartography, general [**&nearr;**](../../../subject/i/144219/about.en.html "Cartography, general (all over the world)") [**&uarr;**](../../../subject/about.en.html#c_Sm2.I_(alt) "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141728,144219" title="about: World : Cartography, general" target="_blank">8 documents</a>) ([folder](../../../../folder/sh/1417xx/141728/1442xx/144219/about.en.html))
-  - c Sm2.II (alt) Cartography, aerial photography [**&nearr;**](../../../subject/i/144220/about.en.html "Cartography, aerial photography (all over the world)") [**&uarr;**](../../../subject/about.en.html#c_Sm2.II_(alt) "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141728,144220" title="about: World : Cartography, aerial photography" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1417xx/141728/1442xx/144220/about.en.html))
-  - c Sm20 Country studies, conferences [**&nearr;**](../../../subject/i/182723/about.en.html "Country studies, conferences (all over the world)") [**&uarr;**](../../../subject/about.en.html#c_Sm20 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141728,182723" title="about: World : Country studies, conferences" target="_blank">5 documents</a>) ([folder](../../../../folder/sh/1417xx/141728/1827xx/182723/about.en.html))
-  - c Sm50 Country studies, institutions [**&nearr;**](../../../subject/i/182749/about.en.html "Country studies, institutions (all over the world)") [**&uarr;**](../../../subject/about.en.html#c_Sm50 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141728,182749" title="about: World : Country studies, institutions" target="_blank">4 documents</a>) ([folder](../../../../folder/sh/1417xx/141728/1827xx/182749/about.en.html))
-- c1 Expeditions [**&nearr;**](../../../subject/i/144200/about.en.html "Expeditions (all over the world)") [**&uarr;**](../../../subject/about.en.html#c1 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141728,144200" title="about: World : Expeditions" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1417xx/141728/1442xx/144200/about.en.html))
-  - c1 Sm501 (B42) Himalayas expeditions [**&nearr;**](../../../subject/i/144201/about.en.html "Himalayas expeditions (all over the world)") [**&uarr;**](../../../subject/about.en.html#c1_Sm501_(B42) "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141728,144201" title="about: World : Himalayas expeditions" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1417xx/141728/1442xx/144201/about.en.html))
-- c3 Geography, geomorphology [**&nearr;**](../../../subject/i/144204/about.en.html "Geography, geomorphology (all over the world)") [**&uarr;**](../../../subject/about.en.html#c3 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141728,144204" title="about: World : Geography, geomorphology" target="_blank">44 documents</a>) ([folder](../../../../folder/sh/1417xx/141728/1442xx/144204/about.en.html))
-- c4 Waters [**&nearr;**](../../../subject/i/144205/about.en.html "Waters (all over the world)") [**&uarr;**](../../../subject/about.en.html#c4 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141728,144205" title="about: World : Waters" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1417xx/141728/1442xx/144205/about.en.html))
-  - c4 Sm501 (H) (alt) Ocean research [**&nearr;**](../../../subject/i/144208/about.en.html "Ocean research (all over the world)") [**&uarr;**](../../../subject/about.en.html#c4_Sm501_(H)_(alt) "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141728,144208" title="about: World : Ocean research" target="_blank">96 documents</a>) ([folder](../../../../folder/sh/1417xx/141728/1442xx/144208/about.en.html))
-- c5 Climate [**&nearr;**](../../../subject/i/144209/about.en.html "Climate (all over the world)") [**&uarr;**](../../../subject/about.en.html#c5 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141728,144209" title="about: World : Climate" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1417xx/141728/1442xx/144209/about.en.html))
-- c6 Geography, geological structure, mineral kingdom [**&nearr;**](../../../subject/i/144210/about.en.html "Geography, geological structure, mineral kingdom (all over the world)") [**&uarr;**](../../../subject/about.en.html#c6 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141728,144210" title="about: World : Geography, geological structure, mineral kingdom" target="_blank">17 documents</a>) ([folder](../../../../folder/sh/1417xx/141728/1442xx/144210/about.en.html))
-- [c10 Natural disasters]{.gray}
-  - c10 Sm1 (alt) Geography, earthquakes and volcanic eruptions [**&nearr;**](../../../subject/i/144216/about.en.html "Geography, earthquakes and volcanic eruptions (all over the world)") [**&uarr;**](../../../subject/about.en.html#c10_Sm1_(alt) "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141728,144216" title="about: World : Geography, earthquakes and volcanic eruptions" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1417xx/141728/1442xx/144216/about.en.html))
-
-### Foreigners and individual minorities
-
-- [o1 German minorities and Germanness]{.gray}
-  - o1 Sm1 (alt) German churches, schools and associations ..., general [**&nearr;**](../../../subject/i/145910/about.en.html "German churches, schools and associations ..., general (all over the world)") [**&uarr;**](../../../subject/about.en.html#o1_Sm1_(alt) "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141728,145910" title="about: World : German churches, schools and associations ..., general" target="_blank">97 documents</a>) ([folder](../../../../folder/sh/1417xx/141728/1459xx/145910/about.en.html))
-  - o1 Sm500 German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145911/about.en.html "German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum) (all over the world)") [**&uarr;**](../../../subject/about.en.html#o1_Sm500 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141728,145911" title="about: World : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">572 documents</a>) ([folder](../../../../folder/sh/1417xx/141728/1459xx/145911/about.en.html))
-
-### Settling and migration
-
-- [p3 Immigration and Immigration Policy]{.gray}
-  - p3 Sm500 German immigrants (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145921/about.en.html "German immigrants (Forschungsstelle für das Übersee-Deutschtum) (all over the world)") [**&uarr;**](../../../subject/about.en.html#p3_Sm500 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141728,145921" title="about: World : German immigrants (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1417xx/141728/1459xx/145921/about.en.html))
-
-### P
+### A
 
 - Alcoholic beverage [**&nearr;**](../../../ware/i/141966/about.en.html "Alcoholic beverage (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20.02-Sp "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,140892" title="about: Alcoholic beverage : Europe" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141966/1408xx/140892/about.en.html))
 - Aluminium [**&nearr;**](../../../ware/i/141969/about.en.html "Aluminium (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID07.01-Lm01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,140892" title="about: Aluminium : Europe" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1419xx/141969/1408xx/140892/about.en.html))
 - Asphalt [**&nearr;**](../../../ware/i/142016/about.en.html "Asphalt (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID22-Bd01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,140892" title="about: Asphalt : Europe" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142016/1408xx/140892/about.en.html))
+
+### B
+
 - Banana [**&nearr;**](../../../ware/i/142038/about.en.html "Banana (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bn "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,140892" title="about: Banana : Europe" target="_blank">4 documents</a>) ([folder](../../../../folder/wa/1420xx/142038/1408xx/140892/about.en.html))
+
+### C
+
 - Coal [**&nearr;**](../../../ware/i/143120/about.en.html "Coal (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB02.01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,140892" title="about: Coal : Europe" target="_blank">533 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1408xx/140892/about.en.html))
 - Coal dust [**&nearr;**](../../../ware/i/218756/about.en.html "Coal dust (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB02.01-St "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/218756,140892" title="about: Coal dust : Europe" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/2187xx/218756/1408xx/140892/about.en.html))
 - Cotton [**&nearr;**](../../../ware/i/142089/about.en.html "Cotton (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bw "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,140892" title="about: Cotton : Europe" target="_blank">14 documents</a>) ([folder](../../../../folder/wa/1420xx/142089/1408xx/140892/about.en.html))

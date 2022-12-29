@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A28]{.gray}&#8201; Frankreich&#160; 
+# [A28]{.gray}&#8201; Frankreich
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140982`</div>
 
 
 
@@ -31,6 +33,9 @@ Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfil
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
 
+
+
+### A
 
 - Abfälle und Altmaterial [**&nearr;**](../../../ware/i/141942/about.de.html "Abfälle und Altmaterial (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB01-01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141942,140982" title="über: Abfälle und Altmaterial : Frankreich" target="_blank">9 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141942/1409xx/140982/about.de.html))
 - Absinth [**&nearr;**](../../../ware/i/141943/about.de.html "Absinth (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141943,140982" title="über: Absinth : Frankreich" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141943/1409xx/140982/about.de.html))
@@ -59,6 +64,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Auster [**&nearr;**](../../../ware/i/142019/about.de.html "Auster (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW07-Mt02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142019,140982" title="über: Auster : Frankreich" target="_blank">49 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142019/1409xx/140982/about.de.html))
 - Automat [**&nearr;**](../../../ware/i/142020/about.de.html "Automat (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Au "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142020,140982" title="über: Automat : Frankreich" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142020/1409xx/140982/about.de.html))
 - Axt, Beil, Hammer [**&nearr;**](../../../ware/i/141947/about.de.html "Axt, Beil, Hammer (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.03-Wz01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141947,140982" title="über: Axt, Beil, Hammer : Frankreich" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141947/1409xx/140982/about.de.html))
+
+### B
+
 - Backwaren [**&nearr;**](../../../ware/i/142026/about.de.html "Backwaren (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,140982" title="über: Backwaren : Frankreich" target="_blank">48 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142026/1409xx/140982/about.de.html))
 - Bagger [**&nearr;**](../../../ware/i/142028/about.de.html "Bagger (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID09.02-Nf01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142028,140982" title="über: Bagger : Frankreich" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142028/1409xx/140982/about.de.html))
 - Bakelit [**&nearr;**](../../../ware/i/142029/about.de.html "Bakelit (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID14-Ha01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142029,140982" title="über: Bakelit : Frankreich" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142029/1409xx/140982/about.de.html))
@@ -82,6 +90,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Bergbaumaschine [**&nearr;**](../../../ware/i/142112/about.de.html "Bergbaumaschine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Bg "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142112,140982" title="über: Bergbaumaschine : Frankreich" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142112/1409xx/140982/about.de.html))
 - Beryllium [**&nearr;**](../../../ware/i/142103/about.de.html "Beryllium (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm03 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142103,140982" title="über: Beryllium : Frankreich" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142103/1409xx/140982/about.de.html))
 - Beschläge und Scharniere [**&nearr;**](../../../ware/i/142113/about.de.html "Beschläge und Scharniere (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.03-01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142113,140982" title="über: Beschläge und Scharniere : Frankreich" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142113/1409xx/140982/about.de.html))
+
+### K
+
 - Kohl [**&nearr;**](../../../ware/i/143119/about.de.html "Kohl (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Gm08 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143119,140982" title="über: Kohl : Frankreich" target="_blank">13 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143119/1409xx/140982/about.de.html))
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,140982" title="über: Kohle : Frankreich" target="_blank">2534 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1409xx/140982/about.de.html))
 - Kohlemaschinen (Gewinnung und Aufbereitung) [**&nearr;**](../../../ware/i/143121/about.de.html "Kohlemaschinen (Gewinnung und Aufbereitung) (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Bg02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143121,140982" title="über: Kohlemaschinen (Gewinnung und Aufbereitung) : Frankreich" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143121/1409xx/140982/about.de.html))

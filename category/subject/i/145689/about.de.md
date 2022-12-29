@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n35 Sm6]{.gray}&#8201; Lage und Statistik der privaten Flugunternehmungen&#160; 
+# [n35 Sm6]{.gray}&#8201; Lage und Statistik der privaten Flugunternehmungen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711267)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145689`</div>
 
 
 

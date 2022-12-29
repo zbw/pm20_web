@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [p7]{.gray}&#8201; Binnenwanderungsbewegungen&#160; 
+# [p7]{.gray}&#8201; Binnenwanderungsbewegungen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428205)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145939`</div>
 
 
 

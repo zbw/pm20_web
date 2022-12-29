@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [g Sm501.II (A43)]{.gray}&#8201; Friedensvertrag von Sevres (Weltkrieg), Stimmen und Stellung&#160; 
+# [g Sm501.II (A43)]{.gray}&#8201; Friedensvertrag von Sevres (Weltkrieg), Stimmen und Stellung &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699697)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144610`</div>
 
 
 

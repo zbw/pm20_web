@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [l3 Sm1]{.gray}&#8201; Militärische Stützpunkte im Ausland (Projekte)&#160; 
+# [l3 Sm1]{.gray}&#8201; Militärische Stützpunkte im Ausland (Projekte) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700227)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144774`</div>
 
 
 

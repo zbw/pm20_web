@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [g Sm14.II]{.gray}&#8201; Reparationsfrage, Stimmen&#160; 
+# [g Sm14.II]{.gray}&#8201; Reparationsfrage, Stimmen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699686)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144586`</div>
 
 
 

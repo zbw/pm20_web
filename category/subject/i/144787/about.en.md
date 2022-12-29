@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [l1 Sm3]{.gray}&#8201; Mechanized or motorized infantry&#160; 
+# [l1 Sm3]{.gray}&#8201; Mechanized or motorized infantry &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700221)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144787`</div>
 
 
 

@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A36]{.gray}&#8201; Italian Empire&#160; 
+# [A36]{.gray}&#8201; Italian Empire &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q926295) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Italian_Empire)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141012`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -190,7 +192,13 @@ For material not published as folders, please check the [digitized micro-films](
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 
+
+### B
+
 - Building material [**&nearr;**](../../../ware/i/142086/about.en.html "Building material (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID22-Bs "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141012" title="about: Building material : Italian Empire" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142086/1410xx/141012/about.en.html))
+
+### C
+
 - Cotton [**&nearr;**](../../../ware/i/142089/about.en.html "Cotton (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bw "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141012" title="about: Cotton : Italian Empire" target="_blank">6 documents</a>) ([folder](../../../../folder/wa/1420xx/142089/1410xx/141012/about.en.html))
 
 

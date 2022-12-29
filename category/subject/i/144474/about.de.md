@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [g4 Sm2.I]{.gray}&#8201; Wirtschaftskrieg, Allgemein&#160; 
+# [g4 Sm2.I]{.gray}&#8201; Wirtschaftskrieg, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699990)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144474`</div>
 
 
 

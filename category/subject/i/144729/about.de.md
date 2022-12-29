@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [k1 Sm7.IIb]{.gray}&#8201; Akademische Berufe, Einzelne, Juristen&#160; 
+# [k1 Sm7.IIb]{.gray}&#8201; Akademische Berufe, Einzelne, Juristen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700184)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144729`</div>
 
 
 

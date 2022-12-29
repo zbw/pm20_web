@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [e4 Sm8]{.gray}&#8201; Air hygiene and ventilation&#160; 
+# [e4 Sm8]{.gray}&#8201; Air hygiene and ventilation &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699293)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144276`</div>
 
 
 

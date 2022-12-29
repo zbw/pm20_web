@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n Sm36.I]{.gray}&#8201; Wärmewirtschaft, Allgemein&#160; 
+# [n Sm36.I]{.gray}&#8201; Wärmewirtschaft, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710352)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145832`</div>
 
 
 

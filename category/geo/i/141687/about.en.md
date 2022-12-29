@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [E76]{.gray}&#8201; Colombia&#160; 
+# [E76]{.gray}&#8201; Colombia &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q739) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Colombia)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141687`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -62,13 +64,22 @@ For material not published as folders, please check the [digitized micro-films](
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 
+
+### A
+
 - Alcoholic beverage [**&nearr;**](../../../ware/i/141966/about.en.html "Alcoholic beverage (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20.02-Sp "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141687" title="about: Alcoholic beverage : Colombia" target="_blank">22 documents</a>) ([folder](../../../../folder/wa/1419xx/141966/1416xx/141687/about.en.html))
 - Aluminium [**&nearr;**](../../../ware/i/141969/about.en.html "Aluminium (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID07.01-Lm01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,141687" title="about: Aluminium : Colombia" target="_blank">4 documents</a>) ([folder](../../../../folder/wa/1419xx/141969/1416xx/141687/about.en.html))
 - Asbestos [**&nearr;**](../../../ware/i/142014/about.en.html "Asbestos (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID23-As "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,141687" title="about: Asbestos : Colombia" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1420xx/142014/1416xx/141687/about.en.html))
 - Avocate pear [**&nearr;**](../../../ware/i/142021/about.en.html "Avocate pear (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Ob02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142021,141687" title="about: Avocate pear : Colombia" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142021/1416xx/141687/about.en.html))
+
+### B
+
 - Bakery product [**&nearr;**](../../../ware/i/142026/about.en.html "Bakery product (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20-Ba "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141687" title="about: Bakery product : Colombia" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1420xx/142026/1416xx/141687/about.en.html))
 - Banana [**&nearr;**](../../../ware/i/142038/about.en.html "Banana (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bn "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141687" title="about: Banana : Colombia" target="_blank">37 documents</a>) ([folder](../../../../folder/wa/1420xx/142038/1416xx/141687/about.en.html))
 - Building material [**&nearr;**](../../../ware/i/142086/about.en.html "Building material (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID22-Bs "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141687" title="about: Building material : Colombia" target="_blank">5 documents</a>) ([folder](../../../../folder/wa/1420xx/142086/1416xx/141687/about.en.html))
+
+### C
+
 - Carbon (soot) [**&nearr;**](../../../ware/i/143123/about.en.html "Carbon (soot) (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB02.01-Ru "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143123,141687" title="about: Carbon (soot) : Colombia" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1431xx/143123/1416xx/141687/about.en.html))
 - Carbonic acid [**&nearr;**](../../../ware/i/143122/about.en.html "Carbonic acid (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13-Sc06 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143122,141687" title="about: Carbonic acid : Colombia" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1431xx/143122/1416xx/141687/about.en.html))
 - Clothing [**&nearr;**](../../../ware/i/142106/about.en.html "Clothing (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Bk "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141687" title="about: Clothing : Colombia" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1421xx/142106/1416xx/141687/about.en.html))
@@ -76,8 +87,17 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - Coir [**&nearr;**](../../../ware/i/143125/about.en.html "Coir (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Nf11 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143125,141687" title="about: Coir : Colombia" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1431xx/143125/1416xx/141687/about.en.html))
 - Construction machinery [**&nearr;**](../../../ware/i/142084/about.en.html "Construction machinery (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID08-Ba "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142084,141687" title="about: Construction machinery : Colombia" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142084/1416xx/141687/about.en.html))
 - Cotton [**&nearr;**](../../../ware/i/142089/about.en.html "Cotton (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bw "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141687" title="about: Cotton : Colombia" target="_blank">37 documents</a>) ([folder](../../../../folder/wa/1420xx/142089/1416xx/141687/about.en.html))
+
+### E
+
 - Excavator [**&nearr;**](../../../ware/i/142028/about.en.html "Excavator (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID09.02-Nf01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142028,141687" title="about: Excavator : Colombia" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142028/1416xx/141687/about.en.html))
+
+### F
+
 - Fittings and hinges [**&nearr;**](../../../ware/i/142113/about.en.html "Fittings and hinges (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID07.03-01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142113,141687" title="about: Fittings and hinges : Colombia" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1421xx/142113/1416xx/141687/about.en.html))
+
+### P
+
 - Petrol [**&nearr;**](../../../ware/i/142108/about.en.html "Petrol (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13.02-Ks02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141687" title="about: Petrol : Colombia" target="_blank">4 documents</a>) ([folder](../../../../folder/wa/1421xx/142108/1416xx/141687/about.en.html))
 
 

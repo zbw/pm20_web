@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Halfah grass&#160; 
+# Halfah grass &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q831011) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Stipa_tenacissima)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141957`</div>
 
 
 

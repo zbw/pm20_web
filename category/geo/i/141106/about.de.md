@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B19]{.gray}&#8201; Rhodos und Dodekanes&#160; 
+# [B19]{.gray}&#8201; Rhodos und Dodekanes &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q131555) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Dodekanes)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141106`</div>
 
-> Scope Note: ab 15.04.1926, Dodekanes: griechische Inselgruppe des Mittelmeers in der östlichen Ägäis
-
+<div class="hint">
+Scope Note: ab 15.04.1926, Dodekanes: griechische Inselgruppe des Mittelmeers in der östlichen Ägäis
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -157,6 +159,9 @@ Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfil
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
 
+
+
+### A
 
 - Aprikose [**&nearr;**](../../../ware/i/142001/about.de.html "Aprikose (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142001,141106" title="über: Aprikose : Rhodos und Dodekanes" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142001/1411xx/141106/about.de.html))
 

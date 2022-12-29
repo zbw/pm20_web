@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n27 Sm7]{.gray}&#8201; Agricultural cooperatives&#160; 
+# [n27 Sm7]{.gray}&#8201; Agricultural cooperatives &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711084)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145507`</div>
 
 
 

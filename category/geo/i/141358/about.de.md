@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C25]{.gray}&#8201; Französisch-Marokko&#160; 
+# [C25]{.gray}&#8201; Französisch-Marokko &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q907234) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Franz%C3%B6sisch-Marokko)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141358`</div>
 
 
 
@@ -385,6 +387,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Absinth [**&nearr;**](../../../ware/i/141943/about.de.html "Absinth (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141943,141358" title="über: Absinth : Französisch-Marokko" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141943/1413xx/141358/about.de.html))
 - Agrumen [**&nearr;**](../../../ware/i/141948/about.de.html "Agrumen (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141358" title="über: Agrumen : Französisch-Marokko" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1413xx/141358/about.de.html))
 - Akazienrinde [**&nearr;**](../../../ware/i/141950/about.de.html "Akazienrinde (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW06-Fp01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141950,141358" title="über: Akazienrinde : Französisch-Marokko" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141950/1413xx/141358/about.de.html))
@@ -395,6 +400,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Aluminium [**&nearr;**](../../../ware/i/141969/about.de.html "Aluminium (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,141358" title="über: Aluminium : Französisch-Marokko" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141969/1413xx/141358/about.de.html))
 - Aprikose [**&nearr;**](../../../ware/i/142001/about.de.html "Aprikose (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142001,141358" title="über: Aprikose : Französisch-Marokko" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142001/1413xx/141358/about.de.html))
 - Auster [**&nearr;**](../../../ware/i/142019/about.de.html "Auster (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW07-Mt02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142019,141358" title="über: Auster : Französisch-Marokko" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142019/1413xx/141358/about.de.html))
+
+### B
+
 - Backwaren [**&nearr;**](../../../ware/i/142026/about.de.html "Backwaren (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141358" title="über: Backwaren : Französisch-Marokko" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142026/1413xx/141358/about.de.html))
 - Banane [**&nearr;**](../../../ware/i/142038/about.de.html "Banane (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bn "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141358" title="über: Banane : Französisch-Marokko" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142038/1413xx/141358/about.de.html))
 - Baumaschine [**&nearr;**](../../../ware/i/142084/about.de.html "Baumaschine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142084,141358" title="über: Baumaschine : Französisch-Marokko" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142084/1413xx/141358/about.de.html))
@@ -404,6 +412,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Bekleidung [**&nearr;**](../../../ware/i/142106/about.de.html "Bekleidung (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bk "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141358" title="über: Bekleidung : Französisch-Marokko" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142106/1413xx/141358/about.de.html))
 - Benzin [**&nearr;**](../../../ware/i/142108/about.de.html "Benzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141358" title="über: Benzin : Französisch-Marokko" target="_blank">9 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1413xx/141358/about.de.html))
 - Bergbaumaschine [**&nearr;**](../../../ware/i/142112/about.de.html "Bergbaumaschine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Bg "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142112,141358" title="über: Bergbaumaschine : Französisch-Marokko" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142112/1413xx/141358/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141358" title="über: Kohle : Französisch-Marokko" target="_blank">62 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1413xx/141358/about.de.html))
 - Koka, Kokain [**&nearr;**](../../../ware/i/143124/about.de.html "Koka, Kokain (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID04-Dr05 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,141358" title="über: Koka, Kokain : Französisch-Marokko" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143124/1413xx/141358/about.de.html))
 

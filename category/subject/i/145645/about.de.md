@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n32b]{.gray}&#8201; Schiffsverkehr mit einzelnen Ländern&#160; 
+# [n32b]{.gray}&#8201; Schiffsverkehr mit einzelnen Ländern &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428074)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145645`</div>
 
 
 

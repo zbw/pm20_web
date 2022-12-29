@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [g6]{.gray}&#8201; Interests of foreign states in ..., general&#160; 
+# [g6]{.gray}&#8201; Interests of foreign states in ..., general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427883)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144565`</div>
 
 
 

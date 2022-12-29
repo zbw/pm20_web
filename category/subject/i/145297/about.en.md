@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n21 Sm1]{.gray}&#8201; Theater and music&#160; 
+# [n21 Sm1]{.gray}&#8201; Theater and music &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710960)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145297`</div>
 
 
 

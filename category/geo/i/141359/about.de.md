@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C26]{.gray}&#8201; Spanisch-Marokko&#160; 
+# [C26]{.gray}&#8201; Spanisch-Marokko &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q457242) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Spanisch-Marokko)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141359`</div>
 
-> Scope Note: Bezeichnung für einen Teil Marokkos, der von 1912 bis 1956 ein spanisches Protektorat war
-
+<div class="hint">
+Scope Note: Bezeichnung für einen Teil Marokkos, der von 1912 bis 1956 ein spanisches Protektorat war
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -236,11 +238,20 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Alfagras [**&nearr;**](../../../ware/i/141957/about.de.html "Alfagras (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Nf018 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141957,141359" title="über: Alfagras : Spanisch-Marokko" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141957/1413xx/141359/about.de.html))
 - Antimon [**&nearr;**](../../../ware/i/141977/about.de.html "Antimon (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Hm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141977,141359" title="über: Antimon : Spanisch-Marokko" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141977/1413xx/141359/about.de.html))
+
+### B
+
 - Backwaren [**&nearr;**](../../../ware/i/142026/about.de.html "Backwaren (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141359" title="über: Backwaren : Spanisch-Marokko" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142026/1413xx/141359/about.de.html))
 - Baumaterial [**&nearr;**](../../../ware/i/142086/about.de.html "Baumaterial (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141359" title="über: Baumaterial : Spanisch-Marokko" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142086/1413xx/141359/about.de.html))
 - Baumwolle [**&nearr;**](../../../ware/i/142089/about.de.html "Baumwolle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bw "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141359" title="über: Baumwolle : Spanisch-Marokko" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142089/1413xx/141359/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141359" title="über: Kohle : Spanisch-Marokko" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1413xx/141359/about.de.html))
 
 

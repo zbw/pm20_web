@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n23 Sm508 (A10)]{.gray}&#8201; Equalization of burdens&#160; 
+# [n23 Sm508 (A10)]{.gray}&#8201; Equalization of burdens &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710986)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/197125`</div>
 
 
 

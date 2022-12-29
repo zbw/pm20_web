@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Baumwollsaat, Baumwollsaatöl&#160; 
+# Baumwollsaat, Baumwollsaatöl &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q811663) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Baumwollsamen%C3%B6l)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142093`</div>
 
 
 

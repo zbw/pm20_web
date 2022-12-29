@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [h Sm1]{.gray}&#8201; Kriegsmassnahmen&#160; 
+# [h Sm1]{.gray}&#8201; Kriegsmassnahmen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700073)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144693`</div>
 
 
 

@@ -10,7 +10,7 @@ fn-stub: about
 # Mappen nach Ländersystematik
 
 
-Insgesamt 303 Systematikstellen,  Sach-Mappen, 2891
+Insgesamt 303 Systematikstellen, 9201 Sach-Mappen, 2891
 Waren-Mappen.
 
 

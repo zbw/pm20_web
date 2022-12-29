@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n34 Sm7.III]{.gray}&#8201; Fernschreiben&#160; 
+# [n34 Sm7.III]{.gray}&#8201; Fernschreiben &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711253)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/199600`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n1 Sm16]{.gray}&#8201; Massnahmen zur Erhaltung der Betriebe und Vermehrung der Arbeitsgelegenheit, Allgemein&#160; 
+# [n1 Sm16]{.gray}&#8201; Massnahmen zur Erhaltung der Betriebe und Vermehrung der Arbeitsgelegenheit, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710404)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144949`</div>
 
 
 

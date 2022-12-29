@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [l Sm11]{.gray}&#8201; Militärstrafrecht, Militärgerichtsbarkeit&#160; 
+# [l Sm11]{.gray}&#8201; Militärstrafrecht, Militärgerichtsbarkeit &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700214)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144798`</div>
 
 
 

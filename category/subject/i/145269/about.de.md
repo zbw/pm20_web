@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n18 Sm6.II]{.gray}&#8201; Usancen und Handelsvorschriften, Handelsmethoden, Einzelne&#160; 
+# [n18 Sm6.II]{.gray}&#8201; Usancen und Handelsvorschriften, Handelsmethoden, Einzelne &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710927)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145269`</div>
 
 
 

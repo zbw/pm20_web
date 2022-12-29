@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [f2.3]{.gray}&#8201; Historical events 1918 - 1939&#160; 
+# [f2.3]{.gray}&#8201; Historical events 1918 - 1939 &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699620)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/181391`</div>
 
 
 

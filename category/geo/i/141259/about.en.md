@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B96]{.gray}&#8201; Tibet&#160; 
+# [B96]{.gray}&#8201; Tibet &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q17252) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Tibet)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141259`</div>
 
 
 

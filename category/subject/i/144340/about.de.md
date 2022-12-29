@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [f2 Sm505 (A10) (alt)]{.gray}&#8201; Ostmark&#160; 
+# [f2 Sm505 (A10) (alt)]{.gray}&#8201; Ostmark &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699610)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144340`</div>
 
 
 

@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A50]{.gray}&#8201; USSR&#160; 
+# [A50]{.gray}&#8201; USSR &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q15180) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Soviet_Union)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141043`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -61,6 +63,9 @@ For material not published as folders, please check the [digitized micro-films](
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 
+
+### A
+
 - Acetone [**&nearr;**](../../../ware/i/142022/about.en.html "Acetone (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13-Ko03 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142022,141043" title="about: Acetone : USSR" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142022/1410xx/141043/about.en.html))
 - Agate [**&nearr;**](../../../ware/i/141944/about.en.html "Agate (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID23-Ed01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141944,141043" title="about: Agate : USSR" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141944/1410xx/141043/about.en.html))
 - Alabaster [**&nearr;**](../../../ware/i/141953/about.en.html "Alabaster (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID23-Gi01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141953,141043" title="about: Alabaster : USSR" target="_blank">11 documents</a>) ([folder](../../../../folder/wa/1419xx/141953/1410xx/141043/about.en.html))
@@ -80,6 +85,9 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - Asbestos [**&nearr;**](../../../ware/i/142014/about.en.html "Asbestos (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID23-As "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,141043" title="about: Asbestos : USSR" target="_blank">143 documents</a>) ([folder](../../../../folder/wa/1420xx/142014/1410xx/141043/about.en.html))
 - Asphalt [**&nearr;**](../../../ware/i/142016/about.en.html "Asphalt (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID22-Bd01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141043" title="about: Asphalt : USSR" target="_blank">27 documents</a>) ([folder](../../../../folder/wa/1420xx/142016/1410xx/141043/about.en.html))
 - Axe, hatchet, hammer [**&nearr;**](../../../ware/i/141947/about.en.html "Axe, hatchet, hammer (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID07.03-Wz01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141947,141043" title="about: Axe, hatchet, hammer : USSR" target="_blank">4 documents</a>) ([folder](../../../../folder/wa/1419xx/141947/1410xx/141043/about.en.html))
+
+### B
+
 - Bakelit [**&nearr;**](../../../ware/i/142029/about.en.html "Bakelit (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID14-Ha01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142029,141043" title="about: Bakelit : USSR" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1420xx/142029/1410xx/141043/about.en.html))
 - Bakery machine [**&nearr;**](../../../ware/i/142027/about.en.html "Bakery machine (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID08-Nm01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142027,141043" title="about: Bakery machine : USSR" target="_blank">6 documents</a>) ([folder](../../../../folder/wa/1420xx/142027/1410xx/141043/about.en.html))
 - Bakery product [**&nearr;**](../../../ware/i/142026/about.en.html "Bakery product (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20-Ba "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141043" title="about: Bakery product : USSR" target="_blank">6 documents</a>) ([folder](../../../../folder/wa/1420xx/142026/1410xx/141043/about.en.html))
@@ -95,6 +103,9 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - Beryllium [**&nearr;**](../../../ware/i/142103/about.en.html "Beryllium (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID07.01-Lm03 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142103,141043" title="about: Beryllium : USSR" target="_blank">8 documents</a>) ([folder](../../../../folder/wa/1421xx/142103/1410xx/141043/about.en.html))
 - Building and insulating panels [**&nearr;**](../../../ware/i/142083/about.en.html "Building and insulating panels (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID22-Bf01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142083,141043" title="about: Building and insulating panels : USSR" target="_blank">9 documents</a>) ([folder](../../../../folder/wa/1420xx/142083/1410xx/141043/about.en.html))
 - Building material [**&nearr;**](../../../ware/i/142086/about.en.html "Building material (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID22-Bs "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141043" title="about: Building material : USSR" target="_blank">438 documents</a>) ([folder](../../../../folder/wa/1420xx/142086/1410xx/141043/about.en.html))
+
+### C
+
 - Cabbage [**&nearr;**](../../../ware/i/143119/about.en.html "Cabbage (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Gm08 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143119,141043" title="about: Cabbage : USSR" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1431xx/143119/1410xx/141043/about.en.html))
 - Carbon (soot) [**&nearr;**](../../../ware/i/143123/about.en.html "Carbon (soot) (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB02.01-Ru "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143123,141043" title="about: Carbon (soot) : USSR" target="_blank">8 documents</a>) ([folder](../../../../folder/wa/1431xx/143123/1410xx/141043/about.en.html))
 - Carbonic acid [**&nearr;**](../../../ware/i/143122/about.en.html "Carbonic acid (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13-Sc06 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143122,141043" title="about: Carbonic acid : USSR" target="_blank">8 documents</a>) ([folder](../../../../folder/wa/1431xx/143122/1410xx/141043/about.en.html))
@@ -113,15 +124,39 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - Cotton industry [**&nearr;**](../../../ware/i/142091/about.en.html "Cotton industry (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Bw01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142091,141043" title="about: Cotton industry : USSR" target="_blank">85 documents</a>) ([folder](../../../../folder/wa/1420xx/142091/1410xx/141043/about.en.html))
 - Cotton machine [**&nearr;**](../../../ware/i/142092/about.en.html "Cotton machine (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID08-Ld02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142092,141043" title="about: Cotton machine : USSR" target="_blank">14 documents</a>) ([folder](../../../../folder/wa/1420xx/142092/1410xx/141043/about.en.html))
 - Cottonseed, cottonseed oil [**&nearr;**](../../../ware/i/142093/about.en.html "Cottonseed, cottonseed oil (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20-Oe01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142093,141043" title="about: Cottonseed, cottonseed oil : USSR" target="_blank">10 documents</a>) ([folder](../../../../folder/wa/1420xx/142093/1410xx/141043/about.en.html))
+
+### E
+
 - Excavator [**&nearr;**](../../../ware/i/142028/about.en.html "Excavator (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID09.02-Nf01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142028,141043" title="about: Excavator : USSR" target="_blank">36 documents</a>) ([folder](../../../../folder/wa/1420xx/142028/1410xx/141043/about.en.html))
+
+### F
+
 - Fittings (Armature) [**&nearr;**](../../../ware/i/142004/about.en.html "Fittings (Armature) (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID08-Ar "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142004,141043" title="about: Fittings (Armature) : USSR" target="_blank">8 documents</a>) ([folder](../../../../folder/wa/1420xx/142004/1410xx/141043/about.en.html))
+
+### G
+
 - Gaming and vending machines [**&nearr;**](../../../ware/i/142020/about.en.html "Gaming and vending machines (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID08-Au "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142020,141043" title="about: Gaming and vending machines : USSR" target="_blank">8 documents</a>) ([folder](../../../../folder/wa/1420xx/142020/1410xx/141043/about.en.html))
+
+### M
+
 - Mining machine [**&nearr;**](../../../ware/i/142112/about.en.html "Mining machine (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID08-Bg "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142112,141043" title="about: Mining machine : USSR" target="_blank">41 documents</a>) ([folder](../../../../folder/wa/1421xx/142112/1410xx/141043/about.en.html))
+
+### O
+
 - Orange [**&nearr;**](../../../ware/i/141981/about.en.html "Orange (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Zs01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,141043" title="about: Orange : USSR" target="_blank">10 documents</a>) ([folder](../../../../folder/wa/1419xx/141981/1410xx/141043/about.en.html))
 - Oyster [**&nearr;**](../../../ware/i/142019/about.en.html "Oyster (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW07-Mt02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142019,141043" title="about: Oyster : USSR" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142019/1410xx/141043/about.en.html))
+
+### P
+
 - Petrol [**&nearr;**](../../../ware/i/142108/about.en.html "Petrol (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13.02-Ks02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141043" title="about: Petrol : USSR" target="_blank">174 documents</a>) ([folder](../../../../folder/wa/1421xx/142108/1410xx/141043/about.en.html))
 - Pineapple [**&nearr;**](../../../ware/i/141970/about.en.html "Pineapple (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Tr01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141970,141043" title="about: Pineapple : USSR" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1419xx/141970/1410xx/141043/about.en.html))
+
+### T
+
 - Trailer [**&nearr;**](../../../ware/i/141974/about.en.html "Trailer (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID09.02-Kf "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141974,141043" title="about: Trailer : USSR" target="_blank">6 documents</a>) ([folder](../../../../folder/wa/1419xx/141974/1410xx/141043/about.en.html))
+
+### W
+
 - Waste and scrap [**&nearr;**](../../../ware/i/141942/about.en.html "Waste and scrap (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB01-01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141942,141043" title="about: Waste and scrap : USSR" target="_blank">5 documents</a>) ([folder](../../../../folder/wa/1419xx/141942/1410xx/141043/about.en.html))
 
 

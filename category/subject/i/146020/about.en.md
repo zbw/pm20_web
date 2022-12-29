@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [q Sm501 (C87)]{.gray}&#8201; Boers in Angola&#160; 
+# [q Sm501 (C87)]{.gray}&#8201; Boers in Angola &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711421)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/146020`</div>
 
 
 

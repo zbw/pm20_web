@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n3a]{.gray}&#8201; Bodenbesitzverhältnisse und Bodenpolitik, Hausbesitz, in einzelnen Regionen&#160; 
+# [n3a]{.gray}&#8201; Bodenbesitzverhältnisse und Bodenpolitik, Hausbesitz, in einzelnen Regionen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428022)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145047`</div>
 
-> Scope Note: Bundesstaaten, Provinzen und Kommunen
-
+<div class="hint">
+Scope Note: Bundesstaaten, Provinzen und Kommunen
+</div>
 
 
 

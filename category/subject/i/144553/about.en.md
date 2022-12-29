@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [g4a Sm24]{.gray}&#8201; Commercial travelers and samples&#160; 
+# [g4a Sm24]{.gray}&#8201; Commercial travelers and samples &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700055)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144553`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n Sm8.II]{.gray}&#8201; Standardization of industrial products&#160; 
+# [n Sm8.II]{.gray}&#8201; Standardization of industrial products &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700368)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145791`</div>
 
 
 

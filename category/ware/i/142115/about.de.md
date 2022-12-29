@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Betäubungsmittel&#160; 
+# Betäubungsmittel &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q850692) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Bet%C3%A4ubungsmittel)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142115`</div>
 
 
 

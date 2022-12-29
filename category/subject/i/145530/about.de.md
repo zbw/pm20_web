@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n29b]{.gray}&#8201; Strassenverbindung mit einzelnen Ländern&#160; 
+# [n29b]{.gray}&#8201; Strassenverbindung mit einzelnen Ländern &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428064)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145530`</div>
 
 
 

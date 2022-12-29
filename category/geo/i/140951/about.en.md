@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A10p]{.gray}&#8201; East Upper Silesia&#160; 
+# [A10p]{.gray}&#8201; East Upper Silesia &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q2035812) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/East_Upper_Silesia)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140951`</div>
 
 
 

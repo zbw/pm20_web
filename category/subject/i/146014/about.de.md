@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [q Sm501 (B23)]{.gray}&#8201; Mossulfrage&#160; 
+# [q Sm501 (B23)]{.gray}&#8201; Mossulfrage &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711419)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/146014`</div>
 
-> Scope Note: 1918-1926
-
+<div class="hint">
+Scope Note: 1918-1926
+</div>
 
 
 

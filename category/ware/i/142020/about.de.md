@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Automat&#160; 
+# Automat &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q211584) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Verkaufsautomat)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142020`</div>
 
 
 

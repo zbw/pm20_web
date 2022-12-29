@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [k2 Sm6]{.gray}&#8201; Regulations for foreign schools in ...&#160; 
+# [k2 Sm6]{.gray}&#8201; Regulations for foreign schools in ... &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700199)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144745`</div>
 
 
 

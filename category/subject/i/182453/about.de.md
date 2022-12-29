@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [f2.3.2]{.gray}&#8201; Geschichtliche Vorgänge 1933-1939 (Nationalsozialismus)&#160; 
+# [f2.3.2]{.gray}&#8201; Geschichtliche Vorgänge 1933-1939 (Nationalsozialismus) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699623)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/182453`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A32]{.gray}&#8201; Portugal&#160; 
+# [A32]{.gray}&#8201; Portugal &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q45) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Portugal)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140987`</div>
 
 
 
@@ -61,6 +63,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Agrumen [**&nearr;**](../../../ware/i/141948/about.de.html "Agrumen (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,140987" title="über: Agrumen : Portugal" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1409xx/140987/about.de.html))
 - Algen und Seetang [**&nearr;**](../../../ware/i/141959/about.de.html "Algen und Seetang (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW07-Mp01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141959,140987" title="über: Algen und Seetang : Portugal" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141959/1409xx/140987/about.de.html))
 - Alkohol (Chemie) [**&nearr;**](../../../ware/i/163481/about.de.html "Alkohol (Chemie) (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/163481,140987" title="über: Alkohol (Chemie) : Portugal" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1634xx/163481/1409xx/140987/about.de.html))
@@ -76,6 +81,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Asbest [**&nearr;**](../../../ware/i/142014/about.de.html "Asbest (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID23-As "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,140987" title="über: Asbest : Portugal" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142014/1409xx/140987/about.de.html))
 - Asphalt [**&nearr;**](../../../ware/i/142016/about.de.html "Asphalt (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bd01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,140987" title="über: Asphalt : Portugal" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142016/1409xx/140987/about.de.html))
 - Auster [**&nearr;**](../../../ware/i/142019/about.de.html "Auster (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW07-Mt02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142019,140987" title="über: Auster : Portugal" target="_blank">10 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142019/1409xx/140987/about.de.html))
+
+### B
+
 - Backwaren [**&nearr;**](../../../ware/i/142026/about.de.html "Backwaren (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,140987" title="über: Backwaren : Portugal" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142026/1409xx/140987/about.de.html))
 - Bakelit [**&nearr;**](../../../ware/i/142029/about.de.html "Bakelit (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID14-Ha01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142029,140987" title="über: Bakelit : Portugal" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142029/1409xx/140987/about.de.html))
 - Banane [**&nearr;**](../../../ware/i/142038/about.de.html "Banane (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bn "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,140987" title="über: Banane : Portugal" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142038/1409xx/140987/about.de.html))
@@ -89,6 +97,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Bekleidung [**&nearr;**](../../../ware/i/142106/about.de.html "Bekleidung (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bk "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,140987" title="über: Bekleidung : Portugal" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142106/1409xx/140987/about.de.html))
 - Benzin [**&nearr;**](../../../ware/i/142108/about.de.html "Benzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,140987" title="über: Benzin : Portugal" target="_blank">26 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1409xx/140987/about.de.html))
 - Bernstein [**&nearr;**](../../../ware/i/142111/about.de.html "Bernstein (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID04-Sc01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142111,140987" title="über: Bernstein : Portugal" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142111/1409xx/140987/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,140987" title="über: Kohle : Portugal" target="_blank">139 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1409xx/140987/about.de.html))
 - Koka, Kokain [**&nearr;**](../../../ware/i/143124/about.de.html "Koka, Kokain (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID04-Dr05 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,140987" title="über: Koka, Kokain : Portugal" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143124/1409xx/140987/about.de.html))
 

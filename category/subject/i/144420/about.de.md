@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [f5a]{.gray}&#8201; Einzelne Parteien und Parteigruppen&#160; 
+# [f5a]{.gray}&#8201; Einzelne Parteien und Parteigruppen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427869)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144420`</div>
 
-> Scope Note: Ab 1945 geändert in: Einzelne Parteien. Einzelne politische Organisationen
-
+<div class="hint">
+Scope Note: Ab 1945 geändert in: Einzelne Parteien. Einzelne politische Organisationen
+</div>
 
 
 

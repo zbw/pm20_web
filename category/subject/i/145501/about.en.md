@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n27 Sm1]{.gray}&#8201; Credit cooperative&#160; 
+# [n27 Sm1]{.gray}&#8201; Credit cooperative &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711079)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145501`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n20 III b]{.gray}&#8201; Ratenkauf (Einzelhandel), Teilzahlungskredit (Einzelhandel), Mietkauf (Einzelhandel)&#160; 
+# [n20 III b]{.gray}&#8201; Ratenkauf (Einzelhandel), Teilzahlungskredit (Einzelhandel), Mietkauf (Einzelhandel) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710949)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/182107`</div>
 
 
 

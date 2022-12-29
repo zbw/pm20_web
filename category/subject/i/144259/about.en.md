@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [d Sm1]{.gray}&#8201; Racism, Nazi eugenics&#160; 
+# [d Sm1]{.gray}&#8201; Racism, Nazi eugenics &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699241)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144259`</div>
 
 
 

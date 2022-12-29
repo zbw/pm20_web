@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [h2 Sm20]{.gray}&#8201; Civil service, conferences&#160; 
+# [h2 Sm20]{.gray}&#8201; Civil service, conferences &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700079)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/214773`</div>
 
 
 

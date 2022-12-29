@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n25 Sm1]{.gray}&#8201; Auswüchse und Bekämpfung der Spekulation&#160; 
+# [n25 Sm1]{.gray}&#8201; Auswüchse und Bekämpfung der Spekulation &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711069)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145487`</div>
 
 
 

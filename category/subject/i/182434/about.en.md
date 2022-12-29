@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [h4 Sm40]{.gray}&#8201; Police, profession and training&#160; 
+# [h4 Sm40]{.gray}&#8201; Police, profession and training &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700087)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/182434`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n2 Sm7]{.gray}&#8201; Capital market overviews, start-ups and capital increases&#160; 
+# [n2 Sm7]{.gray}&#8201; Capital market overviews, start-ups and capital increases &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710419)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144979`</div>
 
 
 

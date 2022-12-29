@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A43]{.gray}&#8201; Ottoman Empire&#160; 
+# [A43]{.gray}&#8201; Ottoman Empire &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q12560) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Ottoman_Empire)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141034`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -240,14 +242,29 @@ For material not published as folders, please check the [digitized micro-films](
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 
+
+### A
+
 - Alcoholic beverage [**&nearr;**](../../../ware/i/141966/about.en.html "Alcoholic beverage (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20.02-Sp "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141034" title="about: Alcoholic beverage : Ottoman Empire" target="_blank">12 documents</a>) ([folder](../../../../folder/wa/1419xx/141966/1410xx/141034/about.en.html))
 - Appliances and instruments [**&nearr;**](../../../ware/i/141985/about.en.html "Appliances and instruments (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID08-Ap "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141985,141034" title="about: Appliances and instruments : Ottoman Empire" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1419xx/141985/1410xx/141034/about.en.html))
+
+### B
+
 - Bakery machine [**&nearr;**](../../../ware/i/142027/about.en.html "Bakery machine (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID08-Nm01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142027,141034" title="about: Bakery machine : Ottoman Empire" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1420xx/142027/1410xx/141034/about.en.html))
 - Bakery product [**&nearr;**](../../../ware/i/142026/about.en.html "Bakery product (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20-Ba "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141034" title="about: Bakery product : Ottoman Empire" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1420xx/142026/1410xx/141034/about.en.html))
+
+### C
+
 - Coal [**&nearr;**](../../../ware/i/143120/about.en.html "Coal (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB02.01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141034" title="about: Coal : Ottoman Empire" target="_blank">30 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1410xx/141034/about.en.html))
 - Coca, cocaine [**&nearr;**](../../../ware/i/143124/about.en.html "Coca, cocaine (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID04-Dr05 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,141034" title="about: Coca, cocaine : Ottoman Empire" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1431xx/143124/1410xx/141034/about.en.html))
 - Cotton [**&nearr;**](../../../ware/i/142089/about.en.html "Cotton (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bw "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141034" title="about: Cotton : Ottoman Empire" target="_blank">14 documents</a>) ([folder](../../../../folder/wa/1420xx/142089/1410xx/141034/about.en.html))
+
+### E
+
 - Eel [**&nearr;**](../../../ware/i/141941/about.en.html "Eel (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW07-Mt01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141941,141034" title="about: Eel : Ottoman Empire" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1419xx/141941/1410xx/141034/about.en.html))
+
+### G
+
 - Gaming and vending machines [**&nearr;**](../../../ware/i/142020/about.en.html "Gaming and vending machines (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID08-Au "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142020,141034" title="about: Gaming and vending machines : Ottoman Empire" target="_blank">7 documents</a>) ([folder](../../../../folder/wa/1420xx/142020/1410xx/141034/about.en.html))
 
 

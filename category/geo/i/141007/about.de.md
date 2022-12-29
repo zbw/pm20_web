@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A34]{.gray}&#8201; Schweiz&#160; 
+# [A34]{.gray}&#8201; Schweiz
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141007`</div>
 
 
 
@@ -32,6 +34,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Aal [**&nearr;**](../../../ware/i/141941/about.de.html "Aal (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW07-Mt01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141941,141007" title="über: Aal : Schweiz" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141941/1410xx/141007/about.de.html))
 - Abfälle und Altmaterial [**&nearr;**](../../../ware/i/141942/about.de.html "Abfälle und Altmaterial (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB01-01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141942,141007" title="über: Abfälle und Altmaterial : Schweiz" target="_blank">14 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141942/1410xx/141007/about.de.html))
 - Absinth [**&nearr;**](../../../ware/i/141943/about.de.html "Absinth (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141943,141007" title="über: Absinth : Schweiz" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141943/1410xx/141007/about.de.html))
@@ -50,6 +55,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Asphalt [**&nearr;**](../../../ware/i/142016/about.de.html "Asphalt (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bd01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141007" title="über: Asphalt : Schweiz" target="_blank">14 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142016/1410xx/141007/about.de.html))
 - Automat [**&nearr;**](../../../ware/i/142020/about.de.html "Automat (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Au "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142020,141007" title="über: Automat : Schweiz" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142020/1410xx/141007/about.de.html))
 - Axt, Beil, Hammer [**&nearr;**](../../../ware/i/141947/about.de.html "Axt, Beil, Hammer (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.03-Wz01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141947,141007" title="über: Axt, Beil, Hammer : Schweiz" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141947/1410xx/141007/about.de.html))
+
+### B
+
 - Backwaren [**&nearr;**](../../../ware/i/142026/about.de.html "Backwaren (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141007" title="über: Backwaren : Schweiz" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142026/1410xx/141007/about.de.html))
 - Bagger [**&nearr;**](../../../ware/i/142028/about.de.html "Bagger (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID09.02-Nf01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142028,141007" title="über: Bagger : Schweiz" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142028/1410xx/141007/about.de.html))
 - Bakelit [**&nearr;**](../../../ware/i/142029/about.de.html "Bakelit (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID14-Ha01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142029,141007" title="über: Bakelit : Schweiz" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142029/1410xx/141007/about.de.html))
@@ -67,9 +75,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Benzin [**&nearr;**](../../../ware/i/142108/about.de.html "Benzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141007" title="über: Benzin : Schweiz" target="_blank">219 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1410xx/141007/about.de.html))
 - Benzol [**&nearr;**](../../../ware/i/142110/about.de.html "Benzol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko04 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142110,141007" title="über: Benzol : Schweiz" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142110/1410xx/141007/about.de.html))
 - Bäckereimaschine [**&nearr;**](../../../ware/i/142027/about.de.html "Bäckereimaschine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Nm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142027,141007" title="über: Bäckereimaschine : Schweiz" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142027/1410xx/141007/about.de.html))
+
+### K
+
 - Kohl [**&nearr;**](../../../ware/i/143119/about.de.html "Kohl (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Gm08 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143119,141007" title="über: Kohl : Schweiz" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143119/1410xx/141007/about.de.html))
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141007" title="über: Kohle : Schweiz" target="_blank">417 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1410xx/141007/about.de.html))
 - Koka, Kokain [**&nearr;**](../../../ware/i/143124/about.de.html "Koka, Kokain (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID04-Dr05 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,141007" title="über: Koka, Kokain : Schweiz" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143124/1410xx/141007/about.de.html))
+
+### Ä
+
 - Äther [**&nearr;**](../../../ware/i/141945/about.de.html "Äther (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141945,141007" title="über: Äther : Schweiz" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141945/1410xx/141007/about.de.html))
 - Äthylbenzin [**&nearr;**](../../../ware/i/141946/about.de.html "Äthylbenzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141946,141007" title="über: Äthylbenzin : Schweiz" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141946/1410xx/141007/about.de.html))
 

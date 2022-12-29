@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n Sm35]{.gray}&#8201; Zeitrechnung&#160; 
+# [n Sm35]{.gray}&#8201; Zeitrechnung &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710351)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145831`</div>
 
 
 

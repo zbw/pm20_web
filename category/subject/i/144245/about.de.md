@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [d7 Sm3]{.gray}&#8201; Buddhismus&#160; 
+# [d7 Sm3]{.gray}&#8201; Buddhismus &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699269)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144245`</div>
 
 
 

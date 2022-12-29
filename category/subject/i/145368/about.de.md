@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n24 Sm9.I]{.gray}&#8201; Sammelausweise und Sammelabschlüsse von Banken und Sparkassen (Statistiken), Allgemein&#160; 
+# [n24 Sm9.I]{.gray}&#8201; Sammelausweise und Sammelabschlüsse von Banken und Sparkassen (Statistiken), Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711005)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145368`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n24 Sm47]{.gray}&#8201; Trustee securities, investment of ward money&#160; 
+# [n24 Sm47]{.gray}&#8201; Trustee securities, investment of ward money &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711065)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145419`</div>
 
 
 

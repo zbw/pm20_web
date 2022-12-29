@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n31 Sm50]{.gray}&#8201; Port facilities and their management, organizations&#160; 
+# [n31 Sm50]{.gray}&#8201; Port facilities and their management, organizations &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711147)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/182126`</div>
 
 
 

@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [E88]{.gray}&#8201; La Plata-Staaten&#160; 
+# [E88]{.gray}&#8201; La Plata-Staaten &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q738144) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Vereinigte_Provinzen_des_R%C3%ADo_de_la_Plata)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141693`</div>
 
-> Scope Note: Aus La Plata gingen nach der Unabhängigkeit der spanischen Kolonien die Staaten Argentinien, Bolivien und Paraguay hervor
-
+<div class="hint">
+Scope Note: Aus La Plata gingen nach der Unabhängigkeit der spanischen Kolonien die Staaten Argentinien, Bolivien und Paraguay hervor
+</div>
 
 
 

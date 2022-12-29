@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [g4 Sm6]{.gray}&#8201; State trade credits, guarantees, subsidies, promotion of foreign trade&#160; 
+# [g4 Sm6]{.gray}&#8201; State trade credits, guarantees, subsidies, promotion of foreign trade &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700013)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144487`</div>
 
 
 

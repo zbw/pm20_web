@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Algae and seaweed&#160; 
+# Algae and seaweed &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q237169) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Seaweed)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141959`</div>
 
 
 

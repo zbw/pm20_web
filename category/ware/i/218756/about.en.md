@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Coal dust&#160; 
+# Coal dust &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q1778575) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Coal_dust)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/218756`</div>
 
 
 

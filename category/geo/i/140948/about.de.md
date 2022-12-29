@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A10n(1)]{.gray}&#8201; Oberschlesien (dt.-poln. Abstimmungsgebiet)&#160; 
+# [A10n(1)]{.gray}&#8201; Oberschlesien (dt.-poln. Abstimmungsgebiet) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q81011) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Oberschlesien)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140948`</div>
 
-> Scope Note: bis 1.1.1923.  Plebiszit am 20. März 1921
-
+<div class="hint">
+Scope Note: bis 1.1.1923.  Plebiszit am 20. März 1921
+</div>
 
 
 

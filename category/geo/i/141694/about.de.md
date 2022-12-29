@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [E90]{.gray}&#8201; Falklandinseln&#160; 
+# [E90]{.gray}&#8201; Falklandinseln &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q9648) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Falklandinseln)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141694`</div>
 
-> Scope Note: Inselgruppe im südlichen Atlantik,  britisches Überseegebiet, von Argentinien seit 1833 beansprucht
-
+<div class="hint">
+Scope Note: Inselgruppe im südlichen Atlantik,  britisches Überseegebiet, von Argentinien seit 1833 beansprucht
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -76,6 +78,9 @@ Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfil
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
 
+
+
+### A
 
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141694" title="über: Alkohol : Falklandinseln" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1416xx/141694/about.de.html))
 

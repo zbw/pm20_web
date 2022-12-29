@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [d4 Sm501 (A10)]{.gray}&#8201; Thingstätte&#160; 
+# [d4 Sm501 (A10)]{.gray}&#8201; Thingstätte &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699259)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144232`</div>
 
 
 

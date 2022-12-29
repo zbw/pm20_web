@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C19]{.gray}&#8201; Algeria&#160; 
+# [C19]{.gray}&#8201; Algeria &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q262) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Algeria)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141354`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -123,25 +125,43 @@ For material not published as folders, please check the [digitized micro-films](
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 
+
+### A
+
 - Absinth [**&nearr;**](../../../ware/i/141943/about.en.html "Absinth (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20.02-Sp01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141943,141354" title="about: Absinth : Algeria" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141943/1413xx/141354/about.en.html))
 - Alcoholic beverage [**&nearr;**](../../../ware/i/141966/about.en.html "Alcoholic beverage (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20.02-Sp "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141354" title="about: Alcoholic beverage : Algeria" target="_blank">37 documents</a>) ([folder](../../../../folder/wa/1419xx/141966/1413xx/141354/about.en.html))
 - Algae and seaweed [**&nearr;**](../../../ware/i/141959/about.en.html "Algae and seaweed (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW07-Mp01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141959,141354" title="about: Algae and seaweed : Algeria" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141959/1413xx/141354/about.en.html))
 - Aluminium [**&nearr;**](../../../ware/i/141969/about.en.html "Aluminium (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID07.01-Lm01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,141354" title="about: Aluminium : Algeria" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1419xx/141969/1413xx/141354/about.en.html))
 - Antimony [**&nearr;**](../../../ware/i/141977/about.en.html "Antimony (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID07.01-Hm01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141977,141354" title="about: Antimony : Algeria" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1419xx/141977/1413xx/141354/about.en.html))
 - Artichokes [**&nearr;**](../../../ware/i/142012/about.en.html "Artichokes (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Gm01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142012,141354" title="about: Artichokes : Algeria" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1420xx/142012/1413xx/141354/about.en.html))
+
+### B
+
 - Bamboo [**&nearr;**](../../../ware/i/142035/about.en.html "Bamboo (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Gr02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142035,141354" title="about: Bamboo : Algeria" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1420xx/142035/1413xx/141354/about.en.html))
 - Banana [**&nearr;**](../../../ware/i/142038/about.en.html "Banana (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bn "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141354" title="about: Banana : Algeria" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1420xx/142038/1413xx/141354/about.en.html))
 - Barium [**&nearr;**](../../../ware/i/142042/about.en.html "Barium (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID07.01-Lm02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142042,141354" title="about: Barium : Algeria" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142042/1413xx/141354/about.en.html))
 - Batata [**&nearr;**](../../../ware/i/142049/about.en.html "Batata (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Kf02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142049,141354" title="about: Batata : Algeria" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142049/1413xx/141354/about.en.html))
 - Building material [**&nearr;**](../../../ware/i/142086/about.en.html "Building material (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID22-Bs "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141354" title="about: Building material : Algeria" target="_blank">5 documents</a>) ([folder](../../../../folder/wa/1420xx/142086/1413xx/141354/about.en.html))
+
+### C
+
 - Citrus fruits [**&nearr;**](../../../ware/i/141948/about.en.html "Citrus fruits (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Zs "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141354" title="about: Citrus fruits : Algeria" target="_blank">52 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1413xx/141354/about.en.html))
 - Clothing [**&nearr;**](../../../ware/i/142106/about.en.html "Clothing (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Bk "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141354" title="about: Clothing : Algeria" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1421xx/142106/1413xx/141354/about.en.html))
 - Coal [**&nearr;**](../../../ware/i/143120/about.en.html "Coal (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB02.01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141354" title="about: Coal : Algeria" target="_blank">77 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1413xx/141354/about.en.html))
 - Coir [**&nearr;**](../../../ware/i/143125/about.en.html "Coir (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Nf11 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143125,141354" title="about: Coir : Algeria" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1431xx/143125/1413xx/141354/about.en.html))
 - Cotton [**&nearr;**](../../../ware/i/142089/about.en.html "Cotton (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bw "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141354" title="about: Cotton : Algeria" target="_blank">62 documents</a>) ([folder](../../../../folder/wa/1420xx/142089/1413xx/141354/about.en.html))
+
+### H
+
 - Halfah grass [**&nearr;**](../../../ware/i/141957/about.en.html "Halfah grass (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Nf018 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141957,141354" title="about: Halfah grass : Algeria" target="_blank">42 documents</a>) ([folder](../../../../folder/wa/1419xx/141957/1413xx/141354/about.en.html))
+
+### O
+
 - Orange [**&nearr;**](../../../ware/i/141981/about.en.html "Orange (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Zs01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,141354" title="about: Orange : Algeria" target="_blank">22 documents</a>) ([folder](../../../../folder/wa/1419xx/141981/1413xx/141354/about.en.html))
 - Oyster [**&nearr;**](../../../ware/i/142019/about.en.html "Oyster (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW07-Mt02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142019,141354" title="about: Oyster : Algeria" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1420xx/142019/1413xx/141354/about.en.html))
+
+### P
+
 - Petrol [**&nearr;**](../../../ware/i/142108/about.en.html "Petrol (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13.02-Ks02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141354" title="about: Petrol : Algeria" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1421xx/142108/1413xx/141354/about.en.html))
 
 

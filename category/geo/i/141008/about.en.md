@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A35]{.gray}&#8201; Italy&#160; 
+# [A35]{.gray}&#8201; Italy
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141008`</div>
 
 
 
@@ -32,6 +34,9 @@ For material not published as folders, please check the [digitized micro-films](
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 
+
+### A
+
 - Activated carbon [**&nearr;**](../../../ware/i/141952/about.en.html "Activated carbon (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13-Rm01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141952,141008" title="about: Activated carbon  : Italy" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141952/1410xx/141008/about.en.html))
 - Aether [**&nearr;**](../../../ware/i/141945/about.en.html "Aether (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13-Ko01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141945,141008" title="about: Aether : Italy" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141945/1410xx/141008/about.en.html))
 - Alabaster [**&nearr;**](../../../ware/i/141953/about.en.html "Alabaster (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID23-Gi01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141953,141008" title="about: Alabaster : Italy" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1419xx/141953/1410xx/141008/about.en.html))
@@ -51,6 +56,9 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - Asbestos [**&nearr;**](../../../ware/i/142014/about.en.html "Asbestos (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID23-As "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,141008" title="about: Asbestos : Italy" target="_blank">25 documents</a>) ([folder](../../../../folder/wa/1420xx/142014/1410xx/141008/about.en.html))
 - Asphalt [**&nearr;**](../../../ware/i/142016/about.en.html "Asphalt (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID22-Bd01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141008" title="about: Asphalt : Italy" target="_blank">28 documents</a>) ([folder](../../../../folder/wa/1420xx/142016/1410xx/141008/about.en.html))
 - Avocate pear [**&nearr;**](../../../ware/i/142021/about.en.html "Avocate pear (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Ob02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142021,141008" title="about: Avocate pear : Italy" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142021/1410xx/141008/about.en.html))
+
+### B
+
 - Babassu nut [**&nearr;**](../../../ware/i/142023/about.en.html "Babassu nut (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Nu01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142023,141008" title="about: Babassu nut : Italy" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142023/1410xx/141008/about.en.html))
 - Bakelit [**&nearr;**](../../../ware/i/142029/about.en.html "Bakelit (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID14-Ha01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142029,141008" title="about: Bakelit : Italy" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142029/1410xx/141008/about.en.html))
 - Bakery machine [**&nearr;**](../../../ware/i/142027/about.en.html "Bakery machine (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID08-Nm01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142027,141008" title="about: Bakery machine : Italy" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1420xx/142027/1410xx/141008/about.en.html))
@@ -63,6 +71,9 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - Beryllium [**&nearr;**](../../../ware/i/142103/about.en.html "Beryllium (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID07.01-Lm03 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142103,141008" title="about: Beryllium : Italy" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1421xx/142103/1410xx/141008/about.en.html))
 - Building and insulating panels [**&nearr;**](../../../ware/i/142083/about.en.html "Building and insulating panels (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID22-Bf01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142083,141008" title="about: Building and insulating panels : Italy" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1420xx/142083/1410xx/141008/about.en.html))
 - Building material [**&nearr;**](../../../ware/i/142086/about.en.html "Building material (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID22-Bs "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141008" title="about: Building material : Italy" target="_blank">55 documents</a>) ([folder](../../../../folder/wa/1420xx/142086/1410xx/141008/about.en.html))
+
+### C
+
 - Cabbage [**&nearr;**](../../../ware/i/143119/about.en.html "Cabbage (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Gm08 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143119,141008" title="about: Cabbage : Italy" target="_blank">29 documents</a>) ([folder](../../../../folder/wa/1431xx/143119/1410xx/141008/about.en.html))
 - Carbon (soot) [**&nearr;**](../../../ware/i/143123/about.en.html "Carbon (soot) (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB02.01-Ru "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143123,141008" title="about: Carbon (soot) : Italy" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1431xx/143123/1410xx/141008/about.en.html))
 - Carbonic acid [**&nearr;**](../../../ware/i/143122/about.en.html "Carbonic acid (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13-Sc06 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143122,141008" title="about: Carbonic acid : Italy" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1431xx/143122/1410xx/141008/about.en.html))
@@ -79,13 +90,31 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - Cotton textiles [**&nearr;**](../../../ware/i/154932/about.en.html "Cotton textiles (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Bw02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/154932,141008" title="about: Cotton textiles : Italy" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1549xx/154932/1410xx/141008/about.en.html))
 - Cotton yarn [**&nearr;**](../../../ware/i/196460/about.en.html "Cotton yarn (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Nf02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/196460,141008" title="about: Cotton yarn : Italy" target="_blank">16 documents</a>) ([folder](../../../../folder/wa/1964xx/196460/1410xx/141008/about.en.html))
 - Cottonseed, cottonseed oil [**&nearr;**](../../../ware/i/142093/about.en.html "Cottonseed, cottonseed oil (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20-Oe01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142093,141008" title="about: Cottonseed, cottonseed oil : Italy" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1420xx/142093/1410xx/141008/about.en.html))
+
+### F
+
 - Fittings (Armature) [**&nearr;**](../../../ware/i/142004/about.en.html "Fittings (Armature) (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID08-Ar "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142004,141008" title="about: Fittings (Armature) : Italy" target="_blank">5 documents</a>) ([folder](../../../../folder/wa/1420xx/142004/1410xx/141008/about.en.html))
+
+### G
+
 - Gaming and vending machines [**&nearr;**](../../../ware/i/142020/about.en.html "Gaming and vending machines (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID08-Au "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142020,141008" title="about: Gaming and vending machines : Italy" target="_blank">5 documents</a>) ([folder](../../../../folder/wa/1420xx/142020/1410xx/141008/about.en.html))
+
+### H
+
 - Halfah grass [**&nearr;**](../../../ware/i/141957/about.en.html "Halfah grass (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Nf018 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141957,141008" title="about: Halfah grass : Italy" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1419xx/141957/1410xx/141008/about.en.html))
+
+### O
+
 - Orange [**&nearr;**](../../../ware/i/141981/about.en.html "Orange (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Zs01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,141008" title="about: Orange : Italy" target="_blank">21 documents</a>) ([folder](../../../../folder/wa/1419xx/141981/1410xx/141008/about.en.html))
 - Oyster [**&nearr;**](../../../ware/i/142019/about.en.html "Oyster (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW07-Mt02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142019,141008" title="about: Oyster : Italy" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142019/1410xx/141008/about.en.html))
+
+### P
+
 - Petrol [**&nearr;**](../../../ware/i/142108/about.en.html "Petrol (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13.02-Ks02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141008" title="about: Petrol : Italy" target="_blank">155 documents</a>) ([folder](../../../../folder/wa/1421xx/142108/1410xx/141008/about.en.html))
 - Pineapple [**&nearr;**](../../../ware/i/141970/about.en.html "Pineapple (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Tr01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141970,141008" title="about: Pineapple : Italy" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141970/1410xx/141008/about.en.html))
+
+### W
+
 - Waste and scrap [**&nearr;**](../../../ware/i/141942/about.en.html "Waste and scrap (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB01-01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141942,141008" title="about: Waste and scrap : Italy" target="_blank">15 documents</a>) ([folder](../../../../folder/wa/1419xx/141942/1410xx/141008/about.en.html))
 
 

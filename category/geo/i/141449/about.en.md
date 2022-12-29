@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C85]{.gray}&#8201; Portuguese Angola&#160; 
+# [C85]{.gray}&#8201; Portuguese Angola &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q916) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Angola)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141449`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -71,18 +73,36 @@ For material not published as folders, please check the [digitized micro-films](
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 
+
+### A
+
 - Alcoholic beverage [**&nearr;**](../../../ware/i/141966/about.en.html "Alcoholic beverage (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20.02-Sp "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141449" title="about: Alcoholic beverage : Portuguese Angola" target="_blank">18 documents</a>) ([folder](../../../../folder/wa/1419xx/141966/1414xx/141449/about.en.html))
 - Apple [**&nearr;**](../../../ware/i/141980/about.en.html "Apple (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Ob01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141980,141449" title="about: Apple : Portuguese Angola" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141980/1414xx/141449/about.en.html))
 - Asphalt [**&nearr;**](../../../ware/i/142016/about.en.html "Asphalt (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID22-Bd01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141449" title="about: Asphalt : Portuguese Angola" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1420xx/142016/1414xx/141449/about.en.html))
+
+### B
+
 - Building material [**&nearr;**](../../../ware/i/142086/about.en.html "Building material (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID22-Bs "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141449" title="about: Building material : Portuguese Angola" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142086/1414xx/141449/about.en.html))
+
+### C
+
 - Cabbage [**&nearr;**](../../../ware/i/143119/about.en.html "Cabbage (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Gm08 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143119,141449" title="about: Cabbage : Portuguese Angola" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1431xx/143119/1414xx/141449/about.en.html))
 - Citrus fruits [**&nearr;**](../../../ware/i/141948/about.en.html "Citrus fruits (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Zs "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141449" title="about: Citrus fruits : Portuguese Angola" target="_blank">5 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1414xx/141449/about.en.html))
 - Clothing [**&nearr;**](../../../ware/i/142106/about.en.html "Clothing (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Bk "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141449" title="about: Clothing : Portuguese Angola" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1421xx/142106/1414xx/141449/about.en.html))
 - Coal [**&nearr;**](../../../ware/i/143120/about.en.html "Coal (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB02.01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141449" title="about: Coal : Portuguese Angola" target="_blank">13 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1414xx/141449/about.en.html))
 - Cotton [**&nearr;**](../../../ware/i/142089/about.en.html "Cotton (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bw "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141449" title="about: Cotton : Portuguese Angola" target="_blank">125 documents</a>) ([folder](../../../../folder/wa/1420xx/142089/1414xx/141449/about.en.html))
+
+### O
+
 - Orange [**&nearr;**](../../../ware/i/141981/about.en.html "Orange (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Zs01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,141449" title="about: Orange : Portuguese Angola" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1419xx/141981/1414xx/141449/about.en.html))
+
+### P
+
 - Petrol [**&nearr;**](../../../ware/i/142108/about.en.html "Petrol (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13.02-Ks02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141449" title="about: Petrol : Portuguese Angola" target="_blank">5 documents</a>) ([folder](../../../../folder/wa/1421xx/142108/1414xx/141449/about.en.html))
 - Pineapple [**&nearr;**](../../../ware/i/141970/about.en.html "Pineapple (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Tr01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141970,141449" title="about: Pineapple : Portuguese Angola" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141970/1414xx/141449/about.en.html))
+
+### W
+
 - Waste and scrap [**&nearr;**](../../../ware/i/141942/about.en.html "Waste and scrap (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB01-01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141942,141449" title="about: Waste and scrap : Portuguese Angola" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1419xx/141942/1414xx/141449/about.en.html))
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C33]{.gray}&#8201; Elfenbeinküste&#160; 
+# [C33]{.gray}&#8201; Elfenbeinküste
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141367`</div>
 
 
 
@@ -31,6 +33,9 @@ Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfil
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
 
+
+
+### A
 
 - Akazienrinde [**&nearr;**](../../../ware/i/141950/about.de.html "Akazienrinde (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW06-Fp01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141950,141367" title="über: Akazienrinde : Elfenbeinküste" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141950/1413xx/141367/about.de.html))
 

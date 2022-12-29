@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Asclepiasfaser&#160; 
+# Asclepiasfaser &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q162153) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Seidenpflanzen)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142013`</div>
 
-> Scope Note: (einschl.: Pflanzenseide, Akon, künstliche Baumwolle, Calotropis Procera, Milkweeds, Asclepias syriaca, Gewöhnliche Seidenpflanze,)
-
+<div class="hint">
+Scope Note: (einschl.: Pflanzenseide, Akon, künstliche Baumwolle, Calotropis Procera, Milkweeds, Asclepias syriaca, Gewöhnliche Seidenpflanze,)
+</div>
 
 
 

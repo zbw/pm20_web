@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n35 Sm23]{.gray}&#8201; Regelung des Luftverkehrs&#160; 
+# [n35 Sm23]{.gray}&#8201; Regelung des Luftverkehrs &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711276)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145696`</div>
 
 
 

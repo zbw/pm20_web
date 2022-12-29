@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [q Sm501 (A1)]{.gray}&#8201; The little entente&#160; 
+# [q Sm501 (A1)]{.gray}&#8201; The little entente &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711414)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145993`</div>
 
 
 

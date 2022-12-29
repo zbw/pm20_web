@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [m2 Sm1]{.gray}&#8201; Zolltarif&#160; 
+# [m2 Sm1]{.gray}&#8201; Zolltarif &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700302)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/163275`</div>
 
 
 

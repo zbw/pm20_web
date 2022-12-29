@@ -18,7 +18,7 @@ Das Warenarchiv war primär nach Warenarten gegliedert, sekundär nach Ländern
 (oder "Welt" für Übergreifendes). Bei umfangreicheren Warenmappen gab es
 innerhalb der Mappe eine [systematische Aufteilung
 (pdf)](https://pm20.zbw.eu/doc/hwwa/ware/warenarchiv_1908-1945_schemata.pdf),
-die in den elektronischen Mappen nicht abgebildet ist. 
+die in den elektronischen Mappen nicht abgebildet ist.
 
 Nur grob geschätzt ein Achtel des digitalisierten Bestandes des
 Warenarchivs bis 1949 ist in Mappen erschlossen und hier zugänglich. Viele

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A9]{.gray}&#8201; Hamburg&#160; 
+# [A9]{.gray}&#8201; Hamburg &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q1055) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Hamburg)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140905`</div>
 
 
 
@@ -938,15 +940,24 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Aluminium [**&nearr;**](../../../ware/i/141969/about.de.html "Aluminium (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,140905" title="über: Aluminium : Hamburg" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141969/1409xx/140905/about.de.html))
 - Apfel [**&nearr;**](../../../ware/i/141980/about.de.html "Apfel (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Ob01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141980,140905" title="über: Apfel : Hamburg" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141980/1409xx/140905/about.de.html))
 - Apfelsine [**&nearr;**](../../../ware/i/141981/about.de.html "Apfelsine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,140905" title="über: Apfelsine : Hamburg" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141981/1409xx/140905/about.de.html))
+
+### B
+
 - Banane [**&nearr;**](../../../ware/i/142038/about.de.html "Banane (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bn "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,140905" title="über: Banane : Hamburg" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142038/1409xx/140905/about.de.html))
 - Barometer [**&nearr;**](../../../ware/i/142039/about.de.html "Barometer (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Ap01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142039,140905" title="über: Barometer : Hamburg" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142039/1409xx/140905/about.de.html))
 - Baumaterial [**&nearr;**](../../../ware/i/142086/about.de.html "Baumaterial (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,140905" title="über: Baumaterial : Hamburg" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142086/1409xx/140905/about.de.html))
 - Bekleidung [**&nearr;**](../../../ware/i/142106/about.de.html "Bekleidung (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bk "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,140905" title="über: Bekleidung : Hamburg" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142106/1409xx/140905/about.de.html))
 - Bernstein [**&nearr;**](../../../ware/i/142111/about.de.html "Bernstein (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID04-Sc01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142111,140905" title="über: Bernstein : Hamburg" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142111/1409xx/140905/about.de.html))
 - Betäubungsmittel [**&nearr;**](../../../ware/i/142115/about.de.html "Betäubungsmittel (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID04-Dr "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142115,140905" title="über: Betäubungsmittel : Hamburg" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142115/1409xx/140905/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,140905" title="über: Kohle : Hamburg" target="_blank">26 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1409xx/140905/about.de.html))
 
 

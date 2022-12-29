@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [g4 Sm3.II]{.gray}&#8201; Staatliche Wirtschaftspropaganda, Ausstellungen und Messen, Allgemein&#160; 
+# [g4 Sm3.II]{.gray}&#8201; Staatliche Wirtschaftspropaganda, Ausstellungen und Messen, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700005)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144483`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n15 Sm23]{.gray}&#8201; Factory workers, general&#160; 
+# [n15 Sm23]{.gray}&#8201; Factory workers, general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710733)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145190`</div>
 
 
 

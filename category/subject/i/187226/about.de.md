@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [k Sm7.II]{.gray}&#8201; Einzelne Stiftungen von Personen, Firmen, Körperschaften&#160; 
+# [k Sm7.II]{.gray}&#8201; Einzelne Stiftungen von Personen, Firmen, Körperschaften &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700157)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/187226`</div>
 
 
 

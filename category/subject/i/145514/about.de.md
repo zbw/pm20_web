@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n28 Sm3.II]{.gray}&#8201; Kommunales Verkehrswesen, in einzelne Städten oder Stadtteilen&#160; 
+# [n28 Sm3.II]{.gray}&#8201; Kommunales Verkehrswesen, in einzelne Städten oder Stadtteilen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711092)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145514`</div>
 
 
 

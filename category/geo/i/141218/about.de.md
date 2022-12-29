@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B62]{.gray}&#8201; Indonesien&#160; 
+# [B62]{.gray}&#8201; Indonesien
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141218`</div>
 
 
 
@@ -32,6 +34,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Abfälle und Altmaterial [**&nearr;**](../../../ware/i/141942/about.de.html "Abfälle und Altmaterial (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB01-01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141942,141218" title="über: Abfälle und Altmaterial : Indonesien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141942/1412xx/141218/about.de.html))
 - Absinth [**&nearr;**](../../../ware/i/141943/about.de.html "Absinth (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141943,141218" title="über: Absinth : Indonesien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141943/1412xx/141218/about.de.html))
 - Akazienrinde [**&nearr;**](../../../ware/i/141950/about.de.html "Akazienrinde (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW06-Fp01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141950,141218" title="über: Akazienrinde : Indonesien" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141950/1412xx/141218/about.de.html))
@@ -47,6 +52,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Arrowroot (Tacca) [**&nearr;**](../../../ware/i/142005/about.de.html "Arrowroot (Tacca) (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Kf01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142005,141218" title="über: Arrowroot (Tacca) : Indonesien" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142005/1412xx/141218/about.de.html))
 - Arsen [**&nearr;**](../../../ware/i/142006/about.de.html "Arsen (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Hm02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142006,141218" title="über: Arsen : Indonesien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142006/1412xx/141218/about.de.html))
 - Asphalt [**&nearr;**](../../../ware/i/142016/about.de.html "Asphalt (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bd01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141218" title="über: Asphalt : Indonesien" target="_blank">10 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142016/1412xx/141218/about.de.html))
+
+### B
+
 - Backwaren [**&nearr;**](../../../ware/i/142026/about.de.html "Backwaren (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141218" title="über: Backwaren : Indonesien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142026/1412xx/141218/about.de.html))
 - Bagger [**&nearr;**](../../../ware/i/142028/about.de.html "Bagger (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID09.02-Nf01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142028,141218" title="über: Bagger : Indonesien" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142028/1412xx/141218/about.de.html))
 - Bambus [**&nearr;**](../../../ware/i/142035/about.de.html "Bambus (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Gr02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142035,141218" title="über: Bambus : Indonesien" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142035/1412xx/141218/about.de.html))
@@ -58,6 +66,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Baumwollindustrie [**&nearr;**](../../../ware/i/142091/about.de.html "Baumwollindustrie (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bw01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142091,141218" title="über: Baumwollindustrie : Indonesien" target="_blank">22 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142091/1412xx/141218/about.de.html))
 - Baumwolltextilien [**&nearr;**](../../../ware/i/154932/about.de.html "Baumwolltextilien (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bw02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/154932,141218" title="über: Baumwolltextilien : Indonesien" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1549xx/154932/1412xx/141218/about.de.html))
 - Benzin [**&nearr;**](../../../ware/i/142108/about.de.html "Benzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141218" title="über: Benzin : Indonesien" target="_blank">26 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1412xx/141218/about.de.html))
+
+### K
+
 - Kohl [**&nearr;**](../../../ware/i/143119/about.de.html "Kohl (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Gm08 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143119,141218" title="über: Kohl : Indonesien" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143119/1412xx/141218/about.de.html))
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141218" title="über: Kohle : Indonesien" target="_blank">108 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1412xx/141218/about.de.html))
 - Koka, Kokain [**&nearr;**](../../../ware/i/143124/about.de.html "Koka, Kokain (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID04-Dr05 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,141218" title="über: Koka, Kokain : Indonesien" target="_blank">15 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143124/1412xx/141218/about.de.html))

@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [D14]{.gray}&#8201; Palau Islands&#160; 
+# [D14]{.gray}&#8201; Palau Islands &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q1588974) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Palauinseln)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141614`</div>
 
-> Scope Note: bis 30.6.1919, dann unter Japanische Mandatländer in Ozeanien (D 18)
-
+<div class="hint">
+Scope Note: bis 30.6.1919, dann unter Japanische Mandatländer in Ozeanien (D 18)
+</div>
 
 
 

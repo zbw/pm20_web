@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [f2 Sm9]{.gray}&#8201; Politische und kulturelle Propaganda. (Ab 1945): Meinungsforschung&#160; 
+# [f2 Sm9]{.gray}&#8201; Politische und kulturelle Propaganda. (Ab 1945): Meinungsforschung &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699319)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144295`</div>
 
 
 

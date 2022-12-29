@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [E102]{.gray}&#8201; British Guiana&#160; 
+# [E102]{.gray}&#8201; British Guiana &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q918126) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/British_Guiana)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141700`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -170,11 +172,20 @@ For material not published as folders, please check the [digitized micro-films](
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 
+
+### A
+
 - Alcoholic beverage [**&nearr;**](../../../ware/i/141966/about.en.html "Alcoholic beverage (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20.02-Sp "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141700" title="about: Alcoholic beverage : British Guiana" target="_blank">9 documents</a>) ([folder](../../../../folder/wa/1419xx/141966/1417xx/141700/about.en.html))
 - Aluminium [**&nearr;**](../../../ware/i/141969/about.en.html "Aluminium (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID07.01-Lm01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,141700" title="about: Aluminium : British Guiana" target="_blank">32 documents</a>) ([folder](../../../../folder/wa/1419xx/141969/1417xx/141700/about.en.html))
 - Asphalt [**&nearr;**](../../../ware/i/142016/about.en.html "Asphalt (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID22-Bd01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141700" title="about: Asphalt : British Guiana" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142016/1417xx/141700/about.en.html))
+
+### B
+
 - Bamboo [**&nearr;**](../../../ware/i/142035/about.en.html "Bamboo (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Gr02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142035,141700" title="about: Bamboo : British Guiana" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142035/1417xx/141700/about.en.html))
 - Banana [**&nearr;**](../../../ware/i/142038/about.en.html "Banana (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bn "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141700" title="about: Banana : British Guiana" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1420xx/142038/1417xx/141700/about.en.html))
+
+### C
+
 - Clothing [**&nearr;**](../../../ware/i/142106/about.en.html "Clothing (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Bk "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141700" title="about: Clothing : British Guiana" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1421xx/142106/1417xx/141700/about.en.html))
 - Coal [**&nearr;**](../../../ware/i/143120/about.en.html "Coal (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB02.01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141700" title="about: Coal : British Guiana" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1417xx/141700/about.en.html))
 - Cotton [**&nearr;**](../../../ware/i/142089/about.en.html "Cotton (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bw "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141700" title="about: Cotton : British Guiana" target="_blank">4 documents</a>) ([folder](../../../../folder/wa/1420xx/142089/1417xx/141700/about.en.html))

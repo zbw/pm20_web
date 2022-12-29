@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n Sm26]{.gray}&#8201; Okkupations- und Sanktionsschäden&#160; 
+# [n Sm26]{.gray}&#8201; Okkupations- und Sanktionsschäden &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700387)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/163218`</div>
 
 
 

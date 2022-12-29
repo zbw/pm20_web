@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [d7 Sm70]{.gray}&#8201; Religious affairs, capital procurement&#160; 
+# [d7 Sm70]{.gray}&#8201; Religious affairs, capital procurement &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699273)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144246`</div>
 
 
 

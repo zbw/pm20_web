@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [q Sm37]{.gray}&#8201; Mormons&#160; 
+# [q Sm37]{.gray}&#8201; Mormons &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711410)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145989`</div>
 
 
 

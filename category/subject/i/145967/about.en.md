@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [q Sm21.I]{.gray}&#8201; Council system, general&#160; 
+# [q Sm21.I]{.gray}&#8201; Council system, general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711395)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145967`</div>
 
 
 

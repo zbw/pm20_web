@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n1 Sm5]{.gray}&#8201; Arbeitsdienstjahr und Arbeitsdienstpflicht&#160; 
+# [n1 Sm5]{.gray}&#8201; Arbeitsdienstjahr und Arbeitsdienstpflicht &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710393)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144936`</div>
 
 
 

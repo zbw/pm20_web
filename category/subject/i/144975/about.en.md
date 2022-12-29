@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n2 Sm3]{.gray}&#8201; Situation and statistics of profit-oriented companies in various economic sectors, overviews&#160; 
+# [n2 Sm3]{.gray}&#8201; Situation and statistics of profit-oriented companies in various economic sectors, overviews &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710415)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144975`</div>
 
 
 

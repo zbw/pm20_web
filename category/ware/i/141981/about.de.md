@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Apfelsine&#160; 
+# Apfelsine &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q13191) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Orange_(Frucht))
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141981`</div>
 
 
 

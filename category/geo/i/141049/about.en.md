@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A57]{.gray}&#8201; Baltic states&#160; 
+# [A57]{.gray}&#8201; Baltic states
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141049`</div>
 
 
 

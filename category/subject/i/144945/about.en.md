@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n1 Sm13]{.gray}&#8201; Maintenance and full utilization of national goods&#160; 
+# [n1 Sm13]{.gray}&#8201; Maintenance and full utilization of national goods &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710401)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144945`</div>
 
 
 

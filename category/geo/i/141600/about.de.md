@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [D9]{.gray}&#8201; Neuguinea&#160; 
+# [D9]{.gray}&#8201; Neuguinea &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q40285) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Neuguinea)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141600`</div>
 
 
 
@@ -81,6 +83,9 @@ Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfil
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
 
+
+
+### B
 
 - Baumwolle [**&nearr;**](../../../ware/i/142089/about.de.html "Baumwolle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bw "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141600" title="über: Baumwolle : Neuguinea" target="_blank">18 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142089/1416xx/141600/about.de.html))
 

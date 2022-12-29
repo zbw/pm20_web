@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n3 Sm8]{.gray}&#8201; Situation and statistics of land exploitation companies, general&#160; 
+# [n3 Sm8]{.gray}&#8201; Situation and statistics of land exploitation companies, general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710518)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145039`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [k2 Sm502 (A9)]{.gray}&#8201; Private school system (Hamburg)&#160; 
+# [k2 Sm502 (A9)]{.gray}&#8201; Private school system (Hamburg) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700207)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144750`</div>
 
 
 

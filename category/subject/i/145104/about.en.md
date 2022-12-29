@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n13 Sm5]{.gray}&#8201; Industry: competition on the world market&#160; 
+# [n13 Sm5]{.gray}&#8201; Industry: competition on the world market &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710572)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145104`</div>
 
 
 

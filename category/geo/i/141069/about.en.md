@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B13]{.gray}&#8201; Turkestan&#160; 
+# [B13]{.gray}&#8201; Turkestan
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141069`</div>
 
 
 

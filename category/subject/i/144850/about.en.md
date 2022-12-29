@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [m2]{.gray}&#8201; Customs, customs tariffs&#160; 
+# [m2]{.gray}&#8201; Customs, customs tariffs &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428012)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144850`</div>
 
 
 

@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Alkohol&#160; 
+# Alkohol &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q154) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Alkoholisches_Getr%C3%A4nk)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141966`</div>
 
-> Scope Note: (einschl.: Brantweinmonopol; Alkoholtrust; Alkoholverbot; Spiritus; Alkoholschmuggel; Industriealkohol, Alkoholbrennerei)
-
+<div class="hint">
+Scope Note: (einschl.: Brantweinmonopol; Alkoholtrust; Alkoholverbot; Spiritus; Alkoholschmuggel; Industriealkohol, Alkoholbrennerei)
+</div>
 
 
 

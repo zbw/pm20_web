@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [q Sm27.I]{.gray}&#8201; Schiedsgerichte, Allgemein&#160; 
+# [q Sm27.I]{.gray}&#8201; Schiedsgerichte, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711401)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145975`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [p2 Sm1]{.gray}&#8201; Private settlement plans&#160; 
+# [p2 Sm1]{.gray}&#8201; Private settlement plans &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711345)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145916`</div>
 
 
 

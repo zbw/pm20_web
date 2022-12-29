@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n24 Sm9]{.gray}&#8201; Collective accounts of banks and savings banks (statistics)&#160; 
+# [n24 Sm9]{.gray}&#8201; Collective accounts of banks and savings banks (statistics) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711004)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/161748`</div>
 
 
 

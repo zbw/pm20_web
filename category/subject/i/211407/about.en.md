@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [l Sm40]{.gray}&#8201; Military affairs, education&#160; 
+# [l Sm40]{.gray}&#8201; Military affairs, education &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700219)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/211407`</div>
 
 
 

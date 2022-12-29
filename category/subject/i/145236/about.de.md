@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n15a Sm31]{.gray}&#8201; Arbeitnehmerverhältnisse, Flugwesen und Luftschiffahrt, Flugzeugbau und Luftschiffbau&#160; 
+# [n15a Sm31]{.gray}&#8201; Arbeitnehmerverhältnisse, Flugwesen und Luftschiffahrt, Flugzeugbau und Luftschiffbau &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710830)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145236`</div>
 
 
 

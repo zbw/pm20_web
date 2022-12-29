@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n37 Sm6]{.gray}&#8201; Situation and statistics of insurance companies, general&#160; 
+# [n37 Sm6]{.gray}&#8201; Situation and statistics of insurance companies, general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711294)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145728`</div>
 
 
 

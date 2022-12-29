@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [f Sm501 (A11)]{.gray}&#8201; Criticism of German colonial activity&#160; 
+# [f Sm501 (A11)]{.gray}&#8201; Criticism of German colonial activity &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699306)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144449`</div>
 
 
 

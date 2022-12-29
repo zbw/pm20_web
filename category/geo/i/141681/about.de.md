@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [E68]{.gray}&#8201; Honduras&#160; 
+# [E68]{.gray}&#8201; Honduras &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q783) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Honduras)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141681`</div>
 
 
 
@@ -61,7 +63,13 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141681" title="über: Alkohol : Honduras" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1416xx/141681/about.de.html))
+
+### B
+
 - Balsam [**&nearr;**](../../../ware/i/142032/about.de.html "Balsam (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW06-Fp02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142032,141681" title="über: Balsam : Honduras" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142032/1416xx/141681/about.de.html))
 - Banane [**&nearr;**](../../../ware/i/142038/about.de.html "Banane (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bn "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141681" title="über: Banane : Honduras" target="_blank">50 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142038/1416xx/141681/about.de.html))
 - Baumaterial [**&nearr;**](../../../ware/i/142086/about.de.html "Baumaterial (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141681" title="über: Baumaterial : Honduras" target="_blank">9 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142086/1416xx/141681/about.de.html))

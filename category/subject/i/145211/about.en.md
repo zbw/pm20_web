@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n15a Sm6]{.gray}&#8201; Labor contracts, railways, trams, passenger car transport&#160; 
+# [n15a Sm6]{.gray}&#8201; Labor contracts, railways, trams, passenger car transport &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710803)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145211`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [q Sm501 (A9)]{.gray}&#8201; Überseewoche&#160; 
+# [q Sm501 (A9)]{.gray}&#8201; Überseewoche &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711415)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145994`</div>
 
 
 

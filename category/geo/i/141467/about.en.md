@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C103a]{.gray}&#8201; Kerguelen Islands&#160; 
+# [C103a]{.gray}&#8201; Kerguelen Islands
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141467`</div>
 
 
 
@@ -31,6 +33,9 @@ For material not published as folders, please check the [digitized micro-films](
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
+
+
+### A
 
 - Agate [**&nearr;**](../../../ware/i/141944/about.en.html "Agate (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID23-Ed01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141944,141467" title="about: Agate : Kerguelen Islands" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141944/1414xx/141467/about.en.html))
 

@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C70]{.gray}&#8201; Spanisch-Guinea&#160; 
+# [C70]{.gray}&#8201; Spanisch-Guinea &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q1232509) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Spanisch-Guinea)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141412`</div>
 
-> Scope Note: Spanisch Guinea mit Fernando Po u. Dependenzen, Äquatorial-Guinea (ab 12.10.1968)
-
+<div class="hint">
+Scope Note: Spanisch Guinea mit Fernando Po u. Dependenzen, Äquatorial-Guinea (ab 12.10.1968)
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -140,6 +142,9 @@ Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfil
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
 
+
+
+### B
 
 - Banane [**&nearr;**](../../../ware/i/142038/about.de.html "Banane (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bn "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141412" title="über: Banane : Spanisch-Guinea" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142038/1414xx/141412/about.de.html))
 - Baumaterial [**&nearr;**](../../../ware/i/142086/about.de.html "Baumaterial (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141412" title="über: Baumaterial : Spanisch-Guinea" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142086/1414xx/141412/about.de.html))

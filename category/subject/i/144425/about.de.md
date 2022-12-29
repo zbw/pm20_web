@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [f5a.1d (alt)]{.gray}&#8201; Die Partei im Ganzen, Agitation und Taktik (z.B. Maifeier, Kundgebungen, Propaganda, Flugblätter)&#160; 
+# [f5a.1d (alt)]{.gray}&#8201; Die Partei im Ganzen, Agitation und Taktik (z.B. Maifeier, Kundgebungen, Propaganda, Flugblätter) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699659)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144425`</div>
 
-> Scope Note: z.B. Maifeier, Kundgebungen, Propaganda, Flugblätter
-
+<div class="hint">
+Scope Note: z.B. Maifeier, Kundgebungen, Propaganda, Flugblätter
+</div>
 
 
 

@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B114]{.gray}&#8201; Kwangtung&#160; 
+# [B114]{.gray}&#8201; Kwangtung &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q15175) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Guangdong)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141275`</div>
 
-> Scope Note: Guangzhou (auch Kanton), Provinz Guangdong (Kanton), VR China
-
+<div class="hint">
+Scope Note: Guangzhou (auch Kanton), Provinz Guangdong (Kanton), VR China
+</div>
 
 
 

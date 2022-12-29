@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C37]{.gray}&#8201; Cote d'Ivoire, Mauritania&#160; 
+# [C37]{.gray}&#8201; Cote d'Ivoire, Mauritania
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141390`</div>
 
 
 

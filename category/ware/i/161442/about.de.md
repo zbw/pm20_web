@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# NE-Metall&#160; 
+# NE-Metall &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q5679431) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Nichteisenmetall)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/161442`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n28 Sm6.II]{.gray}&#8201; Autohöfe&#160; 
+# [n28 Sm6.II]{.gray}&#8201; Autohöfe &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711098)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/197821`</div>
 
 
 

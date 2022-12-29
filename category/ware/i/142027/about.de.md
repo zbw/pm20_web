@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Bäckereimaschine&#160; 
+# Bäckereimaschine &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q111974055)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142027`</div>
 
 
 

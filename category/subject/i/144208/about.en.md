@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [c4 Sm501 (H) (alt)]{.gray}&#8201; Ocean research&#160; 
+# [c4 Sm501 (H) (alt)]{.gray}&#8201; Ocean research &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699237)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144208`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B77]{.gray}&#8201; Niederländisch-Borneo&#160; 
+# [B77]{.gray}&#8201; Niederländisch-Borneo
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141227`</div>
 
 
 

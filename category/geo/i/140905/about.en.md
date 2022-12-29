@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A9]{.gray}&#8201; Hamburg&#160; 
+# [A9]{.gray}&#8201; Hamburg &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q1055) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Hamburg)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140905`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -938,15 +940,30 @@ For material not published as folders, please check the [digitized micro-films](
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 
+
+### A
+
 - Aluminium [**&nearr;**](../../../ware/i/141969/about.en.html "Aluminium (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID07.01-Lm01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,140905" title="about: Aluminium : Hamburg" target="_blank">6 documents</a>) ([folder](../../../../folder/wa/1419xx/141969/1409xx/140905/about.en.html))
 - Amber [**&nearr;**](../../../ware/i/142111/about.en.html "Amber (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID04-Sc01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142111,140905" title="about: Amber : Hamburg" target="_blank">6 documents</a>) ([folder](../../../../folder/wa/1421xx/142111/1409xx/140905/about.en.html))
 - Apple [**&nearr;**](../../../ware/i/141980/about.en.html "Apple (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Ob01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141980,140905" title="about: Apple : Hamburg" target="_blank">8 documents</a>) ([folder](../../../../folder/wa/1419xx/141980/1409xx/140905/about.en.html))
+
+### B
+
 - Banana [**&nearr;**](../../../ware/i/142038/about.en.html "Banana (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bn "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,140905" title="about: Banana : Hamburg" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142038/1409xx/140905/about.en.html))
 - Barometer [**&nearr;**](../../../ware/i/142039/about.en.html "Barometer (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID08-Ap01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142039,140905" title="about: Barometer : Hamburg" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142039/1409xx/140905/about.en.html))
 - Building material [**&nearr;**](../../../ware/i/142086/about.en.html "Building material (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID22-Bs "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,140905" title="about: Building material : Hamburg" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1420xx/142086/1409xx/140905/about.en.html))
+
+### C
+
 - Clothing [**&nearr;**](../../../ware/i/142106/about.en.html "Clothing (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Bk "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,140905" title="about: Clothing : Hamburg" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1421xx/142106/1409xx/140905/about.en.html))
 - Coal [**&nearr;**](../../../ware/i/143120/about.en.html "Coal (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB02.01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,140905" title="about: Coal : Hamburg" target="_blank">26 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1409xx/140905/about.en.html))
+
+### N
+
 - Narcotics [**&nearr;**](../../../ware/i/142115/about.en.html "Narcotics (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID04-Dr "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142115,140905" title="about: Narcotics : Hamburg" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1421xx/142115/1409xx/140905/about.en.html))
+
+### O
+
 - Orange [**&nearr;**](../../../ware/i/141981/about.en.html "Orange (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Zs01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,140905" title="about: Orange : Hamburg" target="_blank">4 documents</a>) ([folder](../../../../folder/wa/1419xx/141981/1409xx/140905/about.en.html))
 
 

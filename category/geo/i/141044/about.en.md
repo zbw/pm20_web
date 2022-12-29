@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A50a]{.gray}&#8201; Occupied territories of Eastern Europe&#160; 
+# [A50a]{.gray}&#8201; Occupied territories of Eastern Europe
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141044`</div>
 
 
 
@@ -32,8 +34,17 @@ For material not published as folders, please check the [digitized micro-films](
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 
+
+### A
+
 - Alcoholic beverage [**&nearr;**](../../../ware/i/141966/about.en.html "Alcoholic beverage (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20.02-Sp "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141044" title="about: Alcoholic beverage : Occupied territories of Eastern Europe" target="_blank">5 documents</a>) ([folder](../../../../folder/wa/1419xx/141966/1410xx/141044/about.en.html))
+
+### B
+
 - Building material [**&nearr;**](../../../ware/i/142086/about.en.html "Building material (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID22-Bs "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141044" title="about: Building material : Occupied territories of Eastern Europe" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1420xx/142086/1410xx/141044/about.en.html))
+
+### P
+
 - Petrol [**&nearr;**](../../../ware/i/142108/about.en.html "Petrol (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13.02-Ks02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141044" title="about: Petrol : Occupied territories of Eastern Europe" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1421xx/142108/1410xx/141044/about.en.html))
 
 

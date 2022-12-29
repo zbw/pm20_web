@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n32a]{.gray}&#8201; Shipping traffic in individual ports&#160; 
+# [n32a]{.gray}&#8201; Shipping traffic in individual ports &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428073)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145644`</div>
 
 
 

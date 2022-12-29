@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C87]{.gray}&#8201; German South-West Africa&#160; 
+# [C87]{.gray}&#8201; German South-West Africa &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q153665) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/German_South_West_Africa)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141450`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -330,13 +332,28 @@ For material not published as folders, please check the [digitized micro-films](
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 
+
+### A
+
 - Alcoholic beverage [**&nearr;**](../../../ware/i/141966/about.en.html "Alcoholic beverage (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20.02-Sp "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141450" title="about: Alcoholic beverage : German South-West Africa" target="_blank">6 documents</a>) ([folder](../../../../folder/wa/1419xx/141966/1414xx/141450/about.en.html))
 - Aloe [**&nearr;**](../../../ware/i/141967/about.en.html "Aloe (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Kr01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141967,141450" title="about: Aloe : German South-West Africa" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141967/1414xx/141450/about.en.html))
 - Asbestos [**&nearr;**](../../../ware/i/142014/about.en.html "Asbestos (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID23-As "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,141450" title="about: Asbestos : German South-West Africa" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1420xx/142014/1414xx/141450/about.en.html))
+
+### B
+
 - Beryllium [**&nearr;**](../../../ware/i/142103/about.en.html "Beryllium (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID07.01-Lm03 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142103,141450" title="about: Beryllium : German South-West Africa" target="_blank">5 documents</a>) ([folder](../../../../folder/wa/1421xx/142103/1414xx/141450/about.en.html))
+
+### C
+
 - Coal [**&nearr;**](../../../ware/i/143120/about.en.html "Coal (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB02.01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141450" title="about: Coal : German South-West Africa" target="_blank">27 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1414xx/141450/about.en.html))
 - Cotton [**&nearr;**](../../../ware/i/142089/about.en.html "Cotton (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bw "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141450" title="about: Cotton : German South-West Africa" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1420xx/142089/1414xx/141450/about.en.html))
+
+### O
+
 - Orange [**&nearr;**](../../../ware/i/141981/about.en.html "Orange (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Zs01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,141450" title="about: Orange : German South-West Africa" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141981/1414xx/141450/about.en.html))
+
+### P
+
 - Petrol [**&nearr;**](../../../ware/i/142108/about.en.html "Petrol (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13.02-Ks02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141450" title="about: Petrol : German South-West Africa" target="_blank">12 documents</a>) ([folder](../../../../folder/wa/1421xx/142108/1414xx/141450/about.en.html))
 
 

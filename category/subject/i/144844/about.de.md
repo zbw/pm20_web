@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [m1a Sm2]{.gray}&#8201; Öffentliche Unternehmungen, Beteiligung an priv. Unternehmungen einz. Bundesstaaten o. Prov., Allg.&#160; 
+# [m1a Sm2]{.gray}&#8201; Öffentliche Unternehmungen, Beteiligung an priv. Unternehmungen einz. Bundesstaaten o. Prov., Allg. &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700295)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144844`</div>
 
 
 

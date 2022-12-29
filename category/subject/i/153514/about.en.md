@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [d4 Sm50]{.gray}&#8201; National character, sport, customs and traditions, institutions&#160; 
+# [d4 Sm50]{.gray}&#8201; National character, sport, customs and traditions, institutions &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699258)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/153514`</div>
 
 
 

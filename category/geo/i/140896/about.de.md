@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A3]{.gray}&#8201; Osteuropa&#160; 
+# [A3]{.gray}&#8201; Osteuropa &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q27468) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Osteuropa)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140896`</div>
 
-> Scope Note: (einschl.: Litauen, Lettland, Estland, Weißrussland, Moldawien, Ukraine und den europäischen Teil Russlands)
-
+<div class="hint">
+Scope Note: (einschl.: Litauen, Lettland, Estland, Weißrussland, Moldawien, Ukraine und den europäischen Teil Russlands)
+</div>
 
 
 

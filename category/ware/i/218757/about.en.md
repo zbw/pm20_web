@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Coal processing&#160; 
+# Coal processing &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q1260482)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/218757`</div>
 
 
 

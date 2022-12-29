@@ -8,12 +8,14 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [D13]{.gray}&#8201; Karolinen-Inseln&#160; 
+# [D13]{.gray}&#8201; Karolinen-Inseln &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q118350) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Karolinen)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141613`</div>
 
-> Scope Note: bis 30.6.1919, dann unter Japanische Mandantsländer in Ozeanien (D 18); 	
+<div class="hint">
+Scope Note: bis 30.6.1919, dann unter Japanische Mandantsländer in Ozeanien (D 18); 	
 Inselgruppe im westl. Pazifik, gegliedert in Westliche Karolinen (Palauinseln, Yap Islands) u. Östliche Karolinen (Mikronesien <Staat>)
-
+</div>
 
 
 

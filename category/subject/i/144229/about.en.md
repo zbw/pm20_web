@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [d4 Sm1.I]{.gray}&#8201; Secret societies, general&#160; 
+# [d4 Sm1.I]{.gray}&#8201; Secret societies, general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699254)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144229`</div>
 
 
 

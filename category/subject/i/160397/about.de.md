@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [q Sm502 (A9)]{.gray}&#8201; Wirtschaftsgebiet an der Unterelbe (Groß-Hamburg)-Frage&#160; 
+# [q Sm502 (A9)]{.gray}&#8201; Wirtschaftsgebiet an der Unterelbe (Groß-Hamburg)-Frage &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711426)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/160397`</div>
 
 
 

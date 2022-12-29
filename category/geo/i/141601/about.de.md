@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [D10]{.gray}&#8201; Deutsch-Neuguinea&#160; 
+# [D10]{.gray}&#8201; Deutsch-Neuguinea &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q165008) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Deutsch-Neuguinea)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141601`</div>
 
-> Scope Note: Deutsch Ozeanien (ab 1920 austral. Mandat)
-
+<div class="hint">
+Scope Note: Deutsch Ozeanien (ab 1920 austral. Mandat)
+</div>
 
 
 

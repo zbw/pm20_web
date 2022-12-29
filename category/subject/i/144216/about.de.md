@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [c10 Sm1 (alt)]{.gray}&#8201; Landeskunde, Erdbeben und Vulkanausbrüche&#160; 
+# [c10 Sm1 (alt)]{.gray}&#8201; Landeskunde, Erdbeben und Vulkanausbrüche &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699240)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144216`</div>
 
 
 

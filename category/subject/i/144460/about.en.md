@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [g1 Sm9]{.gray}&#8201; Statements, discussions and agreements about colonial areas and spheres of interest&#160; 
+# [g1 Sm9]{.gray}&#8201; Statements, discussions and agreements about colonial areas and spheres of interest &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699757)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144460`</div>
 
 
 

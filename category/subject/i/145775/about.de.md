@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n Sm1.II]{.gray}&#8201; Fremdländische Kapitalanlagen, privatwirtschaftliche Interessen, Angehöriger Einzelner Länder&#160; 
+# [n Sm1.II]{.gray}&#8201; Fremdländische Kapitalanlagen, privatwirtschaftliche Interessen, Angehöriger Einzelner Länder &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700343)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145775`</div>
 
 
 

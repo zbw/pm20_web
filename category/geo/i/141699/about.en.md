@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [E101]{.gray}&#8201; Surinam&#160; 
+# [E101]{.gray}&#8201; Surinam &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q730) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Suriname)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141699`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -151,13 +153,28 @@ For material not published as folders, please check the [digitized micro-films](
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 
+
+### A
+
 - Aloe [**&nearr;**](../../../ware/i/141967/about.en.html "Aloe (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Kr01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141967,141699" title="about: Aloe : Surinam" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141967/1416xx/141699/about.en.html))
 - Aluminium [**&nearr;**](../../../ware/i/141969/about.en.html "Aluminium (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID07.01-Lm01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,141699" title="about: Aluminium : Surinam" target="_blank">41 documents</a>) ([folder](../../../../folder/wa/1419xx/141969/1416xx/141699/about.en.html))
+
+### B
+
 - Balm [**&nearr;**](../../../ware/i/142032/about.en.html "Balm (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW06-Fp02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142032,141699" title="about: Balm : Surinam" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142032/1416xx/141699/about.en.html))
 - Banana [**&nearr;**](../../../ware/i/142038/about.en.html "Banana (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bn "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141699" title="about: Banana : Surinam" target="_blank">117 documents</a>) ([folder](../../../../folder/wa/1420xx/142038/1416xx/141699/about.en.html))
+
+### C
+
 - Citrus fruits [**&nearr;**](../../../ware/i/141948/about.en.html "Citrus fruits (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Zs "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141699" title="about: Citrus fruits : Surinam" target="_blank">6 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1416xx/141699/about.en.html))
 - Cotton [**&nearr;**](../../../ware/i/142089/about.en.html "Cotton (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bw "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141699" title="about: Cotton : Surinam" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1420xx/142089/1416xx/141699/about.en.html))
+
+### O
+
 - Orange [**&nearr;**](../../../ware/i/141981/about.en.html "Orange (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Zs01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,141699" title="about: Orange : Surinam" target="_blank">10 documents</a>) ([folder](../../../../folder/wa/1419xx/141981/1416xx/141699/about.en.html))
+
+### P
+
 - Petrol [**&nearr;**](../../../ware/i/142108/about.en.html "Petrol (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13.02-Ks02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141699" title="about: Petrol : Surinam" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1421xx/142108/1416xx/141699/about.en.html))
 
 

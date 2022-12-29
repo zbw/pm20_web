@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n30 Sm5]{.gray}&#8201; Railway, electrification&#160; 
+# [n30 Sm5]{.gray}&#8201; Railway, electrification &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711130)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145536`</div>
 
 
 

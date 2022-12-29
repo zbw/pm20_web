@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [p3 Sm2]{.gray}&#8201; Immigrant care&#160; 
+# [p3 Sm2]{.gray}&#8201; Immigrant care &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711347)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145919`</div>
 
 
 

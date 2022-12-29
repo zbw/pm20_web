@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A40]{.gray}&#8201; Austria-Hungary&#160; 
+# [A40]{.gray}&#8201; Austria-Hungary &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q28513) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Austria-Hungary)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/126127`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -81,8 +83,14 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 - Alcoholic beverage [**&nearr;**](../../../ware/i/141966/about.en.html "Alcoholic beverage (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20.02-Sp "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,126127" title="about: Alcoholic beverage : Austria-Hungary" target="_blank">30 documents</a>) ([folder](../../../../folder/wa/1419xx/141966/1261xx/126127/about.en.html))
 - Aluminium [**&nearr;**](../../../ware/i/141969/about.en.html "Aluminium (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID07.01-Lm01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,126127" title="about: Aluminium : Austria-Hungary" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1419xx/141969/1261xx/126127/about.en.html))
+
+### C
+
 - Clothing [**&nearr;**](../../../ware/i/142106/about.en.html "Clothing (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Bk "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,126127" title="about: Clothing : Austria-Hungary" target="_blank">7 documents</a>) ([folder](../../../../folder/wa/1421xx/142106/1261xx/126127/about.en.html))
 - Coal [**&nearr;**](../../../ware/i/143120/about.en.html "Coal (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB02.01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,126127" title="about: Coal : Austria-Hungary" target="_blank">76 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1261xx/126127/about.en.html))
+
+### P
+
 - Petrol [**&nearr;**](../../../ware/i/142108/about.en.html "Petrol (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13.02-Ks02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,126127" title="about: Petrol : Austria-Hungary" target="_blank">7 documents</a>) ([folder](../../../../folder/wa/1421xx/142108/1261xx/126127/about.en.html))
 
 

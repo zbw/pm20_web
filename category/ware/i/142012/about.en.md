@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Artichokes&#160; 
+# Artichokes &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q23041430) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Artichoke)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142012`</div>
 
 
 

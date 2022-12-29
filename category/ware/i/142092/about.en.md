@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Cotton machine&#160; 
+# Cotton machine &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q113376051)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142092`</div>
 
 
 

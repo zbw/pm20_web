@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [D2]{.gray}&#8201; Pazifischer Raum&#160; 
+# [D2]{.gray}&#8201; Pazifischer Raum &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q9301187)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141593`</div>
 
-> Scope Note: Südsee, Stiller Ozean u. Küstenländer i.G., Pazifischer Raum i.G.
-
+<div class="hint">
+Scope Note: Südsee, Stiller Ozean u. Küstenländer i.G., Pazifischer Raum i.G.
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)

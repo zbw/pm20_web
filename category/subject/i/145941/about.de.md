@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [q Sm1]{.gray}&#8201; Alkoholismus und seine Bekämpfung&#160; 
+# [q Sm1]{.gray}&#8201; Alkoholismus und seine Bekämpfung &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711369)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145941`</div>
 
-> Scope Note: früher: Alkoholfrage
-
+<div class="hint">
+Scope Note: früher: Alkoholfrage
+</div>
 
 
 

@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B99a]{.gray}&#8201; Innere Mongolei&#160; 
+# [B99a]{.gray}&#8201; Innere Mongolei &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q41079) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Innere_Mongolei)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141264`</div>
 
-> Scope Note: Meng-Chiang
-
+<div class="hint">
+Scope Note: Meng-Chiang
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)

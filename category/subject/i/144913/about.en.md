@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [m Sm4]{.gray}&#8201; Public bond appreciation, general&#160; 
+# [m Sm4]{.gray}&#8201; Public bond appreciation, general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700258)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144913`</div>
 
 
 

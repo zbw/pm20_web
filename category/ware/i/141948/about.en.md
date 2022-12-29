@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Citrus fruits&#160; 
+# Citrus fruits &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q81513) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Citrus)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141948`</div>
 
 
 

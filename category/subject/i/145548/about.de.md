@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n30 Sm502 (A9)]{.gray}&#8201; Hafenbahnen&#160; 
+# [n30 Sm502 (A9)]{.gray}&#8201; Hafenbahnen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711140)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145548`</div>
 
 
 

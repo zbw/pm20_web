@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [f5a.1c]{.gray}&#8201; Die Partei im Ganzen, Programm&#160; 
+# [f5a.1c]{.gray}&#8201; Die Partei im Ganzen, Programm &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699658)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144424`</div>
 
 
 

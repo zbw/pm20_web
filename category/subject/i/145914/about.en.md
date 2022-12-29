@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [p1]{.gray}&#8201; Settlement opportunities and immigration opportunities&#160; 
+# [p1]{.gray}&#8201; Settlement opportunities and immigration opportunities &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428099)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145914`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n14 Sm4]{.gray}&#8201; State support for crafts&#160; 
+# [n14 Sm4]{.gray}&#8201; State support for crafts &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710667)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145137`</div>
 
 
 

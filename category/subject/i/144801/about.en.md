@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [l Sm14]{.gray}&#8201; Evacuation of the civilian population&#160; 
+# [l Sm14]{.gray}&#8201; Evacuation of the civilian population &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700218)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144801`</div>
 
 
 

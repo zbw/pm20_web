@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B113]{.gray}&#8201; Formosa&#160; 
+# [B113]{.gray}&#8201; Formosa &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q22502) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Taiwan_(Insel))
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141274`</div>
 
 
 
@@ -170,14 +172,23 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Algen und Seetang [**&nearr;**](../../../ware/i/141959/about.de.html "Algen und Seetang (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW07-Mp01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141959,141274" title="über: Algen und Seetang : Formosa" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141959/1412xx/141274/about.de.html))
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141274" title="über: Alkohol : Formosa" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1412xx/141274/about.de.html))
 - Aluminium [**&nearr;**](../../../ware/i/141969/about.de.html "Aluminium (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,141274" title="über: Aluminium : Formosa" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141969/1412xx/141274/about.de.html))
 - Ammoniak [**&nearr;**](../../../ware/i/165930/about.de.html "Ammoniak (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Du01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/165930,141274" title="über: Ammoniak : Formosa" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1659xx/165930/1412xx/141274/about.de.html))
 - Ananas [**&nearr;**](../../../ware/i/141970/about.de.html "Ananas (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Tr01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141970,141274" title="über: Ananas : Formosa" target="_blank">10 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141970/1412xx/141274/about.de.html))
+
+### B
+
 - Bambus [**&nearr;**](../../../ware/i/142035/about.de.html "Bambus (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Gr02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142035,141274" title="über: Bambus : Formosa" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142035/1412xx/141274/about.de.html))
 - Banane [**&nearr;**](../../../ware/i/142038/about.de.html "Banane (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bn "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141274" title="über: Banane : Formosa" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142038/1412xx/141274/about.de.html))
 - Baumwolle [**&nearr;**](../../../ware/i/142089/about.de.html "Baumwolle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bw "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141274" title="über: Baumwolle : Formosa" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142089/1412xx/141274/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141274" title="über: Kohle : Formosa" target="_blank">11 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1412xx/141274/about.de.html))
 - Kohlenstoff (Ruß) [**&nearr;**](../../../ware/i/143123/about.de.html "Kohlenstoff (Ruß) (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01-Ru "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143123,141274" title="über: Kohlenstoff (Ruß) : Formosa" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143123/1412xx/141274/about.de.html))
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [q Sm2]{.gray}&#8201; Handel und Versorgung mit Waffen, Munition und sonst. Kriegsmaterial&#160; 
+# [q Sm2]{.gray}&#8201; Handel und Versorgung mit Waffen, Munition und sonst. Kriegsmaterial &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711370)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/160420`</div>
 
 
 

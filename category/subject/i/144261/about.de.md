@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [d Sm3]{.gray}&#8201; Sippenforschung, Genealogie&#160; 
+# [d Sm3]{.gray}&#8201; Sippenforschung, Genealogie &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699243)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144261`</div>
 
 
 

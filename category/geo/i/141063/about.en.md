@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B9]{.gray}&#8201; Far East&#160; 
+# [B9]{.gray}&#8201; Far East
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141063`</div>
 
 
 

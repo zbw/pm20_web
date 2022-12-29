@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Cotton textiles&#160; 
+# Cotton textiles &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q7107274) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Osnaburg)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/154932`</div>
 
 
 

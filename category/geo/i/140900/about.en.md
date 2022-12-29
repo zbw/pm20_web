@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A6]{.gray}&#8201; Southeastern Europe&#160; 
+# [A6]{.gray}&#8201; Southeastern Europe &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q263686) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Southeast_Europe)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140900`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -297,7 +299,13 @@ For material not published as folders, please check the [digitized micro-films](
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 
+
+### A
+
 - Aluminium [**&nearr;**](../../../ware/i/141969/about.en.html "Aluminium (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID07.01-Lm01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,140900" title="about: Aluminium : Southeastern Europe" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1419xx/141969/1409xx/140900/about.en.html))
+
+### C
+
 - Coal [**&nearr;**](../../../ware/i/143120/about.en.html "Coal (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB02.01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,140900" title="about: Coal : Southeastern Europe" target="_blank">12 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1409xx/140900/about.en.html))
 - Construction machinery [**&nearr;**](../../../ware/i/142084/about.en.html "Construction machinery (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID08-Ba "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142084,140900" title="about: Construction machinery : Southeastern Europe" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142084/1409xx/140900/about.en.html))
 - Cotton [**&nearr;**](../../../ware/i/142089/about.en.html "Cotton (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bw "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,140900" title="about: Cotton : Southeastern Europe" target="_blank">15 documents</a>) ([folder](../../../../folder/wa/1420xx/142089/1409xx/140900/about.en.html))

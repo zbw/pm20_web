@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n30 Sm502 (A10)]{.gray}&#8201; Delivery of railway material on the basis of the peace treaty&#160; 
+# [n30 Sm502 (A10)]{.gray}&#8201; Delivery of railway material on the basis of the peace treaty &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711141)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145549`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [h7 Sm8]{.gray}&#8201; Welfare for large families&#160; 
+# [h7 Sm8]{.gray}&#8201; Welfare for large families &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700115)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144687`</div>
 
 
 

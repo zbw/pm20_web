@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n37a Sm2.IId]{.gray}&#8201; Arbeitslosenversicherung&#160; 
+# [n37a Sm2.IId]{.gray}&#8201; Arbeitslosenversicherung &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711303)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/199610`</div>
 
 
 

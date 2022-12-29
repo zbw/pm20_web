@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [b1]{.gray}&#8201; Land und Leute, Reiseschilderungen&#160; 
+# [b1]{.gray}&#8201; Land und Leute, Reiseschilderungen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427827)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144197`</div>
 
 
 

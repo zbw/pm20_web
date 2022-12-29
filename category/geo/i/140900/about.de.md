@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A6]{.gray}&#8201; Südosteuropa&#160; 
+# [A6]{.gray}&#8201; Südosteuropa &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q263686) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/S%C3%BCdosteuropa)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140900`</div>
 
-> Scope Note: (einschl.: Balkan, Balitkum, Albanien, Bulgarien, Griechenland, Makedonien, Rumänien,  Europäische Türkei, ehem. Jugoslawien, außer Slowenien)Umfasst die Südosteuropäische Halbinsel
-
+<div class="hint">
+Scope Note: (einschl.: Balkan, Balitkum, Albanien, Bulgarien, Griechenland, Makedonien, Rumänien,  Europäische Türkei, ehem. Jugoslawien, außer Slowenien)Umfasst die Südosteuropäische Halbinsel
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -299,10 +301,19 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Aluminium [**&nearr;**](../../../ware/i/141969/about.de.html "Aluminium (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,140900" title="über: Aluminium : Südosteuropa" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141969/1409xx/140900/about.de.html))
+
+### B
+
 - Baumaschine [**&nearr;**](../../../ware/i/142084/about.de.html "Baumaschine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142084,140900" title="über: Baumaschine : Südosteuropa" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142084/1409xx/140900/about.de.html))
 - Baumwolle [**&nearr;**](../../../ware/i/142089/about.de.html "Baumwolle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bw "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,140900" title="über: Baumwolle : Südosteuropa" target="_blank">15 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142089/1409xx/140900/about.de.html))
 - Baumwollindustrie [**&nearr;**](../../../ware/i/142091/about.de.html "Baumwollindustrie (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bw01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142091,140900" title="über: Baumwollindustrie : Südosteuropa" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142091/1409xx/140900/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,140900" title="über: Kohle : Südosteuropa" target="_blank">12 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1409xx/140900/about.de.html))
 
 

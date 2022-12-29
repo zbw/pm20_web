@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A10p(3)]{.gray}&#8201; Niederschlesien (1919-1938)&#160; 
+# [A10p(3)]{.gray}&#8201; Niederschlesien (1919-1938)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/201792`</div>
 
 
 

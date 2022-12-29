@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n1 Sm23]{.gray}&#8201; Raising the standard of living&#160; 
+# [n1 Sm23]{.gray}&#8201; Raising the standard of living &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710409)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144955`</div>
 
 
 

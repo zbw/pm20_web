@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Angora rabbit wool&#160; 
+# Angora rabbit wool &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q542460) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Angora_wool)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141972`</div>
 
 
 

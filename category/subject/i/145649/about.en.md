@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n33 Sm501 (A10)]{.gray}&#8201; Delivery and distribution of German river boat material&#160; 
+# [n33 Sm501 (A10)]{.gray}&#8201; Delivery and distribution of German river boat material &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711219)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145649`</div>
 
 
 

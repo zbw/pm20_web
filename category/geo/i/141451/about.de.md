@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C90]{.gray}&#8201; Ascension&#160; 
+# [C90]{.gray}&#8201; Ascension &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q46197) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Ascension)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141451`</div>
 
-> Scope Note: Ascension (auch Himmelfahrtsinsel), Insel im Südatlantik zur britischen Kronkolonie St. Helena gehörend
-
+<div class="hint">
+Scope Note: Ascension (auch Himmelfahrtsinsel), Insel im Südatlantik zur britischen Kronkolonie St. Helena gehörend
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -69,6 +71,9 @@ Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfil
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
 
+
+
+### A
 
 - Apfelsine [**&nearr;**](../../../ware/i/141981/about.de.html "Apfelsine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,141451" title="über: Apfelsine : Ascension" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141981/1414xx/141451/about.de.html))
 

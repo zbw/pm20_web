@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n Sm39.I]{.gray}&#8201; Profit-oriented companies, general&#160; 
+# [n Sm39.I]{.gray}&#8201; Profit-oriented companies, general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710360)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145840`</div>
 
 
 

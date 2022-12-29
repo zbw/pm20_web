@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n13a Sm7.II]{.gray}&#8201; Baugewerbe, Bauvorhaben, Baustatistik&#160; 
+# [n13a Sm7.II]{.gray}&#8201; Baugewerbe, Bauvorhaben, Baustatistik &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710664)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145129`</div>
 
 
 

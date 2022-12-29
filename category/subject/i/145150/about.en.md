@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n14a Sm22]{.gray}&#8201; Crafts, bookbinding&#160; 
+# [n14a Sm22]{.gray}&#8201; Crafts, bookbinding &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710687)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145150`</div>
 
 
 

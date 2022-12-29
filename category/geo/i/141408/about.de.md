@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C58]{.gray}&#8201; Togo&#160; 
+# [C58]{.gray}&#8201; Togo &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q945) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Togo)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141408`</div>
 
 
 
@@ -205,11 +207,20 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141408" title="über: Alkohol : Togo" target="_blank">18 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1414xx/141408/about.de.html))
 - Aluminium [**&nearr;**](../../../ware/i/141969/about.de.html "Aluminium (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,141408" title="über: Aluminium : Togo" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141969/1414xx/141408/about.de.html))
 - Asclepiasfaser [**&nearr;**](../../../ware/i/142013/about.de.html "Asclepiasfaser (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Nf06 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142013,141408" title="über: Asclepiasfaser : Togo" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142013/1414xx/141408/about.de.html))
+
+### B
+
 - Banane [**&nearr;**](../../../ware/i/142038/about.de.html "Banane (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bn "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141408" title="über: Banane : Togo" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142038/1414xx/141408/about.de.html))
 - Baumwolle [**&nearr;**](../../../ware/i/142089/about.de.html "Baumwolle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bw "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141408" title="über: Baumwolle : Togo" target="_blank">30 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142089/1414xx/141408/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141408" title="über: Kohle : Togo" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1414xx/141408/about.de.html))
 
 

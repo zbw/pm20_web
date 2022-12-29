@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n29 Sm60]{.gray}&#8201; Country roads, paths, bridges (including their traffic), technical&#160; 
+# [n29 Sm60]{.gray}&#8201; Country roads, paths, bridges (including their traffic), technical &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711109)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145526`</div>
 
 
 

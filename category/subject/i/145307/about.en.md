@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n23 Sm1.II]{.gray}&#8201; Precious metal movement, precious metal arbitrage, from and to individual countries&#160; 
+# [n23 Sm1.II]{.gray}&#8201; Precious metal movement, precious metal arbitrage, from and to individual countries &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710974)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145307`</div>
 
 
 

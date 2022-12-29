@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n3 Sm1.IV]{.gray}&#8201; Waterfront protection systems, land reclamation&#160; 
+# [n3 Sm1.IV]{.gray}&#8201; Waterfront protection systems, land reclamation &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710510)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145031`</div>
 
 
 

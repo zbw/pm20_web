@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [q Sm502.I (A9)]{.gray}&#8201; Economic area on the Lower Elbe (Greater Hamburg) question, general&#160; 
+# [q Sm502.I (A9)]{.gray}&#8201; Economic area on the Lower Elbe (Greater Hamburg) question, general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711428)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/146065`</div>
 
 
 

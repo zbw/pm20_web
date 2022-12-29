@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n26 Sm1]{.gray}&#8201; Handelskammern, Industriekammern und Gewerbekammern, Allgemein&#160; 
+# [n26 Sm1]{.gray}&#8201; Handelskammern, Industriekammern und Gewerbekammern, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711074)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145492`</div>
 
 
 

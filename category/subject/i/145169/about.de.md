@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n15 Sm7.II]{.gray}&#8201; Arbeitsverhältnisse, Löhne&#160; 
+# [n15 Sm7.II]{.gray}&#8201; Arbeitsverhältnisse, Löhne &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710713)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145169`</div>
 
 
 

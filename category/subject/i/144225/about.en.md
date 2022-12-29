@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [d1a]{.gray}&#8201; Population movement, population statistics in individual provinces, states and cities&#160; 
+# [d1a]{.gray}&#8201; Population movement, population statistics in individual provinces, states and cities &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427845)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144225`</div>
 
 
 

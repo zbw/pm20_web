@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [g Sm12.I (alt)]{.gray}&#8201; Political and cultural propaganda, general&#160; 
+# [g Sm12.I (alt)]{.gray}&#8201; Political and cultural propaganda, general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699682)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144582`</div>
 
 
 

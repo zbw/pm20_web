@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [g]{.gray}&#8201; Foreign policy and political relations with foreign countries, general&#160; 
+# [g]{.gray}&#8201; Foreign policy and political relations with foreign countries, general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427872)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144451`</div>
 
 
 

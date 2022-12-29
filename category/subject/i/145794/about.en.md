@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n Sm11]{.gray}&#8201; Unfair commercial practices, general, bribery&#160; 
+# [n Sm11]{.gray}&#8201; Unfair commercial practices, general, bribery &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700370)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145794`</div>
 
 
 

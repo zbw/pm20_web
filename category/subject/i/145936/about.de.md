@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [p6 Sm4]{.gray}&#8201; Wohnsiedlung&#160; 
+# [p6 Sm4]{.gray}&#8201; Wohnsiedlung &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711363)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145936`</div>
 
 
 

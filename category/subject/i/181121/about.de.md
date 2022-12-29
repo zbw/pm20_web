@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [i Sm40]{.gray}&#8201; Rechtspflege, Berufe und Besoldung&#160; 
+# [i Sm40]{.gray}&#8201; Rechtspflege, Berufe und Besoldung &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700137)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/181121`</div>
 
 
 

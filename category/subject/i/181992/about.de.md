@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [m Sm50]{.gray}&#8201; Finanzwesen, Institutionen&#160; 
+# [m Sm50]{.gray}&#8201; Finanzwesen, Institutionen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700278)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/181992`</div>
 
 
 

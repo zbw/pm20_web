@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [k1 Sm7.IIc]{.gray}&#8201; Individual academic professions, engineers&#160; 
+# [k1 Sm7.IIc]{.gray}&#8201; Individual academic professions, engineers &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700182)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144730`</div>
 
 
 

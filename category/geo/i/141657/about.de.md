@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [E20]{.gray}&#8201; Mexiko&#160; 
+# [E20]{.gray}&#8201; Mexiko &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q96) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Mexiko)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141657`</div>
 
 
 
@@ -61,6 +63,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Abfälle und Altmaterial [**&nearr;**](../../../ware/i/141942/about.de.html "Abfälle und Altmaterial (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB01-01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141942,141657" title="über: Abfälle und Altmaterial : Mexiko" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141942/1416xx/141657/about.de.html))
 - Agrumen [**&nearr;**](../../../ware/i/141948/about.de.html "Agrumen (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141657" title="über: Agrumen : Mexiko" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1416xx/141657/about.de.html))
 - Alfagras [**&nearr;**](../../../ware/i/141957/about.de.html "Alfagras (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Nf018 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141957,141657" title="über: Alfagras : Mexiko" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141957/1416xx/141657/about.de.html))
@@ -78,6 +83,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Asphalt [**&nearr;**](../../../ware/i/142016/about.de.html "Asphalt (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bd01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141657" title="über: Asphalt : Mexiko" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142016/1416xx/141657/about.de.html))
 - Auster [**&nearr;**](../../../ware/i/142019/about.de.html "Auster (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW07-Mt02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142019,141657" title="über: Auster : Mexiko" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142019/1416xx/141657/about.de.html))
 - Avocatbirne [**&nearr;**](../../../ware/i/142021/about.de.html "Avocatbirne (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Ob02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142021,141657" title="über: Avocatbirne : Mexiko" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142021/1416xx/141657/about.de.html))
+
+### B
+
 - Backwaren [**&nearr;**](../../../ware/i/142026/about.de.html "Backwaren (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141657" title="über: Backwaren : Mexiko" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142026/1416xx/141657/about.de.html))
 - Bagger [**&nearr;**](../../../ware/i/142028/about.de.html "Bagger (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID09.02-Nf01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142028,141657" title="über: Bagger : Mexiko" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142028/1416xx/141657/about.de.html))
 - Bakelit [**&nearr;**](../../../ware/i/142029/about.de.html "Bakelit (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID14-Ha01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142029,141657" title="über: Bakelit : Mexiko" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142029/1416xx/141657/about.de.html))
@@ -96,10 +104,16 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Benzol [**&nearr;**](../../../ware/i/142110/about.de.html "Benzol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko04 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142110,141657" title="über: Benzol : Mexiko" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142110/1416xx/141657/about.de.html))
 - Bergbaumaschine [**&nearr;**](../../../ware/i/142112/about.de.html "Bergbaumaschine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Bg "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142112,141657" title="über: Bergbaumaschine : Mexiko" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142112/1416xx/141657/about.de.html))
 - Beryllium [**&nearr;**](../../../ware/i/142103/about.de.html "Beryllium (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm03 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142103,141657" title="über: Beryllium : Mexiko" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142103/1416xx/141657/about.de.html))
+
+### K
+
 - Kohl [**&nearr;**](../../../ware/i/143119/about.de.html "Kohl (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Gm08 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143119,141657" title="über: Kohl : Mexiko" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143119/1416xx/141657/about.de.html))
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141657" title="über: Kohle : Mexiko" target="_blank">82 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1416xx/141657/about.de.html))
 - Kohlensäure [**&nearr;**](../../../ware/i/143122/about.de.html "Kohlensäure (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Sc06 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143122,141657" title="über: Kohlensäure : Mexiko" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143122/1416xx/141657/about.de.html))
 - Koka, Kokain [**&nearr;**](../../../ware/i/143124/about.de.html "Koka, Kokain (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID04-Dr05 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,141657" title="über: Koka, Kokain : Mexiko" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143124/1416xx/141657/about.de.html))
+
+### Ä
+
 - Äther [**&nearr;**](../../../ware/i/141945/about.de.html "Äther (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141945,141657" title="über: Äther : Mexiko" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141945/1416xx/141657/about.de.html))
 - Äthylbenzin [**&nearr;**](../../../ware/i/141946/about.de.html "Äthylbenzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141946,141657" title="über: Äthylbenzin : Mexiko" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141946/1416xx/141657/about.de.html))
 

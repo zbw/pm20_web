@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n24 Sm23]{.gray}&#8201; Misstände im Bankgewerbe und Kreditwesen&#160; 
+# [n24 Sm23]{.gray}&#8201; Misstände im Bankgewerbe und Kreditwesen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711042)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145391`</div>
 
 
 

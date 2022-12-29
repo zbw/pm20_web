@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [h4 Sm1.III]{.gray}&#8201; Passport system, foreign passport regulations for national citizens&#160; 
+# [h4 Sm1.III]{.gray}&#8201; Passport system, foreign passport regulations for national citizens &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700085)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144669`</div>
 
 
 

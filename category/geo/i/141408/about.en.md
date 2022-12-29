@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C58]{.gray}&#8201; Togoland&#160; 
+# [C58]{.gray}&#8201; Togoland &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q945) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Togo)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141408`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -205,11 +207,23 @@ For material not published as folders, please check the [digitized micro-films](
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 
+
+### A
+
 - Alcoholic beverage [**&nearr;**](../../../ware/i/141966/about.en.html "Alcoholic beverage (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20.02-Sp "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141408" title="about: Alcoholic beverage : Togoland" target="_blank">18 documents</a>) ([folder](../../../../folder/wa/1419xx/141966/1414xx/141408/about.en.html))
 - Aluminium [**&nearr;**](../../../ware/i/141969/about.en.html "Aluminium (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID07.01-Lm01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,141408" title="about: Aluminium : Togoland" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141969/1414xx/141408/about.en.html))
+
+### B
+
 - Banana [**&nearr;**](../../../ware/i/142038/about.en.html "Banana (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bn "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141408" title="about: Banana : Togoland" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142038/1414xx/141408/about.en.html))
+
+### C
+
 - Coal [**&nearr;**](../../../ware/i/143120/about.en.html "Coal (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB02.01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141408" title="about: Coal : Togoland" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1414xx/141408/about.en.html))
 - Cotton [**&nearr;**](../../../ware/i/142089/about.en.html "Cotton (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bw "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141408" title="about: Cotton : Togoland" target="_blank">30 documents</a>) ([folder](../../../../folder/wa/1420xx/142089/1414xx/141408/about.en.html))
+
+### M
+
 - Milkweed [**&nearr;**](../../../ware/i/142013/about.en.html "Milkweed (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Nf06 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142013,141408" title="about: Milkweed : Togoland" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142013/1414xx/141408/about.en.html))
 
 

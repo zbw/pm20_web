@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n32 Sm31.Ib]{.gray}&#8201; Maritime law of war, freedom of the seas&#160; 
+# [n32 Sm31.Ib]{.gray}&#8201; Maritime law of war, freedom of the seas &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711190)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145605`</div>
 
 
 

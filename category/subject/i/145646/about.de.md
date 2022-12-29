@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n33]{.gray}&#8201; Binnenschiffahrt&#160; 
+# [n33]{.gray}&#8201; Binnenschiffahrt &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428075)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145646`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n37a Sm3]{.gray}&#8201; Fire insurance&#160; 
+# [n37a Sm3]{.gray}&#8201; Fire insurance &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711304)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145735`</div>
 
 
 

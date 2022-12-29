@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Trailer&#160; 
+# Trailer &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q216146) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Trailer_(vehicle))
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141974`</div>
 
 
 

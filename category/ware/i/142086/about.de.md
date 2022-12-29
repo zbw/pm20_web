@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Baumaterial&#160; 
+# Baumaterial &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q206615) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Baustoff)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142086`</div>
 
 
 

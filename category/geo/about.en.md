@@ -12,7 +12,7 @@ fn-stub: about
 
 
 
-In total 303 categories,  subject folders, 2891
+In total 303 categories, 9201 subject folders, 2891
 ware folders.
 
 

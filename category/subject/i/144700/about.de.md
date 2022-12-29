@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [i1 Sm3]{.gray}&#8201; Gerichts- und Anwaltskosten, Gebühren&#160; 
+# [i1 Sm3]{.gray}&#8201; Gerichts- und Anwaltskosten, Gebühren &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700140)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144700`</div>
 
 
 

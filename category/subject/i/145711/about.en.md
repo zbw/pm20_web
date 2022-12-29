@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n36 Sm4]{.gray}&#8201; Foreign and foreign language press&#160; 
+# [n36 Sm4]{.gray}&#8201; Foreign and foreign language press &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711283)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145711`</div>
 
 
 

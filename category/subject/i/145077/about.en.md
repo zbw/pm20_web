@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n11 Sm1 (alt)]{.gray}&#8201; Fishing catches&#160; 
+# [n11 Sm1 (alt)]{.gray}&#8201; Fishing catches &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710547)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145077`</div>
 
 
 

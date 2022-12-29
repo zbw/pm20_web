@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n4a]{.gray}&#8201; Agriculture in individual provinces, states and cities&#160; 
+# [n4a]{.gray}&#8201; Agriculture in individual provinces, states and cities &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428024)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145068`</div>
 
 
 

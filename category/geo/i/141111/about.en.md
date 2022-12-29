@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B21]{.gray}&#8201; Turkey&#160; 
+# [B21]{.gray}&#8201; Turkey &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q43) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Turkey)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141111`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -718,6 +720,9 @@ For material not published as folders, please check the [digitized micro-films](
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 
+
+### A
+
 - Alcohol [**&nearr;**](../../../ware/i/163481/about.en.html "Alcohol (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13-Ko02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/163481,141111" title="about: Alcohol : Turkey" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1634xx/163481/1411xx/141111/about.en.html))
 - Alcoholic beverage [**&nearr;**](../../../ware/i/141966/about.en.html "Alcoholic beverage (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20.02-Sp "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141111" title="about: Alcoholic beverage : Turkey" target="_blank">117 documents</a>) ([folder](../../../../folder/wa/1419xx/141966/1411xx/141111/about.en.html))
 - Aluminium [**&nearr;**](../../../ware/i/141969/about.en.html "Aluminium (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID07.01-Lm01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,141111" title="about: Aluminium : Turkey" target="_blank">13 documents</a>) ([folder](../../../../folder/wa/1419xx/141969/1411xx/141111/about.en.html))
@@ -730,11 +735,17 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - Arsenic [**&nearr;**](../../../ware/i/142006/about.en.html "Arsenic (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID07.01-Hm02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142006,141111" title="about: Arsenic : Turkey" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1420xx/142006/1411xx/141111/about.en.html))
 - Asbestos [**&nearr;**](../../../ware/i/142014/about.en.html "Asbestos (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID23-As "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,141111" title="about: Asbestos : Turkey" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1420xx/142014/1411xx/141111/about.en.html))
 - Asphalt [**&nearr;**](../../../ware/i/142016/about.en.html "Asphalt (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID22-Bd01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141111" title="about: Asphalt : Turkey" target="_blank">4 documents</a>) ([folder](../../../../folder/wa/1420xx/142016/1411xx/141111/about.en.html))
+
+### B
+
 - Bakery machine [**&nearr;**](../../../ware/i/142027/about.en.html "Bakery machine (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID08-Nm01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142027,141111" title="about: Bakery machine : Turkey" target="_blank">4 documents</a>) ([folder](../../../../folder/wa/1420xx/142027/1411xx/141111/about.en.html))
 - Bakery product [**&nearr;**](../../../ware/i/142026/about.en.html "Bakery product (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20-Ba "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141111" title="about: Bakery product : Turkey" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1420xx/142026/1411xx/141111/about.en.html))
 - Banana [**&nearr;**](../../../ware/i/142038/about.en.html "Banana (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bn "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141111" title="about: Banana : Turkey" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1420xx/142038/1411xx/141111/about.en.html))
 - Batata [**&nearr;**](../../../ware/i/142049/about.en.html "Batata (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Kf02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142049,141111" title="about: Batata : Turkey" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142049/1411xx/141111/about.en.html))
 - Building material [**&nearr;**](../../../ware/i/142086/about.en.html "Building material (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID22-Bs "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141111" title="about: Building material : Turkey" target="_blank">16 documents</a>) ([folder](../../../../folder/wa/1420xx/142086/1411xx/141111/about.en.html))
+
+### C
+
 - Citrus fruits [**&nearr;**](../../../ware/i/141948/about.en.html "Citrus fruits (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Zs "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141111" title="about: Citrus fruits : Turkey" target="_blank">18 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1411xx/141111/about.en.html))
 - Clothing [**&nearr;**](../../../ware/i/142106/about.en.html "Clothing (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Bk "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141111" title="about: Clothing : Turkey" target="_blank">10 documents</a>) ([folder](../../../../folder/wa/1421xx/142106/1411xx/141111/about.en.html))
 - Coal [**&nearr;**](../../../ware/i/143120/about.en.html "Coal (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB02.01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141111" title="about: Coal : Turkey" target="_blank">416 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1411xx/141111/about.en.html))
@@ -747,10 +758,25 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - Cotton textiles [**&nearr;**](../../../ware/i/154932/about.en.html "Cotton textiles (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Bw02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/154932,141111" title="about: Cotton textiles : Turkey" target="_blank">37 documents</a>) ([folder](../../../../folder/wa/1549xx/154932/1411xx/141111/about.en.html))
 - Cotton yarn [**&nearr;**](../../../ware/i/196460/about.en.html "Cotton yarn (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Nf02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/196460,141111" title="about: Cotton yarn : Turkey" target="_blank">33 documents</a>) ([folder](../../../../folder/wa/1964xx/196460/1411xx/141111/about.en.html))
 - Cottonseed, cottonseed oil [**&nearr;**](../../../ware/i/142093/about.en.html "Cottonseed, cottonseed oil (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20-Oe01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142093,141111" title="about: Cottonseed, cottonseed oil : Turkey" target="_blank">13 documents</a>) ([folder](../../../../folder/wa/1420xx/142093/1411xx/141111/about.en.html))
+
+### F
+
 - Fittings (Armature) [**&nearr;**](../../../ware/i/142004/about.en.html "Fittings (Armature) (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID08-Ar "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142004,141111" title="about: Fittings (Armature) : Turkey" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142004/1411xx/141111/about.en.html))
+
+### M
+
 - Mining machine [**&nearr;**](../../../ware/i/142112/about.en.html "Mining machine (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID08-Bg "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142112,141111" title="about: Mining machine : Turkey" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1421xx/142112/1411xx/141111/about.en.html))
+
+### O
+
 - Orange [**&nearr;**](../../../ware/i/141981/about.en.html "Orange (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Zs01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,141111" title="about: Orange : Turkey" target="_blank">31 documents</a>) ([folder](../../../../folder/wa/1419xx/141981/1411xx/141111/about.en.html))
+
+### P
+
 - Petrol [**&nearr;**](../../../ware/i/142108/about.en.html "Petrol (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13.02-Ks02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141111" title="about: Petrol : Turkey" target="_blank">42 documents</a>) ([folder](../../../../folder/wa/1421xx/142108/1411xx/141111/about.en.html))
+
+### W
+
 - Waste and scrap [**&nearr;**](../../../ware/i/141942/about.en.html "Waste and scrap (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB01-01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141942,141111" title="about: Waste and scrap : Turkey" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141942/1411xx/141111/about.en.html))
 
 

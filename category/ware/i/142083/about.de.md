@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Bau- und Isolierplatten&#160; 
+# Bau- und Isolierplatten &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q113376050)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142083`</div>
 
-> Scope Note: (einschl.: Kacheln; Holzplatten)
-
+<div class="hint">
+Scope Note: (einschl.: Kacheln; Holzplatten)
+</div>
 
 
 

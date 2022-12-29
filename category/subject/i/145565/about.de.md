@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n31a]{.gray}&#8201; Bau, Ausbau, wirtschaftliche Förderung und Verwaltung einzelner Häfen&#160; 
+# [n31a]{.gray}&#8201; Bau, Ausbau, wirtschaftliche Förderung und Verwaltung einzelner Häfen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428070)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145565`</div>
 
 
 

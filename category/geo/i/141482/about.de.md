@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C125]{.gray}&#8201; Abessinien&#160; 
+# [C125]{.gray}&#8201; Abessinien &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q207521) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Kaiserreich_Abessinien)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141482`</div>
 
-> Scope Note: Abessinien, Äthiopien (ab 2.5.1945)
-
+<div class="hint">
+Scope Note: Abessinien, Äthiopien (ab 2.5.1945)
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -231,11 +233,20 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141482" title="über: Alkohol : Abessinien" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1414xx/141482/about.de.html))
+
+### B
+
 - Bau- und Isolierplatten [**&nearr;**](../../../ware/i/142083/about.de.html "Bau- und Isolierplatten (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bf01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142083,141482" title="über: Bau- und Isolierplatten : Abessinien" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142083/1414xx/141482/about.de.html))
 - Baumaterial [**&nearr;**](../../../ware/i/142086/about.de.html "Baumaterial (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141482" title="über: Baumaterial : Abessinien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142086/1414xx/141482/about.de.html))
 - Baumwolle [**&nearr;**](../../../ware/i/142089/about.de.html "Baumwolle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bw "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141482" title="über: Baumwolle : Abessinien" target="_blank">19 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142089/1414xx/141482/about.de.html))
 - Bekleidung [**&nearr;**](../../../ware/i/142106/about.de.html "Bekleidung (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bk "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141482" title="über: Bekleidung : Abessinien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142106/1414xx/141482/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141482" title="über: Kohle : Abessinien" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1414xx/141482/about.de.html))
 
 

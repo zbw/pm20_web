@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B91]{.gray}&#8201; Cochinchina&#160; 
+# [B91]{.gray}&#8201; Cochinchina
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141243`</div>
 
-> Scope Note: Hist. Bezeichnung für den Süden Vietnams und Teile des östlichen Kambodschas
-
+<div class="hint">
+Scope Note: Hist. Bezeichnung für den Süden Vietnams und Teile des östlichen Kambodschas
+</div>
 
 
 
@@ -34,11 +36,17 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Agrumen [**&nearr;**](../../../ware/i/141948/about.de.html "Agrumen (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141243" title="über: Agrumen : Cochinchina" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1412xx/141243/about.de.html))
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141243" title="über: Alkohol : Cochinchina" target="_blank">26 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1412xx/141243/about.de.html))
 - Ananas [**&nearr;**](../../../ware/i/141970/about.de.html "Ananas (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Tr01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141970,141243" title="über: Ananas : Cochinchina" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141970/1412xx/141243/about.de.html))
 - Anis [**&nearr;**](../../../ware/i/141976/about.de.html "Anis (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Gw01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141976,141243" title="über: Anis : Cochinchina" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141976/1412xx/141243/about.de.html))
 - Antimon [**&nearr;**](../../../ware/i/141977/about.de.html "Antimon (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Hm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141977,141243" title="über: Antimon : Cochinchina" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141977/1412xx/141243/about.de.html))
+
+### B
+
 - Bambus [**&nearr;**](../../../ware/i/142035/about.de.html "Bambus (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Gr02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142035,141243" title="über: Bambus : Cochinchina" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142035/1412xx/141243/about.de.html))
 - Batate [**&nearr;**](../../../ware/i/142049/about.de.html "Batate (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Kf02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142049,141243" title="über: Batate : Cochinchina" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142049/1412xx/141243/about.de.html))
 - Baumwolle [**&nearr;**](../../../ware/i/142089/about.de.html "Baumwolle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bw "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141243" title="über: Baumwolle : Cochinchina" target="_blank">28 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142089/1412xx/141243/about.de.html))
@@ -48,6 +56,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Bekleidung [**&nearr;**](../../../ware/i/142106/about.de.html "Bekleidung (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bk "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141243" title="über: Bekleidung : Cochinchina" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142106/1412xx/141243/about.de.html))
 - Benzin [**&nearr;**](../../../ware/i/142108/about.de.html "Benzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141243" title="über: Benzin : Cochinchina" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1412xx/141243/about.de.html))
 - Benzol [**&nearr;**](../../../ware/i/142110/about.de.html "Benzol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko04 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142110,141243" title="über: Benzol : Cochinchina" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142110/1412xx/141243/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141243" title="über: Kohle : Cochinchina" target="_blank">128 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1412xx/141243/about.de.html))
 - Koka, Kokain [**&nearr;**](../../../ware/i/143124/about.de.html "Koka, Kokain (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID04-Dr05 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,141243" title="über: Koka, Kokain : Cochinchina" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143124/1412xx/141243/about.de.html))
 

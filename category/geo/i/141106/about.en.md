@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B19]{.gray}&#8201; Rhodes and Dodecanese&#160; 
+# [B19]{.gray}&#8201; Rhodes and Dodecanese &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q131555) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Dodecanese)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141106`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -155,6 +157,9 @@ For material not published as folders, please check the [digitized micro-films](
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
+
+
+### A
 
 - Apricot [**&nearr;**](../../../ware/i/142001/about.en.html "Apricot (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Zs02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142001,141106" title="about: Apricot : Rhodes and Dodecanese" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142001/1411xx/141106/about.en.html))
 

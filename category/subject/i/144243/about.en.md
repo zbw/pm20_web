@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [d7 Sm2]{.gray}&#8201; Roman Catholic Church&#160; 
+# [d7 Sm2]{.gray}&#8201; Roman Catholic Church &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699267)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144243`</div>
 
 
 

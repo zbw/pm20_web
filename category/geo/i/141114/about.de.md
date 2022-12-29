@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B24]{.gray}&#8201; Syrien&#160; 
+# [B24]{.gray}&#8201; Syrien &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q858) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Syrien)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141114`</div>
 
 
 
@@ -355,12 +357,18 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Agrumen [**&nearr;**](../../../ware/i/141948/about.de.html "Agrumen (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141114" title="über: Agrumen : Syrien" target="_blank">16 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1411xx/141114/about.de.html))
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141114" title="über: Alkohol : Syrien" target="_blank">37 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1411xx/141114/about.de.html))
 - Anis [**&nearr;**](../../../ware/i/141976/about.de.html "Anis (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Gw01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141976,141114" title="über: Anis : Syrien" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141976/1411xx/141114/about.de.html))
 - Apfelsine [**&nearr;**](../../../ware/i/141981/about.de.html "Apfelsine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,141114" title="über: Apfelsine : Syrien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141981/1411xx/141114/about.de.html))
 - Aprikose [**&nearr;**](../../../ware/i/142001/about.de.html "Aprikose (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142001,141114" title="über: Aprikose : Syrien" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142001/1411xx/141114/about.de.html))
 - Asphalt [**&nearr;**](../../../ware/i/142016/about.de.html "Asphalt (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bd01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141114" title="über: Asphalt : Syrien" target="_blank">10 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142016/1411xx/141114/about.de.html))
+
+### B
+
 - Banane [**&nearr;**](../../../ware/i/142038/about.de.html "Banane (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bn "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141114" title="über: Banane : Syrien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142038/1411xx/141114/about.de.html))
 - Baumaterial [**&nearr;**](../../../ware/i/142086/about.de.html "Baumaterial (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141114" title="über: Baumaterial : Syrien" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142086/1411xx/141114/about.de.html))
 - Baumwolle [**&nearr;**](../../../ware/i/142089/about.de.html "Baumwolle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bw "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141114" title="über: Baumwolle : Syrien" target="_blank">63 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142089/1411xx/141114/about.de.html))
@@ -369,6 +377,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Baumwolltextilien [**&nearr;**](../../../ware/i/154932/about.de.html "Baumwolltextilien (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bw02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/154932,141114" title="über: Baumwolltextilien : Syrien" target="_blank">9 Dokumente</a>) ([Mappe](../../../../folder/wa/1549xx/154932/1411xx/141114/about.de.html))
 - Bekleidung [**&nearr;**](../../../ware/i/142106/about.de.html "Bekleidung (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bk "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141114" title="über: Bekleidung : Syrien" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142106/1411xx/141114/about.de.html))
 - Benzin [**&nearr;**](../../../ware/i/142108/about.de.html "Benzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141114" title="über: Benzin : Syrien" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1411xx/141114/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141114" title="über: Kohle : Syrien" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1411xx/141114/about.de.html))
 
 

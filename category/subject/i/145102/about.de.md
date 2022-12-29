@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n13 Sm4.I]{.gray}&#8201; Industrielle Verwertung von Naturkräften, Allgemein&#160; 
+# [n13 Sm4.I]{.gray}&#8201; Industrielle Verwertung von Naturkräften, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710570)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145102`</div>
 
 
 

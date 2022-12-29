@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [g Sm502 (A43)]{.gray}&#8201; Vertrag von Lausanne&#160; 
+# [g Sm502 (A43)]{.gray}&#8201; Vertrag von Lausanne &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699698)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144625`</div>
 
 
 

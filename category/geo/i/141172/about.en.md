@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B31]{.gray}&#8201; Yemen&#160; 
+# [B31]{.gray}&#8201; Yemen
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141172`</div>
 
 
 

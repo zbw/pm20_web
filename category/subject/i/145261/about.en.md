@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n17a]{.gray}&#8201; Construction and housing of individual states, provinces and cities&#160; 
+# [n17a]{.gray}&#8201; Construction and housing of individual states, provinces and cities &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428042)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145261`</div>
 
 
 

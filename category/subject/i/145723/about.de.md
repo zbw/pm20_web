@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n37]{.gray}&#8201; Versicherungswesen&#160; 
+# [n37]{.gray}&#8201; Versicherungswesen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428089)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145723`</div>
 
 
 

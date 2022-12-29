@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n15 Sm7.VI]{.gray}&#8201; Arbeitsverhältnisse, Gratifikationen&#160; 
+# [n15 Sm7.VI]{.gray}&#8201; Arbeitsverhältnisse, Gratifikationen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710717)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/187285`</div>
 
 
 

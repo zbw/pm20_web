@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B111]{.gray}&#8201; Japan&#160; 
+# [B111]{.gray}&#8201; Japan &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q17) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Japan)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141272`</div>
 
 
 
@@ -858,6 +860,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Asphalt [**&nearr;**](../../../ware/i/142016/about.de.html "Asphalt (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bd01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141272" title="über: Asphalt : Japan" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142016/1412xx/141272/about.de.html))
 - Auster [**&nearr;**](../../../ware/i/142019/about.de.html "Auster (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW07-Mt02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142019,141272" title="über: Auster : Japan" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142019/1412xx/141272/about.de.html))
 - Azeton [**&nearr;**](../../../ware/i/142022/about.de.html "Azeton (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko03 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142022,141272" title="über: Azeton : Japan" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142022/1412xx/141272/about.de.html))
+
+### B
+
 - Backwaren [**&nearr;**](../../../ware/i/142026/about.de.html "Backwaren (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141272" title="über: Backwaren : Japan" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142026/1412xx/141272/about.de.html))
 - Bakelit [**&nearr;**](../../../ware/i/142029/about.de.html "Bakelit (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID14-Ha01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142029,141272" title="über: Bakelit : Japan" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142029/1412xx/141272/about.de.html))
 - Bambus [**&nearr;**](../../../ware/i/142035/about.de.html "Bambus (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Gr02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142035,141272" title="über: Bambus : Japan" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142035/1412xx/141272/about.de.html))
@@ -876,6 +881,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Benzol [**&nearr;**](../../../ware/i/142110/about.de.html "Benzol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko04 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142110,141272" title="über: Benzol : Japan" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142110/1412xx/141272/about.de.html))
 - Beryllium [**&nearr;**](../../../ware/i/142103/about.de.html "Beryllium (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm03 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142103,141272" title="über: Beryllium : Japan" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142103/1412xx/141272/about.de.html))
 - Beschläge und Scharniere [**&nearr;**](../../../ware/i/142113/about.de.html "Beschläge und Scharniere (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.03-01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142113,141272" title="über: Beschläge und Scharniere : Japan" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142113/1412xx/141272/about.de.html))
+
+### K
+
 - Kohl [**&nearr;**](../../../ware/i/143119/about.de.html "Kohl (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Gm08 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143119,141272" title="über: Kohl : Japan" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143119/1412xx/141272/about.de.html))
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141272" title="über: Kohle : Japan" target="_blank">334 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1412xx/141272/about.de.html))
 - Kohlenstoff (Ruß) [**&nearr;**](../../../ware/i/143123/about.de.html "Kohlenstoff (Ruß) (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01-Ru "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143123,141272" title="über: Kohlenstoff (Ruß) : Japan" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143123/1412xx/141272/about.de.html))

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n32 Sm31.II]{.gray}&#8201; Maritime law of war, counter-gang&#160; 
+# [n32 Sm31.II]{.gray}&#8201; Maritime law of war, counter-gang &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711191)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145607`</div>
 
 
 

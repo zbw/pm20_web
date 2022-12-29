@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [q Sm32]{.gray}&#8201; Gründung und Verlegung von Hauptstädten&#160; 
+# [q Sm32]{.gray}&#8201; Gründung und Verlegung von Hauptstädten &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711406)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145984`</div>
 
 
 

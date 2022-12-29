@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n34]{.gray}&#8201; Postal services, telegraphy and telephony&#160; 
+# [n34]{.gray}&#8201; Postal services, telegraphy and telephony &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428078)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145662`</div>
 
 
 

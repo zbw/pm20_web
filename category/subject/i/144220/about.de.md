@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [c Sm2.II (alt)]{.gray}&#8201; Kartographie, Luftphotographie (bis 1945)&#160; 
+# [c Sm2.II (alt)]{.gray}&#8201; Kartographie, Luftphotographie (bis 1945) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699232)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144220`</div>
 
 
 

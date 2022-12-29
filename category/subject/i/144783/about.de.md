@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [l7]{.gray}&#8201; Besoldung, Pensionen, Kriegsunterstützungen, Versorgung ehemaliger Soldaten&#160; 
+# [l7]{.gray}&#8201; Besoldung, Pensionen, Kriegsunterstützungen, Versorgung ehemaliger Soldaten &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427923)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144783`</div>
 
 
 

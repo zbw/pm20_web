@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [f2 Sm1 (alt)]{.gray}&#8201; Popular mood and public opinion&#160; 
+# [f2 Sm1 (alt)]{.gray}&#8201; Popular mood and public opinion &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699308)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144287`</div>
 
 
 

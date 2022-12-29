@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B100]{.gray}&#8201; Kuangtschouwan&#160; 
+# [B100]{.gray}&#8201; Kuangtschouwan &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q185682) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Franz%C3%B6sisch-Indochina)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141266`</div>
 
-> Scope Note: Gebiet in China, 1898 an Frankreich verpachtet
-
+<div class="hint">
+Scope Note: Gebiet in China, 1898 an Frankreich verpachtet
+</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n24 Sm1]{.gray}&#8201; Moratorien, Gesetzl. Sperre des Zahlungsverkehrs&#160; 
+# [n24 Sm1]{.gray}&#8201; Moratorien, Gesetzl. Sperre des Zahlungsverkehrs &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710987)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145340`</div>
 
 
 

@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C93]{.gray}&#8201; Britisch-Südafrika&#160; 
+# [C93]{.gray}&#8201; Britisch-Südafrika &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q193619) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/S%C3%BCdafrikanische_Union)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141454`</div>
 
-> Scope Note: Britisch Südafrika, Südafrikanische Union (ab 2.5.1910), Südafrikanische Republik (ab 1961)
-
+<div class="hint">
+Scope Note: Britisch Südafrika, Südafrikanische Union (ab 2.5.1910), Südafrikanische Republik (ab 1961)
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -123,6 +125,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Automat [**&nearr;**](../../../ware/i/142020/about.de.html "Automat (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Au "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142020,141454" title="über: Automat : Britisch-Südafrika" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142020/1414xx/141454/about.de.html))
 - Axt, Beil, Hammer [**&nearr;**](../../../ware/i/141947/about.de.html "Axt, Beil, Hammer (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.03-Wz01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141947,141454" title="über: Axt, Beil, Hammer : Britisch-Südafrika" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141947/1414xx/141454/about.de.html))
 - Azeton [**&nearr;**](../../../ware/i/142022/about.de.html "Azeton (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko03 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142022,141454" title="über: Azeton : Britisch-Südafrika" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142022/1414xx/141454/about.de.html))
+
+### B
+
 - Backpulver [**&nearr;**](../../../ware/i/142024/about.de.html "Backpulver (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Lm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142024,141454" title="über: Backpulver : Britisch-Südafrika" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142024/1414xx/141454/about.de.html))
 - Backwaren [**&nearr;**](../../../ware/i/142026/about.de.html "Backwaren (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141454" title="über: Backwaren : Britisch-Südafrika" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142026/1414xx/141454/about.de.html))
 - Bambus [**&nearr;**](../../../ware/i/142035/about.de.html "Bambus (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Gr02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142035,141454" title="über: Bambus : Britisch-Südafrika" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142035/1414xx/141454/about.de.html))
@@ -139,6 +144,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Benzin [**&nearr;**](../../../ware/i/142108/about.de.html "Benzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141454" title="über: Benzin : Britisch-Südafrika" target="_blank">66 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1414xx/141454/about.de.html))
 - Bergbaumaschine [**&nearr;**](../../../ware/i/142112/about.de.html "Bergbaumaschine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Bg "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142112,141454" title="über: Bergbaumaschine : Britisch-Südafrika" target="_blank">10 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142112/1414xx/141454/about.de.html))
 - Beryllium [**&nearr;**](../../../ware/i/142103/about.de.html "Beryllium (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm03 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142103,141454" title="über: Beryllium : Britisch-Südafrika" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142103/1414xx/141454/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141454" title="über: Kohle : Britisch-Südafrika" target="_blank">269 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1414xx/141454/about.de.html))
 - Kohlemaschinen (Gewinnung und Aufbereitung) [**&nearr;**](../../../ware/i/143121/about.de.html "Kohlemaschinen (Gewinnung und Aufbereitung) (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Bg02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143121,141454" title="über: Kohlemaschinen (Gewinnung und Aufbereitung) : Britisch-Südafrika" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143121/1414xx/141454/about.de.html))
 - Kohlensäure [**&nearr;**](../../../ware/i/143122/about.de.html "Kohlensäure (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Sc06 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143122,141454" title="über: Kohlensäure : Britisch-Südafrika" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143122/1414xx/141454/about.de.html))

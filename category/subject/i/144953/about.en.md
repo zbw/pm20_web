@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n1 Sm21]{.gray}&#8201; Promotion of the rural population, combating rural exodus, general&#160; 
+# [n1 Sm21]{.gray}&#8201; Promotion of the rural population, combating rural exodus, general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710408)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144953`</div>
 
 
 

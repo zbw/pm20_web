@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n24 Sm8]{.gray}&#8201; Finance companies, investment trust companies, holding companies&#160; 
+# [n24 Sm8]{.gray}&#8201; Finance companies, investment trust companies, holding companies &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711002)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145367`</div>
 
 
 

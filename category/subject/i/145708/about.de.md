@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n36 Sm1]{.gray}&#8201; Beschränkung der Pressefreiheit, Zensur&#160; 
+# [n36 Sm1]{.gray}&#8201; Beschränkung der Pressefreiheit, Zensur &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711280)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145708`</div>
 
 
 

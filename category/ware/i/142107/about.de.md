@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Bentonit&#160; 
+# Bentonit &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q380149) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Bentonit)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142107`</div>
 
 
 

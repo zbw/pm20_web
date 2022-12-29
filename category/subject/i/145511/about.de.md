@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n28 Sm2.I]{.gray}&#8201; Reiseverkehr, Fremdenverkehr, Allgemein&#160; 
+# [n28 Sm2.I]{.gray}&#8201; Reiseverkehr, Fremdenverkehr, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711088)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145511`</div>
 
 
 

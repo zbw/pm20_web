@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n37 Sm2]{.gray}&#8201; Insurance, concentration movement&#160; 
+# [n37 Sm2]{.gray}&#8201; Insurance, concentration movement &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711292)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145725`</div>
 
 
 

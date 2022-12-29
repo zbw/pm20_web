@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [q Sm34]{.gray}&#8201; Mittelstandsbewegung&#160; 
+# [q Sm34]{.gray}&#8201; Mittelstandsbewegung &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711407)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145986`</div>
 
 
 

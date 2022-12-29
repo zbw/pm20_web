@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n18a]{.gray}&#8201; Trade in individual states, provinces, municipalities&#160; 
+# [n18a]{.gray}&#8201; Trade in individual states, provinces, municipalities &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428047)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145288`</div>
 
 
 

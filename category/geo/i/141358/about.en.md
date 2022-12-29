@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C25]{.gray}&#8201; French protectorate in Morocco&#160; 
+# [C25]{.gray}&#8201; French protectorate in Morocco &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q907234) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/French_protectorate_in_Morocco)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141358`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -385,6 +387,9 @@ For material not published as folders, please check the [digitized micro-films](
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 
+
+### A
+
 - Absinth [**&nearr;**](../../../ware/i/141943/about.en.html "Absinth (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20.02-Sp01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141943,141358" title="about: Absinth : French protectorate in Morocco" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141943/1413xx/141358/about.en.html))
 - Acacia bark [**&nearr;**](../../../ware/i/141950/about.en.html "Acacia bark (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW06-Fp01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141950,141358" title="about: Acacia bark : French protectorate in Morocco" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141950/1413xx/141358/about.en.html))
 - Alaun [**&nearr;**](../../../ware/i/141956/about.en.html "Alaun (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13-Pm02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141956,141358" title="about: Alaun : French protectorate in Morocco" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141956/1413xx/141358/about.en.html))
@@ -392,9 +397,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - Algae and seaweed [**&nearr;**](../../../ware/i/141959/about.en.html "Algae and seaweed (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW07-Mp01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141959,141358" title="about: Algae and seaweed : French protectorate in Morocco" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1419xx/141959/1413xx/141358/about.en.html))
 - Aluminium [**&nearr;**](../../../ware/i/141969/about.en.html "Aluminium (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID07.01-Lm01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,141358" title="about: Aluminium : French protectorate in Morocco" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1419xx/141969/1413xx/141358/about.en.html))
 - Apricot [**&nearr;**](../../../ware/i/142001/about.en.html "Apricot (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Zs02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142001,141358" title="about: Apricot : French protectorate in Morocco" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142001/1413xx/141358/about.en.html))
+
+### B
+
 - Bakery product [**&nearr;**](../../../ware/i/142026/about.en.html "Bakery product (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20-Ba "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141358" title="about: Bakery product : French protectorate in Morocco" target="_blank">4 documents</a>) ([folder](../../../../folder/wa/1420xx/142026/1413xx/141358/about.en.html))
 - Banana [**&nearr;**](../../../ware/i/142038/about.en.html "Banana (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bn "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141358" title="about: Banana : French protectorate in Morocco" target="_blank">5 documents</a>) ([folder](../../../../folder/wa/1420xx/142038/1413xx/141358/about.en.html))
 - Building material [**&nearr;**](../../../ware/i/142086/about.en.html "Building material (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID22-Bs "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141358" title="about: Building material : French protectorate in Morocco" target="_blank">12 documents</a>) ([folder](../../../../folder/wa/1420xx/142086/1413xx/141358/about.en.html))
+
+### C
+
 - Citrus fruits [**&nearr;**](../../../ware/i/141948/about.en.html "Citrus fruits (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Zs "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141358" title="about: Citrus fruits : French protectorate in Morocco" target="_blank">5 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1413xx/141358/about.en.html))
 - Clothing [**&nearr;**](../../../ware/i/142106/about.en.html "Clothing (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Bk "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141358" title="about: Clothing : French protectorate in Morocco" target="_blank">4 documents</a>) ([folder](../../../../folder/wa/1421xx/142106/1413xx/141358/about.en.html))
 - Coal [**&nearr;**](../../../ware/i/143120/about.en.html "Coal (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB02.01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141358" title="about: Coal : French protectorate in Morocco" target="_blank">62 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1413xx/141358/about.en.html))
@@ -402,9 +413,21 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - Construction machinery [**&nearr;**](../../../ware/i/142084/about.en.html "Construction machinery (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID08-Ba "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142084,141358" title="about: Construction machinery : French protectorate in Morocco" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142084/1413xx/141358/about.en.html))
 - Cotton [**&nearr;**](../../../ware/i/142089/about.en.html "Cotton (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bw "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141358" title="about: Cotton : French protectorate in Morocco" target="_blank">58 documents</a>) ([folder](../../../../folder/wa/1420xx/142089/1413xx/141358/about.en.html))
 - Cottonseed, cottonseed oil [**&nearr;**](../../../ware/i/142093/about.en.html "Cottonseed, cottonseed oil (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20-Oe01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142093,141358" title="about: Cottonseed, cottonseed oil : French protectorate in Morocco" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1420xx/142093/1413xx/141358/about.en.html))
+
+### H
+
 - Halfah grass [**&nearr;**](../../../ware/i/141957/about.en.html "Halfah grass (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Nf018 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141957,141358" title="about: Halfah grass : French protectorate in Morocco" target="_blank">7 documents</a>) ([folder](../../../../folder/wa/1419xx/141957/1413xx/141358/about.en.html))
+
+### M
+
 - Mining machine [**&nearr;**](../../../ware/i/142112/about.en.html "Mining machine (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID08-Bg "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142112,141358" title="about: Mining machine : French protectorate in Morocco" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1421xx/142112/1413xx/141358/about.en.html))
+
+### O
+
 - Oyster [**&nearr;**](../../../ware/i/142019/about.en.html "Oyster (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW07-Mt02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142019,141358" title="about: Oyster : French protectorate in Morocco" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1420xx/142019/1413xx/141358/about.en.html))
+
+### P
+
 - Petrol [**&nearr;**](../../../ware/i/142108/about.en.html "Petrol (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13.02-Ks02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141358" title="about: Petrol : French protectorate in Morocco" target="_blank">9 documents</a>) ([folder](../../../../folder/wa/1421xx/142108/1413xx/141358/about.en.html))
 
 

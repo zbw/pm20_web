@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [D1]{.gray}&#8201; Australien und südpazifischer Inselraum&#160; 
+# [D1]{.gray}&#8201; Australien und südpazifischer Inselraum &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q55643) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Australien_und_Ozeanien)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141592`</div>
 
 
 

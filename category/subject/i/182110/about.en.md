@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n20 III f]{.gray}&#8201; Self-service retail&#160; 
+# [n20 III f]{.gray}&#8201; Self-service retail &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710954)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/182110`</div>
 
 
 

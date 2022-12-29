@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n Sm45]{.gray}&#8201; Versorgungswirtschaft&#160; 
+# [n Sm45]{.gray}&#8201; Versorgungswirtschaft &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710370)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/163194`</div>
 
 
 

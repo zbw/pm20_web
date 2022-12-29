@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n35 Sm17.I]{.gray}&#8201; Luftrecht (mit Ausnahme von Luftkriegsrecht), Allgemein&#160; 
+# [n35 Sm17.I]{.gray}&#8201; Luftrecht (mit Ausnahme von Luftkriegsrecht), Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711274)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145695`</div>
 
 
 

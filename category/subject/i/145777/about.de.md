@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n Sm2.II]{.gray}&#8201; Zahlungsbilanz, im Verhältnis zu anderen Ländern&#160; 
+# [n Sm2.II]{.gray}&#8201; Zahlungsbilanz, im Verhältnis zu anderen Ländern &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700346)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145777`</div>
 
 
 

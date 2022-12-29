@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [h7 Sm4]{.gray}&#8201; Old-age provision, small-age pension provision&#160; 
+# [h7 Sm4]{.gray}&#8201; Old-age provision, small-age pension provision &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700096)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144683`</div>
 
 
 

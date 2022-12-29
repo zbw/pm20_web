@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Apparate und Instrumente&#160; 
+# Apparate und Instrumente &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q113376048)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141985`</div>
 
-> Scope Note: (einschl.: enth. auch: Apparate der Chemischen Industrie. Regulatoren, Filter, Verdampfer, Öler, Photozellen, Schalldämpfer, Ultraschall, Wärmetauscher)
-
+<div class="hint">
+Scope Note: (einschl.: enth. auch: Apparate der Chemischen Industrie. Regulatoren, Filter, Verdampfer, Öler, Photozellen, Schalldämpfer, Ultraschall, Wärmetauscher)
+</div>
 
 
 

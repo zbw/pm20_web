@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Auster&#160; 
+# Auster &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q107411) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Austern_(Lebensmittel))
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142019`</div>
 
 
 

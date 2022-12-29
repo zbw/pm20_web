@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n1 Sm8]{.gray}&#8201; Förderung der Produktion und der Produktivität, Forschung im Dienste der Wirtschaft&#160; 
+# [n1 Sm8]{.gray}&#8201; Förderung der Produktion und der Produktivität, Forschung im Dienste der Wirtschaft &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710395)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144939`</div>
 
 
 

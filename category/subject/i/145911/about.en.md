@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [o1 Sm500]{.gray}&#8201; German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)&#160; 
+# [o1 Sm500]{.gray}&#8201; German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711343)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145911`</div>
 
 
 

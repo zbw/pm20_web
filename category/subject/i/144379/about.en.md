@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [f4 Sm502.I (A10)]{.gray}&#8201; Workers' and economic councils, general&#160; 
+# [f4 Sm502.I (A10)]{.gray}&#8201; Workers' and economic councils, general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699644)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144379`</div>
 
 
 

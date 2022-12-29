@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [d7 Sm501.I (A10)]{.gray}&#8201; Konkordat, Allgemein&#160; 
+# [d7 Sm501.I (A10)]{.gray}&#8201; Konkordat, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699276)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144249`</div>
 
 
 

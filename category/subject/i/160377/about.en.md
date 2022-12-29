@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [q Sm501 (B24a)]{.gray}&#8201; Jewish state in Palestine&#160; 
+# [q Sm501 (B24a)]{.gray}&#8201; Jewish state in Palestine &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711418)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/160377`</div>
 
 
 

@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A8]{.gray}&#8201; Russische Randstaaten&#160; 
+# [A8]{.gray}&#8201; Russische Randstaaten &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q90303093)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140904`</div>
 
-> Scope Note: Baltische Staaten, Litauen, Polen, Finnland. Aus dem ehemaligen zarist. Russland neu entstandene Staaten (bis 1.1.1940)
-
+<div class="hint">
+Scope Note: Baltische Staaten, Litauen, Polen, Finnland. Aus dem ehemaligen zarist. Russland neu entstandene Staaten (bis 1.1.1940)
+</div>
 
 
 

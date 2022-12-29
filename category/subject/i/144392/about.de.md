@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [f4a Sm1]{.gray}&#8201; Wahlrecht einzelner Bundes- und Vasallenstaaten&#160; 
+# [f4a Sm1]{.gray}&#8201; Wahlrecht einzelner Bundes- und Vasallenstaaten &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104713023)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144392`</div>
 
-> Scope Note: Schlagwortvergabe möglich
-
+<div class="hint">
+Scope Note: Schlagwortvergabe möglich
+</div>
 
 
 

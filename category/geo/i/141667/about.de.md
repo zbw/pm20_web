@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [E46]{.gray}&#8201; Trinidad und Tobago&#160; 
+# [E46]{.gray}&#8201; Trinidad und Tobago
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141667`</div>
 
 
 
@@ -32,6 +34,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Agrumen [**&nearr;**](../../../ware/i/141948/about.de.html "Agrumen (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141667" title="über: Agrumen : Trinidad und Tobago" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1416xx/141667/about.de.html))
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141667" title="über: Alkohol : Trinidad und Tobago" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1416xx/141667/about.de.html))
 - Anhänger (Last- und Wohnanhänger) [**&nearr;**](../../../ware/i/141974/about.de.html "Anhänger (Last- und Wohnanhänger) (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID09.02-Kf "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141974,141667" title="über: Anhänger (Last- und Wohnanhänger) : Trinidad und Tobago" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141974/1416xx/141667/about.de.html))
@@ -39,6 +44,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Apfelsine [**&nearr;**](../../../ware/i/141981/about.de.html "Apfelsine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,141667" title="über: Apfelsine : Trinidad und Tobago" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141981/1416xx/141667/about.de.html))
 - Asphalt [**&nearr;**](../../../ware/i/142016/about.de.html "Asphalt (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bd01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141667" title="über: Asphalt : Trinidad und Tobago" target="_blank">12 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142016/1416xx/141667/about.de.html))
 - Automat [**&nearr;**](../../../ware/i/142020/about.de.html "Automat (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Au "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142020,141667" title="über: Automat : Trinidad und Tobago" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142020/1416xx/141667/about.de.html))
+
+### B
+
 - Bambus [**&nearr;**](../../../ware/i/142035/about.de.html "Bambus (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Gr02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142035,141667" title="über: Bambus : Trinidad und Tobago" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142035/1416xx/141667/about.de.html))
 - Banane [**&nearr;**](../../../ware/i/142038/about.de.html "Banane (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bn "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141667" title="über: Banane : Trinidad und Tobago" target="_blank">11 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142038/1416xx/141667/about.de.html))
 - Barium [**&nearr;**](../../../ware/i/142042/about.de.html "Barium (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142042,141667" title="über: Barium : Trinidad und Tobago" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142042/1416xx/141667/about.de.html))

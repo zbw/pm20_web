@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [E69]{.gray}&#8201; Nicaragua&#160; 
+# [E69]{.gray}&#8201; Nicaragua
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141682`</div>
 
 
 
@@ -32,7 +34,13 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141682" title="über: Alkohol : Nicaragua" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1416xx/141682/about.de.html))
+
+### B
+
 - Balsam [**&nearr;**](../../../ware/i/142032/about.de.html "Balsam (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW06-Fp02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142032,141682" title="über: Balsam : Nicaragua" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142032/1416xx/141682/about.de.html))
 - Banane [**&nearr;**](../../../ware/i/142038/about.de.html "Banane (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bn "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141682" title="über: Banane : Nicaragua" target="_blank">17 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142038/1416xx/141682/about.de.html))
 - Baumaterial [**&nearr;**](../../../ware/i/142086/about.de.html "Baumaterial (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141682" title="über: Baumaterial : Nicaragua" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142086/1416xx/141682/about.de.html))

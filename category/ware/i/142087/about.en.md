@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Tree clearing machine&#160; 
+# Tree clearing machine &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q111973901)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142087`</div>
 
 
 

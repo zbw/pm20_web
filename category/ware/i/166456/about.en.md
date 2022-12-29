@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Clothing industry, branches and accessories&#160; 
+# Clothing industry, branches and accessories &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q111973242)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/166456`</div>
 
 
 

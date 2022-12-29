@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B11]{.gray}&#8201; Sibirien&#160; 
+# [B11]{.gray}&#8201; Sibirien
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141066`</div>
 
-> Scope Note: bis 30.06.1931, dann Sowjetunion (Asiatischer Teil) (B 10)
-
+<div class="hint">
+Scope Note: bis 30.06.1931, dann Sowjetunion (Asiatischer Teil) (B 10)
+</div>
 
 
 
@@ -34,7 +36,13 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Asbest [**&nearr;**](../../../ware/i/142014/about.de.html "Asbest (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID23-As "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,141066" title="über: Asbest : Sibirien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142014/1410xx/141066/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141066" title="über: Kohle : Sibirien" target="_blank">10 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1410xx/141066/about.de.html))
 
 

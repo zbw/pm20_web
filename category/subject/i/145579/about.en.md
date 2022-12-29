@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n32 Sm9]{.gray}&#8201; Maritime shipping, public loans and subsidies&#160; 
+# [n32 Sm9]{.gray}&#8201; Maritime shipping, public loans and subsidies &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711161)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145579`</div>
 
 
 

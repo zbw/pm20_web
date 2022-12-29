@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [m Sm3]{.gray}&#8201; Fiskalisches Vermögen, Staatsschuld&#160; 
+# [m Sm3]{.gray}&#8201; Fiskalisches Vermögen, Staatsschuld &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700257)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144912`</div>
 
 
 

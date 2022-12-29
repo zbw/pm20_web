@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [g Sm501 (C125)]{.gray}&#8201; Abyssinian conflict and its effects&#160; 
+# [g Sm501 (C125)]{.gray}&#8201; Abyssinian conflict and its effects &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699696)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144606`</div>
 
 
 

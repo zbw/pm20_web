@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C19]{.gray}&#8201; Algerien&#160; 
+# [C19]{.gray}&#8201; Algerien &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q262) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Algerien)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141354`</div>
 
 
 
@@ -123,6 +125,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Absinth [**&nearr;**](../../../ware/i/141943/about.de.html "Absinth (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141943,141354" title="über: Absinth : Algerien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141943/1413xx/141354/about.de.html))
 - Agrumen [**&nearr;**](../../../ware/i/141948/about.de.html "Agrumen (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141354" title="über: Agrumen : Algerien" target="_blank">52 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1413xx/141354/about.de.html))
 - Alfagras [**&nearr;**](../../../ware/i/141957/about.de.html "Alfagras (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Nf018 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141957,141354" title="über: Alfagras : Algerien" target="_blank">42 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141957/1413xx/141354/about.de.html))
@@ -133,6 +138,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Apfelsine [**&nearr;**](../../../ware/i/141981/about.de.html "Apfelsine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,141354" title="über: Apfelsine : Algerien" target="_blank">22 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141981/1413xx/141354/about.de.html))
 - Artischocken [**&nearr;**](../../../ware/i/142012/about.de.html "Artischocken (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Gm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142012,141354" title="über: Artischocken : Algerien" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142012/1413xx/141354/about.de.html))
 - Auster [**&nearr;**](../../../ware/i/142019/about.de.html "Auster (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW07-Mt02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142019,141354" title="über: Auster : Algerien" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142019/1413xx/141354/about.de.html))
+
+### B
+
 - Bambus [**&nearr;**](../../../ware/i/142035/about.de.html "Bambus (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Gr02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142035,141354" title="über: Bambus : Algerien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142035/1413xx/141354/about.de.html))
 - Banane [**&nearr;**](../../../ware/i/142038/about.de.html "Banane (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bn "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141354" title="über: Banane : Algerien" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142038/1413xx/141354/about.de.html))
 - Barium [**&nearr;**](../../../ware/i/142042/about.de.html "Barium (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142042,141354" title="über: Barium : Algerien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142042/1413xx/141354/about.de.html))
@@ -141,6 +149,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Baumwolle [**&nearr;**](../../../ware/i/142089/about.de.html "Baumwolle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bw "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141354" title="über: Baumwolle : Algerien" target="_blank">62 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142089/1413xx/141354/about.de.html))
 - Bekleidung [**&nearr;**](../../../ware/i/142106/about.de.html "Bekleidung (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bk "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141354" title="über: Bekleidung : Algerien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142106/1413xx/141354/about.de.html))
 - Benzin [**&nearr;**](../../../ware/i/142108/about.de.html "Benzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141354" title="über: Benzin : Algerien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1413xx/141354/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141354" title="über: Kohle : Algerien" target="_blank">77 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1413xx/141354/about.de.html))
 - Kokosfaser [**&nearr;**](../../../ware/i/143125/about.de.html "Kokosfaser (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Nf11 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143125,141354" title="über: Kokosfaser : Algerien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143125/1413xx/141354/about.de.html))
 

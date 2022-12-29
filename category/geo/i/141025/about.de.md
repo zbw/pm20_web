@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A40d]{.gray}&#8201; Ungarn&#160; 
+# [A40d]{.gray}&#8201; Ungarn
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141025`</div>
 
 
 
@@ -52,6 +54,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Asclepiasfaser [**&nearr;**](../../../ware/i/142013/about.de.html "Asclepiasfaser (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Nf06 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142013,141025" title="über: Asclepiasfaser : Ungarn" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142013/1410xx/141025/about.de.html))
 - Asphalt [**&nearr;**](../../../ware/i/142016/about.de.html "Asphalt (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bd01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141025" title="über: Asphalt : Ungarn" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142016/1410xx/141025/about.de.html))
 - Automat [**&nearr;**](../../../ware/i/142020/about.de.html "Automat (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Au "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142020,141025" title="über: Automat : Ungarn" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142020/1410xx/141025/about.de.html))
+
+### B
+
 - Backwaren [**&nearr;**](../../../ware/i/142026/about.de.html "Backwaren (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141025" title="über: Backwaren : Ungarn" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142026/1410xx/141025/about.de.html))
 - Basalt [**&nearr;**](../../../ware/i/142046/about.de.html "Basalt (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID23-Na01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142046,141025" title="über: Basalt : Ungarn" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142046/1410xx/141025/about.de.html))
 - Bast [**&nearr;**](../../../ware/i/142048/about.de.html "Bast (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Nf01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142048,141025" title="über: Bast : Ungarn" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142048/1410xx/141025/about.de.html))
@@ -65,11 +70,17 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Benzin [**&nearr;**](../../../ware/i/142108/about.de.html "Benzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141025" title="über: Benzin : Ungarn" target="_blank">43 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1410xx/141025/about.de.html))
 - Benzol [**&nearr;**](../../../ware/i/142110/about.de.html "Benzol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko04 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142110,141025" title="über: Benzol : Ungarn" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142110/1410xx/141025/about.de.html))
 - Beryllium [**&nearr;**](../../../ware/i/142103/about.de.html "Beryllium (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm03 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142103,141025" title="über: Beryllium : Ungarn" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142103/1410xx/141025/about.de.html))
+
+### K
+
 - Kohl [**&nearr;**](../../../ware/i/143119/about.de.html "Kohl (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Gm08 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143119,141025" title="über: Kohl : Ungarn" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143119/1410xx/141025/about.de.html))
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141025" title="über: Kohle : Ungarn" target="_blank">390 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1410xx/141025/about.de.html))
 - Kohlenstoff (Ruß) [**&nearr;**](../../../ware/i/143123/about.de.html "Kohlenstoff (Ruß) (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01-Ru "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143123,141025" title="über: Kohlenstoff (Ruß) : Ungarn" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143123/1410xx/141025/about.de.html))
 - Kohlensäure [**&nearr;**](../../../ware/i/143122/about.de.html "Kohlensäure (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Sc06 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143122,141025" title="über: Kohlensäure : Ungarn" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143122/1410xx/141025/about.de.html))
 - Koka, Kokain [**&nearr;**](../../../ware/i/143124/about.de.html "Koka, Kokain (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID04-Dr05 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,141025" title="über: Koka, Kokain : Ungarn" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143124/1410xx/141025/about.de.html))
+
+### Ä
+
 - Äther [**&nearr;**](../../../ware/i/141945/about.de.html "Äther (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141945,141025" title="über: Äther : Ungarn" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141945/1410xx/141025/about.de.html))
 
 

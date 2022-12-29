@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B103]{.gray}&#8201; Kiautschou&#160; 
+# [B103]{.gray}&#8201; Kiautschou &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q675321) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Kiautschou)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/126163`</div>
 
-> Scope Note: bis 9.12.1922, dann China (B 94). Von 1898 bis 1914 eine deutsche Kolonie mit der Hauptstadt Tsingtau an der Südküste der Provinz Shandong der Volksrepublik China.
-
+<div class="hint">
+Scope Note: bis 9.12.1922, dann China (B 94). Von 1898 bis 1914 eine deutsche Kolonie mit der Hauptstadt Tsingtau an der Südküste der Provinz Shandong der Volksrepublik China.
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -182,7 +184,13 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,126163" title="über: Alkohol : Kiautschou" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1261xx/126163/about.de.html))
+
+### B
+
 - Baumwolle [**&nearr;**](../../../ware/i/142089/about.de.html "Baumwolle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bw "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,126163" title="über: Baumwolle : Kiautschou" target="_blank">11 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142089/1261xx/126163/about.de.html))
 
 

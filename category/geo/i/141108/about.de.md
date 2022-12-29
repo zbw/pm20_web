@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B20]{.gray}&#8201; Türkisch-Asien&#160; 
+# [B20]{.gray}&#8201; Türkisch-Asien &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q51614) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Kleinasien)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141108`</div>
 
-> Scope Note: bis 1920
-
+<div class="hint">
+Scope Note: bis 1920
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -127,7 +129,13 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### B
+
 - Baumwolle [**&nearr;**](../../../ware/i/142089/about.de.html "Baumwolle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bw "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141108" title="über: Baumwolle : Türkisch-Asien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142089/1411xx/141108/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141108" title="über: Kohle : Türkisch-Asien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1411xx/141108/about.de.html))
 
 

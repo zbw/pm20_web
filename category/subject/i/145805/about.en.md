@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n Sm19.I]{.gray}&#8201; Revaluation, general&#160; 
+# [n Sm19.I]{.gray}&#8201; Revaluation, general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700378)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145805`</div>
 
 
 

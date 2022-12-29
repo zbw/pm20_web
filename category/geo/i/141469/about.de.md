@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C105]{.gray}&#8201; Mauritius&#160; 
+# [C105]{.gray}&#8201; Mauritius &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q1027) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Mauritius)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141469`</div>
 
 
 
@@ -101,6 +103,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141469" title="über: Alkohol : Mauritius" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1414xx/141469/about.de.html))
 - Ananas [**&nearr;**](../../../ware/i/141970/about.de.html "Ananas (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Tr01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141970,141469" title="über: Ananas : Mauritius" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141970/1414xx/141469/about.de.html))
 - Apfel [**&nearr;**](../../../ware/i/141980/about.de.html "Apfel (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Ob01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141980,141469" title="über: Apfel : Mauritius" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141980/1414xx/141469/about.de.html))
+
+### B
+
 - Baumwolle [**&nearr;**](../../../ware/i/142089/about.de.html "Baumwolle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bw "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141469" title="über: Baumwolle : Mauritius" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142089/1414xx/141469/about.de.html))
 - Benzin [**&nearr;**](../../../ware/i/142108/about.de.html "Benzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141469" title="über: Benzin : Mauritius" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1414xx/141469/about.de.html))
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A10h]{.gray}&#8201; East Prussia&#160; 
+# [A10h]{.gray}&#8201; East Prussia
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140942`</div>
 
 
 
@@ -31,6 +33,9 @@ For material not published as folders, please check the [digitized micro-films](
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
+
+
+### A
 
 - Amber [**&nearr;**](../../../ware/i/142111/about.en.html "Amber (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID04-Sc01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142111,140942" title="about: Amber : East Prussia" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1421xx/142111/1409xx/140942/about.en.html))
 

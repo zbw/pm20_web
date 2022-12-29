@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A7]{.gray}&#8201; Orient&#160; 
+# [A7]{.gray}&#8201; Orient &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q48214) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Naher_Osten)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140902`</div>
 
-> Scope Note: Umfasst Ägypten, Arabien, Irak, Iran, Israel, Jordanien, Kuwait, Libanon, Syrien, Türkei, Golf von Akaba,  (einschl.: Levante, Nahost, Vorderer Orient, Vorderasien, Near East, Middle East, Proche Orient)
-
+<div class="hint">
+Scope Note: Umfasst Ägypten, Arabien, Irak, Iran, Israel, Jordanien, Kuwait, Libanon, Syrien, Türkei, Golf von Akaba,  (einschl.: Levante, Nahost, Vorderer Orient, Vorderasien, Near East, Middle East, Proche Orient)
+</div>
 
 
 

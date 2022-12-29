@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [k2 Sm1]{.gray}&#8201; Elementary schools&#160; 
+# [k2 Sm1]{.gray}&#8201; Elementary schools &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700192)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144740`</div>
 
 
 

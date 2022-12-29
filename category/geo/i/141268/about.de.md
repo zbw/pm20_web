@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B102]{.gray}&#8201; Hongkong&#160; 
+# [B102]{.gray}&#8201; Hongkong &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q8646) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Hongkong)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141268`</div>
 
 
 
@@ -247,6 +249,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Antimon [**&nearr;**](../../../ware/i/141977/about.de.html "Antimon (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Hm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141977,141268" title="über: Antimon : Hongkong" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141977/1412xx/141268/about.de.html))
 - Apfel [**&nearr;**](../../../ware/i/141980/about.de.html "Apfel (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Ob01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141980,141268" title="über: Apfel : Hongkong" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141980/1412xx/141268/about.de.html))
 - Apparate und Instrumente [**&nearr;**](../../../ware/i/141985/about.de.html "Apparate und Instrumente (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Ap "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141985,141268" title="über: Apparate und Instrumente : Hongkong" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141985/1412xx/141268/about.de.html))
+
+### B
+
 - Backwaren [**&nearr;**](../../../ware/i/142026/about.de.html "Backwaren (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141268" title="über: Backwaren : Hongkong" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142026/1412xx/141268/about.de.html))
 - Bambus [**&nearr;**](../../../ware/i/142035/about.de.html "Bambus (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Gr02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142035,141268" title="über: Bambus : Hongkong" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142035/1412xx/141268/about.de.html))
 - Baumaschine [**&nearr;**](../../../ware/i/142084/about.de.html "Baumaschine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142084,141268" title="über: Baumaschine : Hongkong" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142084/1412xx/141268/about.de.html))
@@ -254,6 +259,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Baumwollindustrie [**&nearr;**](../../../ware/i/142091/about.de.html "Baumwollindustrie (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bw01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142091,141268" title="über: Baumwollindustrie : Hongkong" target="_blank">12 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142091/1412xx/141268/about.de.html))
 - Bekleidung [**&nearr;**](../../../ware/i/142106/about.de.html "Bekleidung (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bk "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141268" title="über: Bekleidung : Hongkong" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142106/1412xx/141268/about.de.html))
 - Benzin [**&nearr;**](../../../ware/i/142108/about.de.html "Benzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141268" title="über: Benzin : Hongkong" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1412xx/141268/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141268" title="über: Kohle : Hongkong" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1412xx/141268/about.de.html))
 - Kokosfaser [**&nearr;**](../../../ware/i/143125/about.de.html "Kokosfaser (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Nf11 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143125,141268" title="über: Kokosfaser : Hongkong" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143125/1412xx/141268/about.de.html))
 

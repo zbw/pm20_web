@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A36]{.gray}&#8201; Italienische Kolonien&#160; 
+# [A36]{.gray}&#8201; Italienische Kolonien &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q926295) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Italienische_Kolonien)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141012`</div>
 
-> Scope Note: (einschl.: Imperium Romanum)
-
+<div class="hint">
+Scope Note: (einschl.: Imperium Romanum)
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -191,6 +193,9 @@ Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfil
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
 
+
+
+### B
 
 - Baumaterial [**&nearr;**](../../../ware/i/142086/about.de.html "Baumaterial (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141012" title="über: Baumaterial : Italienische Kolonien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142086/1410xx/141012/about.de.html))
 - Baumwolle [**&nearr;**](../../../ware/i/142089/about.de.html "Baumwolle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bw "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141012" title="über: Baumwolle : Italienische Kolonien" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142089/1410xx/141012/about.de.html))

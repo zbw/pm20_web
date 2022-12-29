@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [f5a.1f]{.gray}&#8201; The party as a whole, activity of the party&#160; 
+# [f5a.1f]{.gray}&#8201; The party as a whole, activity of the party &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699661)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144427`</div>
 
 
 

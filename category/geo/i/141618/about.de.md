@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [D18]{.gray}&#8201; Japanische Mandatländer in Ozeanien&#160; 
+# [D18]{.gray}&#8201; Japanische Mandatländer in Ozeanien &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q718763) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Japanisches_S%C3%BCdseemandat)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141618`</div>
 
-> Scope Note: Marianen, Karolinen Inseln, Nauru, Palau
-
+<div class="hint">
+Scope Note: Marianen, Karolinen Inseln, Nauru, Palau
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -144,6 +146,9 @@ Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfil
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
 
+
+
+### A
 
 - Aluminium [**&nearr;**](../../../ware/i/141969/about.de.html "Aluminium (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,141618" title="über: Aluminium : Japanische Mandatländer in Ozeanien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141969/1416xx/141618/about.de.html))
 

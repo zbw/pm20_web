@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [d5 Sm2]{.gray}&#8201; Social position of women&#160; 
+# [d5 Sm2]{.gray}&#8201; Social position of women &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699261)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144235`</div>
 
 
 

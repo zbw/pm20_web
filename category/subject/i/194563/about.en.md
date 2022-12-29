@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [f2 Sm7]{.gray}&#8201; Countermeasures against communism in non-communist countries&#160; 
+# [f2 Sm7]{.gray}&#8201; Countermeasures against communism in non-communist countries &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699315)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/194563`</div>
 
 
 

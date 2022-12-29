@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [D20]{.gray}&#8201; Niederländisch-Neuguinea&#160; 
+# [D20]{.gray}&#8201; Niederländisch-Neuguinea &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q941881) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Niederl%C3%A4ndisch-Neuguinea)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141619`</div>
 
-> Scope Note: westlichen Teil der Insel Neuguinea
-
+<div class="hint">
+Scope Note: westlichen Teil der Insel Neuguinea
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -120,6 +122,9 @@ Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfil
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
 
+
+
+### B
 
 - Batate [**&nearr;**](../../../ware/i/142049/about.de.html "Batate (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Kf02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142049,141619" title="über: Batate : Niederländisch-Neuguinea" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142049/1416xx/141619/about.de.html))
 - Baumwolle [**&nearr;**](../../../ware/i/142089/about.de.html "Baumwolle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bw "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141619" title="über: Baumwolle : Niederländisch-Neuguinea" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142089/1416xx/141619/about.de.html))

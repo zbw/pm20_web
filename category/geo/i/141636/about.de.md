@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [E1]{.gray}&#8201; Amerika&#160; 
+# [E1]{.gray}&#8201; Amerika
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141636`</div>
 
 
 

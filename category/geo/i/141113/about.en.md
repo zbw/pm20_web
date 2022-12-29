@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B23]{.gray}&#8201; Iraq&#160; 
+# [B23]{.gray}&#8201; Iraq &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q11767) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Mesopotamia)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141113`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -328,9 +330,18 @@ For material not published as folders, please check the [digitized micro-films](
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 
+
+### A
+
 - Alcoholic beverage [**&nearr;**](../../../ware/i/141966/about.en.html "Alcoholic beverage (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20.02-Sp "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141113" title="about: Alcoholic beverage : Iraq" target="_blank">10 documents</a>) ([folder](../../../../folder/wa/1419xx/141966/1411xx/141113/about.en.html))
 - Asphalt [**&nearr;**](../../../ware/i/142016/about.en.html "Asphalt (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID22-Bd01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141113" title="about: Asphalt : Iraq" target="_blank">5 documents</a>) ([folder](../../../../folder/wa/1420xx/142016/1411xx/141113/about.en.html))
+
+### B
+
 - Building material [**&nearr;**](../../../ware/i/142086/about.en.html "Building material (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID22-Bs "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141113" title="about: Building material : Iraq" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1420xx/142086/1411xx/141113/about.en.html))
+
+### C
+
 - Coal [**&nearr;**](../../../ware/i/143120/about.en.html "Coal (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB02.01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141113" title="about: Coal : Iraq" target="_blank">5 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1411xx/141113/about.en.html))
 - Cotton [**&nearr;**](../../../ware/i/142089/about.en.html "Cotton (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bw "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141113" title="about: Cotton : Iraq" target="_blank">102 documents</a>) ([folder](../../../../folder/wa/1420xx/142089/1411xx/141113/about.en.html))
 - Cotton industry [**&nearr;**](../../../ware/i/142091/about.en.html "Cotton industry (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Bw01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142091,141113" title="about: Cotton industry : Iraq" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1420xx/142091/1411xx/141113/about.en.html))

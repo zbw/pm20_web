@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A10(t2)]{.gray}&#8201; Germany (Federal Republic of Germany)&#160; 
+# [A10(t2)]{.gray}&#8201; Germany (Federal Republic of Germany) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q713750) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/West_Germany)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/187232`</div>
 
 
 

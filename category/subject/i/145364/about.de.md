@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n24 Sm5]{.gray}&#8201; Wertpapierhandel (ausser Börsenhandel), Beeinflussung privater Kapitalanlagen&#160; 
+# [n24 Sm5]{.gray}&#8201; Wertpapierhandel (ausser Börsenhandel), Beeinflussung privater Kapitalanlagen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710999)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145364`</div>
 
 
 

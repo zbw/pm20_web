@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [E101]{.gray}&#8201; Niederländisch-Guayana&#160; 
+# [E101]{.gray}&#8201; Niederländisch-Guayana &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q730) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Suriname)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141699`</div>
 
-> Scope Note: Surinam (ab 1975)
-
+<div class="hint">
+Scope Note: Surinam (ab 1975)
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -153,10 +155,16 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Agrumen [**&nearr;**](../../../ware/i/141948/about.de.html "Agrumen (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141699" title="über: Agrumen : Niederländisch-Guayana" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1416xx/141699/about.de.html))
 - Aloe [**&nearr;**](../../../ware/i/141967/about.de.html "Aloe (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Kr01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141967,141699" title="über: Aloe : Niederländisch-Guayana" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141967/1416xx/141699/about.de.html))
 - Aluminium [**&nearr;**](../../../ware/i/141969/about.de.html "Aluminium (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,141699" title="über: Aluminium : Niederländisch-Guayana" target="_blank">41 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141969/1416xx/141699/about.de.html))
 - Apfelsine [**&nearr;**](../../../ware/i/141981/about.de.html "Apfelsine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,141699" title="über: Apfelsine : Niederländisch-Guayana" target="_blank">10 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141981/1416xx/141699/about.de.html))
+
+### B
+
 - Balsam [**&nearr;**](../../../ware/i/142032/about.de.html "Balsam (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW06-Fp02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142032,141699" title="über: Balsam : Niederländisch-Guayana" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142032/1416xx/141699/about.de.html))
 - Banane [**&nearr;**](../../../ware/i/142038/about.de.html "Banane (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bn "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141699" title="über: Banane : Niederländisch-Guayana" target="_blank">117 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142038/1416xx/141699/about.de.html))
 - Baumwolle [**&nearr;**](../../../ware/i/142089/about.de.html "Baumwolle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bw "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141699" title="über: Baumwolle : Niederländisch-Guayana" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142089/1416xx/141699/about.de.html))

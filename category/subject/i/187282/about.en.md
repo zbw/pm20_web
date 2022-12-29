@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n14a Sm1]{.gray}&#8201; Precision engineering, optical industry&#160; 
+# [n14a Sm1]{.gray}&#8201; Precision engineering, optical industry &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710673)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/187282`</div>
 
 
 

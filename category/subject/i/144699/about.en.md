@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [i1 Sm2]{.gray}&#8201; Courts of foreign powers in ...&#160; 
+# [i1 Sm2]{.gray}&#8201; Courts of foreign powers in ... &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700139)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144699`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [b]{.gray}&#8201; The country and its people, politics and economy, general&#160; 
+# [b]{.gray}&#8201; The country and its people, politics and economy, general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427825)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144196`</div>
 
 
 

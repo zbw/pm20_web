@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n5]{.gray}&#8201; Viehwirtschaft&#160; 
+# [n5]{.gray}&#8201; Viehwirtschaft &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428025)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145069`</div>
 
-> Scope Note: Veterenärwesen
-
+<div class="hint">
+Scope Note: Veterenärwesen
+</div>
 
 
 

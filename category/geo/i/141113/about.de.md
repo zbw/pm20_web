@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B23]{.gray}&#8201; Irak&#160; 
+# [B23]{.gray}&#8201; Irak &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q11767) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Mesopotamien)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141113`</div>
 
-> Scope Note: (einschl.: Mesopotamien)
-
+<div class="hint">
+Scope Note: (einschl.: Mesopotamien)
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -330,12 +332,21 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141113" title="über: Alkohol : Irak" target="_blank">10 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1411xx/141113/about.de.html))
 - Asphalt [**&nearr;**](../../../ware/i/142016/about.de.html "Asphalt (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bd01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141113" title="über: Asphalt : Irak" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142016/1411xx/141113/about.de.html))
+
+### B
+
 - Baumaterial [**&nearr;**](../../../ware/i/142086/about.de.html "Baumaterial (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141113" title="über: Baumaterial : Irak" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142086/1411xx/141113/about.de.html))
 - Baumwolle [**&nearr;**](../../../ware/i/142089/about.de.html "Baumwolle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bw "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141113" title="über: Baumwolle : Irak" target="_blank">102 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142089/1411xx/141113/about.de.html))
 - Baumwollindustrie [**&nearr;**](../../../ware/i/142091/about.de.html "Baumwollindustrie (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bw01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142091,141113" title="über: Baumwollindustrie : Irak" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142091/1411xx/141113/about.de.html))
 - Baumwollsaat, Baumwollsaatöl [**&nearr;**](../../../ware/i/142093/about.de.html "Baumwollsaat, Baumwollsaatöl (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Oe01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142093,141113" title="über: Baumwollsaat, Baumwollsaatöl : Irak" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142093/1411xx/141113/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141113" title="über: Kohle : Irak" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1411xx/141113/about.de.html))
 
 

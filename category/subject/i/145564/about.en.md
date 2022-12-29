@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n31 Sm501 (A9)]{.gray}&#8201; Port community of the Lower Elbe area&#160; 
+# [n31 Sm501 (A9)]{.gray}&#8201; Port community of the Lower Elbe area &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711149)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145564`</div>
 
 
 

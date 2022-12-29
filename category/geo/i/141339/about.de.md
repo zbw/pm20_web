@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C15]{.gray}&#8201; Libyen&#160; 
+# [C15]{.gray}&#8201; Libyen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q1016) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Libyen)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141339`</div>
 
-> Scope Note: Libia Italiana
-
+<div class="hint">
+Scope Note: Libia Italiana
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -63,12 +65,18 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Agrumen [**&nearr;**](../../../ware/i/141948/about.de.html "Agrumen (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141339" title="über: Agrumen : Libyen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1413xx/141339/about.de.html))
 - Akazienrinde [**&nearr;**](../../../ware/i/141950/about.de.html "Akazienrinde (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW06-Fp01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141950,141339" title="über: Akazienrinde : Libyen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141950/1413xx/141339/about.de.html))
 - Alfagras [**&nearr;**](../../../ware/i/141957/about.de.html "Alfagras (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Nf018 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141957,141339" title="über: Alfagras : Libyen" target="_blank">24 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141957/1413xx/141339/about.de.html))
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141339" title="über: Alkohol : Libyen" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1413xx/141339/about.de.html))
 - Apfelsine [**&nearr;**](../../../ware/i/141981/about.de.html "Apfelsine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,141339" title="über: Apfelsine : Libyen" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141981/1413xx/141339/about.de.html))
 - Asphalt [**&nearr;**](../../../ware/i/142016/about.de.html "Asphalt (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bd01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141339" title="über: Asphalt : Libyen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142016/1413xx/141339/about.de.html))
+
+### B
+
 - Banane [**&nearr;**](../../../ware/i/142038/about.de.html "Banane (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bn "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141339" title="über: Banane : Libyen" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142038/1413xx/141339/about.de.html))
 - Baumaterial [**&nearr;**](../../../ware/i/142086/about.de.html "Baumaterial (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141339" title="über: Baumaterial : Libyen" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142086/1413xx/141339/about.de.html))
 - Benzin [**&nearr;**](../../../ware/i/142108/about.de.html "Benzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141339" title="über: Benzin : Libyen" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1413xx/141339/about.de.html))

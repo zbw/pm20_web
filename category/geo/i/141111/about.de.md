@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B21]{.gray}&#8201; Türkei (1923 -)&#160; 
+# [B21]{.gray}&#8201; Türkei (1923 -) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q43) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/T%C3%BCrkei)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141111`</div>
 
-> Scope Note: vor 1921 hier auch A 043!
-
+<div class="hint">
+Scope Note: vor 1921 hier auch A 043!
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -720,6 +722,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Abfälle und Altmaterial [**&nearr;**](../../../ware/i/141942/about.de.html "Abfälle und Altmaterial (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB01-01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141942,141111" title="über: Abfälle und Altmaterial : Türkei (1923 -)" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141942/1411xx/141111/about.de.html))
 - Agrumen [**&nearr;**](../../../ware/i/141948/about.de.html "Agrumen (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141111" title="über: Agrumen : Türkei (1923 -)" target="_blank">18 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1411xx/141111/about.de.html))
 - Alkohol (Chemie) [**&nearr;**](../../../ware/i/163481/about.de.html "Alkohol (Chemie) (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/163481,141111" title="über: Alkohol (Chemie) : Türkei (1923 -)" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1634xx/163481/1411xx/141111/about.de.html))
@@ -735,6 +740,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Arsen [**&nearr;**](../../../ware/i/142006/about.de.html "Arsen (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Hm02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142006,141111" title="über: Arsen : Türkei (1923 -)" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142006/1411xx/141111/about.de.html))
 - Asbest [**&nearr;**](../../../ware/i/142014/about.de.html "Asbest (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID23-As "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,141111" title="über: Asbest : Türkei (1923 -)" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142014/1411xx/141111/about.de.html))
 - Asphalt [**&nearr;**](../../../ware/i/142016/about.de.html "Asphalt (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bd01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141111" title="über: Asphalt : Türkei (1923 -)" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142016/1411xx/141111/about.de.html))
+
+### B
+
 - Backwaren [**&nearr;**](../../../ware/i/142026/about.de.html "Backwaren (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141111" title="über: Backwaren : Türkei (1923 -)" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142026/1411xx/141111/about.de.html))
 - Banane [**&nearr;**](../../../ware/i/142038/about.de.html "Banane (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bn "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141111" title="über: Banane : Türkei (1923 -)" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142038/1411xx/141111/about.de.html))
 - Batate [**&nearr;**](../../../ware/i/142049/about.de.html "Batate (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Kf02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142049,141111" title="über: Batate : Türkei (1923 -)" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142049/1411xx/141111/about.de.html))
@@ -751,6 +759,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Bergbaumaschine [**&nearr;**](../../../ware/i/142112/about.de.html "Bergbaumaschine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Bg "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142112,141111" title="über: Bergbaumaschine : Türkei (1923 -)" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142112/1411xx/141111/about.de.html))
 - Bernstein [**&nearr;**](../../../ware/i/142111/about.de.html "Bernstein (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID04-Sc01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142111,141111" title="über: Bernstein : Türkei (1923 -)" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142111/1411xx/141111/about.de.html))
 - Bäckereimaschine [**&nearr;**](../../../ware/i/142027/about.de.html "Bäckereimaschine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Nm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142027,141111" title="über: Bäckereimaschine : Türkei (1923 -)" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142027/1411xx/141111/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141111" title="über: Kohle : Türkei (1923 -)" target="_blank">416 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1411xx/141111/about.de.html))
 - Kohlemaschinen (Gewinnung und Aufbereitung) [**&nearr;**](../../../ware/i/143121/about.de.html "Kohlemaschinen (Gewinnung und Aufbereitung) (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Bg02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143121,141111" title="über: Kohlemaschinen (Gewinnung und Aufbereitung) : Türkei (1923 -)" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143121/1411xx/141111/about.de.html))
 - Kokosfaser [**&nearr;**](../../../ware/i/143125/about.de.html "Kokosfaser (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Nf11 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143125,141111" title="über: Kokosfaser : Türkei (1923 -)" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143125/1411xx/141111/about.de.html))

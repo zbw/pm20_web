@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [m2 Sm8]{.gray}&#8201; Customs top-up fees, statistical fees&#160; 
+# [m2 Sm8]{.gray}&#8201; Customs top-up fees, statistical fees &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700316)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144863`</div>
 
 
 

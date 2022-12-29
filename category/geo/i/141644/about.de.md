@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [E8]{.gray}&#8201; Kanada&#160; 
+# [E8]{.gray}&#8201; Kanada &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q16) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Kanada)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141644`</div>
 
-> Scope Note: früher: British Columbia (einschl.: Kanada, Canada)
-
+<div class="hint">
+Scope Note: früher: British Columbia (einschl.: Kanada, Canada)
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -63,6 +65,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Abfälle und Altmaterial [**&nearr;**](../../../ware/i/141942/about.de.html "Abfälle und Altmaterial (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB01-01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141942,141644" title="über: Abfälle und Altmaterial : Kanada" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141942/1416xx/141644/about.de.html))
 - Agrumen [**&nearr;**](../../../ware/i/141948/about.de.html "Agrumen (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141644" title="über: Agrumen : Kanada" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1416xx/141644/about.de.html))
 - Alaun [**&nearr;**](../../../ware/i/141956/about.de.html "Alaun (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Pm02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141956,141644" title="über: Alaun : Kanada" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141956/1416xx/141644/about.de.html))
@@ -83,6 +88,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Asphalt [**&nearr;**](../../../ware/i/142016/about.de.html "Asphalt (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bd01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141644" title="über: Asphalt : Kanada" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142016/1416xx/141644/about.de.html))
 - Auster [**&nearr;**](../../../ware/i/142019/about.de.html "Auster (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW07-Mt02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142019,141644" title="über: Auster : Kanada" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142019/1416xx/141644/about.de.html))
 - Azeton [**&nearr;**](../../../ware/i/142022/about.de.html "Azeton (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko03 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142022,141644" title="über: Azeton : Kanada" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142022/1416xx/141644/about.de.html))
+
+### B
+
 - Backpulver [**&nearr;**](../../../ware/i/142024/about.de.html "Backpulver (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Lm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142024,141644" title="über: Backpulver : Kanada" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142024/1416xx/141644/about.de.html))
 - Backwaren [**&nearr;**](../../../ware/i/142026/about.de.html "Backwaren (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141644" title="über: Backwaren : Kanada" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142026/1416xx/141644/about.de.html))
 - Banane [**&nearr;**](../../../ware/i/142038/about.de.html "Banane (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bn "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141644" title="über: Banane : Kanada" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142038/1416xx/141644/about.de.html))
@@ -104,12 +112,21 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Bernstein [**&nearr;**](../../../ware/i/142111/about.de.html "Bernstein (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID04-Sc01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142111,141644" title="über: Bernstein : Kanada" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142111/1416xx/141644/about.de.html))
 - Beryllium [**&nearr;**](../../../ware/i/142103/about.de.html "Beryllium (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm03 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142103,141644" title="über: Beryllium : Kanada" target="_blank">10 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142103/1416xx/141644/about.de.html))
 - Bäckereimaschine [**&nearr;**](../../../ware/i/142027/about.de.html "Bäckereimaschine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Nm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142027,141644" title="über: Bäckereimaschine : Kanada" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142027/1416xx/141644/about.de.html))
+
+### E
+
 - Erdöl [**&nearr;**](../../../ware/i/142294/about.de.html "Erdöl (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.06 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142294,141644" title="über: Erdöl : Kanada" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1422xx/142294/1416xx/141644/about.de.html))
+
+### K
+
 - Kohl [**&nearr;**](../../../ware/i/143119/about.de.html "Kohl (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Gm08 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143119,141644" title="über: Kohl : Kanada" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143119/1416xx/141644/about.de.html))
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141644" title="über: Kohle : Kanada" target="_blank">404 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1416xx/141644/about.de.html))
 - Kohlenstoff (Ruß) [**&nearr;**](../../../ware/i/143123/about.de.html "Kohlenstoff (Ruß) (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01-Ru "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143123,141644" title="über: Kohlenstoff (Ruß) : Kanada" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143123/1416xx/141644/about.de.html))
 - Kohlensäure [**&nearr;**](../../../ware/i/143122/about.de.html "Kohlensäure (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Sc06 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143122,141644" title="über: Kohlensäure : Kanada" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143122/1416xx/141644/about.de.html))
 - Koka, Kokain [**&nearr;**](../../../ware/i/143124/about.de.html "Koka, Kokain (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID04-Dr05 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,141644" title="über: Koka, Kokain : Kanada" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143124/1416xx/141644/about.de.html))
+
+### Ä
+
 - Äthylbenzin [**&nearr;**](../../../ware/i/141946/about.de.html "Äthylbenzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141946,141644" title="über: Äthylbenzin : Kanada" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141946/1416xx/141644/about.de.html))
 
 

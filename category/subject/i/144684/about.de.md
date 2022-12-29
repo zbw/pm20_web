@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [h7 Sm5]{.gray}&#8201; Obdachlosenfürsorge&#160; 
+# [h7 Sm5]{.gray}&#8201; Obdachlosenfürsorge &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700098)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144684`</div>
 
 
 

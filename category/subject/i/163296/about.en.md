@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [m1 Sm4]{.gray}&#8201; Domestic debt, especially bond policy in local currency&#160; 
+# [m1 Sm4]{.gray}&#8201; Domestic debt, especially bond policy in local currency &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700283)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/163296`</div>
 
 
 

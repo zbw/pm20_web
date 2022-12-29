@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n2 Sm7]{.gray}&#8201; Kapitalmarktübersichten, Neugründungen und Kapitalerhöhungen&#160; 
+# [n2 Sm7]{.gray}&#8201; Kapitalmarktübersichten, Neugründungen und Kapitalerhöhungen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710419)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144979`</div>
 
-> Scope Note: Statistik der Unternehmungsformen
-
+<div class="hint">
+Scope Note: Statistik der Unternehmungsformen
+</div>
 
 
 

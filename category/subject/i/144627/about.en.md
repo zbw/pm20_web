@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [g Sm502 (B111)]{.gray}&#8201; Japan-Russia-China Treaty of January 21, 1925&#160; 
+# [g Sm502 (B111)]{.gray}&#8201; Japan-Russia-China Treaty of January 21, 1925 &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699699)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144627`</div>
 
 
 

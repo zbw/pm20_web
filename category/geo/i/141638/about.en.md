@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [E3]{.gray}&#8201; Central America&#160; 
+# [E3]{.gray}&#8201; Central America
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141638`</div>
 
 
 
@@ -33,6 +35,9 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 - Banana [**&nearr;**](../../../ware/i/142038/about.en.html "Banana (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bn "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141638" title="about: Banana : Central America" target="_blank">9 documents</a>) ([folder](../../../../folder/wa/1420xx/142038/1416xx/141638/about.en.html))
+
+### C
+
 - Coal [**&nearr;**](../../../ware/i/143120/about.en.html "Coal (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB02.01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141638" title="about: Coal : Central America" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1416xx/141638/about.en.html))
 
 

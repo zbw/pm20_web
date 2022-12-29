@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C105]{.gray}&#8201; Mauritius&#160; 
+# [C105]{.gray}&#8201; Mauritius &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q1027) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Mauritius)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141469`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -100,7 +102,13 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 - Alcoholic beverage [**&nearr;**](../../../ware/i/141966/about.en.html "Alcoholic beverage (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20.02-Sp "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141469" title="about: Alcoholic beverage : Mauritius" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1419xx/141966/1414xx/141469/about.en.html))
 - Apple [**&nearr;**](../../../ware/i/141980/about.en.html "Apple (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Ob01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141980,141469" title="about: Apple : Mauritius" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141980/1414xx/141469/about.en.html))
+
+### C
+
 - Cotton [**&nearr;**](../../../ware/i/142089/about.en.html "Cotton (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bw "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141469" title="about: Cotton : Mauritius" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142089/1414xx/141469/about.en.html))
+
+### P
+
 - Petrol [**&nearr;**](../../../ware/i/142108/about.en.html "Petrol (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13.02-Ks02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141469" title="about: Petrol : Mauritius" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1421xx/142108/1414xx/141469/about.en.html))
 - Pineapple [**&nearr;**](../../../ware/i/141970/about.en.html "Pineapple (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Tr01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141970,141469" title="about: Pineapple : Mauritius" target="_blank">4 documents</a>) ([folder](../../../../folder/wa/1419xx/141970/1414xx/141469/about.en.html))
 

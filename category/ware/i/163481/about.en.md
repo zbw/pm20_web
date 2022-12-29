@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Alcohol&#160; 
+# Alcohol &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q153) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Ethanol)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/163481`</div>
 
 
 

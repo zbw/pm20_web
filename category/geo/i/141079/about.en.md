@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B18]{.gray}&#8201; Cyprus&#160; 
+# [B18]{.gray}&#8201; Cyprus &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q229) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Cyprus)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141079`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -101,12 +103,24 @@ For material not published as folders, please check the [digitized micro-films](
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 
+
+### A
+
 - Alcoholic beverage [**&nearr;**](../../../ware/i/141966/about.en.html "Alcoholic beverage (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20.02-Sp "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141079" title="about: Alcoholic beverage : Cyprus" target="_blank">4 documents</a>) ([folder](../../../../folder/wa/1419xx/141966/1410xx/141079/about.en.html))
 - Asbestos [**&nearr;**](../../../ware/i/142014/about.en.html "Asbestos (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID23-As "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,141079" title="about: Asbestos : Cyprus" target="_blank">8 documents</a>) ([folder](../../../../folder/wa/1420xx/142014/1410xx/141079/about.en.html))
+
+### C
+
 - Citrus fruits [**&nearr;**](../../../ware/i/141948/about.en.html "Citrus fruits (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Zs "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141079" title="about: Citrus fruits : Cyprus" target="_blank">18 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1410xx/141079/about.en.html))
 - Coal [**&nearr;**](../../../ware/i/143120/about.en.html "Coal (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB02.01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141079" title="about: Coal : Cyprus" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1410xx/141079/about.en.html))
 - Cotton [**&nearr;**](../../../ware/i/142089/about.en.html "Cotton (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bw "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141079" title="about: Cotton : Cyprus" target="_blank">10 documents</a>) ([folder](../../../../folder/wa/1420xx/142089/1410xx/141079/about.en.html))
+
+### O
+
 - Orange [**&nearr;**](../../../ware/i/141981/about.en.html "Orange (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Zs01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,141079" title="about: Orange : Cyprus" target="_blank">35 documents</a>) ([folder](../../../../folder/wa/1419xx/141981/1410xx/141079/about.en.html))
+
+### P
+
 - Petrol [**&nearr;**](../../../ware/i/142108/about.en.html "Petrol (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13.02-Ks02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141079" title="about: Petrol : Cyprus" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1421xx/142108/1410xx/141079/about.en.html))
 
 

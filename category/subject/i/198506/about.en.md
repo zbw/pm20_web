@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n32 Sm1]{.gray}&#8201; Postwar fate of German merchant ships&#160; 
+# [n32 Sm1]{.gray}&#8201; Postwar fate of German merchant ships &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711150)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/198506`</div>
 
 
 

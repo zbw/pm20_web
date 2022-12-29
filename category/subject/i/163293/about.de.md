@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [m1 Sm5]{.gray}&#8201; Äußere Schuld&#160; 
+# [m1 Sm5]{.gray}&#8201; Äußere Schuld &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700287)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/163293`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n20 Sm1]{.gray}&#8201; Kleinhandel, Kreditkauf&#160; 
+# [n20 Sm1]{.gray}&#8201; Kleinhandel, Kreditkauf &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710956)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145291`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [m5a Sm5]{.gray}&#8201; Im Ausland aufgenommene Anleihen einz. Städte&#160; 
+# [m5a Sm5]{.gray}&#8201; Im Ausland aufgenommene Anleihen einz. Städte &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700336)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/163260`</div>
 
 
 

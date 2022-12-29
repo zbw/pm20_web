@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [g4 Sm1]{.gray}&#8201; Tariff policy&#160; 
+# [g4 Sm1]{.gray}&#8201; Tariff policy &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699983)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/163419`</div>
 
 
 

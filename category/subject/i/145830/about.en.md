@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n Sm34]{.gray}&#8201; Measures and weights&#160; 
+# [n Sm34]{.gray}&#8201; Measures and weights &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710350)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145830`</div>
 
 
 

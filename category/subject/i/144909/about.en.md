@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [m Sm2.I]{.gray}&#8201; Private sector activity of the public sector, general&#160; 
+# [m Sm2.I]{.gray}&#8201; Private sector activity of the public sector, general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700252)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144909`</div>
 
 
 

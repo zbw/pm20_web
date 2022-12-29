@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n30 Sm504 (A10)]{.gray}&#8201; Bavaria and the Reichsbahn&#160; 
+# [n30 Sm504 (A10)]{.gray}&#8201; Bavaria and the Reichsbahn &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711143)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145553`</div>
 
 
 

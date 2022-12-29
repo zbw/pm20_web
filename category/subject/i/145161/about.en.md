@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n15 Sm2.III]{.gray}&#8201; Strikes, labor-management relations, technical emergency aid&#160; 
+# [n15 Sm2.III]{.gray}&#8201; Strikes, labor-management relations, technical emergency aid &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710704)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145161`</div>
 
 
 

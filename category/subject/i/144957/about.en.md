@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n1 Sm62]{.gray}&#8201; Inventory management for times of crisis&#160; 
+# [n1 Sm62]{.gray}&#8201; Inventory management for times of crisis &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710411)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144957`</div>
 
 
 

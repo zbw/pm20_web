@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [E72]{.gray}&#8201; Panama Canal Zone&#160; 
+# [E72]{.gray}&#8201; Panama Canal Zone
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141685`</div>
 
 
 
@@ -31,6 +33,9 @@ For material not published as folders, please check the [digitized micro-films](
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
+
+
+### C
 
 - Coal [**&nearr;**](../../../ware/i/143120/about.en.html "Coal (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB02.01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141685" title="about: Coal : Panama Canal Zone" target="_blank">6 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1416xx/141685/about.en.html))
 

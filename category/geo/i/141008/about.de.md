@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A35]{.gray}&#8201; Italien&#160; 
+# [A35]{.gray}&#8201; Italien
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141008`</div>
 
 
 
@@ -31,6 +33,9 @@ Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfil
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
 
+
+
+### A
 
 - Abfälle und Altmaterial [**&nearr;**](../../../ware/i/141942/about.de.html "Abfälle und Altmaterial (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB01-01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141942,141008" title="über: Abfälle und Altmaterial : Italien" target="_blank">15 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141942/1410xx/141008/about.de.html))
 - Agrumen [**&nearr;**](../../../ware/i/141948/about.de.html "Agrumen (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141008" title="über: Agrumen : Italien" target="_blank">216 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1410xx/141008/about.de.html))
@@ -58,6 +63,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Auster [**&nearr;**](../../../ware/i/142019/about.de.html "Auster (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW07-Mt02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142019,141008" title="über: Auster : Italien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142019/1410xx/141008/about.de.html))
 - Automat [**&nearr;**](../../../ware/i/142020/about.de.html "Automat (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Au "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142020,141008" title="über: Automat : Italien" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142020/1410xx/141008/about.de.html))
 - Avocatbirne [**&nearr;**](../../../ware/i/142021/about.de.html "Avocatbirne (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Ob02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142021,141008" title="über: Avocatbirne : Italien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142021/1410xx/141008/about.de.html))
+
+### B
+
 - Babassunuss [**&nearr;**](../../../ware/i/142023/about.de.html "Babassunuss (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Nu01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142023,141008" title="über: Babassunuss : Italien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142023/1410xx/141008/about.de.html))
 - Backwaren [**&nearr;**](../../../ware/i/142026/about.de.html "Backwaren (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141008" title="über: Backwaren : Italien" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142026/1410xx/141008/about.de.html))
 - Bakelit [**&nearr;**](../../../ware/i/142029/about.de.html "Bakelit (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID14-Ha01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142029,141008" title="über: Bakelit : Italien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142029/1410xx/141008/about.de.html))
@@ -81,11 +89,17 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Bernstein [**&nearr;**](../../../ware/i/142111/about.de.html "Bernstein (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID04-Sc01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142111,141008" title="über: Bernstein : Italien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142111/1410xx/141008/about.de.html))
 - Beryllium [**&nearr;**](../../../ware/i/142103/about.de.html "Beryllium (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm03 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142103,141008" title="über: Beryllium : Italien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142103/1410xx/141008/about.de.html))
 - Bäckereimaschine [**&nearr;**](../../../ware/i/142027/about.de.html "Bäckereimaschine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Nm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142027,141008" title="über: Bäckereimaschine : Italien" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142027/1410xx/141008/about.de.html))
+
+### K
+
 - Kohl [**&nearr;**](../../../ware/i/143119/about.de.html "Kohl (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Gm08 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143119,141008" title="über: Kohl : Italien" target="_blank">29 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143119/1410xx/141008/about.de.html))
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141008" title="über: Kohle : Italien" target="_blank">713 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1410xx/141008/about.de.html))
 - Kohlenstoff (Ruß) [**&nearr;**](../../../ware/i/143123/about.de.html "Kohlenstoff (Ruß) (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01-Ru "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143123,141008" title="über: Kohlenstoff (Ruß) : Italien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143123/1410xx/141008/about.de.html))
 - Kohlensäure [**&nearr;**](../../../ware/i/143122/about.de.html "Kohlensäure (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Sc06 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143122,141008" title="über: Kohlensäure : Italien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143122/1410xx/141008/about.de.html))
 - Koka, Kokain [**&nearr;**](../../../ware/i/143124/about.de.html "Koka, Kokain (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID04-Dr05 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,141008" title="über: Koka, Kokain : Italien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143124/1410xx/141008/about.de.html))
+
+### Ä
+
 - Äther [**&nearr;**](../../../ware/i/141945/about.de.html "Äther (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141945,141008" title="über: Äther : Italien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141945/1410xx/141008/about.de.html))
 
 

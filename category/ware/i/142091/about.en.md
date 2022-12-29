@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Cotton industry&#160; 
+# Cotton industry &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q56604650)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142091`</div>
 
 
 

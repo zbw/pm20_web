@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B57]{.gray}&#8201; Ceylon&#160; 
+# [B57]{.gray}&#8201; Ceylon &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q854) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Sri_Lanka)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141204`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -66,16 +68,28 @@ For material not published as folders, please check the [digitized micro-films](
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 
+
+### A
+
 - Alcoholic beverage [**&nearr;**](../../../ware/i/141966/about.en.html "Alcoholic beverage (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20.02-Sp "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141204" title="about: Alcoholic beverage : Ceylon" target="_blank">10 documents</a>) ([folder](../../../../folder/wa/1419xx/141966/1412xx/141204/about.en.html))
 - Aluminium [**&nearr;**](../../../ware/i/141969/about.en.html "Aluminium (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID07.01-Lm01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,141204" title="about: Aluminium : Ceylon" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141969/1412xx/141204/about.en.html))
+
+### B
+
 - Balsa wood [**&nearr;**](../../../ware/i/142033/about.en.html "Balsa wood (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW06-Hz02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142033,141204" title="about: Balsa wood : Ceylon" target="_blank">4 documents</a>) ([folder](../../../../folder/wa/1420xx/142033/1412xx/141204/about.en.html))
 - Bamboo [**&nearr;**](../../../ware/i/142035/about.en.html "Bamboo (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Gr02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142035,141204" title="about: Bamboo : Ceylon" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142035/1412xx/141204/about.en.html))
 - Banana [**&nearr;**](../../../ware/i/142038/about.en.html "Banana (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bn "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141204" title="about: Banana : Ceylon" target="_blank">20 documents</a>) ([folder](../../../../folder/wa/1420xx/142038/1412xx/141204/about.en.html))
+
+### C
+
 - Citrus fruits [**&nearr;**](../../../ware/i/141948/about.en.html "Citrus fruits (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Zs "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141204" title="about: Citrus fruits : Ceylon" target="_blank">5 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1412xx/141204/about.en.html))
 - Coal [**&nearr;**](../../../ware/i/143120/about.en.html "Coal (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB02.01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141204" title="about: Coal : Ceylon" target="_blank">6 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1412xx/141204/about.en.html))
 - Coca, cocaine [**&nearr;**](../../../ware/i/143124/about.en.html "Coca, cocaine (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID04-Dr05 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,141204" title="about: Coca, cocaine : Ceylon" target="_blank">8 documents</a>) ([folder](../../../../folder/wa/1431xx/143124/1412xx/141204/about.en.html))
 - Coir [**&nearr;**](../../../ware/i/143125/about.en.html "Coir (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Nf11 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143125,141204" title="about: Coir : Ceylon" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1431xx/143125/1412xx/141204/about.en.html))
 - Cotton [**&nearr;**](../../../ware/i/142089/about.en.html "Cotton (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bw "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141204" title="about: Cotton : Ceylon" target="_blank">38 documents</a>) ([folder](../../../../folder/wa/1420xx/142089/1412xx/141204/about.en.html))
+
+### P
+
 - Petrol [**&nearr;**](../../../ware/i/142108/about.en.html "Petrol (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13.02-Ks02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141204" title="about: Petrol : Ceylon" target="_blank">4 documents</a>) ([folder](../../../../folder/wa/1421xx/142108/1412xx/141204/about.en.html))
 - Pineapple [**&nearr;**](../../../ware/i/141970/about.en.html "Pineapple (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Tr01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141970,141204" title="about: Pineapple : Ceylon" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141970/1412xx/141204/about.en.html))
 

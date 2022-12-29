@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A5a]{.gray}&#8201; Mediterranean region&#160; 
+# [A5a]{.gray}&#8201; Mediterranean region &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q72499) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Mediterranean_Basin)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140899`</div>
 
 
 

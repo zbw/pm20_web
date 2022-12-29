@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [q Sm27.IIIb]{.gray}&#8201; Arbitration, mixed arbitration courts between two countries, individuals&#160; 
+# [q Sm27.IIIb]{.gray}&#8201; Arbitration, mixed arbitration courts between two countries, individuals &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711402)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145978`</div>
 
 
 

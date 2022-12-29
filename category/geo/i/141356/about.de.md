@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C24]{.gray}&#8201; Marokko&#160; 
+# [C24]{.gray}&#8201; Marokko &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q1028) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Marokko)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141356`</div>
 
 
 
@@ -121,8 +123,14 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Aluminium [**&nearr;**](../../../ware/i/141969/about.de.html "Aluminium (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,141356" title="über: Aluminium : Marokko" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141969/1413xx/141356/about.de.html))
 - Apfelsine [**&nearr;**](../../../ware/i/141981/about.de.html "Apfelsine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,141356" title="über: Apfelsine : Marokko" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141981/1413xx/141356/about.de.html))
+
+### B
+
 - Baumaterial [**&nearr;**](../../../ware/i/142086/about.de.html "Baumaterial (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141356" title="über: Baumaterial : Marokko" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142086/1413xx/141356/about.de.html))
 
 

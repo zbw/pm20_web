@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n28 Sm8.I]{.gray}&#8201; Freight transport, general&#160; 
+# [n28 Sm8.I]{.gray}&#8201; Freight transport, general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711100)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/197873`</div>
 
 
 

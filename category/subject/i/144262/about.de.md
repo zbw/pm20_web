@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [d Sm501 (A10)]{.gray}&#8201; Ehestandsdarlehen und -beihilfe&#160; 
+# [d Sm501 (A10)]{.gray}&#8201; Ehestandsdarlehen und -beihilfe &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699247)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144262`</div>
 
 
 

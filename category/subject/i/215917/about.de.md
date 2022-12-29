@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n29 Sm20]{.gray}&#8201; Landstrassen, Wege, Brücken (einschl. ihres Verkehrs), Konferenzen&#160; 
+# [n29 Sm20]{.gray}&#8201; Landstrassen, Wege, Brücken (einschl. ihres Verkehrs), Konferenzen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711108)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/215917`</div>
 
 
 

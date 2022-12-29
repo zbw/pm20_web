@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A58]{.gray}&#8201; Lettland&#160; 
+# [A58]{.gray}&#8201; Lettland
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141050`</div>
 
 
 
@@ -32,6 +34,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Agrumen [**&nearr;**](../../../ware/i/141948/about.de.html "Agrumen (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141050" title="über: Agrumen : Lettland" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1410xx/141050/about.de.html))
 - Algen und Seetang [**&nearr;**](../../../ware/i/141959/about.de.html "Algen und Seetang (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW07-Mp01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141959,141050" title="über: Algen und Seetang : Lettland" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141959/1410xx/141050/about.de.html))
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141050" title="über: Alkohol : Lettland" target="_blank">185 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1410xx/141050/about.de.html))
@@ -40,6 +45,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Apfel [**&nearr;**](../../../ware/i/141980/about.de.html "Apfel (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Ob01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141980,141050" title="über: Apfel : Lettland" target="_blank">11 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141980/1410xx/141050/about.de.html))
 - Apfelsine [**&nearr;**](../../../ware/i/141981/about.de.html "Apfelsine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,141050" title="über: Apfelsine : Lettland" target="_blank">13 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141981/1410xx/141050/about.de.html))
 - Azeton [**&nearr;**](../../../ware/i/142022/about.de.html "Azeton (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko03 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142022,141050" title="über: Azeton : Lettland" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142022/1410xx/141050/about.de.html))
+
+### B
+
 - Backwaren [**&nearr;**](../../../ware/i/142026/about.de.html "Backwaren (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141050" title="über: Backwaren : Lettland" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142026/1410xx/141050/about.de.html))
 - Bagger [**&nearr;**](../../../ware/i/142028/about.de.html "Bagger (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID09.02-Nf01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142028,141050" title="über: Bagger : Lettland" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142028/1410xx/141050/about.de.html))
 - Barium [**&nearr;**](../../../ware/i/142042/about.de.html "Barium (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142042,141050" title="über: Barium : Lettland" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142042/1410xx/141050/about.de.html))
@@ -51,6 +59,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Benzin [**&nearr;**](../../../ware/i/142108/about.de.html "Benzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141050" title="über: Benzin : Lettland" target="_blank">19 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1410xx/141050/about.de.html))
 - Benzol [**&nearr;**](../../../ware/i/142110/about.de.html "Benzol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko04 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142110,141050" title="über: Benzol : Lettland" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142110/1410xx/141050/about.de.html))
 - Bernstein [**&nearr;**](../../../ware/i/142111/about.de.html "Bernstein (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID04-Sc01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142111,141050" title="über: Bernstein : Lettland" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142111/1410xx/141050/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141050" title="über: Kohle : Lettland" target="_blank">95 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1410xx/141050/about.de.html))
 - Kohlenstoff (Ruß) [**&nearr;**](../../../ware/i/143123/about.de.html "Kohlenstoff (Ruß) (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01-Ru "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143123,141050" title="über: Kohlenstoff (Ruß) : Lettland" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143123/1410xx/141050/about.de.html))
 - Koka, Kokain [**&nearr;**](../../../ware/i/143124/about.de.html "Koka, Kokain (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID04-Dr05 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,141050" title="über: Koka, Kokain : Lettland" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143124/1410xx/141050/about.de.html))

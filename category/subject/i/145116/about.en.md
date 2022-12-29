@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n13a]{.gray}&#8201; Individual branches of industry&#160; 
+# [n13a]{.gray}&#8201; Individual branches of industry &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428033)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145116`</div>
 
 
 

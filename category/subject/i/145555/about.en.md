@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n30 Sm505 (A10)]{.gray}&#8201; Railway reform based on the Dawes plan&#160; 
+# [n30 Sm505 (A10)]{.gray}&#8201; Railway reform based on the Dawes plan &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711144)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145555`</div>
 
 
 

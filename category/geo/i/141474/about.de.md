@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C115]{.gray}&#8201; Sansibar&#160; 
+# [C115]{.gray}&#8201; Sansibar &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q1774) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Sansibar)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141474`</div>
 
-> Scope Note: Inselgruppe vor der Ostküste Afrikas, britische Kolonie, ab 1963 unabhängig, zusammen mit Tanganyika ab 1964 zum Staat Tansania zusammengeschlossen
-
+<div class="hint">
+Scope Note: Inselgruppe vor der Ostküste Afrikas, britische Kolonie, ab 1963 unabhängig, zusammen mit Tanganyika ab 1964 zum Staat Tansania zusammengeschlossen
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -63,7 +65,13 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141474" title="über: Alkohol : Sansibar" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1414xx/141474/about.de.html))
+
+### B
+
 - Baumwolle [**&nearr;**](../../../ware/i/142089/about.de.html "Baumwolle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bw "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141474" title="über: Baumwolle : Sansibar" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142089/1414xx/141474/about.de.html))
 - Bekleidung [**&nearr;**](../../../ware/i/142106/about.de.html "Bekleidung (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bk "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141474" title="über: Bekleidung : Sansibar" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142106/1414xx/141474/about.de.html))
 

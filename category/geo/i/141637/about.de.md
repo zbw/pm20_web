@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [E2]{.gray}&#8201; Nordamerika&#160; 
+# [E2]{.gray}&#8201; Nordamerika
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141637`</div>
 
-> Scope Note: Einschl. Grönland, ohne Mexiko
-
+<div class="hint">
+Scope Note: Einschl. Grönland, ohne Mexiko
+</div>
 
 
 

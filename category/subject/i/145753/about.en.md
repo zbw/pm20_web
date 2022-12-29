@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n37a Sm18]{.gray}&#8201; Motor vehicle insurance (combined). Car insurance&#160; 
+# [n37a Sm18]{.gray}&#8201; Motor vehicle insurance (combined). Car insurance &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711319)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145753`</div>
 
 
 

@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C110]{.gray}&#8201; Deutsch-Ostafrika&#160; 
+# [C110]{.gray}&#8201; Deutsch-Ostafrika &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q153963) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Deutsch-Ostafrika)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141471`</div>
 
-> Scope Note: Deutsch Ostafrika (1891-1920), Tanganyika territory (ab 1920 brit. Mandat), Republik Tanganyika (1962-64), mit Sansibar zusammengeschlossen zu Vereinigter Republik von Tansania
-
+<div class="hint">
+Scope Note: Deutsch Ostafrika (1891-1920), Tanganyika territory (ab 1920 brit. Mandat), Republik Tanganyika (1962-64), mit Sansibar zusammengeschlossen zu Vereinigter Republik von Tansania
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -355,10 +357,16 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Akazienrinde [**&nearr;**](../../../ware/i/141950/about.de.html "Akazienrinde (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW06-Fp01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141950,141471" title="über: Akazienrinde : Deutsch-Ostafrika" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141950/1414xx/141471/about.de.html))
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141471" title="über: Alkohol : Deutsch-Ostafrika" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1414xx/141471/about.de.html))
 - Ananas [**&nearr;**](../../../ware/i/141970/about.de.html "Ananas (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Tr01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141970,141471" title="über: Ananas : Deutsch-Ostafrika" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141970/1414xx/141471/about.de.html))
 - Asbest [**&nearr;**](../../../ware/i/142014/about.de.html "Asbest (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID23-As "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,141471" title="über: Asbest : Deutsch-Ostafrika" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142014/1414xx/141471/about.de.html))
+
+### B
+
 - Backwaren [**&nearr;**](../../../ware/i/142026/about.de.html "Backwaren (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141471" title="über: Backwaren : Deutsch-Ostafrika" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142026/1414xx/141471/about.de.html))
 - Bambus [**&nearr;**](../../../ware/i/142035/about.de.html "Bambus (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Gr02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142035,141471" title="über: Bambus : Deutsch-Ostafrika" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142035/1414xx/141471/about.de.html))
 - Banane [**&nearr;**](../../../ware/i/142038/about.de.html "Banane (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bn "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141471" title="über: Banane : Deutsch-Ostafrika" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142038/1414xx/141471/about.de.html))
@@ -367,6 +375,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Baumwollsaat, Baumwollsaatöl [**&nearr;**](../../../ware/i/142093/about.de.html "Baumwollsaat, Baumwollsaatöl (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Oe01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142093,141471" title="über: Baumwollsaat, Baumwollsaatöl : Deutsch-Ostafrika" target="_blank">9 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142093/1414xx/141471/about.de.html))
 - Bekleidung [**&nearr;**](../../../ware/i/142106/about.de.html "Bekleidung (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bk "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141471" title="über: Bekleidung : Deutsch-Ostafrika" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142106/1414xx/141471/about.de.html))
 - Benzin [**&nearr;**](../../../ware/i/142108/about.de.html "Benzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141471" title="über: Benzin : Deutsch-Ostafrika" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1414xx/141471/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141471" title="über: Kohle : Deutsch-Ostafrika" target="_blank">31 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1414xx/141471/about.de.html))
 
 

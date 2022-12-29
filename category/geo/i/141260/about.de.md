@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B98]{.gray}&#8201; Tannu-Tuwa&#160; 
+# [B98]{.gray}&#8201; Tannu-Tuwa &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q816709) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Tuwinische_Volksrepublik)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141260`</div>
 
-> Scope Note: 1921-1944. Tuwa: autonome Republik im südlichen Teil des asiatischen Russlands
-
+<div class="hint">
+Scope Note: 1921-1944. Tuwa: autonome Republik im südlichen Teil des asiatischen Russlands
+</div>
 
 
 

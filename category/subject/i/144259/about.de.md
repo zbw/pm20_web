@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [d Sm1]{.gray}&#8201; Rassismus, Eugenik, NS-Rassenhygiene (-1945)&#160; 
+# [d Sm1]{.gray}&#8201; Rassismus, Eugenik, NS-Rassenhygiene (-1945) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699241)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144259`</div>
 
-> Scope Note: In der alten Hamburger Systematik unter "Erhaltung und Reinerhaltung der Rasse, Rassenhygiene"
-
+<div class="hint">
+Scope Note: In der alten Hamburger Systematik unter "Erhaltung und Reinerhaltung der Rasse, Rassenhygiene"
+</div>
 
 
 

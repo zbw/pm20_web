@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B100]{.gray}&#8201; Guangzhouwan&#160; 
+# [B100]{.gray}&#8201; Guangzhouwan &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q185682) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/French_Indochina)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141266`</div>
 
 
 

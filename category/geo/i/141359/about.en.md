@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C26]{.gray}&#8201; Spanish protectorate in Morocco&#160; 
+# [C26]{.gray}&#8201; Spanish protectorate in Morocco &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q457242) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Spanish_protectorate_in_Morocco)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141359`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -234,11 +236,23 @@ For material not published as folders, please check the [digitized micro-films](
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 
+
+### A
+
 - Antimony [**&nearr;**](../../../ware/i/141977/about.en.html "Antimony (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID07.01-Hm01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141977,141359" title="about: Antimony : Spanish protectorate in Morocco" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1419xx/141977/1413xx/141359/about.en.html))
+
+### B
+
 - Bakery product [**&nearr;**](../../../ware/i/142026/about.en.html "Bakery product (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20-Ba "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141359" title="about: Bakery product : Spanish protectorate in Morocco" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142026/1413xx/141359/about.en.html))
 - Building material [**&nearr;**](../../../ware/i/142086/about.en.html "Building material (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID22-Bs "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141359" title="about: Building material : Spanish protectorate in Morocco" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142086/1413xx/141359/about.en.html))
+
+### C
+
 - Coal [**&nearr;**](../../../ware/i/143120/about.en.html "Coal (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB02.01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141359" title="about: Coal : Spanish protectorate in Morocco" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1413xx/141359/about.en.html))
 - Cotton [**&nearr;**](../../../ware/i/142089/about.en.html "Cotton (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bw "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141359" title="about: Cotton : Spanish protectorate in Morocco" target="_blank">5 documents</a>) ([folder](../../../../folder/wa/1420xx/142089/1413xx/141359/about.en.html))
+
+### H
+
 - Halfah grass [**&nearr;**](../../../ware/i/141957/about.en.html "Halfah grass (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Nf018 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141957,141359" title="about: Halfah grass : Spanish protectorate in Morocco" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1419xx/141957/1413xx/141359/about.en.html))
 
 

@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B24]{.gray}&#8201; Syria&#160; 
+# [B24]{.gray}&#8201; Syria &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q858) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Syria)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141114`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -355,12 +357,21 @@ For material not published as folders, please check the [digitized micro-films](
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 
+
+### A
+
 - Alcoholic beverage [**&nearr;**](../../../ware/i/141966/about.en.html "Alcoholic beverage (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20.02-Sp "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141114" title="about: Alcoholic beverage : Syria" target="_blank">37 documents</a>) ([folder](../../../../folder/wa/1419xx/141966/1411xx/141114/about.en.html))
 - Anise [**&nearr;**](../../../ware/i/141976/about.en.html "Anise (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20-Gw01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141976,141114" title="about: Anise : Syria" target="_blank">6 documents</a>) ([folder](../../../../folder/wa/1419xx/141976/1411xx/141114/about.en.html))
 - Apricot [**&nearr;**](../../../ware/i/142001/about.en.html "Apricot (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Zs02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142001,141114" title="about: Apricot : Syria" target="_blank">7 documents</a>) ([folder](../../../../folder/wa/1420xx/142001/1411xx/141114/about.en.html))
 - Asphalt [**&nearr;**](../../../ware/i/142016/about.en.html "Asphalt (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID22-Bd01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141114" title="about: Asphalt : Syria" target="_blank">10 documents</a>) ([folder](../../../../folder/wa/1420xx/142016/1411xx/141114/about.en.html))
+
+### B
+
 - Banana [**&nearr;**](../../../ware/i/142038/about.en.html "Banana (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bn "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141114" title="about: Banana : Syria" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1420xx/142038/1411xx/141114/about.en.html))
 - Building material [**&nearr;**](../../../ware/i/142086/about.en.html "Building material (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID22-Bs "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141114" title="about: Building material : Syria" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1420xx/142086/1411xx/141114/about.en.html))
+
+### C
+
 - Citrus fruits [**&nearr;**](../../../ware/i/141948/about.en.html "Citrus fruits (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Zs "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141114" title="about: Citrus fruits : Syria" target="_blank">16 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1411xx/141114/about.en.html))
 - Clothing [**&nearr;**](../../../ware/i/142106/about.en.html "Clothing (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Bk "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141114" title="about: Clothing : Syria" target="_blank">6 documents</a>) ([folder](../../../../folder/wa/1421xx/142106/1411xx/141114/about.en.html))
 - Coal [**&nearr;**](../../../ware/i/143120/about.en.html "Coal (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB02.01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141114" title="about: Coal : Syria" target="_blank">7 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1411xx/141114/about.en.html))
@@ -368,7 +379,13 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - Cotton industry [**&nearr;**](../../../ware/i/142091/about.en.html "Cotton industry (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Bw01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142091,141114" title="about: Cotton industry : Syria" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142091/1411xx/141114/about.en.html))
 - Cotton textiles [**&nearr;**](../../../ware/i/154932/about.en.html "Cotton textiles (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Bw02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/154932,141114" title="about: Cotton textiles : Syria" target="_blank">9 documents</a>) ([folder](../../../../folder/wa/1549xx/154932/1411xx/141114/about.en.html))
 - Cotton yarn [**&nearr;**](../../../ware/i/196460/about.en.html "Cotton yarn (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Nf02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/196460,141114" title="about: Cotton yarn : Syria" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1964xx/196460/1411xx/141114/about.en.html))
+
+### O
+
 - Orange [**&nearr;**](../../../ware/i/141981/about.en.html "Orange (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Zs01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,141114" title="about: Orange : Syria" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1419xx/141981/1411xx/141114/about.en.html))
+
+### P
+
 - Petrol [**&nearr;**](../../../ware/i/142108/about.en.html "Petrol (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13.02-Ks02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141114" title="about: Petrol : Syria" target="_blank">6 documents</a>) ([folder](../../../../folder/wa/1421xx/142108/1411xx/141114/about.en.html))
 
 

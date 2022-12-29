@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n23 Sm3.IIe]{.gray}&#8201; Protection and support of the currency, stabilization&#160; 
+# [n23 Sm3.IIe]{.gray}&#8201; Protection and support of the currency, stabilization &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710980)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145314`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C106]{.gray}&#8201; Seychellen&#160; 
+# [C106]{.gray}&#8201; Seychellen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q1042) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Seychellen)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141470`</div>
 
 
 
@@ -77,7 +79,13 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Algen und Seetang [**&nearr;**](../../../ware/i/141959/about.de.html "Algen und Seetang (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW07-Mp01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141959,141470" title="über: Algen und Seetang : Seychellen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141959/1414xx/141470/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141470" title="über: Kohle : Seychellen" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1414xx/141470/about.de.html))
 
 

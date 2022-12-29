@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n3 Sm502 (A9)]{.gray}&#8201; Inheritance law (Hamburg)&#160; 
+# [n3 Sm502 (A9)]{.gray}&#8201; Inheritance law (Hamburg) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710524)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145044`</div>
 
 
 

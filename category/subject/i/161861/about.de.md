@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n15 Sm1.II]{.gray}&#8201; Berechnung und Förderung der Arbeitsleistung, Systeme&#160; 
+# [n15 Sm1.II]{.gray}&#8201; Berechnung und Förderung der Arbeitsleistung, Systeme &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710697)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/161861`</div>
 
 
 

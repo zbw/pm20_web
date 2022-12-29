@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n24 Sm14]{.gray}&#8201; Bargeldloser Verkehr, Abrechnungsverkehr&#160; 
+# [n24 Sm14]{.gray}&#8201; Bargeldloser Verkehr, Abrechnungsverkehr &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711029)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145376`</div>
 
 
 

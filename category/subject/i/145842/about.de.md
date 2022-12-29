@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n Sm39.IIb]{.gray}&#8201; Erwerbsgesellschaften, Einzelne (nach der Rechtsform), GmbH und ähnliche&#160; 
+# [n Sm39.IIb]{.gray}&#8201; Erwerbsgesellschaften, Einzelne (nach der Rechtsform), GmbH und ähnliche &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710363)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145842`</div>
 
 
 

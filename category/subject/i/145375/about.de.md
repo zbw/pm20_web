@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n24 Sm13.II]{.gray}&#8201; Kreditaufnahme fremder Staaten, Einzelne Ländern&#160; 
+# [n24 Sm13.II]{.gray}&#8201; Kreditaufnahme fremder Staaten, Einzelne Ländern &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711028)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145375`</div>
 
-> Scope Note: einschl. Provinzen und Städte
-
+<div class="hint">
+Scope Note: einschl. Provinzen und Städte
+</div>
 
 
 

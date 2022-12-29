@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [e4 Sm50]{.gray}&#8201; Medizinalwesen, Institutionen&#160; 
+# [e4 Sm50]{.gray}&#8201; Medizinalwesen, Institutionen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699302)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/153592`</div>
 
 
 

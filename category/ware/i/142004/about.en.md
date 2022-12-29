@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Fittings (Armature)&#160; 
+# Fittings (Armature) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q182612)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142004`</div>
 
 
 

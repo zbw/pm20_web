@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [g Sm17 (alt)]{.gray}&#8201; Stimmen und Stellung zum türkischen Friedensvertrag (Sevres)&#160; 
+# [g Sm17 (alt)]{.gray}&#8201; Stimmen und Stellung zum türkischen Friedensvertrag (Sevres) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699690)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144591`</div>
 
 
 

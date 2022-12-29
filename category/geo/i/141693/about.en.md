@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [E88]{.gray}&#8201; La Plata states&#160; 
+# [E88]{.gray}&#8201; La Plata states &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q738144) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/United_Provinces_of_the_R%C3%ADo_de_la_Plata)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141693`</div>
 
 
 

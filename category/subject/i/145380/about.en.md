@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n24 Sm17]{.gray}&#8201; Banking, concentration in ...&#160; 
+# [n24 Sm17]{.gray}&#8201; Banking, concentration in ... &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711034)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145380`</div>
 
 
 

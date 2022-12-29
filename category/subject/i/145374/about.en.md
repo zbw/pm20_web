@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n24 Sm13.I]{.gray}&#8201; Borrowing of foreign countries, general; bonds&#160; 
+# [n24 Sm13.I]{.gray}&#8201; Borrowing of foreign countries, general; bonds &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711026)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145374`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [o]{.gray}&#8201; Foreigners and individual minorities, general&#160; 
+# [o]{.gray}&#8201; Foreigners and individual minorities, general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428095)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145908`</div>
 
 
 

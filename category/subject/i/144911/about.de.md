@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [m Sm2.III]{.gray}&#8201; Privatwirt. Betätigung der Öff. Hand, Staatl. u. komm. Beteiligung an priv. Unternehmungen, Allg.&#160; 
+# [m Sm2.III]{.gray}&#8201; Privatwirt. Betätigung der Öff. Hand, Staatl. u. komm. Beteiligung an priv. Unternehmungen, Allg. &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700255)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144911`</div>
 
 
 

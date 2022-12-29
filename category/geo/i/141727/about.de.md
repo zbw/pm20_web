@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [G4e]{.gray}&#8201; Chinesisches Meer&#160; 
+# [G4e]{.gray}&#8201; Chinesisches Meer &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q37660) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/S%C3%BCdchinesisches_Meer)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141727`</div>
 
 
 

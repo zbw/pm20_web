@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B28]{.gray}&#8201; Asir&#160; 
+# [B28]{.gray}&#8201; Asir
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141167`</div>
 
-> Scope Note: Fürstentum bis ca. 1933, Südarabische Föderation (1963-1967), Südjemen (ab 1967)
-
+<div class="hint">
+Scope Note: Fürstentum bis ca. 1933, Südarabische Föderation (1963-1967), Südjemen (ab 1967)
+</div>
 
 
 
@@ -33,6 +35,9 @@ Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfil
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
 
+
+
+### K
 
 - Kohlensäure [**&nearr;**](../../../ware/i/143122/about.de.html "Kohlensäure (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Sc06 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143122,141167" title="über: Kohlensäure : Asir" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143122/1411xx/141167/about.de.html))
 

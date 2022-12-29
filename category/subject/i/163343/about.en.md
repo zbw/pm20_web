@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [h7 Sm11]{.gray}&#8201; Provision for people in need of rest, holiday makers&#160; 
+# [h7 Sm11]{.gray}&#8201; Provision for people in need of rest, holiday makers &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700119)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/163343`</div>
 
 
 

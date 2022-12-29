@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n33a Sm6d]{.gray}&#8201; Individual inland waterways and sea canals, shipping, freight agreements&#160; 
+# [n33a Sm6d]{.gray}&#8201; Individual inland waterways and sea canals, shipping, freight agreements &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711245)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145660`</div>
 
 
 

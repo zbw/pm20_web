@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B80c]{.gray}&#8201; Sabah&#160; 
+# [B80c]{.gray}&#8201; Sabah &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q179029) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Sabah)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141234`</div>
 
 
 

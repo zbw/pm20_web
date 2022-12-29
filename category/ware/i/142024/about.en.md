@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Baking powder&#160; 
+# Baking powder &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q29476) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Baking_powder)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142024`</div>
 
 
 

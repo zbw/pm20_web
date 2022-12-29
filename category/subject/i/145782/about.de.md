@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n Sm5.II]{.gray}&#8201; Berufe, Berufskundliche Forschung&#160; 
+# [n Sm5.II]{.gray}&#8201; Berufe, Berufskundliche Forschung &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700354)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145782`</div>
 
 
 

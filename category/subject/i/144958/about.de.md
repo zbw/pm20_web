@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n1 Sm63]{.gray}&#8201; Dienstpflicht und Ausbildungsverpflichtung für staatspolitische Aufgaben&#160; 
+# [n1 Sm63]{.gray}&#8201; Dienstpflicht und Ausbildungsverpflichtung für staatspolitische Aufgaben &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710413)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144958`</div>
 
 
 

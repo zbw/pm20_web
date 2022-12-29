@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n25 Sm40]{.gray}&#8201; Stock exchange, training&#160; 
+# [n25 Sm40]{.gray}&#8201; Stock exchange, training &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711072)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/211924`</div>
 
 
 

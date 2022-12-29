@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [m1a Sm12]{.gray}&#8201; Public works of individual states or provinces, general&#160; 
+# [m1a Sm12]{.gray}&#8201; Public works of individual states or provinces, general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700301)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144849`</div>
 
 
 

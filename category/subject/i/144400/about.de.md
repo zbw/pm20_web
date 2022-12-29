@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [f5 Sm2]{.gray}&#8201; Einzelne politische Strömungen&#160; 
+# [f5 Sm2]{.gray}&#8201; Einzelne politische Strömungen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699654)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144400`</div>
 
-> Scope Note: 1946-1960 bzw.1970: geändert in: Einzelne politische Strömungen. Nicht lizensierte Parteien. Politische Untergrundorganisationen. Nur Hamburg (A 9), Deutschland (A 10), Berlin (A 10(Bln)), DDR (A 10 (A50)) - bis 1960. Für die übrigen Länder bis 1970. - Ab 1975: geändert in: Extremistische politische Gruppierungen und Untergrundorganisationen
-
+<div class="hint">
+Scope Note: 1946-1960 bzw.1970: geändert in: Einzelne politische Strömungen. Nicht lizensierte Parteien. Politische Untergrundorganisationen. Nur Hamburg (A 9), Deutschland (A 10), Berlin (A 10(Bln)), DDR (A 10 (A50)) - bis 1960. Für die übrigen Länder bis 1970. - Ab 1975: geändert in: Extremistische politische Gruppierungen und Untergrundorganisationen
+</div>
 
 
 

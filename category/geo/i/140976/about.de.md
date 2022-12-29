@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A22b]{.gray}&#8201; Irland&#160; 
+# [A22b]{.gray}&#8201; Irland
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140976`</div>
 
 
 
@@ -42,6 +44,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Apfelsine [**&nearr;**](../../../ware/i/141981/about.de.html "Apfelsine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,140976" title="über: Apfelsine : Irland" target="_blank">15 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141981/1409xx/140976/about.de.html))
 - Apparate und Instrumente [**&nearr;**](../../../ware/i/141985/about.de.html "Apparate und Instrumente (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Ap "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141985,140976" title="über: Apparate und Instrumente : Irland" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141985/1409xx/140976/about.de.html))
 - Asbest [**&nearr;**](../../../ware/i/142014/about.de.html "Asbest (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID23-As "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,140976" title="über: Asbest : Irland" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142014/1409xx/140976/about.de.html))
+
+### B
+
 - Backwaren [**&nearr;**](../../../ware/i/142026/about.de.html "Backwaren (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,140976" title="über: Backwaren : Irland" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142026/1409xx/140976/about.de.html))
 - Bakelit [**&nearr;**](../../../ware/i/142029/about.de.html "Bakelit (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID14-Ha01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142029,140976" title="über: Bakelit : Irland" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142029/1409xx/140976/about.de.html))
 - Barium [**&nearr;**](../../../ware/i/142042/about.de.html "Barium (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142042,140976" title="über: Barium : Irland" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142042/1409xx/140976/about.de.html))
@@ -55,8 +60,14 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Bekleidungssparten und Zubehör [**&nearr;**](../../../ware/i/166456/about.de.html "Bekleidungssparten und Zubehör (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bz "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/166456,140976" title="über: Bekleidungssparten und Zubehör  : Irland" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1664xx/166456/1409xx/140976/about.de.html))
 - Benzin [**&nearr;**](../../../ware/i/142108/about.de.html "Benzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,140976" title="über: Benzin : Irland" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1409xx/140976/about.de.html))
 - Benzol [**&nearr;**](../../../ware/i/142110/about.de.html "Benzol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko04 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142110,140976" title="über: Benzol : Irland" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142110/1409xx/140976/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,140976" title="über: Kohle : Irland" target="_blank">97 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1409xx/140976/about.de.html))
 - Kohlensäure [**&nearr;**](../../../ware/i/143122/about.de.html "Kohlensäure (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Sc06 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143122,140976" title="über: Kohlensäure : Irland" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143122/1409xx/140976/about.de.html))
+
+### Ä
+
 - Äther [**&nearr;**](../../../ware/i/141945/about.de.html "Äther (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141945,140976" title="über: Äther : Irland" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141945/1409xx/140976/about.de.html))
 
 

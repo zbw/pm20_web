@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n36 Sm7]{.gray}&#8201; Nachrichten- und Pressewesen, Inseratenwesen&#160; 
+# [n36 Sm7]{.gray}&#8201; Nachrichten- und Pressewesen, Inseratenwesen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711285)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145714`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [i2 Sm20]{.gray}&#8201; Zivilrecht, Konferenzen&#160; 
+# [i2 Sm20]{.gray}&#8201; Zivilrecht, Konferenzen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700145)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/214778`</div>
 
 
 

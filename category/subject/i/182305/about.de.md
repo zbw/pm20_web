@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [q Sm31.II]{.gray}&#8201; Städtebau einzelner Provinzen, Gegenden, Städte&#160; 
+# [q Sm31.II]{.gray}&#8201; Städtebau einzelner Provinzen, Gegenden, Städte &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711405)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/182305`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n13 Sm12.II]{.gray}&#8201; Integration with foreign industry, individual countries&#160; 
+# [n13 Sm12.II]{.gray}&#8201; Integration with foreign industry, individual countries &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710578)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145112`</div>
 
 
 

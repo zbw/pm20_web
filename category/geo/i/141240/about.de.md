@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B86]{.gray}&#8201; Philippinen&#160; 
+# [B86]{.gray}&#8201; Philippinen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q928) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Philippinen)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141240`</div>
 
 
 
@@ -57,6 +59,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Absinth [**&nearr;**](../../../ware/i/141943/about.de.html "Absinth (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141943,141240" title="über: Absinth : Philippinen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141943/1412xx/141240/about.de.html))
 - Agrumen [**&nearr;**](../../../ware/i/141948/about.de.html "Agrumen (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141240" title="über: Agrumen : Philippinen" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1412xx/141240/about.de.html))
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141240" title="über: Alkohol : Philippinen" target="_blank">15 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1412xx/141240/about.de.html))
@@ -67,6 +72,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Asbest [**&nearr;**](../../../ware/i/142014/about.de.html "Asbest (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID23-As "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,141240" title="über: Asbest : Philippinen" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142014/1412xx/141240/about.de.html))
 - Asphalt [**&nearr;**](../../../ware/i/142016/about.de.html "Asphalt (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bd01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141240" title="über: Asphalt : Philippinen" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142016/1412xx/141240/about.de.html))
 - Avocatbirne [**&nearr;**](../../../ware/i/142021/about.de.html "Avocatbirne (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Ob02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142021,141240" title="über: Avocatbirne : Philippinen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142021/1412xx/141240/about.de.html))
+
+### B
+
 - Bagger [**&nearr;**](../../../ware/i/142028/about.de.html "Bagger (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID09.02-Nf01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142028,141240" title="über: Bagger : Philippinen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142028/1412xx/141240/about.de.html))
 - Bambus [**&nearr;**](../../../ware/i/142035/about.de.html "Bambus (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Gr02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142035,141240" title="über: Bambus : Philippinen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142035/1412xx/141240/about.de.html))
 - Banane [**&nearr;**](../../../ware/i/142038/about.de.html "Banane (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bn "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141240" title="über: Banane : Philippinen" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142038/1412xx/141240/about.de.html))
@@ -77,6 +85,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Baumwolltextilien [**&nearr;**](../../../ware/i/154932/about.de.html "Baumwolltextilien (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bw02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/154932,141240" title="über: Baumwolltextilien : Philippinen" target="_blank">28 Dokumente</a>) ([Mappe](../../../../folder/wa/1549xx/154932/1412xx/141240/about.de.html))
 - Bekleidung [**&nearr;**](../../../ware/i/142106/about.de.html "Bekleidung (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bk "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141240" title="über: Bekleidung : Philippinen" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142106/1412xx/141240/about.de.html))
 - Benzin [**&nearr;**](../../../ware/i/142108/about.de.html "Benzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141240" title="über: Benzin : Philippinen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1412xx/141240/about.de.html))
+
+### K
+
 - Kohl [**&nearr;**](../../../ware/i/143119/about.de.html "Kohl (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Gm08 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143119,141240" title="über: Kohl : Philippinen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143119/1412xx/141240/about.de.html))
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141240" title="über: Kohle : Philippinen" target="_blank">32 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1412xx/141240/about.de.html))
 - Kokosfaser [**&nearr;**](../../../ware/i/143125/about.de.html "Kokosfaser (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Nf11 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143125,141240" title="über: Kokosfaser : Philippinen" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143125/1412xx/141240/about.de.html))

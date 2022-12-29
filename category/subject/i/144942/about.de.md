@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n1 Sm12.I]{.gray}&#8201; Preisregelung, Allgemein&#160; 
+# [n1 Sm12.I]{.gray}&#8201; Preisregelung, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710398)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144942`</div>
 
 
 

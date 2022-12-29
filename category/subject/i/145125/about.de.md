@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n13a Sm6.IVa]{.gray}&#8201; Schiffbau, Schiffsbanken für das Ausland, Allgemein&#160; 
+# [n13a Sm6.IVa]{.gray}&#8201; Schiffbau, Schiffsbanken für das Ausland, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710656)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145125`</div>
 
 
 

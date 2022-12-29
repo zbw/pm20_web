@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n15a Sm17]{.gray}&#8201; Arbeitnehmerverhältnisse, Landwirtschaft, Forstwirtschaft, Gärtnerei&#160; 
+# [n15a Sm17]{.gray}&#8201; Arbeitnehmerverhältnisse, Landwirtschaft, Forstwirtschaft, Gärtnerei &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710813)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145221`</div>
 
 
 

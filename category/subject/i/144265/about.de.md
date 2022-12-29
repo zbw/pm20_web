@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [e1]{.gray}&#8201; Einzelne Krankheiten und deren Bekämpfung&#160; 
+# [e1]{.gray}&#8201; Einzelne Krankheiten und deren Bekämpfung &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q92707235)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144265`</div>
 
 
 

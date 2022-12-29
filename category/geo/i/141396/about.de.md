@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C48]{.gray}&#8201; Kap Verde&#160; 
+# [C48]{.gray}&#8201; Kap Verde
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141396`</div>
 
 
 
@@ -32,9 +34,18 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141396" title="über: Alkohol : Kap Verde" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1413xx/141396/about.de.html))
 - Apfelsine [**&nearr;**](../../../ware/i/141981/about.de.html "Apfelsine (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,141396" title="über: Apfelsine : Kap Verde" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141981/1413xx/141396/about.de.html))
+
+### B
+
 - Baumwolle [**&nearr;**](../../../ware/i/142089/about.de.html "Baumwolle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bw "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141396" title="über: Baumwolle : Kap Verde" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142089/1413xx/141396/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141396" title="über: Kohle : Kap Verde" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1413xx/141396/about.de.html))
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n Sm46]{.gray}&#8201; Energy industry, general&#160; 
+# [n Sm46]{.gray}&#8201; Energy industry, general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710372)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145852`</div>
 
 
 

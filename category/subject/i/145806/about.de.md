@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n Sm19.II]{.gray}&#8201; Aufwertung, Aufwertungsverfahren&#160; 
+# [n Sm19.II]{.gray}&#8201; Aufwertung, Aufwertungsverfahren &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700379)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145806`</div>
 
 
 

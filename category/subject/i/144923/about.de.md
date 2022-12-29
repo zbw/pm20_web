@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [m Sm12]{.gray}&#8201; Submissionswesen&#160; 
+# [m Sm12]{.gray}&#8201; Submissionswesen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700273)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144923`</div>
 
 
 

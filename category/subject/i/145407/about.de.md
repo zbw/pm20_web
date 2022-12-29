@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n24 Sm36]{.gray}&#8201; Bankwesen, Filialsystem&#160; 
+# [n24 Sm36]{.gray}&#8201; Bankwesen, Filialsystem &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711059)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145407`</div>
 
 
 

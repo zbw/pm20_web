@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [l Sm12]{.gray}&#8201; Kriegsrecht, Allgemein&#160; 
+# [l Sm12]{.gray}&#8201; Kriegsrecht, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700215)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144799`</div>
 
 
 

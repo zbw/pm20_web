@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [D5]{.gray}&#8201; Hawaii&#160; 
+# [D5]{.gray}&#8201; Hawaii &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q782) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Hawaii)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141595`</div>
 
-> Scope Note: Sandwich-Inseln
-
+<div class="hint">
+Scope Note: Sandwich-Inseln
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -213,11 +215,20 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Ananas [**&nearr;**](../../../ware/i/141970/about.de.html "Ananas (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Tr01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141970,141595" title="über: Ananas : Hawaii" target="_blank">63 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141970/1415xx/141595/about.de.html))
 - Avocatbirne [**&nearr;**](../../../ware/i/142021/about.de.html "Avocatbirne (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Ob02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142021,141595" title="über: Avocatbirne : Hawaii" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142021/1415xx/141595/about.de.html))
+
+### B
+
 - Banane [**&nearr;**](../../../ware/i/142038/about.de.html "Banane (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bn "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141595" title="über: Banane : Hawaii" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142038/1415xx/141595/about.de.html))
 - Baumwolle [**&nearr;**](../../../ware/i/142089/about.de.html "Baumwolle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bw "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141595" title="über: Baumwolle : Hawaii" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142089/1415xx/141595/about.de.html))
 - Benzin [**&nearr;**](../../../ware/i/142108/about.de.html "Benzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141595" title="über: Benzin : Hawaii" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1415xx/141595/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141595" title="über: Kohle : Hawaii" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1415xx/141595/about.de.html))
 
 

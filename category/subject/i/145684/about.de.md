@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n35 Sm2.II]{.gray}&#8201; Lufthafen, Einzelne&#160; 
+# [n35 Sm2.II]{.gray}&#8201; Lufthafen, Einzelne &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711263)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145684`</div>
 
 
 

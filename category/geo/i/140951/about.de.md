@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A10p]{.gray}&#8201; Polnisch-Schlesien&#160; 
+# [A10p]{.gray}&#8201; Polnisch-Schlesien &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q2035812) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Ostoberschlesien)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140951`</div>
 
-> Scope Note: bis 1.10.1925
-
+<div class="hint">
+Scope Note: bis 1.10.1925
+</div>
 
 
 

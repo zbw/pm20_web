@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A19]{.gray}&#8201; Netherlands&#160; 
+# [A19]{.gray}&#8201; Netherlands
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140970`</div>
 
 
 
@@ -32,6 +34,9 @@ For material not published as folders, please check the [digitized micro-films](
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 
+
+### A
+
 - Absinth [**&nearr;**](../../../ware/i/141943/about.en.html "Absinth (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20.02-Sp01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141943,140970" title="about: Absinth : Netherlands" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141943/1409xx/140970/about.en.html))
 - Acetone [**&nearr;**](../../../ware/i/142022/about.en.html "Acetone (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13-Ko03 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142022,140970" title="about: Acetone : Netherlands" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1420xx/142022/1409xx/140970/about.en.html))
 - Aether [**&nearr;**](../../../ware/i/141945/about.en.html "Aether (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13-Ko01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141945,140970" title="about: Aether : Netherlands" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1419xx/141945/1409xx/140970/about.en.html))
@@ -45,6 +50,9 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - Arsenic [**&nearr;**](../../../ware/i/142006/about.en.html "Arsenic (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID07.01-Hm02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142006,140970" title="about: Arsenic : Netherlands" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142006/1409xx/140970/about.en.html))
 - Asbestos [**&nearr;**](../../../ware/i/142014/about.en.html "Asbestos (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID23-As "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,140970" title="about: Asbestos : Netherlands" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142014/1409xx/140970/about.en.html))
 - Asphalt [**&nearr;**](../../../ware/i/142016/about.en.html "Asphalt (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID22-Bd01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,140970" title="about: Asphalt : Netherlands" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1420xx/142016/1409xx/140970/about.en.html))
+
+### B
+
 - Bakery product [**&nearr;**](../../../ware/i/142026/about.en.html "Bakery product (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20-Ba "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,140970" title="about: Bakery product : Netherlands" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1420xx/142026/1409xx/140970/about.en.html))
 - Balsa wood [**&nearr;**](../../../ware/i/142033/about.en.html "Balsa wood (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW06-Hz02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142033,140970" title="about: Balsa wood : Netherlands" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142033/1409xx/140970/about.en.html))
 - Bamboo [**&nearr;**](../../../ware/i/142035/about.en.html "Bamboo (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Gr02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142035,140970" title="about: Bamboo : Netherlands" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1420xx/142035/1409xx/140970/about.en.html))
@@ -53,6 +61,9 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - Benzene [**&nearr;**](../../../ware/i/142110/about.en.html "Benzene (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13-Ko04 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142110,140970" title="about: Benzene : Netherlands" target="_blank">11 documents</a>) ([folder](../../../../folder/wa/1421xx/142110/1409xx/140970/about.en.html))
 - Building and insulating panels [**&nearr;**](../../../ware/i/142083/about.en.html "Building and insulating panels (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID22-Bf01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142083,140970" title="about: Building and insulating panels : Netherlands" target="_blank">6 documents</a>) ([folder](../../../../folder/wa/1420xx/142083/1409xx/140970/about.en.html))
 - Building material [**&nearr;**](../../../ware/i/142086/about.en.html "Building material (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID22-Bs "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,140970" title="about: Building material : Netherlands" target="_blank">23 documents</a>) ([folder](../../../../folder/wa/1420xx/142086/1409xx/140970/about.en.html))
+
+### C
+
 - Cabbage [**&nearr;**](../../../ware/i/143119/about.en.html "Cabbage (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Gm08 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143119,140970" title="about: Cabbage : Netherlands" target="_blank">18 documents</a>) ([folder](../../../../folder/wa/1431xx/143119/1409xx/140970/about.en.html))
 - Carbon (soot) [**&nearr;**](../../../ware/i/143123/about.en.html "Carbon (soot) (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB02.01-Ru "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143123,140970" title="about: Carbon (soot) : Netherlands" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1431xx/143123/1409xx/140970/about.en.html))
 - Citrus fruits [**&nearr;**](../../../ware/i/141948/about.en.html "Citrus fruits (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Zs "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,140970" title="about: Citrus fruits : Netherlands" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1409xx/140970/about.en.html))
@@ -65,13 +76,28 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - Coir [**&nearr;**](../../../ware/i/143125/about.en.html "Coir (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Nf11 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143125,140970" title="about: Coir : Netherlands" target="_blank">5 documents</a>) ([folder](../../../../folder/wa/1431xx/143125/1409xx/140970/about.en.html))
 - Cotton [**&nearr;**](../../../ware/i/142089/about.en.html "Cotton (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Bw "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,140970" title="about: Cotton : Netherlands" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142089/1409xx/140970/about.en.html))
 - Cotton industry [**&nearr;**](../../../ware/i/142091/about.en.html "Cotton industry (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Bw01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142091,140970" title="about: Cotton industry : Netherlands" target="_blank">109 documents</a>) ([folder](../../../../folder/wa/1420xx/142091/1409xx/140970/about.en.html))
+
+### E
+
 - Eel [**&nearr;**](../../../ware/i/141941/about.en.html "Eel (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW07-Mt01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141941,140970" title="about: Eel : Netherlands" target="_blank">15 documents</a>) ([folder](../../../../folder/wa/1419xx/141941/1409xx/140970/about.en.html))
 - Excavator [**&nearr;**](../../../ware/i/142028/about.en.html "Excavator (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID09.02-Nf01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142028,140970" title="about: Excavator : Netherlands" target="_blank">16 documents</a>) ([folder](../../../../folder/wa/1420xx/142028/1409xx/140970/about.en.html))
+
+### G
+
 - Gaming and vending machines [**&nearr;**](../../../ware/i/142020/about.en.html "Gaming and vending machines (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID08-Au "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142020,140970" title="about: Gaming and vending machines : Netherlands" target="_blank">4 documents</a>) ([folder](../../../../folder/wa/1420xx/142020/1409xx/140970/about.en.html))
+
+### O
+
 - Orange [**&nearr;**](../../../ware/i/141981/about.en.html "Orange (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Zs01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,140970" title="about: Orange : Netherlands" target="_blank">14 documents</a>) ([folder](../../../../folder/wa/1419xx/141981/1409xx/140970/about.en.html))
 - Oyster [**&nearr;**](../../../ware/i/142019/about.en.html "Oyster (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW07-Mt02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142019,140970" title="about: Oyster : Netherlands" target="_blank">26 documents</a>) ([folder](../../../../folder/wa/1420xx/142019/1409xx/140970/about.en.html))
+
+### P
+
 - Petrol [**&nearr;**](../../../ware/i/142108/about.en.html "Petrol (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13.02-Ks02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,140970" title="about: Petrol : Netherlands" target="_blank">120 documents</a>) ([folder](../../../../folder/wa/1421xx/142108/1409xx/140970/about.en.html))
 - Pineapple [**&nearr;**](../../../ware/i/141970/about.en.html "Pineapple (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Tr01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141970,140970" title="about: Pineapple : Netherlands" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141970/1409xx/140970/about.en.html))
+
+### W
+
 - Waste and scrap [**&nearr;**](../../../ware/i/141942/about.en.html "Waste and scrap (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB01-01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141942,140970" title="about: Waste and scrap : Netherlands" target="_blank">5 documents</a>) ([folder](../../../../folder/wa/1419xx/141942/1409xx/140970/about.en.html))
 
 

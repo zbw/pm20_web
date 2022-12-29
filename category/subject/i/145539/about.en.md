@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n30 Sm6.II]{.gray}&#8201; Railway stations, individual cities or neighborhoods&#160; 
+# [n30 Sm6.II]{.gray}&#8201; Railway stations, individual cities or neighborhoods &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711131)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145539`</div>
 
 
 

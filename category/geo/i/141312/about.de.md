@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C2a]{.gray}&#8201; Frankophones Afrika&#160; 
+# [C2a]{.gray}&#8201; Frankophones Afrika &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q2470685) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Frankophones_Afrika)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141312`</div>
 
-> Scope Note: Französisch Nord- und Westafrika i.G.
-
+<div class="hint">
+Scope Note: Französisch Nord- und Westafrika i.G.
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -67,6 +69,9 @@ Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfil
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
 
+
+
+### B
 
 - Bambus [**&nearr;**](../../../ware/i/142035/about.de.html "Bambus (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Gr02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142035,141312" title="über: Bambus : Frankophones Afrika" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142035/1413xx/141312/about.de.html))
 

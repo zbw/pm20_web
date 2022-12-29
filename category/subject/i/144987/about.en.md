@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n2 Sm9.IIId]{.gray}&#8201; Indexes, individual indices, cost-of-living index&#160; 
+# [n2 Sm9.IIId]{.gray}&#8201; Indexes, individual indices, cost-of-living index &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710428)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144987`</div>
 
 
 

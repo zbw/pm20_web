@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [q Sm2.IIIa]{.gray}&#8201; Kriegsmateriallieferungen an das Ausland, Allgemein&#160; 
+# [q Sm2.IIIa]{.gray}&#8201; Kriegsmateriallieferungen an das Ausland, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711374)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145945`</div>
 
 
 

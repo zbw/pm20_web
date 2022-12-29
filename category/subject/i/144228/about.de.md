@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [d4]{.gray}&#8201; Volkscharakter, Sport, Sitten und Gebräuche&#160; 
+# [d4]{.gray}&#8201; Volkscharakter, Sport, Sitten und Gebräuche &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427847)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144228`</div>
 
 
 

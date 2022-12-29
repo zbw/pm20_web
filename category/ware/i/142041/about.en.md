@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Barosma&#160; 
+# Barosma &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q194513) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Agathosma_betulina)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142041`</div>
 
 
 

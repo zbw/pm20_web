@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n34 Sm6]{.gray}&#8201; Submarine cable&#160; 
+# [n34 Sm6]{.gray}&#8201; Submarine cable &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711251)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145668`</div>
 
 
 

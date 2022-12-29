@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [g Sm8.III]{.gray}&#8201; Propaganda des Auslandes für oder gegen…&#160; 
+# [g Sm8.III]{.gray}&#8201; Propaganda des Auslandes für oder gegen… &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699680)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/220906`</div>
 
-> Scope Note: geändert in: Politische Informationstätigkeit u. Propaganda des Auslandes für oder gegen …; Politische Informationstätigkeit u. Propaganda; ab 01.07.1987 nur noch g SM 8 "ohne Römer"
-
+<div class="hint">
+Scope Note: geändert in: Politische Informationstätigkeit u. Propaganda des Auslandes für oder gegen …; Politische Informationstätigkeit u. Propaganda; ab 01.07.1987 nur noch g SM 8 "ohne Römer"
+</div>
 
 
 

@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C92]{.gray}&#8201; Tristan da Cunha&#160; 
+# [C92]{.gray}&#8201; Tristan da Cunha &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q220982) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Tristan_da_Cunha)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141453`</div>
 
-> Scope Note: Hauptinsel des gleichnamigen, aus vier Inseln und einigen Felseilanden bestehenden Archipels in südlichen Atlantischen Ozean
-
+<div class="hint">
+Scope Note: Hauptinsel des gleichnamigen, aus vier Inseln und einigen Felseilanden bestehenden Archipels in südlichen Atlantischen Ozean
+</div>
 
 
 

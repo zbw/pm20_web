@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n5 Sm40]{.gray}&#8201; Livestock farming, professions and training&#160; 
+# [n5 Sm40]{.gray}&#8201; Livestock farming, professions and training &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710545)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/182066`</div>
 
 
 

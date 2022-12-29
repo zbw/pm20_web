@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [e5]{.gray}&#8201; Akklimatisation&#160; 
+# [e5]{.gray}&#8201; Akklimatisation &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427860)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144277`</div>
 
 
 

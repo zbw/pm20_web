@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [p2]{.gray}&#8201; Settlement policy&#160; 
+# [p2]{.gray}&#8201; Settlement policy &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428100)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145915`</div>
 
 
 

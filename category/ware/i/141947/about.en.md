@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Axe, hatchet, hammer&#160; 
+# Axe, hatchet, hammer &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q113376049)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141947`</div>
 
 
 

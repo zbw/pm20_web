@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Benzoin&#160; 
+# Benzoin &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q793163) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Benzoin_(resin))
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142109`</div>
 
 
 

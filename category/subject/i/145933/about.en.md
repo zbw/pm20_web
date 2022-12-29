@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [p6 Sm1 (alt)]{.gray}&#8201; Immigrant settlements&#160; 
+# [p6 Sm1 (alt)]{.gray}&#8201; Immigrant settlements &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711360)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145933`</div>
 
 
 

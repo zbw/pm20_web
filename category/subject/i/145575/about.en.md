@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n32 Sm6]{.gray}&#8201; Situation and statistics of private companies, statistical overviews of the merchant fleet&#160; 
+# [n32 Sm6]{.gray}&#8201; Situation and statistics of private companies, statistical overviews of the merchant fleet &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711157)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145575`</div>
 
 
 

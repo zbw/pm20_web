@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [E5]{.gray}&#8201; Lateinamerika&#160; 
+# [E5]{.gray}&#8201; Lateinamerika
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141641`</div>
 
-> Scope Note: Süd- und Mittelamerika
-
+<div class="hint">
+Scope Note: Süd- und Mittelamerika
+</div>
 
 
 
@@ -34,9 +36,18 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Asphalt [**&nearr;**](../../../ware/i/142016/about.de.html "Asphalt (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bd01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141641" title="über: Asphalt : Lateinamerika" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142016/1416xx/141641/about.de.html))
+
+### B
+
 - Baumaterial [**&nearr;**](../../../ware/i/142086/about.de.html "Baumaterial (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID22-Bs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141641" title="über: Baumaterial : Lateinamerika" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142086/1416xx/141641/about.de.html))
 - Baumwolle [**&nearr;**](../../../ware/i/142089/about.de.html "Baumwolle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bw "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141641" title="über: Baumwolle : Lateinamerika" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142089/1416xx/141641/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141641" title="über: Kohle : Lateinamerika" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1416xx/141641/about.de.html))
 
 

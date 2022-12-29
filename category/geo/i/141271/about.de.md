@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B110]{.gray}&#8201; Weihaiwei&#160; 
+# [B110]{.gray}&#8201; Weihaiwei &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q15939896)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141271`</div>
 
-> Scope Note: 1898 an England verpachtet, bis 30.9.1930, dann China (B 94),
-
+<div class="hint">
+Scope Note: 1898 an England verpachtet, bis 30.9.1930, dann China (B 94),
+</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B115]{.gray}&#8201; Korea&#160; 
+# [B115]{.gray}&#8201; Korea &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q18097) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Korea)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141276`</div>
 
 
 
@@ -91,13 +93,22 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141276" title="über: Alkohol : Korea" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1412xx/141276/about.de.html))
 - Aluminium [**&nearr;**](../../../ware/i/141969/about.de.html "Aluminium (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,141276" title="über: Aluminium : Korea" target="_blank">12 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141969/1412xx/141276/about.de.html))
 - Ammoniak [**&nearr;**](../../../ware/i/165930/about.de.html "Ammoniak (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Du01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/165930,141276" title="über: Ammoniak : Korea" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1659xx/165930/1412xx/141276/about.de.html))
+
+### B
+
 - Barium [**&nearr;**](../../../ware/i/142042/about.de.html "Barium (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID07.01-Lm02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142042,141276" title="über: Barium : Korea" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142042/1412xx/141276/about.de.html))
 - Baumwolle [**&nearr;**](../../../ware/i/142089/about.de.html "Baumwolle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bw "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142089,141276" title="über: Baumwolle : Korea" target="_blank">33 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142089/1412xx/141276/about.de.html))
 - Baumwollindustrie [**&nearr;**](../../../ware/i/142091/about.de.html "Baumwollindustrie (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bw01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142091,141276" title="über: Baumwollindustrie : Korea" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142091/1412xx/141276/about.de.html))
 - Bekleidung [**&nearr;**](../../../ware/i/142106/about.de.html "Bekleidung (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bk "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141276" title="über: Bekleidung : Korea" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142106/1412xx/141276/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141276" title="über: Kohle : Korea" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1412xx/141276/about.de.html))
 
 

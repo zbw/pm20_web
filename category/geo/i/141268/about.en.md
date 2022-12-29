@@ -8,13 +8,15 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B102]{.gray}&#8201; Hong Kong&#160; 
+# [B102]{.gray}&#8201; Hong Kong &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q8646) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Hong_Kong)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141268`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archive)
+[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
 
 
 
@@ -247,14 +249,23 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - Antimony [**&nearr;**](../../../ware/i/141977/about.en.html "Antimony (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID07.01-Hm01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141977,141268" title="about: Antimony : Hong Kong" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141977/1412xx/141268/about.en.html))
 - Apple [**&nearr;**](../../../ware/i/141980/about.en.html "Apple (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Ob01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141980,141268" title="about: Apple : Hong Kong" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1419xx/141980/1412xx/141268/about.en.html))
 - Appliances and instruments [**&nearr;**](../../../ware/i/141985/about.en.html "Appliances and instruments (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID08-Ap "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141985,141268" title="about: Appliances and instruments : Hong Kong" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141985/1412xx/141268/about.en.html))
+
+### B
+
 - Bakery product [**&nearr;**](../../../ware/i/142026/about.en.html "Bakery product (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID20-Ba "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141268" title="about: Bakery product : Hong Kong" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1420xx/142026/1412xx/141268/about.en.html))
 - Bamboo [**&nearr;**](../../../ware/i/142035/about.en.html "Bamboo (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Gr02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142035,141268" title="about: Bamboo : Hong Kong" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142035/1412xx/141268/about.en.html))
+
+### C
+
 - Clothing [**&nearr;**](../../../ware/i/142106/about.en.html "Clothing (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Bk "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141268" title="about: Clothing : Hong Kong" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1421xx/142106/1412xx/141268/about.en.html))
 - Coal [**&nearr;**](../../../ware/i/143120/about.en.html "Coal (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB02.01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141268" title="about: Coal : Hong Kong" target="_blank">4 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1412xx/141268/about.en.html))
 - Coir [**&nearr;**](../../../ware/i/143125/about.en.html "Coir (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Nf11 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143125,141268" title="about: Coir : Hong Kong" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1431xx/143125/1412xx/141268/about.en.html))
 - Construction machinery [**&nearr;**](../../../ware/i/142084/about.en.html "Construction machinery (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID08-Ba "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142084,141268" title="about: Construction machinery : Hong Kong" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142084/1412xx/141268/about.en.html))
 - Cotton industry [**&nearr;**](../../../ware/i/142091/about.en.html "Cotton industry (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Bw01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142091,141268" title="about: Cotton industry : Hong Kong" target="_blank">12 documents</a>) ([folder](../../../../folder/wa/1420xx/142091/1412xx/141268/about.en.html))
 - Cotton yarn [**&nearr;**](../../../ware/i/196460/about.en.html "Cotton yarn (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Nf02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/196460,141268" title="about: Cotton yarn : Hong Kong" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1964xx/196460/1412xx/141268/about.en.html))
+
+### P
+
 - Petrol [**&nearr;**](../../../ware/i/142108/about.en.html "Petrol (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13.02-Ks02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141268" title="about: Petrol : Hong Kong" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1421xx/142108/1412xx/141268/about.en.html))
 
 

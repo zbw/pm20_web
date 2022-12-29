@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n30 Sm3]{.gray}&#8201; Railways, tariffs&#160; 
+# [n30 Sm3]{.gray}&#8201; Railways, tariffs &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711129)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145534`</div>
 
 
 

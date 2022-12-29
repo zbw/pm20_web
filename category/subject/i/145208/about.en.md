@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n15a Sm3]{.gray}&#8201; Labor contracts, clothing and cleaning services&#160; 
+# [n15a Sm3]{.gray}&#8201; Labor contracts, clothing and cleaning services &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710799)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145208`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n15a]{.gray}&#8201; Arbeitnehmerverhältnisse in einzelnen Berufen&#160; 
+# [n15a]{.gray}&#8201; Arbeitnehmerverhältnisse in einzelnen Berufen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428038)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145205`</div>
 
 
 

@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n28 Sm2]{.gray}&#8201; Reiseverkehr, Fremdenverkehr&#160; 
+# [n28 Sm2]{.gray}&#8201; Reiseverkehr, Fremdenverkehr &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711087)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/161625`</div>
 
-> Scope Note: (einschl.: Fremdenwerbung; Verkehrswerbung)
-
+<div class="hint">
+Scope Note: (einschl.: Fremdenwerbung; Verkehrswerbung)
+</div>
 
 
 

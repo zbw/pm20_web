@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [d3 Sm501 (C87)]{.gray}&#8201; Buschmänner&#160; 
+# [d3 Sm501 (C87)]{.gray}&#8201; Buschmänner &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699252)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144227`</div>
 
 
 

@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B90]{.gray}&#8201; Siam&#160; 
+# [B90]{.gray}&#8201; Siam &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q1081620) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Siam)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141242`</div>
 
-> Scope Note: Siam, Thailand (ab 2.5.1945)
-
+<div class="hint">
+Scope Note: Siam, Thailand (ab 2.5.1945)
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -59,9 +61,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Alkohol (Chemie) [**&nearr;**](../../../ware/i/163481/about.de.html "Alkohol (Chemie) (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/163481,141242" title="über: Alkohol (Chemie) : Siam" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1634xx/163481/1412xx/141242/about.de.html))
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141242" title="über: Alkohol : Siam" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1412xx/141242/about.de.html))
 - Apparate und Instrumente [**&nearr;**](../../../ware/i/141985/about.de.html "Apparate und Instrumente (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID08-Ap "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141985,141242" title="über: Apparate und Instrumente : Siam" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141985/1412xx/141242/about.de.html))
+
+### B
+
 - Backwaren [**&nearr;**](../../../ware/i/142026/about.de.html "Backwaren (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20-Ba "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142026,141242" title="über: Backwaren : Siam" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142026/1412xx/141242/about.de.html))
 - Bambus [**&nearr;**](../../../ware/i/142035/about.de.html "Bambus (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Gr02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142035,141242" title="über: Bambus : Siam" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142035/1412xx/141242/about.de.html))
 - Banane [**&nearr;**](../../../ware/i/142038/about.de.html "Banane (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Bn "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142038,141242" title="über: Banane : Siam" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142038/1412xx/141242/about.de.html))
@@ -69,6 +77,9 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - Baumwollgarn [**&nearr;**](../../../ware/i/196460/about.de.html "Baumwollgarn (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Nf02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/196460,141242" title="über: Baumwollgarn : Siam" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1964xx/196460/1412xx/141242/about.de.html))
 - Bekleidung [**&nearr;**](../../../ware/i/142106/about.de.html "Bekleidung (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Bk "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141242" title="über: Bekleidung : Siam" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142106/1412xx/141242/about.de.html))
 - Benzin [**&nearr;**](../../../ware/i/142108/about.de.html "Benzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141242" title="über: Benzin : Siam" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1412xx/141242/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141242" title="über: Kohle : Siam" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1412xx/141242/about.de.html))
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A10(t1)]{.gray}&#8201; Allied occupied Germany&#160; 
+# [A10(t1)]{.gray}&#8201; Allied occupied Germany &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q2415901) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Allied-occupied_Germany)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/187230`</div>
 
 
 

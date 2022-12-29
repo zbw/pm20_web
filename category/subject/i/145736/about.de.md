@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n37a Sm4]{.gray}&#8201; Lebensversicherung&#160; 
+# [n37a Sm4]{.gray}&#8201; Lebensversicherung &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711305)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145736`</div>
 
 
 

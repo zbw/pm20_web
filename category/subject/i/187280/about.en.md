@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n14 Sm40]{.gray}&#8201; Crafts, profession and training&#160; 
+# [n14 Sm40]{.gray}&#8201; Crafts, profession and training &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710671)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/187280`</div>
 
 
 

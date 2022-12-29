@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A10n]{.gray}&#8201; Oberschlesien (1919-1938, 1941-1945)&#160; 
+# [A10n]{.gray}&#8201; Oberschlesien (1919-1938, 1941-1945)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/206753`</div>
 
-> Scope Note: Zeitangaben: 1919-1938, 1941-1945
-
+<div class="hint">
+Scope Note: Zeitangaben: 1919-1938, 1941-1945
+</div>
 
 
 
@@ -34,7 +36,13 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### B
+
 - Benzol [**&nearr;**](../../../ware/i/142110/about.de.html "Benzol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Ko04 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142110,206753" title="über: Benzol : Oberschlesien (1919-1938, 1941-1945)" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142110/2067xx/206753/about.de.html))
+
+### K
+
 - Kohle [**&nearr;**](../../../ware/i/143120/about.de.html "Kohle (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PRB02.01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,206753" title="über: Kohle : Oberschlesien (1919-1938, 1941-1945)" target="_blank">88 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/2067xx/206753/about.de.html))
 
 

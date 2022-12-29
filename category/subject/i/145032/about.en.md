@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n3 Sm1.V]{.gray}&#8201; Administration and leasing of state goods&#160; 
+# [n3 Sm1.V]{.gray}&#8201; Administration and leasing of state goods &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710511)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145032`</div>
 
 
 

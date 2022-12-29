@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n20 Sm2]{.gray}&#8201; Inns, taverns, amusement facilities, amusement centers&#160; 
+# [n20 Sm2]{.gray}&#8201; Inns, taverns, amusement facilities, amusement centers &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710957)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145292`</div>
 
 
 

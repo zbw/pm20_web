@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Clothing&#160; 
+# Clothing &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q1431632) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Ready-made_garment)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142106`</div>
 
 
 

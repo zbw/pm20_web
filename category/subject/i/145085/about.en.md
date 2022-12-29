@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n12 Sm2.I]{.gray}&#8201; Methods for exploring mineral resources and water, divining rod&#160; 
+# [n12 Sm2.I]{.gray}&#8201; Methods for exploring mineral resources and water, divining rod &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710555)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145085`</div>
 
 
 

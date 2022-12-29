@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [f5 Sm1.IIIb]{.gray}&#8201; Elections for parliamentary bodies and other political elections in individual states&#160; 
+# [f5 Sm1.IIIb]{.gray}&#8201; Elections for parliamentary bodies and other political elections in individual states &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699653)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144399`</div>
 
 
 

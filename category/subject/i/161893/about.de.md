@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n12 Sm2]{.gray}&#8201; Methoden zur Aufsuchung von Bodenschätzen und Wasser&#160; 
+# [n12 Sm2]{.gray}&#8201; Methoden zur Aufsuchung von Bodenschätzen und Wasser &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710553)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/161893`</div>
 
 
 

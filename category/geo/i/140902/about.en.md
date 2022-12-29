@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A7]{.gray}&#8201; Orient&#160; 
+# [A7]{.gray}&#8201; Orient &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q48214) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Greater_Middle_East)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140902`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [g4a Sm17]{.gray}&#8201; Currency appreciation re. individual countries&#160; 
+# [g4a Sm17]{.gray}&#8201; Currency appreciation re. individual countries &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700047)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144547`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Araucaria&#160; 
+# Araucaria &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q157214) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Araukarien)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142002`</div>
 
 
 

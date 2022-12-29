@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [l Sm2]{.gray}&#8201; Troop losses in the World War, burial sites&#160; 
+# [l Sm2]{.gray}&#8201; Troop losses in the World War, burial sites &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700209)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144786`</div>
 
 
 

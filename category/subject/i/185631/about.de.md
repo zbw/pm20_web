@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [f2.5]{.gray}&#8201; Geschichtliche Vorgänge 1945-&#160; 
+# [f2.5]{.gray}&#8201; Geschichtliche Vorgänge 1945- &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699625)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/185631`</div>
 
 
 

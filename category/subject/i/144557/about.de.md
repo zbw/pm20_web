@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [g4a Sm31]{.gray}&#8201; Freihäfen, Freizonen, Zollniederlagen, Allgemein&#160; 
+# [g4a Sm31]{.gray}&#8201; Freihäfen, Freizonen, Zollniederlagen, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700061)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144557`</div>
 
 
 

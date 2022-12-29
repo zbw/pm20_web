@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [f6]{.gray}&#8201; Verhandlungen von parlamentarischen und politischen Körperschaften&#160; 
+# [f6]{.gray}&#8201; Verhandlungen von parlamentarischen und politischen Körperschaften &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427870)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144440`</div>
 
-> Scope Note: ab 1945 bis 1990 geändert in: Sitzungsberichte und Pressekommentare parlamentarischer und anderer politischer Gebietskörperschaften. - Ab 1990 integriert in: f 04 SM 002.1 Parlamentarische und politische Körperschaften, bzw. in f 04 SM 002.2 Einzelne parlamentarische und politische Körperschaften
-
+<div class="hint">
+Scope Note: ab 1945 bis 1990 geändert in: Sitzungsberichte und Pressekommentare parlamentarischer und anderer politischer Gebietskörperschaften. - Ab 1990 integriert in: f 04 SM 002.1 Parlamentarische und politische Körperschaften, bzw. in f 04 SM 002.2 Einzelne parlamentarische und politische Körperschaften
+</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A1a]{.gray}&#8201; Ostseeländer&#160; 
+# [A1a]{.gray}&#8201; Ostseeländer &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q579938) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Baltikum)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140894`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n33a Sm2]{.gray}&#8201; Einzelne Binnenschiffahrtsstrassen und Seekanäle, Hoheitsrechte, Politische Fragen&#160; 
+# [n33a Sm2]{.gray}&#8201; Einzelne Binnenschiffahrtsstrassen und Seekanäle, Hoheitsrechte, Politische Fragen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711240)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145653`</div>
 
 
 

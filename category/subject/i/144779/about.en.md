@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [l5 Sm1]{.gray}&#8201; Red Cross&#160; 
+# [l5 Sm1]{.gray}&#8201; Red Cross &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700248)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144779`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n Sm38.III]{.gray}&#8201; Copyright protection, protection of industrial property&#160; 
+# [n Sm38.III]{.gray}&#8201; Copyright protection, protection of industrial property &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710358)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145839`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [k1a]{.gray}&#8201; Wissenschaftliche Beziehungen zu einzelnen Ländern und geistige Zusammenarbeit mit einz. Ländern&#160; 
+# [k1a]{.gray}&#8201; Wissenschaftliche Beziehungen zu einzelnen Ländern und geistige Zusammenarbeit mit einz. Ländern &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427912)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144738`</div>
 
 
 

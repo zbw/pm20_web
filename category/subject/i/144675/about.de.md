@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [h5 Sm2]{.gray}&#8201; Eingemeindung, Umgemeindung, Allgemein&#160; 
+# [h5 Sm2]{.gray}&#8201; Eingemeindung, Umgemeindung, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700091)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144675`</div>
 
 
 

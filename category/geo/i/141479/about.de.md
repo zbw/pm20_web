@@ -8,11 +8,13 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C122]{.gray}&#8201; Französisch-Somaliland&#160; 
+# [C122]{.gray}&#8201; Französisch-Somaliland &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q977) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Dschibuti)
 
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141479`</div>
 
-> Scope Note: Französisch Somaliland, Französisch Afar und Issar-Küste (ab 15.6.1967), Dschibuti (ab 28.6.1977)
-
+<div class="hint">
+Scope Note: Französisch Somaliland, Französisch Afar und Issar-Küste (ab 15.6.1967), Dschibuti (ab 28.6.1977)
+</div>
 
 
 [Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
@@ -82,7 +84,13 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+
+### A
+
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141479" title="über: Alkohol : Französisch-Somaliland" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1414xx/141479/about.de.html))
+
+### B
+
 - Benzin [**&nearr;**](../../../ware/i/142108/about.de.html "Benzin (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13.02-Ks02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141479" title="über: Benzin : Französisch-Somaliland" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1414xx/141479/about.de.html))
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [l1 Sm501 (C26)]{.gray}&#8201; Marokko (span.), Fremdenlegion&#160; 
+# [l1 Sm501 (C26)]{.gray}&#8201; Marokko (span.), Fremdenlegion &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700223)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144767`</div>
 
 
 

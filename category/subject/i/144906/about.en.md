@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [m5a Sm5.II]{.gray}&#8201; Bonds borrowed abroad in individual countries (finance of individual cities)&#160; 
+# [m5a Sm5.II]{.gray}&#8201; Bonds borrowed abroad in individual countries (finance of individual cities) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700338)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144906`</div>
 
 
 

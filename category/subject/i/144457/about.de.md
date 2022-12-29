@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [g1 Sm5]{.gray}&#8201; Abkommen über Auslieferung&#160; 
+# [g1 Sm5]{.gray}&#8201; Abkommen über Auslieferung &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699753)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144457`</div>
 
 
 

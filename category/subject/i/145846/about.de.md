@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n Sm42]{.gray}&#8201; Beleuchtungswirtschaft&#160; 
+# [n Sm42]{.gray}&#8201; Beleuchtungswirtschaft &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710368)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145846`</div>
 
 
 

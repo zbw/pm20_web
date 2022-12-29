@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Carbon (soot)&#160; 
+# Carbon (soot) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q13174856) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Soot)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/143123`</div>
 
 
 

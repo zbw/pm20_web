@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n34 Sm2]{.gray}&#8201; Army postal services (World War I)&#160; 
+# [n34 Sm2]{.gray}&#8201; Army postal services (World War I) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711248)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145664`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [d8]{.gray}&#8201; Missionary activities&#160; 
+# [d8]{.gray}&#8201; Missionary activities &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427851)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144253`</div>
 
 
 

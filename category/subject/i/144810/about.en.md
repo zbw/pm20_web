@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [m1]{.gray}&#8201; State budget&#160; 
+# [m1]{.gray}&#8201; State budget &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428008)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144810`</div>
 
 
 

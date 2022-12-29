@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n13a Sm9]{.gray}&#8201; Aircraft and airship industries&#160; 
+# [n13a Sm9]{.gray}&#8201; Aircraft and airship industries &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710666)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145133`</div>
 
 
 

@@ -8,7 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [f5 Sm2]{.gray}&#8201; Individual political movements&#160; 
+# [f5 Sm2]{.gray}&#8201; Individual political movements &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699654)
+
+<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144400`</div>
 
 
 
