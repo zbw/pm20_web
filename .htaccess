@@ -169,5 +169,12 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^pdf/.*$ /cgi-bin/folder2pdf.cgi?pdf=https://pm20.zbw.eu%{REQUEST_URI} [L]
 
 
+# BEACON lists
+RewriteRule ^beaconlist/pe /doc/beacon/BEACON-Personen.txt
+RewriteRule ^beaconlist/co /doc/beacon/BEACON-Institutionen.txt
+RewriteRule ^beaconlist/sh /doc/beacon/BEACON-Schlagworte.txt
+RewriteRule ^beaconlist/wa /doc/beacon/BEACON-SchlagworteW.txt
+
+
 # rules for /folder/ moved to folder dir
 
