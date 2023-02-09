@@ -46,8 +46,6 @@ SetEnvIf Remote_Addr "^134\.245\.95\.14$" PM20_INTERNAL=1
 
 # Gateway for admin (nbt/ottk)
 SetEnvIf Remote_Addr "^134\.245\.95\.210$" PM20_INTERNAL=1
-# Remote access (citrix) for admin
-SetEnvIf Remote_Addr "^134\.245\.94\.2$" PM20_INTERNAL=1
 # Remote access (vpn) for admin
 SetEnvIf Remote_Addr "^134\.245\.94\.1$" PM20_INTERNAL=1
 
