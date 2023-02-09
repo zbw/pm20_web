@@ -7,6 +7,8 @@ backlink-title: Home
 
 # Digitalisierte Filme aus der Sicherungsverfilmung (Material bis 1960)
 
+__Only metadata on the web - full content from ZBW reading room.__
+
 __Im öffentlichen Netz sind aus urheberrrechtlichen Gründen nur die
 Metadaten zu den digitalisieten Mikrofilmen sichtbar, die Artikel selbst sind
 nur vom ZBW-Lesesaal aus zugänglich.__ ([Beispiel](/film/h1/sh/S0690H) aus
