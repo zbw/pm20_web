@@ -34,11 +34,15 @@ Filme.
 
 ### Systematiken
 
-* [Ländersystematik](http://zbw.eu/beta/skosmos/pm20ag/de/page/157538) ([PDF](../doc/hwwa/geo/hwwa_laender_systematik_t2.pdf), Stand ca. 1992)
-* [Sachsystematik](http://zbw.eu/beta/skosmos/pm20je/de/page/156329) ([PDF](../doc/hwwa/subject/hwwa_sach_systematik_1961.pdf), Stand ca. 1961)
-* [Warensystematik](http://zbw.eu/beta/skosmos/pm20ip/de/page/157549)
+* [Ländersystematik](http://zbw.eu/beta/skosmos/pm20ag/de/page/157538) (SKOS)
+  * [Ländersystematik (PDF)](../doc/hwwa/geo/hwwa_laender_systematik_t2.pdf), Stand ca. 1992 
+  * [Konkordanz Länder im Waren- und Sacharchiv](../doc/hwwa/geo/hwwa_laender_konkordanz_1948ff.pdf), 1948 ff.
+* [Sachsystematik](http://zbw.eu/beta/skosmos/pm20je/de/page/156329) (SKOS)
+  * [Sachsystematik (PDF)](../doc/hwwa/subject/hwwa_sach_systematik_1961.pdf), Stand ca. 1961
+* [Warensystematik](http://zbw.eu/beta/skosmos/pm20ip/de/page/157549) (SKOS)
   * [Warensystematik 1908-1945 (PDF)](../doc/hwwa/ware/warenarchiv_1908-1945_systematik.pdf), [Schemata (PDF)](../doc/hwwa/ware/warenarchiv_1908-1945_schemata.pdf)
-  * [Warensystematik 1948?-1960? (PDF)](../doc/hwwa/ware/warenarchiv_1948-1960_systematik.pdf)
+  * [Warensystematik 1948?-1960 (PDF)](../doc/hwwa/ware/warenarchiv_1948-1960_systematik.pdf)
+  * [Warensystematik 1961ff (PDF)](../doc/hwwa/ware/warenarchiv_1961ff_systematik.pdf)
 
 
 ## Wirtschaftsarchiv Kiel
