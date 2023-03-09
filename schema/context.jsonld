@@ -1,0 +1,144 @@
+{
+  "@context" : {
+    "dc" : "http://purl.org/dc/elements/1.1/",
+    "dct" : "http://purl.org/dc/terms/",
+    "esco" : "http://data.europa.eu/esco/model#",
+    "foaf" : "http://xmlns.com/foaf/0.1/",
+    "frapo" : "http://purl.org/cerif/frapo/",
+    "gn" : "http://www.geonames.org/ontology#",
+    "gndo" : "https://d-nb.info/standards/elementset/gnd#",
+    "rdfs" : "http://www.w3.org/2000/01/rdf-schema#",
+    "schema" : "http://schema.org/",
+    "skos" : "http://www.w3.org/2004/02/skos/core#",
+    "zbwext" : "http://zbw.eu/namespaces/zbw-extensions/",
+
+    "Pm20Folder" : "zbwext:Pm20Folder",
+    "CompanyFolder" : "zbwext:CompanyFolder",
+    "PersonFolder" : "zbwext:PersonFolder",
+    "SubjectFolder" : "zbwext:SubjectFolder",
+    "WareFolder" : "zbwext:WareFolder",
+    "viewUrl" : {
+      "@id" : "zbwext:viewUrl",
+      "@type":"@id"
+    },
+    "wdIdentifier" : {
+      "@id" : "zbwext:wdIdentifier",
+      "@container" : "@set"
+    },
+    "wikipediaPage" : {
+      "@id" : "foaf:page",
+      "@type":"@id",
+      "@container" : "@set"
+    },
+    "about" : {
+      "@id" : "schema:about"
+    },
+    "location" : {
+      "@id" : "schema:location",
+      "@container" : "@set"
+    },
+    "industry" : {
+      "@id" : "schema:industry",
+      "@container" : "@set"
+    },
+    "altLabel" : {
+      "@id" : "skos:altLabel",
+      "@container" : "@set"
+    },
+    "temporal" : {
+      "@id" : "dct:temporal",
+      "@container" : "@set"
+    },
+    "note" : {
+      "@id" : "skos:note",
+      "@container" : "@set"
+    },
+    "prefLabel" : "skos:prefLabel",
+    "organizationType" : "dc:type",
+    "identifier" : "dct:identifier",
+    "modified" : "dct:modified",
+    "birthDate" : "schema:birthDate",
+    "deathDate" : "schema:deathDate",
+    "hasOccupation" : "schema:hasOccupation",
+    "nationality" : "schema:nationality",
+    "dateOfBirthAndDeath" : "gndo:dateOfBirthAndDeath",
+    "gndIdentifier" : "gndo:gndIdentifier",
+    "foundingDate" : "schema:foundingDate",
+    "dissolutionDate" : "schema:dissolutionDate",
+    "member" : {
+      "@id" : "schema:member",
+      "@container" : "@set"
+    },
+    "relatedPerson" : {
+      "@id" : "gndo:relatedPerson",
+      "@container" : "@set"
+    },
+    "hasPart" : {
+      "@id" : "dct:hasPart",
+      "@container" : "@set"
+    },
+    "roleName" : "schema:roleName",
+    "url" : "schema:url",
+    "name" : "schema:name",
+    "isPartOf" : "dct:isPartOf",
+    "precedingCorporateBody" : {
+      "@id" : "gndo:precedingCorporateBody",
+      "@container" : "@set"
+    },
+    "succeedingCorporateBody" : {
+      "@id" : "gndo:succeedingCorporateBody",
+      "@container" : "@set"
+    },
+    "relatedCorporateBody" : {
+      "@id" : "gndo:relatedCorporateBody",
+      "@container" : "@set"
+    },
+    "parentOrganization" : {
+      "@id" : "schema:parentOrganization",
+      "@container" : "@set"
+    },
+    "subOrganization" : {
+      "@id" : "schema:subOrganization",
+      "@container" : "@set"
+    },
+    "broaderLocation" : {
+      "@id" : "zbwext:broaderLocation",
+      "@container" : "@set"
+    },
+    "includesInstitutionNamed" : {
+      "@id" : "zbwext:includesInstitutionNamed",
+      "@container" : "@set"
+    },
+    "activity" : {
+      "@id" : "zbwext:activity",
+      "@container" : "@set"
+    },
+    "locatedIn" : {
+      "@id" : "gn:locatedIn",
+      "@container" : "@set"
+    },
+    "hasNACECode" : {
+      "@id" : "esco:hasNACECode",
+      "@container" : "@set"
+    },
+    "exactMatch" : {
+      "@id" : "skos:exactMatch",
+      "@container" : "@set"
+    },
+
+    "label" : "rdfs:label",
+    "fromTo" : "zbwext:fromTo",
+    "totalDocCount" : "zbwext:totalDocCount",
+    "freeDocCount" : "zbwext:freeDocCount",
+    "reportCount" : "zbwext:reportCount",
+    "editorialNote" : "skos:editorialNote",
+    "notation" : "skos:notation",
+    "country" : "zbwext:country",
+    "subject" : "zbwext:subject",
+    "ware" : "zbwext:ware",
+    "adjustedLabel" : "zbwext:adjustedLabel",
+    "adjustedAltLabel" : "zbwext:adjustedAltLabel",
+    "wpLinkOrig" : "zbwext:wpLinkOrig",
+    "hasCountryCode" : "frapo:hasCountryCode"
+  }
+}
