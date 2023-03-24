@@ -22,8 +22,8 @@ hm/sh|Countries-Subjects Archive 3rd/4th/5th filming | Subject-related dossiers 
 h1/co|**Companies/Institutions Archive** 1.\ filming | Dossiers on companies and other organizations, often with annual reports and other company documents | 1908 (partly earlier) - ca. 1949 | ca. 370,000 documents, plus ca. 460,000 pages | [prepared dossiers: PM20](http://pm20.zbw.eu/folder/co)<br />[digitized roll films](../../film/h1_co.de): only in the ZBW reading room
 h2/co|Companies/Institutions Archive 2.\ filming | Dossiers on companies and other organizations, often with annual reports and other company documents | ca. 1949 - ca. 1960 | ca. 480,000 pages | [digitized roll films](../../film/h2_co.de): only in the ZBW reading room
 hm/co|Companies/Institutions Archive 3.\ Verfilmung | Dossiers on companies and other organizations, often with annual reports and other company documents| 1961 - 1980 | ca. 30.000 Fiches | Mikrofiche: only in the ZBW reading room
-h1/wa|**Commodities/Wares Archive** 1.\ filming | Dossiers on goods, products and raw materials with subdivision by country | 1908 (partly earlier) - 1945 | ca. 105,000 documents, plus ca. 996,000 pages | [prepared dossiers: PM20](http://pm20.zbw.eu/folder/wa)<br />[digitized roll films](../../film/h1_wa.de): only in the ZBW reading room
-h2/wa|Commodities/Wares Archive 2.\ filming | Dossiers on goods, products and raw materials with subdivision by country | 1946 - 1960 | approx. 618,000 pages | [digitized roll films](../../film/h2_wa.de): only in the ZBW reading room
+h1/wa|**Commodities/Wares Archive** 1.\ filming | Dossiers on goods, products and raw materials with subdivision by country | 1908 (partly earlier) - 1946 | ca. 105,000 documents, plus ca. 996,000 pages | [prepared dossiers: PM20](http://pm20.zbw.eu/folder/wa)<br />[digitized roll films](../../film/h1_wa.de): only in the ZBW reading room
+h2/wa|Commodities/Wares Archive 2.\ filming | Dossiers on goods, products and raw materials with subdivision by country | 1947 - 1960 | approx. 618,000 pages | [digitized roll films](../../film/h2_wa.de): only in the ZBW reading room
 hm/wa|Commodities/Wares Archive 3rd/4th/5th\ filming | Dossiers on goods, products and raw materials with subdivision by country | 1961 - 1998 | approx. 15,000 fiches | microfiche: only in the ZBW reading room (from 1998 part of the subject archive)
 hd/pe|**Persons Archives** | Dossiers on public figures created before 1949 | 1908 (partly earlier) - 2005 | approx. 223,000 documents | [prepared dossiers: PM20](http://pm20.zbw.eu/folder/pe), items published less than 70 years ago or otherwise blocked only in the ZBW reading room
 k1/sh|**Subject Archive WiA** | Dossiers on international economic affairs | 1914 (partly earlier) - ca. 1945 | ca. 1.16 million pages | [digitized roll films](../../film/k1_sh.de): only in the ZBW reading room
@@ -45,5 +45,5 @@ __Abbr column (provenance/type) - Legend__
 * wa = commodities/wares
 * pe = persons
 
-As of: 2.1.2023
+As of: 28.2.2023
 

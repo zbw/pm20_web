@@ -22,8 +22,8 @@ hm/sh|Länder-Sacharchiv 3./4./5.\ Verfilmung | Sachthemen-bezogene Dossiers zu 
 h1/co|**Firmen/Institutionenarchiv** 1.\ Verfilmung | Dossiers zu Firmen und sonstigen Organisationen, häufig mit Geschäftsberichten und anderen Firmenschriften | 1908 (z.T. früher) - ca. 1949 | ca. 370.000 Dokumente, plus ca. 460.000 Seiten | [aufbereitete Dossiers: PM20](http://pm20.zbw.eu/folder/co)<br />[digitalisierte Rollfilme](../../film/h1_co.de): nur im ZBW Lesesaal
 h2/co|Firmen/Institutionenarchiv 2.\ Verfilmung | Dossiers zu Firmen und sonstigen Organisationen, häufig mit Geschäftsberichten und anderen Firmenschriften | ca. 1949 - ca. 1960 | ca. 480.000 Seiten | [digitalisierte Rollfilme](../../film/h2_co.de): nur im ZBW Lesesaal
 hm/co|Firmenarchiv/Institutionenarchiv 3.\ Verfilmung | Dossiers zu Firmen und sonstigen Organisationen, häufig mit Geschäftsberichten und anderen Firmenschriften | 1961 - 1980 | ca. 30.000 Fiches | Mikrofiche: nur im ZBW Lesesaal
-h1/wa|**Warenarchiv** 1.\ Verfilmung | Dossiers zu Waren, Produkten und Rohstoffen mit Unterteilung nach Ländern | 1908 (z.T. früher) - 1945 | ca. 105.000 Dokumente, plus ca. 996.000 Seiten | [aufbereitete Dossiers: PM20](http://pm20.zbw.eu/folder/wa)<br />[digitalisierte Rollfilme](../../film/h1_wa.de): nur im ZBW Lesesaal
-h2/wa|Warenarchiv 2.\ Verfilmung | Dossiers zu Waren, Produkten und Rohstoffen mit Unterteilung nach Ländern | 1946 - 1960 | ca. 618.000 Seiten | [digitalisierte Rollfilme](../../film/h2_wa.de): nur im ZBW Lesesaal
+h1/wa|**Warenarchiv** 1.\ Verfilmung | Dossiers zu Waren, Produkten und Rohstoffen mit Unterteilung nach Ländern | 1908 (z.T. früher) - 1946 | ca. 105.000 Dokumente, plus ca. 996.000 Seiten | [aufbereitete Dossiers: PM20](http://pm20.zbw.eu/folder/wa)<br />[digitalisierte Rollfilme](../../film/h1_wa.de): nur im ZBW Lesesaal
+h2/wa|Warenarchiv 2.\ Verfilmung | Dossiers zu Waren, Produkten und Rohstoffen mit Unterteilung nach Ländern | 1947 - 1960 | ca. 618.000 Seiten | [digitalisierte Rollfilme](../../film/h2_wa.de): nur im ZBW Lesesaal
 hm/wa|Warenarchiv 3./4./5.\ Verfilmung | Dossiers zu Waren, Produkten und Rohstoffen mit Unterteilung nach Ländern | 1961 - 1998 | ca. 15.000 Fiches | Mikrofiche: nur im ZBW Lesesaal (ab 1998 Teil des Sacharchivs)
 hd/pe|**Personenarchiv** | Vor 1949 angelegte Dossiers zu Personen des öffentlichen Lebens | 1908 (z.T. früher) - 2005 | ca. 223.000 Dokumente | [aufbereitete Dossiers: PM20](http://pm20.zbw.eu/folder/pe), vor weniger als 70 Jahren erschienene oder sonst gesperrte Artikel nur im ZBW Lesesaal
 k1/sh|**Sacharchiv WiA** | Dossiers zum Wirtschaftsgeschehen international | 1914 (z.T. früher) - ca. 1945 | ca. 1,16 Mio. Seiten | [digitalisierte Rollfilme](../../film/k1_sh.de): nur im ZBW Lesesaal
@@ -45,5 +45,5 @@ __Spalte Krz (Provenienz/Typ) - Legende__
 * wa = Waren
 * pe = Personen
 
-Stand: 2.1.2023
+Stand: 28.2.2023
 
