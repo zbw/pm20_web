@@ -7,6 +7,16 @@ RewriteEngine on
 ##RewriteRule ^(subject/s/.+)\s(.+)\s(.+)$ $1_$2_$3
 ##RewriteRule ^(subject/s/.+)\s(.+)$ $1_$2
 
+# Redirect lowercase geo notations 
+RewriteRule ^geo/s/a(.+)$ /category/geo/s/A$1 [R]
+RewriteRule ^geo/s/b(.+)$ /category/geo/s/B$1 [R]
+RewriteRule ^geo/s/c(.+)$ /category/geo/s/C$1 [R]
+RewriteRule ^geo/s/d(.+)$ /category/geo/s/D$1 [R]
+RewriteRule ^geo/s/e(.+)$ /category/geo/s/E$1 [R]
+RewriteRule ^geo/s/f(.+)$ /category/geo/s/F$1 [R]
+RewriteRule ^geo/s/g(.+)$ /category/geo/s/G$1 [R]
+RewriteRule ^geo/s/h(.+)$ /category/geo/s/H$1 [R]
+
 # Redirects for signature URLs per ID
 RewriteRule ^geo/s/(.+)$  "geo/i/${geomap:$1|/error/signature_not_found.en.html}"
 RewriteRule ^subject/s/(.+)$  "subject/i/${subjectmap:$1|/error/signature_not_found.en.html}"
