@@ -35,3 +35,8 @@ RewriteRule "^(co|pe|sh|wa)/([0-9,]+)/([0-9]{5})/([0-9]{4})$" "https://pm20.zbw.
 Header add Access-Control-Allow-Origin "*"
 Header add Access-Control-Allow-Methods: "GET,POST,OPTIONS,DELETE,PUT"
 
+
+### Rewrites for old P20 links
+RewriteRule "^(co|pe)/([0-9]{4})$" "$1/00$2"
+RewriteRule "^(co|pe)/([0-9]{5})$" "$1/0$2"
+
