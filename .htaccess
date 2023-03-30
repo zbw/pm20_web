@@ -98,7 +98,7 @@ RewriteEngine on
 # in a .htaccess is interpreted
 
 
-# for folder and document rewrites, see ./folder/.htaccess
+# for folder and document rewrites, see ./folder/.htaccess, dito ./category/.htaccess
 
 
 # film rewrites
