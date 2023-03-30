@@ -6,9 +6,9 @@ fn-stub: about
 
 <div class="home">
 
-Pressearchiv 20. Jahrhundert - historische Pressearchive der ZBW. Übernommen vom
-"Hamburgischen Welt-Wirtschafts-Archiv" und vom "Wirtschaftsarchiv" des
-Instituts für Weltwirtschaft in Kiel. Teil-digitalisiert mit
+Pressearchiv 20. Jahrhundert - historische Pressearchive der ZBW. Übernommen
+vom "Hamburgischen Welt-Wirtschafts-Archiv" (HWWA) und vom "Wirtschaftsarchiv"
+des Instituts für Weltwirtschaft in Kiel. Teil-digitalisiert (~ 1949) mit
 Unterstützung der DFG.
 
 * [Personenarchiv](folder/pe/about.de.html)
