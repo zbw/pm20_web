@@ -1,3 +1,4 @@
+Sitemap: https://pm20.zbw.eu/sitemap.xml
 User-agent: *
 Disallow: /dfgview
 Disallow: /iiifview
