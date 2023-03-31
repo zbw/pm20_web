@@ -1,5 +1,6 @@
 User-agent: *
 Disallow: /dfgview
 Disallow: /iiifview
+Disallow: /pdf
 Disallow: *.JPG
 
