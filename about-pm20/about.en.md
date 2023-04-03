@@ -21,6 +21,6 @@ fn-stub: about
 
 * [Reports](../report/about.en.html)
 * [List of evaluated newspapers and jounals](../list/publication/about.en.html)
-* [Holdings overview](../doc/holding/about.de.html) (in German)
+* [Holdings overview](../doc/holding/about.en.html)
 * [Documentation](../doc/about.en.html)
 

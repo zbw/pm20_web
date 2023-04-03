@@ -22,6 +22,6 @@ fn-stub: about
 
 * [Auswertungen](../report/about.de.html)
 * [Liste der genutzten Zeitungen und Zeitschriften](../list/publication/about.de.html)
-* [Beständsübersicht](../doc/holding/about.de.html)
+* [Bestandsübersicht](../doc/holding/about.de.html)
 * [Dokumentation](../doc/about.de.html)
 
