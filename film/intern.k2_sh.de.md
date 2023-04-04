@@ -1,8 +1,8 @@
 ---
 title: "k2_sh: Sacharchiv 2. Verfilmung"
-etr: filmlist/sh
 backlink: ./about.de.html
 backlink-title: Film-Überblick
+robots: noindex
 ---
 
 ### Wirtschaftsarchiv des Instituts für Weltwirtschaft (WiA)

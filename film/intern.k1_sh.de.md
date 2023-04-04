@@ -1,8 +1,8 @@
 ---
 title: "k1_sh: Sacharchiv 1. Verfilmung"
-etr: filmlist/sh
 backlink: ./about.de.html
 backlink-title: Film-Überblick
+robots: noindex
 ---
 
 ### Wirtschaftsarchiv des Instituts für Weltwirtschaft (WiA)

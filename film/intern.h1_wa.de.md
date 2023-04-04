@@ -1,8 +1,8 @@
 ---
 title: "h1_wa: Warenarchiv 1. Verfilmung"
-etr: filmlist/wa
 backlink: ./about.de.html
 backlink-title: Film-Überblick
+robots: noindex
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)

@@ -1,8 +1,8 @@
 ---
 title: "h2_co: Firmen- und Institutionenarchiv 2. Verfilmung"
-etr: filmlist/co
 backlink: ./about.de.html
 backlink-title: Film-Überblick
+robots: noindex
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
