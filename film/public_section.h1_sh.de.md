@@ -1,6 +1,7 @@
 ---
 title: Veröffentlichte Abschnitte aus digitalisierten Rollfilmen
 fn-stub: public_section.h1_sh
+robots: nofollow
 ---
 
 # Veröffentlichte Abschnitte aus digitalisierten Rollfilmen
@@ -35,7 +36,7 @@ fn-stub: public_section.h1_sh
 
 ### S0690H
 
-- [Britisch-Indien : Bodenbesitzverhältnisse, Bodenpolitik (Beispielartikel)](h1/sh/S0690H/0001) (9)
+- [Britisch-Indien : Bodenbesitzverhältnisse, Bodenpolitik](h1/sh/S0690H/0001) (16)
 
 ## USA
 

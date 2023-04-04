@@ -1,6 +1,7 @@
 ---
 title: Published sections from digitized roll films
 fn-stub: public_section.h1_sh
+robots: nofollow
 ---
 
 # Published sections from digitized roll films
@@ -35,7 +36,7 @@ fn-stub: public_section.h1_sh
 
 ### S0690H
 
-- [British-India : Land tenure, land policy (example articles)](h1/sh/S0690H/0001) (9)
+- [British-India : Land tenure, land policy](h1/sh/S0690H/0001) (16)
 
 ## E15
 
