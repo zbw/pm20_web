@@ -10,8 +10,9 @@ __Only metadata on the web - full content from ZBW reading room.__
 
 __Im öffentlichen Netz sind aus urheberrrechtlichen Gründen nur die
 Metadaten zu den digitalisieten Mikrofilmen sichtbar, die Artikel selbst sind
-nur vom ZBW-Lesesaal aus zugänglich.__ ([Beispiel](/film/h1/sh/S0690H) aus
-Mappe "Bodenbesitzverhältnisse in Britisch-Indien")
+nur vom ZBW-Lesesaal aus zugänglich.__ (<a href="/film/h1/sh/S0690H"
+rel="nofollow">Beispiel</a> aus Mappe "Bodenbesitzverhältnisse in
+Britisch-Indien")
 
 Die erste Verfilmung deckte den Zeitraum von 1908 bis ca. 1947 ab, die
 zweite Verfilmung den von ca. 1947 bis ca. 1960. Diese Filme sind nun die
