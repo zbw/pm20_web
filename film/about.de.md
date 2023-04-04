@@ -1,6 +1,5 @@
 ---
 title: "Digitalisierte Filme"
-etr: film
 backlink: ../about
 backlink-title: Home
 ---
