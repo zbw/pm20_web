@@ -1,8 +1,8 @@
 ---
-title: "Report: Complete commodities/wares category system | ZBW Press Archives"
-etr: report
+title: "Report: Complete commodities/wares category system"
 backlink: ../about.en.html
 backlink-title: Reports
+fn-stub: ware_by_signature
 ---
 
 ## Reports 20th Century Press Archives
@@ -11,1070 +11,1026 @@ backlink-title: Reports
 
 ::: {.wikitable}
 
-notationLong | signature | category | note | count
--|-|-|-|-
-. Abomasum | PLW05-Tp06 | [. Abomasum](http://zbw.eu/beta/pm20voc/ip/143158) |   |  
-. Acid | PID13-Sc | [. Acid](http://zbw.eu/beta/pm20voc/ip/143802) |   |  
-. Adhesive | PID13.00-01 | [. Adhesive](http://zbw.eu/beta/pm20voc/ip/143107) |   |  
-. Aerial camera | PID12-Fo02 | [. Aerial camera](http://zbw.eu/beta/pm20voc/ip/143514) |   |  
-. Agricultural machine | PID08-Ld | [. Agricultural machine](http://zbw.eu/beta/pm20voc/ip/143547) |   |  
-. Air, liquid | PID13-Ae08 | [. Air, liquid](http://zbw.eu/beta/pm20voc/ip/143517) |   |  
-. Airship | PID09.01-Lf03 | [. Airship](http://zbw.eu/beta/pm20voc/ip/143518) |   |  
-. Alder wood | PLW06-Hz09 | [. Alder wood](http://zbw.eu/beta/pm20voc/ip/142299) |   |  
-. Alfalfa | PLW04-Hu11 | [. Alfalfa](http://zbw.eu/beta/pm20voc/ip/143521) |   |  
-. Almond | PLW04-Ob13 | [. Almond](http://zbw.eu/beta/pm20voc/ip/143534) |   |  
-. Anchovy | PLW07-Mt12 | [. Anchovy](http://zbw.eu/beta/pm20voc/ip/143823) |   |  
-. Animal Fiber | PID19-Tf | [. Animal Fiber](http://zbw.eu/beta/pm20voc/ip/166318) |   |  
-. Animal Product | PLW05-20 | [. Animal Product](http://zbw.eu/beta/pm20voc/ip/143963) |   |  
-. Animal, living, wild (cage animal, except bird) | PLW05-19 | [. Animal, living, wild (cage animal, except bird)](http://zbw.eu/beta/pm20voc/ip/143962) |   |  
-. Artificial silk | PID19-Ku01 | [. Artificial silk](http://zbw.eu/beta/pm20voc/ip/143152) |   |  
-. Asparagus | PLW04-Gm15 | [. Asparagus](http://zbw.eu/beta/pm20voc/ip/143893) |   |  
-. BW_A_III.1 Technical production, processing, distribution, general | Y0106 | [. BW_A_III.1 Technical production, processing, distribution, general](http://zbw.eu/beta/pm20voc/ip/154937) |   |  
-. Ball-bearing | PID08-Wl | [. Ball-bearing](http://zbw.eu/beta/pm20voc/ip/143146) |   |  
-. Bandage and cotton wool | PID04-Md02 | [. Bandage and cotton wool](http://zbw.eu/beta/pm20voc/ip/144000) |   |  
-. Barrel | PID21-03 | [. Barrel](http://zbw.eu/beta/pm20voc/ip/142304) |   |  
-. Bean | PLW04-Hu02 | [. Bean](http://zbw.eu/beta/pm20voc/ip/142147) |   |  
-. Beaver fur | PLW05-Hf01 | [. Beaver fur](http://zbw.eu/beta/pm20voc/ip/142120) |   |  
-. Bed, mattress | PID04-Mo01 | [. Bed, mattress](http://zbw.eu/beta/pm20voc/ip/142118) |   |  
-. Beech wood | PLW06-Hz03 | [. Beech wood](http://zbw.eu/beta/pm20voc/ip/142211) |   |  
-. Beechnut | PLW04-Nu10 | [. Beechnut](http://zbw.eu/beta/pm20voc/ip/142210) |   |  
-. Beef and beef | PLW05-Rd | [. Beef and beef](http://zbw.eu/beta/pm20voc/ip/143781) |   |  
-. Beeswax | PID13-Wa01 | [. Beeswax](http://zbw.eu/beta/pm20voc/ip/142121) |   |  
-. Beet seeds, fodder and sugar | PLW04-Gm20 | [. Beet seeds, fodder and sugar](http://zbw.eu/beta/pm20voc/ip/143798) |   |  
-. Bell jar | PID07.01-Mg02 | [. Bell jar](http://zbw.eu/beta/pm20voc/ip/142870) |   |  
-. Betel | PID04-Dr01 | [. Betel](http://zbw.eu/beta/pm20voc/ip/142116) |   |  
-. Bird nest | PLW05-25 | [. Bird nest](http://zbw.eu/beta/pm20voc/ip/144007) |   |  
-. Bird of paradise feather | PLW05-13 | [. Bird of paradise feather](http://zbw.eu/beta/pm20voc/ip/143716) |   |  
-. Bird, alive | PLW05-24 | [. Bird, alive](http://zbw.eu/beta/pm20voc/ip/144006) |   |  
-. Bismuth and bismuth compounds | PID07.01-17 | [. Bismuth and bismuth compounds](http://zbw.eu/beta/pm20voc/ip/144041) |   |  
-. Blast Furnace, Melting Furnace, Foundry Apparatus | PID08-Gi | [. Blast Furnace, Melting Furnace, Foundry Apparatus](http://zbw.eu/beta/pm20voc/ip/142960) |   |  
-. Bleach | PID13-Dr | [. Bleach](http://zbw.eu/beta/pm20voc/ip/142140) |   |  
-. Bleaching earth | PID13-Dr01 | [. Bleaching earth](http://zbw.eu/beta/pm20voc/ip/142139) |   |  
-. Blood | PLW05-Fl01 | [. Blood](http://zbw.eu/beta/pm20voc/ip/142146) |   |  
-. Blubber and fish oil | PLW07-Fp06 | [. Blubber and fish oil](http://zbw.eu/beta/pm20voc/ip/143972) |   |  
-. Blueberry | PLW04-Ob06 | [. Blueberry](http://zbw.eu/beta/pm20voc/ip/142940) |   |  
-. Boiler | PID07.03-10 | [. Boiler](http://zbw.eu/beta/pm20voc/ip/143100) |   |  
-. Bones, bone meal | PLW05-Tp05 | [. Bones, bone meal](http://zbw.eu/beta/pm20voc/ip/143113) |   |  
-. Boron | PID07.01-Hm03 | [. Boron](http://zbw.eu/beta/pm20voc/ip/142150) |   |  
-. Bottle cap | PID21-02 | [. Bottle cap](http://zbw.eu/beta/pm20voc/ip/142467) |   |  
-. Box | PID21-05 | [. Box](http://zbw.eu/beta/pm20voc/ip/143105) |   |  
-. Bran | PID20-Ft04 | [. Bran](http://zbw.eu/beta/pm20voc/ip/143110) |   |  
-. Brass | PID07.01-12 | [. Brass](http://zbw.eu/beta/pm20voc/ip/143564) |   |  
-. Brazil nut | PLW04-Nu06 | [. Brazil nut](http://zbw.eu/beta/pm20voc/ip/143718) |   |  
-. Breadfruit | PLW04-Tr02 | [. Breadfruit](http://zbw.eu/beta/pm20voc/ip/142208) |   |  
-. Brewery machine, cellar machine | PID08-Nm02 | [. Brewery machine, cellar machine](http://zbw.eu/beta/pm20voc/ip/142149) |   |  
-. Brick | PID23-05 | [. Brick](http://zbw.eu/beta/pm20voc/ip/144062) |   |  
-. Brick making machine | PID08-Ba01 | [. Brick making machine](http://zbw.eu/beta/pm20voc/ip/144064) |   |  
-. Briquette | PRB02.01.01-Br | [. Briquette](http://zbw.eu/beta/pm20voc/ip/142156) |   |  
-. Bromine | PID13-Sp01 | [. Bromine](http://zbw.eu/beta/pm20voc/ip/142158) |   |  
-. Bronze | PID07.01-Mg01 | [. Bronze](http://zbw.eu/beta/pm20voc/ip/142201) |   |  
-. Broom | PLW04-Hu06 | [. Broom](http://zbw.eu/beta/pm20voc/ip/142853) |   |  
-. Brush, broom, brush | PID16-Fl01 | [. Brush, broom, brush](http://zbw.eu/beta/pm20voc/ip/142219) |   |  
-. Buckwheat | PLW04-Gt01 | [. Buckwheat](http://zbw.eu/beta/pm20voc/ip/142212) |   |  
-. Buffalo | PLW05-Rd01 | [. Buffalo](http://zbw.eu/beta/pm20voc/ip/142215) |   |  
-. Bullet | PID06-01 | [. Bullet](http://zbw.eu/beta/pm20voc/ip/142839) |   |  
-. Butter | PID20-Oe02 | [. Butter](http://zbw.eu/beta/pm20voc/ip/142220) |   |  
-. Butter tree | PLW06-Hz04 | [. Butter tree](http://zbw.eu/beta/pm20voc/ip/142221) |   |  
-. Button | PID19-Bz05 | [. Button](http://zbw.eu/beta/pm20voc/ip/143114) |   |  
-. Cabuya fiber | PID19-Nf07 | [. Cabuya fiber](http://zbw.eu/beta/pm20voc/ip/142222) |   |  
-. Cactus | PLW04-Zp02 | [. Cactus](http://zbw.eu/beta/pm20voc/ip/143049) |   |  
-. Cadmium | PID13-Sp04 | [. Cadmium](http://zbw.eu/beta/pm20voc/ip/143007) |   |  
-. Caffeine | PID04-Dr04 | [. Caffeine](http://zbw.eu/beta/pm20voc/ip/143117) |   |  
-. Calcium | PID07.01-Lm04 | [. Calcium](http://zbw.eu/beta/pm20voc/ip/143056) |   |  
-. Calcium carbide and acetylene | PID13-Sp05 | [. Calcium carbide and acetylene](http://zbw.eu/beta/pm20voc/ip/143057) |   |  
-. Calculating machine and device | PID12-Bu01 | [. Calculating machine and device](http://zbw.eu/beta/pm20voc/ip/143769) |   |  
-. Camel | PLW05-06 | [. Camel](http://zbw.eu/beta/pm20voc/ip/143058) |   |  
-. Canary seed | PID20-Ft03 | [. Canary seed](http://zbw.eu/beta/pm20voc/ip/143062) |   |  
-. Cancer, crab | PLW07-Mt08 | [. Cancer, crab](http://zbw.eu/beta/pm20voc/ip/143141) |   |  
-. Candle | PID04-Hh03 | [. Candle](http://zbw.eu/beta/pm20voc/ip/143099) |   |  
-. Canned fruit | PID20-04 | [. Canned fruit](http://zbw.eu/beta/pm20voc/ip/142480) |   |  
-. Canned milk | PID20-Mp04 | [. Canned milk](http://zbw.eu/beta/pm20voc/ip/143575) |   |  
-. Cap | PID19-Bz02 | [. Cap](http://zbw.eu/beta/pm20voc/ip/142981) |   |  
-. Car | PID09.02-Pw | [. Car](http://zbw.eu/beta/pm20voc/ip/144009) |   |  
-. Caraway seed | PID20-Gw04 | [. Caraway seed](http://zbw.eu/beta/pm20voc/ip/143144) |   |  
-. Carbolic acid | PID13.01-05 | [. Carbolic acid](http://zbw.eu/beta/pm20voc/ip/143067) |   |  
-. Carbolineum | PID13-Pm04 | [. Carbolineum](http://zbw.eu/beta/pm20voc/ip/143070) |   |  
-. Carbon disulphide | PID13-Ko05 | [. Carbon disulphide](http://zbw.eu/beta/pm20voc/ip/143861) |   |  
-. Cardamon | PID20-Gw03 | [. Cardamon](http://zbw.eu/beta/pm20voc/ip/143071) |   |  
-. Carnauba wax | PID13-Wa02 | [. Carnauba wax](http://zbw.eu/beta/pm20voc/ip/142223) |   |  
-. Carob | PLW06-Fp18 | [. Carob](http://zbw.eu/beta/pm20voc/ip/143001) |   |  
-. Carp | PLW07-Sw02 | [. Carp](http://zbw.eu/beta/pm20voc/ip/143072) |   |  
-. Casein | PID20-Mp02 | [. Casein](http://zbw.eu/beta/pm20voc/ip/143077) |   |  
-. Casein wool | PID19-Tf01 | [. Casein wool](http://zbw.eu/beta/pm20voc/ip/143078) |   |  
-. Castle | PID07.03-13 | [. Castle](http://zbw.eu/beta/pm20voc/ip/143843) |   |  
-. Castor bean | PLW04-Oe08 | [. Castor bean](http://zbw.eu/beta/pm20voc/ip/143782) |   |  
-. Cat | PLW05-08 | [. Cat](http://zbw.eu/beta/pm20voc/ip/143082) |   |  
-. Catechu | PLW06-Fp13 | [. Catechu](http://zbw.eu/beta/pm20voc/ip/143081) |   |  
-. Caviar | PLW07-Fp04 | [. Caviar](http://zbw.eu/beta/pm20voc/ip/143097) |   |  
-. Cedar | PLW06-Hz21 | [. Cedar](http://zbw.eu/beta/pm20voc/ip/144052) |   |  
-. Celery | PLW04-Gm14 | [. Celery](http://zbw.eu/beta/pm20voc/ip/143873) |   |  
-. Cellophane | PID21-07 | [. Cellophane](http://zbw.eu/beta/pm20voc/ip/144053) |   |  
-. Celluloid | PID14-02 | [. Celluloid](http://zbw.eu/beta/pm20voc/ip/144054) |   |  
-. Cellulose | PID19-Ku05 | [. Cellulose](http://zbw.eu/beta/pm20voc/ip/144055) |   |  
-. Centrifuge | PID08-Wz12 | [. Centrifuge](http://zbw.eu/beta/pm20voc/ip/144058) |   |  
-. Chain | PID07.03-11 | [. Chain](http://zbw.eu/beta/pm20voc/ip/143101) |   |  
-. Chalk | PID23-Mi07 | [. Chalk](http://zbw.eu/beta/pm20voc/ip/143142) |   |  
-. Chariot | PID06-04 | [. Chariot](http://zbw.eu/beta/pm20voc/ip/143061) |   |  
-. Cherry | PLW04-Ob08 | [. Cherry](http://zbw.eu/beta/pm20voc/ip/143104) |   |  
-. Chestnut | PLW06-Hz11 | [. Chestnut](http://zbw.eu/beta/pm20voc/ip/143080) |   |  
-. Chewing gum | PID20-Su01 | [. Chewing gum](http://zbw.eu/beta/pm20voc/ip/143083) |   |  
-. Chick-pea | PLW04-Hu07 | [. Chick-pea](http://zbw.eu/beta/pm20voc/ip/143102) |   |  
-. Chicory | PLW04-Gm17 | [. Chicory](http://zbw.eu/beta/pm20voc/ip/144061) |   |  
-. Chinchilla | PLW05-Hf03 | [. Chinchilla](http://zbw.eu/beta/pm20voc/ip/142226) |   |  
-. Christmas tree ornaments | PID04-Sc04 | [. Christmas tree ornaments](http://zbw.eu/beta/pm20voc/ip/142228) |   |  
-. Cigarette paper | PID17-Sp07 | [. Cigarette paper](http://zbw.eu/beta/pm20voc/ip/144067) |   |  
-. Cinammon | PID20-Gw11 | [. Cinammon](http://zbw.eu/beta/pm20voc/ip/144068) |   |  
-. Cinchona, quinine | PLW06-Fp06 | [. Cinchona, quinine](http://zbw.eu/beta/pm20voc/ip/142225) |   |  
-. Citric acid | PID13-Sc05 | [. Citric acid](http://zbw.eu/beta/pm20voc/ip/144075) |   |  
-. Citrus oil | PID20-Oe03 | [. Citrus oil](http://zbw.eu/beta/pm20voc/ip/142230) |   |  
-. Civet | PID13-Pf02 | [. Civet](http://zbw.eu/beta/pm20voc/ip/144060) |   |  
-. Clay and ceramics | PID23-04 | [. Clay and ceramics](http://zbw.eu/beta/pm20voc/ip/143967) |   |  
-. Cleaning, grinding and polishing preparations | PID13.00-05 | [. Cleaning, grinding and polishing preparations](http://zbw.eu/beta/pm20voc/ip/143756) |   |  
-. Clothing, textiles and fibers | PID19 | [. Clothing, textiles and fibers](http://zbw.eu/beta/pm20voc/ip/148719) |   |  
-. Clove | PLW04-Zp03 | [. Clove](http://zbw.eu/beta/pm20voc/ip/143607) |   |  
-. Cobalt | PID07.01-05 | [. Cobalt](http://zbw.eu/beta/pm20voc/ip/143115) |   |  
-. Cochineal | PID13-Fl03 | [. Cochineal](http://zbw.eu/beta/pm20voc/ip/142231) |   |  
-. Cocoa 1 | PID20-Kk01 | [. Cocoa 1](http://zbw.eu/beta/pm20voc/ip/143046) |   |  
-. Cocoa 2 | PID20-Kk02 | [. Cocoa 2](http://zbw.eu/beta/pm20voc/ip/143047) |   |  
-. Cocoa, chocolate | PID20-Kk | [. Cocoa, chocolate](http://zbw.eu/beta/pm20voc/ip/143044) |   |  
-. Cod | PLW07-Mt06 | [. Cod](http://zbw.eu/beta/pm20voc/ip/143006) |   |  
-. Cod liver oil | PLW07-Fp05 | [. Cod liver oil](http://zbw.eu/beta/pm20voc/ip/143167) |   |  
-. Coffee preparation machine | PID10-Eh02 | [. Coffee preparation machine](http://zbw.eu/beta/pm20voc/ip/143041) |   |  
-. Coffee substitute | PID20-Kf01 | [. Coffee substitute](http://zbw.eu/beta/pm20voc/ip/143042) |   |  
-. Cognac | PID20.02-Sp02 | [. Cognac](http://zbw.eu/beta/pm20voc/ip/142232) |   |  
-. Cohune oil | PID20-Oe04 | [. Cohune oil](http://zbw.eu/beta/pm20voc/ip/142233) |   |  
-. Coil (of any kind) | PID07.03-06 | [. Coil (of any kind)](http://zbw.eu/beta/pm20voc/ip/143903) |   |  
-. Cologne | PID13-Pf01 | [. Cologne](http://zbw.eu/beta/pm20voc/ip/143116) |   |  
-. Colon | PLW05-Fl02 | [. Colon](http://zbw.eu/beta/pm20voc/ip/142241) |   |  
-. Color and dyes | PID13-Fl | [. Color and dyes](http://zbw.eu/beta/pm20voc/ip/143160) |   |  
-. Color, luminous | PID13-Fl05 | [. Color, luminous](http://zbw.eu/beta/pm20voc/ip/142310) |   |  
-. Color, mineral | PID13-Fl06 | [. Color, mineral](http://zbw.eu/beta/pm20voc/ip/142311) |   |  
-. Color, titanium | PID13-Fl08 | [. Color, titanium](http://zbw.eu/beta/pm20voc/ip/142313) |   |  
-. Comb | PID04-Hh02 | [. Comb](http://zbw.eu/beta/pm20voc/ip/143035) |   |  
-. Compass | PID12-03 | [. Compass](http://zbw.eu/beta/pm20voc/ip/143128) |   |  
-. Compressor | PID08-Pp02 | [. Compressor](http://zbw.eu/beta/pm20voc/ip/143129) |   |  
-. Concrete goods | PID23-Bt01 | [. Concrete goods](http://zbw.eu/beta/pm20voc/ip/142117) |   |  
-. Copal | PLW06-Fp16 | [. Copal](http://zbw.eu/beta/pm20voc/ip/143132) |   |  
-. Copper vitriol | PID23-Mi08 | [. Copper vitriol](http://zbw.eu/beta/pm20voc/ip/143157) |   |  
-. Coral | PLW07-Mt07 | [. Coral](http://zbw.eu/beta/pm20voc/ip/143133) |   |  
-. Cork | PLW06-Fp17 | [. Cork](http://zbw.eu/beta/pm20voc/ip/143136) |   |  
-. Corn oil | PID20-Oe05 | [. Corn oil](http://zbw.eu/beta/pm20voc/ip/143532) |   |  
-. Corozo | PLW04-Nu08 | [. Corozo](http://zbw.eu/beta/pm20voc/ip/143909) |   |  
-. Corset | PID19-Bk01 | [. Corset](http://zbw.eu/beta/pm20voc/ip/143137) |   |  
-. Corundum | PID23-Mi06 | [. Corundum](http://zbw.eu/beta/pm20voc/ip/143138) |   |  
-. Cosmetic items | PID13-Kp | [. Cosmetic items](http://zbw.eu/beta/pm20voc/ip/143139) |   |  
-. Coumarin | PID13-Ar03 | [. Coumarin](http://zbw.eu/beta/pm20voc/ip/143147) |   |  
-. Coumarone resin | PID15-01 | [. Coumarone resin](http://zbw.eu/beta/pm20voc/ip/143148) |   |  
-. Coward | PLW04-Tr04 | [. Coward](http://zbw.eu/beta/pm20voc/ip/142318) |   |  
-. Cranberry | PLW04-Ob10 | [. Cranberry](http://zbw.eu/beta/pm20voc/ip/143143) |   |  
-. Crotalaria fiber | PID19-Nf08 | [. Crotalaria fiber](http://zbw.eu/beta/pm20voc/ip/142238) |   |  
-. Cucumber | PLW04-Gm04 | [. Cucumber](http://zbw.eu/beta/pm20voc/ip/142899) |   |  
-. Cum | PID18-Sh02 | [. Cum](http://zbw.eu/beta/pm20voc/ip/144038) |   |  
-. Currant | PLW04-Ob07 | [. Currant](http://zbw.eu/beta/pm20voc/ip/142999) |   |  
-. Currant, raisin | PLW04-Ob09 | [. Currant, raisin](http://zbw.eu/beta/pm20voc/ip/143135) |   |  
-. Cutlery | PID07.03-Sd | [. Cutlery](http://zbw.eu/beta/pm20voc/ip/161314) |   |  
-. Cutting machine | PID08-Wz06 | [. Cutting machine](http://zbw.eu/beta/pm20voc/ip/143849) |   |  
-. Cyan | PID13-Sa02 | [. Cyan](http://zbw.eu/beta/pm20voc/ip/142239) |   |  
-. Dairy machine | PID08-Nm04 | [. Dairy machine](http://zbw.eu/beta/pm20voc/ip/143560) |   |  
-. Dairy product | PID20-Mp | [. Dairy product](http://zbw.eu/beta/pm20voc/ip/143559) |   |  
-. Date | PLW04-Tr03 | [. Date](http://zbw.eu/beta/pm20voc/ip/142243) |   |  
-. Deer horn salt | PID13-Lm02 | [. Deer horn salt](http://zbw.eu/beta/pm20voc/ip/142952) |   |  
-. Derris root | PID13-Pe01 | [. Derris root](http://zbw.eu/beta/pm20voc/ip/142245) |   |  
-. Devices and tools | PID07.03-Wz | [. Devices and tools](http://zbw.eu/beta/pm20voc/ip/161313) |   |  
-. Dextrin | PID13-Sp02 | [. Dextrin](http://zbw.eu/beta/pm20voc/ip/142250) |   |  
-. Die | PID07.03-Wz04 | [. Die](http://zbw.eu/beta/pm20voc/ip/142842) |   |  
-. Dividevi | PLW06-Hz05 | [. Dividevi](http://zbw.eu/beta/pm20voc/ip/142252) |   |  
-. Diving apparatus | PID08-Ap02 | [. Diving apparatus](http://zbw.eu/beta/pm20voc/ip/143944) |   |  
-. Dog | PLW05-04 | [. Dog](http://zbw.eu/beta/pm20voc/ip/142982) |   |  
-. Dolphin | PLW07-Mt03 | [. Dolphin](http://zbw.eu/beta/pm20voc/ip/142244) |   |  
-. Donkey | PLW05-03 | [. Donkey](http://zbw.eu/beta/pm20voc/ip/142300) |   |  
-. Dove | PLW05-22 | [. Dove](http://zbw.eu/beta/pm20voc/ip/143943) |   |  
-. Drill, drilling machine | PID08-Wz01 | [. Drill, drilling machine](http://zbw.eu/beta/pm20voc/ip/142148) |   |  
-. Drive belt | PID08-Mo10 | [. Drive belt](http://zbw.eu/beta/pm20voc/ip/143986) |   |  
-. Drugs and chemicals | PID13 | [. Drugs and chemicals](http://zbw.eu/beta/pm20voc/ip/148617) |   |  
-. Drying apparatus | PID08-Ap13 | [. Drying apparatus](http://zbw.eu/beta/pm20voc/ip/143990) |   |  
-. Dynamite | PID13-Zw01 | [. Dynamite](http://zbw.eu/beta/pm20voc/ip/142263) |   |  
-. Earthenware | PID23-Ke02 | [. Earthenware](http://zbw.eu/beta/pm20voc/ip/143908) |   |  
-. Earthwax | PID13-Wa03 | [. Earthwax](http://zbw.eu/beta/pm20voc/ip/142298) |   |  
-. Ebony | PLW06-Hz06 | [. Ebony](http://zbw.eu/beta/pm20voc/ip/142264) |   |  
-. Echo sounder | PID10-Mt01 | [. Echo sounder](http://zbw.eu/beta/pm20voc/ip/142265) |   |  
-. Electrical machine | PID10-05 | [. Electrical machine](http://zbw.eu/beta/pm20voc/ip/143545) |   |  
-. Electricity meter | PID10-Mt02 | [. Electricity meter](http://zbw.eu/beta/pm20voc/ip/142280) |   |  
-. Electrode | PID10-01 | [. Electrode](http://zbw.eu/beta/pm20voc/ip/142281) |   |  
-. Electrometal | PID07.01-02 | [. Electrometal](http://zbw.eu/beta/pm20voc/ip/142282) |   |  
-. Electrotechnical product | PID10 | [. Electrotechnical product](http://zbw.eu/beta/pm20voc/ip/142283) |   |  
-. Element, accumulator | PID10-Bt | [. Element, accumulator](http://zbw.eu/beta/pm20voc/ip/142284) |   |  
-. Elevator | PID08-Fo01 | [. Elevator](http://zbw.eu/beta/pm20voc/ip/142306) |   |  
-. Emerald | PID23-Ed04 | [. Emerald](http://zbw.eu/beta/pm20voc/ip/143888) |   |  
-. Emery | PID23-Mi11 | [. Emery](http://zbw.eu/beta/pm20voc/ip/143846) |   |  
-. Emulsion | PID13.00-02 | [. Emulsion](http://zbw.eu/beta/pm20voc/ip/142288) |   |  
-. Enamelware | PID04-Hh01 | [. Enamelware](http://zbw.eu/beta/pm20voc/ip/142286) |   |  
-. Engine | PID10-Mo | [. Engine](http://zbw.eu/beta/pm20voc/ip/143588) |   |  
-. Engine | PID08-Mo05 | [. Engine](http://zbw.eu/beta/pm20voc/ip/143589) |   |  
-. Eucalyptus oil | PID13-Ar01 | [. Eucalyptus oil](http://zbw.eu/beta/pm20voc/ip/142303) |   |  
-. Eucalyptus wood | PLW06-Hz10 | [. Eucalyptus wood](http://zbw.eu/beta/pm20voc/ip/142302) |   |  
-. Explosive | PID13-Zw04 | [. Explosive](http://zbw.eu/beta/pm20voc/ip/143900) |   |  
-. Fan, air freshener and air conditioning | PID08-Kl01 | [. Fan, air freshener and air conditioning](http://zbw.eu/beta/pm20voc/ip/143999) |   |  
-. Fancy goods | PID04-Sc05 | [. Fancy goods](http://zbw.eu/beta/pm20voc/ip/142692) |   |  
-. Faux wool | PID19-Ku02 | [. Faux wool](http://zbw.eu/beta/pm20voc/ip/143153) |   |  
-. Feathers | PLW05-Tp01 | [. Feathers](http://zbw.eu/beta/pm20voc/ip/142316) |   |  
-. Felt | PID19-Ma01 | [. Felt](http://zbw.eu/beta/pm20voc/ip/142458) |   |  
-. Fiber machine | PID08-Ld14 | [. Fiber machine](http://zbw.eu/beta/pm20voc/ip/142314) |   |  
-. Field post | PVK04.02-01 | [. Field post](http://zbw.eu/beta/pm20voc/ip/142321) |   |  
-. Fighter | PLW06-Fp11 | [. Fighter](http://zbw.eu/beta/pm20voc/ip/143059) |   |  
-. File | PID07.03-Wz02 | [. File](http://zbw.eu/beta/pm20voc/ip/142319) |   |  
-. Filler for padding | PID04-Mo02 | [. Filler for padding](http://zbw.eu/beta/pm20voc/ip/142486) |   |  
-. Film, color | PID17-Sp01 | [. Film, color](http://zbw.eu/beta/pm20voc/ip/142331) |   |  
-. Film, exposed | PID17-Sp08 | [. Film, exposed](http://zbw.eu/beta/pm20voc/ip/142330) |   |  
-. Film, more plastic | PID12-Fo01 | [. Film, more plastic](http://zbw.eu/beta/pm20voc/ip/142332) |   |  
-. Film, raw | PID14-Fo01 | [. Film, raw](http://zbw.eu/beta/pm20voc/ip/142334) |   |  
-. Filter, sterilizer, still | PID08-Ap03 | [. Filter, sterilizer, still](http://zbw.eu/beta/pm20voc/ip/142457) |   |  
-. Fire extinguisher | PID07.03-Wz08 | [. Fire extinguisher](http://zbw.eu/beta/pm20voc/ip/142326) |   |  
-. Firecrackers | PID13-Zw02 | [. Firecrackers](http://zbw.eu/beta/pm20voc/ip/142327) |   |  
-. Fish meal, meat meal | PID20-Ft01 | [. Fish meal, meat meal](http://zbw.eu/beta/pm20voc/ip/142465) |   |  
-. Fish skin, fish leather | PLW07-Fp03 | [. Fish skin, fish leather](http://zbw.eu/beta/pm20voc/ip/142463) |   |  
-. Fish waste | PRB01-Fp01 | [. Fish waste](http://zbw.eu/beta/pm20voc/ip/142459) |   |  
-. Fishery product | PLW07-Fp02 | [. Fishery product](http://zbw.eu/beta/pm20voc/ip/142461) |   |  
-. Fishing gear | PID07.03-Wz03 | [. Fishing gear](http://zbw.eu/beta/pm20voc/ip/142462) |   |  
-. Fl_A_I.2 Frozen + chilled meat | Y0145 | [. Fl_A_I.2 Frozen + chilled meat](http://zbw.eu/beta/pm20voc/ip/154976) |   |  
-. Fl_A_I.3 Meat products (preserves, sausage, etc.) | Y0146 | [. Fl_A_I.3 Meat products (preserves, sausage, etc.)](http://zbw.eu/beta/pm20voc/ip/154977) |   |  
-. Fl_A_I.4 Meat of individual animal species with the exception of horse, beef, sheep and pork | Y0147 | [. Fl_A_I.4 Meat of individual animal species with the exception of horse, beef, sheep and pork](http://zbw.eu/beta/pm20voc/ip/154978) |   |  
-. Fl_A_IIIa Transport, storage, packaging | Y0152 | [. Fl_A_IIIa Transport, storage, packaging](http://zbw.eu/beta/pm20voc/ip/154983) |   |  
-. Fl_A_IV Statistics: production, trade, consumption, stocks | Y0153 | [. Fl_A_IV Statistics: production, trade, consumption, stocks](http://zbw.eu/beta/pm20voc/ip/154984) |   |  
-. Fl_A_IV.1 General (meat) | Y0154 | [. Fl_A_IV.1 General (meat)](http://zbw.eu/beta/pm20voc/ip/154985) |   |  
-. Fl_A_IV.2 Frozen + chilled meat | Y0155 | [. Fl_A_IV.2 Frozen + chilled meat](http://zbw.eu/beta/pm20voc/ip/154986) |   |  
-. Fl_A_IV.3 Meat products (preserves, sausage, etc.) | Y0156 | [. Fl_A_IV.3 Meat products (preserves, sausage, etc.)](http://zbw.eu/beta/pm20voc/ip/154987) |   |  
-. Fl_A_IV.4 Meat of individual animal species with the exception of horse, beef, sheep and pork | Y0157 | [. Fl_A_IV.4 Meat of individual animal species with the exception of horse, beef, sheep and pork](http://zbw.eu/beta/pm20voc/ip/154988) |   |  
-. Fl_A_Va commercial use, usages, standardization, standardization, typification | Y0158 | [. Fl_A_Va commercial use, usages, standardization, standardization, typification](http://zbw.eu/beta/pm20voc/ip/154989) |   |  
-. Fl_B_I.2 Frozen + chilled meat | Y0164 | [. Fl_B_I.2 Frozen + chilled meat](http://zbw.eu/beta/pm20voc/ip/154995) |   |  
-. Fl_B_I.3 Meat products (preserves, sausage, etc.) | Y0165 | [. Fl_B_I.3 Meat products (preserves, sausage, etc.)](http://zbw.eu/beta/pm20voc/ip/154996) |   |  
-. Fl_B_I.4 Meat of individual animal species with the exception of horse, beef, sheep and pork | Y0166 | [. Fl_B_I.4 Meat of individual animal species with the exception of horse, beef, sheep and pork](http://zbw.eu/beta/pm20voc/ip/154997) |   |  
-. Fl_B_IV Statistics: production, trade, consumption, stocks | Y0169 | [. Fl_B_IV Statistics: production, trade, consumption, stocks](http://zbw.eu/beta/pm20voc/ip/155000) |   |  
-. Fl_B_IV.1 General (meat) | Y0170 | [. Fl_B_IV.1 General (meat)](http://zbw.eu/beta/pm20voc/ip/155001) |   |  
-. Fl_B_IV.2 Frozen + chilled meat | Y0171 | [. Fl_B_IV.2 Frozen + chilled meat](http://zbw.eu/beta/pm20voc/ip/155002) |   |  
-. Fl_B_IV.3 Meat products (preserves, sausage, etc.) | Y0172 | [. Fl_B_IV.3 Meat products (preserves, sausage, etc.)](http://zbw.eu/beta/pm20voc/ip/155003) |   |  
-. Fl_B_IV.4 Meat of individual animal species with the exception of horse, beef, sheep and pork | Y0173 | [. Fl_B_IV.4 Meat of individual animal species with the exception of horse, beef, sheep and pork](http://zbw.eu/beta/pm20voc/ip/155004) |   |  
-. Flake bast | PID19-Nf04 | [. Flake bast](http://zbw.eu/beta/pm20voc/ip/142475) |   |  
-. Flax, linen | PID19-Nf03 | [. Flax, linen](http://zbw.eu/beta/pm20voc/ip/142466) |   |  
-. Flour | PID13-Ae09 | [. Flour](http://zbw.eu/beta/pm20voc/ip/142477) |   |  
-. Flour and mill product | PID20-Nm03 | [. Flour and mill product](http://zbw.eu/beta/pm20voc/ip/143558) |   |  
-. Flow coal | PRB02.01-Fl | [. Flow coal](http://zbw.eu/beta/pm20voc/ip/142474) |   |  
-. Flower bulb | PLW04-Sg02 | [. Flower bulb](http://zbw.eu/beta/pm20voc/ip/142145) |   |  
-. Flower, ornamental plant | PLW04-Zp | [. Flower, ornamental plant](http://zbw.eu/beta/pm20voc/ip/142143) |   |  
-. Flying boat | PID09.01-Lf01 | [. Flying boat](http://zbw.eu/beta/pm20voc/ip/142476) |   |  
-. Foodstuffs, fodder and luxury items | PID20 | [. Foodstuffs, fodder and luxury items](http://zbw.eu/beta/pm20voc/ip/148745) |   |  
-. Footwear | PID18-Sh | [. Footwear](http://zbw.eu/beta/pm20voc/ip/143857) |   |  
-. Forging machine | PID08-Wz09 | [. Forging machine](http://zbw.eu/beta/pm20voc/ip/143844) |   |  
-. Formaldehyde | PID13-Ae07 | [. Formaldehyde](http://zbw.eu/beta/pm20voc/ip/142479) |   |  
-. Fountain pen | PID04-Bm02 | [. Fountain pen](http://zbw.eu/beta/pm20voc/ip/142485) |   |  
-. Fox fur | PLW05-Hf04 | [. Fox fur](http://zbw.eu/beta/pm20voc/ip/142484) |   |  
-. Framework | PID16-03 | [. Framework](http://zbw.eu/beta/pm20voc/ip/143762) |   |  
-. Fructose, glucose | PID20-Zk01 | [. Fructose, glucose](http://zbw.eu/beta/pm20voc/ip/142481) |   |  
-. Fruit | PLW04-Ob | [. Fruit](http://zbw.eu/beta/pm20voc/ip/142483) |   |  
-. Fruit wine | PID20.02-We01 | [. Fruit wine](http://zbw.eu/beta/pm20voc/ip/142482) |   |  
-. Fuel and mixture | PID13.02-Ks03 | [. Fuel and mixture](http://zbw.eu/beta/pm20voc/ip/143987) |   |  
-. Fuel and mixture (coal liquefaction) | PID13.02-Ks04 | [. Fuel and mixture (coal liquefaction)](http://zbw.eu/beta/pm20voc/ip/143988) |   |  
-. Fur | PID19-Pz | [. Fur](http://zbw.eu/beta/pm20voc/ip/143722) |   |  
-. Fur, sheep | PID19-Pz01 | [. Fur, sheep](http://zbw.eu/beta/pm20voc/ip/143723) |   |  
-. Furniture, bentwood | PID04-Mo03 | [. Furniture, bentwood](http://zbw.eu/beta/pm20voc/ip/143580) |   |  
-. Furniture, metal | PID04-Mo04 | [. Furniture, metal](http://zbw.eu/beta/pm20voc/ip/143581) |   |  
-. Furniture, seat | PID04-Mo05 | [. Furniture, seat](http://zbw.eu/beta/pm20voc/ip/143582) |   |  
-. Galalith | PID14-Ha02 | [. Galalith](http://zbw.eu/beta/pm20voc/ip/142691) |   |  
-. Gall apple | PID04-Dr02 | [. Gall apple](http://zbw.eu/beta/pm20voc/ip/142693) |   |  
-. Gambir | PLW06-Fp07 | [. Gambir](http://zbw.eu/beta/pm20voc/ip/142755) |   |  
-. Garbage | PRB01-07 | [. Garbage](http://zbw.eu/beta/pm20voc/ip/143592) |   |  
-. Garlic | PLW04-Gm07 | [. Garlic](http://zbw.eu/beta/pm20voc/ip/143112) |   |  
-. Garnet | PID23-Mi02 | [. Garnet](http://zbw.eu/beta/pm20voc/ip/142881) |   |  
-. Gas analyzer, gas detector, gas regulator | PID08-Ap04 | [. Gas analyzer, gas detector, gas regulator](http://zbw.eu/beta/pm20voc/ip/142787) |   |  
-. Gas mask | PID04-Si01 | [. Gas mask](http://zbw.eu/beta/pm20voc/ip/142788) |   |  
-. Gas pistol | PID07.03-Wa03 | [. Gas pistol](http://zbw.eu/beta/pm20voc/ip/142790) |   |  
-. Gasometers, fixed tanks | PID07.03-Co1 | [. Gasometers, fixed tanks](http://zbw.eu/beta/pm20voc/ip/142789) |   |  
-. Gelatin | PLW05-Tp02 | [. Gelatin](http://zbw.eu/beta/pm20voc/ip/142793) |   |  
-. Gem and semi-precious stone | PID23-Ed | [. Gem and semi-precious stone](http://zbw.eu/beta/pm20voc/ip/142266) |   |  
-. Generator and engine, wood gas | PID08-Mo03 | [. Generator and engine, wood gas](http://zbw.eu/beta/pm20voc/ip/142798) |   |  
-. Generator, gas | PID08-Mo02 | [. Generator, gas](http://zbw.eu/beta/pm20voc/ip/142799) |   |  
-. Geranium oil | PLW04-Zp01 | [. Geranium oil](http://zbw.eu/beta/pm20voc/ip/142802) |   |  
-. Ginger | PID20-Gw02 | [. Ginger](http://zbw.eu/beta/pm20voc/ip/142987) |   |  
-. Ginseng | PLW04-Kr05 | [. Ginseng](http://zbw.eu/beta/pm20voc/ip/142852) |   |  
-. Glass bottle | PID21-04 | [. Glass bottle](http://zbw.eu/beta/pm20voc/ip/142856) |   |  
-. Glass machine | PID08-01 | [. Glass machine](http://zbw.eu/beta/pm20voc/ip/142857) |   |  
-. Glass wool | PID23-Gf | [. Glass wool](http://zbw.eu/beta/pm20voc/ip/142863) |   |  
-. Glass, safety | PID23-Gw01 | [. Glass, safety](http://zbw.eu/beta/pm20voc/ip/142860) |   |  
-. Glasses | PID12-Au01 | [. Glasses](http://zbw.eu/beta/pm20voc/ip/142157) |   |  
-. Glauber's salt | PID13.01-01 | [. Glauber's salt](http://zbw.eu/beta/pm20voc/ip/142864) |   |  
-. Glider (motorless) | PID09.01-Lf04 | [. Glider (motorless)](http://zbw.eu/beta/pm20voc/ip/143868) |   |  
-. Glycerin | PID13-Sp03 | [. Glycerin](http://zbw.eu/beta/pm20voc/ip/142876) |   |  
-. Goose duck | PLW05-Gf01 | [. Goose duck](http://zbw.eu/beta/pm20voc/ip/142756) |   |  
-. Gramophone, record | PID11-Au | [. Gramophone, record](http://zbw.eu/beta/pm20voc/ip/142878) |   |  
-. Grapefruit | PLW04-Zs03 | [. Grapefruit](http://zbw.eu/beta/pm20voc/ip/143639) |   |  
-. Grapeseed oil | PID20-Oe06 | [. Grapeseed oil](http://zbw.eu/beta/pm20voc/ip/143984) |   |  
-. Graphite | PID23-Mi03 | [. Graphite](http://zbw.eu/beta/pm20voc/ip/142886) |   |  
-. Guano | PLW05-Od01 | [. Guano](http://zbw.eu/beta/pm20voc/ip/142889) |   |  
-. Guava | PLW04-Tr05 | [. Guava](http://zbw.eu/beta/pm20voc/ip/142888) |   |  
-. Gum arabic | PLW06-Fp04 | [. Gum arabic](http://zbw.eu/beta/pm20voc/ip/142890) |   |  
-. Gum tragacanth | PLW06-Fp08 | [. Gum tragacanth](http://zbw.eu/beta/pm20voc/ip/142897) |   |  
-. Gun | PID06-02 | [. Gun](http://zbw.eu/beta/pm20voc/ip/142841) |   |  
-. Gunpowder | PID06-05 | [. Gunpowder](http://zbw.eu/beta/pm20voc/ip/143835) |   |  
-. Gutta percha | PLW06-Fp09 | [. Gutta percha](http://zbw.eu/beta/pm20voc/ip/142900) |   |  
-. Hafnium | PID07.01-04 | [. Hafnium](http://zbw.eu/beta/pm20voc/ip/142917) |   |  
-. Hair clipper | PID08-Wz03 | [. Hair clipper](http://zbw.eu/beta/pm20voc/ip/142905) |   |  
-. Hair, bristles | PLW05-Tp03 | [. Hair, bristles](http://zbw.eu/beta/pm20voc/ip/142902) |   |  
-. Harmonica, harmonica | PID04-Mu02 | [. Harmonica, harmonica](http://zbw.eu/beta/pm20voc/ip/142930) |   |  
-. Harvester | PID08-Ld08 | [. Harvester](http://zbw.eu/beta/pm20voc/ip/143524) |   |  
-. Hashish | PID04-Dr03 | [. Hashish](http://zbw.eu/beta/pm20voc/ip/142933) |   |  
-. Hay, forage straw | PID20-Ft02 | [. Hay, forage straw](http://zbw.eu/beta/pm20voc/ip/142947) |   |  
-. Hazelnut | PLW04-Nu03 | [. Hazelnut](http://zbw.eu/beta/pm20voc/ip/142934) |   |  
-. Headlight | PID10-Lp03 | [. Headlight](http://zbw.eu/beta/pm20voc/ip/143831) |   |  
-. Heating apparatus, cooking apparatus | PID10-Eh01 | [. Heating apparatus, cooking apparatus](http://zbw.eu/beta/pm20voc/ip/142943) |   |  
-. Helium | PID13-Ae06 | [. Helium](http://zbw.eu/beta/pm20voc/ip/142944) |   |  
-. Hemp seed | PLW04-Sg01 | [. Hemp seed](http://zbw.eu/beta/pm20voc/ip/142927) |   |  
-. Heron feather | PLW05-15 | [. Heron feather](http://zbw.eu/beta/pm20voc/ip/143771) |   |  
-. Herring | PLW07-Mt05 | [. Herring](http://zbw.eu/beta/pm20voc/ip/142945) |   |  
-. Hibiscus fiber | PID19-Nf09 | [. Hibiscus fiber](http://zbw.eu/beta/pm20voc/ip/142949) |   |  
-. Ho_A_III Technical of production, processing, distribution | Y0180 | [. Ho_A_III Technical of production, processing, distribution](http://zbw.eu/beta/pm20voc/ip/155011) |   |  
-. Ho_A_III.1 Techn. of production, processing, distribution, general | Y0181 | [. Ho_A_III.1 Techn. of production, processing, distribution, general](http://zbw.eu/beta/pm20voc/ip/155012) |   |  
-. Ho_A_III.2 Technology of production, processing, distribution, wood saccharification | Y0182 | [. Ho_A_III.2 Technology of production, processing, distribution, wood saccharification](http://zbw.eu/beta/pm20voc/ip/155013) |   |  
-. Ho_A_IIIa Transport, storage, packaging | Y0183 | [. Ho_A_IIIa Transport, storage, packaging](http://zbw.eu/beta/pm20voc/ip/155014) |   |  
-. Ho_A_IV Statistics: production, trade, consumption, stocks | Y0185 | [. Ho_A_IV Statistics: production, trade, consumption, stocks](http://zbw.eu/beta/pm20voc/ip/155016) |   |  
-. Ho_A_Va commercial use, usages, standardization, standardization, typification | Y0186 | [. Ho_A_Va commercial use, usages, standardization, standardization, typification](http://zbw.eu/beta/pm20voc/ip/155017) |   |  
-. Ho_B_III Technology of production, processing, distribution | Y0194 | [. Ho_B_III Technology of production, processing, distribution](http://zbw.eu/beta/pm20voc/ip/155025) |   |  
-. Ho_B_III.1 Technology of production, processing, distribution, general | Y0195 | [. Ho_B_III.1 Technology of production, processing, distribution, general](http://zbw.eu/beta/pm20voc/ip/155026) |   |  
-. Ho_B_III.2 Technology of production, processing, distribution, wood saccharification | Y0196 | [. Ho_B_III.2 Technology of production, processing, distribution, wood saccharification](http://zbw.eu/beta/pm20voc/ip/155027) |   |  
-. Ho_B_IV Statistics: production, trade, consumption, stocks | Y0197 | [. Ho_B_IV Statistics: production, trade, consumption, stocks](http://zbw.eu/beta/pm20voc/ip/155028) |   |  
-. Hormone | PID13.01-Bi01 | [. Hormone](http://zbw.eu/beta/pm20voc/ip/142976) |   |  
-. Horn | PLW05-Tp04 | [. Horn](http://zbw.eu/beta/pm20voc/ip/142978) |   |  
-. Horsehair, natural | PID19-Tf03 | [. Horsehair, natural](http://zbw.eu/beta/pm20voc/ip/143791) |   |  
-. Horsehair, vegetable and artificial | PID19-Ku04 | [. Horsehair, vegetable and artificial](http://zbw.eu/beta/pm20voc/ip/143792) |   |  
-. Housekeeping item | PID04-Hh | [. Housekeeping item](http://zbw.eu/beta/pm20voc/ip/142936) |   |  
-. Housekeeping item, electric | PID10-Eh | [. Housekeeping item, electric](http://zbw.eu/beta/pm20voc/ip/142937) |   |  
-. Hydrochloric acid | PID13-Sc03 | [. Hydrochloric acid](http://zbw.eu/beta/pm20voc/ip/143815) |   |  
-. Hydrogen peroxide | PID13-Dr03 | [. Hydrogen peroxide](http://zbw.eu/beta/pm20voc/ip/144026) |   |  
-. Ichthyol | PID13.01-02 | [. Ichthyol](http://zbw.eu/beta/pm20voc/ip/142983) |   |  
-. Igniter, electric | PID06-07 | [. Igniter, electric](http://zbw.eu/beta/pm20voc/ip/144080) |   |  
-. Incandescent lamp, fluorescent tube | PID10-Lp01 | [. Incandescent lamp, fluorescent tube](http://zbw.eu/beta/pm20voc/ip/142872) |   |  
-. Incendiary goods | PID13-Zw | [. Incendiary goods](http://zbw.eu/beta/pm20voc/ip/144084) |   |  
-. Incense | PLW06-Fp24 | [. Incense](http://zbw.eu/beta/pm20voc/ip/144030) |   |  
-. Incubator | PID08-Ld03 | [. Incubator](http://zbw.eu/beta/pm20voc/ip/142209) |   |  
-. Indigo | PID13-Fl11 | [. Indigo](http://zbw.eu/beta/pm20voc/ip/142985) |   |  
-. Indium | PID07.01-03 | [. Indium](http://zbw.eu/beta/pm20voc/ip/142986) |   |  
-. Ink | PID13-Fl15 | [. Ink](http://zbw.eu/beta/pm20voc/ip/143964) |   |  
-. Insulating material, insulator (non-electric) | PID22-Bs02 | [. Insulating material, insulator (non-electric)](http://zbw.eu/beta/pm20voc/ip/142990) |   |  
-. Insulator, electrical | PID10-03 | [. Insulator, electrical](http://zbw.eu/beta/pm20voc/ip/142989) |   |  
-. Insulin | PID13.01-Bi03 | [. Insulin](http://zbw.eu/beta/pm20voc/ip/142988) |   |  
-. Iodine | PID13.01-04 | [. Iodine](http://zbw.eu/beta/pm20voc/ip/142998) |   |  
-. Iron and Steel | PID07.02 | [. Iron and Steel](http://zbw.eu/beta/pm20voc/ip/142270) |   |  
-. Iron and steel goods | PID07.03 | [. Iron and steel goods](http://zbw.eu/beta/pm20voc/ip/142275) |   |  
-. Ironwood | PLW06-Hz08 | [. Ironwood](http://zbw.eu/beta/pm20voc/ip/142276) |   |  
-. Irrigation machine | PID08-Pp01 | [. Irrigation machine](http://zbw.eu/beta/pm20voc/ip/142119) |   |  
-. Ivory | PLW05-02 | [. Ivory](http://zbw.eu/beta/pm20voc/ip/142285) |   |  
-. Ixtle | PID19-Nf10 | [. Ixtle](http://zbw.eu/beta/pm20voc/ip/142994) |   |  
-. Jewellery | PID04-Sc | [. Jewellery](http://zbw.eu/beta/pm20voc/ip/161308) |   |  
-. Kali | PRB02.08-01 | [. Kali](http://zbw.eu/beta/pm20voc/ip/143051) |   |  
-. Kaolin | PID23-Mi04 | [. Kaolin](http://zbw.eu/beta/pm20voc/ip/143064) |   |  
-. Kapok | PLW06-Fp12 | [. Kapok](http://zbw.eu/beta/pm20voc/ip/143065) |   |  
-. Karakul fur | PLW05-Hf06 | [. Karakul fur](http://zbw.eu/beta/pm20voc/ip/143066) |   |  
-. Kauri wood | PLW06-Hz12 | [. Kauri wood](http://zbw.eu/beta/pm20voc/ip/143084) |   |  
-. Kendyr fiber | PID19-Nf13 | [. Kendyr fiber](http://zbw.eu/beta/pm20voc/ip/143098) |   |  
-. Kieselguhr | PID23-Mi05 | [. Kieselguhr](http://zbw.eu/beta/pm20voc/ip/143103) |   |  
-. Knife and scissors | PID07.03-Sd01 | [. Knife and scissors](http://zbw.eu/beta/pm20voc/ip/143563) |   |  
-. Knitwear and hosiery | PID19-Ma03 | [. Knitwear and hosiery](http://zbw.eu/beta/pm20voc/ip/143919) |   |  
-. Ko_A_III Technology of production, processing, distribution | Y0204 | [. Ko_A_III Technology of production, processing, distribution](http://zbw.eu/beta/pm20voc/ip/155035) |   |  
-. Ko_A_III.1 Technology of production, processing, distribution, general + coal, derivatives general | Y0205 | [. Ko_A_III.1 Technology of production, processing, distribution, general + coal, derivatives general](http://zbw.eu/beta/pm20voc/ip/155036) |   |  
-. Kola | PLW06-Fp15 | [. Kola](http://zbw.eu/beta/pm20voc/ip/143127) |   |  
-. Lace and embroidery | PID19-Ma02 | [. Lace and embroidery](http://zbw.eu/beta/pm20voc/ip/143899) |   |  
-. Lacquerware | PID04-Kg01 | [. Lacquerware](http://zbw.eu/beta/pm20voc/ip/143161) |   |  
-. Lactic acid | PID13-Sc04 | [. Lactic acid](http://zbw.eu/beta/pm20voc/ip/143576) |   |  
-. Lama | PID19-Tf02 | [. Lama](http://zbw.eu/beta/pm20voc/ip/143163) |   |  
-. Lathe | PID08-Wz02 | [. Lathe](http://zbw.eu/beta/pm20voc/ip/142257) |   |  
-. Laundry | PID19-Bk03 | [. Laundry](http://zbw.eu/beta/pm20voc/ip/144011) |   |  
-. Laundry machine | PID08-Rg | [. Laundry machine](http://zbw.eu/beta/pm20voc/ip/144012) |   |  
-. Lavender oil | PID13-Ar04 | [. Lavender oil](http://zbw.eu/beta/pm20voc/ip/143166) |   |  
-. Lead paint | PID13-Fl02 | [. Lead paint](http://zbw.eu/beta/pm20voc/ip/142141) |   |  
-. Leather machine, shoe machine | PID08-Wz10 | [. Leather machine, shoe machine](http://zbw.eu/beta/pm20voc/ip/143170) |   |  
-. Leather, artificial | PID18-03 | [. Leather, artificial](http://zbw.eu/beta/pm20voc/ip/143169) |   |  
-. Lemon | PLW04-Zs04 | [. Lemon](http://zbw.eu/beta/pm20voc/ip/144074) |   |  
-. Lemon oil | PID13-Ar07 | [. Lemon oil](http://zbw.eu/beta/pm20voc/ip/144073) |   |  
-. Lenses | PLW04-Hu09 | [. Lenses](http://zbw.eu/beta/pm20voc/ip/143506) |   |  
-. Leonian ware | PID10-Kd01 | [. Leonian ware](http://zbw.eu/beta/pm20voc/ip/143503) |   |  
-. Licorice | PLW04-Tr14 | [. Licorice](http://zbw.eu/beta/pm20voc/ip/143925) |   |  
-. Light meter | PID10-Mt04 | [. Light meter](http://zbw.eu/beta/pm20voc/ip/143504) |   |  
-. Lighter | PID13-Zw03 | [. Lighter](http://zbw.eu/beta/pm20voc/ip/142328) |   |  
-. Limestone | PID23-Na04 | [. Limestone](http://zbw.eu/beta/pm20voc/ip/143055) |   |  
-. Linoleum | PID22-Bd02 | [. Linoleum](http://zbw.eu/beta/pm20voc/ip/143505) |   |  
-. Linseed, linseed oil | PLW04-Oe01 | [. Linseed, linseed oil](http://zbw.eu/beta/pm20voc/ip/143502) |   |  
-. Lithium and lithium compound | PID13-Sp06 | [. Lithium and lithium compound](http://zbw.eu/beta/pm20voc/ip/143507) |   |  
-. Livestock and other domestic animals | PLW05-23 | [. Livestock and other domestic animals](http://zbw.eu/beta/pm20voc/ip/144004) |   |  
-. Loading and transport device | PID08-Fo | [. Loading and transport device](http://zbw.eu/beta/pm20voc/ip/143162) |   |  
-. Locator, Geophysical | PID10-Mt09 | [. Locator, Geophysical](http://zbw.eu/beta/pm20voc/ip/143924) |   |  
-. Locomobile | PID08-Mo04 | [. Locomobile](http://zbw.eu/beta/pm20voc/ip/143511) |   |  
-. Locomotive and railcar | PID09-Sf | [. Locomotive and railcar](http://zbw.eu/beta/pm20voc/ip/143512) |   |  
-. Logwood | PID13-Fl01 | [. Logwood](http://zbw.eu/beta/pm20voc/ip/142132) |   |  
-. Loofah | PLW04-Tr06 | [. Loofah](http://zbw.eu/beta/pm20voc/ip/143513) |   |  
-. Lubricant | PID13.02-01 | [. Lubricant](http://zbw.eu/beta/pm20voc/ip/143845) |   |  
-. Lupine | PLW04-Hu10 | [. Lupine](http://zbw.eu/beta/pm20voc/ip/143520) |   |  
-. Luxury goods | PID04-03 | [. Luxury goods](http://zbw.eu/beta/pm20voc/ip/143522) |   |  
-. Machine and engine tester | PID10-Mt06 | [. Machine and engine tester](http://zbw.eu/beta/pm20voc/ip/143548) |   |  
-. Machine gun | PID06-06 | [. Machine gun](http://zbw.eu/beta/pm20voc/ip/143546) |   |  
-. Mackerel | PLW07-Mt10 | [. Mackerel](http://zbw.eu/beta/pm20voc/ip/143533) |   |  
-. Magnesium and magnesium compound | PID07.01-Lm06 | [. Magnesium and magnesium compound](http://zbw.eu/beta/pm20voc/ip/143528) |   |  
-. Magnet | PID10-04 | [. Magnet](http://zbw.eu/beta/pm20voc/ip/143527) |   |  
-. Mahogany | PLW06-Hz16 | [. Mahogany](http://zbw.eu/beta/pm20voc/ip/143530) |   |  
-. Mango | PLW04-Tr09 | [. Mango](http://zbw.eu/beta/pm20voc/ip/143536) |   |  
-. Mangrove bark | PLW06-Fp19 | [. Mangrove bark](http://zbw.eu/beta/pm20voc/ip/143537) |   |  
-. Manila hemp | PID19-Nf19 | [. Manila hemp](http://zbw.eu/beta/pm20voc/ip/143538) |   |  
-. Manna-Manuit | P00-06 | [. Manna-Manuit](http://zbw.eu/beta/pm20voc/ip/143540) |   |  
-. Manometer | PID10-Mt05 | [. Manometer](http://zbw.eu/beta/pm20voc/ip/143541) |   |  
-. Mantle | PID10-Lp02 | [. Mantle](http://zbw.eu/beta/pm20voc/ip/142874) |   |  
-. Margarine | PID20-Oe07 | [. Margarine](http://zbw.eu/beta/pm20voc/ip/143542) |   |  
-. Mat | PID04-Hh04 | [. Mat](http://zbw.eu/beta/pm20voc/ip/143551) |   |  
-. Match | PID04-Hh07 | [. Match](http://zbw.eu/beta/pm20voc/ip/144082) |   |  
-. Match machine | PID08-Hz02 | [. Match machine](http://zbw.eu/beta/pm20voc/ip/144083) |   |  
-. Mate | PLW06-02 | [. Mate](http://zbw.eu/beta/pm20voc/ip/143549) |   |  
-. Material testing device (hardness, pressure and tension meter) | PID10-Mt07 | [. Material testing device (hardness, pressure and tension meter)](http://zbw.eu/beta/pm20voc/ip/143550) |   |  
-. Mauritius hemp | PID19-Nf20 | [. Mauritius hemp](http://zbw.eu/beta/pm20voc/ip/143555) |   |  
-. Mazzoth | PID20-Ba02 | [. Mazzoth](http://zbw.eu/beta/pm20voc/ip/143556) |   |  
-. Measuring and testing apparatus for liquids | PID10-Mt08 | [. Measuring and testing apparatus for liquids](http://zbw.eu/beta/pm20voc/ip/143566) |   |  
-. Measuring, testing and counting apparatus | PID10-Mt | [. Measuring, testing and counting apparatus](http://zbw.eu/beta/pm20voc/ip/143565) |   |  
-. Meat 1 | PLW05-Fl03 | [. Meat 1](http://zbw.eu/beta/pm20voc/ip/142470) |   |  
-. Meat 2 | PLW05-Fl04 | [. Meat 2](http://zbw.eu/beta/pm20voc/ip/142471) |   |  
-. Meat extract | PLW05-05 | [. Meat extract](http://zbw.eu/beta/pm20voc/ip/142472) |   |  
-. Meat machine | PID08-Nm03 | [. Meat machine](http://zbw.eu/beta/pm20voc/ip/142473) |   |  
-. Melon | PLW04-Tr10 | [. Melon](http://zbw.eu/beta/pm20voc/ip/143561) |   |  
-. Message and Signaling Apparatus | PID11 | [. Message and Signaling Apparatus](http://zbw.eu/beta/pm20voc/ip/143598) |   |  
-. Metal bottle, barrel and drum | PID07.00-05 | [. Metal bottle, barrel and drum](http://zbw.eu/beta/pm20voc/ip/143570) |   |  
-. Metal foil, capsule and tube | PID07.00-03 | [. Metal foil, capsule and tube](http://zbw.eu/beta/pm20voc/ip/143571) |   |  
-. Metal product | PID07.00-02 | [. Metal product](http://zbw.eu/beta/pm20voc/ip/143569) |   |  
-. Metal, precious | PID07.01-Em | [. Metal, precious](http://zbw.eu/beta/pm20voc/ip/143568) |   |  
-. Microscope | PID12-Au02 | [. Microscope](http://zbw.eu/beta/pm20voc/ip/143573) |   |  
-. Milk sugar | PID13-Lm04 | [. Milk sugar](http://zbw.eu/beta/pm20voc/ip/143577) |   |  
-. Mill and milling machine | PID08-Nm05 | [. Mill and milling machine](http://zbw.eu/beta/pm20voc/ip/143591) |   |  
-. Mitten crab | PLW07-Mt17 | [. Mitten crab](http://zbw.eu/beta/pm20voc/ip/144045) |   |  
-. Mohair | PID19-Nf21 | [. Mohair](http://zbw.eu/beta/pm20voc/ip/143584) |   |  
-. Moisture meter | PID08-Ap10 | [. Moisture meter](http://zbw.eu/beta/pm20voc/ip/142325) |   |  
-. Mother of pearl | PID04-Sc06 | [. Mother of pearl](http://zbw.eu/beta/pm20voc/ip/143728) |   |  
-. Mower | PID08-Ld09 | [. Mower](http://zbw.eu/beta/pm20voc/ip/143525) |   |  
-. Mulberry | PLW06-03 | [. Mulberry](http://zbw.eu/beta/pm20voc/ip/143552) |   |  
-. Mulberry fiber | PID19-Nf17 | [. Mulberry fiber](http://zbw.eu/beta/pm20voc/ip/143553) |   |  
-. Mule | PLW05-28 | [. Mule](http://zbw.eu/beta/pm20voc/ip/143554) |   |  
-. Muscle powered aircraft | PID09.01-Lf05 | [. Muscle powered aircraft](http://zbw.eu/beta/pm20voc/ip/143595) |   |  
-. Mushroom, edible | PLW04-05 | [. Mushroom, edible](http://zbw.eu/beta/pm20voc/ip/143744) |   |  
-. Musical instrument, electroacoustic | PID04-Mu06 | [. Musical instrument, electroacoustic](http://zbw.eu/beta/pm20voc/ip/143597) |   |  
-. Musk | PID13-Pf03 | [. Musk](http://zbw.eu/beta/pm20voc/ip/143586) |   |  
-. Muskrat | PLW05-Hf02 | [. Muskrat](http://zbw.eu/beta/pm20voc/ip/142131) |   |  
-. Mustard | PID20-Gw10 | [. Mustard](http://zbw.eu/beta/pm20voc/ip/143877) |   |  
-. Nail | PID07.03-05 | [. Nail](http://zbw.eu/beta/pm20voc/ip/143601) |   |  
-. Naphthalene | PRB02.08-04 | [. Naphthalene](http://zbw.eu/beta/pm20voc/ip/143604) |   |  
-. Nautical apparatus and instruments | PID12-04 | [. Nautical apparatus and instruments](http://zbw.eu/beta/pm20voc/ip/143606) |   |  
-. Needle | PID07.03-04 | [. Needle](http://zbw.eu/beta/pm20voc/ip/143600) |   |  
-. Nettle | PLW04-Kr04 | [. Nettle](http://zbw.eu/beta/pm20voc/ip/142152) |   |  
-. New Zealand hemp | PID19-Nf14 | [. New Zealand hemp](http://zbw.eu/beta/pm20voc/ip/143608) |   |  
-. Nicotine | PID04-Dr06 | [. Nicotine](http://zbw.eu/beta/pm20voc/ip/143611) |   |  
-. Niobium (columbium) | PID07.01-08 | [. Niobium (columbium)](http://zbw.eu/beta/pm20voc/ip/143612) |   |  
-. Nitric acid | PID13-Sc02 | [. Nitric acid](http://zbw.eu/beta/pm20voc/ip/143812) |   |  
-. Nitrogen | PID13-Ae02 | [. Nitrogen](http://zbw.eu/beta/pm20voc/ip/143912) |   |  
-. Nitrophoska | PID13-Du04 | [. Nitrophoska](http://zbw.eu/beta/pm20voc/ip/143613) |   |  
-. Noise, sound and tone meter | PID10-Mt03 | [. Noise, sound and tone meter](http://zbw.eu/beta/pm20voc/ip/142801) |   |  
-. Nut and kernel | PLW04-Nu | [. Nut and kernel](http://zbw.eu/beta/pm20voc/ip/143614) |   |  
-. Nutmeg | PID20-Gw05 | [. Nutmeg](http://zbw.eu/beta/pm20voc/ip/143594) |   |  
-. Nutria | PLW05-10 | [. Nutria](http://zbw.eu/beta/pm20voc/ip/143616) |   |  
-. Nylon Fiber (DuPont) | PID19-Ku03 | [. Nylon Fiber (DuPont)](http://zbw.eu/beta/pm20voc/ip/143617) |   |  
-. Oak wood | PLW06-Hz07 | [. Oak wood](http://zbw.eu/beta/pm20voc/ip/142267) |   |  
-. Ocher | PID13-Fl12 | [. Ocher](http://zbw.eu/beta/pm20voc/ip/143620) |   |  
-. Office supplies | PID04-Bm | [. Office supplies](http://zbw.eu/beta/pm20voc/ip/142216) |   |  
-. Oil Drill, Refining Machine | PID08-Bg01 | [. Oil Drill, Refining Machine](http://zbw.eu/beta/pm20voc/ip/142297) |   |  
-. Oil and fat, animal | PLW05-11 | [. Oil and fat, animal](http://zbw.eu/beta/pm20voc/ip/143624) |   |  
-. Oil and oil raw material, vegetable | PLW04-Oe | [. Oil and oil raw material, vegetable](http://zbw.eu/beta/pm20voc/ip/143623) |   |  
-. Oil cake | PLW04-Oe03 | [. Oil cake](http://zbw.eu/beta/pm20voc/ip/143626) |   |  
-. Oil extraction machine | PID08-Ld15 | [. Oil extraction machine](http://zbw.eu/beta/pm20voc/ip/143625) |   |  
-. Oil shale and shale oil | PRB02.06-Eo03 | [. Oil shale and shale oil](http://zbw.eu/beta/pm20voc/ip/143627) |   |  
-. Oil, essential | PID13-Ar | [. Oil, essential](http://zbw.eu/beta/pm20voc/ip/143621) |   |  
-. Oiticica oil | PID13-Fl13 | [. Oiticica oil](http://zbw.eu/beta/pm20voc/ip/143628) |   |  
-. Olive and olive oil | PLW04-Oe02 | [. Olive and olive oil](http://zbw.eu/beta/pm20voc/ip/143629) |   |  
-. Opal | PID23-Ed02 | [. Opal](http://zbw.eu/beta/pm20voc/ip/143630) |   |  
-. Opium and poppy | PID04-Dr07 | [. Opium and poppy](http://zbw.eu/beta/pm20voc/ip/143631) |   |  
-. Optical apparatus | PID12-Au | [. Optical apparatus](http://zbw.eu/beta/pm20voc/ip/143632) |   |  
-. Orchid | PLW04-Zp04 | [. Orchid](http://zbw.eu/beta/pm20voc/ip/143633) |   |  
-. Organ | PID04-Mu04 | [. Organ](http://zbw.eu/beta/pm20voc/ip/143634) |   |  
-. Osmium, Osmiridium and Iridium | PID07.01-Pl01 | [. Osmium, Osmiridium and Iridium](http://zbw.eu/beta/pm20voc/ip/143635) |   |  
-. Ostrich feather | PLW05-18 | [. Ostrich feather](http://zbw.eu/beta/pm20voc/ip/143918) |   |  
-. Oxygen | PID13-Ae01 | [. Oxygen](http://zbw.eu/beta/pm20voc/ip/143826) |   |  
-. Packaging, packaging material | PID21-01 | [. Packaging, packaging material](http://zbw.eu/beta/pm20voc/ip/142287) |   |  
-. Paint | PID13-Fl04 | [. Paint](http://zbw.eu/beta/pm20voc/ip/142309) |   |  
-. Paint, tar | PID13-Fl07 | [. Paint, tar](http://zbw.eu/beta/pm20voc/ip/142312) |   |  
-. Palladium | PID07.01-Pl02 | [. Palladium](http://zbw.eu/beta/pm20voc/ip/143636) |   |  
-. Palm oil and palm kernel | PLW04-Oe05 | [. Palm oil and palm kernel](http://zbw.eu/beta/pm20voc/ip/143637) |   |  
-. Palm wine | PID20.02-Sp03 | [. Palm wine](http://zbw.eu/beta/pm20voc/ip/143638) |   |  
-. Papaya fruit | PLW04-Tr08 | [. Papaya fruit](http://zbw.eu/beta/pm20voc/ip/143641) |   |  
-. Paper containers (including sacks) | PID21-Pp | [. Paper containers (including sacks)](http://zbw.eu/beta/pm20voc/ip/143709) |   |  
-. Paper yarn | PID17-Sp03 | [. Paper yarn](http://zbw.eu/beta/pm20voc/ip/143710) |   |  
-. Paprika | PLW04-Gm11 | [. Paprika](http://zbw.eu/beta/pm20voc/ip/143714) |   |  
-. Papyrus and Suddit | PID17-Sp04 | [. Papyrus and Suddit](http://zbw.eu/beta/pm20voc/ip/143715) |   |  
-. Parachute | PID04-02 | [. Parachute](http://zbw.eu/beta/pm20voc/ip/142308) |   |  
-. Paraffin | PID13-Wa05 | [. Paraffin](http://zbw.eu/beta/pm20voc/ip/143717) |   |  
-. Parchment | PID17-Sp05 | [. Parchment](http://zbw.eu/beta/pm20voc/ip/143726) |   |  
-. Parrot | PLW05-12 | [. Parrot](http://zbw.eu/beta/pm20voc/ip/143640) |   |  
-. Pasta | PID20-Nm02 | [. Pasta](http://zbw.eu/beta/pm20voc/ip/143952) |   |  
-. Pasture | PLW06-Hz22 | [. Pasture](http://zbw.eu/beta/pm20voc/ip/144029) |   |  
-. Patchouli | PLW04-Oe04 | [. Patchouli](http://zbw.eu/beta/pm20voc/ip/143719) |   |  
-. Pea | PLW04-Hu03 | [. Pea](http://zbw.eu/beta/pm20voc/ip/142289) |   |  
-. Peach | PLW04-Ob11 | [. Peach](http://zbw.eu/beta/pm20voc/ip/143733) |   |  
-. Pear | PLW04-Ob03 | [. Pear](http://zbw.eu/beta/pm20voc/ip/142130) |   |  
-. Pearl | PID04-Sc07 | [. Pearl](http://zbw.eu/beta/pm20voc/ip/143729) |   |  
-. Peat machine | PID08-Ld12 | [. Peat machine](http://zbw.eu/beta/pm20voc/ip/143970) |   |  
-. Pecan | PLW04-Nu07 | [. Pecan](http://zbw.eu/beta/pm20voc/ip/143720) |   |  
-. Pectin | PID13-Lm03 | [. Pectin](http://zbw.eu/beta/pm20voc/ip/143721) |   |  
-. Pen | PID04-Bm04 | [. Pen](http://zbw.eu/beta/pm20voc/ip/143852) |   |  
-. Pencil | PID04-Bm01 | [. Pencil](http://zbw.eu/beta/pm20voc/ip/142142) |   |  
-. Penicillin | PID13.01-Bi04 | [. Penicillin](http://zbw.eu/beta/pm20voc/ip/143724) |   |  
-. Pepper | PID20-Gw06 | [. Pepper](http://zbw.eu/beta/pm20voc/ip/143730) |   |  
-. Peppermint | PLW04-Kr07 | [. Peppermint](http://zbw.eu/beta/pm20voc/ip/143731) |   |  
-. Perfume | PID13-Pf | [. Perfume](http://zbw.eu/beta/pm20voc/ip/161312) |   |  
-. Perilla seed and oil | PLW04-Oe06 | [. Perilla seed and oil](http://zbw.eu/beta/pm20voc/ip/143727) |   |  
-. Pesticides | PID13-Pe | [. Pesticides](http://zbw.eu/beta/pm20voc/ip/143827) |   |  
-. Petroleum 1 | PRB02.06-Eo01 | [. Petroleum 1](http://zbw.eu/beta/pm20voc/ip/142295) |   |  
-. Petroleum 2 | PRB02.06-Eo02 | [. Petroleum 2](http://zbw.eu/beta/pm20voc/ip/142296) |   |  
-. Phosgene | PID13-Ae04 | [. Phosgene](http://zbw.eu/beta/pm20voc/ip/143738) |   |  
-. Phosphorus and phosphorus compound | PID13-Sp08 | [. Phosphorus and phosphorus compound](http://zbw.eu/beta/pm20voc/ip/143740) |   |  
-. Photo and cinema apparatus | PID12-Fo | [. Photo and cinema apparatus](http://zbw.eu/beta/pm20voc/ip/143742) |   |  
-. Photographic article | PID12-Fo03 | [. Photographic article](http://zbw.eu/beta/pm20voc/ip/143741) |   |  
-. Photographic paper | PID17-Sp02 | [. Photographic paper](http://zbw.eu/beta/pm20voc/ip/143712) |   |  
-. Piano | PID04-Mu03 | [. Piano](http://zbw.eu/beta/pm20voc/ip/143106) |   |  
-. Piassava | PID19-Nf12 | [. Piassava](http://zbw.eu/beta/pm20voc/ip/143743) |   |  
-. Pimento | PID20-Gw07 | [. Pimento](http://zbw.eu/beta/pm20voc/ip/143745) |   |  
-. Pipe connection piece (flanges, sleeve, fitting) | PID07.00-04 | [. Pipe connection piece (flanges, sleeve, fitting)](http://zbw.eu/beta/pm20voc/ip/143785) |   |  
-. Plaice and other flatfish | PLW07-Mt14 | [. Plaice and other flatfish](http://zbw.eu/beta/pm20voc/ip/143850) |   |  
-. Plaiting material, plaiting goods | PID16-Fl02 | [. Plaiting material, plaiting goods](http://zbw.eu/beta/pm20voc/ip/142468) |   |  
-. Planing machine, milling machine, grinding machine | PID08-Hz01 | [. Planing machine, milling machine, grinding machine](http://zbw.eu/beta/pm20voc/ip/142957) |   |  
-. Plant fiber | PID19-Nf | [. Plant fiber](http://zbw.eu/beta/pm20voc/ip/166453) |   |  
-. Plant, living | PLW04-04 | [. Plant, living](http://zbw.eu/beta/pm20voc/ip/143734) |   |  
-. Plastering and cleaning machine (except street cleaning machine) | PID08-Wz16 | [. Plastering and cleaning machine (except street cleaning machine)](http://zbw.eu/beta/pm20voc/ip/143755) |   |  
-. Platinum | PID07.01-Pl | [. Platinum](http://zbw.eu/beta/pm20voc/ip/143746) |   |  
-. Playing cards | PID04-Sp02 | [. Playing cards](http://zbw.eu/beta/pm20voc/ip/143895) |   |  
-. Plow | PID08-Ld06 | [. Plow](http://zbw.eu/beta/pm20voc/ip/143737) |   |  
-. Plum and damson | PLW04-Ob12 | [. Plum and damson](http://zbw.eu/beta/pm20voc/ip/143736) |   |  
-. Plywood | PLW06-Hz23 | [. Plywood](http://zbw.eu/beta/pm20voc/ip/143894) |   |  
-. Poison | PID13.01-03 | [. Poison](http://zbw.eu/beta/pm20voc/ip/142850) |   |  
-. Poplar wood | PLW06-Hz14 | [. Poplar wood](http://zbw.eu/beta/pm20voc/ip/143713) |   |  
-. Porcelain | PID23-Ke01 | [. Porcelain](http://zbw.eu/beta/pm20voc/ip/143748) |   |  
-. Pork, pork, bacon and lard | PLW05-Sw | [. Pork, pork, bacon and lard](http://zbw.eu/beta/pm20voc/ip/143864) |   |  
-. Potassium | PID13-Du03 | [. Potassium](http://zbw.eu/beta/pm20voc/ip/143053) |   |  
-. Potato | PLW04-Kf03 | [. Potato](http://zbw.eu/beta/pm20voc/ip/142290) |   |  
-. Potato cabbage | PLW04-Kf04 | [. Potato cabbage](http://zbw.eu/beta/pm20voc/ip/143075) |   |  
-. Potato machine | PID08-Ld05 | [. Potato machine](http://zbw.eu/beta/pm20voc/ip/143074) |   |  
-. Preservatives | PID13-Pm | [. Preservatives](http://zbw.eu/beta/pm20voc/ip/143131) |   |  
-. Press | PID08-Wz04 | [. Press](http://zbw.eu/beta/pm20voc/ip/143749) |   |  
-. Printing machine, printing supplies | PID08-Dr | [. Printing machine, printing supplies](http://zbw.eu/beta/pm20voc/ip/142260) |   |  
-. Propellant | PRB02.05-Fg01 | [. Propellant](http://zbw.eu/beta/pm20voc/ip/143985) |   |  
-. Prosopis juliflora | PLW06-01 | [. Prosopis juliflora](http://zbw.eu/beta/pm20voc/ip/143750) |   |  
-. Protein | PID20-02 | [. Protein](http://zbw.eu/beta/pm20voc/ip/142277) |   |  
-. Protein, fish | PID20-03 | [. Protein, fish](http://zbw.eu/beta/pm20voc/ip/142278) |   |  
-. Pulp | PID19-Fa | [. Pulp](http://zbw.eu/beta/pm20voc/ip/142315) |   |  
-. Pulque | PID20.02-Sp06 | [. Pulque](http://zbw.eu/beta/pm20voc/ip/143751) |   |  
-. Pumice and alluvium | PID23-Na02 | [. Pumice and alluvium](http://zbw.eu/beta/pm20voc/ip/142129) |   |  
-. Pump (tank and fuel) | PID08-Pp03 | [. Pump (tank and fuel)](http://zbw.eu/beta/pm20voc/ip/143753) |   |  
-. Pumpkin | PLW04-Gm09 | [. Pumpkin](http://zbw.eu/beta/pm20voc/ip/143145) |   |  
-. Puppet | PID04-Sp01 | [. Puppet](http://zbw.eu/beta/pm20voc/ip/143754) |   |  
-. Pyrethrum | PID13-Pe02 | [. Pyrethrum](http://zbw.eu/beta/pm20voc/ip/143757) |   |  
-. Pyrites | PID23-Mi13 | [. Pyrites](http://zbw.eu/beta/pm20voc/ip/143860) |   |  
-. Quebracho | PLW06-Hz15 | [. Quebracho](http://zbw.eu/beta/pm20voc/ip/143758) |   |  
-. Quinoa | PLW04-Gt05 | [. Quinoa](http://zbw.eu/beta/pm20voc/ip/143760) |   |  
-. Rabbit | PLW05-07 | [. Rabbit](http://zbw.eu/beta/pm20voc/ip/143063) |   |  
-. Radio | PID11-03 | [. Radio](http://zbw.eu/beta/pm20voc/ip/142487) |   |  
-. Radio transmitter | PID11-04 | [. Radio transmitter](http://zbw.eu/beta/pm20voc/ip/142489) |   |  
-. Radio tube | PID11-Eb01 | [. Radio tube](http://zbw.eu/beta/pm20voc/ip/142488) |   |  
-. Radium | PID07.01-Se01 | [. Radium](http://zbw.eu/beta/pm20voc/ip/143761) |   |  
-. Raffia | PID19-Nf16 | [. Raffia](http://zbw.eu/beta/pm20voc/ip/143765) |   |  
-. Rags and textile waste | PRB01-02 | [. Rags and textile waste](http://zbw.eu/beta/pm20voc/ip/143519) |   |  
-. Rail | PID09-Sf06 | [. Rail](http://zbw.eu/beta/pm20voc/ip/143834) |   |  
-. Railroad car | PID09-Sf03 | [. Railroad car](http://zbw.eu/beta/pm20voc/ip/142273) |   |  
-. Railway and tram material | PID09-Sf02 | [. Railway and tram material](http://zbw.eu/beta/pm20voc/ip/142272) |   |  
-. Railway brake | PID09-Sf01 | [. Railway brake](http://zbw.eu/beta/pm20voc/ip/142271) |   |  
-. Ramie | PID19-Nf15 | [. Ramie](http://zbw.eu/beta/pm20voc/ip/143764) |   |  
-. Rattan | PID16-Fl03 | [. Rattan](http://zbw.eu/beta/pm20voc/ip/143794) |   |  
-. Razor and blade | PID07.03-Sd02 | [. Razor and blade](http://zbw.eu/beta/pm20voc/ip/143767) |   |  
-. Red lead | PID13-Fl14 | [. Red lead](http://zbw.eu/beta/pm20voc/ip/143562) |   |  
-. Redwood | PLW06-Hz17 | [. Redwood](http://zbw.eu/beta/pm20voc/ip/143795) |   |  
-. Reed and reed | PLW04-Gr03 | [. Reed and reed](http://zbw.eu/beta/pm20voc/ip/143839) |   |  
-. Refrigerant | PID13.00-04 | [. Refrigerant](http://zbw.eu/beta/pm20voc/ip/143009) |   |  
-. Refrigerator, refrigerator | PID08-Kl | [. Refrigerator, refrigerator](http://zbw.eu/beta/pm20voc/ip/143008) |   |  
-. Registration and control cash register | PID12-Bu02 | [. Registration and control cash register](http://zbw.eu/beta/pm20voc/ip/143770) |   |  
-. Remedy | PID13.01 | [. Remedy](http://zbw.eu/beta/pm20voc/ip/142942) |   |  
-. Reptile skin | PLW05-Hf07 | [. Reptile skin](http://zbw.eu/beta/pm20voc/ip/143776) |   |  
-. Rescue device | PID07.03-Wz06 | [. Rescue device](http://zbw.eu/beta/pm20voc/ip/143777) |   |  
-. Resins and gums | PID15 | [. Resins and gums](http://zbw.eu/beta/pm20voc/ip/148696) |   |  
-. Rhenium and Masurium | PID07.01-10 | [. Rhenium and Masurium](http://zbw.eu/beta/pm20voc/ip/143780) |   |  
-. Rhubarb | PLW04-Gm12 | [. Rhubarb](http://zbw.eu/beta/pm20voc/ip/143778) |   |  
-. Rice machine | PID08-Ld07 | [. Rice machine](http://zbw.eu/beta/pm20voc/ip/143773) |   |  
-. Road building and cleaning machine | PID09.02-Nf02 | [. Road building and cleaning machine](http://zbw.eu/beta/pm20voc/ip/143917) |   |  
-. Road building material | PID23-03 | [. Road building material](http://zbw.eu/beta/pm20voc/ip/143916) |   |  
-. Rocket motor | PID08-Mo06 | [. Rocket motor](http://zbw.eu/beta/pm20voc/ip/143763) |   |  
-. Roofing felt | PID22-Bs01 | [. Roofing felt](http://zbw.eu/beta/pm20voc/ip/142240) |   |  
-. Rope and rope goods | PID19-Fa02 | [. Rope and rope goods](http://zbw.eu/beta/pm20voc/ip/143875) |   |  
-. Rose | PLW04-Zp05 | [. Rose](http://zbw.eu/beta/pm20voc/ip/143788) |   |  
-. Rose hip | PLW04-Ob05 | [. Rose hip](http://zbw.eu/beta/pm20voc/ip/142920) |   |  
-. Rose oil | PID13-Ar06 | [. Rose oil](http://zbw.eu/beta/pm20voc/ip/143790) |   |  
-. Rosewood oil | PID13-Ar05 | [. Rosewood oil](http://zbw.eu/beta/pm20voc/ip/143789) |   |  
-. Rubber goods | PID15-Ka | [. Rubber goods](http://zbw.eu/beta/pm20voc/ip/143096) |   |  
-. Rubber heel, rubber sole | PID15-Ka03 | [. Rubber heel, rubber sole](http://zbw.eu/beta/pm20voc/ip/143086) |   |  
-. Rubber latex | PID15-Ka01 | [. Rubber latex](http://zbw.eu/beta/pm20voc/ip/143090) |   |  
-. Rubber processing device | PID08-Wz14 | [. Rubber processing device](http://zbw.eu/beta/pm20voc/ip/143087) |   |  
-. Rubber regeneration | PID15-Ka02 | [. Rubber regeneration](http://zbw.eu/beta/pm20voc/ip/143091) |   |  
-. Rubber seed oil | PLW04-Sg03 | [. Rubber seed oil](http://zbw.eu/beta/pm20voc/ip/143094) |   |  
-. Rubber shoes | PID18-Sh01 | [. Rubber shoes](http://zbw.eu/beta/pm20voc/ip/142891) |   |  
-. Rubber threads, elastic fabrics | PID15-Ka04 | [. Rubber threads, elastic fabrics](http://zbw.eu/beta/pm20voc/ip/143088) |   |  
-. Rubber tires | PID15-Ka05 | [. Rubber tires](http://zbw.eu/beta/pm20voc/ip/143093) |   |  
-. Rubber, synthetic | PID14-01 | [. Rubber, synthetic](http://zbw.eu/beta/pm20voc/ip/143095) |   |  
-. Ruby | PID23-Ed03 | [. Ruby](http://zbw.eu/beta/pm20voc/ip/143796) |   |  
-. Rum | PID20.02-Sp04 | [. Rum](http://zbw.eu/beta/pm20voc/ip/143799) |   |  
-. Rust inhibitor | PID13-Fl10 | [. Rust inhibitor](http://zbw.eu/beta/pm20voc/ip/143793) |   |  
-. Sable | PLW05-27 | [. Sable](http://zbw.eu/beta/pm20voc/ip/144076) |   |  
-. Sack (except paper sack) | PID21-06 | [. Sack (except paper sack)](http://zbw.eu/beta/pm20voc/ip/143801) |   |  
-. Safe | PID04-Si02 | [. Safe](http://zbw.eu/beta/pm20voc/ip/142794) |   |  
-. Saffron | PID20-Gw08 | [. Saffron](http://zbw.eu/beta/pm20voc/ip/143803) |   |  
-. Sago | PID20-Nm01 | [. Sago](http://zbw.eu/beta/pm20voc/ip/143804) |   |  
-. Sake | PID20.02-Sp07 | [. Sake](http://zbw.eu/beta/pm20voc/ip/143807) |   |  
-. Salad | PLW04-Gm13 | [. Salad](http://zbw.eu/beta/pm20voc/ip/143808) |   |  
-. Salicyl | PID13.01-06 | [. Salicyl](http://zbw.eu/beta/pm20voc/ip/143809) |   |  
-. Salmon | PLW07-Mt09 | [. Salmon](http://zbw.eu/beta/pm20voc/ip/143159) |   |  
-. Saltpeter | PID13-Sa01 | [. Saltpeter](http://zbw.eu/beta/pm20voc/ip/143811) |   |  
-. Salts | PID13-Sa | [. Salts](http://zbw.eu/beta/pm20voc/ip/146168) |   |  
-. Salvarsan | PID13.01-07 | [. Salvarsan](http://zbw.eu/beta/pm20voc/ip/143813) |   |  
-. Sand, grand and gravel | PID23-01 | [. Sand, grand and gravel](http://zbw.eu/beta/pm20voc/ip/143816) |   |  
-. Sandalwood | PLW06-Hz18 | [. Sandalwood](http://zbw.eu/beta/pm20voc/ip/143817) |   |  
-. Sanitary item | PID04-Md01 | [. Sanitary item](http://zbw.eu/beta/pm20voc/ip/143818) |   |  
-. Sanseviera | PLW04-Zp06 | [. Sanseviera](http://zbw.eu/beta/pm20voc/ip/143819) |   |  
-. Sapomu | P00-07 | [. Sapomu](http://zbw.eu/beta/pm20voc/ip/143822) |   |  
-. Sardine and canned sardines | PLW07-Mt13 | [. Sardine and canned sardines](http://zbw.eu/beta/pm20voc/ip/143824) |   |  
-. Scrap, ferrous and mixed | PRB01-06 | [. Scrap, ferrous and mixed](http://zbw.eu/beta/pm20voc/ip/143856) |   |  
-. Screw, nut, rivet | PID07.03-02 | [. Screw, nut, rivet](http://zbw.eu/beta/pm20voc/ip/143851) |   |  
-. Scythe | PID07.03-Sd03 | [. Scythe](http://zbw.eu/beta/pm20voc/ip/143879) |   |  
-. Sea foam | PRB02.08-02 | [. Sea foam](http://zbw.eu/beta/pm20voc/ip/143557) |   |  
-. Sealskin | PLW05-Hf08 | [. Sealskin](http://zbw.eu/beta/pm20voc/ip/143783) |   |  
-. Seed and seeds | PLW04-Sg | [. Seed and seeds](http://zbw.eu/beta/pm20voc/ip/143800) |   |  
-. Selenium | PID07.01-Hm05 | [. Selenium](http://zbw.eu/beta/pm20voc/ip/143876) |   |  
-. Senna leaf | PID13.01-09 | [. Senna leaf](http://zbw.eu/beta/pm20voc/ip/143878) |   |  
-. Sesame | PLW04-Oe09 | [. Sesame](http://zbw.eu/beta/pm20voc/ip/143880) |   |  
-. Shark | PLW07-Mt04 | [. Shark](http://zbw.eu/beta/pm20voc/ip/142922) |   |  
-. Shell | PLW07-Mt11 | [. Shell](http://zbw.eu/beta/pm20voc/ip/143593) |   |  
-. Shellac | PID15-02 | [. Shellac](http://zbw.eu/beta/pm20voc/ip/143832) |   |  
-. Ship engine | PID08-Mo07 | [. Ship engine](http://zbw.eu/beta/pm20voc/ip/143837) |   |  
-. Shipbuilding material and ship parts (except ship engines) | PID09.04-01 | [. Shipbuilding material and ship parts (except ship engines)](http://zbw.eu/beta/pm20voc/ip/143836) |   |  
-. Shovel | PID07.03-Wz07 | [. Shovel](http://zbw.eu/beta/pm20voc/ip/143830) |   |  
-. Shredding and shredding machine | PID08-Wz11 | [. Shredding and shredding machine](http://zbw.eu/beta/pm20voc/ip/144059) |   |  
-. Silicon and silicon compound | PID07.01-Hm06 | [. Silicon and silicon compound](http://zbw.eu/beta/pm20voc/ip/143883) |   |  
-. Sisal hemp | PID19-Nf22 | [. Sisal hemp](http://zbw.eu/beta/pm20voc/ip/143885) |   |  
-. Sisal machine | PID08-Ld10 | [. Sisal machine](http://zbw.eu/beta/pm20voc/ip/143886) |   |  
-. Skin, pig, pigskin | PLW05-Hf05 | [. Skin, pig, pigskin](http://zbw.eu/beta/pm20voc/ip/142911) |   |  
-. Skinophane | P00-08 | [. Skinophane](http://zbw.eu/beta/pm20voc/ip/143887) |   |  
-. Slag | PRB01-05 | [. Slag](http://zbw.eu/beta/pm20voc/ip/143841) |   |  
-. Slug | PLW05-21 | [. Slug](http://zbw.eu/beta/pm20voc/ip/143847) |   |  
-. Smoking paraphernalia | PID04-Fz01 | [. Smoking paraphernalia](http://zbw.eu/beta/pm20voc/ip/143768) |   |  
-. Snake venom serum | PID13.01-Bi05 | [. Snake venom serum](http://zbw.eu/beta/pm20voc/ip/143842) |   |  
-. Snowshoe | PID18-Sh03 | [. Snowshoe](http://zbw.eu/beta/pm20voc/ip/143848) |   |  
-. Soap | PID13-Kp03 | [. Soap](http://zbw.eu/beta/pm20voc/ip/143872) |   |  
-. Soap, toilet | PID13-Kp02 | [. Soap, toilet](http://zbw.eu/beta/pm20voc/ip/143871) |   |  
-. Sodium Sulfur | PID13-Pm03 | [. Sodium Sulfur](http://zbw.eu/beta/pm20voc/ip/143862) |   |  
-. Sodium and sodium compound | PID13-Sp07 | [. Sodium and sodium compound](http://zbw.eu/beta/pm20voc/ip/143605) |   |  
-. Solar engine | PID08-Mo08 | [. Solar engine](http://zbw.eu/beta/pm20voc/ip/143892) |   |  
-. Solder and solder | PID07.01-06 | [. Solder and solder](http://zbw.eu/beta/pm20voc/ip/143510) |   |  
-. Solvents (except soap) | PID13-Ko | [. Solvents (except soap)](http://zbw.eu/beta/pm20voc/ip/143509) |   |  
-. Speaker | PID11-Eb02 | [. Speaker](http://zbw.eu/beta/pm20voc/ip/143165) |   |  
-. Speedometer | PID10-Mt10 | [. Speedometer](http://zbw.eu/beta/pm20voc/ip/143937) |   |  
-. Spinach | PLW04-Gm16 | [. Spinach](http://zbw.eu/beta/pm20voc/ip/143898) |   |  
-. Sponge | PLW07-Mt15 | [. Sponge](http://zbw.eu/beta/pm20voc/ip/143858) |   |  
-. Sprat | PLW07-Mt16 | [. Sprat](http://zbw.eu/beta/pm20voc/ip/143902) |   |  
-. Spray gun | PID08-Pp04 | [. Spray gun](http://zbw.eu/beta/pm20voc/ip/143901) |   |  
-. Spring, metal | PID07.03-09 | [. Spring, metal](http://zbw.eu/beta/pm20voc/ip/142317) |   |  
-. Spruce Oil, Pine Oil | PID13-Ar02 | [. Spruce Oil, Pine Oil](http://zbw.eu/beta/pm20voc/ip/142329) |   |  
-. Stamp | PVK04.02 | [. Stamp](http://zbw.eu/beta/pm20voc/ip/142154) |   |  
-. Standards Committee for the Graphic Industry (DIN) | P00-01 | [. Standards Committee for the Graphic Industry (DIN)](http://zbw.eu/beta/pm20voc/ip/143618) |   |  
-. Standards committee of the German industry DIN and RAL | P00-02 | [. Standards committee of the German industry DIN and RAL](http://zbw.eu/beta/pm20voc/ip/143619) |   |  
-. Steam engine | PID08-Mo01 | [. Steam engine](http://zbw.eu/beta/pm20voc/ip/142242) |   |  
-. Stearin | PID13-Wa07 | [. Stearin](http://zbw.eu/beta/pm20voc/ip/143907) |   |  
-. Steel, stainless | PID07.02-02 | [. Steel, stainless](http://zbw.eu/beta/pm20voc/ip/143905) |   |  
-. Stockings, socks | PID19-Bk02 | [. Stockings, socks](http://zbw.eu/beta/pm20voc/ip/143923) |   |  
-. Stones and earth | PID23-02 | [. Stones and earth](http://zbw.eu/beta/pm20voc/ip/143911) |   |  
-. Straw and straw products (except animal feed) | PLW04-Gt07 | [. Straw and straw products (except animal feed)](http://zbw.eu/beta/pm20voc/ip/143920) |   |  
-. Strawberry | PLW04-Ob04 | [. Strawberry](http://zbw.eu/beta/pm20voc/ip/142291) |   |  
-. Strength | PID20-Nm05 | [. Strength](http://zbw.eu/beta/pm20voc/ip/143904) |   |  
-. String | PID04-Mu05 | [. String](http://zbw.eu/beta/pm20voc/ip/143805) |   |  
-. Strontium and strontium compounds | PID23-Sp | [. Strontium and strontium compounds](http://zbw.eu/beta/pm20voc/ip/143922) |   |  
-. Sugar machine | PID08-Ld13 | [. Sugar machine](http://zbw.eu/beta/pm20voc/ip/144079) |   |  
-. Sugar, maple | PID20-Zk03 | [. Sugar, maple](http://zbw.eu/beta/pm20voc/ip/144078) |   |  
-. Suitcase | PID18-02 | [. Suitcase](http://zbw.eu/beta/pm20voc/ip/143118) |   |  
-. Sulfone drugs | PID13.01-08 | [. Sulfone drugs](http://zbw.eu/beta/pm20voc/ip/143931) |   |  
-. Sulfur and sulfur compound | PID23-Mi12 | [. Sulfur and sulfur compound](http://zbw.eu/beta/pm20voc/ip/143859) |   |  
-. Sumac | PLW06-Fp21 | [. Sumac](http://zbw.eu/beta/pm20voc/ip/143932) |   |  
-. Sunflower | PLW04-Oe11 | [. Sunflower](http://zbw.eu/beta/pm20voc/ip/143891) |   |  
-. Superphosphate | PID13-Du06 | [. Superphosphate](http://zbw.eu/beta/pm20voc/ip/143933) |   |  
-. Surveying device | PID10-Mt12 | [. Surveying device](http://zbw.eu/beta/pm20voc/ip/144002) |   |  
-. SweetenerXX | PID20-Zk02 | [. SweetenerXX](http://zbw.eu/beta/pm20voc/ip/143927) |   |  
-. Switch and contact, electrical | PID10-06 | [. Switch and contact, electrical](http://zbw.eu/beta/pm20voc/ip/143829) |   |  
-. Synthetic fiber | PID19-Ku | [. Synthetic fiber](http://zbw.eu/beta/pm20voc/ip/143149) |   |  
-. Tallow | PID20-Oe08 | [. Tallow](http://zbw.eu/beta/pm20voc/ip/143938) |   |  
-. Tamarind | PLW04-Tr11 | [. Tamarind](http://zbw.eu/beta/pm20voc/ip/143940) |   |  
-. Tank wood | PLW06-Hz20 | [. Tank wood](http://zbw.eu/beta/pm20voc/ip/143941) |   |  
-. Tannin | PID13-Pm01 | [. Tannin](http://zbw.eu/beta/pm20voc/ip/142803) |   |  
-. Tantalum | PID07.01-14 | [. Tantalum](http://zbw.eu/beta/pm20voc/ip/143942) |   |  
-. Tar | PRB02.08-Eo04 | [. Tar](http://zbw.eu/beta/pm20voc/ip/143951) |   |  
-. Tartar and tartaric acid | PID13-Lm05 | [. Tartar and tartaric acid](http://zbw.eu/beta/pm20voc/ip/144032) |   |  
-. Taximeter | PID10-Mt11 | [. Taximeter](http://zbw.eu/beta/pm20voc/ip/143945) |   |  
-. Tea oil | PLW04-Sg05 | [. Tea oil](http://zbw.eu/beta/pm20voc/ip/143950) |   |  
-. Teach | PID07.03-Wz05 | [. Teach](http://zbw.eu/beta/pm20voc/ip/143171) |   |  
-. Teaching aids | PID04-Lm | [. Teaching aids](http://zbw.eu/beta/pm20voc/ip/143501) |   |  
-. Teak wood | PLW06-Hz19 | [. Teak wood](http://zbw.eu/beta/pm20voc/ip/143946) |   |  
-. Technical supplies (medical and dental supplies) | PID04-Md | [. Technical supplies (medical and dental supplies)](http://zbw.eu/beta/pm20voc/ip/143947) |   |  
-. Telegraph and telephone apparatus | PID11-05 | [. Telegraph and telephone apparatus](http://zbw.eu/beta/pm20voc/ip/143953) |   |  
-. Telegraph, TV | PID11-01 | [. Telegraph, TV](http://zbw.eu/beta/pm20voc/ip/142127) |   |  
-. Telex | PID11-02 | [. Telex](http://zbw.eu/beta/pm20voc/ip/142323) |   |  
-. Tellurium | PID07.01-Hm07 | [. Tellurium](http://zbw.eu/beta/pm20voc/ip/143954) |   |  
-. Thermometer | PID08-Ap08 | [. Thermometer](http://zbw.eu/beta/pm20voc/ip/143957) |   |  
-. Thermos bottle and other hot water bottles | PID04-Hh05 | [. Thermos bottle and other hot water bottles](http://zbw.eu/beta/pm20voc/ip/143958) |   |  
-. Thomas flour | PID13-Du07 | [. Thomas flour](http://zbw.eu/beta/pm20voc/ip/143959) |   |  
-. Thorium and Compounds | PID07.01-15 | [. Thorium and Compounds](http://zbw.eu/beta/pm20voc/ip/143960) |   |  
-. Thresher | PID08-Ld04 | [. Thresher](http://zbw.eu/beta/pm20voc/ip/142258) |   |  
-. Threshold | PID09-Sf05 | [. Threshold](http://zbw.eu/beta/pm20voc/ip/143867) |   |  
-. Tin packaging | PID21-Me01 | [. Tin packaging](http://zbw.eu/beta/pm20voc/ip/142136) |   |  
-. Tinplate | PID07.02-03 | [. Tinplate](http://zbw.eu/beta/pm20voc/ip/144034) |   |  
-. Titanium and titanium compounds | PID07.01-Lm05 | [. Titanium and titanium compounds](http://zbw.eu/beta/pm20voc/ip/143965) |   |  
-. Tobacco Seed Oil | PLW04-Sg04 | [. Tobacco Seed Oil](http://zbw.eu/beta/pm20voc/ip/143936) |   |  
-. Tobacco machine | PID08-Ld11 | [. Tobacco machine](http://zbw.eu/beta/pm20voc/ip/143935) |   |  
-. Tortoise | PLW05-17 | [. Tortoise](http://zbw.eu/beta/pm20voc/ip/143838) |   |  
-. Toy | PID04-Sp | [. Toy](http://zbw.eu/beta/pm20voc/ip/143897) |   |  
-. Traffic controller | PID08-Au01 | [. Traffic controller](http://zbw.eu/beta/pm20voc/ip/144001) |   |  
-. Tram car | PID09-Sf04 | [. Tram car](http://zbw.eu/beta/pm20voc/ip/143915) |   |  
-. Transformer | PID10-07 | [. Transformer](http://zbw.eu/beta/pm20voc/ip/143982) |   |  
-. Transmission (transmission and clutch) | PID08-Mo09 | [. Transmission (transmission and clutch)](http://zbw.eu/beta/pm20voc/ip/143983) |   |  
-. Trout | PLW07-Sw01 | [. Trout](http://zbw.eu/beta/pm20voc/ip/142478) |   |  
-. Tube, not metal | PID23-Tk01 | [. Tube, not metal](http://zbw.eu/beta/pm20voc/ip/143784) |   |  
-. Tuff | PID23-Na07 | [. Tuff](http://zbw.eu/beta/pm20voc/ip/143992) |   |  
-. Tuna | PLW07-Mt18 | [. Tuna](http://zbw.eu/beta/pm20voc/ip/143961) |   |  
-. Turbine | PID08-02 | [. Turbine](http://zbw.eu/beta/pm20voc/ip/143993) |   |  
-. Turkey | PLW05-Gf02 | [. Turkey](http://zbw.eu/beta/pm20voc/ip/143991) |   |  
-. Turnip | PLW04-Gm19 | [. Turnip](http://zbw.eu/beta/pm20voc/ip/143797) |   |  
-. Turpentine | PID13-Ko06 | [. Turpentine](http://zbw.eu/beta/pm20voc/ip/143955) |   |  
-. Type foundry machine and printer type | PID08-Dr02 | [. Type foundry machine and printer type](http://zbw.eu/beta/pm20voc/ip/143855) |   |  
-. Typesetting machine | PID08-Dr01 | [. Typesetting machine](http://zbw.eu/beta/pm20voc/ip/143881) |   |  
-. Typewriter | PID12-Bu03 | [. Typewriter](http://zbw.eu/beta/pm20voc/ip/143853) |   |  
-. Ultramarine | PID13-Fl16 | [. Ultramarine](http://zbw.eu/beta/pm20voc/ip/143995) |   |  
-. Umbrella and stick | PID19-Bz04 | [. Umbrella and stick](http://zbw.eu/beta/pm20voc/ip/143840) |   |  
-. Urena fiber | PID19-Ju01 | [. Urena fiber](http://zbw.eu/beta/pm20voc/ip/143996) |   |  
-. Vaccine | PID13.01-Bi02 | [. Vaccine](http://zbw.eu/beta/pm20voc/ip/142984) |   |  
-. Valonea | PLW06-Fp23 | [. Valonea](http://zbw.eu/beta/pm20voc/ip/143997) |   |  
-. Vanadium | PID07.01-16 | [. Vanadium](http://zbw.eu/beta/pm20voc/ip/143998) |   |  
-. Vegetable wax | PID13-Wa06 | [. Vegetable wax](http://zbw.eu/beta/pm20voc/ip/143735) |   |  
-. Venison | PLW05-Fl05 | [. Venison](http://zbw.eu/beta/pm20voc/ip/144039) |   |  
-. Vinegar, acetic acid | PID13-Sc00 | [. Vinegar, acetic acid](http://zbw.eu/beta/pm20voc/ip/142301) |   |  
-. Violin | PID04-Mu01 | [. Violin](http://zbw.eu/beta/pm20voc/ip/142792) |   |  
-. Viscose staple | PLW04-Bw03 | [. Viscose staple](http://zbw.eu/beta/pm20voc/ip/144056) |   |  
-. Vitamin | PID13.01-Bi06 | [. Vitamin](http://zbw.eu/beta/pm20voc/ip/144005) |   |  
-. Vulcanized fiber | PID17-Sp06 | [. Vulcanized fiber](http://zbw.eu/beta/pm20voc/ip/144008) |   |  
-. Walnut | PLW04-Nu09 | [. Walnut](http://zbw.eu/beta/pm20voc/ip/144021) |   |  
-. Walnut wood | PLW06-Hz13 | [. Walnut wood](http://zbw.eu/beta/pm20voc/ip/143615) |   |  
-. Waste paper | PRB01-04 | [. Waste paper](http://zbw.eu/beta/pm20voc/ip/143708) |   |  
-. Water glass | PID04-Hh06 | [. Water glass](http://zbw.eu/beta/pm20voc/ip/144023) |   |  
-. Water meter | PID08-Ap09 | [. Water meter](http://zbw.eu/beta/pm20voc/ip/144024) |   |  
-. Weapon and ammunition | PID07.03-Wa | [. Weapon and ammunition](http://zbw.eu/beta/pm20voc/ip/144013) |   |  
-. Weapon, handgun | PID07.03-Wa01 | [. Weapon, handgun](http://zbw.eu/beta/pm20voc/ip/144014) |   |  
-. Weapon, hunting | PID07.03-Wa02 | [. Weapon, hunting](http://zbw.eu/beta/pm20voc/ip/144015) |   |  
-. Weaver thistle | PLW04-Tr12 | [. Weaver thistle](http://zbw.eu/beta/pm20voc/ip/144027) |   |  
-. Welding, soldering and riveting apparatus and machine | PID08-Wz08 | [. Welding, soldering and riveting apparatus and machine](http://zbw.eu/beta/pm20voc/ip/143866) |   |  
-. Whale 1 | PLW07-Wa01 | [. Whale 1](http://zbw.eu/beta/pm20voc/ip/144016) |   |  
-. Whale 2 | PLW07-Wa02 | [. Whale 2](http://zbw.eu/beta/pm20voc/ip/144017) |   |  
-. Whale II | PLW07-Wa03 | [. Whale II](http://zbw.eu/beta/pm20voc/ip/144018) |   |  
-. Whiskey | PID20.02-Sp05 | [. Whiskey](http://zbw.eu/beta/pm20voc/ip/144037) |   |  
-. Wicker | PID16-Fl | [. Wicker](http://zbw.eu/beta/pm20voc/ip/143134) |   |  
-. Wind motor | PID08-Mo11 | [. Wind motor](http://zbw.eu/beta/pm20voc/ip/144040) |   |  
-. Window door | PID22-Bf02 | [. Window door](http://zbw.eu/beta/pm20voc/ip/142322) |   |  
-. Wire machine | PID08-Wz13 | [. Wire machine](http://zbw.eu/beta/pm20voc/ip/142255) |   |  
-. Wire rope | PID07.03-03 | [. Wire rope](http://zbw.eu/beta/pm20voc/ip/142256) |   |  
-. Wood flour | PID16-01 | [. Wood flour](http://zbw.eu/beta/pm20voc/ip/142967) |   |  
-. Wood oil | PID13-Fl09 | [. Wood oil](http://zbw.eu/beta/pm20voc/ip/142972) |   |  
-. Wood wool | PID16-02 | [. Wood wool](http://zbw.eu/beta/pm20voc/ip/142970) |   |  
-. Wool 1 | PLW05-Wo02 | [. Wool 1](http://zbw.eu/beta/pm20voc/ip/144043) |   |  
-. Wool 2 | PLW05-Wo03 | [. Wool 2](http://zbw.eu/beta/pm20voc/ip/144044) |   |  
-. Wormseed | PLW04-Oe12 | [. Wormseed](http://zbw.eu/beta/pm20voc/ip/144046) |   |  
-. Woven goods | PID19-Ma04 | [. Woven goods](http://zbw.eu/beta/pm20voc/ip/144028) |   |  
-. Writing, drawing and painting utensils | PID04-04 | [. Writing, drawing and painting utensils](http://zbw.eu/beta/pm20voc/ip/143854) |   |  
-. X-ray and electrical healing apparatus | PID08-Ap05 | [. X-ray and electrical healing apparatus](http://zbw.eu/beta/pm20voc/ip/143786) |   |  
-. Yamo and Taro | PLW04-Tr07 | [. Yamo and Taro](http://zbw.eu/beta/pm20voc/ip/144047) |   |  
-. Yarn, twine | PID19-Fa01 | [. Yarn, twine](http://zbw.eu/beta/pm20voc/ip/142757) |   |  
-. Ylang Ylang | PLW04-Oe13 | [. Ylang Ylang](http://zbw.eu/beta/pm20voc/ip/144048) |   |  
-. Zacaton | PID19-Nf24 | [. Zacaton](http://zbw.eu/beta/pm20voc/ip/144049) |   |  
-. Zapupe fiber | PID19-Nf23 | [. Zapupe fiber](http://zbw.eu/beta/pm20voc/ip/144050) |   |  
-. Zebu | PLW05-Rd02 | [. Zebu](http://zbw.eu/beta/pm20voc/ip/144051) |   |  
-. Zinc paint | PID13-Fl17 | [. Zinc paint](http://zbw.eu/beta/pm20voc/ip/144070) |   |  
-. Zipper | PID19-Bz03 | [. Zipper](http://zbw.eu/beta/pm20voc/ip/143774) |   |  
-. Zirconium and zirconium compounds | PID23-Mi15 | [. Zirconium and zirconium compounds](http://zbw.eu/beta/pm20voc/ip/144072) |   |  
-Absinth | PID20.02-Sp01 | [Absinth](http://zbw.eu/beta/pm20voc/ip/141943) |   | [13](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=141943)
-Acacia bark | PLW06-Fp01 | [Acacia bark](http://zbw.eu/beta/pm20voc/ip/141950) |   | [14](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=141950)
-Acetone | PID13-Ko03 | [Acetone](http://zbw.eu/beta/pm20voc/ip/142022) |   | [18](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142022)
-Activated carbon | PID13-Rm01 | [Activated carbon](http://zbw.eu/beta/pm20voc/ip/141952) |   | [11](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=141952)
-Advertising | Y_Ie | [Advertising](http://zbw.eu/beta/pm20voc/ip/154150) |   |  
-Aether | PID13-Ko01 | [Aether](http://zbw.eu/beta/pm20voc/ip/141945) |   | [20](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=141945)
-Agate | PID23-Ed01 | [Agate](http://zbw.eu/beta/pm20voc/ip/141944) |   | [4](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=141944)
-Agricultural Crops | PLW04 | [Agricultural Crops](http://zbw.eu/beta/pm20voc/ip/148261) |   |  
-Aircraft | PID09.01 | [Aircraft](http://zbw.eu/beta/pm20voc/ip/143516) |   |  
-Alabaster | PID23-Gi01 | [Alabaster](http://zbw.eu/beta/pm20voc/ip/141953) |   | [5](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=141953)
-Alaun | PID13-Pm02 | [Alaun](http://zbw.eu/beta/pm20voc/ip/141956) |   | [18](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=141956)
-Alcohol | PID13-Ko02 | [Alcohol](http://zbw.eu/beta/pm20voc/ip/163481) |   | [33](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=163481)
-Alcoholic beverage | PID20.02-Sp | [Alcoholic beverage](http://zbw.eu/beta/pm20voc/ip/141966) |   | [168](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=141966)
-Algae and seaweed | PLW07-Mp01 | [Algae and seaweed](http://zbw.eu/beta/pm20voc/ip/141959) |   | [30](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=141959)
-Aloe | PLW04-Kr01 | [Aloe](http://zbw.eu/beta/pm20voc/ip/141967) |   | [7](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=141967)
-Aluminium | PID07.01-Lm01 | [Aluminium](http://zbw.eu/beta/pm20voc/ip/141969) |   | [94](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=141969)
-Amalgamation | Y_Ve | [Amalgamation](http://zbw.eu/beta/pm20voc/ip/154166) |   |  
-Amber | PID04-Sc01 | [Amber](http://zbw.eu/beta/pm20voc/ip/142111) |   | [22](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142111)
-Ammonia | PID13-Du01 | [Ammonia](http://zbw.eu/beta/pm20voc/ip/165930) |   | [44](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=165930)
-Angora rabbit wool | PLW05-Wo01 | [Angora rabbit wool](http://zbw.eu/beta/pm20voc/ip/141972) |   | [16](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=141972)
-Animal Products | PLW05 | [Animal Products](http://zbw.eu/beta/pm20voc/ip/148333) |   |  
-Animal feed | PID20-Ft | [Animal feed](http://zbw.eu/beta/pm20voc/ip/142491) |   |  
-Anise | PID20-Gw01 | [Anise](http://zbw.eu/beta/pm20voc/ip/141976) |   | [10](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=141976)
-Antimony | PID07.01-Hm01 | [Antimony](http://zbw.eu/beta/pm20voc/ip/141977) |   | [38](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=141977)
-Apple | PLW04-Ob01 | [Apple](http://zbw.eu/beta/pm20voc/ip/141980) |   | [55](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=141980)
-Appliances and instruments | PID08-Ap | [Appliances and instruments](http://zbw.eu/beta/pm20voc/ip/141985) |   | [42](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=141985)
-Apricot | PLW04-Zs02 | [Apricot](http://zbw.eu/beta/pm20voc/ip/142001) |   | [24](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142001)
-Araucaria | PLW06-Hz01 | [Araucaria](http://zbw.eu/beta/pm20voc/ip/142002) |   | [4](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142002)
-Armaments | PID06 | [Armaments](http://zbw.eu/beta/pm20voc/ip/148952) |   |  
-Arrowroot | PLW04-Kf01 | [Arrowroot](http://zbw.eu/beta/pm20voc/ip/142005) |   | [12](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142005)
-Arsenic | PID07.01-Hm02 | [Arsenic](http://zbw.eu/beta/pm20voc/ip/142006) |   | [35](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142006)
-Artichokes | PLW04-Gm01 | [Artichokes](http://zbw.eu/beta/pm20voc/ip/142012) |   | [8](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142012)
-Artificial flower | PID04-Sc03 | [Artificial flower](http://zbw.eu/beta/pm20voc/ip/142144) |   |  
-Asbestos | PID23-As | [Asbestos](http://zbw.eu/beta/pm20voc/ip/142014) |   | [62](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142014)
-Asphalt | PID22-Bd01 | [Asphalt](http://zbw.eu/beta/pm20voc/ip/142016) |   | [60](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142016)
-Avocate pear | PLW04-Ob02 | [Avocate pear](http://zbw.eu/beta/pm20voc/ip/142021) |   | [14](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142021)
-Axe, hatchet, hammer | PID07.03-Wz01 | [Axe, hatchet, hammer](http://zbw.eu/beta/pm20voc/ip/141947) |   | [13](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=141947)
-Babassu nut | PLW04-Nu01 | [Babassu nut](http://zbw.eu/beta/pm20voc/ip/142023) |   | [6](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142023)
-Bakelit | PID14-Ha01 | [Bakelit](http://zbw.eu/beta/pm20voc/ip/142029) |   | [25](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142029)
-Bakery machine | PID08-Nm01 | [Bakery machine](http://zbw.eu/beta/pm20voc/ip/142027) |   | [16](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142027)
-Bakery product | PID20-Ba | [Bakery product](http://zbw.eu/beta/pm20voc/ip/142026) |   | [63](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142026)
-Baking powder | PID13-Lm01 | [Baking powder](http://zbw.eu/beta/pm20voc/ip/142024) |   | [14](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142024)
-Balm | PLW06-Fp02 | [Balm](http://zbw.eu/beta/pm20voc/ip/142032) |   | [12](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142032)
-Balsa wood | PLW06-Hz02 | [Balsa wood](http://zbw.eu/beta/pm20voc/ip/142033) |   | [12](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142033)
-Bamboo | PLW04-Gr02 | [Bamboo](http://zbw.eu/beta/pm20voc/ip/142035) |   | [35](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142035)
-Banana | PLW04-Bn | [Banana](http://zbw.eu/beta/pm20voc/ip/142038) |   | [103](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142038)
-Barium | PID07.01-Lm02 | [Barium](http://zbw.eu/beta/pm20voc/ip/142042) |   | [29](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142042)
-Barley | PLW04-Gt02 | [Barley](http://zbw.eu/beta/pm20voc/ip/142838) |   |  
-Barometer | PID08-Ap01 | [Barometer](http://zbw.eu/beta/pm20voc/ip/142039) |   | [7](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142039)
-Barosma | PLW04-Kr03 | [Barosma](http://zbw.eu/beta/pm20voc/ip/142041) |   | [2](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142041)
-Basalt | PID23-Na01 | [Basalt](http://zbw.eu/beta/pm20voc/ip/142046) |   | [8](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142046)
-Bast | PID19-Nf01 | [Bast](http://zbw.eu/beta/pm20voc/ip/142048) |   | [5](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142048)
-Batata | PLW04-Kf02 | [Batata](http://zbw.eu/beta/pm20voc/ip/142049) |   | [21](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142049)
-Beer | PID20.02-Br | [Beer](http://zbw.eu/beta/pm20voc/ip/142124) |   |  
-Bentonite | PID13-Dr02 | [Bentonite](http://zbw.eu/beta/pm20voc/ip/142107) |   | [6](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142107)
-Benzene | PID13-Ko04 | [Benzene](http://zbw.eu/beta/pm20voc/ip/142110) |   | [34](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142110)
-Benzoin | PLW06-Fp03 | [Benzoin](http://zbw.eu/beta/pm20voc/ip/142109) |   | [1](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142109)
-Beryllium | PID07.01-Lm03 | [Beryllium](http://zbw.eu/beta/pm20voc/ip/142103) |   | [20](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142103)
-Beverage | PID20.02 | [Beverage](http://zbw.eu/beta/pm20voc/ip/142844) |   |  
-Bicycle | PID09-01 | [Bicycle](http://zbw.eu/beta/pm20voc/ip/142305) |   |  
-Book | PID04-01 | [Book](http://zbw.eu/beta/pm20voc/ip/142214) |   |  
-Bread | PID20-Ba01 | [Bread](http://zbw.eu/beta/pm20voc/ip/142203) |   |  
-Building and insulating panels | PID22-Bf01 | [Building and insulating panels](http://zbw.eu/beta/pm20voc/ip/142083) |   | [38](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142083)
-Building material | PID22-Bs | [Building material](http://zbw.eu/beta/pm20voc/ip/142086) |   | [87](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142086)
-Cabbage | PLW04-Gm08 | [Cabbage](http://zbw.eu/beta/pm20voc/ip/143119) |   | [25](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=143119)
-Cable and wire | PID10-Kd | [Cable and wire](http://zbw.eu/beta/pm20voc/ip/143005) |   |  
-Canned fish | PLW07-Fk | [Canned fish](http://zbw.eu/beta/pm20voc/ip/142464) |   |  
-Carbon (soot) | PRB02.01-Ru | [Carbon (soot)](http://zbw.eu/beta/pm20voc/ip/143123) |   | [23](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=143123)
-Carbonic acid | PID13-Sc06 | [Carbonic acid](http://zbw.eu/beta/pm20voc/ip/143122) |   | [32](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=143122)
-Card file | PID04-Bm03 | [Card file](http://zbw.eu/beta/pm20voc/ip/143073) |   |  
-Cardboard, Paper, and Paper Products | PID17 | [Cardboard, Paper, and Paper Products](http://zbw.eu/beta/pm20voc/ip/148709) |   |  
-Cashew nut | PLW04-Nu04 | [Cashew nut](http://zbw.eu/beta/pm20voc/ip/143079) |   |  
-Cassava | PLW04-Tr15 | [Cassava](http://zbw.eu/beta/pm20voc/ip/143539) |   |  
-Cement | PID23-Bt02 | [Cement](http://zbw.eu/beta/pm20voc/ip/144057) |   |  
-Charcoal | PEW01.04-01 | [Charcoal](http://zbw.eu/beta/pm20voc/ip/142964) |   | [1](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142964)
-Chaulmoogra | PLW06-Fp05 | [Chaulmoogra](http://zbw.eu/beta/pm20voc/ip/142224) |   |  
-Cheese | PID20-Mp01 | [Cheese](http://zbw.eu/beta/pm20voc/ip/143038) |   |  
-Chemical warfare agent | PID06-03 | [Chemical warfare agent](http://zbw.eu/beta/pm20voc/ip/143060) |   |  
-Chlorine | PID13-Ae14 | [Chlorine](http://zbw.eu/beta/pm20voc/ip/142227) |   |  
-Chromium | PID07.01-01 | [Chromium](http://zbw.eu/beta/pm20voc/ip/142229) |   |  
-Cigarette | PID20.01-Zt | [Cigarette](http://zbw.eu/beta/pm20voc/ip/144066) |   |  
-Citrus fruits | PLW04-Zs | [Citrus fruits](http://zbw.eu/beta/pm20voc/ip/141948) |   | [70](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=141948)
-Clock | PID12-Ur | [Clock](http://zbw.eu/beta/pm20voc/ip/143994) |   |  
-Clothing | PID19-Bk | [Clothing](http://zbw.eu/beta/pm20voc/ip/142106) |   | [97](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142106)
-Clothing industry, branches and accessories | PID19-Bz | [Clothing industry, branches and accessories](http://zbw.eu/beta/pm20voc/ip/166456) |   | [26](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=166456)
-Clover | PLW04-Hu08 | [Clover](http://zbw.eu/beta/pm20voc/ip/143109) |   |  
-Coal | PRB02.01 | [Coal](http://zbw.eu/beta/pm20voc/ip/143120) |   | [159](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=143120)
-Coal dust | PRB02.01-St | [Coal dust](http://zbw.eu/beta/pm20voc/ip/218756) |   | [10](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=218756)
-Coal machines (mining and processing) | PID08-Bg02 | [Coal machines (mining and processing)](http://zbw.eu/beta/pm20voc/ip/143121) |   | [19](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=143121)
-Coal processing | PRB02.01.01 | [Coal processing](http://zbw.eu/beta/pm20voc/ip/218757) |   | [8](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=218757)
-Coca, cocaine | PID04-Dr05 | [Coca, cocaine](http://zbw.eu/beta/pm20voc/ip/143124) |   | [39](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=143124)
-Coconut | PLW04-Nu05 | [Coconut](http://zbw.eu/beta/pm20voc/ip/143126) |   | [1](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=143126)
-Coffee | PID20-Kf | [Coffee](http://zbw.eu/beta/pm20voc/ip/143040) |   |  
-Coir | PID19-Nf11 | [Coir](http://zbw.eu/beta/pm20voc/ip/143125) |   | [26](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=143125)
-Commodities | P00 | [Commodities](http://zbw.eu/beta/pm20voc/ip/148837) |   |  
-Commodities | Y_VIa | [Commodities](http://zbw.eu/beta/pm20voc/ip/154174) |   |  
-Commodities Exchange | Y_Va2 | [Commodities Exchange](http://zbw.eu/beta/pm20voc/ip/193587) |   |  
-Conditioning agent | PID13-Rm | [Conditioning agent](http://zbw.eu/beta/pm20voc/ip/142018) |   | [4](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142018)
-Confectionery | PID20-Su | [Confectionery](http://zbw.eu/beta/pm20voc/ip/143930) |   |  
-Coniferous wood | PLW06-Hz24 | [Coniferous wood](http://zbw.eu/beta/pm20voc/ip/143599) |   |  
-Construction Industry | PID22 | [Construction Industry](http://zbw.eu/beta/pm20voc/ip/181202) |   |  
-Construction machinery | PID08-Ba | [Construction machinery](http://zbw.eu/beta/pm20voc/ip/142084) |   | [22](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142084)
-Consumer good | PID04 | [Consumer good](http://zbw.eu/beta/pm20voc/ip/161200) |   |  
-Container | PID07.03-Co | [Container](http://zbw.eu/beta/pm20voc/ip/142094) |   | [14](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142094)
-Copper | PID07.01-Ku | [Copper](http://zbw.eu/beta/pm20voc/ip/143156) |   | [1](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=143156)
-Costume jewelry | PID04-Sc02 | [Costume jewelry](http://zbw.eu/beta/pm20voc/ip/142126) |   |  
-Cotton | PLW04-Bw | [Cotton](http://zbw.eu/beta/pm20voc/ip/142089) |   | [162](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142089)
-Cotton industry | PID19-Bw01 | [Cotton industry](http://zbw.eu/beta/pm20voc/ip/142091) |   | [68](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142091)
-Cotton machine | PID08-Ld02 | [Cotton machine](http://zbw.eu/beta/pm20voc/ip/142092) |   | [19](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142092)
-Cotton textiles | PID19-Bw02 | [Cotton textiles](http://zbw.eu/beta/pm20voc/ip/154932) |   | [40](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=154932)
-Cotton yarn | PID19-Nf02 | [Cotton yarn](http://zbw.eu/beta/pm20voc/ip/196460) |   | [48](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=196460)
-Cottonseed, cottonseed oil | PID20-Oe01 | [Cottonseed, cottonseed oil](http://zbw.eu/beta/pm20voc/ip/142093) |   | [42](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142093)
-Diamond | PID23-Di | [Diamond](http://zbw.eu/beta/pm20voc/ip/142251) |   |  
-Eel | PLW07-Mt01 | [Eel](http://zbw.eu/beta/pm20voc/ip/141941) |   | [14](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=141941)
-Egg | PID20-01 | [Egg](http://zbw.eu/beta/pm20voc/ip/142268) |   |  
-Elephant | PLW05-01 | [Elephant](http://zbw.eu/beta/pm20voc/ip/142279) |   |  
-Energy and Water | PEW | [Energy and Water](http://zbw.eu/beta/pm20voc/ip/148417) |   |  
-Ethyl alcohol | PID13.02-Ks01 | [Ethyl alcohol](http://zbw.eu/beta/pm20voc/ip/141946) |   | [9](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=141946)
-Excavator | PID09.02-Nf01 | [Excavator](http://zbw.eu/beta/pm20voc/ip/142028) |   | [23](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142028)
-Fertilizer | PID13-Du | [Fertilizer](http://zbw.eu/beta/pm20voc/ip/142261) |   |  
-Fish | PLW07-01 | [Fish](http://zbw.eu/beta/pm20voc/ip/142460) |   |  
-Fittings (Armature) | PID08-Ar | [Fittings (Armature)](http://zbw.eu/beta/pm20voc/ip/142004) |   | [16](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142004)
-Fittings and hinges | PID07.03-01 | [Fittings and hinges](http://zbw.eu/beta/pm20voc/ip/142113) |   | [12](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142113)
-Food additive | PID13-Lm | [Food additive](http://zbw.eu/beta/pm20voc/ip/142800) |   |  
-Food machinery | PID08-Nm | [Food machinery](http://zbw.eu/beta/pm20voc/ip/161477) |   |  
-Forest Products | PLW06 | [Forest Products](http://zbw.eu/beta/pm20voc/ip/148366) |   |  
-Fuel | PEW-01 | [Fuel](http://zbw.eu/beta/pm20voc/ip/142153) |   |  
-Fuel | PID13.02-Ks | [Fuel](http://zbw.eu/beta/pm20voc/ip/143989) |   | [1](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=143989)
-Furniture | PID04-Mo | [Furniture](http://zbw.eu/beta/pm20voc/ip/143579) |   |  
-Gaming and vending machines | PID08-Au | [Gaming and vending machines](http://zbw.eu/beta/pm20voc/ip/142020) |   | [27](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142020)
-Gases | PID13-Ae | [Gases](http://zbw.eu/beta/pm20voc/ip/142759) |   |  
-Generator | PID10-02 | [Generator](http://zbw.eu/beta/pm20voc/ip/142797) |   |  
-Glass | PID23-Gw | [Glass](http://zbw.eu/beta/pm20voc/ip/142855) |   |  
-Gloves | PID19-Bz01 | [Gloves](http://zbw.eu/beta/pm20voc/ip/142923) |   |  
-Goat | PLW05-26 | [Goat](http://zbw.eu/beta/pm20voc/ip/144065) |   |  
-Gold | PID07.01-Em01 | [Gold](http://zbw.eu/beta/pm20voc/ip/142877) |   |  
-Grain | PLW04-Gt | [Grain](http://zbw.eu/beta/pm20voc/ip/142846) |   |  
-Granite | PID23-Na03 | [Granite](http://zbw.eu/beta/pm20voc/ip/142884) |   |  
-Grape | PLW04-Ob15 | [Grape](http://zbw.eu/beta/pm20voc/ip/144033) |   |  
-Groundnut | PLW04-Nu02 | [Groundnut](http://zbw.eu/beta/pm20voc/ip/142293) |   |  
-Gypsum | PID23-Gi | [Gypsum](http://zbw.eu/beta/pm20voc/ip/142854) |   |  
-Halfah grass | PID19-Nf018 | [Halfah grass](http://zbw.eu/beta/pm20voc/ip/141957) |   | [17](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=141957)
-Helicopter | PID09.01-Lf02 | [Helicopter](http://zbw.eu/beta/pm20voc/ip/142979) |   |  
-Hemp | PID19-Nf05 | [Hemp](http://zbw.eu/beta/pm20voc/ip/142925) |   |  
-Hides and skins | PLW05-Hf | [Hides and skins](http://zbw.eu/beta/pm20voc/ip/142909) |   |  
-Honey | PLW05-Ho | [Honey](http://zbw.eu/beta/pm20voc/ip/142973) |   |  
-Hop | PLW04-Kr06 | [Hop](http://zbw.eu/beta/pm20voc/ip/142974) |   |  
-Horse | PLW05-14 | [Horse](http://zbw.eu/beta/pm20voc/ip/143732) |   |  
-Hydrogen | PID13-Ae05 | [Hydrogen](http://zbw.eu/beta/pm20voc/ip/144025) |   |  
-Iron ore | PRB02.03-01 | [Iron ore](http://zbw.eu/beta/pm20voc/ip/142274) |   |  
-Jute | PID19-Ju | [Jute](http://zbw.eu/beta/pm20voc/ip/143004) |   |  
-Lamp | PID10-Lp | [Lamp](http://zbw.eu/beta/pm20voc/ip/143164) |   |  
-Lead (heavy metal) | PID07.01-Bl | [Lead (heavy metal)](http://zbw.eu/beta/pm20voc/ip/142138) |   |  
-Leather | PID18-01 | [Leather](http://zbw.eu/beta/pm20voc/ip/143168) |   |  
-Leather, Leather Goods, and Footwear | PID18 | [Leather, Leather Goods, and Footwear](http://zbw.eu/beta/pm20voc/ip/148714) |   |  
-Leguminosae | PLW04-Hu | [Leguminosae](http://zbw.eu/beta/pm20voc/ip/142980) |   |  
-Leisure-time product | PID04-Fz | [Leisure-time product](http://zbw.eu/beta/pm20voc/ip/161307) |   |  
-Light metal | PID07.01-Lm | [Light metal](http://zbw.eu/beta/pm20voc/ip/143572) |   | [1](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=143572)
-Lignite | PRB02.01-Br | [Lignite](http://zbw.eu/beta/pm20voc/ip/142151) |   |  
-Lime | PID22-Bs03 | [Lime](http://zbw.eu/beta/pm20voc/ip/143054) |   |  
-Logistics | Y_IIIf | [Logistics](http://zbw.eu/beta/pm20voc/ip/154159) |   |  
-Machine Products | PID08 | [Machine Products](http://zbw.eu/beta/pm20voc/ip/148501) |   |  
-Magnesite | PID23-Mi09 | [Magnesite](http://zbw.eu/beta/pm20voc/ip/143526) |   |  
-Maize | PLW04-Ma | [Maize](http://zbw.eu/beta/pm20voc/ip/143531) |   |  
-Manganese | PID07.01-11 | [Manganese](http://zbw.eu/beta/pm20voc/ip/143535) |   |  
-Marble | PID23-Na06 | [Marble](http://zbw.eu/beta/pm20voc/ip/143543) |   |  
-Marine Products | PLW07 | [Marine Products](http://zbw.eu/beta/pm20voc/ip/148398) |   |  
-Meat | PLW05-Fl | [Meat](http://zbw.eu/beta/pm20voc/ip/142469) |   |  
-Medicinal herbs | PLW04-Kr | [Medicinal herbs](http://zbw.eu/beta/pm20voc/ip/142259) |   |  
-Mercury | PID07.01-09 | [Mercury](http://zbw.eu/beta/pm20voc/ip/143759) |   |  
-Metal casting | PID07.01-Mg | [Metal casting](http://zbw.eu/beta/pm20voc/ip/161311) |   |  
-Metal sheet | PID07.00-01 | [Metal sheet](http://zbw.eu/beta/pm20voc/ip/142134) |   |  
-Metals | PID07 | [Metals](http://zbw.eu/beta/pm20voc/ip/148466) |   | [1](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=148466)
-Mica | PID23-Mi01 | [Mica](http://zbw.eu/beta/pm20voc/ip/142868) |   |  
-Milk | PID20-Mp03 | [Milk](http://zbw.eu/beta/pm20voc/ip/143574) |   |  
-Milkweed | PID19-Nf06 | [Milkweed](http://zbw.eu/beta/pm20voc/ip/142013) |   | [13](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142013)
-Millet | PLW04-Gt04 | [Millet](http://zbw.eu/beta/pm20voc/ip/142956) |   |  
-Mineral water | PID20.02-Mw | [Mineral water](http://zbw.eu/beta/pm20voc/ip/143578) |   |  
-Mining Products | PRB02 | [Mining Products](http://zbw.eu/beta/pm20voc/ip/148420) |   |  
-Mining machine | PID08-Bg | [Mining machine](http://zbw.eu/beta/pm20voc/ip/142112) |   | [33](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142112)
-Molybdenum | PID07.01-13 | [Molybdenum](http://zbw.eu/beta/pm20voc/ip/143585) |   |  
-Motor | PID08-Mo | [Motor](http://zbw.eu/beta/pm20voc/ip/143587) |   |  
-Motor vehicle | PID09.02 | [Motor vehicle](http://zbw.eu/beta/pm20voc/ip/143140) |   |  
-Motorcycle | PID09.02-Mo | [Motorcycle](http://zbw.eu/beta/pm20voc/ip/143590) |   |  
-Musical instrument | PID04-Mu | [Musical instrument](http://zbw.eu/beta/pm20voc/ip/143596) |   |  
-Narcotics | PID04-Dr | [Narcotics](http://zbw.eu/beta/pm20voc/ip/142115) |   | [3](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142115)
-Natural gas | PRB02.05 | [Natural gas](http://zbw.eu/beta/pm20voc/ip/142292) |   |  
-Nickel | PID07.01-07 | [Nickel](http://zbw.eu/beta/pm20voc/ip/143609) |   |  
-Non-ferrous metal | PID07.01 | [Non-ferrous metal](http://zbw.eu/beta/pm20voc/ip/161442) |   | [1](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=161442)
-Nonmetallic Minerals, Ceramics, and Glass | PID23 | [Nonmetallic Minerals, Ceramics, and Glass](http://zbw.eu/beta/pm20voc/ip/148443) |   |  
-Oats | PLW04-Gt03 | [Oats](http://zbw.eu/beta/pm20voc/ip/142914) |   |  
-Office furniture | PID04-Bu | [Office furniture](http://zbw.eu/beta/pm20voc/ip/142218) |   |  
-Office machine | PID12-Bu | [Office machine](http://zbw.eu/beta/pm20voc/ip/142217) |   |  
-Oil and fat | PID20-Oe | [Oil and fat](http://zbw.eu/beta/pm20voc/ip/143622) |   |  
-Onion | PLW04-Gm18 | [Onion](http://zbw.eu/beta/pm20voc/ip/144085) |   |  
-Orange | PLW04-Zs01 | [Orange](http://zbw.eu/beta/pm20voc/ip/141981) |   | [77](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=141981)
-Oyster | PLW07-Mt02 | [Oyster](http://zbw.eu/beta/pm20voc/ip/142019) |   | [30](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142019)
-Packages | PID21 | [Packages](http://zbw.eu/beta/pm20voc/ip/148781) |   |  
-Packaging machinery | PID08-Vp | [Packaging machinery](http://zbw.eu/beta/pm20voc/ip/144003) |   |  
-Paper | PID17-01 | [Paper](http://zbw.eu/beta/pm20voc/ip/143707) |   |  
-Paper machinery | PID08-Pa | [Paper machinery](http://zbw.eu/beta/pm20voc/ip/143711) |   |  
-Peat | PRB02.08-05 | [Peat](http://zbw.eu/beta/pm20voc/ip/143969) |   |  
-Petrol | PID13.02-Ks02 | [Petrol](http://zbw.eu/beta/pm20voc/ip/142108) |   | [110](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142108)
-Petroleum | PRB02.06 | [Petroleum](http://zbw.eu/beta/pm20voc/ip/142294) |   | [1](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142294)
-Phosphate | PID13-Du05 | [Phosphate](http://zbw.eu/beta/pm20voc/ip/143739) |   |  
-Pineapple | PLW04-Tr01 | [Pineapple](http://zbw.eu/beta/pm20voc/ip/141970) |   | [57](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=141970)
-Plastics | PID14 | [Plastics](http://zbw.eu/beta/pm20voc/ip/142932) |   |  
-Potato | PLW04-Kf | [Potato](http://zbw.eu/beta/pm20voc/ip/143076) |   |  
-Poultry | PLW05-Gf | [Poultry](http://zbw.eu/beta/pm20voc/ip/142791) |   |  
-Precision Instruments and Optical Products | PID12 | [Precision Instruments and Optical Products](http://zbw.eu/beta/pm20voc/ip/148577) |   |  
-Preserved food | PID20-06 | [Preserved food](http://zbw.eu/beta/pm20voc/ip/143130) |   |  
-Production | Y_III | [Production](http://zbw.eu/beta/pm20voc/ip/154154) |   |  
-Profitability | Y_Vt | [Profitability](http://zbw.eu/beta/pm20voc/ip/154171) |   |  
-Pump | PID08-Pp | [Pump](http://zbw.eu/beta/pm20voc/ip/143752) |   |  
-Rape (Plant) | PLW04-Oe07 | [Rape (Plant)](http://zbw.eu/beta/pm20voc/ip/143766) |   |  
-Reindeer | PLW05-16 | [Reindeer](http://zbw.eu/beta/pm20voc/ip/143775) |   |  
-Rice | PLW04-Rs | [Rice](http://zbw.eu/beta/pm20voc/ip/143772) |   |  
-Rubber | PLW06-Fp14 | [Rubber](http://zbw.eu/beta/pm20voc/ip/143085) |   |  
-Rye | PLW04-Gt06 | [Rye](http://zbw.eu/beta/pm20voc/ip/143787) |   |  
-Safety engineering | PID04-Si | [Safety engineering](http://zbw.eu/beta/pm20voc/ip/161309) |   |  
-Salt | PID20-Gw09 | [Salt](http://zbw.eu/beta/pm20voc/ip/143814) |   |  
-Seed | Y_IIIb | [Seed](http://zbw.eu/beta/pm20voc/ip/154156) |   |  
-Semi-metal | PID07.01-Hm | [Semi-metal](http://zbw.eu/beta/pm20voc/ip/161310) |   |  
-Sewing machinery | PID08-Wz15 | [Sewing machinery](http://zbw.eu/beta/pm20voc/ip/143602) |   |  
-Sheep | PLW05-Sf | [Sheep](http://zbw.eu/beta/pm20voc/ip/143828) |   |  
-Silk | PLW05-Sd | [Silk](http://zbw.eu/beta/pm20voc/ip/143869) |   |  
-Silver | PID07.01-Em02 | [Silver](http://zbw.eu/beta/pm20voc/ip/143882) |   |  
-Slate | PID23-Na05 | [Slate](http://zbw.eu/beta/pm20voc/ip/143833) |   |  
-Soap | PID13-Kp01 | [Soap](http://zbw.eu/beta/pm20voc/ip/143870) |   |  
-Socialisation | Y_Ve1 | [Socialisation](http://zbw.eu/beta/pm20voc/ip/221151) |   |  
-Soda ash | PID23-Mi10 | [Soda ash](http://zbw.eu/beta/pm20voc/ip/143889) |   |  
-Soybean | PLW04-Hu12 | [Soybean](http://zbw.eu/beta/pm20voc/ip/143890) |   |  
-Spice | PID20-Gw | [Spice](http://zbw.eu/beta/pm20voc/ip/142848) |   |  
-Statistical data | Y_IV | [Statistical data](http://zbw.eu/beta/pm20voc/ip/154160) |   |  
-Sugar | PID20-Zk | [Sugar](http://zbw.eu/beta/pm20voc/ip/144077) |   |  
-Sulphuric acid | PID13-Sc01 | [Sulphuric acid](http://zbw.eu/beta/pm20voc/ip/143863) |   |  
-Synthetic resin | PID14-Ha | [Synthetic resin](http://zbw.eu/beta/pm20voc/ip/143151) |   |  
-Talc | PID23-Mi14 | [Talc](http://zbw.eu/beta/pm20voc/ip/143939) |   |  
-Tea | PID20-Te | [Tea](http://zbw.eu/beta/pm20voc/ip/143949) |   |  
-Textile machinery | PID08-Tx | [Textile machinery](http://zbw.eu/beta/pm20voc/ip/143956) |   |  
-Textiles | PID19-Ma | [Textiles](http://zbw.eu/beta/pm20voc/ip/166455) |   |  
-Tin | PID07.01-19 | [Tin](http://zbw.eu/beta/pm20voc/ip/144071) |   |  
-Tobacco | PLW04-06 | [Tobacco](http://zbw.eu/beta/pm20voc/ip/143934) |   |  
-Tomato | PLW04-Ob14 | [Tomato](http://zbw.eu/beta/pm20voc/ip/143966) |   |  
-Tooling machine | PID08-Wz | [Tooling machine](http://zbw.eu/beta/pm20voc/ip/144036) |   |  
-Tractor | PID09.02-Nf03 | [Tractor](http://zbw.eu/beta/pm20voc/ip/143971) |   |  
-Trademark | Y_Va3 | [Trademark](http://zbw.eu/beta/pm20voc/ip/193590) |   |  
-Trailer | PID09.02-Kf | [Trailer](http://zbw.eu/beta/pm20voc/ip/141974) |   | [12](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=141974)
-Tree clearing machine | PID08-Ld01 | [Tree clearing machine](http://zbw.eu/beta/pm20voc/ip/142087) |   | [5](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=142087)
-Tropical fruit | PLW04-Tr | [Tropical fruit](http://zbw.eu/beta/pm20voc/ip/148560) |   |  
-Vacuum cleaner | PID10-Eh03 | [Vacuum cleaner](http://zbw.eu/beta/pm20voc/ip/143906) |   |  
-Vegetable | PLW04-Gm | [Vegetable](http://zbw.eu/beta/pm20voc/ip/142796) |   |  
-Vehicles | PID09 | [Vehicles](http://zbw.eu/beta/pm20voc/ip/148546) |   |  
-Waste and Recycling Products | PRB01 | [Waste and Recycling Products](http://zbw.eu/beta/pm20voc/ip/148965) |   |  
-Waste and scrap | PRB01-01 | [Waste and scrap](http://zbw.eu/beta/pm20voc/ip/141942) |   | [34](http://webopac.hwwa.de/PresseMappe20/Digiview_MENU.cfm?T=W&W=141942)
-Waste recycling | Y_VIb | [Waste recycling](http://zbw.eu/beta/pm20voc/ip/154175) |   |  
-Watercraft | PID09.04 | [Watercraft](http://zbw.eu/beta/pm20voc/ip/144022) |   |  
-Wax | PID13-Wa | [Wax](http://zbw.eu/beta/pm20voc/ip/144010) |   |  
-Welfare | Y_Vf | [Welfare](http://zbw.eu/beta/pm20voc/ip/154167) |   |  
-Whale | PLW07-Wa | [Whale](http://zbw.eu/beta/pm20voc/ip/144020) |   |  
-Wheat | PLW04-Gt08 | [Wheat](http://zbw.eu/beta/pm20voc/ip/144035) |   |  
-Wine | PID20.02-We | [Wine](http://zbw.eu/beta/pm20voc/ip/144031) |   |  
-Wire | PID07.02-01 | [Wire](http://zbw.eu/beta/pm20voc/ip/142253) |   |  
-Wood | PLW06-Hz | [Wood](http://zbw.eu/beta/pm20voc/ip/142961) |   |  
-Wood Products | PID16 | [Wood Products](http://zbw.eu/beta/pm20voc/ip/148703) |   |  
-Wood-processing machinery | PID08-Hz | [Wood-processing machinery](http://zbw.eu/beta/pm20voc/ip/142962) |   |  
-Wool | PLW05-Wo | [Wool](http://zbw.eu/beta/pm20voc/ip/144042) |   |  
-Work of art | PID04-Kg | [Work of art](http://zbw.eu/beta/pm20voc/ip/143150) |   |  
-Yeast | PID20-05 | [Yeast](http://zbw.eu/beta/pm20voc/ip/142939) |   |  
-Zinc | PID07.01-18 | [Zinc](http://zbw.eu/beta/pm20voc/ip/144069) |   |  
+category | tmpSignature | note | count
+-|-|-|-
+[. Abomasum](http://purl.org/pressemappe20/category/ware/i/143158 ) | PLW05-Tp06 |   |  
+[. Acid](http://purl.org/pressemappe20/category/ware/i/143802 ) | PID13-Sc |   |  
+[. Adhesive](http://purl.org/pressemappe20/category/ware/i/143107 ) | PID13.00-01 |   |  
+[. Aerial camera](http://purl.org/pressemappe20/category/ware/i/143514 ) | PID12-Fo02 |   |  
+[. Agricultural machine](http://purl.org/pressemappe20/category/ware/i/143547 ) | PID08-Ld |   |  
+[. Air, liquid](http://purl.org/pressemappe20/category/ware/i/143517 ) | PID13-Ae08 |   |  
+[. Airship](http://purl.org/pressemappe20/category/ware/i/143518 ) | PID09.01-Lf03 |   |  
+[. Alder wood](http://purl.org/pressemappe20/category/ware/i/142299 ) | PLW06-Hz09 |   |  
+[. Alfalfa](http://purl.org/pressemappe20/category/ware/i/143521 ) | PLW04-Hu11 |   |  
+[. Almond](http://purl.org/pressemappe20/category/ware/i/143534 ) | PLW04-Ob13 |   |  
+[. Anchovy](http://purl.org/pressemappe20/category/ware/i/143823 ) | PLW07-Mt12 |   |  
+[. Animal Fiber](http://purl.org/pressemappe20/category/ware/i/166318 ) | PID19-Tf |   |  
+[. Animal Product](http://purl.org/pressemappe20/category/ware/i/143963 ) | PLW05-20 |   |  
+[. Animal, living, wild (cage animal, except bird)](http://purl.org/pressemappe20/category/ware/i/143962 ) | PLW05-19 |   |  
+[. Artificial silk](http://purl.org/pressemappe20/category/ware/i/143152 ) | PID19-Ku01 |   |  
+[. Asparagus](http://purl.org/pressemappe20/category/ware/i/143893 ) | PLW04-Gm15 |   |  
+[. Ball-bearing](http://purl.org/pressemappe20/category/ware/i/143146 ) | PID08-Wl |   |  
+[. Bandage and cotton wool](http://purl.org/pressemappe20/category/ware/i/144000 ) | PID04-Md02 |   |  
+[. Barrel](http://purl.org/pressemappe20/category/ware/i/142304 ) | PID21-03 |   |  
+[. Bean](http://purl.org/pressemappe20/category/ware/i/142147 ) | PLW04-Hu02 |   |  
+[. Beaver fur](http://purl.org/pressemappe20/category/ware/i/142120 ) | PLW05-Hf01 |   |  
+[. Bed, mattress](http://purl.org/pressemappe20/category/ware/i/142118 ) | PID04-Mo01 |   |  
+[. Beech wood](http://purl.org/pressemappe20/category/ware/i/142211 ) | PLW06-Hz03 |   |  
+[. Beechnut](http://purl.org/pressemappe20/category/ware/i/142210 ) | PLW04-Nu10 |   |  
+[. Beef and beef](http://purl.org/pressemappe20/category/ware/i/143781 ) | PLW05-Rd |   |  
+[. Beeswax](http://purl.org/pressemappe20/category/ware/i/142121 ) | PID13-Wa01 |   |  
+[. Beet seeds, fodder and sugar](http://purl.org/pressemappe20/category/ware/i/143798 ) | PLW04-Gm20 |   |  
+[. Bell jar](http://purl.org/pressemappe20/category/ware/i/142870 ) | PID07.01-Mg02 |   |  
+[. Betel](http://purl.org/pressemappe20/category/ware/i/142116 ) | PID04-Dr01 |   |  
+[. Bird nest](http://purl.org/pressemappe20/category/ware/i/144007 ) | PLW05-25 |   |  
+[. Bird of paradise feather](http://purl.org/pressemappe20/category/ware/i/143716 ) | PLW05-13 |   |  
+[. Bird, alive](http://purl.org/pressemappe20/category/ware/i/144006 ) | PLW05-24 |   |  
+[. Bismuth and bismuth compounds](http://purl.org/pressemappe20/category/ware/i/144041 ) | PID07.01-17 |   |  
+[. Blast Furnace, Melting Furnace, Foundry Apparatus](http://purl.org/pressemappe20/category/ware/i/142960 ) | PID08-Gi |   |  
+[. Bleach](http://purl.org/pressemappe20/category/ware/i/142140 ) | PID13-Dr |   |  
+[. Bleaching earth](http://purl.org/pressemappe20/category/ware/i/142139 ) | PID13-Dr01 |   |  
+[. Blood](http://purl.org/pressemappe20/category/ware/i/142146 ) | PLW05-Fl01 |   |  
+[. Blubber and fish oil](http://purl.org/pressemappe20/category/ware/i/143972 ) | PLW07-Fp06 |   |  
+[. Blueberry](http://purl.org/pressemappe20/category/ware/i/142940 ) | PLW04-Ob06 |   |  
+[. Boiler](http://purl.org/pressemappe20/category/ware/i/143100 ) | PID07.03-10 |   |  
+[. Bones, bone meal](http://purl.org/pressemappe20/category/ware/i/143113 ) | PLW05-Tp05 |   |  
+[. Boron](http://purl.org/pressemappe20/category/ware/i/142150 ) | PID07.01-Hm03 |   |  
+[. Bottle cap](http://purl.org/pressemappe20/category/ware/i/142467 ) | PID21-02 |   |  
+[. Box](http://purl.org/pressemappe20/category/ware/i/143105 ) | PID21-05 |   |  
+[. Bran](http://purl.org/pressemappe20/category/ware/i/143110 ) | PID20-Ft04 |   |  
+[. Brass](http://purl.org/pressemappe20/category/ware/i/143564 ) | PID07.01-12 |   |  
+[. Brazil nut](http://purl.org/pressemappe20/category/ware/i/143718 ) | PLW04-Nu06 |   |  
+[. Breadfruit](http://purl.org/pressemappe20/category/ware/i/142208 ) | PLW04-Tr02 |   |  
+[. Brewery machine, cellar machine](http://purl.org/pressemappe20/category/ware/i/142149 ) | PID08-Nm02 |   |  
+[. Brick](http://purl.org/pressemappe20/category/ware/i/144062 ) | PID23-05 |   |  
+[. Brick making machine](http://purl.org/pressemappe20/category/ware/i/144064 ) | PID08-Ba01 |   |  
+[. Briquette](http://purl.org/pressemappe20/category/ware/i/142156 ) | PRB02.01.01-Br |   |  
+[. Bromine](http://purl.org/pressemappe20/category/ware/i/142158 ) | PID13-Sp01 |   |  
+[. Bronze](http://purl.org/pressemappe20/category/ware/i/142201 ) | PID07.01-Mg01 |   |  
+[. Broom](http://purl.org/pressemappe20/category/ware/i/142853 ) | PLW04-Hu06 |   |  
+[. Brush, broom, brush](http://purl.org/pressemappe20/category/ware/i/142219 ) | PID16-Fl01 |   |  
+[. Buckwheat](http://purl.org/pressemappe20/category/ware/i/142212 ) | PLW04-Gt01 |   |  
+[. Buffalo](http://purl.org/pressemappe20/category/ware/i/142215 ) | PLW05-Rd01 |   |  
+[. Bullet](http://purl.org/pressemappe20/category/ware/i/142839 ) | PID06-01 |   |  
+[. Butter](http://purl.org/pressemappe20/category/ware/i/142220 ) | PID20-Oe02 |   |  
+[. Butter tree](http://purl.org/pressemappe20/category/ware/i/142221 ) | PLW06-Hz04 |   |  
+[. Button](http://purl.org/pressemappe20/category/ware/i/143114 ) | PID19-Bz05 |   |  
+[. Cabuya fiber](http://purl.org/pressemappe20/category/ware/i/142222 ) | PID19-Nf07 |   |  
+[. Cactus](http://purl.org/pressemappe20/category/ware/i/143049 ) | PLW04-Zp02 |   |  
+[. Cadmium](http://purl.org/pressemappe20/category/ware/i/143007 ) | PID13-Sp04 |   |  
+[. Caffeine](http://purl.org/pressemappe20/category/ware/i/143117 ) | PID04-Dr04 |   |  
+[. Calcium](http://purl.org/pressemappe20/category/ware/i/143056 ) | PID07.01-Lm04 |   |  
+[. Calcium carbide and acetylene](http://purl.org/pressemappe20/category/ware/i/143057 ) | PID13-Sp05 |   |  
+[. Calculating machine and device](http://purl.org/pressemappe20/category/ware/i/143769 ) | PID12-Bu01 |   |  
+[. Camel](http://purl.org/pressemappe20/category/ware/i/143058 ) | PLW05-06 |   |  
+[. Canary seed](http://purl.org/pressemappe20/category/ware/i/143062 ) | PID20-Ft03 |   |  
+[. Cancer, crab](http://purl.org/pressemappe20/category/ware/i/143141 ) | PLW07-Mt08 |   |  
+[. Candle](http://purl.org/pressemappe20/category/ware/i/143099 ) | PID04-Hh03 |   |  
+[. Canned fruit](http://purl.org/pressemappe20/category/ware/i/142480 ) | PID20-04 |   |  
+[. Canned milk](http://purl.org/pressemappe20/category/ware/i/143575 ) | PID20-Mp04 |   |  
+[. Cap](http://purl.org/pressemappe20/category/ware/i/142981 ) | PID19-Bz02 |   |  
+[. Car](http://purl.org/pressemappe20/category/ware/i/144009 ) | PID09.02-Pw |   |  
+[. Caraway seed](http://purl.org/pressemappe20/category/ware/i/143144 ) | PID20-Gw04 |   |  
+[. Carbolic acid](http://purl.org/pressemappe20/category/ware/i/143067 ) | PID13.01-05 |   |  
+[. Carbolineum](http://purl.org/pressemappe20/category/ware/i/143070 ) | PID13-Pm04 |   |  
+[. Carbon disulphide](http://purl.org/pressemappe20/category/ware/i/143861 ) | PID13-Ko05 |   |  
+[. Cardamon](http://purl.org/pressemappe20/category/ware/i/143071 ) | PID20-Gw03 |   |  
+[. Carnauba wax](http://purl.org/pressemappe20/category/ware/i/142223 ) | PID13-Wa02 |   |  
+[. Carob](http://purl.org/pressemappe20/category/ware/i/143001 ) | PLW06-Fp18 |   |  
+[. Carp](http://purl.org/pressemappe20/category/ware/i/143072 ) | PLW07-Sw02 |   |  
+[. Casein](http://purl.org/pressemappe20/category/ware/i/143077 ) | PID20-Mp02 |   |  
+[. Casein wool](http://purl.org/pressemappe20/category/ware/i/143078 ) | PID19-Tf01 |   |  
+[. Castle](http://purl.org/pressemappe20/category/ware/i/143843 ) | PID07.03-13 |   |  
+[. Castor bean](http://purl.org/pressemappe20/category/ware/i/143782 ) | PLW04-Oe08 |   |  
+[. Cat](http://purl.org/pressemappe20/category/ware/i/143082 ) | PLW05-08 |   |  
+[. Catechu](http://purl.org/pressemappe20/category/ware/i/143081 ) | PLW06-Fp13 |   |  
+[. Caviar](http://purl.org/pressemappe20/category/ware/i/143097 ) | PLW07-Fp04 |   |  
+[. Cedar](http://purl.org/pressemappe20/category/ware/i/144052 ) | PLW06-Hz21 |   |  
+[. Celery](http://purl.org/pressemappe20/category/ware/i/143873 ) | PLW04-Gm14 |   |  
+[. Cellophane](http://purl.org/pressemappe20/category/ware/i/144053 ) | PID21-07 |   |  
+[. Celluloid](http://purl.org/pressemappe20/category/ware/i/144054 ) | PID14-02 |   |  
+[. Cellulose](http://purl.org/pressemappe20/category/ware/i/144055 ) | PID19-Ku05 |   |  
+[. Centrifuge](http://purl.org/pressemappe20/category/ware/i/144058 ) | PID08-Wz12 |   |  
+[. Chain](http://purl.org/pressemappe20/category/ware/i/143101 ) | PID07.03-11 |   |  
+[. Chalk](http://purl.org/pressemappe20/category/ware/i/143142 ) | PID23-Mi07 |   |  
+[. Chariot](http://purl.org/pressemappe20/category/ware/i/143061 ) | PID06-04 |   |  
+[. Cherry](http://purl.org/pressemappe20/category/ware/i/143104 ) | PLW04-Ob08 |   |  
+[. Chestnut](http://purl.org/pressemappe20/category/ware/i/143080 ) | PLW06-Hz11 |   |  
+[. Chewing gum](http://purl.org/pressemappe20/category/ware/i/143083 ) | PID20-Su01 |   |  
+[. Chick-pea](http://purl.org/pressemappe20/category/ware/i/143102 ) | PLW04-Hu07 |   |  
+[. Chicory](http://purl.org/pressemappe20/category/ware/i/144061 ) | PLW04-Gm17 |   |  
+[. Chinchilla](http://purl.org/pressemappe20/category/ware/i/142226 ) | PLW05-Hf03 |   |  
+[. Christmas tree ornaments](http://purl.org/pressemappe20/category/ware/i/142228 ) | PID04-Sc04 |   |  
+[. Cigarette paper](http://purl.org/pressemappe20/category/ware/i/144067 ) | PID17-Sp07 |   |  
+[. Cinammon](http://purl.org/pressemappe20/category/ware/i/144068 ) | PID20-Gw11 |   |  
+[. Cinchona, quinine](http://purl.org/pressemappe20/category/ware/i/142225 ) | PLW06-Fp06 |   |  
+[. Citric acid](http://purl.org/pressemappe20/category/ware/i/144075 ) | PID13-Sc05 |   |  
+[. Citrus oil](http://purl.org/pressemappe20/category/ware/i/142230 ) | PID20-Oe03 |   |  
+[. Civet](http://purl.org/pressemappe20/category/ware/i/144060 ) | PID13-Pf02 |   |  
+[. Clay and ceramics](http://purl.org/pressemappe20/category/ware/i/143967 ) | PID23-04 |   |  
+[. Cleaning, grinding and polishing preparations](http://purl.org/pressemappe20/category/ware/i/143756 ) | PID13.00-05 |   |  
+[. Clothing, textiles and fibers](http://purl.org/pressemappe20/category/ware/i/148719 ) | PID19 |   |  
+[. Clove](http://purl.org/pressemappe20/category/ware/i/143607 ) | PLW04-Zp03 |   |  
+[. Cobalt](http://purl.org/pressemappe20/category/ware/i/143115 ) | PID07.01-05 |   |  
+[. Cochineal](http://purl.org/pressemappe20/category/ware/i/142231 ) | PID13-Fl03 |   |  
+[. Cocoa 1](http://purl.org/pressemappe20/category/ware/i/143046 ) | PID20-Kk01 |   |  
+[. Cocoa 2](http://purl.org/pressemappe20/category/ware/i/143047 ) | PID20-Kk02 |   |  
+[. Cocoa, chocolate](http://purl.org/pressemappe20/category/ware/i/143044 ) | PID20-Kk |   |  
+[. Cod](http://purl.org/pressemappe20/category/ware/i/143006 ) | PLW07-Mt06 |   |  
+[. Cod liver oil](http://purl.org/pressemappe20/category/ware/i/143167 ) | PLW07-Fp05 |   |  
+[. Coffee preparation machine](http://purl.org/pressemappe20/category/ware/i/143041 ) | PID10-Eh02 |   |  
+[. Coffee substitute](http://purl.org/pressemappe20/category/ware/i/143042 ) | PID20-Kf01 |   |  
+[. Cognac](http://purl.org/pressemappe20/category/ware/i/142232 ) | PID20.02-Sp02 |   |  
+[. Cohune oil](http://purl.org/pressemappe20/category/ware/i/142233 ) | PID20-Oe04 |   |  
+[. Coil (of any kind)](http://purl.org/pressemappe20/category/ware/i/143903 ) | PID07.03-06 |   |  
+[. Cologne](http://purl.org/pressemappe20/category/ware/i/143116 ) | PID13-Pf01 |   |  
+[. Colon](http://purl.org/pressemappe20/category/ware/i/142241 ) | PLW05-Fl02 |   |  
+[. Color and dyes](http://purl.org/pressemappe20/category/ware/i/143160 ) | PID13-Fl |   |  
+[. Color, luminous](http://purl.org/pressemappe20/category/ware/i/142310 ) | PID13-Fl05 |   |  
+[. Color, mineral](http://purl.org/pressemappe20/category/ware/i/142311 ) | PID13-Fl06 |   |  
+[. Color, titanium](http://purl.org/pressemappe20/category/ware/i/142313 ) | PID13-Fl08 |   |  
+[. Comb](http://purl.org/pressemappe20/category/ware/i/143035 ) | PID04-Hh02 |   |  
+[. Compass](http://purl.org/pressemappe20/category/ware/i/143128 ) | PID12-03 |   |  
+[. Compressor](http://purl.org/pressemappe20/category/ware/i/143129 ) | PID08-Pp02 |   |  
+[. Concrete goods](http://purl.org/pressemappe20/category/ware/i/142117 ) | PID23-Bt01 |   |  
+[. Copal](http://purl.org/pressemappe20/category/ware/i/143132 ) | PLW06-Fp16 |   |  
+[. Copper vitriol](http://purl.org/pressemappe20/category/ware/i/143157 ) | PID23-Mi08 |   |  
+[. Coral](http://purl.org/pressemappe20/category/ware/i/143133 ) | PLW07-Mt07 |   |  
+[. Cork](http://purl.org/pressemappe20/category/ware/i/143136 ) | PLW06-Fp17 |   |  
+[. Corn oil](http://purl.org/pressemappe20/category/ware/i/143532 ) | PID20-Oe05 |   |  
+[. Corozo](http://purl.org/pressemappe20/category/ware/i/143909 ) | PLW04-Nu08 |   |  
+[. Corset](http://purl.org/pressemappe20/category/ware/i/143137 ) | PID19-Bk01 |   |  
+[. Corundum](http://purl.org/pressemappe20/category/ware/i/143138 ) | PID23-Mi06 |   |  
+[. Cosmetic items](http://purl.org/pressemappe20/category/ware/i/143139 ) | PID13-Kp |   |  
+[. Coumarin](http://purl.org/pressemappe20/category/ware/i/143147 ) | PID13-Ar03 |   |  
+[. Coumarone resin](http://purl.org/pressemappe20/category/ware/i/143148 ) | PID15-01 |   |  
+[. Coward](http://purl.org/pressemappe20/category/ware/i/142318 ) | PLW04-Tr04 |   |  
+[. Cranberry](http://purl.org/pressemappe20/category/ware/i/143143 ) | PLW04-Ob10 |   |  
+[. Crotalaria fiber](http://purl.org/pressemappe20/category/ware/i/142238 ) | PID19-Nf08 |   |  
+[. Cucumber](http://purl.org/pressemappe20/category/ware/i/142899 ) | PLW04-Gm04 |   |  
+[. Cum](http://purl.org/pressemappe20/category/ware/i/144038 ) | PID18-Sh02 |   |  
+[. Currant](http://purl.org/pressemappe20/category/ware/i/142999 ) | PLW04-Ob07 |   |  
+[. Currant, raisin](http://purl.org/pressemappe20/category/ware/i/143135 ) | PLW04-Ob09 |   |  
+[. Cutlery](http://purl.org/pressemappe20/category/ware/i/161314 ) | PID07.03-Sd |   |  
+[. Cutting machine](http://purl.org/pressemappe20/category/ware/i/143849 ) | PID08-Wz06 |   |  
+[. Cyan](http://purl.org/pressemappe20/category/ware/i/142239 ) | PID13-Sa02 |   |  
+[. Dairy machine](http://purl.org/pressemappe20/category/ware/i/143560 ) | PID08-Nm04 |   |  
+[. Dairy product](http://purl.org/pressemappe20/category/ware/i/143559 ) | PID20-Mp |   |  
+[. Date](http://purl.org/pressemappe20/category/ware/i/142243 ) | PLW04-Tr03 |   |  
+[. Deer horn salt](http://purl.org/pressemappe20/category/ware/i/142952 ) | PID13-Lm02 |   |  
+[. Derris root](http://purl.org/pressemappe20/category/ware/i/142245 ) | PID13-Pe01 |   |  
+[. Devices and tools](http://purl.org/pressemappe20/category/ware/i/161313 ) | PID07.03-Wz |   |  
+[. Dextrin](http://purl.org/pressemappe20/category/ware/i/142250 ) | PID13-Sp02 |   |  
+[. Die](http://purl.org/pressemappe20/category/ware/i/142842 ) | PID07.03-Wz04 |   |  
+[. Dividevi](http://purl.org/pressemappe20/category/ware/i/142252 ) | PLW06-Hz05 |   |  
+[. Diving apparatus](http://purl.org/pressemappe20/category/ware/i/143944 ) | PID08-Ap02 |   |  
+[. Dog](http://purl.org/pressemappe20/category/ware/i/142982 ) | PLW05-04 |   |  
+[. Dolphin](http://purl.org/pressemappe20/category/ware/i/142244 ) | PLW07-Mt03 |   |  
+[. Donkey](http://purl.org/pressemappe20/category/ware/i/142300 ) | PLW05-03 |   |  
+[. Dove](http://purl.org/pressemappe20/category/ware/i/143943 ) | PLW05-22 |   |  
+[. Drill, drilling machine](http://purl.org/pressemappe20/category/ware/i/142148 ) | PID08-Wz01 |   |  
+[. Drive belt](http://purl.org/pressemappe20/category/ware/i/143986 ) | PID08-Mo10 |   |  
+[. Drugs and chemicals](http://purl.org/pressemappe20/category/ware/i/148617 ) | PID13 |   |  
+[. Drying apparatus](http://purl.org/pressemappe20/category/ware/i/143990 ) | PID08-Ap13 |   |  
+[. Dynamite](http://purl.org/pressemappe20/category/ware/i/142263 ) | PID13-Zw01 |   |  
+[. Earthenware](http://purl.org/pressemappe20/category/ware/i/143908 ) | PID23-Ke02 |   |  
+[. Earthwax](http://purl.org/pressemappe20/category/ware/i/142298 ) | PID13-Wa03 |   |  
+[. Ebony](http://purl.org/pressemappe20/category/ware/i/142264 ) | PLW06-Hz06 |   |  
+[. Echo sounder](http://purl.org/pressemappe20/category/ware/i/142265 ) | PID10-Mt01 |   |  
+[. Electrical machine](http://purl.org/pressemappe20/category/ware/i/143545 ) | PID10-05 |   |  
+[. Electricity meter](http://purl.org/pressemappe20/category/ware/i/142280 ) | PID10-Mt02 |   |  
+[. Electrode](http://purl.org/pressemappe20/category/ware/i/142281 ) | PID10-01 |   |  
+[. Electrometal](http://purl.org/pressemappe20/category/ware/i/142282 ) | PID07.01-02 |   |  
+[. Electrotechnical product](http://purl.org/pressemappe20/category/ware/i/142283 ) | PID10 |   |  
+[. Element, accumulator](http://purl.org/pressemappe20/category/ware/i/142284 ) | PID10-Bt |   |  
+[. Elevator](http://purl.org/pressemappe20/category/ware/i/142306 ) | PID08-Fo01 |   |  
+[. Emerald](http://purl.org/pressemappe20/category/ware/i/143888 ) | PID23-Ed04 |   |  
+[. Emery](http://purl.org/pressemappe20/category/ware/i/143846 ) | PID23-Mi11 |   |  
+[. Emulsion](http://purl.org/pressemappe20/category/ware/i/142288 ) | PID13.00-02 |   |  
+[. Enamelware](http://purl.org/pressemappe20/category/ware/i/142286 ) | PID04-Hh01 |   |  
+[. Engine](http://purl.org/pressemappe20/category/ware/i/143588 ) | PID10-Mo |   |  
+[. Engine](http://purl.org/pressemappe20/category/ware/i/143589 ) | PID08-Mo05 |   |  
+[. Eucalyptus oil](http://purl.org/pressemappe20/category/ware/i/142303 ) | PID13-Ar01 |   |  
+[. Eucalyptus wood](http://purl.org/pressemappe20/category/ware/i/142302 ) | PLW06-Hz10 |   |  
+[. Explosive](http://purl.org/pressemappe20/category/ware/i/143900 ) | PID13-Zw04 |   |  
+[. Fan, air freshener and air conditioning](http://purl.org/pressemappe20/category/ware/i/143999 ) | PID08-Kl01 |   |  
+[. Fancy goods](http://purl.org/pressemappe20/category/ware/i/142692 ) | PID04-Sc05 |   |  
+[. Faux wool](http://purl.org/pressemappe20/category/ware/i/143153 ) | PID19-Ku02 |   |  
+[. Feathers](http://purl.org/pressemappe20/category/ware/i/142316 ) | PLW05-Tp01 |   |  
+[. Felt](http://purl.org/pressemappe20/category/ware/i/142458 ) | PID19-Ma01 |   |  
+[. Fiber machine](http://purl.org/pressemappe20/category/ware/i/142314 ) | PID08-Ld14 |   |  
+[. Field post](http://purl.org/pressemappe20/category/ware/i/142321 ) | PVK04.02-01 |   |  
+[. Fighter](http://purl.org/pressemappe20/category/ware/i/143059 ) | PLW06-Fp11 |   |  
+[. File](http://purl.org/pressemappe20/category/ware/i/142319 ) | PID07.03-Wz02 |   |  
+[. Filler for padding](http://purl.org/pressemappe20/category/ware/i/142486 ) | PID04-Mo02 |   |  
+[. Film, color](http://purl.org/pressemappe20/category/ware/i/142331 ) | PID17-Sp01 |   |  
+[. Film, exposed](http://purl.org/pressemappe20/category/ware/i/142330 ) | PID17-Sp08 |   |  
+[. Film, more plastic](http://purl.org/pressemappe20/category/ware/i/142332 ) | PID12-Fo01 |   |  
+[. Film, raw](http://purl.org/pressemappe20/category/ware/i/142334 ) | PID14-Fo01 |   |  
+[. Filter, sterilizer, still](http://purl.org/pressemappe20/category/ware/i/142457 ) | PID08-Ap03 |   |  
+[. Fire extinguisher](http://purl.org/pressemappe20/category/ware/i/142326 ) | PID07.03-Wz08 |   |  
+[. Firecrackers](http://purl.org/pressemappe20/category/ware/i/142327 ) | PID13-Zw02 |   |  
+[. Fish meal, meat meal](http://purl.org/pressemappe20/category/ware/i/142465 ) | PID20-Ft01 |   |  
+[. Fish skin, fish leather](http://purl.org/pressemappe20/category/ware/i/142463 ) | PLW07-Fp03 |   |  
+[. Fish waste](http://purl.org/pressemappe20/category/ware/i/142459 ) | PRB01-Fp01 |   |  
+[. Fishery product](http://purl.org/pressemappe20/category/ware/i/142461 ) | PLW07-Fp02 |   |  
+[. Fishing gear](http://purl.org/pressemappe20/category/ware/i/142462 ) | PID07.03-Wz03 |   |  
+[. Flake bast](http://purl.org/pressemappe20/category/ware/i/142475 ) | PID19-Nf04 |   |  
+[. Flax, linen](http://purl.org/pressemappe20/category/ware/i/142466 ) | PID19-Nf03 |   |  
+[. Flour](http://purl.org/pressemappe20/category/ware/i/142477 ) | PID13-Ae09 |   |  
+[. Flour and mill product](http://purl.org/pressemappe20/category/ware/i/143558 ) | PID20-Nm03 |   |  
+[. Flow coal](http://purl.org/pressemappe20/category/ware/i/142474 ) | PRB02.01-Fl |   |  
+[. Flower bulb](http://purl.org/pressemappe20/category/ware/i/142145 ) | PLW04-Sg02 |   |  
+[. Flower, ornamental plant](http://purl.org/pressemappe20/category/ware/i/142143 ) | PLW04-Zp |   |  
+[. Flying boat](http://purl.org/pressemappe20/category/ware/i/142476 ) | PID09.01-Lf01 |   |  
+[. Foodstuffs, fodder and luxury items](http://purl.org/pressemappe20/category/ware/i/148745 ) | PID20 |   |  
+[. Footwear](http://purl.org/pressemappe20/category/ware/i/143857 ) | PID18-Sh |   |  
+[. Forging machine](http://purl.org/pressemappe20/category/ware/i/143844 ) | PID08-Wz09 |   |  
+[. Formaldehyde](http://purl.org/pressemappe20/category/ware/i/142479 ) | PID13-Ae07 |   |  
+[. Fountain pen](http://purl.org/pressemappe20/category/ware/i/142485 ) | PID04-Bm02 |   |  
+[. Fox fur](http://purl.org/pressemappe20/category/ware/i/142484 ) | PLW05-Hf04 |   |  
+[. Framework](http://purl.org/pressemappe20/category/ware/i/143762 ) | PID16-03 |   |  
+[. Fructose, glucose](http://purl.org/pressemappe20/category/ware/i/142481 ) | PID20-Zk01 |   |  
+[. Fruit](http://purl.org/pressemappe20/category/ware/i/142483 ) | PLW04-Ob |   |  
+[. Fruit wine](http://purl.org/pressemappe20/category/ware/i/142482 ) | PID20.02-We01 |   |  
+[. Fuel and mixture](http://purl.org/pressemappe20/category/ware/i/143987 ) | PID13.02-Ks03 |   |  
+[. Fuel and mixture (coal liquefaction)](http://purl.org/pressemappe20/category/ware/i/143988 ) | PID13.02-Ks04 |   |  
+[. Fur](http://purl.org/pressemappe20/category/ware/i/143722 ) | PID19-Pz |   |  
+[. Fur, sheep](http://purl.org/pressemappe20/category/ware/i/143723 ) | PID19-Pz01 |   |  
+[. Furniture, bentwood](http://purl.org/pressemappe20/category/ware/i/143580 ) | PID04-Mo03 |   |  
+[. Furniture, metal](http://purl.org/pressemappe20/category/ware/i/143581 ) | PID04-Mo04 |   |  
+[. Furniture, seat](http://purl.org/pressemappe20/category/ware/i/143582 ) | PID04-Mo05 |   |  
+[. Galalith](http://purl.org/pressemappe20/category/ware/i/142691 ) | PID14-Ha02 |   |  
+[. Gall apple](http://purl.org/pressemappe20/category/ware/i/142693 ) | PID04-Dr02 |   |  
+[. Gambir](http://purl.org/pressemappe20/category/ware/i/142755 ) | PLW06-Fp07 |   |  
+[. Garbage](http://purl.org/pressemappe20/category/ware/i/143592 ) | PRB01-07 |   |  
+[. Garlic](http://purl.org/pressemappe20/category/ware/i/143112 ) | PLW04-Gm07 |   |  
+[. Garnet](http://purl.org/pressemappe20/category/ware/i/142881 ) | PID23-Mi02 |   |  
+[. Gas analyzer, gas detector, gas regulator](http://purl.org/pressemappe20/category/ware/i/142787 ) | PID08-Ap04 |   |  
+[. Gas mask](http://purl.org/pressemappe20/category/ware/i/142788 ) | PID04-Si01 |   |  
+[. Gas pistol](http://purl.org/pressemappe20/category/ware/i/142790 ) | PID07.03-Wa03 |   |  
+[. Gasometers, fixed tanks](http://purl.org/pressemappe20/category/ware/i/142789 ) | PID07.03-Co1 |   |  
+[. Gelatin](http://purl.org/pressemappe20/category/ware/i/142793 ) | PLW05-Tp02 |   |  
+[. Gem and semi-precious stone](http://purl.org/pressemappe20/category/ware/i/142266 ) | PID23-Ed |   |  
+[. Generator and engine, wood gas](http://purl.org/pressemappe20/category/ware/i/142798 ) | PID08-Mo03 |   |  
+[. Generator, gas](http://purl.org/pressemappe20/category/ware/i/142799 ) | PID08-Mo02 |   |  
+[. Geranium oil](http://purl.org/pressemappe20/category/ware/i/142802 ) | PLW04-Zp01 |   |  
+[. Ginger](http://purl.org/pressemappe20/category/ware/i/142987 ) | PID20-Gw02 |   |  
+[. Ginseng](http://purl.org/pressemappe20/category/ware/i/142852 ) | PLW04-Kr05 |   |  
+[. Glass bottle](http://purl.org/pressemappe20/category/ware/i/142856 ) | PID21-04 |   |  
+[. Glass machine](http://purl.org/pressemappe20/category/ware/i/142857 ) | PID08-01 |   |  
+[. Glass wool](http://purl.org/pressemappe20/category/ware/i/142863 ) | PID23-Gf |   |  
+[. Glass, safety](http://purl.org/pressemappe20/category/ware/i/142860 ) | PID23-Gw01 |   |  
+[. Glasses](http://purl.org/pressemappe20/category/ware/i/142157 ) | PID12-Au01 |   |  
+[. Glauber's salt](http://purl.org/pressemappe20/category/ware/i/142864 ) | PID13.01-01 |   |  
+[. Glider (motorless)](http://purl.org/pressemappe20/category/ware/i/143868 ) | PID09.01-Lf04 |   |  
+[. Glycerin](http://purl.org/pressemappe20/category/ware/i/142876 ) | PID13-Sp03 |   |  
+[. Goose duck](http://purl.org/pressemappe20/category/ware/i/142756 ) | PLW05-Gf01 |   |  
+[. Gramophone, record](http://purl.org/pressemappe20/category/ware/i/142878 ) | PID11-Au |   |  
+[. Grapefruit](http://purl.org/pressemappe20/category/ware/i/143639 ) | PLW04-Zs03 |   |  
+[. Grapeseed oil](http://purl.org/pressemappe20/category/ware/i/143984 ) | PID20-Oe06 |   |  
+[. Graphite](http://purl.org/pressemappe20/category/ware/i/142886 ) | PID23-Mi03 |   |  
+[. Guano](http://purl.org/pressemappe20/category/ware/i/142889 ) | PLW05-Od01 |   |  
+[. Guava](http://purl.org/pressemappe20/category/ware/i/142888 ) | PLW04-Tr05 |   |  
+[. Gum arabic](http://purl.org/pressemappe20/category/ware/i/142890 ) | PLW06-Fp04 |   |  
+[. Gum tragacanth](http://purl.org/pressemappe20/category/ware/i/142897 ) | PLW06-Fp08 |   |  
+[. Gun](http://purl.org/pressemappe20/category/ware/i/142841 ) | PID06-02 |   |  
+[. Gunpowder](http://purl.org/pressemappe20/category/ware/i/143835 ) | PID06-05 |   |  
+[. Gutta percha](http://purl.org/pressemappe20/category/ware/i/142900 ) | PLW06-Fp09 |   |  
+[. Hafnium](http://purl.org/pressemappe20/category/ware/i/142917 ) | PID07.01-04 |   |  
+[. Hair clipper](http://purl.org/pressemappe20/category/ware/i/142905 ) | PID08-Wz03 |   |  
+[. Hair, bristles](http://purl.org/pressemappe20/category/ware/i/142902 ) | PLW05-Tp03 |   |  
+[. Harmonica, harmonica](http://purl.org/pressemappe20/category/ware/i/142930 ) | PID04-Mu02 |   |  
+[. Harvester](http://purl.org/pressemappe20/category/ware/i/143524 ) | PID08-Ld08 |   |  
+[. Hashish](http://purl.org/pressemappe20/category/ware/i/142933 ) | PID04-Dr03 |   |  
+[. Hay, forage straw](http://purl.org/pressemappe20/category/ware/i/142947 ) | PID20-Ft02 |   |  
+[. Hazelnut](http://purl.org/pressemappe20/category/ware/i/142934 ) | PLW04-Nu03 |   |  
+[. Headlight](http://purl.org/pressemappe20/category/ware/i/143831 ) | PID10-Lp03 |   |  
+[. Heating apparatus, cooking apparatus](http://purl.org/pressemappe20/category/ware/i/142943 ) | PID10-Eh01 |   |  
+[. Helium](http://purl.org/pressemappe20/category/ware/i/142944 ) | PID13-Ae06 |   |  
+[. Hemp seed](http://purl.org/pressemappe20/category/ware/i/142927 ) | PLW04-Sg01 |   |  
+[. Heron feather](http://purl.org/pressemappe20/category/ware/i/143771 ) | PLW05-15 |   |  
+[. Herring](http://purl.org/pressemappe20/category/ware/i/142945 ) | PLW07-Mt05 |   |  
+[. Hibiscus fiber](http://purl.org/pressemappe20/category/ware/i/142949 ) | PID19-Nf09 |   |  
+[. Hormone](http://purl.org/pressemappe20/category/ware/i/142976 ) | PID13.01-Bi01 |   |  
+[. Horn](http://purl.org/pressemappe20/category/ware/i/142978 ) | PLW05-Tp04 |   |  
+[. Horsehair, natural](http://purl.org/pressemappe20/category/ware/i/143791 ) | PID19-Tf03 |   |  
+[. Horsehair, vegetable and artificial](http://purl.org/pressemappe20/category/ware/i/143792 ) | PID19-Ku04 |   |  
+[. Housekeeping item](http://purl.org/pressemappe20/category/ware/i/142936 ) | PID04-Hh |   |  
+[. Housekeeping item, electric](http://purl.org/pressemappe20/category/ware/i/142937 ) | PID10-Eh |   |  
+[. Hydrochloric acid](http://purl.org/pressemappe20/category/ware/i/143815 ) | PID13-Sc03 |   |  
+[. Hydrogen peroxide](http://purl.org/pressemappe20/category/ware/i/144026 ) | PID13-Dr03 |   |  
+[. Ichthyol](http://purl.org/pressemappe20/category/ware/i/142983 ) | PID13.01-02 |   |  
+[. Igniter, electric](http://purl.org/pressemappe20/category/ware/i/144080 ) | PID06-07 |   |  
+[. Incandescent lamp, fluorescent tube](http://purl.org/pressemappe20/category/ware/i/142872 ) | PID10-Lp01 |   |  
+[. Incendiary goods](http://purl.org/pressemappe20/category/ware/i/144084 ) | PID13-Zw |   |  
+[. Incense](http://purl.org/pressemappe20/category/ware/i/144030 ) | PLW06-Fp24 |   |  
+[. Incubator](http://purl.org/pressemappe20/category/ware/i/142209 ) | PID08-Ld03 |   |  
+[. Indigo](http://purl.org/pressemappe20/category/ware/i/142985 ) | PID13-Fl11 |   |  
+[. Indium](http://purl.org/pressemappe20/category/ware/i/142986 ) | PID07.01-03 |   |  
+[. Ink](http://purl.org/pressemappe20/category/ware/i/143964 ) | PID13-Fl15 |   |  
+[. Insulating material, insulator (non-electric)](http://purl.org/pressemappe20/category/ware/i/142990 ) | PID22-Bs02 |   |  
+[. Insulator, electrical](http://purl.org/pressemappe20/category/ware/i/142989 ) | PID10-03 |   |  
+[. Insulin](http://purl.org/pressemappe20/category/ware/i/142988 ) | PID13.01-Bi03 |   |  
+[. Iodine](http://purl.org/pressemappe20/category/ware/i/142998 ) | PID13.01-04 |   |  
+[. Iron and Steel](http://purl.org/pressemappe20/category/ware/i/142270 ) | PID07.02 |   |  
+[. Iron and steel goods](http://purl.org/pressemappe20/category/ware/i/142275 ) | PID07.03 |   |  
+[. Ironwood](http://purl.org/pressemappe20/category/ware/i/142276 ) | PLW06-Hz08 |   |  
+[. Irrigation machine](http://purl.org/pressemappe20/category/ware/i/142119 ) | PID08-Pp01 |   |  
+[. Ivory](http://purl.org/pressemappe20/category/ware/i/142285 ) | PLW05-02 |   |  
+[. Ixtle](http://purl.org/pressemappe20/category/ware/i/142994 ) | PID19-Nf10 |   |  
+[. Jewellery](http://purl.org/pressemappe20/category/ware/i/161308 ) | PID04-Sc |   |  
+[. Kali](http://purl.org/pressemappe20/category/ware/i/143051 ) | PRB02.08-01 |   |  
+[. Kaolin](http://purl.org/pressemappe20/category/ware/i/143064 ) | PID23-Mi04 |   |  
+[. Kapok](http://purl.org/pressemappe20/category/ware/i/143065 ) | PLW06-Fp12 |   |  
+[. Karakul fur](http://purl.org/pressemappe20/category/ware/i/143066 ) | PLW05-Hf06 |   |  
+[. Kauri wood](http://purl.org/pressemappe20/category/ware/i/143084 ) | PLW06-Hz12 |   |  
+[. Kendyr fiber](http://purl.org/pressemappe20/category/ware/i/143098 ) | PID19-Nf13 |   |  
+[. Kieselguhr](http://purl.org/pressemappe20/category/ware/i/143103 ) | PID23-Mi05 |   |  
+[. Knife and scissors](http://purl.org/pressemappe20/category/ware/i/143563 ) | PID07.03-Sd01 |   |  
+[. Knitwear and hosiery](http://purl.org/pressemappe20/category/ware/i/143919 ) | PID19-Ma03 |   |  
+[. Kola](http://purl.org/pressemappe20/category/ware/i/143127 ) | PLW06-Fp15 |   |  
+[. Lace and embroidery](http://purl.org/pressemappe20/category/ware/i/143899 ) | PID19-Ma02 |   |  
+[. Lacquerware](http://purl.org/pressemappe20/category/ware/i/143161 ) | PID04-Kg01 |   |  
+[. Lactic acid](http://purl.org/pressemappe20/category/ware/i/143576 ) | PID13-Sc04 |   |  
+[. Lama](http://purl.org/pressemappe20/category/ware/i/143163 ) | PID19-Tf02 |   |  
+[. Lathe](http://purl.org/pressemappe20/category/ware/i/142257 ) | PID08-Wz02 |   |  
+[. Laundry](http://purl.org/pressemappe20/category/ware/i/144011 ) | PID19-Bk03 |   |  
+[. Laundry machine](http://purl.org/pressemappe20/category/ware/i/144012 ) | PID08-Rg |   |  
+[. Lavender oil](http://purl.org/pressemappe20/category/ware/i/143166 ) | PID13-Ar04 |   |  
+[. Lead paint](http://purl.org/pressemappe20/category/ware/i/142141 ) | PID13-Fl02 |   |  
+[. Leather machine, shoe machine](http://purl.org/pressemappe20/category/ware/i/143170 ) | PID08-Wz10 |   |  
+[. Leather, artificial](http://purl.org/pressemappe20/category/ware/i/143169 ) | PID18-03 |   |  
+[. Lemon](http://purl.org/pressemappe20/category/ware/i/144074 ) | PLW04-Zs04 |   |  
+[. Lemon oil](http://purl.org/pressemappe20/category/ware/i/144073 ) | PID13-Ar07 |   |  
+[. Lenses](http://purl.org/pressemappe20/category/ware/i/143506 ) | PLW04-Hu09 |   |  
+[. Leonian ware](http://purl.org/pressemappe20/category/ware/i/143503 ) | PID10-Kd01 |   |  
+[. Licorice](http://purl.org/pressemappe20/category/ware/i/143925 ) | PLW04-Tr14 |   |  
+[. Light meter](http://purl.org/pressemappe20/category/ware/i/143504 ) | PID10-Mt04 |   |  
+[. Lighter](http://purl.org/pressemappe20/category/ware/i/142328 ) | PID13-Zw03 |   |  
+[. Limestone](http://purl.org/pressemappe20/category/ware/i/143055 ) | PID23-Na04 |   |  
+[. Linoleum](http://purl.org/pressemappe20/category/ware/i/143505 ) | PID22-Bd02 |   |  
+[. Linseed, linseed oil](http://purl.org/pressemappe20/category/ware/i/143502 ) | PLW04-Oe01 |   |  
+[. Lithium and lithium compound](http://purl.org/pressemappe20/category/ware/i/143507 ) | PID13-Sp06 |   |  
+[. Livestock and other domestic animals](http://purl.org/pressemappe20/category/ware/i/144004 ) | PLW05-23 |   |  
+[. Loading and transport device](http://purl.org/pressemappe20/category/ware/i/143162 ) | PID08-Fo |   |  
+[. Locator, Geophysical](http://purl.org/pressemappe20/category/ware/i/143924 ) | PID10-Mt09 |   |  
+[. Locomobile](http://purl.org/pressemappe20/category/ware/i/143511 ) | PID08-Mo04 |   |  
+[. Locomotive and railcar](http://purl.org/pressemappe20/category/ware/i/143512 ) | PID09-Sf |   |  
+[. Logwood](http://purl.org/pressemappe20/category/ware/i/142132 ) | PID13-Fl01 |   |  
+[. Loofah](http://purl.org/pressemappe20/category/ware/i/143513 ) | PLW04-Tr06 |   |  
+[. Lubricant](http://purl.org/pressemappe20/category/ware/i/143845 ) | PID13.02-01 |   |  
+[. Lupine](http://purl.org/pressemappe20/category/ware/i/143520 ) | PLW04-Hu10 |   |  
+[. Luxury goods](http://purl.org/pressemappe20/category/ware/i/143522 ) | PID04-03 |   |  
+[. Machine and engine tester](http://purl.org/pressemappe20/category/ware/i/143548 ) | PID10-Mt06 |   |  
+[. Machine gun](http://purl.org/pressemappe20/category/ware/i/143546 ) | PID06-06 |   |  
+[. Mackerel](http://purl.org/pressemappe20/category/ware/i/143533 ) | PLW07-Mt10 |   |  
+[. Magnesium and magnesium compound](http://purl.org/pressemappe20/category/ware/i/143528 ) | PID07.01-Lm06 |   |  
+[. Magnet](http://purl.org/pressemappe20/category/ware/i/143527 ) | PID10-04 |   |  
+[. Mahogany](http://purl.org/pressemappe20/category/ware/i/143530 ) | PLW06-Hz16 |   |  
+[. Mango](http://purl.org/pressemappe20/category/ware/i/143536 ) | PLW04-Tr09 |   |  
+[. Mangrove bark](http://purl.org/pressemappe20/category/ware/i/143537 ) | PLW06-Fp19 |   |  
+[. Manila hemp](http://purl.org/pressemappe20/category/ware/i/143538 ) | PID19-Nf19 |   |  
+[. Manna-Manuit](http://purl.org/pressemappe20/category/ware/i/143540 ) | P00-06 |   |  
+[. Manometer](http://purl.org/pressemappe20/category/ware/i/143541 ) | PID10-Mt05 |   |  
+[. Mantle](http://purl.org/pressemappe20/category/ware/i/142874 ) | PID10-Lp02 |   |  
+[. Margarine](http://purl.org/pressemappe20/category/ware/i/143542 ) | PID20-Oe07 |   |  
+[. Mat](http://purl.org/pressemappe20/category/ware/i/143551 ) | PID04-Hh04 |   |  
+[. Match](http://purl.org/pressemappe20/category/ware/i/144082 ) | PID04-Hh07 |   |  
+[. Match machine](http://purl.org/pressemappe20/category/ware/i/144083 ) | PID08-Hz02 |   |  
+[. Mate](http://purl.org/pressemappe20/category/ware/i/143549 ) | PLW06-02 |   |  
+[. Material testing device (hardness, pressure and tension meter)](http://purl.org/pressemappe20/category/ware/i/143550 ) | PID10-Mt07 |   |  
+[. Mauritius hemp](http://purl.org/pressemappe20/category/ware/i/143555 ) | PID19-Nf20 |   |  
+[. Mazzoth](http://purl.org/pressemappe20/category/ware/i/143556 ) | PID20-Ba02 |   |  
+[. Measuring and testing apparatus for liquids](http://purl.org/pressemappe20/category/ware/i/143566 ) | PID10-Mt08 |   |  
+[. Measuring, testing and counting apparatus](http://purl.org/pressemappe20/category/ware/i/143565 ) | PID10-Mt |   |  
+[. Meat 1](http://purl.org/pressemappe20/category/ware/i/142470 ) | PLW05-Fl03 |   |  
+[. Meat 2](http://purl.org/pressemappe20/category/ware/i/142471 ) | PLW05-Fl04 |   |  
+[. Meat extract](http://purl.org/pressemappe20/category/ware/i/142472 ) | PLW05-05 |   |  
+[. Meat machine](http://purl.org/pressemappe20/category/ware/i/142473 ) | PID08-Nm03 |   |  
+[. Melon](http://purl.org/pressemappe20/category/ware/i/143561 ) | PLW04-Tr10 |   |  
+[. Message and Signaling Apparatus](http://purl.org/pressemappe20/category/ware/i/143598 ) | PID11 |   |  
+[. Metal bottle, barrel and drum](http://purl.org/pressemappe20/category/ware/i/143570 ) | PID07.00-05 |   |  
+[. Metal foil, capsule and tube](http://purl.org/pressemappe20/category/ware/i/143571 ) | PID07.00-03 |   |  
+[. Metal product](http://purl.org/pressemappe20/category/ware/i/143569 ) | PID07.00-02 |   |  
+[. Metal, precious](http://purl.org/pressemappe20/category/ware/i/143568 ) | PID07.01-Em |   |  
+[. Microscope](http://purl.org/pressemappe20/category/ware/i/143573 ) | PID12-Au02 |   |  
+[. Milk sugar](http://purl.org/pressemappe20/category/ware/i/143577 ) | PID13-Lm04 |   |  
+[. Mill and milling machine](http://purl.org/pressemappe20/category/ware/i/143591 ) | PID08-Nm05 |   |  
+[. Mitten crab](http://purl.org/pressemappe20/category/ware/i/144045 ) | PLW07-Mt17 |   |  
+[. Mohair](http://purl.org/pressemappe20/category/ware/i/143584 ) | PID19-Nf21 |   |  
+[. Moisture meter](http://purl.org/pressemappe20/category/ware/i/142325 ) | PID08-Ap10 |   |  
+[. Mother of pearl](http://purl.org/pressemappe20/category/ware/i/143728 ) | PID04-Sc06 |   |  
+[. Mower](http://purl.org/pressemappe20/category/ware/i/143525 ) | PID08-Ld09 |   |  
+[. Mulberry](http://purl.org/pressemappe20/category/ware/i/143552 ) | PLW06-03 |   |  
+[. Mulberry fiber](http://purl.org/pressemappe20/category/ware/i/143553 ) | PID19-Nf17 |   |  
+[. Mule](http://purl.org/pressemappe20/category/ware/i/143554 ) | PLW05-28 |   |  
+[. Muscle powered aircraft](http://purl.org/pressemappe20/category/ware/i/143595 ) | PID09.01-Lf05 |   |  
+[. Mushroom, edible](http://purl.org/pressemappe20/category/ware/i/143744 ) | PLW04-05 |   |  
+[. Musical instrument, electroacoustic](http://purl.org/pressemappe20/category/ware/i/143597 ) | PID04-Mu06 |   |  
+[. Musk](http://purl.org/pressemappe20/category/ware/i/143586 ) | PID13-Pf03 |   |  
+[. Muskrat](http://purl.org/pressemappe20/category/ware/i/142131 ) | PLW05-Hf02 |   |  
+[. Mustard](http://purl.org/pressemappe20/category/ware/i/143877 ) | PID20-Gw10 |   |  
+[. Nail](http://purl.org/pressemappe20/category/ware/i/143601 ) | PID07.03-05 |   |  
+[. Naphthalene](http://purl.org/pressemappe20/category/ware/i/143604 ) | PRB02.08-04 |   |  
+[. Nautical apparatus and instruments](http://purl.org/pressemappe20/category/ware/i/143606 ) | PID12-04 |   |  
+[. Needle](http://purl.org/pressemappe20/category/ware/i/143600 ) | PID07.03-04 |   |  
+[. Nettle](http://purl.org/pressemappe20/category/ware/i/142152 ) | PLW04-Kr04 |   |  
+[. New Zealand hemp](http://purl.org/pressemappe20/category/ware/i/143608 ) | PID19-Nf14 |   |  
+[. Nicotine](http://purl.org/pressemappe20/category/ware/i/143611 ) | PID04-Dr06 |   |  
+[. Niobium (columbium)](http://purl.org/pressemappe20/category/ware/i/143612 ) | PID07.01-08 |   |  
+[. Nitric acid](http://purl.org/pressemappe20/category/ware/i/143812 ) | PID13-Sc02 |   |  
+[. Nitrogen](http://purl.org/pressemappe20/category/ware/i/143912 ) | PID13-Ae02 |   |  
+[. Nitrophoska](http://purl.org/pressemappe20/category/ware/i/143613 ) | PID13-Du04 |   |  
+[. Noise, sound and tone meter](http://purl.org/pressemappe20/category/ware/i/142801 ) | PID10-Mt03 |   |  
+[. Nut and kernel](http://purl.org/pressemappe20/category/ware/i/143614 ) | PLW04-Nu |   |  
+[. Nutmeg](http://purl.org/pressemappe20/category/ware/i/143594 ) | PID20-Gw05 |   |  
+[. Nutria](http://purl.org/pressemappe20/category/ware/i/143616 ) | PLW05-10 |   |  
+[. Nylon Fiber (DuPont)](http://purl.org/pressemappe20/category/ware/i/143617 ) | PID19-Ku03 |   |  
+[. Oak wood](http://purl.org/pressemappe20/category/ware/i/142267 ) | PLW06-Hz07 |   |  
+[. Ocher](http://purl.org/pressemappe20/category/ware/i/143620 ) | PID13-Fl12 |   |  
+[. Office supplies](http://purl.org/pressemappe20/category/ware/i/142216 ) | PID04-Bm |   |  
+[. Oil Drill, Refining Machine](http://purl.org/pressemappe20/category/ware/i/142297 ) | PID08-Bg01 |   |  
+[. Oil and fat, animal](http://purl.org/pressemappe20/category/ware/i/143624 ) | PLW05-11 |   |  
+[. Oil and oil raw material, vegetable](http://purl.org/pressemappe20/category/ware/i/143623 ) | PLW04-Oe |   |  
+[. Oil cake](http://purl.org/pressemappe20/category/ware/i/143626 ) | PLW04-Oe03 |   |  
+[. Oil extraction machine](http://purl.org/pressemappe20/category/ware/i/143625 ) | PID08-Ld15 |   |  
+[. Oil shale and shale oil](http://purl.org/pressemappe20/category/ware/i/143627 ) | PRB02.06-Eo03 |   |  
+[. Oil, essential](http://purl.org/pressemappe20/category/ware/i/143621 ) | PID13-Ar |   |  
+[. Oiticica oil](http://purl.org/pressemappe20/category/ware/i/143628 ) | PID13-Fl13 |   |  
+[. Olive and olive oil](http://purl.org/pressemappe20/category/ware/i/143629 ) | PLW04-Oe02 |   |  
+[. Opal](http://purl.org/pressemappe20/category/ware/i/143630 ) | PID23-Ed02 |   |  
+[. Opium and poppy](http://purl.org/pressemappe20/category/ware/i/143631 ) | PID04-Dr07 |   |  
+[. Optical apparatus](http://purl.org/pressemappe20/category/ware/i/143632 ) | PID12-Au |   |  
+[. Orchid](http://purl.org/pressemappe20/category/ware/i/143633 ) | PLW04-Zp04 |   |  
+[. Organ](http://purl.org/pressemappe20/category/ware/i/143634 ) | PID04-Mu04 |   |  
+[. Osmium, Osmiridium and Iridium](http://purl.org/pressemappe20/category/ware/i/143635 ) | PID07.01-Pl01 |   |  
+[. Ostrich feather](http://purl.org/pressemappe20/category/ware/i/143918 ) | PLW05-18 |   |  
+[. Oxygen](http://purl.org/pressemappe20/category/ware/i/143826 ) | PID13-Ae01 |   |  
+[. Packaging, packaging material](http://purl.org/pressemappe20/category/ware/i/142287 ) | PID21-01 |   |  
+[. Paint](http://purl.org/pressemappe20/category/ware/i/142309 ) | PID13-Fl04 |   |  
+[. Paint, tar](http://purl.org/pressemappe20/category/ware/i/142312 ) | PID13-Fl07 |   |  
+[. Palladium](http://purl.org/pressemappe20/category/ware/i/143636 ) | PID07.01-Pl02 |   |  
+[. Palm oil and palm kernel](http://purl.org/pressemappe20/category/ware/i/143637 ) | PLW04-Oe05 |   |  
+[. Palm wine](http://purl.org/pressemappe20/category/ware/i/143638 ) | PID20.02-Sp03 |   |  
+[. Papaya fruit](http://purl.org/pressemappe20/category/ware/i/143641 ) | PLW04-Tr08 |   |  
+[. Paper containers (including sacks)](http://purl.org/pressemappe20/category/ware/i/143709 ) | PID21-Pp |   |  
+[. Paper yarn](http://purl.org/pressemappe20/category/ware/i/143710 ) | PID17-Sp03 |   |  
+[. Paprika](http://purl.org/pressemappe20/category/ware/i/143714 ) | PLW04-Gm11 |   |  
+[. Papyrus and Suddit](http://purl.org/pressemappe20/category/ware/i/143715 ) | PID17-Sp04 |   |  
+[. Parachute](http://purl.org/pressemappe20/category/ware/i/142308 ) | PID04-02 |   |  
+[. Paraffin](http://purl.org/pressemappe20/category/ware/i/143717 ) | PID13-Wa05 |   |  
+[. Parchment](http://purl.org/pressemappe20/category/ware/i/143726 ) | PID17-Sp05 |   |  
+[. Parrot](http://purl.org/pressemappe20/category/ware/i/143640 ) | PLW05-12 |   |  
+[. Pasta](http://purl.org/pressemappe20/category/ware/i/143952 ) | PID20-Nm02 |   |  
+[. Pasture](http://purl.org/pressemappe20/category/ware/i/144029 ) | PLW06-Hz22 |   |  
+[. Patchouli](http://purl.org/pressemappe20/category/ware/i/143719 ) | PLW04-Oe04 |   |  
+[. Pea](http://purl.org/pressemappe20/category/ware/i/142289 ) | PLW04-Hu03 |   |  
+[. Peach](http://purl.org/pressemappe20/category/ware/i/143733 ) | PLW04-Ob11 |   |  
+[. Pear](http://purl.org/pressemappe20/category/ware/i/142130 ) | PLW04-Ob03 |   |  
+[. Pearl](http://purl.org/pressemappe20/category/ware/i/143729 ) | PID04-Sc07 |   |  
+[. Peat machine](http://purl.org/pressemappe20/category/ware/i/143970 ) | PID08-Ld12 |   |  
+[. Pecan](http://purl.org/pressemappe20/category/ware/i/143720 ) | PLW04-Nu07 |   |  
+[. Pectin](http://purl.org/pressemappe20/category/ware/i/143721 ) | PID13-Lm03 |   |  
+[. Pen](http://purl.org/pressemappe20/category/ware/i/143852 ) | PID04-Bm04 |   |  
+[. Pencil](http://purl.org/pressemappe20/category/ware/i/142142 ) | PID04-Bm01 |   |  
+[. Penicillin](http://purl.org/pressemappe20/category/ware/i/143724 ) | PID13.01-Bi04 |   |  
+[. Pepper](http://purl.org/pressemappe20/category/ware/i/143730 ) | PID20-Gw06 |   |  
+[. Peppermint](http://purl.org/pressemappe20/category/ware/i/143731 ) | PLW04-Kr07 |   |  
+[. Perfume](http://purl.org/pressemappe20/category/ware/i/161312 ) | PID13-Pf |   |  
+[. Perilla seed and oil](http://purl.org/pressemappe20/category/ware/i/143727 ) | PLW04-Oe06 |   |  
+[. Pesticides](http://purl.org/pressemappe20/category/ware/i/143827 ) | PID13-Pe |   |  
+[. Petroleum 1](http://purl.org/pressemappe20/category/ware/i/142295 ) | PRB02.06-Eo01 |   |  
+[. Petroleum 2](http://purl.org/pressemappe20/category/ware/i/142296 ) | PRB02.06-Eo02 |   |  
+[. Phosgene](http://purl.org/pressemappe20/category/ware/i/143738 ) | PID13-Ae04 |   |  
+[. Phosphorus and phosphorus compound](http://purl.org/pressemappe20/category/ware/i/143740 ) | PID13-Sp08 |   |  
+[. Photo and cinema apparatus](http://purl.org/pressemappe20/category/ware/i/143742 ) | PID12-Fo |   |  
+[. Photographic article](http://purl.org/pressemappe20/category/ware/i/143741 ) | PID12-Fo03 |   |  
+[. Photographic paper](http://purl.org/pressemappe20/category/ware/i/143712 ) | PID17-Sp02 |   |  
+[. Piano](http://purl.org/pressemappe20/category/ware/i/143106 ) | PID04-Mu03 |   |  
+[. Piassava](http://purl.org/pressemappe20/category/ware/i/143743 ) | PID19-Nf12 |   |  
+[. Pimento](http://purl.org/pressemappe20/category/ware/i/143745 ) | PID20-Gw07 |   |  
+[. Pipe connection piece (flanges, sleeve, fitting)](http://purl.org/pressemappe20/category/ware/i/143785 ) | PID07.00-04 |   |  
+[. Plaice and other flatfish](http://purl.org/pressemappe20/category/ware/i/143850 ) | PLW07-Mt14 |   |  
+[. Plaiting material, plaiting goods](http://purl.org/pressemappe20/category/ware/i/142468 ) | PID16-Fl02 |   |  
+[. Planing machine, milling machine, grinding machine](http://purl.org/pressemappe20/category/ware/i/142957 ) | PID08-Hz01 |   |  
+[. Plant fiber](http://purl.org/pressemappe20/category/ware/i/166453 ) | PID19-Nf |   |  
+[. Plant, living](http://purl.org/pressemappe20/category/ware/i/143734 ) | PLW04-04 |   |  
+[. Plastering and cleaning machine (except street cleaning machine)](http://purl.org/pressemappe20/category/ware/i/143755 ) | PID08-Wz16 |   |  
+[. Platinum](http://purl.org/pressemappe20/category/ware/i/143746 ) | PID07.01-Pl |   |  
+[. Playing cards](http://purl.org/pressemappe20/category/ware/i/143895 ) | PID04-Sp02 |   |  
+[. Plow](http://purl.org/pressemappe20/category/ware/i/143737 ) | PID08-Ld06 |   |  
+[. Plum and damson](http://purl.org/pressemappe20/category/ware/i/143736 ) | PLW04-Ob12 |   |  
+[. Plywood](http://purl.org/pressemappe20/category/ware/i/143894 ) | PLW06-Hz23 |   |  
+[. Poison](http://purl.org/pressemappe20/category/ware/i/142850 ) | PID13.01-03 |   |  
+[. Poplar wood](http://purl.org/pressemappe20/category/ware/i/143713 ) | PLW06-Hz14 |   |  
+[. Porcelain](http://purl.org/pressemappe20/category/ware/i/143748 ) | PID23-Ke01 |   |  
+[. Pork, pork, bacon and lard](http://purl.org/pressemappe20/category/ware/i/143864 ) | PLW05-Sw |   |  
+[. Potassium](http://purl.org/pressemappe20/category/ware/i/143053 ) | PID13-Du03 |   |  
+[. Potato](http://purl.org/pressemappe20/category/ware/i/142290 ) | PLW04-Kf03 |   |  
+[. Potato cabbage](http://purl.org/pressemappe20/category/ware/i/143075 ) | PLW04-Kf04 |   |  
+[. Potato machine](http://purl.org/pressemappe20/category/ware/i/143074 ) | PID08-Ld05 |   |  
+[. Preservatives](http://purl.org/pressemappe20/category/ware/i/143131 ) | PID13-Pm |   |  
+[. Press](http://purl.org/pressemappe20/category/ware/i/143749 ) | PID08-Wz04 |   |  
+[. Printing machine, printing supplies](http://purl.org/pressemappe20/category/ware/i/142260 ) | PID08-Dr |   |  
+[. Propellant](http://purl.org/pressemappe20/category/ware/i/143985 ) | PRB02.05-Fg01 |   |  
+[. Prosopis juliflora](http://purl.org/pressemappe20/category/ware/i/143750 ) | PLW06-01 |   |  
+[. Protein](http://purl.org/pressemappe20/category/ware/i/142277 ) | PID20-02 |   |  
+[. Protein, fish](http://purl.org/pressemappe20/category/ware/i/142278 ) | PID20-03 |   |  
+[. Pulp](http://purl.org/pressemappe20/category/ware/i/142315 ) | PID19-Fa |   |  
+[. Pulque](http://purl.org/pressemappe20/category/ware/i/143751 ) | PID20.02-Sp06 |   |  
+[. Pumice and alluvium](http://purl.org/pressemappe20/category/ware/i/142129 ) | PID23-Na02 |   |  
+[. Pump (tank and fuel)](http://purl.org/pressemappe20/category/ware/i/143753 ) | PID08-Pp03 |   |  
+[. Pumpkin](http://purl.org/pressemappe20/category/ware/i/143145 ) | PLW04-Gm09 |   |  
+[. Puppet](http://purl.org/pressemappe20/category/ware/i/143754 ) | PID04-Sp01 |   |  
+[. Pyrethrum](http://purl.org/pressemappe20/category/ware/i/143757 ) | PID13-Pe02 |   |  
+[. Pyrites](http://purl.org/pressemappe20/category/ware/i/143860 ) | PID23-Mi13 |   |  
+[. Quebracho](http://purl.org/pressemappe20/category/ware/i/143758 ) | PLW06-Hz15 |   |  
+[. Quinoa](http://purl.org/pressemappe20/category/ware/i/143760 ) | PLW04-Gt05 |   |  
+[. Rabbit](http://purl.org/pressemappe20/category/ware/i/143063 ) | PLW05-07 |   |  
+[. Radio](http://purl.org/pressemappe20/category/ware/i/142487 ) | PID11-03 |   |  
+[. Radio transmitter](http://purl.org/pressemappe20/category/ware/i/142489 ) | PID11-04 |   |  
+[. Radio tube](http://purl.org/pressemappe20/category/ware/i/142488 ) | PID11-Eb01 |   |  
+[. Radium](http://purl.org/pressemappe20/category/ware/i/143761 ) | PID07.01-Se01 |   |  
+[. Raffia](http://purl.org/pressemappe20/category/ware/i/143765 ) | PID19-Nf16 |   |  
+[. Rags and textile waste](http://purl.org/pressemappe20/category/ware/i/143519 ) | PRB01-02 |   |  
+[. Rail](http://purl.org/pressemappe20/category/ware/i/143834 ) | PID09-Sf06 |   |  
+[. Railroad car](http://purl.org/pressemappe20/category/ware/i/142273 ) | PID09-Sf03 |   |  
+[. Railway and tram material](http://purl.org/pressemappe20/category/ware/i/142272 ) | PID09-Sf02 |   |  
+[. Railway brake](http://purl.org/pressemappe20/category/ware/i/142271 ) | PID09-Sf01 |   |  
+[. Ramie](http://purl.org/pressemappe20/category/ware/i/143764 ) | PID19-Nf15 |   |  
+[. Rattan](http://purl.org/pressemappe20/category/ware/i/143794 ) | PID16-Fl03 |   |  
+[. Razor and blade](http://purl.org/pressemappe20/category/ware/i/143767 ) | PID07.03-Sd02 |   |  
+[. Red lead](http://purl.org/pressemappe20/category/ware/i/143562 ) | PID13-Fl14 |   |  
+[. Redwood](http://purl.org/pressemappe20/category/ware/i/143795 ) | PLW06-Hz17 |   |  
+[. Reed and reed](http://purl.org/pressemappe20/category/ware/i/143839 ) | PLW04-Gr03 |   |  
+[. Refrigerant](http://purl.org/pressemappe20/category/ware/i/143009 ) | PID13.00-04 |   |  
+[. Refrigerator, refrigerator](http://purl.org/pressemappe20/category/ware/i/143008 ) | PID08-Kl |   |  
+[. Registration and control cash register](http://purl.org/pressemappe20/category/ware/i/143770 ) | PID12-Bu02 |   |  
+[. Remedy](http://purl.org/pressemappe20/category/ware/i/142942 ) | PID13.01 |   |  
+[. Reptile skin](http://purl.org/pressemappe20/category/ware/i/143776 ) | PLW05-Hf07 |   |  
+[. Rescue device](http://purl.org/pressemappe20/category/ware/i/143777 ) | PID07.03-Wz06 |   |  
+[. Resins and gums](http://purl.org/pressemappe20/category/ware/i/148696 ) | PID15 |   |  
+[. Rhenium and Masurium](http://purl.org/pressemappe20/category/ware/i/143780 ) | PID07.01-10 |   |  
+[. Rhubarb](http://purl.org/pressemappe20/category/ware/i/143778 ) | PLW04-Gm12 |   |  
+[. Rice machine](http://purl.org/pressemappe20/category/ware/i/143773 ) | PID08-Ld07 |   |  
+[. Road building and cleaning machine](http://purl.org/pressemappe20/category/ware/i/143917 ) | PID09.02-Nf02 |   |  
+[. Road building material](http://purl.org/pressemappe20/category/ware/i/143916 ) | PID23-03 |   |  
+[. Rocket motor](http://purl.org/pressemappe20/category/ware/i/143763 ) | PID08-Mo06 |   |  
+[. Roofing felt](http://purl.org/pressemappe20/category/ware/i/142240 ) | PID22-Bs01 |   |  
+[. Rope and rope goods](http://purl.org/pressemappe20/category/ware/i/143875 ) | PID19-Fa02 |   |  
+[. Rose](http://purl.org/pressemappe20/category/ware/i/143788 ) | PLW04-Zp05 |   |  
+[. Rose hip](http://purl.org/pressemappe20/category/ware/i/142920 ) | PLW04-Ob05 |   |  
+[. Rose oil](http://purl.org/pressemappe20/category/ware/i/143790 ) | PID13-Ar06 |   |  
+[. Rosewood oil](http://purl.org/pressemappe20/category/ware/i/143789 ) | PID13-Ar05 |   |  
+[. Rubber goods](http://purl.org/pressemappe20/category/ware/i/143096 ) | PID15-Ka |   |  
+[. Rubber heel, rubber sole](http://purl.org/pressemappe20/category/ware/i/143086 ) | PID15-Ka03 |   |  
+[. Rubber latex](http://purl.org/pressemappe20/category/ware/i/143090 ) | PID15-Ka01 |   |  
+[. Rubber processing device](http://purl.org/pressemappe20/category/ware/i/143087 ) | PID08-Wz14 |   |  
+[. Rubber regeneration](http://purl.org/pressemappe20/category/ware/i/143091 ) | PID15-Ka02 |   |  
+[. Rubber seed oil](http://purl.org/pressemappe20/category/ware/i/143094 ) | PLW04-Sg03 |   |  
+[. Rubber shoes](http://purl.org/pressemappe20/category/ware/i/142891 ) | PID18-Sh01 |   |  
+[. Rubber threads, elastic fabrics](http://purl.org/pressemappe20/category/ware/i/143088 ) | PID15-Ka04 |   |  
+[. Rubber tires](http://purl.org/pressemappe20/category/ware/i/143093 ) | PID15-Ka05 |   |  
+[. Rubber, synthetic](http://purl.org/pressemappe20/category/ware/i/143095 ) | PID14-01 |   |  
+[. Ruby](http://purl.org/pressemappe20/category/ware/i/143796 ) | PID23-Ed03 |   |  
+[. Rum](http://purl.org/pressemappe20/category/ware/i/143799 ) | PID20.02-Sp04 |   |  
+[. Rust inhibitor](http://purl.org/pressemappe20/category/ware/i/143793 ) | PID13-Fl10 |   |  
+[. Sable](http://purl.org/pressemappe20/category/ware/i/144076 ) | PLW05-27 |   |  
+[. Sack (except paper sack)](http://purl.org/pressemappe20/category/ware/i/143801 ) | PID21-06 |   |  
+[. Safe](http://purl.org/pressemappe20/category/ware/i/142794 ) | PID04-Si02 |   |  
+[. Saffron](http://purl.org/pressemappe20/category/ware/i/143803 ) | PID20-Gw08 |   |  
+[. Sago](http://purl.org/pressemappe20/category/ware/i/143804 ) | PID20-Nm01 |   |  
+[. Sake](http://purl.org/pressemappe20/category/ware/i/143807 ) | PID20.02-Sp07 |   |  
+[. Salad](http://purl.org/pressemappe20/category/ware/i/143808 ) | PLW04-Gm13 |   |  
+[. Salicyl](http://purl.org/pressemappe20/category/ware/i/143809 ) | PID13.01-06 |   |  
+[. Salmon](http://purl.org/pressemappe20/category/ware/i/143159 ) | PLW07-Mt09 |   |  
+[. Saltpeter](http://purl.org/pressemappe20/category/ware/i/143811 ) | PID13-Sa01 |   |  
+[. Salts](http://purl.org/pressemappe20/category/ware/i/146168 ) | PID13-Sa |   |  
+[. Salvarsan](http://purl.org/pressemappe20/category/ware/i/143813 ) | PID13.01-07 |   |  
+[. Sand, grand and gravel](http://purl.org/pressemappe20/category/ware/i/143816 ) | PID23-01 |   |  
+[. Sandalwood](http://purl.org/pressemappe20/category/ware/i/143817 ) | PLW06-Hz18 |   |  
+[. Sanitary item](http://purl.org/pressemappe20/category/ware/i/143818 ) | PID04-Md01 |   |  
+[. Sanseviera](http://purl.org/pressemappe20/category/ware/i/143819 ) | PLW04-Zp06 |   |  
+[. Sapomu](http://purl.org/pressemappe20/category/ware/i/143822 ) | P00-07 |   |  
+[. Sardine and canned sardines](http://purl.org/pressemappe20/category/ware/i/143824 ) | PLW07-Mt13 |   |  
+[. Scrap, ferrous and mixed](http://purl.org/pressemappe20/category/ware/i/143856 ) | PRB01-06 |   |  
+[. Screw, nut, rivet](http://purl.org/pressemappe20/category/ware/i/143851 ) | PID07.03-02 |   |  
+[. Scythe](http://purl.org/pressemappe20/category/ware/i/143879 ) | PID07.03-Sd03 |   |  
+[. Sea foam](http://purl.org/pressemappe20/category/ware/i/143557 ) | PRB02.08-02 |   |  
+[. Sealskin](http://purl.org/pressemappe20/category/ware/i/143783 ) | PLW05-Hf08 |   |  
+[. Seed and seeds](http://purl.org/pressemappe20/category/ware/i/143800 ) | PLW04-Sg |   |  
+[. Selenium](http://purl.org/pressemappe20/category/ware/i/143876 ) | PID07.01-Hm05 |   |  
+[. Senna leaf](http://purl.org/pressemappe20/category/ware/i/143878 ) | PID13.01-09 |   |  
+[. Sesame](http://purl.org/pressemappe20/category/ware/i/143880 ) | PLW04-Oe09 |   |  
+[. Shark](http://purl.org/pressemappe20/category/ware/i/142922 ) | PLW07-Mt04 |   |  
+[. Shell](http://purl.org/pressemappe20/category/ware/i/143593 ) | PLW07-Mt11 |   |  
+[. Shellac](http://purl.org/pressemappe20/category/ware/i/143832 ) | PID15-02 |   |  
+[. Ship engine](http://purl.org/pressemappe20/category/ware/i/143837 ) | PID08-Mo07 |   |  
+[. Shipbuilding material and ship parts (except ship engines)](http://purl.org/pressemappe20/category/ware/i/143836 ) | PID09.04-01 |   |  
+[. Shovel](http://purl.org/pressemappe20/category/ware/i/143830 ) | PID07.03-Wz07 |   |  
+[. Shredding and shredding machine](http://purl.org/pressemappe20/category/ware/i/144059 ) | PID08-Wz11 |   |  
+[. Silicon and silicon compound](http://purl.org/pressemappe20/category/ware/i/143883 ) | PID07.01-Hm06 |   |  
+[. Sisal hemp](http://purl.org/pressemappe20/category/ware/i/143885 ) | PID19-Nf22 |   |  
+[. Sisal machine](http://purl.org/pressemappe20/category/ware/i/143886 ) | PID08-Ld10 |   |  
+[. Skin, pig, pigskin](http://purl.org/pressemappe20/category/ware/i/142911 ) | PLW05-Hf05 |   |  
+[. Skinophane](http://purl.org/pressemappe20/category/ware/i/143887 ) | P00-08 |   |  
+[. Slag](http://purl.org/pressemappe20/category/ware/i/143841 ) | PRB01-05 |   |  
+[. Slug](http://purl.org/pressemappe20/category/ware/i/143847 ) | PLW05-21 |   |  
+[. Smoking paraphernalia](http://purl.org/pressemappe20/category/ware/i/143768 ) | PID04-Fz01 |   |  
+[. Snake venom serum](http://purl.org/pressemappe20/category/ware/i/143842 ) | PID13.01-Bi05 |   |  
+[. Snowshoe](http://purl.org/pressemappe20/category/ware/i/143848 ) | PID18-Sh03 |   |  
+[. Soap](http://purl.org/pressemappe20/category/ware/i/143872 ) | PID13-Kp03 |   |  
+[. Soap, toilet](http://purl.org/pressemappe20/category/ware/i/143871 ) | PID13-Kp02 |   |  
+[. Sodium Sulfur](http://purl.org/pressemappe20/category/ware/i/143862 ) | PID13-Pm03 |   |  
+[. Sodium and sodium compound](http://purl.org/pressemappe20/category/ware/i/143605 ) | PID13-Sp07 |   |  
+[. Solar engine](http://purl.org/pressemappe20/category/ware/i/143892 ) | PID08-Mo08 |   |  
+[. Solder and solder](http://purl.org/pressemappe20/category/ware/i/143510 ) | PID07.01-06 |   |  
+[. Solvents (except soap)](http://purl.org/pressemappe20/category/ware/i/143509 ) | PID13-Ko |   |  
+[. Speaker](http://purl.org/pressemappe20/category/ware/i/143165 ) | PID11-Eb02 |   |  
+[. Speedometer](http://purl.org/pressemappe20/category/ware/i/143937 ) | PID10-Mt10 |   |  
+[. Spinach](http://purl.org/pressemappe20/category/ware/i/143898 ) | PLW04-Gm16 |   |  
+[. Sponge](http://purl.org/pressemappe20/category/ware/i/143858 ) | PLW07-Mt15 |   |  
+[. Sprat](http://purl.org/pressemappe20/category/ware/i/143902 ) | PLW07-Mt16 |   |  
+[. Spray gun](http://purl.org/pressemappe20/category/ware/i/143901 ) | PID08-Pp04 |   |  
+[. Spring, metal](http://purl.org/pressemappe20/category/ware/i/142317 ) | PID07.03-09 |   |  
+[. Spruce Oil, Pine Oil](http://purl.org/pressemappe20/category/ware/i/142329 ) | PID13-Ar02 |   |  
+[. Stamp](http://purl.org/pressemappe20/category/ware/i/142154 ) | PVK04.02 |   |  
+[. Standards Committee for the Graphic Industry (DIN)](http://purl.org/pressemappe20/category/ware/i/143618 ) | P00-01 |   |  
+[. Standards committee of the German industry DIN and RAL](http://purl.org/pressemappe20/category/ware/i/143619 ) | P00-02 |   |  
+[. Steam engine](http://purl.org/pressemappe20/category/ware/i/142242 ) | PID08-Mo01 |   |  
+[. Stearin](http://purl.org/pressemappe20/category/ware/i/143907 ) | PID13-Wa07 |   |  
+[. Steel, stainless](http://purl.org/pressemappe20/category/ware/i/143905 ) | PID07.02-02 |   |  
+[. Stockings, socks](http://purl.org/pressemappe20/category/ware/i/143923 ) | PID19-Bk02 |   |  
+[. Stones and earth](http://purl.org/pressemappe20/category/ware/i/143911 ) | PID23-02 |   |  
+[. Straw and straw products (except animal feed)](http://purl.org/pressemappe20/category/ware/i/143920 ) | PLW04-Gt07 |   |  
+[. Strawberry](http://purl.org/pressemappe20/category/ware/i/142291 ) | PLW04-Ob04 |   |  
+[. Strength](http://purl.org/pressemappe20/category/ware/i/143904 ) | PID20-Nm05 |   |  
+[. String](http://purl.org/pressemappe20/category/ware/i/143805 ) | PID04-Mu05 |   |  
+[. Strontium and strontium compounds](http://purl.org/pressemappe20/category/ware/i/143922 ) | PID23-Sp |   |  
+[. Sugar machine](http://purl.org/pressemappe20/category/ware/i/144079 ) | PID08-Ld13 |   |  
+[. Sugar, maple](http://purl.org/pressemappe20/category/ware/i/144078 ) | PID20-Zk03 |   |  
+[. Suitcase](http://purl.org/pressemappe20/category/ware/i/143118 ) | PID18-02 |   |  
+[. Sulfone drugs](http://purl.org/pressemappe20/category/ware/i/143931 ) | PID13.01-08 |   |  
+[. Sulfur and sulfur compound](http://purl.org/pressemappe20/category/ware/i/143859 ) | PID23-Mi12 |   |  
+[. Sumac](http://purl.org/pressemappe20/category/ware/i/143932 ) | PLW06-Fp21 |   |  
+[. Sunflower](http://purl.org/pressemappe20/category/ware/i/143891 ) | PLW04-Oe11 |   |  
+[. Superphosphate](http://purl.org/pressemappe20/category/ware/i/143933 ) | PID13-Du06 |   |  
+[. Surveying device](http://purl.org/pressemappe20/category/ware/i/144002 ) | PID10-Mt12 |   |  
+[. SweetenerXX](http://purl.org/pressemappe20/category/ware/i/143927 ) | PID20-Zk02 |   |  
+[. Switch and contact, electrical](http://purl.org/pressemappe20/category/ware/i/143829 ) | PID10-06 |   |  
+[. Synthetic fiber](http://purl.org/pressemappe20/category/ware/i/143149 ) | PID19-Ku |   |  
+[. Tallow](http://purl.org/pressemappe20/category/ware/i/143938 ) | PID20-Oe08 |   |  
+[. Tamarind](http://purl.org/pressemappe20/category/ware/i/143940 ) | PLW04-Tr11 |   |  
+[. Tank wood](http://purl.org/pressemappe20/category/ware/i/143941 ) | PLW06-Hz20 |   |  
+[. Tannin](http://purl.org/pressemappe20/category/ware/i/142803 ) | PID13-Pm01 |   |  
+[. Tantalum](http://purl.org/pressemappe20/category/ware/i/143942 ) | PID07.01-14 |   |  
+[. Tar](http://purl.org/pressemappe20/category/ware/i/143951 ) | PRB02.08-Eo04 |   |  
+[. Tartar and tartaric acid](http://purl.org/pressemappe20/category/ware/i/144032 ) | PID13-Lm05 |   |  
+[. Taximeter](http://purl.org/pressemappe20/category/ware/i/143945 ) | PID10-Mt11 |   |  
+[. Tea oil](http://purl.org/pressemappe20/category/ware/i/143950 ) | PLW04-Sg05 |   |  
+[. Teach](http://purl.org/pressemappe20/category/ware/i/143171 ) | PID07.03-Wz05 |   |  
+[. Teaching aids](http://purl.org/pressemappe20/category/ware/i/143501 ) | PID04-Lm |   |  
+[. Teak wood](http://purl.org/pressemappe20/category/ware/i/143946 ) | PLW06-Hz19 |   |  
+[. Technical supplies (medical and dental supplies)](http://purl.org/pressemappe20/category/ware/i/143947 ) | PID04-Md |   |  
+[. Telegraph and telephone apparatus](http://purl.org/pressemappe20/category/ware/i/143953 ) | PID11-05 |   |  
+[. Telegraph, TV](http://purl.org/pressemappe20/category/ware/i/142127 ) | PID11-01 |   |  
+[. Telex](http://purl.org/pressemappe20/category/ware/i/142323 ) | PID11-02 |   |  
+[. Tellurium](http://purl.org/pressemappe20/category/ware/i/143954 ) | PID07.01-Hm07 |   |  
+[. Thermometer](http://purl.org/pressemappe20/category/ware/i/143957 ) | PID08-Ap08 |   |  
+[. Thermos bottle and other hot water bottles](http://purl.org/pressemappe20/category/ware/i/143958 ) | PID04-Hh05 |   |  
+[. Thomas flour](http://purl.org/pressemappe20/category/ware/i/143959 ) | PID13-Du07 |   |  
+[. Thorium and Compounds](http://purl.org/pressemappe20/category/ware/i/143960 ) | PID07.01-15 |   |  
+[. Thresher](http://purl.org/pressemappe20/category/ware/i/142258 ) | PID08-Ld04 |   |  
+[. Threshold](http://purl.org/pressemappe20/category/ware/i/143867 ) | PID09-Sf05 |   |  
+[. Tin packaging](http://purl.org/pressemappe20/category/ware/i/142136 ) | PID21-Me01 |   |  
+[. Tinplate](http://purl.org/pressemappe20/category/ware/i/144034 ) | PID07.02-03 |   |  
+[. Titanium and titanium compounds](http://purl.org/pressemappe20/category/ware/i/143965 ) | PID07.01-Lm05 |   |  
+[. Tobacco Seed Oil](http://purl.org/pressemappe20/category/ware/i/143936 ) | PLW04-Sg04 |   |  
+[. Tobacco machine](http://purl.org/pressemappe20/category/ware/i/143935 ) | PID08-Ld11 |   |  
+[. Tortoise](http://purl.org/pressemappe20/category/ware/i/143838 ) | PLW05-17 |   |  
+[. Toy](http://purl.org/pressemappe20/category/ware/i/143897 ) | PID04-Sp |   |  
+[. Traffic controller](http://purl.org/pressemappe20/category/ware/i/144001 ) | PID08-Au01 |   |  
+[. Tram car](http://purl.org/pressemappe20/category/ware/i/143915 ) | PID09-Sf04 |   |  
+[. Transformer](http://purl.org/pressemappe20/category/ware/i/143982 ) | PID10-07 |   |  
+[. Transmission (transmission and clutch)](http://purl.org/pressemappe20/category/ware/i/143983 ) | PID08-Mo09 |   |  
+[. Trout](http://purl.org/pressemappe20/category/ware/i/142478 ) | PLW07-Sw01 |   |  
+[. Tube, not metal](http://purl.org/pressemappe20/category/ware/i/143784 ) | PID23-Tk01 |   |  
+[. Tuff](http://purl.org/pressemappe20/category/ware/i/143992 ) | PID23-Na07 |   |  
+[. Tuna](http://purl.org/pressemappe20/category/ware/i/143961 ) | PLW07-Mt18 |   |  
+[. Turbine](http://purl.org/pressemappe20/category/ware/i/143993 ) | PID08-02 |   |  
+[. Turkey](http://purl.org/pressemappe20/category/ware/i/143991 ) | PLW05-Gf02 |   |  
+[. Turnip](http://purl.org/pressemappe20/category/ware/i/143797 ) | PLW04-Gm19 |   |  
+[. Turpentine](http://purl.org/pressemappe20/category/ware/i/143955 ) | PID13-Ko06 |   |  
+[. Type foundry machine and printer type](http://purl.org/pressemappe20/category/ware/i/143855 ) | PID08-Dr02 |   |  
+[. Typesetting machine](http://purl.org/pressemappe20/category/ware/i/143881 ) | PID08-Dr01 |   |  
+[. Typewriter](http://purl.org/pressemappe20/category/ware/i/143853 ) | PID12-Bu03 |   |  
+[. Ultramarine](http://purl.org/pressemappe20/category/ware/i/143995 ) | PID13-Fl16 |   |  
+[. Umbrella and stick](http://purl.org/pressemappe20/category/ware/i/143840 ) | PID19-Bz04 |   |  
+[. Urena fiber](http://purl.org/pressemappe20/category/ware/i/143996 ) | PID19-Ju01 |   |  
+[. Vaccine](http://purl.org/pressemappe20/category/ware/i/142984 ) | PID13.01-Bi02 |   |  
+[. Valonea](http://purl.org/pressemappe20/category/ware/i/143997 ) | PLW06-Fp23 |   |  
+[. Vanadium](http://purl.org/pressemappe20/category/ware/i/143998 ) | PID07.01-16 |   |  
+[. Vegetable wax](http://purl.org/pressemappe20/category/ware/i/143735 ) | PID13-Wa06 |   |  
+[. Venison](http://purl.org/pressemappe20/category/ware/i/144039 ) | PLW05-Fl05 |   |  
+[. Vinegar, acetic acid](http://purl.org/pressemappe20/category/ware/i/142301 ) | PID13-Sc00 |   |  
+[. Violin](http://purl.org/pressemappe20/category/ware/i/142792 ) | PID04-Mu01 |   |  
+[. Viscose staple](http://purl.org/pressemappe20/category/ware/i/144056 ) | PLW04-Bw03 |   |  
+[. Vitamin](http://purl.org/pressemappe20/category/ware/i/144005 ) | PID13.01-Bi06 |   |  
+[. Vulcanized fiber](http://purl.org/pressemappe20/category/ware/i/144008 ) | PID17-Sp06 |   |  
+[. Walnut](http://purl.org/pressemappe20/category/ware/i/144021 ) | PLW04-Nu09 |   |  
+[. Walnut wood](http://purl.org/pressemappe20/category/ware/i/143615 ) | PLW06-Hz13 |   |  
+[. Waste paper](http://purl.org/pressemappe20/category/ware/i/143708 ) | PRB01-04 |   |  
+[. Water glass](http://purl.org/pressemappe20/category/ware/i/144023 ) | PID04-Hh06 |   |  
+[. Water meter](http://purl.org/pressemappe20/category/ware/i/144024 ) | PID08-Ap09 |   |  
+[. Weapon and ammunition](http://purl.org/pressemappe20/category/ware/i/144013 ) | PID07.03-Wa |   |  
+[. Weapon, handgun](http://purl.org/pressemappe20/category/ware/i/144014 ) | PID07.03-Wa01 |   |  
+[. Weapon, hunting](http://purl.org/pressemappe20/category/ware/i/144015 ) | PID07.03-Wa02 |   |  
+[. Weaver thistle](http://purl.org/pressemappe20/category/ware/i/144027 ) | PLW04-Tr12 |   |  
+[. Welding, soldering and riveting apparatus and machine](http://purl.org/pressemappe20/category/ware/i/143866 ) | PID08-Wz08 |   |  
+[. Whale 1](http://purl.org/pressemappe20/category/ware/i/144016 ) | PLW07-Wa01 |   |  
+[. Whale 2](http://purl.org/pressemappe20/category/ware/i/144017 ) | PLW07-Wa02 |   |  
+[. Whale II](http://purl.org/pressemappe20/category/ware/i/144018 ) | PLW07-Wa03 |   |  
+[. Whiskey](http://purl.org/pressemappe20/category/ware/i/144037 ) | PID20.02-Sp05 |   |  
+[. Wicker](http://purl.org/pressemappe20/category/ware/i/143134 ) | PID16-Fl |   |  
+[. Wind motor](http://purl.org/pressemappe20/category/ware/i/144040 ) | PID08-Mo11 |   |  
+[. Window door](http://purl.org/pressemappe20/category/ware/i/142322 ) | PID22-Bf02 |   |  
+[. Wire machine](http://purl.org/pressemappe20/category/ware/i/142255 ) | PID08-Wz13 |   |  
+[. Wire rope](http://purl.org/pressemappe20/category/ware/i/142256 ) | PID07.03-03 |   |  
+[. Wood flour](http://purl.org/pressemappe20/category/ware/i/142967 ) | PID16-01 |   |  
+[. Wood oil](http://purl.org/pressemappe20/category/ware/i/142972 ) | PID13-Fl09 |   |  
+[. Wood wool](http://purl.org/pressemappe20/category/ware/i/142970 ) | PID16-02 |   |  
+[. Wool 1](http://purl.org/pressemappe20/category/ware/i/144043 ) | PLW05-Wo02 |   |  
+[. Wool 2](http://purl.org/pressemappe20/category/ware/i/144044 ) | PLW05-Wo03 |   |  
+[. Wormseed](http://purl.org/pressemappe20/category/ware/i/144046 ) | PLW04-Oe12 |   |  
+[. Woven goods](http://purl.org/pressemappe20/category/ware/i/144028 ) | PID19-Ma04 |   |  
+[. Writing, drawing and painting utensils](http://purl.org/pressemappe20/category/ware/i/143854 ) | PID04-04 |   |  
+[. X-ray and electrical healing apparatus](http://purl.org/pressemappe20/category/ware/i/143786 ) | PID08-Ap05 |   |  
+[. Yamo and Taro](http://purl.org/pressemappe20/category/ware/i/144047 ) | PLW04-Tr07 |   |  
+[. Yarn, twine](http://purl.org/pressemappe20/category/ware/i/142757 ) | PID19-Fa01 |   |  
+[. Ylang Ylang](http://purl.org/pressemappe20/category/ware/i/144048 ) | PLW04-Oe13 |   |  
+[. Zacaton](http://purl.org/pressemappe20/category/ware/i/144049 ) | PID19-Nf24 |   |  
+[. Zapupe fiber](http://purl.org/pressemappe20/category/ware/i/144050 ) | PID19-Nf23 |   |  
+[. Zebu](http://purl.org/pressemappe20/category/ware/i/144051 ) | PLW05-Rd02 |   |  
+[. Zinc paint](http://purl.org/pressemappe20/category/ware/i/144070 ) | PID13-Fl17 |   |  
+[. Zipper](http://purl.org/pressemappe20/category/ware/i/143774 ) | PID19-Bz03 |   |  
+[. Zirconium and zirconium compounds](http://purl.org/pressemappe20/category/ware/i/144072 ) | PID23-Mi15 |   |  
+[Absinth](http://purl.org/pressemappe20/category/ware/i/141943 ) | PID20.02-Sp01 |   | [13](https://pm20.zbw.eu/category/ware/i/141943 )
+[Acacia bark](http://purl.org/pressemappe20/category/ware/i/141950 ) | PLW06-Fp01 |   | [14](https://pm20.zbw.eu/category/ware/i/141950 )
+[Acetone](http://purl.org/pressemappe20/category/ware/i/142022 ) | PID13-Ko03 |   | [18](https://pm20.zbw.eu/category/ware/i/142022 )
+[Activated carbon](http://purl.org/pressemappe20/category/ware/i/141952 ) | PID13-Rm01 |   | [11](https://pm20.zbw.eu/category/ware/i/141952 )
+[Aether](http://purl.org/pressemappe20/category/ware/i/141945 ) | PID13-Ko01 |   | [20](https://pm20.zbw.eu/category/ware/i/141945 )
+[Agate](http://purl.org/pressemappe20/category/ware/i/141944 ) | PID23-Ed01 |   | [4](https://pm20.zbw.eu/category/ware/i/141944 )
+[Agricultural Crops](http://purl.org/pressemappe20/category/ware/i/148261 ) | PLW04 |   |  
+[Aircraft](http://purl.org/pressemappe20/category/ware/i/143516 ) | PID09.01 |   |  
+[Alabaster](http://purl.org/pressemappe20/category/ware/i/141953 ) | PID23-Gi01 |   | [5](https://pm20.zbw.eu/category/ware/i/141953 )
+[Alaun](http://purl.org/pressemappe20/category/ware/i/141956 ) | PID13-Pm02 |   | [18](https://pm20.zbw.eu/category/ware/i/141956 )
+[Alcohol](http://purl.org/pressemappe20/category/ware/i/163481 ) | PID13-Ko02 |   | [33](https://pm20.zbw.eu/category/ware/i/163481 )
+[Alcoholic beverage](http://purl.org/pressemappe20/category/ware/i/141966 ) | PID20.02-Sp |   | [168](https://pm20.zbw.eu/category/ware/i/141966 )
+[Algae and seaweed](http://purl.org/pressemappe20/category/ware/i/141959 ) | PLW07-Mp01 |   | [30](https://pm20.zbw.eu/category/ware/i/141959 )
+[Aloe](http://purl.org/pressemappe20/category/ware/i/141967 ) | PLW04-Kr01 |   | [7](https://pm20.zbw.eu/category/ware/i/141967 )
+[Aluminium](http://purl.org/pressemappe20/category/ware/i/141969 ) | PID07.01-Lm01 |   | [94](https://pm20.zbw.eu/category/ware/i/141969 )
+[Amber](http://purl.org/pressemappe20/category/ware/i/142111 ) | PID04-Sc01 |   | [22](https://pm20.zbw.eu/category/ware/i/142111 )
+[Ammonia](http://purl.org/pressemappe20/category/ware/i/165930 ) | PID13-Du01 |   | [44](https://pm20.zbw.eu/category/ware/i/165930 )
+[Angora rabbit wool](http://purl.org/pressemappe20/category/ware/i/141972 ) | PLW05-Wo01 |   | [16](https://pm20.zbw.eu/category/ware/i/141972 )
+[Animal Products](http://purl.org/pressemappe20/category/ware/i/148333 ) | PLW05 |   |  
+[Animal feed](http://purl.org/pressemappe20/category/ware/i/142491 ) | PID20-Ft |   |  
+[Anise](http://purl.org/pressemappe20/category/ware/i/141976 ) | PID20-Gw01 |   | [10](https://pm20.zbw.eu/category/ware/i/141976 )
+[Antimony](http://purl.org/pressemappe20/category/ware/i/141977 ) | PID07.01-Hm01 |   | [38](https://pm20.zbw.eu/category/ware/i/141977 )
+[Apple](http://purl.org/pressemappe20/category/ware/i/141980 ) | PLW04-Ob01 |   | [55](https://pm20.zbw.eu/category/ware/i/141980 )
+[Appliances and instruments](http://purl.org/pressemappe20/category/ware/i/141985 ) | PID08-Ap |   | [42](https://pm20.zbw.eu/category/ware/i/141985 )
+[Apricot](http://purl.org/pressemappe20/category/ware/i/142001 ) | PLW04-Zs02 |   | [24](https://pm20.zbw.eu/category/ware/i/142001 )
+[Araucaria](http://purl.org/pressemappe20/category/ware/i/142002 ) | PLW06-Hz01 |   | [4](https://pm20.zbw.eu/category/ware/i/142002 )
+[Armaments](http://purl.org/pressemappe20/category/ware/i/148952 ) | PID06 |   |  
+[Arrowroot](http://purl.org/pressemappe20/category/ware/i/142005 ) | PLW04-Kf01 |   | [12](https://pm20.zbw.eu/category/ware/i/142005 )
+[Arsenic](http://purl.org/pressemappe20/category/ware/i/142006 ) | PID07.01-Hm02 |   | [35](https://pm20.zbw.eu/category/ware/i/142006 )
+[Artichokes](http://purl.org/pressemappe20/category/ware/i/142012 ) | PLW04-Gm01 |   | [8](https://pm20.zbw.eu/category/ware/i/142012 )
+[Artificial flower](http://purl.org/pressemappe20/category/ware/i/142144 ) | PID04-Sc03 |   |  
+[Asbestos](http://purl.org/pressemappe20/category/ware/i/142014 ) | PID23-As |   | [62](https://pm20.zbw.eu/category/ware/i/142014 )
+[Asphalt](http://purl.org/pressemappe20/category/ware/i/142016 ) | PID22-Bd01 |   | [60](https://pm20.zbw.eu/category/ware/i/142016 )
+[Avocate pear](http://purl.org/pressemappe20/category/ware/i/142021 ) | PLW04-Ob02 |   | [14](https://pm20.zbw.eu/category/ware/i/142021 )
+[Axe, hatchet, hammer](http://purl.org/pressemappe20/category/ware/i/141947 ) | PID07.03-Wz01 |   | [13](https://pm20.zbw.eu/category/ware/i/141947 )
+[Babassu nut](http://purl.org/pressemappe20/category/ware/i/142023 ) | PLW04-Nu01 |   | [6](https://pm20.zbw.eu/category/ware/i/142023 )
+[Bakelit](http://purl.org/pressemappe20/category/ware/i/142029 ) | PID14-Ha01 |   | [25](https://pm20.zbw.eu/category/ware/i/142029 )
+[Bakery machine](http://purl.org/pressemappe20/category/ware/i/142027 ) | PID08-Nm01 |   | [16](https://pm20.zbw.eu/category/ware/i/142027 )
+[Bakery product](http://purl.org/pressemappe20/category/ware/i/142026 ) | PID20-Ba |   | [63](https://pm20.zbw.eu/category/ware/i/142026 )
+[Baking powder](http://purl.org/pressemappe20/category/ware/i/142024 ) | PID13-Lm01 |   | [14](https://pm20.zbw.eu/category/ware/i/142024 )
+[Balm](http://purl.org/pressemappe20/category/ware/i/142032 ) | PLW06-Fp02 |   | [12](https://pm20.zbw.eu/category/ware/i/142032 )
+[Balsa wood](http://purl.org/pressemappe20/category/ware/i/142033 ) | PLW06-Hz02 |   | [12](https://pm20.zbw.eu/category/ware/i/142033 )
+[Bamboo](http://purl.org/pressemappe20/category/ware/i/142035 ) | PLW04-Gr02 |   | [35](https://pm20.zbw.eu/category/ware/i/142035 )
+[Banana](http://purl.org/pressemappe20/category/ware/i/142038 ) | PLW04-Bn |   | [103](https://pm20.zbw.eu/category/ware/i/142038 )
+[Barium](http://purl.org/pressemappe20/category/ware/i/142042 ) | PID07.01-Lm02 |   | [29](https://pm20.zbw.eu/category/ware/i/142042 )
+[Barley](http://purl.org/pressemappe20/category/ware/i/142838 ) | PLW04-Gt02 |   |  
+[Barometer](http://purl.org/pressemappe20/category/ware/i/142039 ) | PID08-Ap01 |   | [7](https://pm20.zbw.eu/category/ware/i/142039 )
+[Barosma](http://purl.org/pressemappe20/category/ware/i/142041 ) | PLW04-Kr03 |   | [2](https://pm20.zbw.eu/category/ware/i/142041 )
+[Basalt](http://purl.org/pressemappe20/category/ware/i/142046 ) | PID23-Na01 |   | [8](https://pm20.zbw.eu/category/ware/i/142046 )
+[Bast](http://purl.org/pressemappe20/category/ware/i/142048 ) | PID19-Nf01 |   | [5](https://pm20.zbw.eu/category/ware/i/142048 )
+[Batata](http://purl.org/pressemappe20/category/ware/i/142049 ) | PLW04-Kf02 |   | [21](https://pm20.zbw.eu/category/ware/i/142049 )
+[Beer](http://purl.org/pressemappe20/category/ware/i/142124 ) | PID20.02-Br |   |  
+[Bentonite](http://purl.org/pressemappe20/category/ware/i/142107 ) | PID13-Dr02 |   | [6](https://pm20.zbw.eu/category/ware/i/142107 )
+[Benzene](http://purl.org/pressemappe20/category/ware/i/142110 ) | PID13-Ko04 |   | [34](https://pm20.zbw.eu/category/ware/i/142110 )
+[Benzoin](http://purl.org/pressemappe20/category/ware/i/142109 ) | PLW06-Fp03 |   | [1](https://pm20.zbw.eu/category/ware/i/142109 )
+[Beryllium](http://purl.org/pressemappe20/category/ware/i/142103 ) | PID07.01-Lm03 |   | [20](https://pm20.zbw.eu/category/ware/i/142103 )
+[Beverage](http://purl.org/pressemappe20/category/ware/i/142844 ) | PID20.02 |   |  
+[Bicycle](http://purl.org/pressemappe20/category/ware/i/142305 ) | PID09-01 |   |  
+[Book](http://purl.org/pressemappe20/category/ware/i/142214 ) | PID04-01 |   |  
+[Bread](http://purl.org/pressemappe20/category/ware/i/142203 ) | PID20-Ba01 |   |  
+[Building and insulating panels](http://purl.org/pressemappe20/category/ware/i/142083 ) | PID22-Bf01 |   | [38](https://pm20.zbw.eu/category/ware/i/142083 )
+[Building material](http://purl.org/pressemappe20/category/ware/i/142086 ) | PID22-Bs |   | [87](https://pm20.zbw.eu/category/ware/i/142086 )
+[Cabbage](http://purl.org/pressemappe20/category/ware/i/143119 ) | PLW04-Gm08 |   | [25](https://pm20.zbw.eu/category/ware/i/143119 )
+[Cable and wire](http://purl.org/pressemappe20/category/ware/i/143005 ) | PID10-Kd |   |  
+[Canned fish](http://purl.org/pressemappe20/category/ware/i/142464 ) | PLW07-Fk |   |  
+[Carbon (soot)](http://purl.org/pressemappe20/category/ware/i/143123 ) | PRB02.01-Ru |   | [23](https://pm20.zbw.eu/category/ware/i/143123 )
+[Carbonic acid](http://purl.org/pressemappe20/category/ware/i/143122 ) | PID13-Sc06 |   | [32](https://pm20.zbw.eu/category/ware/i/143122 )
+[Card file](http://purl.org/pressemappe20/category/ware/i/143073 ) | PID04-Bm03 |   |  
+[Cardboard, Paper, and Paper Products](http://purl.org/pressemappe20/category/ware/i/148709 ) | PID17 |   |  
+[Cashew nut](http://purl.org/pressemappe20/category/ware/i/143079 ) | PLW04-Nu04 |   |  
+[Cassava](http://purl.org/pressemappe20/category/ware/i/143539 ) | PLW04-Tr15 |   |  
+[Cement](http://purl.org/pressemappe20/category/ware/i/144057 ) | PID23-Bt02 |   |  
+[Charcoal](http://purl.org/pressemappe20/category/ware/i/142964 ) | PEW01.04-01 |   | [1](https://pm20.zbw.eu/category/ware/i/142964 )
+[Chaulmoogra](http://purl.org/pressemappe20/category/ware/i/142224 ) | PLW06-Fp05 |   |  
+[Cheese](http://purl.org/pressemappe20/category/ware/i/143038 ) | PID20-Mp01 |   |  
+[Chemical warfare agent](http://purl.org/pressemappe20/category/ware/i/143060 ) | PID06-03 |   |  
+[Chlorine](http://purl.org/pressemappe20/category/ware/i/142227 ) | PID13-Ae14 |   |  
+[Chromium](http://purl.org/pressemappe20/category/ware/i/142229 ) | PID07.01-01 |   |  
+[Cigarette](http://purl.org/pressemappe20/category/ware/i/144066 ) | PID20.01-Zt |   |  
+[Citrus fruits](http://purl.org/pressemappe20/category/ware/i/141948 ) | PLW04-Zs |   | [70](https://pm20.zbw.eu/category/ware/i/141948 )
+[Clock](http://purl.org/pressemappe20/category/ware/i/143994 ) | PID12-Ur |   |  
+[Clothing](http://purl.org/pressemappe20/category/ware/i/142106 ) | PID19-Bk |   | [97](https://pm20.zbw.eu/category/ware/i/142106 )
+[Clothing industry, branches and accessories](http://purl.org/pressemappe20/category/ware/i/166456 ) | PID19-Bz |   | [26](https://pm20.zbw.eu/category/ware/i/166456 )
+[Clover](http://purl.org/pressemappe20/category/ware/i/143109 ) | PLW04-Hu08 |   |  
+[Coal](http://purl.org/pressemappe20/category/ware/i/143120 ) | PRB02.01 |   | [159](https://pm20.zbw.eu/category/ware/i/143120 )
+[Coal dust](http://purl.org/pressemappe20/category/ware/i/218756 ) | PRB02.01-St |   | [10](https://pm20.zbw.eu/category/ware/i/218756 )
+[Coal machines (mining and processing)](http://purl.org/pressemappe20/category/ware/i/143121 ) | PID08-Bg02 |   | [19](https://pm20.zbw.eu/category/ware/i/143121 )
+[Coal processing](http://purl.org/pressemappe20/category/ware/i/218757 ) | PRB02.01.01 |   | [8](https://pm20.zbw.eu/category/ware/i/218757 )
+[Coca, cocaine](http://purl.org/pressemappe20/category/ware/i/143124 ) | PID04-Dr05 |   | [39](https://pm20.zbw.eu/category/ware/i/143124 )
+[Coconut](http://purl.org/pressemappe20/category/ware/i/143126 ) | PLW04-Nu05 |   | [1](https://pm20.zbw.eu/category/ware/i/143126 )
+[Coffee](http://purl.org/pressemappe20/category/ware/i/143040 ) | PID20-Kf |   |  
+[Coir](http://purl.org/pressemappe20/category/ware/i/143125 ) | PID19-Nf11 |   | [26](https://pm20.zbw.eu/category/ware/i/143125 )
+[Commodities](http://purl.org/pressemappe20/category/ware/i/148837 ) | P00 |   |  
+[Conditioning agent](http://purl.org/pressemappe20/category/ware/i/142018 ) | PID13-Rm |   | [4](https://pm20.zbw.eu/category/ware/i/142018 )
+[Confectionery](http://purl.org/pressemappe20/category/ware/i/143930 ) | PID20-Su |   |  
+[Coniferous wood](http://purl.org/pressemappe20/category/ware/i/143599 ) | PLW06-Hz24 |   |  
+[Construction Industry](http://purl.org/pressemappe20/category/ware/i/181202 ) | PID22 |   |  
+[Construction machinery](http://purl.org/pressemappe20/category/ware/i/142084 ) | PID08-Ba |   | [22](https://pm20.zbw.eu/category/ware/i/142084 )
+[Consumer good](http://purl.org/pressemappe20/category/ware/i/161200 ) | PID04 |   |  
+[Container](http://purl.org/pressemappe20/category/ware/i/142094 ) | PID07.03-Co |   | [14](https://pm20.zbw.eu/category/ware/i/142094 )
+[Copper](http://purl.org/pressemappe20/category/ware/i/143156 ) | PID07.01-Ku |   | [1](https://pm20.zbw.eu/category/ware/i/143156 )
+[Costume jewelry](http://purl.org/pressemappe20/category/ware/i/142126 ) | PID04-Sc02 |   |  
+[Cotton](http://purl.org/pressemappe20/category/ware/i/142089 ) | PLW04-Bw |   | [162](https://pm20.zbw.eu/category/ware/i/142089 )
+[Cotton industry](http://purl.org/pressemappe20/category/ware/i/142091 ) | PID19-Bw01 |   | [68](https://pm20.zbw.eu/category/ware/i/142091 )
+[Cotton machine](http://purl.org/pressemappe20/category/ware/i/142092 ) | PID08-Ld02 |   | [19](https://pm20.zbw.eu/category/ware/i/142092 )
+[Cotton textiles](http://purl.org/pressemappe20/category/ware/i/154932 ) | PID19-Bw02 |   | [40](https://pm20.zbw.eu/category/ware/i/154932 )
+[Cotton yarn](http://purl.org/pressemappe20/category/ware/i/196460 ) | PID19-Nf02 |   | [48](https://pm20.zbw.eu/category/ware/i/196460 )
+[Cottonseed, cottonseed oil](http://purl.org/pressemappe20/category/ware/i/142093 ) | PID20-Oe01 |   | [42](https://pm20.zbw.eu/category/ware/i/142093 )
+[Diamond](http://purl.org/pressemappe20/category/ware/i/142251 ) | PID23-Di |   |  
+[Eel](http://purl.org/pressemappe20/category/ware/i/141941 ) | PLW07-Mt01 |   | [14](https://pm20.zbw.eu/category/ware/i/141941 )
+[Egg](http://purl.org/pressemappe20/category/ware/i/142268 ) | PID20-01 |   |  
+[Elephant](http://purl.org/pressemappe20/category/ware/i/142279 ) | PLW05-01 |   |  
+[Energy and Water](http://purl.org/pressemappe20/category/ware/i/148417 ) | PEW |   |  
+[Ethyl alcohol](http://purl.org/pressemappe20/category/ware/i/141946 ) | PID13.02-Ks01 |   | [9](https://pm20.zbw.eu/category/ware/i/141946 )
+[Excavator](http://purl.org/pressemappe20/category/ware/i/142028 ) | PID09.02-Nf01 |   | [23](https://pm20.zbw.eu/category/ware/i/142028 )
+[Fertilizer](http://purl.org/pressemappe20/category/ware/i/142261 ) | PID13-Du |   |  
+[Fish](http://purl.org/pressemappe20/category/ware/i/142460 ) | PLW07-01 |   |  
+[Fittings (Armature)](http://purl.org/pressemappe20/category/ware/i/142004 ) | PID08-Ar |   | [16](https://pm20.zbw.eu/category/ware/i/142004 )
+[Fittings and hinges](http://purl.org/pressemappe20/category/ware/i/142113 ) | PID07.03-01 |   | [12](https://pm20.zbw.eu/category/ware/i/142113 )
+[Food additive](http://purl.org/pressemappe20/category/ware/i/142800 ) | PID13-Lm |   |  
+[Food machinery](http://purl.org/pressemappe20/category/ware/i/161477 ) | PID08-Nm |   |  
+[Forest Products](http://purl.org/pressemappe20/category/ware/i/148366 ) | PLW06 |   |  
+[Fuel](http://purl.org/pressemappe20/category/ware/i/142153 ) | PEW-01 |   |  
+[Fuel](http://purl.org/pressemappe20/category/ware/i/143989 ) | PID13.02-Ks |   | [1](https://pm20.zbw.eu/category/ware/i/143989 )
+[Furniture](http://purl.org/pressemappe20/category/ware/i/143579 ) | PID04-Mo |   |  
+[Gaming and vending machines](http://purl.org/pressemappe20/category/ware/i/142020 ) | PID08-Au |   | [27](https://pm20.zbw.eu/category/ware/i/142020 )
+[Gases](http://purl.org/pressemappe20/category/ware/i/142759 ) | PID13-Ae |   |  
+[Generator](http://purl.org/pressemappe20/category/ware/i/142797 ) | PID10-02 |   |  
+[Glass](http://purl.org/pressemappe20/category/ware/i/142855 ) | PID23-Gw |   |  
+[Gloves](http://purl.org/pressemappe20/category/ware/i/142923 ) | PID19-Bz01 |   |  
+[Goat](http://purl.org/pressemappe20/category/ware/i/144065 ) | PLW05-26 |   |  
+[Gold](http://purl.org/pressemappe20/category/ware/i/142877 ) | PID07.01-Em01 |   |  
+[Grain](http://purl.org/pressemappe20/category/ware/i/142846 ) | PLW04-Gt |   |  
+[Granite](http://purl.org/pressemappe20/category/ware/i/142884 ) | PID23-Na03 |   |  
+[Grape](http://purl.org/pressemappe20/category/ware/i/144033 ) | PLW04-Ob15 |   |  
+[Groundnut](http://purl.org/pressemappe20/category/ware/i/142293 ) | PLW04-Nu02 |   |  
+[Gypsum](http://purl.org/pressemappe20/category/ware/i/142854 ) | PID23-Gi |   |  
+[Halfah grass](http://purl.org/pressemappe20/category/ware/i/141957 ) | PID19-Nf018 |   | [17](https://pm20.zbw.eu/category/ware/i/141957 )
+[Helicopter](http://purl.org/pressemappe20/category/ware/i/142979 ) | PID09.01-Lf02 |   |  
+[Hemp](http://purl.org/pressemappe20/category/ware/i/142925 ) | PID19-Nf05 |   |  
+[Hides and skins](http://purl.org/pressemappe20/category/ware/i/142909 ) | PLW05-Hf |   |  
+[Honey](http://purl.org/pressemappe20/category/ware/i/142973 ) | PLW05-Ho |   |  
+[Hop](http://purl.org/pressemappe20/category/ware/i/142974 ) | PLW04-Kr06 |   |  
+[Horse](http://purl.org/pressemappe20/category/ware/i/143732 ) | PLW05-14 |   |  
+[Hydrogen](http://purl.org/pressemappe20/category/ware/i/144025 ) | PID13-Ae05 |   |  
+[Iron ore](http://purl.org/pressemappe20/category/ware/i/142274 ) | PRB02.03-01 |   |  
+[Jute](http://purl.org/pressemappe20/category/ware/i/143004 ) | PID19-Ju |   |  
+[Lamp](http://purl.org/pressemappe20/category/ware/i/143164 ) | PID10-Lp |   |  
+[Lead (heavy metal)](http://purl.org/pressemappe20/category/ware/i/142138 ) | PID07.01-Bl |   |  
+[Leather](http://purl.org/pressemappe20/category/ware/i/143168 ) | PID18-01 |   |  
+[Leather, Leather Goods, and Footwear](http://purl.org/pressemappe20/category/ware/i/148714 ) | PID18 |   |  
+[Leguminosae](http://purl.org/pressemappe20/category/ware/i/142980 ) | PLW04-Hu |   |  
+[Leisure-time product](http://purl.org/pressemappe20/category/ware/i/161307 ) | PID04-Fz |   |  
+[Light metal](http://purl.org/pressemappe20/category/ware/i/143572 ) | PID07.01-Lm |   | [1](https://pm20.zbw.eu/category/ware/i/143572 )
+[Lignite](http://purl.org/pressemappe20/category/ware/i/142151 ) | PRB02.01-Br |   |  
+[Lime](http://purl.org/pressemappe20/category/ware/i/143054 ) | PID22-Bs03 |   |  
+[Machine Products](http://purl.org/pressemappe20/category/ware/i/148501 ) | PID08 |   |  
+[Magnesite](http://purl.org/pressemappe20/category/ware/i/143526 ) | PID23-Mi09 |   |  
+[Maize](http://purl.org/pressemappe20/category/ware/i/143531 ) | PLW04-Ma |   |  
+[Manganese](http://purl.org/pressemappe20/category/ware/i/143535 ) | PID07.01-11 |   |  
+[Marble](http://purl.org/pressemappe20/category/ware/i/143543 ) | PID23-Na06 |   |  
+[Marine Products](http://purl.org/pressemappe20/category/ware/i/148398 ) | PLW07 |   |  
+[Meat](http://purl.org/pressemappe20/category/ware/i/142469 ) | PLW05-Fl |   |  
+[Medicinal herbs](http://purl.org/pressemappe20/category/ware/i/142259 ) | PLW04-Kr |   |  
+[Mercury](http://purl.org/pressemappe20/category/ware/i/143759 ) | PID07.01-09 |   |  
+[Metal casting](http://purl.org/pressemappe20/category/ware/i/161311 ) | PID07.01-Mg |   |  
+[Metal sheet](http://purl.org/pressemappe20/category/ware/i/142134 ) | PID07.00-01 |   |  
+[Metals](http://purl.org/pressemappe20/category/ware/i/148466 ) | PID07 |   | [1](https://pm20.zbw.eu/category/ware/i/148466 )
+[Mica](http://purl.org/pressemappe20/category/ware/i/142868 ) | PID23-Mi01 |   |  
+[Milk](http://purl.org/pressemappe20/category/ware/i/143574 ) | PID20-Mp03 |   |  
+[Milkweed](http://purl.org/pressemappe20/category/ware/i/142013 ) | PID19-Nf06 |   | [13](https://pm20.zbw.eu/category/ware/i/142013 )
+[Millet](http://purl.org/pressemappe20/category/ware/i/142956 ) | PLW04-Gt04 |   |  
+[Mineral water](http://purl.org/pressemappe20/category/ware/i/143578 ) | PID20.02-Mw |   |  
+[Mining Products](http://purl.org/pressemappe20/category/ware/i/148420 ) | PRB02 |   |  
+[Mining machine](http://purl.org/pressemappe20/category/ware/i/142112 ) | PID08-Bg |   | [33](https://pm20.zbw.eu/category/ware/i/142112 )
+[Molybdenum](http://purl.org/pressemappe20/category/ware/i/143585 ) | PID07.01-13 |   |  
+[Motor](http://purl.org/pressemappe20/category/ware/i/143587 ) | PID08-Mo |   |  
+[Motor vehicle](http://purl.org/pressemappe20/category/ware/i/143140 ) | PID09.02 |   |  
+[Motorcycle](http://purl.org/pressemappe20/category/ware/i/143590 ) | PID09.02-Mo |   |  
+[Musical instrument](http://purl.org/pressemappe20/category/ware/i/143596 ) | PID04-Mu |   |  
+[Narcotics](http://purl.org/pressemappe20/category/ware/i/142115 ) | PID04-Dr |   | [3](https://pm20.zbw.eu/category/ware/i/142115 )
+[Natural gas](http://purl.org/pressemappe20/category/ware/i/142292 ) | PRB02.05 |   |  
+[Nickel](http://purl.org/pressemappe20/category/ware/i/143609 ) | PID07.01-07 |   |  
+[Non-ferrous metal](http://purl.org/pressemappe20/category/ware/i/161442 ) | PID07.01 |   | [1](https://pm20.zbw.eu/category/ware/i/161442 )
+[Nonmetallic Minerals, Ceramics, and Glass](http://purl.org/pressemappe20/category/ware/i/148443 ) | PID23 |   |  
+[Oats](http://purl.org/pressemappe20/category/ware/i/142914 ) | PLW04-Gt03 |   |  
+[Office furniture](http://purl.org/pressemappe20/category/ware/i/142218 ) | PID04-Bu |   |  
+[Office machine](http://purl.org/pressemappe20/category/ware/i/142217 ) | PID12-Bu |   |  
+[Oil and fat](http://purl.org/pressemappe20/category/ware/i/143622 ) | PID20-Oe |   |  
+[Onion](http://purl.org/pressemappe20/category/ware/i/144085 ) | PLW04-Gm18 |   |  
+[Orange](http://purl.org/pressemappe20/category/ware/i/141981 ) | PLW04-Zs01 |   | [77](https://pm20.zbw.eu/category/ware/i/141981 )
+[Oyster](http://purl.org/pressemappe20/category/ware/i/142019 ) | PLW07-Mt02 |   | [30](https://pm20.zbw.eu/category/ware/i/142019 )
+[Packages](http://purl.org/pressemappe20/category/ware/i/148781 ) | PID21 |   |  
+[Packaging machinery](http://purl.org/pressemappe20/category/ware/i/144003 ) | PID08-Vp |   |  
+[Paper](http://purl.org/pressemappe20/category/ware/i/143707 ) | PID17-01 |   |  
+[Paper machinery](http://purl.org/pressemappe20/category/ware/i/143711 ) | PID08-Pa |   |  
+[Peat](http://purl.org/pressemappe20/category/ware/i/143969 ) | PRB02.08-05 |   |  
+[Petrol](http://purl.org/pressemappe20/category/ware/i/142108 ) | PID13.02-Ks02 |   | [110](https://pm20.zbw.eu/category/ware/i/142108 )
+[Petroleum](http://purl.org/pressemappe20/category/ware/i/142294 ) | PRB02.06 |   | [1](https://pm20.zbw.eu/category/ware/i/142294 )
+[Phosphate](http://purl.org/pressemappe20/category/ware/i/143739 ) | PID13-Du05 |   |  
+[Pineapple](http://purl.org/pressemappe20/category/ware/i/141970 ) | PLW04-Tr01 |   | [57](https://pm20.zbw.eu/category/ware/i/141970 )
+[Plastics](http://purl.org/pressemappe20/category/ware/i/142932 ) | PID14 |   |  
+[Potato](http://purl.org/pressemappe20/category/ware/i/143076 ) | PLW04-Kf |   |  
+[Poultry](http://purl.org/pressemappe20/category/ware/i/142791 ) | PLW05-Gf |   |  
+[Precision Instruments and Optical Products](http://purl.org/pressemappe20/category/ware/i/148577 ) | PID12 |   |  
+[Preserved food](http://purl.org/pressemappe20/category/ware/i/143130 ) | PID20-06 |   |  
+[Pump](http://purl.org/pressemappe20/category/ware/i/143752 ) | PID08-Pp |   |  
+[Rape (Plant)](http://purl.org/pressemappe20/category/ware/i/143766 ) | PLW04-Oe07 |   |  
+[Reindeer](http://purl.org/pressemappe20/category/ware/i/143775 ) | PLW05-16 |   |  
+[Rice](http://purl.org/pressemappe20/category/ware/i/143772 ) | PLW04-Rs |   |  
+[Rubber](http://purl.org/pressemappe20/category/ware/i/143085 ) | PLW06-Fp14 |   |  
+[Rye](http://purl.org/pressemappe20/category/ware/i/143787 ) | PLW04-Gt06 |   |  
+[Safety engineering](http://purl.org/pressemappe20/category/ware/i/161309 ) | PID04-Si |   |  
+[Salt](http://purl.org/pressemappe20/category/ware/i/143814 ) | PID20-Gw09 |   |  
+[Semi-metal](http://purl.org/pressemappe20/category/ware/i/161310 ) | PID07.01-Hm |   |  
+[Sewing machinery](http://purl.org/pressemappe20/category/ware/i/143602 ) | PID08-Wz15 |   |  
+[Sheep](http://purl.org/pressemappe20/category/ware/i/143828 ) | PLW05-Sf |   |  
+[Silk](http://purl.org/pressemappe20/category/ware/i/143869 ) | PLW05-Sd |   |  
+[Silver](http://purl.org/pressemappe20/category/ware/i/143882 ) | PID07.01-Em02 |   |  
+[Slate](http://purl.org/pressemappe20/category/ware/i/143833 ) | PID23-Na05 |   |  
+[Soap](http://purl.org/pressemappe20/category/ware/i/143870 ) | PID13-Kp01 |   |  
+[Soda ash](http://purl.org/pressemappe20/category/ware/i/143889 ) | PID23-Mi10 |   |  
+[Soybean](http://purl.org/pressemappe20/category/ware/i/143890 ) | PLW04-Hu12 |   |  
+[Spice](http://purl.org/pressemappe20/category/ware/i/142848 ) | PID20-Gw |   |  
+[Sugar](http://purl.org/pressemappe20/category/ware/i/144077 ) | PID20-Zk |   |  
+[Sulphuric acid](http://purl.org/pressemappe20/category/ware/i/143863 ) | PID13-Sc01 |   |  
+[Synthetic resin](http://purl.org/pressemappe20/category/ware/i/143151 ) | PID14-Ha |   |  
+[Talc](http://purl.org/pressemappe20/category/ware/i/143939 ) | PID23-Mi14 |   |  
+[Tea](http://purl.org/pressemappe20/category/ware/i/143949 ) | PID20-Te |   |  
+[Textile machinery](http://purl.org/pressemappe20/category/ware/i/143956 ) | PID08-Tx |   |  
+[Textiles](http://purl.org/pressemappe20/category/ware/i/166455 ) | PID19-Ma |   |  
+[Tin](http://purl.org/pressemappe20/category/ware/i/144071 ) | PID07.01-19 |   |  
+[Tobacco](http://purl.org/pressemappe20/category/ware/i/143934 ) | PLW04-06 |   |  
+[Tomato](http://purl.org/pressemappe20/category/ware/i/143966 ) | PLW04-Ob14 |   |  
+[Tooling machine](http://purl.org/pressemappe20/category/ware/i/144036 ) | PID08-Wz |   |  
+[Tractor](http://purl.org/pressemappe20/category/ware/i/143971 ) | PID09.02-Nf03 |   |  
+[Trailer](http://purl.org/pressemappe20/category/ware/i/141974 ) | PID09.02-Kf |   | [12](https://pm20.zbw.eu/category/ware/i/141974 )
+[Tree clearing machine](http://purl.org/pressemappe20/category/ware/i/142087 ) | PID08-Ld01 |   | [5](https://pm20.zbw.eu/category/ware/i/142087 )
+[Tropical fruit](http://purl.org/pressemappe20/category/ware/i/148560 ) | PLW04-Tr |   |  
+[Vacuum cleaner](http://purl.org/pressemappe20/category/ware/i/143906 ) | PID10-Eh03 |   |  
+[Vegetable](http://purl.org/pressemappe20/category/ware/i/142796 ) | PLW04-Gm |   |  
+[Vehicles](http://purl.org/pressemappe20/category/ware/i/148546 ) | PID09 |   |  
+[Waste and Recycling Products](http://purl.org/pressemappe20/category/ware/i/148965 ) | PRB01 |   |  
+[Waste and scrap](http://purl.org/pressemappe20/category/ware/i/141942 ) | PRB01-01 |   | [34](https://pm20.zbw.eu/category/ware/i/141942 )
+[Watercraft](http://purl.org/pressemappe20/category/ware/i/144022 ) | PID09.04 |   |  
+[Wax](http://purl.org/pressemappe20/category/ware/i/144010 ) | PID13-Wa |   |  
+[Whale](http://purl.org/pressemappe20/category/ware/i/144020 ) | PLW07-Wa |   |  
+[Wheat](http://purl.org/pressemappe20/category/ware/i/144035 ) | PLW04-Gt08 |   |  
+[Wine](http://purl.org/pressemappe20/category/ware/i/144031 ) | PID20.02-We |   |  
+[Wire](http://purl.org/pressemappe20/category/ware/i/142253 ) | PID07.02-01 |   |  
+[Wood](http://purl.org/pressemappe20/category/ware/i/142961 ) | PLW06-Hz |   |  
+[Wood Products](http://purl.org/pressemappe20/category/ware/i/148703 ) | PID16 |   |  
+[Wood-processing machinery](http://purl.org/pressemappe20/category/ware/i/142962 ) | PID08-Hz |   |  
+[Wool](http://purl.org/pressemappe20/category/ware/i/144042 ) | PLW05-Wo |   |  
+[Work of art](http://purl.org/pressemappe20/category/ware/i/143150 ) | PID04-Kg |   |  
+[Yeast](http://purl.org/pressemappe20/category/ware/i/142939 ) | PID20-05 |   |  
+[Zinc](http://purl.org/pressemappe20/category/ware/i/144069 ) | PID07.01-18 |   |  
 
 :::

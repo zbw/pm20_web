@@ -1,6 +1,5 @@
 ---
 title: "Auswertungen | ZBW Pressearchive"
-etr: report
 backlink: ../about.de.html
 backlink-title: Home
 fn-stub: about

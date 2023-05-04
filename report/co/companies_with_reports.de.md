@@ -1,8 +1,8 @@
 ---
-title: "Auswertung: Firmen/Institutionen mit online verfügbaren Geschäftsberichten | ZBW Pressearchive"
-etr: report
+title: "Auswertung: Firmen/Institutionen mit online verfügbaren Geschäftsberichten"
 backlink: ../about.de.html
 backlink-title: Auswertungen
+fn-stub: companies_with_reports
 ---
 
 ## Auswertungen Pressemappe 20. Jahrhundert

@@ -1,6 +1,5 @@
 ---
 title: "Reports | ZBW Press Archives"
-etr: report
 backlink: ../about.en.html
 backlink-title: Home
 fn-stub: about
