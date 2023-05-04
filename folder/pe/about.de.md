@@ -4,7 +4,7 @@ modified:
 backlink: ../../about.de.html
 backlink-title: "Home"
 fn-stub: about
-
+robots: noindex
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
@@ -3501,6 +3501,7 @@ _Metadaten für weitere Mappen (ohne digitalisierte Dokumente) [hier](without_do
 * [Mölders, Werner](0123xx/012342/about.de.html) (1913-1941)
 * [Moll, Bruno](0477xx/047784/about.de.html) (1885-1968 )
 * [Møller, Arnold Peter](0123xx/012345/about.de.html) (1876-1965)
+* [Möller, Hans](0123xx/012349/about.de.html) (1915-1996)
 * [Mollet, Guy](0124xx/012404/about.de.html) (1905-1975)
 * [Molotov, Vjaceslav M.](0124xx/012405/about.de.html) (1890-1986)
 * [Moltke, Helmuth Karl Bernhard von](0124xx/012411/about.de.html) (1800-1891)
@@ -3524,6 +3525,7 @@ _Metadaten für weitere Mappen (ohne digitalisierte Dokumente) [hier](without_do
 * [Morgan, Charles](0124xx/012490/about.de.html) (1894-1958)
 * [Morgan, John Pierpont](0124xx/012491/about.de.html) (1867-1943)
 * [Morgan, John Pierpont (der Ältere)](0124xx/012492/about.de.html) (1837-1913)
+* [Morgenstern, Oskar](0124xx/012494/about.de.html) (1902-1977)
 * [Morgenthau, Henry](0124xx/012496/about.de.html) (1891-1967)
 * [Morice, André](0124xx/012499/about.de.html) (1900-1990)
 * [Morrison, Herbert](0125xx/012510/about.de.html) (1888-1965)
