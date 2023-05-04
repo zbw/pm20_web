@@ -16,7 +16,9 @@
 
 
 # binaries
-PANDOC=/usr/local/bin/pandoc
+##PANDOC=/usr/local/bin/pandoc
+##PANDOC=/home/nbt/bin/pandoc-2.14.2
+PANDOC=/usr/bin/pandoc-bin
 
 # auxiliary
 EMPTY :=
