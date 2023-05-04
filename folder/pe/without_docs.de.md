@@ -4,7 +4,7 @@ modified:
 backlink: about.de.html
 backlink-title: "Personen Mappen"
 fn-stub: without_docs
-robots: nofollow
+robots: noindex,nofollow
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)

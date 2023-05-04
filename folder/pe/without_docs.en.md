@@ -4,7 +4,7 @@ modified:
 backlink: about.en.html
 backlink-title: "Persons folders"
 fn-stub: without_docs
-robots: nofollow
+robots: noindex,nofollow
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)

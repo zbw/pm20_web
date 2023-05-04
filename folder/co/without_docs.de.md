@@ -4,6 +4,7 @@ modified:
 backlink: about.de.html
 backlink-title: "Firmen/Institutionen Mappen"
 fn-stub: without_docs
+robots: noindex,nofollow
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)

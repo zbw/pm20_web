@@ -4,6 +4,7 @@ modified:
 backlink: about.en.html
 backlink-title: "Companies/Institutions folders"
 fn-stub: without_docs
+robots: noindex,nofollow
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
