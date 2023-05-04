@@ -131,7 +131,10 @@
     "totalDocCount" : "zbwext:totalDocCount",
     "freeDocCount" : "zbwext:freeDocCount",
     "reportCount" : "zbwext:reportCount",
-    "editorialNote" : "skos:editorialNote",
+    "editorialNote" : {
+      "@id" : "skos:editorialNote",
+      "@container" : "@set"
+    },
     "notation" : "skos:notation",
     "country" : "zbwext:country",
     "subject" : "zbwext:subject",
