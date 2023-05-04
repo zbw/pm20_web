@@ -16,6 +16,7 @@ fn-stub: about
 ## Publications and links
 
 * [Publications](publication/about.en.html)
+* [Networked institutions and projects](links.en.html)
 
 ## Further information
 
