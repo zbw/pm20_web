@@ -51,8 +51,7 @@ ID | Typ | Titel | Spr. | Abdeckung | ZDB ID
 2302 | ZT | Amtsblatt für das Schutzgebiet Deutsch-Südwestafrika / hrsg. vom Kaiserlichen Gouvernement in Windhuk. - Windhuk ; Berlin   1.1910/11 - 6.1915 | de | 1.1910/11 - 6.1915 | [561667-0](http://ld.zdb-services.de/resource/561667-0)
 2301 | ZT | Amtsblatt für das Schutzgebiet Deutsch-Südwestafrika. Landwirtschaftliche Beilage / hrsg. vom Kaiserlichen Gouvernement in Windhuk. - Windhuk ; Berlin   1.1911 - 4.1914[?] | de | 1.1911 - 4.1914[?] | [561669-4](http://ld.zdb-services.de/resource/561669-4)
 32 | ZT | Amtsblatt für das Schutzgebiet Kamerun / hrsg. vom Kaiserlichen Gouvernement in Buea | de | 1.1908 - 7.1914; damit Ersch. eingest. | [561668-2](http://ld.zdb-services.de/resource/561668-2)
-2523 | ZT | Amtsblatt für das Schutzgebiet Kiautschou / hrsg. vom Kaiserlichen Gouvernement in Tsingtau. - Tsingtau 1.1900 - 15.1914 | de | 1.1900 - 15.1914
- | [561677-3](http://ld.zdb-services.de/resource/561677-3)
+2523 | ZT | Amtsblatt für das Schutzgebiet Kiautschou / hrsg. vom Kaiserlichen Gouvernement in Tsingtau. - Tsingtau 1.1900 - 15.1914 | de | 1.1900 - 15.1914 | [561677-3](http://ld.zdb-services.de/resource/561677-3)
 2162 | ZT | Amtsblatt für das Schutzgebiet Togo / hrsg. vom Kaiserlichen Gouvernement in Lome. - Lome   1.1906 - 9.1914[?] | de | 1.1906 - 9.1914[?] | [561666-9](http://ld.zdb-services.de/resource/561666-9)
 33 | ZT | Anaue. - Joinville | pt |  | [](http://ld.zdb-services.de/resource/)
 34 | ZT | Anhanguera | pt |  | [](http://ld.zdb-services.de/resource/)
