@@ -113,8 +113,8 @@ RewriteRule "^film/([hk][12]_(co|sh|wa)\.de\.html)$" "/film/public.$1" [R]
 RewriteCond "%{ENV:PM20_INTERNAL}" "1"
 RewriteRule "^film/([hk][12]_(co|sh|wa)\.de\.html)$" "/film/intern.$1" [R]
 
-# Redirect logical image URI to filmviewer
-RewriteRule ^film/([hk][12])/(sh|wa|co)/([A-Z0-9_]+)/([0-9]{4})$ /film/filmviewer.php?set=$1&collection=$2&film=$3&img=$4 [PT,L]
+# Redirect logical image URI to filmviewer (drop Left or Right page indicator)
+RewriteRule ^film/([hk][12])/(sh|wa|co)/([A-Z0-9_]+)/([0-9]{4})(/[LR])?$ /film/filmviewer.php?set=$1&collection=$2&film=$3&img=$4 [PT,L]
 
 # Redirct film index to filmviewer
 RewriteCond %{DOCUMENT_ROOT}/%{REQUEST_URI} -d
