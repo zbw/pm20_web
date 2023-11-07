@@ -98,6 +98,13 @@ RewriteEngine on
 # in a .htaccess is interpreted
 
 
+# TEMPORARY exclude known abusing bots
+
+RewriteCond %{HTTP_USER_AGENT} ArchiveBot [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} DummyBot [NC]
+RewriteRule .* - [R=403,L] 
+
+
 # for folder and document rewrites, see ./folder/.htaccess, dito ./category/.htaccess
 
 

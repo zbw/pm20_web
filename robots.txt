@@ -3,5 +3,11 @@ User-agent: *
 Disallow: /dfgview
 Disallow: /iiifview
 Disallow: /pdf
+Disallow: /*.JPG
 Disallow: *.JPG
+Disallow: .JPG
+
+Disallow: /*.jpg
+Disallow: *.jpg
+Disallow: .jpg
 
