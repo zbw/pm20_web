@@ -36,7 +36,7 @@ RedirectMatch 404 \.md$
 # https://httpd.apache.org/docs/current/mod/mod_setenvif.html
 # https://serverfault.com/questions/93886/apache-2-setenvif-ip-range
 
-# ZBW (settings according to
+# ZBW addresses (settings according to
 # \\pm-opac\C$\inetpub\wwwroot\CFapp\PrMappeConv\_Init_Application_Structures.cfm)
 
 # Hamburg reading room
@@ -52,13 +52,9 @@ SetEnvIf Remote_Addr "^134\.245\.94\.1$" PM20_INTERNAL=1
 # HAN server
 SetEnvIf Remote_Addr "^134\.245\.92\.39$" PM20_INTERNAL=1
 
-# DFG-Viewer service (issues HEAD requests for images to check the CORS status)
-SetEnvIf Remote_Addr "^194\.95\.145\.4$" PM20_DFGVIEWER=1
 
+# Intares addresses
 
-# Intares addresses from web.intern/.htaccess
-
-# Intares
 SetEnvIf Remote_Addr "^213\.183\.200\.67$" PM20_INTERNAL=1
 SetEnvIf Remote_Addr "^2a00:4e00:2000:125::67$" PM20_INTERNAL=1
 SetEnvIf Remote_Addr "^213\.183\.200\.69$" PM20_INTERNAL=1
@@ -77,6 +73,11 @@ SetEnvIf Remote_Addr "^213\.183\.200\.66$" PM20_INTERNAL=1
 SetEnvIf Remote_Addr "^2a00:4e00:2000:125::66$" PM20_INTERNAL=1
 SetEnvIf Remote_Addr "^213\.183\.208\.66$" PM20_INTERNAL=1
 SetEnvIf Remote_Addr "^2a00:4e00:4000:125::66$" PM20_INTERNAL=1
+
+
+# DFG-Viewer service (issues HEAD requests for images to check the CORS status)
+
+SetEnvIf Remote_Addr "^194\.95\.145\.4$" PM20_DFGVIEWER=1
 
 
 #### Redirects
