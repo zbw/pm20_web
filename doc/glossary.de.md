@@ -38,3 +38,8 @@ Systematik-Typ
 : subject - Sachsystematik
 : ware - Warensystematik
 
+Verfilmung
+: Verfilmungsaktion von Teilen eines Archivbestandes auf Mikrofilm, entweder
+: 1, oder
+: 2
+

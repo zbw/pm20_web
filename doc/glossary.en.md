@@ -24,6 +24,11 @@ category type
 : subject - PM20 subject category system
 : ware - PM20 ware category system
 
+filming
+: Filming action of parts of a archives holding on microfilm, either
+: 1, or
+: 2
+
 provenance
 : Provenance of archives holding, either 
 : h - Hamburgisches Welt-Wirtschafts-Archiv (HWWA), or 
