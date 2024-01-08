@@ -22,7 +22,7 @@ der Zugriff auf die einzelnen Dokumente ist unentgeltlich.
 
 Die angebotenen Daten sind in der Regel unkommentiert und
 archivwissenschaftlich bisher nicht erschlossen. Dafür, dass die darin
-enthaltene Information sachlich richtig ist übernehmen wir keine Gewähr. 
+enthaltene Information sachlich richtig ist übernehmen wir keine Gewähr.
 
 Ältere Texte, insbesondere aus der NS-Zeit, können faschistische, rassistische
 oder sexistische Tendenzen aufweisen. Die ZBW als wissenschaftliche
@@ -34,7 +34,8 @@ Herausgeber oder Urheber, die den Nichtablauf urheberrechtlicher Schutzfristen
 oder sonstige Hindernisse für die Online-Stellung von Dokumenten oder Links
 geltend machen möchten, werden ausdrücklich ermutigt, sich an die ZBW zu
 wenden, auf welchem Wege auch immer, am einfachsten aber über folgende
-Mail-Adresse: <a href='ma&#105;lto&#58;p%7&#50;ess%65&#109;app&#101;2&#48;&#64;&#122;%6&#50;w&#46;%&#54;5u?subject=Rechtliches:'>pr&#101;&#115;s&#101;&#109;&#97;ppe2&#48;&#64;zbw&#46;e&#117;</a>
+Mail-Adresse:
+<a href='&#109;&#97;ilto&#58;pr%&#54;5&#37;73%73%6&#53;&#109;&#97;ppe20&#64;z&#37;62%77-onli%6Ee%&#50;Ee&#117;?subject=PM20%20Rechtliches:'>pr%&#54;5&#37;73%73%6&#53;&#109;&#97;ppe20&#64;z&#37;62%77-onli%6Ee%&#50;Ee&#117;</a>
 
 Jede Verwertung der angebotenen Dokumente oder von Teilen daraus geschieht in
 der Verantwortlichkeit der Nutzer. Sie sind für die Einhaltung
@@ -48,4 +49,7 @@ Hinweises kann deshalb nicht geschlossen werden, die betreffende Bezeichnung
 sei frei von solchen oder ähnlichen Rechten. Dies gilt besonders für
 historische Bezeichnungen, die weiterhin bestehen können, obwohl ihr
 historischer Inhaber inzwischen erloschen ist.
+
+Dieses Angebot verwendet GeoLite2 Daten, die von MaxMind erstellt wurden,
+verfübar unter [https://www.maxmind.com/](https://www.maxmind.com/).
 

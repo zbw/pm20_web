@@ -33,7 +33,7 @@ Editors or authors who wish to claim the non-expiry of copyright periods or
 other obstacles, which bar these documents or links from being put online, are
 expressly encouraged to contact the ZBW by whatever means, but most easily via
 the following e-mail address:
-<a href='ma&#105;lto&#58;p%7&#50;ess%65&#109;app&#101;2&#48;&#64;&#122;%6&#50;w&#46;%&#54;5u?subject=Legal: '>pr&#101;&#115;s&#101;&#109;&#97;ppe2&#48;&#64;zbw&#46;eu</a>.
+<a href='&#109;&#97;ilto&#58;pr%&#54;5&#37;73%73%6&#53;&#109;&#97;ppe20&#64;z&#37;62%77-onli%6Ee%&#50;Ee&#117;?subject=PM20%20legal:'>pr%&#54;5&#37;73%73%6&#53;&#109;&#97;ppe20&#64;z&#37;62%77-onli%6Ee%&#50;Ee&#117;</a>
 
 Any use of the offered documents or parts thereof is the responsibility of the
 users. They are responsible for compliance with copyright or other provisions
@@ -45,5 +45,8 @@ special reference to such rights. Therefore, the absence of such a reference
 does not imply that the designation in question is free of such or similar
 rights. This applies in particular to historical designations, which may
 continue to exist even though their historical owner has since ceased to exist.
+
+This service uses GeoLite2 Data created by MaxMind, available from
+[https://www.maxmind.com/](https://www.maxmind.com/).
 
 _Translation based on www.DeepL.com/Translator (free version)_
