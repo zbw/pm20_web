@@ -79,6 +79,14 @@ SetEnvIf Remote_Addr "^2a00:4e00:4000:125::66$" PM20_INTERNAL=1
 
 SetEnvIf Remote_Addr "^194\.95\.145\.4$" PM20_DFGVIEWER=1
 
+### Stop DFG Viewer GET ting .JPG files
+### (proxy function has been mis-used in fall 2023 attack)
+<If "reqenv('PM20_DFGVIEWER') == 1">
+  <FilesMatch ".jpg|.JPG">
+    Require method HEAD
+  </FilesMatch>
+</If>
+
 
 #### Redirects
 
