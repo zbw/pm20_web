@@ -88,6 +88,12 @@ SetEnvIf Remote_Addr "^194\.95\.145\.4$" PM20_DFGVIEWER=1
 </If>
 
 
+# Request comes from EU legal area
+
+SetEnvIf GEOIP_COUNTRY_CODE DE PM20_EU=1
+SetEnvIf Remote_Addr "^31\.29\.35\.60" PM20_EU=1
+
+
 #### Redirects
 
 #DirectorySlash Off
@@ -125,8 +131,10 @@ RewriteRule ^film/([hk][12])_(sh|wa|co)\.de$ /film/$1_$2.de.html
 
 # filmlist with public and internal versions
 RewriteCond "%{ENV:PM20_INTERNAL}" ^$
+RewriteCond "%{ENV:PM20_EU}" ^$
 RewriteRule "^film/([hk][12]_(co|sh|wa)\.de\.html)$" "/film/public.$1" [R]
-RewriteCond "%{ENV:PM20_INTERNAL}" "1"
+RewriteCond "%{ENV:PM20_INTERNAL}" "1" [OR]
+RewriteCond "%{ENV:PM20_EU}" "1"
 RewriteRule "^film/([hk][12]_(co|sh|wa)\.de\.html)$" "/film/intern.$1" [R]
 
 # Redirect logical image URI to filmviewer (drop Left or Right page indicator)

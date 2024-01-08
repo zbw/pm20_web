@@ -41,7 +41,7 @@ if (!is_dir("$fs_root$filmpath")) {
 }
 
 // get a list of all accessible files in the film directory
-if (getenv("PM20_INTERNAL") == 1) {
+if ((getenv("PM20_INTERNAL") == 1) or (getenv("PM20_EU") == 1)) {
   // access to all files is free
   // assuming glob returns files in correct sequence
   $files = glob($fs_root . $filmpath . '/' . "*.jpg");
