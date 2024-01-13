@@ -31,6 +31,8 @@ $film = $query_parts['film'] ?: '0200';
 $img = $query_parts['img'] ?: '';
 $lang = 'de';
 
+$filming = substr($set, 1, 1);
+
 require "prev_next_film.${set}_$collection.inc";
 
 $filmpath = "$web_root$set/$collection/$film";
@@ -41,7 +43,8 @@ if (!is_dir("$fs_root$filmpath")) {
 }
 
 // get a list of all accessible files in the film directory
-if ((getenv("PM20_INTERNAL") == 1) or (getenv("PM20_EU") == 1)) {
+if ( (getenv("PM20_INTERNAL") == 1)
+    or (($filming == 1) and (getenv("PM20_EU") == 1)) ) {
   // access to all files is free
   // assuming glob returns files in correct sequence
   $files = glob($fs_root . $filmpath . '/' . "*.jpg");
@@ -61,7 +64,11 @@ if ((getenv("PM20_INTERNAL") == 1) or (getenv("PM20_EU") == 1)) {
   }
   if (empty($files)) {
     header("HTTP/1.0 403 Not Found");
-    echo "\nNo publicly accessible files in $filmpath\n";
+    if ( $filming == 1 and !getenv("PM20_EU") == 1 ) {
+      echo "\nPublicly accessible files in $filmpath only from EU legal area\n";
+    } else {
+      echo "\nNo publicly accessible files in $filmpath\n";
+    }
     exit;
   }
 }
