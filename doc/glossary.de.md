@@ -40,6 +40,6 @@ Systematik-Typ
 
 Verfilmung
 : Verfilmungsaktion von Teilen eines Archivbestandes auf Mikrofilm, entweder
-: 1, oder
-: 2
+: 1 - bis 1949, in den 1960er Jahren durchgeführt, oder
+: 2 - von 1950 bis 1960, in den 1970er Jahren durchgeführt
 

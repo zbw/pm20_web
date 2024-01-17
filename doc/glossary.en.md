@@ -26,8 +26,8 @@ category type
 
 filming
 : Filming action of parts of a archives holding on microfilm, either
-: 1, or
-: 2
+: 1 - until 1949, executed in the 1960s, or
+: 2 - from 1950 to 1960, executed in the 1970s
 
 provenance
 : Provenance of archives holding, either 
