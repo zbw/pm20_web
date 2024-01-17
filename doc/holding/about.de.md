@@ -16,13 +16,13 @@ backlink-title: Über ...
 
 Krz|Name|Inhalt|zeitl. Erstreckung|Umfang|Zugang
 -|---|--------|-----|-----|------
-h1/sh|**Länder-Sacharchiv** 1.\ Verfilmung | Sachthemen-bezogene Dossiers zu Ländern und weltweit | 1908 (z.T. früher) - ca. 1949 | ca. 280.000 Dokumente, plus ca. 2,28 Mio. Seiten | [aufbereitete Dossiers: PM20](http://pm20.zbw.eu/folder/sh)<br />[digitalisierte Rollfilme](../../film/h1_sh.de): nur im ZBW Lesesaal
+h1/sh|**Länder-Sacharchiv** 1.\ Verfilmung | Sachthemen-bezogene Dossiers zu Ländern und weltweit | 1908 (z.T. früher) - ca. 1949 | ca. 280.000 Dokumente, plus ca. 2,28 Mio. Seiten | [aufbereitete Dossiers: PM20](http://pm20.zbw.eu/folder/sh)<br />[digitalisierte Rollfilme](../../film/h1_sh.de): nur aus dem EU-Rechtsraum und im ZBW Lesesaal
 h2/sh|Länder-Sacharchiv 2.\ Verfilmung | Sachthemen-bezogene Dossiers zu Ländern und weltweit | ca. 1949 - ca. 1960 | ca. 20.000 Dokumente zu Hamburg, plus ca. 2,08 Mio. Seiten | [digitalisierte Rollfilme](../../film/h2_sh.de): nur im ZBW Lesesaal
 hm/sh|Länder-Sacharchiv 3./4./5.\ Verfilmung | Sachthemen-bezogene Dossiers zu Ländern und weltweit | 1961 - 1990 | ca. 60.000 Fiches | Mikrofiche: nur im ZBWHamburger Lesesaal (zudem einige Länder bis 1998 auf Fiche und Rollfilm)
-h1/co|**Firmen/Institutionenarchiv** 1.\ Verfilmung | Dossiers zu Firmen und sonstigen Organisationen, häufig mit Geschäftsberichten und anderen Firmenschriften | 1908 (z.T. früher) - ca. 1949 | ca. 370.000 Dokumente, plus ca. 460.000 Seiten | [aufbereitete Dossiers: PM20](http://pm20.zbw.eu/folder/co)<br />[digitalisierte Rollfilme](../../film/h1_co.de): nur im ZBW Lesesaal
+h1/co|**Firmen/Institutionenarchiv** 1.\ Verfilmung | Dossiers zu Firmen und sonstigen Organisationen, häufig mit Geschäftsberichten und anderen Firmenschriften | 1908 (z.T. früher) - ca. 1949 | ca. 370.000 Dokumente, plus ca. 460.000 Seiten | [aufbereitete Dossiers: PM20](http://pm20.zbw.eu/folder/co)<br />[digitalisierte Rollfilme](../../film/h1_co.de): nur aus dem EU-Rechtsraum und im ZBW Lesesaal
 h2/co|Firmen/Institutionenarchiv 2.\ Verfilmung | Dossiers zu Firmen und sonstigen Organisationen, häufig mit Geschäftsberichten und anderen Firmenschriften | ca. 1949 - ca. 1960 | ca. 480.000 Seiten | [digitalisierte Rollfilme](../../film/h2_co.de): nur im ZBW Lesesaal
 hm/co|Firmenarchiv/Institutionenarchiv 3.\ Verfilmung | Dossiers zu Firmen und sonstigen Organisationen, häufig mit Geschäftsberichten und anderen Firmenschriften | 1961 - 1980 | ca. 30.000 Fiches | Mikrofiche: nur im Hamburger ZBW Lesesaal
-h1/wa|**Warenarchiv** 1.\ Verfilmung | Dossiers zu Waren, Produkten und Rohstoffen mit Unterteilung nach Ländern | 1908 (z.T. früher) - 1946 | ca. 105.000 Dokumente, plus ca. 996.000 Seiten | [aufbereitete Dossiers: PM20](http://pm20.zbw.eu/folder/wa)<br />[digitalisierte Rollfilme](../../film/h1_wa.de): nur im ZBW Lesesaal
+h1/wa|**Warenarchiv** 1.\ Verfilmung | Dossiers zu Waren, Produkten und Rohstoffen mit Unterteilung nach Ländern | 1908 (z.T. früher) - 1946 | ca. 105.000 Dokumente, plus ca. 996.000 Seiten | [aufbereitete Dossiers: PM20](http://pm20.zbw.eu/folder/wa)<br />[digitalisierte Rollfilme](../../film/h1_wa.de): nur aus dem EU-Rechtsraum und im ZBW Lesesaal
 h2/wa|Warenarchiv 2.\ Verfilmung | Dossiers zu Waren, Produkten und Rohstoffen mit Unterteilung nach Ländern | 1947 - 1960 | ca. 618.000 Seiten | [digitalisierte Rollfilme](../../film/h2_wa.de): nur im ZBW Lesesaal
 hm/wa|Warenarchiv 3./4./5.\ Verfilmung | Dossiers zu Waren, Produkten und Rohstoffen mit Unterteilung nach Ländern | 1961 - 1998 | ca. 15.000 Fiches | Mikrofiche: nur im Hamburger ZBW Lesesaal (ab 1998 Teil des Sacharchivs)
 hd/pe|**Personenarchiv** | Vor 1949 angelegte Dossiers zu Personen des öffentlichen Lebens | 1908 (z.T. früher) - 2005 | ca. 223.000 Dokumente | [aufbereitete Dossiers: PM20](http://pm20.zbw.eu/folder/pe), vor weniger als 70 Jahren erschienene oder sonst gesperrte Artikel nur im ZBW Lesesaal
@@ -45,5 +45,5 @@ __Spalte Krz (Provenienz/Typ) - Legende__
 * wa = Waren
 * pe = Personen
 
-Stand: 28.2.2023
+Stand: 17.1.2024
 
