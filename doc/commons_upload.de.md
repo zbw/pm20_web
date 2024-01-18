@@ -21,9 +21,9 @@ Da in Wikimedia Commons vor allem Fotos hochgeladen werden, beziehen sich die do
 ```
           https://pm20.zbw.eu/film/h1/sh/S0211H/0855
 ```
-      - oder die URL der Mappe ("Mappen-Zitier-Link" auf der PM20-Seite), z.B. für "Nordgrenzmarkfrage"
+      - oder die URL der Mappe, z.B. für "Nordgrenzmarkfrage"
 ```
-          http://purl.org/pressemappe20/folder/sh/126128,144343
+          https://pm20.zbw.eu/folder/sh/126128,144343
 ```
     - Autor(en): `{{anonymous}}` (in den meisten Fällen) oder Autorenname, wenn der im Artikel angegeben ist.
     - Lizenz: Für Artikel aus der Pressemappe ist hier das Einfachste, den Punkt "Ein weiterer, nicht oben erwähnter Grund" anzuklicken und in dem sich öffnenden Textfeld entweder `{{PD-old-70-expired}}` (Autor_in vor mehr als 70 Jahren verstorben) oder `{{PD-anon-70}}` (bei anonymen oder pseudonymen Artikeln) eingeben.
