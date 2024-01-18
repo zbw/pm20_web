@@ -15,13 +15,14 @@ fn-stub: about
 
 ## Publikationen und Links
 
-* [Publikationen](publication/about.de.html)
+* [Publikationen](publication/about.de.html) und [Wikipedia-Artikel](https://de.wikipedia.org/wiki/Pressearchiv_20._Jahrhundert)
 * [Vernetzte Institutionen und Projekte](links.de.html)
 
 ## Weitere Informationen
 
-* [Auswertungen](../report/about.de.html)
-* [Liste der genutzten Zeitungen und Zeitschriften](../list/publication/about.de.html)
+* [Listen und Auswertungen](../report/about.de.html) | [via Wikidata](https://pm20-report.toolforge.org/index.de.html)
+* [Genutzte Zeitungen und Zeitschriften](../list/publication/about.de.html)
 * [Bestandsübersicht](../doc/holding/about.de.html)
 * [Dokumentation](../doc/about.de.html)
+* [Downloads](download.de.html)
 

@@ -15,13 +15,14 @@ fn-stub: about
 
 ## Publications and links
 
-* [Publications](publication/about.en.html)
+* [Publications](publication/about.en.html) and [Wikipedia article](https://en.wikipedia.org/wiki/20th_Century_Press_Archives)
 * [Networked institutions and projects](links.en.html)
 
 ## Further information
 
-* [Reports](../report/about.en.html)
-* [List of evaluated newspapers and jounals](../list/publication/about.en.html)
+* [Lists and reports](../report/about.en.html) | [via Wikidata](https://pm20-report.toolforge.org/index.en.html)
+* [Evaluated newspapers and jounals](../list/publication/about.en.html)
 * [Holdings overview](../doc/holding/about.en.html)
 * [Documentation](../doc/about.en.html)
+* [Downloads](download.en.html)
 
