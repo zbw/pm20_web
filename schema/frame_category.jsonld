@@ -1,5 +1,5 @@
 {
-  "@context": "http://localhost/pm20x/etc/context.jsonld",
+  "@context": "https://pm20.zbw.eu/schema/context.jsonld",
   "@type": "http://www.w3.org/2004/02/skos/core#Concept",
   "@embed": "@always"
 }
