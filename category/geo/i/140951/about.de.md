@@ -1,6 +1,6 @@
 ---
 title: "A10p Polnisch-Schlesien"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [A10p]{.gray}&#8201; Polnisch-Schlesien &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q2035812) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Ostoberschlesien)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140951`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/140951`</div>
 
 <div class="hint">
 Scope Note: bis 1.10.1925
@@ -20,14 +20,17 @@ Scope Note: bis 1.10.1925
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
 
 
 
 
 
 
-Insgesamt 46 Mappen, 504 Dokumente - Mappen komplett.
+
+
+
+Insgesamt 46 Mappen, 504 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -111,6 +114,14 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - q Sm8 Juden, Judenfeindlichkeit und Antisemitismus bis 1945 [**&nearr;**](../../../subject/i/145952/about.de.html "Juden, Judenfeindlichkeit und Antisemitismus bis 1945 (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#q_Sm8 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140951,145952" title="über: Polnisch-Schlesien : Juden, Judenfeindlichkeit und Antisemitismus bis 1945" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140951/1459xx/145952/about.de.html))
 - q Sm22 Fremdländische Deutschenhetze [**&nearr;**](../../../subject/i/145969/about.de.html "Fremdländische Deutschenhetze (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#q_Sm22 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140951,145969" title="über: Polnisch-Schlesien : Fremdländische Deutschenhetze" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140951/1459xx/145969/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
 
 
 

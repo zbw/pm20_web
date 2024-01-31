@@ -1,6 +1,6 @@
 ---
 title: "E21 Westindische Inseln"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -8,29 +8,107 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [E21]{.gray}&#8201; Westindische Inseln
+# [E21]{.gray}&#8201; Westindische Inseln &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q669037) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Westindische_Inseln)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141658`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141658`</div>
 
 <div class="hint">
 Scope Note: Westindien i.G., Westindische Inseln i.G. (ab 1961), Die Westindische Inseln sind eine Inselgruppe in der Karibik. Sie umfasst die großen Antillen (Kuba, Jamaika, Puerto Rico und Hispaniola) und die kleinen Antillen, wobei die kleinen Antillen nochmals in die Inseln über dem Winde (Jungferninseln bis Trinidad und Tobago) und die Inseln unter dem Winde unterschieden werden
 </div>
 
 
-
-
-
-## Warenarchiv
-
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
+## Sacharchiv Mappen
 
 
-Insgesamt 2 Mappen, 2 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+
+Kein als Mappe erschlossenes Material.
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 43</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0960H/0375" rel="nofollow">Bilder auf Film h1/sh/S0960H/0375</a> | Westindische Inseln
+
+
+:::
+
+
+
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 86</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2804H/0612" rel="nofollow">Bilder auf Film h2/sh/S2804H/0612</a> | Westindische Inseln
+
+
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 2 Mappen (bis 1949), 2 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

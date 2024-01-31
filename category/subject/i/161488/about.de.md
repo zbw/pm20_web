@@ -1,6 +1,6 @@
 ---
 title: "n35 Sm2 Lufthafen"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n35 Sm2]{.gray}&#8201; Lufthafen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711261)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/161488`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/161488`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 5 Mappen, 67 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 5 Mappen, 67 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -41,6 +42,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - B23 Irak [**&nearr;**](../../../geo/i/141113/about.de.html "Irak (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B23 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141113,161488" title="über: Irak : Lufthafen" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/sh/1411xx/141113/1614xx/161488/about.de.html))
 - B24a Palästina (-1945) [**&nearr;**](../../../geo/i/141115/about.de.html "Palästina (-1945) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B24a "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141115,161488" title="über: Palästina (-1945) : Lufthafen" target="_blank">24 Dokumente</a>) ([Mappe](../../../../folder/sh/1411xx/141115/1614xx/161488/about.de.html))
 - B102 Hongkong [**&nearr;**](../../../geo/i/141268/about.de.html "Hongkong (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B102 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141268,161488" title="über: Hongkong : Lufthafen" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141268/1614xx/161488/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

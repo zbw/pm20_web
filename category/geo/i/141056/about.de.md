@@ -1,6 +1,6 @@
 ---
 title: "B1 Asien"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,40 +10,18 @@ fn-stub: about
 
 # [B1]{.gray}&#8201; Asien &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q48) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Asien)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141056`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141056`</div>
 
 
 
 
-[Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
-
-
-
-
-
-## Sacharchiv
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
-
-Insgesamt 1 Mappen, 0 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
-
-_Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
-
-
-
-  - o1 Sm500 Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145911/about.de.html "Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#o1_Sm500 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141056,145911" title="über: Asien : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141056/1459xx/145911/about.de.html))
-
-
-
-
-
-
-
-## Warenarchiv
+## Sacharchiv Mappen
 
 
 
@@ -52,8 +30,84 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
-Insgesamt 1 Mappen, 1 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+Kein als Mappe erschlossenes Material.
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 350</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0646H/0315" rel="nofollow">Bilder auf Film h1/sh/S0646H/0315</a> | Asien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0764H_1" rel="nofollow">Bilder auf Film h1/sh/S0764H_1</a> | Filmanfang: Asien : Einzelne Krankheiten und deren Bekämpfung Schlafkrankheit [B1 e1 Schlafkrankheit]
+
+
+:::
+
+
+
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 674</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2598H/0002" rel="nofollow">Bilder auf Film h2/sh/S2598H/0002</a> | Asien
+
+
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 1 Mappen (bis 1949), 1 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

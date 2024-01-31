@@ -1,6 +1,6 @@
 ---
 title: "Barium"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Barium &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q1112) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Barium)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142042`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142042`</div>
 
 <div class="hint">
 Scope Note: Barium und Bariumverbindungen
@@ -20,12 +20,14 @@ Scope Note: Barium und Bariumverbindungen
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 29 Mappen, 170 Dokumente - Mappen komplett.
+
+
+Insgesamt 29 Mappen, 170 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -78,6 +80,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Welt
 
 - H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142042,141728" title="über: Barium : Welt" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142042/1417xx/141728/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

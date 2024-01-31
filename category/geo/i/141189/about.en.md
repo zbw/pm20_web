@@ -1,6 +1,6 @@
 ---
 title: "B42 Indian Empire"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,18 +10,21 @@ fn-stub: about
 
 # [B42]{.gray}&#8201; Indian Empire &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q129286) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/British_Raj)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141189`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141189`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
+[Subject archives](#subject-archives-folders) &#160; [Commodities/wares archives](#commoditieswares-archives-folders)
 
 
 
 
-## Subject archives
+## Subject archives folders
+
+
+
 
 
 
@@ -44,11 +47,63 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
+<a id="filmsections" />
+
+## Sections of digitized microfilms (1st filming 1908-1949)
+
+<p>For intellectual property law reasons accessible only from the European Union legal area and from the ZBW reading room.</p>
+
+
+
+<p>Total number of images: 14731</p>
 
 
 
 
-## Commodities/wares archives
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0680H/1148" rel="nofollow">Images on film h1/sh/S0680H/1148</a> | Britisch-Indien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0681H" rel="nofollow">Images on film h1/sh/S0681H</a> | Filmanfang: Britisch-Indien : Land und Leute, Politik und Wirtschaft, Allgemein [B42 b]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0682H" rel="nofollow">Images on film h1/sh/S0682H</a> | Filmanfang: Britisch-Indien : Volkscharakter, Sport, Sitten und Gebräuche [B42 d4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0683H" rel="nofollow">Images on film h1/sh/S0683H</a> | Filmanfang: Britisch-Indien : Geschichtliche Vorgänge [B42 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0684H_1" rel="nofollow">Images on film h1/sh/S0684H_1</a> | Filmanfang: Britisch-Indien : Geschichtliche Vorgänge [B42 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0685H" rel="nofollow">Images on film h1/sh/S0685H</a> | Filmanfang: Britisch-Indien : Abwehrmaßnahmen gegenüber dem Kommunismus in nichtkommunistischen Ländern [B42 f2 Sm7]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0686H" rel="nofollow">Images on film h1/sh/S0686H</a> | Filmanfang: Britisch-Indien : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten [B42 f2a]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0687H" rel="nofollow">Images on film h1/sh/S0687H</a> | Filmanfang: Britisch-Indien : Einzelne Parteien und Parteigruppen Justice-Party [B42 f5a Justice-Party]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0688H" rel="nofollow">Images on film h1/sh/S0688H</a> | Filmanfang: Britisch-Indien : Wirtschaftspolitische Beziehungen zu einzelnen Ländern V.St.v.A. [B42 g4a V.St.v.A.]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0689H" rel="nofollow">Images on film h1/sh/S0689H</a> | Filmanfang: Britisch-Indien : Äußere Schuld II [B42 m1 Sm5 II]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0690H" rel="nofollow">Images on film h1/sh/S0690H</a> | Filmanfang: Britisch-Indien : Bodenbesitzverhältnisse und Bodenpolitik, Hausbesitz [B42 n3]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0691H" rel="nofollow">Images on film h1/sh/S0691H</a> | Filmanfang: Britisch-Indien : Handel [B42 n18]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0692H" rel="nofollow">Images on film h1/sh/S0692H</a> | Filmanfang: Britisch-Indien : Schutz und Stützung der Währung [B42 n23 Sm3]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0693H" rel="nofollow">Images on film h1/sh/S0693H</a> | Filmanfang: Britisch-Indien : Luftverkehr mit einzelnen Ländern [B42 n35b]
+
+
+:::
+
+
+
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 388</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2622H/0632" rel="nofollow">Images on film h2/sh/S2622H/0632</a> | British-Indien
+
+
+:::
 
 
 
@@ -58,8 +113,27 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
-In total 35 folders, 1283 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_wa.de.html) (in German).
+
+
+
+
+
+## Commodities/wares archives folders
+
+
+
+
+
+
+
+
+
+
+
+In total 34 folders (until 1949), 1283 documents
+- folders incomplete.  For material not published as folders, please check the
+digitized micro-films of the [1st filming](/film/h1_wa.de.html) and [2nd
+filming](/film/h2_wa.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -89,7 +163,6 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### C
 
 - Carbonic acid [**&nearr;**](../../../ware/i/143122/about.en.html "Carbonic acid (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13-Sc06 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143122,141189" title="about: Carbonic acid : Indian Empire" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1431xx/143122/1411xx/141189/about.en.html))
-- Citrus fruits [**&nearr;**](../../../ware/i/141948/about.en.html "Citrus fruits (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Zs "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141189" title="about: Citrus fruits : Indian Empire" target="_blank">0 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1411xx/141189/about.en.html))
 - Clothing [**&nearr;**](../../../ware/i/142106/about.en.html "Clothing (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Bk "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141189" title="about: Clothing : Indian Empire" target="_blank">16 documents</a>) ([folder](../../../../folder/wa/1421xx/142106/1411xx/141189/about.en.html))
 - Coal [**&nearr;**](../../../ware/i/143120/about.en.html "Coal (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB02.01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141189" title="about: Coal : Indian Empire" target="_blank">183 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1411xx/141189/about.en.html))
 - Coal machines (mining and processing) [**&nearr;**](../../../ware/i/143121/about.en.html "Coal machines (mining and processing) (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID08-Bg02 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143121,141189" title="about: Coal machines (mining and processing) : Indian Empire" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1431xx/143121/1411xx/141189/about.en.html))

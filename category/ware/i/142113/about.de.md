@@ -1,6 +1,6 @@
 ---
 title: "Beschläge und Scharniere"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Beschläge und Scharniere &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q111973638)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142113`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142113`</div>
 
 
 
@@ -18,12 +18,14 @@ fn-stub: about
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 12 Mappen, 52 Dokumente - Mappen komplett.
+
+
+Insgesamt 12 Mappen, 52 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -53,6 +55,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Welt
 
 - H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142113,141728" title="über: Beschläge und Scharniere : Welt" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142113/1417xx/141728/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

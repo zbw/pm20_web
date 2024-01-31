@@ -1,6 +1,6 @@
 ---
 title: "B20 Türkisch-Asien"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,27 +10,30 @@ fn-stub: about
 
 # [B20]{.gray}&#8201; Türkisch-Asien &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q51614) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Kleinasien)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141108`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141108`</div>
 
 <div class="hint">
 Scope Note: bis 1920
 </div>
 
 
-[Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
 
 
 
 
 
 
-Insgesamt 39 Mappen, 173 Dokumente - Mappen komplett.
+
+
+
+Insgesamt 39 Mappen, 173 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -109,12 +112,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
-
-
-
-
-## Warenarchiv
-
+<a id="filmsections" />
 
 
 
@@ -122,8 +120,25 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
-Insgesamt 2 Mappen, 3 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 2 Mappen (bis 1949), 3 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

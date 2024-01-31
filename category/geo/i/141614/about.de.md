@@ -1,6 +1,6 @@
 ---
 title: "D14 Palau Islands"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [D14]{.gray}&#8201; Palau Islands &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q1588974) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Palauinseln)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141614`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141614`</div>
 
 <div class="hint">
 Scope Note: bis 30.6.1919, dann unter Japanische Mandatländer in Ozeanien (D 18)
@@ -20,14 +20,17 @@ Scope Note: bis 30.6.1919, dann unter Japanische Mandatländer in Ozeanien (D 18
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
 
 
 
 
 
 
-Insgesamt 9 Mappen, 19 Dokumente - Mappen komplett.
+
+
+
+Insgesamt 9 Mappen, 19 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -62,6 +65,14 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - [n34 Postwesen, Telegraphenwesen und Fernsprechwesen]{.gray}
   - n34 Sm1 Drahtlose Telegraphie und Telephonie, Rundfunk [**&nearr;**](../../../subject/i/145663/about.de.html "Drahtlose Telegraphie und Telephonie, Rundfunk (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n34_Sm1 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141614,145663" title="über: Palau Islands : Drahtlose Telegraphie und Telephonie, Rundfunk" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141614/1456xx/145663/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
 
 
 

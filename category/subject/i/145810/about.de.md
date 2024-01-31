@@ -1,6 +1,6 @@
 ---
 title: "n Sm23 Lebenshaltung, Lebensstandard, Einkommensverteilung"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n Sm23]{.gray}&#8201; Lebenshaltung, Lebensstandard, Einkommensverteilung &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700382)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145810`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145810`</div>
 
 
 
@@ -18,20 +18,20 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 6 Mappen, 11 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 5 Mappen, 16 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
 
 
-- A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145810" title="über: Europa : Lebenshaltung, Lebensstandard, Einkommensverteilung" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1458xx/145810/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145810" title="über: Hamburg : Lebenshaltung, Lebensstandard, Einkommensverteilung" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1458xx/145810/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145810" title="über: Hamburg : Lebenshaltung, Lebensstandard, Einkommensverteilung" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1458xx/145810/about.de.html))
 - A39 Liechtenstein [**&nearr;**](../../../geo/i/141016/about.de.html "Liechtenstein (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A39 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141016,145810" title="über: Liechtenstein : Lebenshaltung, Lebensstandard, Einkommensverteilung" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141016/1458xx/145810/about.de.html))
 
 ### Asien
@@ -42,6 +42,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145810" title="über: Argentinien : Lebenshaltung, Lebensstandard, Einkommensverteilung" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1458xx/145810/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

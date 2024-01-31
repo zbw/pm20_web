@@ -1,6 +1,6 @@
 ---
 title: "C47 Kanarische Inseln"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,18 +10,21 @@ fn-stub: about
 
 # [C47]{.gray}&#8201; Kanarische Inseln &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q5813) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Kanarische_Inseln)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141395`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141395`</div>
 
 
 
 
-[Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
+
+
+
 
 
 
@@ -39,11 +42,50 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 247</p>
 
 
 
 
-## Warenarchiv
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0791H/0694" rel="nofollow">Bilder auf Film h1/sh/S0791H/0694</a> | Kanarische Inseln
+
+
+:::
+
+
+
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 54</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2705H/0606" rel="nofollow">Bilder auf Film h2/sh/S2705H/0606</a> | Kanarische Inseln
+
+
+:::
 
 
 
@@ -52,8 +94,27 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
-Insgesamt 4 Mappen, 71 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 4 Mappen (bis 1949), 71 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

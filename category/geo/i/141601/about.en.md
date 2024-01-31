@@ -1,6 +1,6 @@
 ---
 title: "D10 German New Guinea"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [D10]{.gray}&#8201; German New Guinea &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q165008) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/German_New_Guinea)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141601`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141601`</div>
 
 
 
@@ -18,7 +18,7 @@ fn-stub: about
 
 
 
-## Subject archives
+## Subject archives folders
 
 
 
@@ -26,7 +26,10 @@ fn-stub: about
 
 
 
-In total 103 folders, 987 documents - folders complete.
+
+
+
+In total 103 folders, 987 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -185,6 +188,14 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - q Sm8 Situation of Jewish people, Antisemitism (1910-1945) [**&nearr;**](../../../subject/i/145952/about.en.html "Situation of Jewish people, Antisemitism (1910-1945) (all over the world)") [**&uarr;**](../../../subject/about.en.html#q_Sm8 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141601,145952" title="about: German New Guinea : Situation of Jewish people, Antisemitism (1910-1945)" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1416xx/141601/1459xx/145952/about.en.html))
 - q Sm31 Regional and urban planning [**&nearr;**](../../../subject/i/145983/about.en.html "Regional and urban planning (all over the world)") [**&uarr;**](../../../subject/about.en.html#q_Sm31 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141601,145983" title="about: German New Guinea : Regional and urban planning" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1416xx/141601/1459xx/145983/about.en.html))
 - q Sm32 Foundation and relocation of capitals [**&nearr;**](../../../subject/i/145984/about.en.html "Foundation and relocation of capitals (all over the world)") [**&uarr;**](../../../subject/about.en.html#q_Sm32 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141601,145984" title="about: German New Guinea : Foundation and relocation of capitals" target="_blank">6 documents</a>) ([folder](../../../../folder/sh/1416xx/141601/1459xx/145984/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
 
 
 

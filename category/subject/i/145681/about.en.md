@@ -1,6 +1,6 @@
 ---
 title: "n35 Aviation, general"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n35]{.gray}&#8201; Aviation, general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428081)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145681`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145681`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 43 folders, 1014 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 43 folders, 1046 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -36,9 +37,9 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A3 Eastern Europe [**&nearr;**](../../../geo/i/140896/about.en.html "Eastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A3 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140896,145681" title="about: Eastern Europe : Aviation, general" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1408xx/140896/1456xx/145681/about.en.html))
 - A5a Mediterranean region [**&nearr;**](../../../geo/i/140899/about.en.html "Mediterranean region (all folders)") [**&uarr;**](../../../geo/about.en.html#A5a "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140899,145681" title="about: Mediterranean region : Aviation, general" target="_blank">4 documents</a>) ([folder](../../../../folder/sh/1408xx/140899/1456xx/145681/about.en.html))
 - A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145681" title="about: Southeastern Europe : Aviation, general" target="_blank">7 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1456xx/145681/about.en.html))
-- A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,145681" title="about: Orient : Aviation, general" target="_blank">6 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1456xx/145681/about.en.html))
+- A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,145681" title="about: Orient : Aviation, general" target="_blank">8 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1456xx/145681/about.en.html))
 - A8 Russian peripheral countries [**&nearr;**](../../../geo/i/140904/about.en.html "Russian peripheral countries (all folders)") [**&uarr;**](../../../geo/about.en.html#A8 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140904,145681" title="about: Russian peripheral countries : Aviation, general" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1409xx/140904/1456xx/145681/about.en.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145681" title="about: Hamburg : Aviation, general" target="_blank">93 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1456xx/145681/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145681" title="about: Hamburg : Aviation, general" target="_blank">123 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1456xx/145681/about.en.html))
 - A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140960,145681" title="about: German imperial colonies : Aviation, general" target="_blank">13 documents</a>) ([folder](../../../../folder/sh/1409xx/140960/1456xx/145681/about.en.html))
 - A36 Italian Empire [**&nearr;**](../../../geo/i/141012/about.en.html "Italian Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A36 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141012,145681" title="about: Italian Empire : Aviation, general" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1410xx/141012/1456xx/145681/about.en.html))
 
@@ -91,6 +92,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 - F10 Arctic region [**&nearr;**](../../../geo/i/141702/about.en.html "Arctic region (all folders)") [**&uarr;**](../../../geo/about.en.html#F10 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141702,145681" title="about: Arctic region : Aviation, general" target="_blank">9 documents</a>) ([folder](../../../../folder/sh/1417xx/141702/1456xx/145681/about.en.html))
 - F11 Antarctica [**&nearr;**](../../../geo/i/141703/about.en.html "Antarctica (all folders)") [**&uarr;**](../../../geo/about.en.html#F11 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141703,145681" title="about: Antarctica : Aviation, general" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1417xx/141703/1456xx/145681/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

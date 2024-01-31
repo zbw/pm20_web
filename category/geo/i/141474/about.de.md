@@ -1,6 +1,6 @@
 ---
 title: "C115 Sansibar"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,20 +10,23 @@ fn-stub: about
 
 # [C115]{.gray}&#8201; Sansibar &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q1774) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Sansibar)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141474`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141474`</div>
 
 <div class="hint">
 Scope Note: Inselgruppe vor der Ostküste Afrikas, britische Kolonie, ab 1963 unabhängig, zusammen mit Tanganyika ab 1964 zum Staat Tansania zusammengeschlossen
 </div>
 
 
-[Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
+
+
+
 
 
 
@@ -45,11 +48,28 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 128</p>
 
 
 
 
-## Warenarchiv
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2724H/1063" rel="nofollow">Bilder auf Film h2/sh/S2724H/1063</a> | Sansibar
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2725H" rel="nofollow">Bilder auf Film h2/sh/S2725H</a> | Filmanfang: Sansibar : b-u36 [C115 b-u36]
+
+
+:::
 
 
 
@@ -58,8 +78,27 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
-Insgesamt 3 Mappen, 15 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 3 Mappen (bis 1949), 15 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

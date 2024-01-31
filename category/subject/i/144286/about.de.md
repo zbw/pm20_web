@@ -1,6 +1,6 @@
 ---
 title: "f2 Geschichtliche Vorgänge"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [f2]{.gray}&#8201; Geschichtliche Vorgänge &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427863)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144286`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144286`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 39 Mappen, 951 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 39 Mappen, 954 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -33,7 +34,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 ### Europa
 
-- A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144286" title="über: Europa : Geschichtliche Vorgänge" target="_blank">145 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1442xx/144286/about.de.html))
+- A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144286" title="über: Europa : Geschichtliche Vorgänge" target="_blank">148 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1442xx/144286/about.de.html))
 - A1a Ostseeländer [**&nearr;**](../../../geo/i/140894/about.de.html "Ostseeländer (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1a "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140894,144286" title="über: Ostseeländer : Geschichtliche Vorgänge" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140894/1442xx/144286/about.de.html))
 - A2 Mitteleuropa [**&nearr;**](../../../geo/i/140895/about.de.html "Mitteleuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A2 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140895,144286" title="über: Mitteleuropa : Geschichtliche Vorgänge" target="_blank">13 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140895/1442xx/144286/about.de.html))
 - A4 Westeuropa [**&nearr;**](../../../geo/i/140897/about.de.html "Westeuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A4 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140897,144286" title="über: Westeuropa : Geschichtliche Vorgänge" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140897/1442xx/144286/about.de.html))
@@ -84,6 +85,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144286" title="über: Argentinien : Geschichtliche Vorgänge" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1442xx/144286/about.de.html))
 - E95 Uruguay [**&nearr;**](../../../geo/i/141695/about.de.html "Uruguay (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E95 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141695,144286" title="über: Uruguay : Geschichtliche Vorgänge" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141695/1442xx/144286/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

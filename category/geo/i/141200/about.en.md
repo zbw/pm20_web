@@ -1,6 +1,6 @@
 ---
 title: "B54 French India"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -8,17 +8,76 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B54]{.gray}&#8201; French India
+# [B54]{.gray}&#8201; French India &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q646374) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/French_India)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141200`</div>
-
-
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141200`</div>
 
 
 
 
 
-## Commodities/wares archives
+[Subject archives](#subject-archives-folders) &#160; [Commodities/wares archives](#commoditieswares-archives-folders)
+
+
+
+
+## Subject archives folders
+
+
+
+
+
+
+
+
+No material prepared as folder.
+
+
+
+<a id="filmsections" />
+
+## Sections of digitized microfilms (1st filming 1908-1949)
+
+<p>For intellectual property law reasons accessible only from the European Union legal area and from the ZBW reading room.</p>
+
+
+
+<p>Total number of images: 199</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0693H/1011" rel="nofollow">Images on film h1/sh/S0693H/1011</a> | Französisch-Indien
+
+
+:::
+
+
+
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 53</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2637H/0869" rel="nofollow">Images on film h2/sh/S2637H/0869</a> | Französisch-Indien
+
+
+:::
 
 
 
@@ -28,8 +87,27 @@ fn-stub: about
 
 
 
-In total 3 folders, 14 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_wa.de.html) (in German).
+
+
+
+
+
+## Commodities/wares archives folders
+
+
+
+
+
+
+
+
+
+
+
+In total 3 folders (until 1949), 14 documents
+- folders incomplete.  For material not published as folders, please check the
+digitized micro-films of the [1st filming](/film/h1_wa.de.html) and [2nd
+filming](/film/h2_wa.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 

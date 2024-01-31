@@ -1,6 +1,6 @@
 ---
 title: "A18 Norwegen"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -8,27 +8,114 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A18]{.gray}&#8201; Norwegen
+# [A18]{.gray}&#8201; Norwegen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q20) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Norwegen)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140969`</div>
-
-
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/140969`</div>
 
 
 
 
-
-## Warenarchiv
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
+## Sacharchiv Mappen
 
 
 
-Insgesamt 28 Mappen, 536 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+Kein als Mappe erschlossenes Material.
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 4182</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0253H/0926" rel="nofollow">Bilder auf Film h1/sh/S0253H/0926</a> | Norwegen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0254H_1" rel="nofollow">Bilder auf Film h1/sh/S0254H_1</a> | Filmanfang: Norwegen : Geschichtliche Vorgänge [A18 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0255H_1" rel="nofollow">Bilder auf Film h1/sh/S0255H_1</a> | Filmanfang: Norwegen : Wirtschaftspolitische Beziehungen zu einzelnen Ländern Spanien [A18 g4a Spanien]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0256H_1" rel="nofollow">Bilder auf Film h1/sh/S0256H_1</a> | Filmanfang: Norwegen : Berichte über die wirtschaftliche Lage [A18 n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0257H" rel="nofollow">Bilder auf Film h1/sh/S0257H</a> | Filmanfang: Norwegen : Handel [A18 n18]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0258H" rel="nofollow">Bilder auf Film h1/sh/S0258H</a> | Filmanfang: Norwegen : Seeschiffahrt [A18 n32]
+
+
+:::
+
+
+
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 5199</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2302H/0637" rel="nofollow">Bilder auf Film h2/sh/S2302H/0637</a> | Norwegen
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2303H" rel="nofollow">Bilder auf Film h2/sh/S2303H</a> | Filmanfang: Norwegen : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein [A18 g4]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2304H" rel="nofollow">Bilder auf Film h2/sh/S2304H</a> | Filmanfang: Norwegen : Zollwesen, Zolltarife [A18 m2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2305H" rel="nofollow">Bilder auf Film h2/sh/S2305H</a> | Filmanfang: Norwegen : Berichte über die wirtschaftliche Lage in einzelnen Bundesstaaten, Provinzen und Städten [A18 n2a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2306H" rel="nofollow">Bilder auf Film h2/sh/S2306H</a> | Filmanfang: Norwegen : Kleinhandel [A18 n20]
+
+
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 28 Mappen (bis 1949), 536 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

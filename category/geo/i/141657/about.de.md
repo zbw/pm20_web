@@ -1,6 +1,6 @@
 ---
 title: "E20 Mexiko"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,18 +10,21 @@ fn-stub: about
 
 # [E20]{.gray}&#8201; Mexiko &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q96) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Mexiko)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141657`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141657`</div>
 
 
 
 
-[Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
+
+
+
 
 
 
@@ -43,11 +46,65 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 12352</p>
 
 
 
 
-## Warenarchiv
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0950H/1108" rel="nofollow">Bilder auf Film h1/sh/S0950H/1108</a> | Mexiko
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0951H_1" rel="nofollow">Bilder auf Film h1/sh/S0951H_1</a> | Filmanfang: Mexiko : Landeskunde, Allgemein [E20 c]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0952H" rel="nofollow">Bilder auf Film h1/sh/S0952H</a> | Filmanfang: Mexiko : Geschichtliche Vorgänge [E20 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0953H" rel="nofollow">Bilder auf Film h1/sh/S0953H</a> | Filmanfang: Mexiko : Parteiwesen [E20 f5]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0954H" rel="nofollow">Bilder auf Film h1/sh/S0954H</a> | Filmanfang: Mexiko : Wirtschaftskrieg [E20 g4 Sm2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0955H" rel="nofollow">Bilder auf Film h1/sh/S0955H</a> | Filmanfang: Mexiko : Flugwesen [E20 l4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0956H" rel="nofollow">Bilder auf Film h1/sh/S0956H</a> | Filmanfang: Mexiko : Konkurswesen, Geschäftsaufsicht [E20 n Sm4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0957H" rel="nofollow">Bilder auf Film h1/sh/S0957H</a> | Filmanfang: Mexiko : Grundbesitz von Ausländern, Überfremdung [E20 n3 Sm5]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0958H" rel="nofollow">Bilder auf Film h1/sh/S0958H</a> | Filmanfang: Mexiko : Streiks, Vereinbarungen zwischen Arbeitgebern und Arbeitnehmern, Allgemein [E20 n15 Sm2.I]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0959H" rel="nofollow">Bilder auf Film h1/sh/S0959H</a> | Filmanfang: Mexiko : Börsenwesen [E20 n25]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0960H" rel="nofollow">Bilder auf Film h1/sh/S0960H</a> | Filmanfang: Mexiko : Siedlung und Wanderung [E20 p]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0961H" rel="nofollow">Bilder auf Film h1/sh/S0961H</a> | Filmanfang: Mexiko : Wirtschaftspolitische Beziehungen zu einzelnen Ländern [E20 g4a]
+
+
+:::
+
+
+
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 4547</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2800H/0621" rel="nofollow">Bilder auf Film h2/sh/S2800H/0621</a> | Mexiko
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2801H" rel="nofollow">Bilder auf Film h2/sh/S2801H</a> | Filmanfang: Mexiko : Zollpolitik [E20 g4 Sm1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2802H" rel="nofollow">Bilder auf Film h2/sh/S2802H</a> | Filmanfang: Mexiko : Lebenshaltung, Lebensstandard, Einkommensverteilung n1 [E20 n Sm23 n1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2803H" rel="nofollow">Bilder auf Film h2/sh/S2803H</a> | Filmanfang: Mexiko : 2 Sm3 [E20 2 Sm3]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2804H" rel="nofollow">Bilder auf Film h2/sh/S2804H</a> | Filmanfang: Mexiko : Geld und Währung Sm1-4 [E20 n23 Sm1-4]
+
+
+:::
 
 
 
@@ -56,8 +113,27 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
-Insgesamt 41 Mappen, 860 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 41 Mappen (bis 1949), 860 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

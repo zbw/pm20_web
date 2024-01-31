@@ -1,6 +1,6 @@
 ---
 title: "Ammoniak"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Ammoniak &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q4087) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Ammoniak)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/165930`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/165930`</div>
 
 <div class="hint">
 Scope Note: Ausgangsstoff für Stickstoffdünger (einschl.: Kohlenstickstoff; Ammoniumsulfat)
@@ -20,12 +20,14 @@ Scope Note: Ausgangsstoff für Stickstoffdünger (einschl.: Kohlenstickstoff; Am
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 44 Mappen, 636 Dokumente - Mappen komplett.
+
+
+Insgesamt 44 Mappen, 636 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -51,7 +53,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - A40b Österreich [**&nearr;**](../../../geo/i/141731/about.de.html "Österreich (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40b "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/165930,141731" title="über: Ammoniak : Österreich" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1659xx/165930/1417xx/141731/about.de.html))
 - A40c Tschechoslowakei [**&nearr;**](../../../geo/i/141022/about.de.html "Tschechoslowakei (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40c "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/165930,141022" title="über: Ammoniak : Tschechoslowakei" target="_blank">10 Dokumente</a>) ([Mappe](../../../../folder/wa/1659xx/165930/1410xx/141022/about.de.html))
 - A40d Ungarn [**&nearr;**](../../../geo/i/141025/about.de.html "Ungarn (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40d "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/165930,141025" title="über: Ammoniak : Ungarn" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1659xx/165930/1410xx/141025/about.de.html))
-- A40e Südslawien [**&nearr;**](../../../geo/i/141028/about.de.html "Südslawien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40e "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/165930,141028" title="über: Ammoniak : Südslawien" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1659xx/165930/1410xx/141028/about.de.html))
+- A40e Jugoslawien (bis 1945 Südslawien) [**&nearr;**](../../../geo/i/141028/about.de.html "Jugoslawien (bis 1945 Südslawien) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40e "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/165930,141028" title="über: Ammoniak : Jugoslawien (bis 1945 Südslawien)" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1659xx/165930/1410xx/141028/about.de.html))
 - A40f Slowakei [**&nearr;**](../../../geo/i/141029/about.de.html "Slowakei (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40f "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/165930,141029" title="über: Ammoniak : Slowakei" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1659xx/165930/1410xx/141029/about.de.html))
 - A45 Griechenland [**&nearr;**](../../../geo/i/141037/about.de.html "Griechenland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A45 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/165930,141037" title="über: Ammoniak : Griechenland" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/wa/1659xx/165930/1410xx/141037/about.de.html))
 - A47 Rumänien [**&nearr;**](../../../geo/i/141040/about.de.html "Rumänien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A47 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/165930,141040" title="über: Ammoniak : Rumänien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1659xx/165930/1410xx/141040/about.de.html))
@@ -93,6 +95,38 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Welt
 
 - H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/165930,141728" title="über: Ammoniak : Welt" target="_blank">66 Dokumente</a>) ([Mappe](../../../../folder/wa/1659xx/165930/1417xx/141728/about.de.html))
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 192</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2027H/0797" rel="nofollow">Bilder auf Film h2/wa/W2027H/0797</a> | Ammoniak
+
+
+:::
+
+
+
+
+
+
+
+
 
 
 

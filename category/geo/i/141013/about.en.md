@@ -1,6 +1,6 @@
 ---
 title: "A37 Monaco"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [A37]{.gray}&#8201; Monaco &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q235) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Monaco)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141013`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141013`</div>
 
 
 
@@ -18,7 +18,7 @@ fn-stub: about
 
 
 
-## Subject archives
+## Subject archives folders
 
 
 
@@ -26,7 +26,10 @@ fn-stub: about
 
 
 
-In total 11 folders, 120 documents - folders complete.
+
+
+
+In total 11 folders, 120 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -68,6 +71,37 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
   - n Sm28 Casinos, private lotteries, betting companies, general [**&nearr;**](../../../subject/i/145824/about.en.html "Casinos, private lotteries, betting companies, general (all over the world)") [**&uarr;**](../../../subject/about.en.html#n_Sm28 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141013,145824" title="about: Monaco : Casinos, private lotteries, betting companies, general" target="_blank">7 documents</a>) ([folder](../../../../folder/sh/1410xx/141013/1458xx/145824/about.en.html))
 - n2 Report on the economic situation [**&nearr;**](../../../subject/i/144972/about.en.html "Report on the economic situation (all over the world)") [**&uarr;**](../../../subject/about.en.html#n2 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141013,144972" title="about: Monaco : Report on the economic situation" target="_blank">6 documents</a>) ([folder](../../../../folder/sh/1410xx/141013/1449xx/144972/about.en.html))
 - n23 Money and currency [**&nearr;**](../../../subject/i/145305/about.en.html "Money and currency (all over the world)") [**&uarr;**](../../../subject/about.en.html#n23 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141013,145305" title="about: Monaco : Money and currency" target="_blank">6 documents</a>) ([folder](../../../../folder/sh/1410xx/141013/1453xx/145305/about.en.html))
+
+
+
+<a id="filmsections" />
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 121</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2527H/0968" rel="nofollow">Images on film h2/sh/S2527H/0968</a> | Monaco
+
+
+:::
+
+
+
+
+
+
+
 
 
 

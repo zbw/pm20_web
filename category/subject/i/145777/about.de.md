@@ -1,6 +1,6 @@
 ---
 title: "n Sm2.II Zahlungsbilanz, im Verhältnis zu anderen Ländern"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n Sm2.II]{.gray}&#8201; Zahlungsbilanz, im Verhältnis zu anderen Ländern &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700346)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145777`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145777`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 6 Mappen, 28 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 5 Mappen, 28 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -33,7 +34,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 ### Europa
 
-- A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145777" title="über: Europa : Zahlungsbilanz, im Verhältnis zu anderen Ländern" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1457xx/145777/about.de.html))
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145777" title="über: Südosteuropa : Zahlungsbilanz, im Verhältnis zu anderen Ländern" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1457xx/145777/about.de.html))
 
 ### Asien
@@ -45,6 +45,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145777" title="über: Argentinien : Zahlungsbilanz, im Verhältnis zu anderen Ländern" target="_blank">13 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1457xx/145777/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

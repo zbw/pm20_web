@@ -1,6 +1,6 @@
 ---
 title: "n34 Postal services, telegraphy and telephony"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n34]{.gray}&#8201; Postal services, telegraphy and telephony &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428078)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145662`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145662`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 48 folders, 1418 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 47 folders, 1419 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -33,8 +34,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A3 Eastern Europe [**&nearr;**](../../../geo/i/140896/about.en.html "Eastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A3 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140896,145662" title="about: Eastern Europe : Postal services, telegraphy and telephony" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1408xx/140896/1456xx/145662/about.en.html))
 - A5 Levant [**&nearr;**](../../../geo/i/140898/about.en.html "Levant (all folders)") [**&uarr;**](../../../geo/about.en.html#A5 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140898,145662" title="about: Levant : Postal services, telegraphy and telephony" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1408xx/140898/1456xx/145662/about.en.html))
 - A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145662" title="about: Southeastern Europe : Postal services, telegraphy and telephony" target="_blank">16 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1456xx/145662/about.en.html))
-- A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,145662" title="about: Orient : Postal services, telegraphy and telephony" target="_blank">0 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1456xx/145662/about.en.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145662" title="about: Hamburg : Postal services, telegraphy and telephony" target="_blank">73 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1456xx/145662/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145662" title="about: Hamburg : Postal services, telegraphy and telephony" target="_blank">74 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1456xx/145662/about.en.html))
 - A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,145662" title="about: Germany : Postal services, telegraphy and telephony" target="_blank">538 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1456xx/145662/about.en.html))
 - A10n(1) Upper Silesia (German-Polish border region) [**&nearr;**](../../../geo/i/140948/about.en.html "Upper Silesia (German-Polish border region) (all folders)") [**&uarr;**](../../../geo/about.en.html#A10n(1) "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140948,145662" title="about: Upper Silesia (German-Polish border region) : Postal services, telegraphy and telephony" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1409xx/140948/1456xx/145662/about.en.html))
 - A10p East Upper Silesia [**&nearr;**](../../../geo/i/140951/about.en.html "East Upper Silesia (all folders)") [**&uarr;**](../../../geo/about.en.html#A10p "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140951,145662" title="about: East Upper Silesia : Postal services, telegraphy and telephony" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1409xx/140951/1456xx/145662/about.en.html))
@@ -90,6 +90,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145662" title="about: Argentina : Postal services, telegraphy and telephony" target="_blank">143 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1456xx/145662/about.en.html))
 - E101 Surinam [**&nearr;**](../../../geo/i/141699/about.en.html "Surinam (all folders)") [**&uarr;**](../../../geo/about.en.html#E101 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141699,145662" title="about: Surinam : Postal services, telegraphy and telephony" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1416xx/141699/1456xx/145662/about.en.html))
 - E102 British Guiana [**&nearr;**](../../../geo/i/141700/about.en.html "British Guiana (all folders)") [**&uarr;**](../../../geo/about.en.html#E102 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141700,145662" title="about: British Guiana : Postal services, telegraphy and telephony" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1417xx/141700/1456xx/145662/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

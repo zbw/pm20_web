@@ -1,6 +1,6 @@
 ---
 title: "C93 Britisch-Südafrika"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,20 +10,23 @@ fn-stub: about
 
 # [C93]{.gray}&#8201; Britisch-Südafrika &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q193619) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/S%C3%BCdafrikanische_Union)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141454`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141454`</div>
 
 <div class="hint">
 Scope Note: Britisch Südafrika, Südafrikanische Union (ab 2.5.1910), Südafrikanische Republik (ab 1961)
 </div>
 
 
-[Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
+
+
+
 
 
 
@@ -82,11 +85,67 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 13235</p>
 
 
 
 
-## Warenarchiv
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0812H_1" rel="nofollow">Bilder auf Film h1/sh/S0812H_1</a> | Filmanfang: Britisch-Südafrika : Soziale Zustände, Soziale Lage [C93 d5]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0813H" rel="nofollow">Bilder auf Film h1/sh/S0813H</a> | Filmanfang: Britisch-Südafrika : Geschichtliche Vorgänge [C93 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0814H" rel="nofollow">Bilder auf Film h1/sh/S0814H</a> | Filmanfang: Britisch-Südafrika : Einzelne Parteien und Parteigruppen Labour Party [C93 f5a Labour Party]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0815H" rel="nofollow">Bilder auf Film h1/sh/S0815H</a> | Filmanfang: Britisch-Südafrika : Diplomatische und konsularische Vertretungen in einzelnen Ländern Deutschland [C93 g2a Deutschland]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0816H" rel="nofollow">Bilder auf Film h1/sh/S0816H</a> | Filmanfang: Britisch-Südafrika : Soziale Fürsorge (öffentliche u. private) [C93 h7]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0817H" rel="nofollow">Bilder auf Film h1/sh/S0817H</a> | Filmanfang: Britisch-Südafrika : Finanzwesen einzelner Bundesstaaten oder Provinzen [C93 m1a]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0818H" rel="nofollow">Bilder auf Film h1/sh/S0818H</a> | Filmanfang: Britisch-Südafrika : Berichte über die wirtschaftliche Lage [C93 n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0819H" rel="nofollow">Bilder auf Film h1/sh/S0819H</a> | Filmanfang: Britisch-Südafrika : Bergbau [C93 n12]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0820H" rel="nofollow">Bilder auf Film h1/sh/S0820H</a> | Filmanfang: Britisch-Südafrika : Handel [C93 n18]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0821H" rel="nofollow">Bilder auf Film h1/sh/S0821H</a> | Filmanfang: Britisch-Südafrika : Handelsbeziehungen zu einzelnen Ländern Ver. St. V. Amerika [C93 n19 Ver. St. V. Amerika]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0822H" rel="nofollow">Bilder auf Film h1/sh/S0822H</a> | Filmanfang: Britisch-Südafrika : Schiffsverkehr in einzelnen Häfen Port Elisabeth [C93 n32a Port Elisabeth]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0823H" rel="nofollow">Bilder auf Film h1/sh/S0823H</a> | Filmanfang: Britisch-Südafrika : Juden, Judenfeindlichkeit und Antisemitismus bis 1945 [C93 q Sm8]
+
+
+:::
+
+
+
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 7093</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2714H/0719" rel="nofollow">Bilder auf Film h2/sh/S2714H/0719</a> | Britisch-Südafrika
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2715H" rel="nofollow">Bilder auf Film h2/sh/S2715H</a> | Filmanfang: Britisch-Südafrika : Geschichtliche Vorgänge [C93 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2716H" rel="nofollow">Bilder auf Film h2/sh/S2716H</a> | Filmanfang: Britisch-Südafrika : Zollpolitik [C93 g4 Sm1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2717H" rel="nofollow">Bilder auf Film h2/sh/S2717H</a> | Filmanfang: Britisch-Südafrika : Zolltarif, Vollständiger Text [C93 m2 Sm1.I]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2718H" rel="nofollow">Bilder auf Film h2/sh/S2718H</a> | Filmanfang: Britisch-Südafrika : Zollwesen, Zolltarife [C93 m2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2719H" rel="nofollow">Bilder auf Film h2/sh/S2719H</a> | Filmanfang: Britisch-Südafrika : n13a-u17a Sm [C93 n13a-u17a Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2720H" rel="nofollow">Bilder auf Film h2/sh/S2720H</a> | Filmanfang: Britisch-Südafrika : u35-q Nr.22 Sm [C93 u35-q Nr.22 Sm]
+
+
+:::
 
 
 
@@ -95,8 +154,27 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
-Insgesamt 43 Mappen, 922 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 43 Mappen (bis 1949), 922 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

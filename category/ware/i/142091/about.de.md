@@ -1,6 +1,6 @@
 ---
 title: "Baumwollindustrie"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -8,22 +8,24 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Baumwollindustrie &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q56604650)
+# Baumwollindustrie &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q12080079)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142091`</div>
-
-
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142091`</div>
 
 
 
 
 
-## Warenarchiv
+
+
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 68 Mappen, 9597 Dokumente - Mappen komplett.
+
+
+Insgesamt 68 Mappen, 9597 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -55,7 +57,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - A40b(A10) Ostmark (1938-1945) [**&nearr;**](../../../geo/i/163025/about.de.html "Ostmark (1938-1945) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40b(A10) "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142091,163025" title="über: Baumwollindustrie : Ostmark (1938-1945)" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142091/1630xx/163025/about.de.html))
 - A40c Tschechoslowakei [**&nearr;**](../../../geo/i/141022/about.de.html "Tschechoslowakei (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40c "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142091,141022" title="über: Baumwollindustrie : Tschechoslowakei" target="_blank">203 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142091/1410xx/141022/about.de.html))
 - A40d Ungarn [**&nearr;**](../../../geo/i/141025/about.de.html "Ungarn (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40d "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142091,141025" title="über: Baumwollindustrie : Ungarn" target="_blank">101 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142091/1410xx/141025/about.de.html))
-- A40e Südslawien [**&nearr;**](../../../geo/i/141028/about.de.html "Südslawien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40e "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142091,141028" title="über: Baumwollindustrie : Südslawien" target="_blank">132 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142091/1410xx/141028/about.de.html))
+- A40e Jugoslawien (bis 1945 Südslawien) [**&nearr;**](../../../geo/i/141028/about.de.html "Jugoslawien (bis 1945 Südslawien) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40e "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142091,141028" title="über: Baumwollindustrie : Jugoslawien (bis 1945 Südslawien)" target="_blank">132 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142091/1410xx/141028/about.de.html))
 - A40f Slowakei [**&nearr;**](../../../geo/i/141029/about.de.html "Slowakei (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40f "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142091,141029" title="über: Baumwollindustrie : Slowakei" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142091/1410xx/141029/about.de.html))
 - A40g Kroatien [**&nearr;**](../../../geo/i/141030/about.de.html "Kroatien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40g "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142091,141030" title="über: Baumwollindustrie : Kroatien" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142091/1410xx/141030/about.de.html))
 - A45 Griechenland [**&nearr;**](../../../geo/i/141037/about.de.html "Griechenland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A45 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142091,141037" title="über: Baumwollindustrie : Griechenland" target="_blank">63 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142091/1410xx/141037/about.de.html))
@@ -115,6 +117,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Welt
 
 - H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142091,141728" title="über: Baumwollindustrie : Welt" target="_blank">420 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142091/1417xx/141728/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

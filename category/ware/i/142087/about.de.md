@@ -1,6 +1,6 @@
 ---
 title: "Baumrodemaschine"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Baumrodemaschine &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q111973901)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142087`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142087`</div>
 
 
 
@@ -18,12 +18,14 @@ fn-stub: about
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 5 Mappen, 18 Dokumente - Mappen komplett.
+
+
+Insgesamt 5 Mappen, 18 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -40,6 +42,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E67 Britisch-Honduras [**&nearr;**](../../../geo/i/141680/about.de.html "Britisch-Honduras (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E67 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142087,141680" title="über: Baumrodemaschine : Britisch-Honduras" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142087/1416xx/141680/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

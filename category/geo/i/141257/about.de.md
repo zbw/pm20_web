@@ -1,6 +1,6 @@
 ---
 title: "B94c Autonomes Nordchina"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -8,27 +8,83 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B94c]{.gray}&#8201; Autonomes Nordchina
+# [B94c]{.gray}&#8201; Autonomes Nordchina &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q115902448)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141257`</div>
-
-
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141257`</div>
 
 
 
 
-
-## Warenarchiv
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
+## Sacharchiv Mappen
 
 
 
-Insgesamt 3 Mappen, 52 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+Kein als Mappe erschlossenes Material.
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 417</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0735H/1036" rel="nofollow">Bilder auf Film h1/sh/S0735H/1036</a> | Autonomes Nordchina
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0736H" rel="nofollow">Bilder auf Film h1/sh/S0736H</a> | Filmanfang: Autonomes Nordchina : Wirtschaftspolitik [B94c n1]
+
+
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 3 Mappen (bis 1949), 52 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

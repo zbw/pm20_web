@@ -1,6 +1,6 @@
 ---
 title: "C26 Spanisch-Marokko"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,27 +10,30 @@ fn-stub: about
 
 # [C26]{.gray}&#8201; Spanisch-Marokko &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q457242) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Spanisch-Marokko)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141359`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141359`</div>
 
 <div class="hint">
 Scope Note: Bezeichnung für einen Teil Marokkos, der von 1912 bis 1956 ein spanisches Protektorat war
 </div>
 
 
-[Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
 
 
 
 
 
 
-Insgesamt 130 Mappen, 1518 Dokumente - Mappen komplett.
+
+
+
+Insgesamt 130 Mappen, 1518 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -218,11 +221,27 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 104</p>
 
 
 
 
-## Warenarchiv
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2703H/0639" rel="nofollow">Bilder auf Film h2/sh/S2703H/0639</a> | Spanisch Marokko
+
+
+:::
 
 
 
@@ -231,8 +250,27 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
-Insgesamt 6 Mappen, 13 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 6 Mappen (bis 1949), 13 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

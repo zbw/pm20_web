@@ -1,6 +1,6 @@
 ---
 title: "l Sm2 Troop losses in the World War, burial sites"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [l Sm2]{.gray}&#8201; Troop losses in the World War, burial sites &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700209)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144786`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144786`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 6 folders, 62 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 6 folders, 65 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -34,7 +35,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### Europe
 
 - A4 Western Europe [**&nearr;**](../../../geo/i/140897/about.en.html "Western Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A4 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140897,144786" title="about: Western Europe : Troop losses in the World War, burial sites" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1408xx/140897/1447xx/144786/about.en.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144786" title="about: Hamburg : Troop losses in the World War, burial sites" target="_blank">39 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1447xx/144786/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144786" title="about: Hamburg : Troop losses in the World War, burial sites" target="_blank">42 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1447xx/144786/about.en.html))
 - A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140960,144786" title="about: German imperial colonies : Troop losses in the World War, burial sites" target="_blank">4 documents</a>) ([folder](../../../../folder/sh/1409xx/140960/1447xx/144786/about.en.html))
 
 ### Asia
@@ -45,6 +46,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 - C57 Gold Coast incl. British Togoland [**&nearr;**](../../../geo/i/141406/about.en.html "Gold Coast incl. British Togoland (all folders)") [**&uarr;**](../../../geo/about.en.html#C57 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141406,144786" title="about: Gold Coast incl. British Togoland : Troop losses in the World War, burial sites" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1414xx/141406/1447xx/144786/about.en.html))
 - C87 German South-West Africa [**&nearr;**](../../../geo/i/141450/about.en.html "German South-West Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C87 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141450,144786" title="about: German South-West Africa : Troop losses in the World War, burial sites" target="_blank">8 documents</a>) ([folder](../../../../folder/sh/1414xx/141450/1447xx/144786/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

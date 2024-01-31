@@ -1,6 +1,6 @@
 ---
 title: "g4 Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [g4]{.gray}&#8201; Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427880)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144470`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144470`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 46 Mappen, 2037 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 46 Mappen, 2039 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -33,7 +34,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 ### Europa
 
-- A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144470" title="über: Europa : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein" target="_blank">251 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1444xx/144470/about.de.html))
+- A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144470" title="über: Europa : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein" target="_blank">252 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1444xx/144470/about.de.html))
 - A1a Ostseeländer [**&nearr;**](../../../geo/i/140894/about.de.html "Ostseeländer (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1a "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140894,144470" title="über: Ostseeländer : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140894/1444xx/144470/about.de.html))
 - A2 Mitteleuropa [**&nearr;**](../../../geo/i/140895/about.de.html "Mitteleuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A2 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140895,144470" title="über: Mitteleuropa : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140895/1444xx/144470/about.de.html))
 - A3 Osteuropa [**&nearr;**](../../../geo/i/140896/about.de.html "Osteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A3 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140896,144470" title="über: Osteuropa : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140896/1444xx/144470/about.de.html))
@@ -43,7 +44,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,144470" title="über: Südosteuropa : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein" target="_blank">154 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1444xx/144470/about.de.html))
 - A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,144470" title="über: Orient : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1444xx/144470/about.de.html))
 - A8 Russische Randstaaten [**&nearr;**](../../../geo/i/140904/about.de.html "Russische Randstaaten (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A8 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140904,144470" title="über: Russische Randstaaten : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein" target="_blank">9 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140904/1444xx/144470/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144470" title="über: Hamburg : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein" target="_blank">13 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1444xx/144470/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144470" title="über: Hamburg : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein" target="_blank">14 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1444xx/144470/about.de.html))
 - A10p Polnisch-Schlesien [**&nearr;**](../../../geo/i/140951/about.de.html "Polnisch-Schlesien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10p "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140951,144470" title="über: Polnisch-Schlesien : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140951/1444xx/144470/about.de.html))
 - A36 Italienische Kolonien [**&nearr;**](../../../geo/i/141012/about.de.html "Italienische Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A36 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141012,144470" title="über: Italienische Kolonien : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141012/1444xx/144470/about.de.html))
 - A39 Liechtenstein [**&nearr;**](../../../geo/i/141016/about.de.html "Liechtenstein (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A39 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141016,144470" title="über: Liechtenstein : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141016/1444xx/144470/about.de.html))
@@ -91,6 +92,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144470" title="über: Argentinien : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein" target="_blank">214 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1444xx/144470/about.de.html))
 - E102 Britisch-Guayana [**&nearr;**](../../../geo/i/141700/about.de.html "Britisch-Guayana (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E102 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141700,144470" title="über: Britisch-Guayana : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1417xx/141700/1444xx/144470/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

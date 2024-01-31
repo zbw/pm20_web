@@ -1,6 +1,6 @@
 ---
 title: "g6 Interessen fremder Staaten in ..., Allgemein"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [g6]{.gray}&#8201; Interessen fremder Staaten in ..., Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427883)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144565`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144565`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 31 Mappen, 576 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 31 Mappen, 576 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -76,6 +77,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Polargebiete
 
 - F11 Antarktis [**&nearr;**](../../../geo/i/141703/about.de.html "Antarktis (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#F11 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141703,144565" title="über: Antarktis : Interessen fremder Staaten in ..., Allgemein" target="_blank">11 Dokumente</a>) ([Mappe](../../../../folder/sh/1417xx/141703/1445xx/144565/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

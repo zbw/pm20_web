@@ -1,6 +1,6 @@
 ---
 title: "n34b Postwesen, Telegraphenwesen und Fernsprechwesen mit einzelnen Ländern"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n34b]{.gray}&#8201; Postwesen, Telegraphenwesen und Fernsprechwesen mit einzelnen Ländern &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428080)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145680`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145680`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 30 Mappen, 410 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 30 Mappen, 410 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -75,6 +76,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Polargebiete
 
 - F11 Antarktis [**&nearr;**](../../../geo/i/141703/about.de.html "Antarktis (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#F11 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141703,145680" title="über: Antarktis : Postwesen, Telegraphenwesen und Fernsprechwesen mit einzelnen Ländern" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1417xx/141703/1456xx/145680/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

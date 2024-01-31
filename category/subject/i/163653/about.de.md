@@ -1,6 +1,6 @@
 ---
 title: "f5 Sm1.III Wahlen für parlamentarische Körperschaften und sonstige politische Wahlen"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [f5 Sm1.III]{.gray}&#8201; Wahlen für parlamentarische Körperschaften und sonstige politische Wahlen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699652)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/163653`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/163653`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 6 Mappen, 110 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 6 Mappen, 154 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -33,7 +34,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 ### Europa
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,163653" title="über: Hamburg : Wahlen für parlamentarische Körperschaften und sonstige politische Wahlen" target="_blank">87 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1636xx/163653/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,163653" title="über: Hamburg : Wahlen für parlamentarische Körperschaften und sonstige politische Wahlen" target="_blank">131 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1636xx/163653/about.de.html))
 
 ### Asien
 
@@ -48,6 +49,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,163653" title="über: Argentinien : Wahlen für parlamentarische Körperschaften und sonstige politische Wahlen" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1636xx/163653/about.de.html))
 - E95 Uruguay [**&nearr;**](../../../geo/i/141695/about.de.html "Uruguay (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E95 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141695,163653" title="über: Uruguay : Wahlen für parlamentarische Körperschaften und sonstige politische Wahlen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141695/1636xx/163653/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "n Sm6.IIa Nationale Kapitalanlagen im Ausland, Allgemein"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n Sm6.IIa]{.gray}&#8201; Nationale Kapitalanlagen im Ausland, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700360)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145785`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145785`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 5 Mappen, 31 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 4 Mappen, 31 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -33,7 +34,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 ### Europa
 
-- A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145785" title="über: Europa : Nationale Kapitalanlagen im Ausland, Allgemein" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1457xx/145785/about.de.html))
 - A4 Westeuropa [**&nearr;**](../../../geo/i/140897/about.de.html "Westeuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A4 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140897,145785" title="über: Westeuropa : Nationale Kapitalanlagen im Ausland, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140897/1457xx/145785/about.de.html))
 
 ### Asien
@@ -47,6 +47,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145785" title="über: Argentinien : Nationale Kapitalanlagen im Ausland, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1457xx/145785/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

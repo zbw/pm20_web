@@ -1,6 +1,6 @@
 ---
 title: "B18 Zypern"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,18 +10,21 @@ fn-stub: about
 
 # [B18]{.gray}&#8201; Zypern &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q229) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Republik_Zypern)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141079`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141079`</div>
 
 
 
 
-[Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
+
+
+
 
 
 
@@ -83,11 +86,52 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 104</p>
 
 
 
 
-## Warenarchiv
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0651H_1/0526" rel="nofollow">Bilder auf Film h1/sh/S0651H_1/0526</a> | Zypern
+
+
+:::
+
+
+
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 2607</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2599H/0941" rel="nofollow">Bilder auf Film h2/sh/S2599H/0941</a> | Zypern
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2600H" rel="nofollow">Bilder auf Film h2/sh/S2600H</a> | Filmanfang: Zypern : Geschichtliche Vorgänge [B18 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2601H" rel="nofollow">Bilder auf Film h2/sh/S2601H</a> | Filmanfang: Zypern : Geschichtliche Vorgänge [B18 f2]
+
+
+:::
 
 
 
@@ -96,8 +140,27 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
-Insgesamt 7 Mappen, 79 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 7 Mappen (bis 1949), 79 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

@@ -1,6 +1,6 @@
 ---
 title: "Balsa wood"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Balsa wood &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q27685004)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142033`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142033`</div>
 
 
 
@@ -18,13 +18,15 @@ fn-stub: about
 
 
 
-## Commodities/wares archives
+## Commodities/wares archives folders
 
 
 
 
 
-In total 12 folders, 43 documents - folders complete.
+
+
+In total 12 folders, 43 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -50,6 +52,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - E71 Panama [**&nearr;**](../../../geo/i/141684/about.en.html "Panama (all folders)") [**&uarr;**](../../../geo/about.en.html#E71 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142033,141684" title="about: Balsa wood : Panama" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142033/1416xx/141684/about.en.html))
 - E77 Ecuador [**&nearr;**](../../../geo/i/141688/about.en.html "Ecuador (all folders)") [**&uarr;**](../../../geo/about.en.html#E77 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142033,141688" title="about: Balsa wood : Ecuador" target="_blank">13 documents</a>) ([folder](../../../../folder/wa/1420xx/142033/1416xx/141688/about.en.html))
 - E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142033,141692" title="about: Balsa wood : Argentina" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142033/1416xx/141692/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

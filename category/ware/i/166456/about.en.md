@@ -1,6 +1,6 @@
 ---
 title: "Clothing industry, branches and accessories"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Clothing industry, branches and accessories &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q111973242)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/166456`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/166456`</div>
 
 
 
@@ -18,13 +18,15 @@ fn-stub: about
 
 
 
-## Commodities/wares archives
+## Commodities/wares archives folders
 
 
 
 
 
-In total 26 folders, 151 documents - folders complete.
+
+
+In total 26 folders, 151 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -64,6 +66,38 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - E69 Nicaragua [**&nearr;**](../../../geo/i/141682/about.en.html "Nicaragua (all folders)") [**&uarr;**](../../../geo/about.en.html#E69 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/166456,141682" title="about: Clothing industry, branches and accessories : Nicaragua" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1664xx/166456/1416xx/141682/about.en.html))
 - E79 Peru [**&nearr;**](../../../geo/i/141689/about.en.html "Peru (all folders)") [**&uarr;**](../../../geo/about.en.html#E79 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/166456,141689" title="about: Clothing industry, branches and accessories : Peru" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1664xx/166456/1416xx/141689/about.en.html))
 - E97 Brazil [**&nearr;**](../../../geo/i/141697/about.en.html "Brazil (all folders)") [**&uarr;**](../../../geo/about.en.html#E97 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/166456,141697" title="about: Clothing industry, branches and accessories : Brazil" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1664xx/166456/1416xx/141697/about.en.html))
+
+
+
+<a id="filmsections" />
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: unknown - currently only discoverable via the [film list]().</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2003H/0039" rel="nofollow">Images on film h2/wa/W2003H/0039</a> | Bekleidungssparten und Zubehör
+
+
+:::
+
+
+
+
+
+
+
+
 
 
 

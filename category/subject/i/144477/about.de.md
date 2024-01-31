@@ -1,6 +1,6 @@
 ---
 title: "g4 Sm2.IIIb Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen einz. Länder"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [g4 Sm2.IIIb]{.gray}&#8201; Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen einz. Länder &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699995)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144477`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144477`</div>
 
 <div class="hint">
 Scope Note: (einschl.: Beschlagnahme, Zwangsverwaltung und Liquidation)
@@ -20,13 +20,14 @@ Scope Note: (einschl.: Beschlagnahme, Zwangsverwaltung und Liquidation)
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 23 Mappen, 338 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 23 Mappen, 338 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -70,6 +71,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144477" title="über: Argentinien : Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen einz. Länder" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1444xx/144477/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "A3 Osteuropa"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [A3]{.gray}&#8201; Osteuropa &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q27468) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Osteuropa)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140896`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/140896`</div>
 
 <div class="hint">
 Scope Note: (einschl.: Litauen, Lettland, Estland, Weißrussland, Moldawien, Ukraine und den europäischen Teil Russlands)
@@ -20,14 +20,17 @@ Scope Note: (einschl.: Litauen, Lettland, Estland, Weißrussland, Moldawien, Ukr
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
 
 
 
 
 
 
-Insgesamt 61 Mappen, 225 Dokumente - Mappen komplett.
+
+
+
+Insgesamt 61 Mappen, 225 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -131,6 +134,40 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - q Sm5 (alt) Slawenfrage [**&nearr;**](../../../subject/i/145949/about.de.html "Slawenfrage (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#q_Sm5_(alt) "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140896,145949" title="über: Osteuropa : Slawenfrage" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140896/1459xx/145949/about.de.html))
 - q Sm8 Juden, Judenfeindlichkeit und Antisemitismus bis 1945 [**&nearr;**](../../../subject/i/145952/about.de.html "Juden, Judenfeindlichkeit und Antisemitismus bis 1945 (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#q_Sm8 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140896,145952" title="über: Osteuropa : Juden, Judenfeindlichkeit und Antisemitismus bis 1945" target="_blank">11 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140896/1459xx/145952/about.de.html))
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 3834</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2019H/0820" rel="nofollow">Bilder auf Film h2/sh/S2019H/0820</a> | Osteuropa
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2020H" rel="nofollow">Bilder auf Film h2/sh/S2020H</a> | Filmanfang: Osteuropa : Außenpolitik und politische Beziehungen zum Ausland, Allgemein Sm [A3 g SM]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2021H" rel="nofollow">Bilder auf Film h2/sh/S2021H</a> | Filmanfang: Osteuropa : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein [A3 g4]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2022H" rel="nofollow">Bilder auf Film h2/sh/S2022H</a> | Filmanfang: Osteuropa : Handel [A3 n18]
+
+
+:::
+
+
+
+
+
+
+
 
 
 

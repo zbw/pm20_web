@@ -1,6 +1,6 @@
 ---
 title: "n28 Sm1 Hotelgewerbe (alt)"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n28 Sm1]{.gray}&#8201; Hotelgewerbe (alt) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711086)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145510`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145510`</div>
 
 <div class="hint">
 Scope Note: Hotelwesen
@@ -20,13 +20,14 @@ Scope Note: Hotelwesen
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 12 Mappen, 156 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 12 Mappen, 167 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -36,7 +37,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Europa
 
 - A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145510" title="über: Europa : Hotelgewerbe (alt)" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1455xx/145510/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145510" title="über: Hamburg : Hotelgewerbe (alt)" target="_blank">64 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1455xx/145510/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145510" title="über: Hamburg : Hotelgewerbe (alt)" target="_blank">75 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1455xx/145510/about.de.html))
 
 ### Asien
 
@@ -56,6 +57,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145510" title="über: Argentinien : Hotelgewerbe (alt)" target="_blank">14 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1455xx/145510/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

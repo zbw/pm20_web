@@ -1,6 +1,6 @@
 ---
 title: "Cotton industry"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -8,23 +8,25 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Cotton industry &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q56604650)
+# Cotton industry &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q12080079)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142091`</div>
-
-
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142091`</div>
 
 
 
 
 
-## Commodities/wares archives
+
+
+## Commodities/wares archives folders
 
 
 
 
 
-In total 68 folders, 9597 documents - folders complete.
+
+
+In total 68 folders, 9597 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -55,7 +57,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A40b(A10) Ostmark (Austria) [**&nearr;**](../../../geo/i/163025/about.en.html "Ostmark (Austria) (all folders)") [**&uarr;**](../../../geo/about.en.html#A40b(A10) "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142091,163025" title="about: Cotton industry : Ostmark (Austria)" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1420xx/142091/1630xx/163025/about.en.html))
 - A40c Czechoslovakia [**&nearr;**](../../../geo/i/141022/about.en.html "Czechoslovakia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40c "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142091,141022" title="about: Cotton industry : Czechoslovakia" target="_blank">203 documents</a>) ([folder](../../../../folder/wa/1420xx/142091/1410xx/141022/about.en.html))
 - A40d Hungary [**&nearr;**](../../../geo/i/141025/about.en.html "Hungary (all folders)") [**&uarr;**](../../../geo/about.en.html#A40d "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142091,141025" title="about: Cotton industry : Hungary" target="_blank">101 documents</a>) ([folder](../../../../folder/wa/1420xx/142091/1410xx/141025/about.en.html))
-- A40e Kingdom of Yugoslavia [**&nearr;**](../../../geo/i/141028/about.en.html "Kingdom of Yugoslavia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40e "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142091,141028" title="about: Cotton industry : Kingdom of Yugoslavia" target="_blank">132 documents</a>) ([folder](../../../../folder/wa/1420xx/142091/1410xx/141028/about.en.html))
+- A40e (Kingdom of) Yugoslavia [**&nearr;**](../../../geo/i/141028/about.en.html "(Kingdom of) Yugoslavia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40e "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142091,141028" title="about: Cotton industry : (Kingdom of) Yugoslavia" target="_blank">132 documents</a>) ([folder](../../../../folder/wa/1420xx/142091/1410xx/141028/about.en.html))
 - A40f Slovakia [**&nearr;**](../../../geo/i/141029/about.en.html "Slovakia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40f "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142091,141029" title="about: Cotton industry : Slovakia" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1420xx/142091/1410xx/141029/about.en.html))
 - A40g Croatia [**&nearr;**](../../../geo/i/141030/about.en.html "Croatia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40g "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142091,141030" title="about: Cotton industry : Croatia" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1420xx/142091/1410xx/141030/about.en.html))
 - A45 Greece [**&nearr;**](../../../geo/i/141037/about.en.html "Greece (all folders)") [**&uarr;**](../../../geo/about.en.html#A45 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142091,141037" title="about: Cotton industry : Greece" target="_blank">63 documents</a>) ([folder](../../../../folder/wa/1420xx/142091/1410xx/141037/about.en.html))
@@ -115,6 +117,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### World
 
 - H World [**&nearr;**](../../../geo/i/141728/about.en.html "World (all folders)") [**&uarr;**](../../../geo/about.en.html#H "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142091,141728" title="about: Cotton industry : World" target="_blank">420 documents</a>) ([folder](../../../../folder/wa/1420xx/142091/1417xx/141728/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

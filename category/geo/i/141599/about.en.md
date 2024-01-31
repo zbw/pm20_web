@@ -1,6 +1,6 @@
 ---
 title: "D8 Nauru"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [D8]{.gray}&#8201; Nauru &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q697) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Nauru)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141599`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141599`</div>
 
 
 
@@ -18,7 +18,7 @@ fn-stub: about
 
 
 
-## Subject archives
+## Subject archives folders
 
 
 
@@ -26,7 +26,10 @@ fn-stub: about
 
 
 
-In total 11 folders, 48 documents - folders complete.
+
+
+
+In total 11 folders, 48 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -61,6 +64,37 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - n34 Postal services, telegraphy and telephony [**&nearr;**](../../../subject/i/145662/about.en.html "Postal services, telegraphy and telephony (all over the world)") [**&uarr;**](../../../subject/about.en.html#n34 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141599,145662" title="about: Nauru : Postal services, telegraphy and telephony" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1415xx/141599/1456xx/145662/about.en.html))
   - n34 Sm1 Wireless telegraphy and telephony, radio [**&nearr;**](../../../subject/i/145663/about.en.html "Wireless telegraphy and telephony, radio (all over the world)") [**&uarr;**](../../../subject/about.en.html#n34_Sm1 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141599,145663" title="about: Nauru : Wireless telegraphy and telephony, radio" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1415xx/141599/1456xx/145663/about.en.html))
 - n38 Copyright protection [**&nearr;**](../../../subject/i/145757/about.en.html "Copyright protection (all over the world)") [**&uarr;**](../../../subject/about.en.html#n38 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141599,145757" title="about: Nauru : Copyright protection" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1415xx/141599/1457xx/145757/about.en.html))
+
+
+
+<a id="filmsections" />
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 6</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2728H/1024" rel="nofollow">Images on film h2/sh/S2728H/1024</a> | Nauru
+
+
+:::
+
+
+
+
+
+
+
 
 
 

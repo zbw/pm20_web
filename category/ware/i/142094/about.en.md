@@ -1,6 +1,6 @@
 ---
 title: "Container"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Container &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q987767) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Container)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142094`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142094`</div>
 
 
 
@@ -18,13 +18,15 @@ fn-stub: about
 
 
 
-## Commodities/wares archives
+## Commodities/wares archives folders
 
 
 
 
 
-In total 14 folders, 77 documents - folders complete.
+
+
+In total 14 folders, 77 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -52,6 +54,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### World
 
 - H World [**&nearr;**](../../../geo/i/141728/about.en.html "World (all folders)") [**&uarr;**](../../../geo/about.en.html#H "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142094,141728" title="about: Container : World" target="_blank">43 documents</a>) ([folder](../../../../folder/wa/1420xx/142094/1417xx/141728/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

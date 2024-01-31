@@ -1,6 +1,6 @@
 ---
 title: "Bäckereimaschine"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Bäckereimaschine &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q111974055)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142027`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142027`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 16 Mappen, 42 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 16 Mappen, 42 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -55,6 +56,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - E77 Ecuador [**&nearr;**](../../../geo/i/141688/about.de.html "Ecuador (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E77 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142027,141688" title="über: Bäckereimaschine : Ecuador" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142027/1416xx/141688/about.de.html))
 - E85 Chile [**&nearr;**](../../../geo/i/141691/about.de.html "Chile (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E85 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142027,141691" title="über: Bäckereimaschine : Chile" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142027/1416xx/141691/about.de.html))
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142027,141692" title="über: Bäckereimaschine : Argentinien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142027/1416xx/141692/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Coir"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Coir &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q1029620) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Coir)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/143125`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/143125`</div>
 
 
 
@@ -18,13 +18,15 @@ fn-stub: about
 
 
 
-## Commodities/wares archives
+## Commodities/wares archives folders
 
 
 
 
 
-In total 26 folders, 83 documents - folders complete.
+
+
+In total 26 folders, 83 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -73,6 +75,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### World
 
 - H World [**&nearr;**](../../../geo/i/141728/about.en.html "World (all folders)") [**&uarr;**](../../../geo/about.en.html#H "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143125,141728" title="about: Coir : World" target="_blank">16 documents</a>) ([folder](../../../../folder/wa/1431xx/143125/1417xx/141728/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

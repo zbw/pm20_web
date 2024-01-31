@@ -1,6 +1,6 @@
 ---
 title: "Ananas"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Ananas &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q1493) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Ananas)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141970`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/141970`</div>
 
 
 
@@ -18,12 +18,14 @@ fn-stub: about
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 57 Mappen, 460 Dokumente - Mappen komplett.
+
+
+Insgesamt 57 Mappen, 460 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -92,7 +94,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - E26 Puerto Rico [**&nearr;**](../../../geo/i/141662/about.de.html "Puerto Rico (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E26 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141970,141662" title="über: Ananas : Puerto Rico" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141970/1416xx/141662/about.de.html))
 - E27 Britisch-Westindien [**&nearr;**](../../../geo/i/141663/about.de.html "Britisch-Westindien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E27 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141970,141663" title="über: Ananas : Britisch-Westindien" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141970/1416xx/141663/about.de.html))
 - E28 Jamaika [**&nearr;**](../../../geo/i/141664/about.de.html "Jamaika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E28 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141970,141664" title="über: Ananas : Jamaika" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141970/1416xx/141664/about.de.html))
-- E48 Windward islands [**&nearr;**](../../../geo/i/141669/about.de.html "Windward islands (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E48 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141970,141669" title="über: Ananas : Windward islands" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141970/1416xx/141669/about.de.html))
+- E48 Windward Islands [**&nearr;**](../../../geo/i/141669/about.de.html "Windward Islands (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E48 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141970,141669" title="über: Ananas : Windward Islands" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141970/1416xx/141669/about.de.html))
 - E50 Französisch-Westindien [**&nearr;**](../../../geo/i/141671/about.de.html "Französisch-Westindien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E50 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141970,141671" title="über: Ananas : Französisch-Westindien" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141970/1416xx/141671/about.de.html))
 - E52 Guadeloupe [**&nearr;**](../../../geo/i/141673/about.de.html "Guadeloupe (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E52 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141970,141673" title="über: Ananas : Guadeloupe" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141970/1416xx/141673/about.de.html))
 - E65 Guatemala [**&nearr;**](../../../geo/i/141678/about.de.html "Guatemala (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E65 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141970,141678" title="über: Ananas : Guatemala" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141970/1416xx/141678/about.de.html))
@@ -104,6 +106,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Welt
 
 - H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141970,141728" title="über: Ananas : Welt" target="_blank">50 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141970/1417xx/141728/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

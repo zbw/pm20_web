@@ -1,6 +1,6 @@
 ---
 title: "A1 Europa"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,25 +10,28 @@ fn-stub: about
 
 # [A1]{.gray}&#8201; Europa &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q46) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Europa)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140892`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/140892`</div>
 
 
 
 
-[Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
-
-
-
-
-
-## Sacharchiv
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
+## Sacharchiv Mappen
 
-Insgesamt 223 Mappen, 8252 Dokumente - Mappen komplett.
+
+
+
+
+
+
+
+
+Insgesamt 210 Mappen, 8271 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -41,7 +44,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 ### Landeskunde
 
-- c Landeskunde, Allgemein [**&nearr;**](../../../subject/i/144199/about.de.html "Landeskunde, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#c "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144199" title="über: Europa : Landeskunde, Allgemein" target="_blank">16 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1441xx/144199/about.de.html))
+- c Landeskunde, Allgemein [**&nearr;**](../../../subject/i/144199/about.de.html "Landeskunde, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#c "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144199" title="über: Europa : Landeskunde, Allgemein" target="_blank">17 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1441xx/144199/about.de.html))
 - c1 Expeditionen [**&nearr;**](../../../subject/i/144200/about.de.html "Expeditionen (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#c1 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144200" title="über: Europa : Expeditionen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1442xx/144200/about.de.html))
 - c2 Staatsgrenzen, politische Einteilung [**&nearr;**](../../../subject/i/144202/about.de.html "Staatsgrenzen, politische Einteilung (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#c2 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144202" title="über: Europa : Staatsgrenzen, politische Einteilung" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1442xx/144202/about.de.html))
 - c5 Landeskunde, Klima [**&nearr;**](../../../subject/i/144209/about.de.html "Landeskunde, Klima (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#c5 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144209" title="über: Europa : Landeskunde, Klima" target="_blank">10 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1442xx/144209/about.de.html))
@@ -51,12 +54,11 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Bevölkerung und Bevölkerungspolitik
 
 - d Bevölkerung und Bevölkerungspolitik [**&nearr;**](../../../subject/i/144221/about.de.html "Bevölkerung und Bevölkerungspolitik (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#d "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144221" title="über: Europa : Bevölkerung und Bevölkerungspolitik" target="_blank">20 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1442xx/144221/about.de.html))
-  - d Sm1 Rassismus, Eugenik, NS-Rassenhygiene (-1945) [**&nearr;**](../../../subject/i/144259/about.de.html "Rassismus, Eugenik, NS-Rassenhygiene (-1945) (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#d_Sm1 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144259" title="über: Europa : Rassismus, Eugenik, NS-Rassenhygiene (-1945)" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1442xx/144259/about.de.html))
   - d Sm20 Bevölkerung und Bevölkerungspolitik, Konferenzen [**&nearr;**](../../../subject/i/150369/about.de.html "Bevölkerung und Bevölkerungspolitik, Konferenzen (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#d_Sm20 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,150369" title="über: Europa : Bevölkerung und Bevölkerungspolitik, Konferenzen" target="_blank">20 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1503xx/150369/about.de.html))
 - d1 Bevölkerungsbewegung, Bevölkerungsstatistik [**&nearr;**](../../../subject/i/144222/about.de.html "Bevölkerungsbewegung, Bevölkerungsstatistik (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#d1 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144222" title="über: Europa : Bevölkerungsbewegung, Bevölkerungsstatistik" target="_blank">44 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1442xx/144222/about.de.html))
 - d4 Volkscharakter, Sport, Sitten und Gebräuche [**&nearr;**](../../../subject/i/144228/about.de.html "Volkscharakter, Sport, Sitten und Gebräuche (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#d4 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144228" title="über: Europa : Volkscharakter, Sport, Sitten und Gebräuche" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1442xx/144228/about.de.html))
   - d4 Sm2 Sport [**&nearr;**](../../../subject/i/144231/about.de.html "Sport (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#d4_Sm2 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144231" title="über: Europa : Sport" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1442xx/144231/about.de.html))
-- d5 Soziale Zustände, Soziale Lage [**&nearr;**](../../../subject/i/144233/about.de.html "Soziale Zustände, Soziale Lage (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#d5 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144233" title="über: Europa : Soziale Zustände, Soziale Lage" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1442xx/144233/about.de.html))
+- d5 Soziale Zustände, Soziale Lage [**&nearr;**](../../../subject/i/144233/about.de.html "Soziale Zustände, Soziale Lage (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#d5 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144233" title="über: Europa : Soziale Zustände, Soziale Lage" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1442xx/144233/about.de.html))
   - d5 Sm1 Jugendbewegung [**&nearr;**](../../../subject/i/144234/about.de.html "Jugendbewegung (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#d5_Sm1 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144234" title="über: Europa : Jugendbewegung" target="_blank">22 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1442xx/144234/about.de.html))
 - d6 Sprache [**&nearr;**](../../../subject/i/144239/about.de.html "Sprache (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#d6 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144239" title="über: Europa : Sprache" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1442xx/144239/about.de.html))
 - d7 Religionswesen, Kirchen [**&nearr;**](../../../subject/i/144241/about.de.html "Religionswesen, Kirchen (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#d7 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144241" title="über: Europa : Religionswesen, Kirchen" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1442xx/144241/about.de.html))
@@ -72,10 +74,10 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 ### Geschichte, Politik
 
-- f Geschichte, Politik, Allgemein [**&nearr;**](../../../subject/i/144282/about.de.html "Geschichte, Politik, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#f "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144282" title="über: Europa : Geschichte, Politik, Allgemein" target="_blank">38 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1442xx/144282/about.de.html))
+- f Geschichte, Politik, Allgemein [**&nearr;**](../../../subject/i/144282/about.de.html "Geschichte, Politik, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#f "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144282" title="über: Europa : Geschichte, Politik, Allgemein" target="_blank">42 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1442xx/144282/about.de.html))
   - f Sm1 Vorgeschichte [**&nearr;**](../../../subject/i/144448/about.de.html "Vorgeschichte (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#f_Sm1 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144448" title="über: Europa : Vorgeschichte" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1444xx/144448/about.de.html))
 - f1 Geschichtliche Rückblicke [**&nearr;**](../../../subject/i/144283/about.de.html "Geschichtliche Rückblicke (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#f1 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144283" title="über: Europa : Geschichtliche Rückblicke" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1442xx/144283/about.de.html))
-- f2 Geschichtliche Vorgänge [**&nearr;**](../../../subject/i/144286/about.de.html "Geschichtliche Vorgänge (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#f2 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144286" title="über: Europa : Geschichtliche Vorgänge" target="_blank">145 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1442xx/144286/about.de.html))
+- f2 Geschichtliche Vorgänge [**&nearr;**](../../../subject/i/144286/about.de.html "Geschichtliche Vorgänge (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#f2 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144286" title="über: Europa : Geschichtliche Vorgänge" target="_blank">148 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1442xx/144286/about.de.html))
   - f2 Sm7 (alt) Antibolschewismus und Antikommunismus (-1945) [**&nearr;**](../../../subject/i/144293/about.de.html "Antibolschewismus und Antikommunismus (-1945) (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#f2_Sm7_(alt) "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144293" title="über: Europa : Antibolschewismus und Antikommunismus (-1945)" target="_blank">20 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1442xx/144293/about.de.html))
   - f2 Sm11 Frontkämpfer, Allgemein [**&nearr;**](../../../subject/i/144297/about.de.html "Frontkämpfer, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#f2_Sm11 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144297" title="über: Europa : Frontkämpfer, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1442xx/144297/about.de.html))
 - f4 Verfassung, Staatsform [**&nearr;**](../../../subject/i/144355/about.de.html "Verfassung, Staatsform (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#f4 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144355" title="über: Europa : Verfassung, Staatsform" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1443xx/144355/about.de.html))
@@ -83,19 +85,18 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 ### Außenpolitik und politische Beziehungen zum Ausland
 
-- g Außenpolitik und politische Beziehungen zum Ausland, Allgemein [**&nearr;**](../../../subject/i/144451/about.de.html "Außenpolitik und politische Beziehungen zum Ausland, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#g "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144451" title="über: Europa : Außenpolitik und politische Beziehungen zum Ausland, Allgemein" target="_blank">1208 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1444xx/144451/about.de.html))
+- g Außenpolitik und politische Beziehungen zum Ausland, Allgemein [**&nearr;**](../../../subject/i/144451/about.de.html "Außenpolitik und politische Beziehungen zum Ausland, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#g "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144451" title="über: Europa : Außenpolitik und politische Beziehungen zum Ausland, Allgemein" target="_blank">1209 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1444xx/144451/about.de.html))
   - g Sm1 Neutralität [**&nearr;**](../../../subject/i/144570/about.de.html "Neutralität (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#g_Sm1 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144570" title="über: Europa : Neutralität" target="_blank">19 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1445xx/144570/about.de.html))
   - g Sm12.I (alt) Politische und kulturelle Propaganda, Allgemein [**&nearr;**](../../../subject/i/144582/about.de.html "Politische und kulturelle Propaganda, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#g_Sm12.I_(alt) "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144582" title="über: Europa : Politische und kulturelle Propaganda, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1445xx/144582/about.de.html))
   - g Sm15 Beziehungen zum Völkerbund [**&nearr;**](../../../subject/i/144589/about.de.html "Beziehungen zum Völkerbund (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#g_Sm15 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144589" title="über: Europa : Beziehungen zum Völkerbund" target="_blank">15 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1445xx/144589/about.de.html))
   - g Sm20 Außenpolitik, Konferenzen [**&nearr;**](../../../subject/i/153593/about.de.html "Außenpolitik, Konferenzen (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#g_Sm20 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,153593" title="über: Europa : Außenpolitik, Konferenzen" target="_blank">16 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1535xx/153593/about.de.html))
 - g1 Politische Beziehungen zu einzelnen Ländern [**&nearr;**](../../../subject/i/144452/about.de.html "Politische Beziehungen zu einzelnen Ländern (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#g1 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144452" title="über: Europa : Politische Beziehungen zu einzelnen Ländern" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1444xx/144452/about.de.html))
-- g4 Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein [**&nearr;**](../../../subject/i/144470/about.de.html "Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#g4 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144470" title="über: Europa : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein" target="_blank">251 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1444xx/144470/about.de.html))
-  - g4 Sm1.I Zollpolitik, Allgemein [**&nearr;**](../../../subject/i/144471/about.de.html "Zollpolitik, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#g4_Sm1.I "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144471" title="über: Europa : Zollpolitik, Allgemein" target="_blank">23 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1444xx/144471/about.de.html))
+- g4 Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein [**&nearr;**](../../../subject/i/144470/about.de.html "Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#g4 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144470" title="über: Europa : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein" target="_blank">252 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1444xx/144470/about.de.html))
+  - g4 Sm1.I Zollpolitik, Allgemein [**&nearr;**](../../../subject/i/144471/about.de.html "Zollpolitik, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#g4_Sm1.I "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144471" title="über: Europa : Zollpolitik, Allgemein" target="_blank">26 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1444xx/144471/about.de.html))
   - g4 Sm1.II Zollpolitik, Meistbegünstigung [**&nearr;**](../../../subject/i/144472/about.de.html "Zollpolitik, Meistbegünstigung (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#g4_Sm1.II "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144472" title="über: Europa : Zollpolitik, Meistbegünstigung" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1444xx/144472/about.de.html))
-  - g4 Sm1.III Zollpolitik, Einfuhrkontingentierung, Ein-, Aus- und Durchfuhrverbote, Allgemein [**&nearr;**](../../../subject/i/144473/about.de.html "Zollpolitik, Einfuhrkontingentierung, Ein-, Aus- und Durchfuhrverbote, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#g4_Sm1.III "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144473" title="über: Europa : Zollpolitik, Einfuhrkontingentierung, Ein-, Aus- und Durchfuhrverbote, Allgemein" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1444xx/144473/about.de.html))
   - g4 Sm3.I Staatliche Wirtschaftspropaganda, Allgemein [**&nearr;**](../../../subject/i/144482/about.de.html "Staatliche Wirtschaftspropaganda, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#g4_Sm3.I "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144482" title="über: Europa : Staatliche Wirtschaftspropaganda, Allgemein" target="_blank">23 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1444xx/144482/about.de.html))
   - g4 Sm3.II Staatliche Wirtschaftspropaganda, Ausstellungen und Messen, Allgemein [**&nearr;**](../../../subject/i/144483/about.de.html "Staatliche Wirtschaftspropaganda, Ausstellungen und Messen, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#g4_Sm3.II "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144483" title="über: Europa : Staatliche Wirtschaftspropaganda, Ausstellungen und Messen, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1444xx/144483/about.de.html))
-  - g4 Sm20 Handelspolitik u. allg. Wirtschaftspolitik, Konferenzen [**&nearr;**](../../../subject/i/150373/about.de.html "Handelspolitik u. allg. Wirtschaftspolitik, Konferenzen (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#g4_Sm20 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,150373" title="über: Europa : Handelspolitik u. allg. Wirtschaftspolitik, Konferenzen " target="_blank">73 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1503xx/150373/about.de.html))
+  - g4 Sm20 Handelspolitik u. allg. Wirtschaftspolitik, Konferenzen [**&nearr;**](../../../subject/i/150373/about.de.html "Handelspolitik u. allg. Wirtschaftspolitik, Konferenzen (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#g4_Sm20 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,150373" title="über: Europa : Handelspolitik u. allg. Wirtschaftspolitik, Konferenzen " target="_blank">74 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1503xx/150373/about.de.html))
   - g4 Sm21 Handelspolitische und zollrechtliche Massnahmen aus dem Deutschen Handelsarchiv [**&nearr;**](../../../subject/i/144492/about.de.html "Handelspolitische und zollrechtliche Massnahmen aus dem Deutschen Handelsarchiv (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#g4_Sm21 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144492" title="über: Europa : Handelspolitische und zollrechtliche Massnahmen aus dem Deutschen Handelsarchiv" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1444xx/144492/about.de.html))
   - g4 Sm25 Ausgleich laufender Aussenhandelsforderungen und -schulden [**&nearr;**](../../../subject/i/144493/about.de.html "Ausgleich laufender Aussenhandelsforderungen und -schulden (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#g4_Sm25 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144493" title="über: Europa : Ausgleich laufender Aussenhandelsforderungen und -schulden" target="_blank">19 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1444xx/144493/about.de.html))
   - g4 Sm501 (A1) Interessengemeinschaft der Agrarstaaten [**&nearr;**](../../../subject/i/144495/about.de.html "Interessengemeinschaft der Agrarstaaten (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#g4_Sm501_(A1) "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144495" title="über: Europa : Interessengemeinschaft der Agrarstaaten" target="_blank">335 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1444xx/144495/about.de.html))
@@ -108,7 +109,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - h Verwaltung, Allgemein [**&nearr;**](../../../subject/i/144659/about.de.html "Verwaltung, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#h "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144659" title="über: Europa : Verwaltung, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1446xx/144659/about.de.html))
 - h7 Soziale Fürsorge (öffentliche u. private) [**&nearr;**](../../../subject/i/144677/about.de.html "Soziale Fürsorge (öffentliche u. private) (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#h7 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144677" title="über: Europa : Soziale Fürsorge (öffentliche u. private)" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1446xx/144677/about.de.html))
-  - h7 Sm2 Fürsorge für Mutter und Kind [**&nearr;**](../../../subject/i/144681/about.de.html "Fürsorge für Mutter und Kind (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#h7_Sm2 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144681" title="über: Europa : Fürsorge für Mutter und Kind" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1446xx/144681/about.de.html))
 
 ### Rechtspflege
 
@@ -117,8 +117,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 ### Wissenschaft und Bildungswesen
 
-- [k Wissenschaft und Bildungswesen, Allgemein]{.gray}
-  - k Sm1 Bibliothekswesen [**&nearr;**](../../../subject/i/144752/about.de.html "Bibliothekswesen (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#k_Sm1 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144752" title="über: Europa : Bibliothekswesen" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1447xx/144752/about.de.html))
 - k1 Hochschulwesen, Forschungsanstalten Allgemein [**&nearr;**](../../../subject/i/144714/about.de.html "Hochschulwesen, Forschungsanstalten Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#k1 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144714" title="über: Europa : Hochschulwesen, Forschungsanstalten Allgemein" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1447xx/144714/about.de.html))
   - k1 Sm2.I Studentenwesen, Allgemein [**&nearr;**](../../../subject/i/144716/about.de.html "Studentenwesen, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#k1_Sm2.I "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144716" title="über: Europa : Studentenwesen, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1447xx/144716/about.de.html))
   - k1 Sm7.IIc Akademische Berufe, Einzelne, Ingenieure [**&nearr;**](../../../subject/i/144730/about.de.html "Akademische Berufe, Einzelne, Ingenieure (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#k1_Sm7.IIc "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144730" title="über: Europa : Akademische Berufe, Einzelne, Ingenieure" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1447xx/144730/about.de.html))
@@ -128,9 +126,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Militärwesen
 
 - l Militärwesen, Allgemein [**&nearr;**](../../../subject/i/144762/about.de.html "Militärwesen, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#l "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144762" title="über: Europa : Militärwesen, Allgemein" target="_blank">36 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1447xx/144762/about.de.html))
-  - l Sm5 Gas und Bakterien als Waffe (und Abwehrmaßnahmen) [**&nearr;**](../../../subject/i/144794/about.de.html "Gas und Bakterien als Waffe (und Abwehrmaßnahmen) (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#l_Sm5 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144794" title="über: Europa : Gas und Bakterien als Waffe (und Abwehrmaßnahmen)" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1447xx/144794/about.de.html))
 - l2 Flotte [**&nearr;**](../../../subject/i/144768/about.de.html "Flotte (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#l2 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144768" title="über: Europa : Flotte" target="_blank">18 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1447xx/144768/about.de.html))
-- l3 Festungen, Militärstationen,...  (später:  Militärbauten und -liegenschaften) [**&nearr;**](../../../subject/i/144773/about.de.html "Festungen, Militärstationen,...  (später:  Militärbauten und -liegenschaften) (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#l3 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144773" title="über: Europa : Festungen, Militärstationen,...  (später:  Militärbauten und -liegenschaften)" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1447xx/144773/about.de.html))
 - l4 Flugwesen [**&nearr;**](../../../subject/i/144775/about.de.html "Flugwesen (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#l4 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144775" title="über: Europa : Flugwesen" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1447xx/144775/about.de.html))
   - l4 Sm2 Schutz gegen Luftangriffe [**&nearr;**](../../../subject/i/144777/about.de.html "Schutz gegen Luftangriffe (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#l4_Sm2 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144777" title="über: Europa : Schutz gegen Luftangriffe" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1447xx/144777/about.de.html))
 
@@ -147,19 +143,14 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - n Wirtschaft, Allgemein [**&nearr;**](../../../subject/i/144930/about.de.html "Wirtschaft, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144930" title="über: Europa : Wirtschaft, Allgemein" target="_blank">60 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1449xx/144930/about.de.html))
   - n Sm1.I Fremdländische Kapitalanlagen, privatwirtschaftliche Interessen, Allgemein [**&nearr;**](../../../subject/i/145774/about.de.html "Fremdländische Kapitalanlagen, privatwirtschaftliche Interessen, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n_Sm1.I "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145774" title="über: Europa : Fremdländische Kapitalanlagen, privatwirtschaftliche Interessen, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1457xx/145774/about.de.html))
-  - n Sm1.II Fremdländische Kapitalanlagen, privatwirtschaftliche Interessen, Angehöriger Einzelner Länder [**&nearr;**](../../../subject/i/145775/about.de.html "Fremdländische Kapitalanlagen, privatwirtschaftliche Interessen, Angehöriger Einzelner Länder (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n_Sm1.II "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145775" title="über: Europa : Fremdländische Kapitalanlagen, privatwirtschaftliche Interessen, Angehöriger Einzelner Länder" target="_blank">16 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1457xx/145775/about.de.html))
+  - n Sm1.II Fremdländische Kapitalanlagen, privatwirtschaftliche Interessen, Angehöriger Einzelner Länder [**&nearr;**](../../../subject/i/145775/about.de.html "Fremdländische Kapitalanlagen, privatwirtschaftliche Interessen, Angehöriger Einzelner Länder (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n_Sm1.II "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145775" title="über: Europa : Fremdländische Kapitalanlagen, privatwirtschaftliche Interessen, Angehöriger Einzelner Länder" target="_blank">18 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1457xx/145775/about.de.html))
   - n Sm2.I Zahlungsbilanz, Allgemein [**&nearr;**](../../../subject/i/145776/about.de.html "Zahlungsbilanz, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n_Sm2.I "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145776" title="über: Europa : Zahlungsbilanz, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1457xx/145776/about.de.html))
-  - n Sm2.II Zahlungsbilanz, im Verhältnis zu anderen Ländern [**&nearr;**](../../../subject/i/145777/about.de.html "Zahlungsbilanz, im Verhältnis zu anderen Ländern (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n_Sm2.II "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145777" title="über: Europa : Zahlungsbilanz, im Verhältnis zu anderen Ländern" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1457xx/145777/about.de.html))
   - n Sm3.I Wirtschaftsstatistik, Allgemein [**&nearr;**](../../../subject/i/145778/about.de.html "Wirtschaftsstatistik, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n_Sm3.I "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145778" title="über: Europa : Wirtschaftsstatistik, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1457xx/145778/about.de.html))
-  - n Sm5.III Berufe, Berufserziehung, Allgemein [**&nearr;**](../../../subject/i/145783/about.de.html "Berufe, Berufserziehung, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n_Sm5.III "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145783" title="über: Europa : Berufe, Berufserziehung, Allgemein" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1457xx/145783/about.de.html))
   - n Sm6.I Nationale Kapitalanlagen, Übersichten im In- und Ausland, Allgemein [**&nearr;**](../../../subject/i/145784/about.de.html "Nationale Kapitalanlagen, Übersichten im In- und Ausland, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n_Sm6.I "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145784" title="über: Europa : Nationale Kapitalanlagen, Übersichten im In- und Ausland, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1457xx/145784/about.de.html))
-  - n Sm6.IIa Nationale Kapitalanlagen im Ausland, Allgemein [**&nearr;**](../../../subject/i/145785/about.de.html "Nationale Kapitalanlagen im Ausland, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n_Sm6.IIa "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145785" title="über: Europa : Nationale Kapitalanlagen im Ausland, Allgemein" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1457xx/145785/about.de.html))
   - n Sm6.IIb Nationale Kapitalanlagen und privatwirtschaftl. Interessen in einzelnen Ländern [**&nearr;**](../../../subject/i/145786/about.de.html "Nationale Kapitalanlagen und privatwirtschaftl. Interessen in einzelnen Ländern (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n_Sm6.IIb "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145786" title="über: Europa : Nationale Kapitalanlagen und privatwirtschaftl. Interessen in einzelnen Ländern" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1457xx/145786/about.de.html))
   - n Sm7.I Kartell-, Syndikat und Trustwesen, Allgemein [**&nearr;**](../../../subject/i/145787/about.de.html "Kartell-, Syndikat und Trustwesen, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n_Sm7.I "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145787" title="über: Europa : Kartell-, Syndikat und Trustwesen, Allgemein" target="_blank">18 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1457xx/145787/about.de.html))
   - n Sm8.I Normung, Standardisierung, Allgemein [**&nearr;**](../../../subject/i/145790/about.de.html "Normung, Standardisierung, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n_Sm8.I "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145790" title="über: Europa : Normung, Standardisierung, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1457xx/145790/about.de.html))
   - n Sm13 Rohstoffversorgung [**&nearr;**](../../../subject/i/145796/about.de.html "Rohstoffversorgung (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n_Sm13 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145796" title="über: Europa : Rohstoffversorgung" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1457xx/145796/about.de.html))
-  - n Sm23 Lebenshaltung, Lebensstandard, Einkommensverteilung [**&nearr;**](../../../subject/i/145810/about.de.html "Lebenshaltung, Lebensstandard, Einkommensverteilung (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n_Sm23 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145810" title="über: Europa : Lebenshaltung, Lebensstandard, Einkommensverteilung" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1458xx/145810/about.de.html))
-  - n Sm27 Markenartikel, Allgemein [**&nearr;**](../../../subject/i/145822/about.de.html "Markenartikel, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n_Sm27 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145822" title="über: Europa : Markenartikel, Allgemein" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1458xx/145822/about.de.html))
   - n Sm31 Gewerbewesen [**&nearr;**](../../../subject/i/145826/about.de.html "Gewerbewesen (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n_Sm31 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145826" title="über: Europa : Gewerbewesen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1458xx/145826/about.de.html))
   - n Sm32.I Wasserwirtschaft (incl. Wasserrecht), Allgemein [**&nearr;**](../../../subject/i/145827/about.de.html "Wasserwirtschaft (incl. Wasserrecht), Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n_Sm32.I "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145827" title="über: Europa : Wasserwirtschaft (incl. Wasserrecht), Allgemein" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1458xx/145827/about.de.html))
   - n Sm33 Betriebsorganisation, Rationalisierung [**&nearr;**](../../../subject/i/145829/about.de.html "Betriebsorganisation, Rationalisierung (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n_Sm33 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145829" title="über: Europa : Betriebsorganisation, Rationalisierung" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1458xx/145829/about.de.html))
@@ -172,8 +163,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
   - n Sm46 Energiewirtschaft, Allgemein [**&nearr;**](../../../subject/i/145852/about.de.html "Energiewirtschaft, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n_Sm46 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145852" title="über: Europa : Energiewirtschaft, Allgemein" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1458xx/145852/about.de.html))
   - n Sm61 Aufkommen und Verwendung neuer Werkstoffe, Allgemein [**&nearr;**](../../../subject/i/145863/about.de.html "Aufkommen und Verwendung neuer Werkstoffe, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n_Sm61 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145863" title="über: Europa : Aufkommen und Verwendung neuer Werkstoffe, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1458xx/145863/about.de.html))
 - n1 Wirtschaftspolitik [**&nearr;**](../../../subject/i/144931/about.de.html "Wirtschaftspolitik (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n1 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144931" title="über: Europa : Wirtschaftspolitik" target="_blank">99 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1449xx/144931/about.de.html))
-  - n1 Sm1 Übergangswirtschaftliche Planwirtschaft [**&nearr;**](../../../subject/i/144932/about.de.html "Übergangswirtschaftliche Planwirtschaft (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n1_Sm1 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144932" title="über: Europa : Übergangswirtschaftliche Planwirtschaft" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1449xx/144932/about.de.html))
-  - n1 Sm5 Arbeitsdienstjahr und Arbeitsdienstpflicht [**&nearr;**](../../../subject/i/144936/about.de.html "Arbeitsdienstjahr und Arbeitsdienstpflicht (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n1_Sm5 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144936" title="über: Europa : Arbeitsdienstjahr und Arbeitsdienstpflicht" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1449xx/144936/about.de.html))
   - n1 Sm11 Sozialpolitik, Allgemein [**&nearr;**](../../../subject/i/144941/about.de.html "Sozialpolitik, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n1_Sm11 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144941" title="über: Europa : Sozialpolitik, Allgemein" target="_blank">9 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1449xx/144941/about.de.html))
   - n1 Sm12.I Preisregelung, Allgemein [**&nearr;**](../../../subject/i/144942/about.de.html "Preisregelung, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n1_Sm12.I "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144942" title="über: Europa : Preisregelung, Allgemein" target="_blank">24 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1449xx/144942/about.de.html))
   - n1 Sm13 Pflege, Erhaltung und Vollverwertung nationaler Sachgüter [**&nearr;**](../../../subject/i/144945/about.de.html "Pflege, Erhaltung und Vollverwertung nationaler Sachgüter (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n1_Sm13 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144945" title="über: Europa : Pflege, Erhaltung und Vollverwertung nationaler Sachgüter" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1449xx/144945/about.de.html))
@@ -182,7 +171,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
   - n1 Sm19 Sicherung und Überwachung der Volksernährung [**&nearr;**](../../../subject/i/144952/about.de.html "Sicherung und Überwachung der Volksernährung (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n1_Sm19 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144952" title="über: Europa : Sicherung und Überwachung der Volksernährung" target="_blank">28 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1449xx/144952/about.de.html))
   - n1 Sm21 Förderung der Landbevölkerung, Bekämpfung der Landflucht, Allgemein [**&nearr;**](../../../subject/i/144953/about.de.html "Förderung der Landbevölkerung, Bekämpfung der Landflucht, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n1_Sm21 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144953" title="über: Europa : Förderung der Landbevölkerung, Bekämpfung der Landflucht, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1449xx/144953/about.de.html))
   - n1 Sm61 Förderung der Werkstoffumstellung [**&nearr;**](../../../subject/i/144956/about.de.html "Förderung der Werkstoffumstellung (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n1_Sm61 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144956" title="über: Europa : Förderung der Werkstoffumstellung" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1449xx/144956/about.de.html))
-- n2 Berichte über die wirtschaftliche Lage [**&nearr;**](../../../subject/i/144972/about.de.html "Berichte über die wirtschaftliche Lage (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n2 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144972" title="über: Europa : Berichte über die wirtschaftliche Lage" target="_blank">176 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1449xx/144972/about.de.html))
+- n2 Berichte über die wirtschaftliche Lage [**&nearr;**](../../../subject/i/144972/about.de.html "Berichte über die wirtschaftliche Lage (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n2 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144972" title="über: Europa : Berichte über die wirtschaftliche Lage" target="_blank">177 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1449xx/144972/about.de.html))
   - n2 Sm3 Lage und Statistik von Erwerbsgesellschaften verschiedener Wirtschaftszweige, Übersichten [**&nearr;**](../../../subject/i/144975/about.de.html "Lage und Statistik von Erwerbsgesellschaften verschiedener Wirtschaftszweige, Übersichten (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n2_Sm3 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144975" title="über: Europa : Lage und Statistik von Erwerbsgesellschaften verschiedener Wirtschaftszweige, Übersichten" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1449xx/144975/about.de.html))
   - n2 Sm4 Arbeitsmarkt, Erwerbslosenstatistik [**&nearr;**](../../../subject/i/144976/about.de.html "Arbeitsmarkt, Erwerbslosenstatistik (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n2_Sm4 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144976" title="über: Europa : Arbeitsmarkt, Erwerbslosenstatistik" target="_blank">12 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1449xx/144976/about.de.html))
   - n2 Sm11.II Übersichten der Preisentwicklung, Kosten der Lebenshaltung [**&nearr;**](../../../subject/i/145003/about.de.html "Übersichten der Preisentwicklung, Kosten der Lebenshaltung (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n2_Sm11.II "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145003" title="über: Europa : Übersichten der Preisentwicklung, Kosten der Lebenshaltung" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1450xx/145003/about.de.html))
@@ -278,7 +267,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - n33 Binnenschiffahrt [**&nearr;**](../../../subject/i/145646/about.de.html "Binnenschiffahrt (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n33 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145646" title="über: Europa : Binnenschiffahrt" target="_blank">86 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1456xx/145646/about.de.html))
   - n33 Sm20 Binnenschiffahrt, Konferenzen [**&nearr;**](../../../subject/i/194370/about.de.html "Binnenschiffahrt, Konferenzen (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n33_Sm20 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,194370" title="über: Europa : Binnenschiffahrt, Konferenzen" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1943xx/194370/about.de.html))
 - n33a Einzelne Binnenschiffahrtsstrassen und Seekanäle [**&nearr;**](../../../subject/i/145651/about.de.html "Einzelne Binnenschiffahrtsstrassen und Seekanäle (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n33a "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145651" title="über: Europa : Einzelne Binnenschiffahrtsstrassen und Seekanäle" target="_blank">46 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1456xx/145651/about.de.html))
-  - n33a Sm1 Einzelne Binnenschiffahrtsstrassen und Seekanäle, Allg [**&nearr;**](../../../subject/i/145652/about.de.html "Einzelne Binnenschiffahrtsstrassen und Seekanäle, Allg (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n33a_Sm1 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145652" title="über: Europa : Einzelne Binnenschiffahrtsstrassen und Seekanäle, Allg" target="_blank">151 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1456xx/145652/about.de.html))
+  - n33a Sm1 Einzelne Binnenschiffahrtsstrassen und Seekanäle, Allg [**&nearr;**](../../../subject/i/145652/about.de.html "Einzelne Binnenschiffahrtsstrassen und Seekanäle, Allg (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n33a_Sm1 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145652" title="über: Europa : Einzelne Binnenschiffahrtsstrassen und Seekanäle, Allg" target="_blank">152 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1456xx/145652/about.de.html))
   - n33a Sm2 Einzelne Binnenschiffahrtsstrassen und Seekanäle, Hoheitsrechte, Politische Fragen [**&nearr;**](../../../subject/i/145653/about.de.html "Einzelne Binnenschiffahrtsstrassen und Seekanäle, Hoheitsrechte, Politische Fragen (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n33a_Sm2 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145653" title="über: Europa : Einzelne Binnenschiffahrtsstrassen und Seekanäle, Hoheitsrechte, Politische Fragen" target="_blank">162 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1456xx/145653/about.de.html))
   - n33a Sm3 Einzelne Binnenschiffahrtsstrassen und Seekanäle, Verwaltung [**&nearr;**](../../../subject/i/145654/about.de.html "Einzelne Binnenschiffahrtsstrassen und Seekanäle, Verwaltung (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n33a_Sm3 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145654" title="über: Europa : Einzelne Binnenschiffahrtsstrassen und Seekanäle, Verwaltung" target="_blank">334 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1456xx/145654/about.de.html))
   - n33a Sm4 Einzelne Binnenschiffahrtsstrassen und Seekanäle, Bau, Regulierung [**&nearr;**](../../../subject/i/145655/about.de.html "Einzelne Binnenschiffahrtsstrassen und Seekanäle, Bau, Regulierung (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n33a_Sm4 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145655" title="über: Europa : Einzelne Binnenschiffahrtsstrassen und Seekanäle, Bau, Regulierung" target="_blank">227 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1456xx/145655/about.de.html))
@@ -306,11 +295,109 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 1250</p>
 
 
 
 
-## Warenarchiv
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/0002/L" rel="nofollow">Bilder auf Film h1/sh/S0006H/0002/L</a> | Rhein : Europa : Einzelne Binnenschiffahrtsstrassen und Seekanäle, Verwaltung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/0084/L" rel="nofollow">Bilder auf Film h1/sh/S0006H/0084/L</a> | Rhein : Europa : Einzelne Binnenschiffahrtsstrassen und Seekanäle, Bau, Regulierung - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/0084/R" rel="nofollow">Bilder auf Film h1/sh/S0006H/0084/R</a> | Rhein : Europa : Einzelne Binnenschiffahrtsstrassen und Seekanäle, Bau, Regulierung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/0299/R" rel="nofollow">Bilder auf Film h1/sh/S0006H/0299/R</a> | Rhein : Europa : Einzelne Binnenschiffahrtsstrassen und Seekanäle, Abgaben, Subventionen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/0320/R" rel="nofollow">Bilder auf Film h1/sh/S0006H/0320/R</a> | Rhein : Europa : Einzelne Binnenschiffahrtsstrassen und Seekanäle, Schiffahrt - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/0322/L" rel="nofollow">Bilder auf Film h1/sh/S0006H/0322/L</a> | Rhein : Europa : Einzelne Binnenschiffahrtsstrassen und Seekanäle, Schiffahrt
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/0571/R" rel="nofollow">Bilder auf Film h1/sh/S0006H/0571/R</a> | Rhein : Europa : Einzelne Binnenschiffahrtsstrassen und Seekanäle, Schiffahrt, Lage der Schiffahrtsgesellschaften
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/0590/L" rel="nofollow">Bilder auf Film h1/sh/S0006H/0590/L</a> | Rhein : Europa : Einzelne Binnenschiffahrtsstrassen u. Seekanäle, Schiffahrt, Verkehr - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/0591/R" rel="nofollow">Bilder auf Film h1/sh/S0006H/0591/R</a> | Rhein : Europa : Einzelne Binnenschiffahrtsstrassen u. Seekanäle, Schiffahrt, Verkehr
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/0667/R" rel="nofollow">Bilder auf Film h1/sh/S0006H/0667/R</a> | Rhein : Europa : Einzelne Binnenschiffahrtsstrassen u. Seekanäle, Schiffahrt, Fracht-Vereinbarungen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/0734/R" rel="nofollow">Bilder auf Film h1/sh/S0006H/0734/R</a> | Rhein : Donau : Einzelne Binnenschiffahrtsstrassen u. Seekanäle, Schiffahrt, Frachtenmarktberichte
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/0741/L" rel="nofollow">Bilder auf Film h1/sh/S0006H/0741/L</a> | Rhein-Rhone Kanal : Europa : Einzelne Binnenwasserstraßen: Verkehrsleistung, Ausbau, Finanzierung, Stillegung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/0742/R" rel="nofollow">Bilder auf Film h1/sh/S0006H/0742/R</a> | Rhone : Europa : Einzelne Binnenwasserstraßen: Verkehrsleistung, Ausbau, Finanzierung, Stillegung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/0744/R" rel="nofollow">Bilder auf Film h1/sh/S0006H/0744/R</a> | Weichsel : Europa : Einzelne Binnenschiffahrtsstrassen und Seekanäle einschl. Wasserwirtschaftliches u. Schiffahrt
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/0803/L" rel="nofollow">Bilder auf Film h1/sh/S0006H/0803/L</a> | Weichsel : Europa : Einzelne Binnenschiffahrtsstrassen u. Seekanäle, Hoheitsrechte, politische und militärische Fragen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/0817/R" rel="nofollow">Bilder auf Film h1/sh/S0006H/0817/R</a> | Weichsel : Europa : Einzelne Binnenschiffahrtsstrassen u. Seekanäle, Verwaltung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/0822/R" rel="nofollow">Bilder auf Film h1/sh/S0006H/0822/R</a> | Weichsel : Europa : Einzelne Binnenschiffahrtsstrassen u. Seekanäle, Bau, Regulierung, Befestigung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/0857/L" rel="nofollow">Bilder auf Film h1/sh/S0006H/0857/L</a> | Weichsel : Europa : Einzelne Binnenschiffahrtsstrassen u. Seekanäle, Schiffahrt
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/0873/L" rel="nofollow">Bilder auf Film h1/sh/S0006H/0873/L</a> | Weichsel : Europa : Einzelne Binnenschiffahrtsstrassen u. Seekanäle, Schiffahrt, Lage der Schiffahrtsgesellschaften
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/0899/R" rel="nofollow">Bilder auf Film h1/sh/S0006H/0899/R</a> | Weichsel : Europa : Einzelne Binnenschiffahrtsstrassen u. Seekanäle, Schiffahrt, Fracht-Vereinbarungen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/0901/R" rel="nofollow">Bilder auf Film h1/sh/S0006H/0901/R</a> | Europa : Postwesen, Telegraphenwesen, Fernsprechwesen, Nachrichtenverkehr - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/0905/R" rel="nofollow">Bilder auf Film h1/sh/S0006H/0905/R</a> | Europa : Postwesen, Telegraphenwesen, Fernsprechwesen, Nachrichtenverkehr
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/0941/L" rel="nofollow">Bilder auf Film h1/sh/S0006H/0941/L</a> | Europa : Drahtlose Telegraphie und Telephonie, Rundfunk - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/0941/R" rel="nofollow">Bilder auf Film h1/sh/S0006H/0941/R</a> | Europa : Drahtlose Telegraphie und Telephonie, Rundfunk
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/0963/R" rel="nofollow">Bilder auf Film h1/sh/S0006H/0963/R</a> | Europa : Luftpost
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/0970/L" rel="nofollow">Bilder auf Film h1/sh/S0006H/0970/L</a> | Europa : Seekabel (Nachrichtenverkehr)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/0972/R" rel="nofollow">Bilder auf Film h1/sh/S0006H/0972/R</a> | Europa : Postgebühren, Postwertzeichen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/0975/L" rel="nofollow">Bilder auf Film h1/sh/S0006H/0975/L</a> | Europa : Postwesen : Veranstaltungen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/0979/L" rel="nofollow">Bilder auf Film h1/sh/S0006H/0979/L</a> | Europa : Postwesen, Telegraphenwesen, Fernsprechwesen mit einzelnen Ländern
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/0995/R" rel="nofollow">Bilder auf Film h1/sh/S0006H/0995/R</a> | Europa : Luftschiffahrt, Flugwesen, Luftverkehr, Luftverkehrspolitik
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/1056/R" rel="nofollow">Bilder auf Film h1/sh/S0006H/1056/R</a> | Europa : Luftschifffahrt : einzelne bemerkenswerte Flüge
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/1085/L" rel="nofollow">Bilder auf Film h1/sh/S0006H/1085/L</a> | Europa : Luftverkehrspolitik, Luftverkehr ( Personen und Fracht) mit einzelnen Ländern
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/1124/L" rel="nofollow">Bilder auf Film h1/sh/S0006H/1124/L</a> | Europa : Nachrichtenwesen, Pressewesen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/1128/R" rel="nofollow">Bilder auf Film h1/sh/S0006H/1128/R</a> | Europa : Nachrichtenwesen, Pressewesen, Konferenzen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/1141/R" rel="nofollow">Bilder auf Film h1/sh/S0006H/1141/R</a> | Europa : Versicherungswesen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/1169/L" rel="nofollow">Bilder auf Film h1/sh/S0006H/1169/L</a> | Europa : Fremdstämmige und einzelne Minderheiten, Allgemein
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/1185/L" rel="nofollow">Bilder auf Film h1/sh/S0006H/1185/L</a> | Europa : Minderheiten aus Einzelnen Ländern
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/1188/R" rel="nofollow">Bilder auf Film h1/sh/S0006H/1188/R</a> | Europa : Deutsche Minderheiten und Deutschtum
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/1227/R" rel="nofollow">Bilder auf Film h1/sh/S0006H/1227/R</a> | Europa : Siedlung und Wanderung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/1231/R" rel="nofollow">Bilder auf Film h1/sh/S0006H/1231/R</a> | Europa : Siedlungspolitik
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/1232/R" rel="nofollow">Bilder auf Film h1/sh/S0006H/1232/R</a> | Europa : Auswanderung und Auswanderungspolitik - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0006H/1234/R" rel="nofollow">Bilder auf Film h1/sh/S0006H/1234/R</a> | Europa : Auswanderung und Auswanderungspolitik
+
+
+:::
+
+
+
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 22480</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2001H/0002" rel="nofollow">Bilder auf Film h2/sh/S2001H/0002</a> | Europa
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2002H" rel="nofollow">Bilder auf Film h2/sh/S2002H</a> | Filmanfang: Europa : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein [A1 g4]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2003H" rel="nofollow">Bilder auf Film h2/sh/S2003H</a> | Filmanfang: Europa : Ausgleich laufender Aussenhandelsforderungen und -schulden [A1 g4 Sm25]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2004H" rel="nofollow">Bilder auf Film h2/sh/S2004H</a> | Filmanfang: Europa : Freihäfen, Freizonen, Zollniederlagen, Allgemein (Projekte) [A1 g4 Sm31]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2005H" rel="nofollow">Bilder auf Film h2/sh/S2005H</a> | Filmanfang: Europa : Freihäfen, Freizonen, Zollniederlagen, Allgemein (Projekte) [A1 g4 Sm31]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2006H" rel="nofollow">Bilder auf Film h2/sh/S2006H</a> | Filmanfang: Europa : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein Sm503.I [A1 g4 Sm503.I]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2007H" rel="nofollow">Bilder auf Film h2/sh/S2007H</a> | Filmanfang: Europa : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein Sm503.I [A1 g4 Sm503.I]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2008H" rel="nofollow">Bilder auf Film h2/sh/S2008H</a> | Filmanfang: Europa : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein Sm503.IV b [A1 g4 Sm503.IV b]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2009H" rel="nofollow">Bilder auf Film h2/sh/S2009H</a> | Filmanfang: Europa : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein Sm503.VIb [A1 g4 Sm503.VIb]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2010H" rel="nofollow">Bilder auf Film h2/sh/S2010H</a> | Filmanfang: Europa : Wirtschaftspolitische Beziehungen zu einzelnen Ländern [A1 g4a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2011H" rel="nofollow">Bilder auf Film h2/sh/S2011H</a> | Filmanfang: Europa : Wirtschaft, Allgemein Sm [A1 n SM]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2012H" rel="nofollow">Bilder auf Film h2/sh/S2012H</a> | Filmanfang: Europa : Atomenergie für friedliche Zwecke [A1 n Sm46.IIa]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2013H" rel="nofollow">Bilder auf Film h2/sh/S2013H</a> | Filmanfang: Europa : Sicherung und Überwachung der Volksernährung [A1 n1 Sm19]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2014H" rel="nofollow">Bilder auf Film h2/sh/S2014H</a> | Filmanfang: Europa : Organisation des Absatzes [A1 n4 Sm9]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2015H" rel="nofollow">Bilder auf Film h2/sh/S2015H</a> | Filmanfang: Europa : Arbeitsverhältnisse, Arbeitszeit [A1 n15 Sm7.III]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2016H" rel="nofollow">Bilder auf Film h2/sh/S2016H</a> | Filmanfang: Europa : Reiseverkehr, Fremdenverkehr, Allgemein [A1 n28 Sm2.I]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2017H" rel="nofollow">Bilder auf Film h2/sh/S2017H</a> | Filmanfang: Europa : Einzelne Binnenschiffahrtsstrassen und Seekanäle [A1 n33a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2018H" rel="nofollow">Bilder auf Film h2/sh/S2018H</a> | Filmanfang: Europa : Einzelne Binnenschiffahrtsstrassen und Seekanäle [A1 n33a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2019H" rel="nofollow">Bilder auf Film h2/sh/S2019H</a> | Filmanfang: Europa : Drahtlose Telegraphie und Telephonie, Rundfunk [A1 n34 SM1]
+
+
+:::
 
 
 
@@ -319,8 +406,27 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
-Insgesamt 7 Mappen, 556 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 7 Mappen (bis 1949), 556 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

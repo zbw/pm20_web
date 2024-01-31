@@ -1,6 +1,6 @@
 ---
 title: "n18 Sm4 Sales opportunities in trade"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n18 Sm4]{.gray}&#8201; Sales opportunities in trade &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710922)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145266`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145266`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 20 folders, 135 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 19 folders, 135 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -35,7 +36,6 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 - A1 Europe [**&nearr;**](../../../geo/i/140892/about.en.html "Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A1 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145266" title="about: Europe : Sales opportunities in trade" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1408xx/140892/1452xx/145266/about.en.html))
 - A5 Levant [**&nearr;**](../../../geo/i/140898/about.en.html "Levant (all folders)") [**&uarr;**](../../../geo/about.en.html#A5 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140898,145266" title="about: Levant : Sales opportunities in trade" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1408xx/140898/1452xx/145266/about.en.html))
-- A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145266" title="about: Southeastern Europe : Sales opportunities in trade" target="_blank">0 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1452xx/145266/about.en.html))
 - A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,145266" title="about: Orient : Sales opportunities in trade" target="_blank">5 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1452xx/145266/about.en.html))
 - A43 Ottoman Empire [**&nearr;**](../../../geo/i/141034/about.en.html "Ottoman Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A43 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141034,145266" title="about: Ottoman Empire : Sales opportunities in trade" target="_blank">10 documents</a>) ([folder](../../../../folder/sh/1410xx/141034/1452xx/145266/about.en.html))
 
@@ -65,6 +65,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 - E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145266" title="about: Argentina : Sales opportunities in trade" target="_blank">23 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1452xx/145266/about.en.html))
 - E102 British Guiana [**&nearr;**](../../../geo/i/141700/about.en.html "British Guiana (all folders)") [**&uarr;**](../../../geo/about.en.html#E102 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141700,145266" title="about: British Guiana : Sales opportunities in trade" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1417xx/141700/1452xx/145266/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

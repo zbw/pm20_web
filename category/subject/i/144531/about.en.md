@@ -1,6 +1,6 @@
 ---
 title: "g4a Economic relations with individual countries"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [g4a]{.gray}&#8201; Economic relations with individual countries &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427881)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144531`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144531`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 43 folders, 6800 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 43 folders, 6806 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -39,7 +40,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,144531" title="about: Southeastern Europe : Economic relations with individual countries" target="_blank">678 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1445xx/144531/about.en.html))
 - A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,144531" title="about: Orient : Economic relations with individual countries" target="_blank">43 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1445xx/144531/about.en.html))
 - A8 Russian peripheral countries [**&nearr;**](../../../geo/i/140904/about.en.html "Russian peripheral countries (all folders)") [**&uarr;**](../../../geo/about.en.html#A8 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140904,144531" title="about: Russian peripheral countries : Economic relations with individual countries" target="_blank">8 documents</a>) ([folder](../../../../folder/sh/1409xx/140904/1445xx/144531/about.en.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144531" title="about: Hamburg : Economic relations with individual countries" target="_blank">192 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1445xx/144531/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144531" title="about: Hamburg : Economic relations with individual countries" target="_blank">198 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1445xx/144531/about.en.html))
 - A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,144531" title="about: Germany : Economic relations with individual countries" target="_blank">554 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1445xx/144531/about.en.html))
 - A10n(1) Upper Silesia (German-Polish border region) [**&nearr;**](../../../geo/i/140948/about.en.html "Upper Silesia (German-Polish border region) (all folders)") [**&uarr;**](../../../geo/about.en.html#A10n(1) "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140948,144531" title="about: Upper Silesia (German-Polish border region) : Economic relations with individual countries" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1409xx/140948/1445xx/144531/about.en.html))
 - A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140960,144531" title="about: German imperial colonies : Economic relations with individual countries" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1409xx/140960/1445xx/144531/about.en.html))
@@ -85,6 +86,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 - E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144531" title="about: Argentina : Economic relations with individual countries" target="_blank">2530 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1445xx/144531/about.en.html))
 - E102 British Guiana [**&nearr;**](../../../geo/i/141700/about.en.html "British Guiana (all folders)") [**&uarr;**](../../../geo/about.en.html#E102 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141700,144531" title="about: British Guiana : Economic relations with individual countries" target="_blank">19 documents</a>) ([folder](../../../../folder/sh/1417xx/141700/1445xx/144531/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

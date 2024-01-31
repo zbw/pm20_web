@@ -1,6 +1,6 @@
 ---
 title: "Algae and seaweed"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Algae and seaweed &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q237169) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Seaweed)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141959`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/141959`</div>
 
 
 
@@ -18,13 +18,15 @@ fn-stub: about
 
 
 
-## Commodities/wares archives
+## Commodities/wares archives folders
 
 
 
 
 
-In total 30 folders, 242 documents - folders complete.
+
+
+In total 30 folders, 242 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -77,6 +79,38 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### World
 
 - H World [**&nearr;**](../../../geo/i/141728/about.en.html "World (all folders)") [**&uarr;**](../../../geo/about.en.html#H "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141959,141728" title="about: Algae and seaweed : World" target="_blank">68 documents</a>) ([folder](../../../../folder/wa/1419xx/141959/1417xx/141728/about.en.html))
+
+
+
+<a id="filmsections" />
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 117</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2001H/0002" rel="nofollow">Images on film h2/wa/W2001H/0002</a> | Algen und Seetang
+
+
+:::
+
+
+
+
+
+
+
+
 
 
 

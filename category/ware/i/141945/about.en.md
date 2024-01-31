@@ -1,6 +1,6 @@
 ---
 title: "Aether"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Aether &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q103230) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Ether)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141945`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/141945`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Commodities/wares archives
+## Commodities/wares archives folders
 
 
 
 
 
-In total 20 folders, 42 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 20 folders, 42 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -43,7 +44,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A35 Italy [**&nearr;**](../../../geo/i/141008/about.en.html "Italy (all folders)") [**&uarr;**](../../../geo/about.en.html#A35 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141945,141008" title="about: Aether : Italy" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141945/1410xx/141008/about.en.html))
 - A40b Austria [**&nearr;**](../../../geo/i/141731/about.en.html "Austria (all folders)") [**&uarr;**](../../../geo/about.en.html#A40b "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141945,141731" title="about: Aether : Austria" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141945/1417xx/141731/about.en.html))
 - A40d Hungary [**&nearr;**](../../../geo/i/141025/about.en.html "Hungary (all folders)") [**&uarr;**](../../../geo/about.en.html#A40d "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141945,141025" title="about: Aether : Hungary" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1419xx/141945/1410xx/141025/about.en.html))
-- A40e Kingdom of Yugoslavia [**&nearr;**](../../../geo/i/141028/about.en.html "Kingdom of Yugoslavia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40e "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141945,141028" title="about: Aether : Kingdom of Yugoslavia" target="_blank">4 documents</a>) ([folder](../../../../folder/wa/1419xx/141945/1410xx/141028/about.en.html))
+- A40e (Kingdom of) Yugoslavia [**&nearr;**](../../../geo/i/141028/about.en.html "(Kingdom of) Yugoslavia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40e "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141945,141028" title="about: Aether : (Kingdom of) Yugoslavia" target="_blank">4 documents</a>) ([folder](../../../../folder/wa/1419xx/141945/1410xx/141028/about.en.html))
 - A45 Greece [**&nearr;**](../../../geo/i/141037/about.en.html "Greece (all folders)") [**&uarr;**](../../../geo/about.en.html#A45 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141945,141037" title="about: Aether : Greece" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141945/1410xx/141037/about.en.html))
 - A46 Bulgaria [**&nearr;**](../../../geo/i/141039/about.en.html "Bulgaria (all folders)") [**&uarr;**](../../../geo/about.en.html#A46 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141945,141039" title="about: Aether : Bulgaria" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1419xx/141945/1410xx/141039/about.en.html))
 - A47 Romania [**&nearr;**](../../../geo/i/141040/about.en.html "Romania (all folders)") [**&uarr;**](../../../geo/about.en.html#A47 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141945,141040" title="about: Aether : Romania" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141945/1410xx/141040/about.en.html))
@@ -59,6 +60,38 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### World
 
 - H World [**&nearr;**](../../../geo/i/141728/about.en.html "World (all folders)") [**&uarr;**](../../../geo/about.en.html#H "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141945,141728" title="about: Aether : World" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1419xx/141945/1417xx/141728/about.en.html))
+
+
+
+<a id="filmsections" />
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 1</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2023H/0343" rel="nofollow">Images on film h2/wa/W2023H/0343</a> | Äther
+
+
+:::
+
+
+
+
+
+
+
+
 
 
 

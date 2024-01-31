@@ -1,6 +1,6 @@
 ---
 title: "q Sm12.II Hilfsaktionen für ..., (Angehörige) Einzelne Staaten"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [q Sm12.II]{.gray}&#8201; Hilfsaktionen für ..., (Angehörige) Einzelne Staaten &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711382)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145956`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145956`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 13 Mappen, 271 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 13 Mappen, 273 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -36,7 +37,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145956" title="über: Europa : Hilfsaktionen für ..., (Angehörige) Einzelne Staaten" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1459xx/145956/about.de.html))
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145956" title="über: Südosteuropa : Hilfsaktionen für ..., (Angehörige) Einzelne Staaten" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1459xx/145956/about.de.html))
 - A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,145956" title="über: Orient : Hilfsaktionen für ..., (Angehörige) Einzelne Staaten" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1459xx/145956/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145956" title="über: Hamburg : Hilfsaktionen für ..., (Angehörige) Einzelne Staaten" target="_blank">32 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1459xx/145956/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145956" title="über: Hamburg : Hilfsaktionen für ..., (Angehörige) Einzelne Staaten" target="_blank">34 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1459xx/145956/about.de.html))
 - A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,145956" title="über: Deutschland : Hilfsaktionen für ..., (Angehörige) Einzelne Staaten" target="_blank">205 Dokumente</a>) ([Mappe](../../../../folder/sh/1261xx/126128/1459xx/145956/about.de.html))
 
 ### Asien
@@ -52,6 +53,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E85 Chile [**&nearr;**](../../../geo/i/141691/about.de.html "Chile (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E85 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141691,145956" title="über: Chile : Hilfsaktionen für ..., (Angehörige) Einzelne Staaten" target="_blank">10 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141691/1459xx/145956/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

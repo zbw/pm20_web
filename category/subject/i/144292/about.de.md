@@ -1,6 +1,6 @@
 ---
 title: "f2 Sm6 Leitende Staatsmänner, Kabinette"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [f2 Sm6]{.gray}&#8201; Leitende Staatsmänner, Kabinette &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699313)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144292`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144292`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 12 Mappen, 397 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 12 Mappen, 400 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -33,7 +34,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 ### Europa
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144292" title="über: Hamburg : Leitende Staatsmänner, Kabinette" target="_blank">20 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1442xx/144292/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144292" title="über: Hamburg : Leitende Staatsmänner, Kabinette" target="_blank">23 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1442xx/144292/about.de.html))
 - A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,144292" title="über: Deutschland : Leitende Staatsmänner, Kabinette" target="_blank">84 Dokumente</a>) ([Mappe](../../../../folder/sh/1261xx/126128/1442xx/144292/about.de.html))
 - A43 Osmanisches Reich (-1923) [**&nearr;**](../../../geo/i/141034/about.de.html "Osmanisches Reich (-1923) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A43 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141034,144292" title="über: Osmanisches Reich (-1923) : Leitende Staatsmänner, Kabinette" target="_blank">23 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141034/1442xx/144292/about.de.html))
 
@@ -54,6 +55,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144292" title="über: Argentinien : Leitende Staatsmänner, Kabinette" target="_blank">27 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1442xx/144292/about.de.html))
 - E95 Uruguay [**&nearr;**](../../../geo/i/141695/about.de.html "Uruguay (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E95 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141695,144292" title="über: Uruguay : Leitende Staatsmänner, Kabinette" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141695/1442xx/144292/about.de.html))
 - E101 Niederländisch-Guayana [**&nearr;**](../../../geo/i/141699/about.de.html "Niederländisch-Guayana (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E101 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141699,144292" title="über: Niederländisch-Guayana : Leitende Staatsmänner, Kabinette" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141699/1442xx/144292/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

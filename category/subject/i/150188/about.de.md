@@ -1,6 +1,6 @@
 ---
 title: "n4 Sm40 Landwirtschaft, Berufe und Ausbildung"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n4 Sm40]{.gray}&#8201; Landwirtschaft, Berufe und Ausbildung &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710537)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/150188`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/150188`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 9 Mappen, 27 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 9 Mappen, 29 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -34,7 +35,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Europa
 
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,150188" title="über: Südosteuropa : Landwirtschaft, Berufe und Ausbildung " target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1501xx/150188/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,150188" title="über: Hamburg : Landwirtschaft, Berufe und Ausbildung " target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1501xx/150188/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,150188" title="über: Hamburg : Landwirtschaft, Berufe und Ausbildung " target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1501xx/150188/about.de.html))
 - A36 Italienische Kolonien [**&nearr;**](../../../geo/i/141012/about.de.html "Italienische Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A36 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141012,150188" title="über: Italienische Kolonien : Landwirtschaft, Berufe und Ausbildung " target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141012/1501xx/150188/about.de.html))
 
 ### Asien
@@ -51,6 +52,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,150188" title="über: Argentinien : Landwirtschaft, Berufe und Ausbildung " target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1501xx/150188/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

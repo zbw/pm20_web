@@ -1,6 +1,6 @@
 ---
 title: "n35 Sm5 Segelflugwesen"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n35 Sm5]{.gray}&#8201; Segelflugwesen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711266)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145688`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145688`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 6 Mappen, 59 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 6 Mappen, 60 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -33,7 +34,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 ### Europa
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145688" title="über: Hamburg : Segelflugwesen" target="_blank">15 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1456xx/145688/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145688" title="über: Hamburg : Segelflugwesen" target="_blank">16 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1456xx/145688/about.de.html))
 
 ### Asien
 
@@ -48,6 +49,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145688" title="über: Argentinien : Segelflugwesen" target="_blank">39 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1456xx/145688/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

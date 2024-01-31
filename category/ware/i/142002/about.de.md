@@ -1,6 +1,6 @@
 ---
 title: "Araucaria"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Araucaria &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q157214) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Araukarien)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142002`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142002`</div>
 
 
 
@@ -18,12 +18,14 @@ fn-stub: about
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 4 Mappen, 13 Dokumente - Mappen komplett.
+
+
+Insgesamt 4 Mappen, 13 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -36,6 +38,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142002,141692" title="über: Araucaria : Argentinien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142002/1416xx/141692/about.de.html))
 - E95 Uruguay [**&nearr;**](../../../geo/i/141695/about.de.html "Uruguay (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E95 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142002,141695" title="über: Araucaria : Uruguay" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142002/1416xx/141695/about.de.html))
 - E97 Brasilien [**&nearr;**](../../../geo/i/141697/about.de.html "Brasilien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E97 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142002,141697" title="über: Araucaria : Brasilien" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142002/1416xx/141697/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

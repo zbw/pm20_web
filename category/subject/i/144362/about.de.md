@@ -1,6 +1,6 @@
 ---
 title: "f4 Sm5 Hoheitszeichen, Orden und Titel"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [f4 Sm5]{.gray}&#8201; Hoheitszeichen, Orden und Titel &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699634)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144362`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144362`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 4 Mappen, 76 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 4 Mappen, 82 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -33,7 +34,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 ### Europa
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144362" title="über: Hamburg : Hoheitszeichen, Orden und Titel" target="_blank">35 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1443xx/144362/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144362" title="über: Hamburg : Hoheitszeichen, Orden und Titel" target="_blank">41 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1443xx/144362/about.de.html))
 
 ### Asien
 
@@ -43,6 +44,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144362" title="über: Argentinien : Hoheitszeichen, Orden und Titel" target="_blank">30 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1443xx/144362/about.de.html))
 - E95 Uruguay [**&nearr;**](../../../geo/i/141695/about.de.html "Uruguay (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E95 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141695,144362" title="über: Uruguay : Hoheitszeichen, Orden und Titel" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141695/1443xx/144362/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

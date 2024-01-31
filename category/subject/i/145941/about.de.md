@@ -1,6 +1,6 @@
 ---
 title: "q Sm1 Alkoholismus und seine Bekämpfung"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [q Sm1]{.gray}&#8201; Alkoholismus und seine Bekämpfung &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711369)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145941`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145941`</div>
 
 <div class="hint">
 Scope Note: früher: Alkoholfrage
@@ -20,13 +20,14 @@ Scope Note: früher: Alkoholfrage
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 21 Mappen, 314 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 21 Mappen, 315 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -35,7 +36,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 ### Europa
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145941" title="über: Hamburg : Alkoholismus und seine Bekämpfung" target="_blank">9 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1459xx/145941/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145941" title="über: Hamburg : Alkoholismus und seine Bekämpfung" target="_blank">10 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1459xx/145941/about.de.html))
 - A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,145941" title="über: Deutschland : Alkoholismus und seine Bekämpfung" target="_blank">83 Dokumente</a>) ([Mappe](../../../../folder/sh/1261xx/126128/1459xx/145941/about.de.html))
 - A11 Deutsche Kolonien [**&nearr;**](../../../geo/i/140960/about.de.html "Deutsche Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A11 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140960,145941" title="über: Deutsche Kolonien : Alkoholismus und seine Bekämpfung" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140960/1459xx/145941/about.de.html))
 
@@ -68,6 +69,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - E85 Chile [**&nearr;**](../../../geo/i/141691/about.de.html "Chile (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E85 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141691,145941" title="über: Chile : Alkoholismus und seine Bekämpfung" target="_blank">45 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141691/1459xx/145941/about.de.html))
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145941" title="über: Argentinien : Alkoholismus und seine Bekämpfung" target="_blank">37 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1459xx/145941/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

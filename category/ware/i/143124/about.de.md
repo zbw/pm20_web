@@ -1,6 +1,6 @@
 ---
 title: "Koka, Kokain"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Koka, Kokain &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q111973624)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/143124`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/143124`</div>
 
 
 
@@ -18,12 +18,14 @@ fn-stub: about
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 39 Mappen, 272 Dokumente - Mappen komplett.
+
+
+Insgesamt 39 Mappen, 272 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -45,7 +47,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - A35 Italien [**&nearr;**](../../../geo/i/141008/about.de.html "Italien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A35 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,141008" title="über: Koka, Kokain : Italien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143124/1410xx/141008/about.de.html))
 - A40b Österreich [**&nearr;**](../../../geo/i/141731/about.de.html "Österreich (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40b "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,141731" title="über: Koka, Kokain : Österreich" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143124/1417xx/141731/about.de.html))
 - A40d Ungarn [**&nearr;**](../../../geo/i/141025/about.de.html "Ungarn (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40d "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,141025" title="über: Koka, Kokain : Ungarn" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143124/1410xx/141025/about.de.html))
-- A40e Südslawien [**&nearr;**](../../../geo/i/141028/about.de.html "Südslawien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40e "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,141028" title="über: Koka, Kokain : Südslawien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143124/1410xx/141028/about.de.html))
+- A40e Jugoslawien (bis 1945 Südslawien) [**&nearr;**](../../../geo/i/141028/about.de.html "Jugoslawien (bis 1945 Südslawien) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40e "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,141028" title="über: Koka, Kokain : Jugoslawien (bis 1945 Südslawien)" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143124/1410xx/141028/about.de.html))
 - A43 Osmanisches Reich (-1923) [**&nearr;**](../../../geo/i/141034/about.de.html "Osmanisches Reich (-1923) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A43 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,141034" title="über: Koka, Kokain : Osmanisches Reich (-1923)" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143124/1410xx/141034/about.de.html))
 - A50 Sowjetunion (1922-1991) [**&nearr;**](../../../geo/i/141043/about.de.html "Sowjetunion (1922-1991) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A50 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,141043" title="über: Koka, Kokain : Sowjetunion (1922-1991)" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143124/1410xx/141043/about.de.html))
 - A58 Lettland [**&nearr;**](../../../geo/i/141050/about.de.html "Lettland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A58 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,141050" title="über: Koka, Kokain : Lettland" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143124/1410xx/141050/about.de.html))
@@ -83,6 +85,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Welt
 
 - H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,141728" title="über: Koka, Kokain : Welt" target="_blank">51 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143124/1417xx/141728/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

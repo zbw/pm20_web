@@ -1,6 +1,6 @@
 ---
 title: "n23 Geld und Währung"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n23]{.gray}&#8201; Geld und Währung &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428054)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145305`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145305`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 46 Mappen, 1330 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 46 Mappen, 1330 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -88,6 +89,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145305" title="über: Argentinien : Geld und Währung" target="_blank">183 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1453xx/145305/about.de.html))
 - E101 Niederländisch-Guayana [**&nearr;**](../../../geo/i/141699/about.de.html "Niederländisch-Guayana (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E101 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141699,145305" title="über: Niederländisch-Guayana : Geld und Währung" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141699/1453xx/145305/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

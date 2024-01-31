@@ -1,6 +1,6 @@
 ---
 title: "A4 Westeuropa"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [A4]{.gray}&#8201; Westeuropa &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q27496) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Westeuropa)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140897`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/140897`</div>
 
 <div class="hint">
 Scope Note: (einschl.: Frankreich, Britische Inseln, Belgien, Luxemburg, Niederlande)
@@ -20,14 +20,17 @@ Scope Note: (einschl.: Frankreich, Britische Inseln, Belgien, Luxemburg, Niederl
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
 
 
 
 
 
 
-Insgesamt 68 Mappen, 272 Dokumente - Mappen komplett.
+
+
+
+Insgesamt 68 Mappen, 272 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -134,6 +137,40 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Einzelfragen politischer und wirtschaftlicher Natur
 
 - q Sm2.IIb Kriegsmateriallieferungen durch das Ausland, Durch Einzelne Länder [**&nearr;**](../../../subject/i/145944/about.de.html "Kriegsmateriallieferungen durch das Ausland, Durch Einzelne Länder (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#q_Sm2.IIb "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140897,145944" title="über: Westeuropa : Kriegsmateriallieferungen durch das Ausland, Durch Einzelne Länder" target="_blank">17 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140897/1459xx/145944/about.de.html))
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 4154</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2022H/0630" rel="nofollow">Bilder auf Film h2/sh/S2022H/0630</a> | Westeuropa
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2023H" rel="nofollow">Bilder auf Film h2/sh/S2023H</a> | Filmanfang: Westeuropa : Militärwesen, Allgemein [A4 l]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2024H" rel="nofollow">Bilder auf Film h2/sh/S2024H</a> | Filmanfang: Westeuropa : Militärwesen, Allgemein [A4 l]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2025H" rel="nofollow">Bilder auf Film h2/sh/S2025H</a> | Filmanfang: Westeuropa : Berichte über die wirtschaftliche Lage [A4 n2]
+
+
+:::
+
+
+
+
+
+
+
 
 
 

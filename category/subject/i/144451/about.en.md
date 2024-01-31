@@ -1,6 +1,6 @@
 ---
 title: "g Foreign policy and political relations with foreign countries, general"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [g]{.gray}&#8201; Foreign policy and political relations with foreign countries, general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427872)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144451`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144451`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 28 folders, 4737 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 28 folders, 4738 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -33,7 +34,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A1 Europe [**&nearr;**](../../../geo/i/140892/about.en.html "Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A1 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144451" title="about: Europe : Foreign policy and political relations with foreign countries, general" target="_blank">1208 documents</a>) ([folder](../../../../folder/sh/1408xx/140892/1444xx/144451/about.en.html))
+- A1 Europe [**&nearr;**](../../../geo/i/140892/about.en.html "Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A1 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144451" title="about: Europe : Foreign policy and political relations with foreign countries, general" target="_blank">1209 documents</a>) ([folder](../../../../folder/sh/1408xx/140892/1444xx/144451/about.en.html))
 - A1a Baltic region [**&nearr;**](../../../geo/i/140894/about.en.html "Baltic region (all folders)") [**&uarr;**](../../../geo/about.en.html#A1a "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140894,144451" title="about: Baltic region : Foreign policy and political relations with foreign countries, general" target="_blank">10 documents</a>) ([folder](../../../../folder/sh/1408xx/140894/1444xx/144451/about.en.html))
 - A2 Central Europe [**&nearr;**](../../../geo/i/140895/about.en.html "Central Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A2 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140895,144451" title="about: Central Europe : Foreign policy and political relations with foreign countries, general" target="_blank">21 documents</a>) ([folder](../../../../folder/sh/1408xx/140895/1444xx/144451/about.en.html))
 - A3 Eastern Europe [**&nearr;**](../../../geo/i/140896/about.en.html "Eastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A3 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140896,144451" title="about: Eastern Europe : Foreign policy and political relations with foreign countries, general" target="_blank">19 documents</a>) ([folder](../../../../folder/sh/1408xx/140896/1444xx/144451/about.en.html))
@@ -73,6 +74,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 - E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144451" title="about: Argentina : Foreign policy and political relations with foreign countries, general" target="_blank">164 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1444xx/144451/about.en.html))
 - E95 Uruguay [**&nearr;**](../../../geo/i/141695/about.en.html "Uruguay (all folders)") [**&uarr;**](../../../geo/about.en.html#E95 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141695,144451" title="about: Uruguay : Foreign policy and political relations with foreign countries, general" target="_blank">39 documents</a>) ([folder](../../../../folder/sh/1416xx/141695/1444xx/144451/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

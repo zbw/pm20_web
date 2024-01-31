@@ -1,6 +1,6 @@
 ---
 title: "B86 Philippines"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,18 +10,21 @@ fn-stub: about
 
 # [B86]{.gray}&#8201; Philippines &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q928) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Philippines)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141240`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141240`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
+[Subject archives](#subject-archives-folders) &#160; [Commodities/wares archives](#commoditieswares-archives-folders)
 
 
 
 
-## Subject archives
+## Subject archives folders
+
+
+
 
 
 
@@ -39,11 +42,53 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
+<a id="filmsections" />
+
+## Sections of digitized microfilms (1st filming 1908-1949)
+
+<p>For intellectual property law reasons accessible only from the European Union legal area and from the ZBW reading room.</p>
+
+
+
+<p>Total number of images: 2310</p>
 
 
 
 
-## Commodities/wares archives
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0703H/0098" rel="nofollow">Images on film h1/sh/S0703H/0098</a> | Philippinen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0704H" rel="nofollow">Images on film h1/sh/S0704H</a> | Filmanfang: Philippinen : Wirtschaft, Allgemein [B86 n]
+
+
+:::
+
+
+
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 1573</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2646H/0878" rel="nofollow">Images on film h2/sh/S2646H/0878</a> | Philippinen
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2647H" rel="nofollow">Images on film h2/sh/S2647H</a> | Filmanfang: Philippinen : g2-4 Sm [B86 g2-4 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2648H" rel="nofollow">Images on film h2/sh/S2648H</a> | Filmanfang: Philippinen : n24-q [B86 n24-q]
+
+
+:::
 
 
 
@@ -53,8 +98,27 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
-In total 23 folders, 181 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_wa.de.html) (in German).
+
+
+
+
+
+## Commodities/wares archives folders
+
+
+
+
+
+
+
+
+
+
+
+In total 23 folders (until 1949), 181 documents
+- folders incomplete.  For material not published as folders, please check the
+digitized micro-films of the [1st filming](/film/h1_wa.de.html) and [2nd
+filming](/film/h2_wa.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 

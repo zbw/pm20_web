@@ -1,6 +1,6 @@
 ---
 title: "n4 Sm4 State support for agriculture"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n4 Sm4]{.gray}&#8201; State support for agriculture &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710528)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145052`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145052`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 13 folders, 231 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 13 folders, 231 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -58,6 +59,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 - E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145052" title="about: Argentina : State support for agriculture" target="_blank">99 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1450xx/145052/about.en.html))
 - E101 Surinam [**&nearr;**](../../../geo/i/141699/about.en.html "Surinam (all folders)") [**&uarr;**](../../../geo/about.en.html#E101 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141699,145052" title="about: Surinam : State support for agriculture" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1416xx/141699/1450xx/145052/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "n32 Maritime shipping"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n32]{.gray}&#8201; Maritime shipping &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428071)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145567`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145567`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 50 folders, 3511 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 50 folders, 3655 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -40,9 +41,9 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A5 Levant [**&nearr;**](../../../geo/i/140898/about.en.html "Levant (all folders)") [**&uarr;**](../../../geo/about.en.html#A5 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140898,145567" title="about: Levant : Maritime shipping" target="_blank">8 documents</a>) ([folder](../../../../folder/sh/1408xx/140898/1455xx/145567/about.en.html))
 - A5a Mediterranean region [**&nearr;**](../../../geo/i/140899/about.en.html "Mediterranean region (all folders)") [**&uarr;**](../../../geo/about.en.html#A5a "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140899,145567" title="about: Mediterranean region : Maritime shipping" target="_blank">14 documents</a>) ([folder](../../../../folder/sh/1408xx/140899/1455xx/145567/about.en.html))
 - A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145567" title="about: Southeastern Europe : Maritime shipping" target="_blank">34 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1455xx/145567/about.en.html))
-- A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,145567" title="about: Orient : Maritime shipping" target="_blank">0 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1455xx/145567/about.en.html))
+- A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,145567" title="about: Orient : Maritime shipping" target="_blank">5 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1455xx/145567/about.en.html))
 - A8 Russian peripheral countries [**&nearr;**](../../../geo/i/140904/about.en.html "Russian peripheral countries (all folders)") [**&uarr;**](../../../geo/about.en.html#A8 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140904,145567" title="about: Russian peripheral countries : Maritime shipping" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1409xx/140904/1455xx/145567/about.en.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145567" title="about: Hamburg : Maritime shipping" target="_blank">473 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1455xx/145567/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145567" title="about: Hamburg : Maritime shipping" target="_blank">612 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1455xx/145567/about.en.html))
 - A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,145567" title="about: Germany : Maritime shipping" target="_blank">1088 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1455xx/145567/about.en.html))
 - A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140960,145567" title="about: German imperial colonies : Maritime shipping" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1409xx/140960/1455xx/145567/about.en.html))
 - A36 Italian Empire [**&nearr;**](../../../geo/i/141012/about.en.html "Italian Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A36 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141012,145567" title="about: Italian Empire : Maritime shipping" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1410xx/141012/1455xx/145567/about.en.html))
@@ -98,6 +99,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### Polar regions
 
 - F10 Arctic region [**&nearr;**](../../../geo/i/141702/about.en.html "Arctic region (all folders)") [**&uarr;**](../../../geo/about.en.html#F10 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141702,145567" title="about: Arctic region : Maritime shipping" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1417xx/141702/1455xx/145567/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

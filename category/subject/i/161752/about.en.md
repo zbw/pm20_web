@@ -1,6 +1,6 @@
 ---
 title: "n24 Sm4 Lending"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n24 Sm4]{.gray}&#8201; Lending &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710992)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/161752`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/161752`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 13 folders, 161 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 13 folders, 164 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -33,7 +34,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,161752" title="about: Hamburg : Lending" target="_blank">11 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1617xx/161752/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,161752" title="about: Hamburg : Lending" target="_blank">14 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1617xx/161752/about.en.html))
 - A10n(1) Upper Silesia (German-Polish border region) [**&nearr;**](../../../geo/i/140948/about.en.html "Upper Silesia (German-Polish border region) (all folders)") [**&uarr;**](../../../geo/about.en.html#A10n(1) "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140948,161752" title="about: Upper Silesia (German-Polish border region) : Lending" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1409xx/140948/1617xx/161752/about.en.html))
 - A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140960,161752" title="about: German imperial colonies : Lending" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1409xx/140960/1617xx/161752/about.en.html))
 
@@ -55,6 +56,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### America
 
 - E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,161752" title="about: Argentina : Lending" target="_blank">124 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1617xx/161752/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

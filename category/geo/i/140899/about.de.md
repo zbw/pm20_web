@@ -1,6 +1,6 @@
 ---
 title: "A5a Mittelmeerländer"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [A5a]{.gray}&#8201; Mittelmeerländer &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q72499) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Mittelmeerraum)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140899`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/140899`</div>
 
 
 
@@ -18,14 +18,17 @@ fn-stub: about
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
 
 
 
 
 
 
-Insgesamt 28 Mappen, 180 Dokumente - Mappen komplett.
+
+
+
+Insgesamt 28 Mappen, 180 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -78,6 +81,37 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - [n37a Einzelne Versicherungszweige]{.gray}
   - n37a Sm5.II Transportversicherung, Wassertransportversicherung [**&nearr;**](../../../subject/i/145738/about.de.html "Transportversicherung, Wassertransportversicherung (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n37a_Sm5.II "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140899,145738" title="über: Mittelmeerländer : Transportversicherung, Wassertransportversicherung" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140899/1457xx/145738/about.de.html))
   - n37a Sm7 (alt) Luftschädenversicherung [**&nearr;**](../../../subject/i/145742/about.de.html "Luftschädenversicherung (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n37a_Sm7_(alt) "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140899,145742" title="über: Mittelmeerländer : Luftschädenversicherung" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140899/1457xx/145742/about.de.html))
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 224</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2025H/0786" rel="nofollow">Bilder auf Film h2/sh/S2025H/0786</a> | Mittelmeerländer
+
+
+:::
+
+
+
+
+
+
+
 
 
 

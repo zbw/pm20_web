@@ -1,6 +1,6 @@
 ---
 title: "A47 Rumänien"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -8,27 +8,121 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A47]{.gray}&#8201; Rumänien
+# [A47]{.gray}&#8201; Rumänien &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q218) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Rum%C3%A4nien)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141040`</div>
-
-
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141040`</div>
 
 
 
 
-
-## Warenarchiv
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
+## Sacharchiv Mappen
 
 
 
-Insgesamt 38 Mappen, 709 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+Kein als Mappe erschlossenes Material.
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 15055</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0561H/0903" rel="nofollow">Bilder auf Film h1/sh/S0561H/0903</a> | Rumänien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0562H" rel="nofollow">Bilder auf Film h1/sh/S0562H</a> | Filmanfang: Rumänien : Religionswesen, Kirchen [A47 d7]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0563H" rel="nofollow">Bilder auf Film h1/sh/S0563H</a> | Filmanfang: Rumänien : Geschichtliche Vorgänge [A47 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0564H" rel="nofollow">Bilder auf Film h1/sh/S0564H</a> | Filmanfang: Rumänien : Außenpolitik und politische Beziehungen zum Ausland, Allgemein [A47 g]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0565H" rel="nofollow">Bilder auf Film h1/sh/S0565H</a> | Filmanfang: Rumänien : Politische Beziehungen zu einzelnen Ländern Südslawien [A47 g1 Südslawien]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0566H" rel="nofollow">Bilder auf Film h1/sh/S0566H</a> | Filmanfang: Rumänien : Wirtschaftliche Kompensationen, Warenaustausch Ungarn [A47 g4a SM1 Ungarn]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0567H" rel="nofollow">Bilder auf Film h1/sh/S0567H</a> | Filmanfang: Rumänien : Staatshaushalt Sm5II Schweden [A47 m1 SM5II Schweden]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0568H" rel="nofollow">Bilder auf Film h1/sh/S0568H</a> | Filmanfang: Rumänien : Öffentliche Kredite und Subventionen an die Wirtschaft, Allgemein [A47 n1 SM4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0569H" rel="nofollow">Bilder auf Film h1/sh/S0569H</a> | Filmanfang: Rumänien : Berichte über die wirtschaftliche Lage [A47 n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0570H" rel="nofollow">Bilder auf Film h1/sh/S0570H</a> | Filmanfang: Rumänien : Viehwirtschaft [A47 n5]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0571H" rel="nofollow">Bilder auf Film h1/sh/S0571H</a> | Filmanfang: Rumänien : Handel [A47 n18]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0572H" rel="nofollow">Bilder auf Film h1/sh/S0572H</a> | Filmanfang: Rumänien : Landstrassen, Wege, Brücken (einschl. ihres Verkehrs) [A47 n29]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0573H" rel="nofollow">Bilder auf Film h1/sh/S0573H</a> | Filmanfang: Rumänien : Minderheiten aus einzelnen Ländern Deutschland [A47 o3 Deutschland]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0573H/0873/R" rel="nofollow">Bilder auf Film h1/sh/S0573H/0873/R</a> | Rumänien : Bessarabienfrage
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0573H/1011/R" rel="nofollow">Bilder auf Film h1/sh/S0573H/1011/R</a> | Rumänien : Dobrudschafrage
+
+
+:::
+
+
+
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 2028</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2563H/0510" rel="nofollow">Bilder auf Film h2/sh/S2563H/0510</a> | Rumänien
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2564H" rel="nofollow">Bilder auf Film h2/sh/S2564H</a> | Filmanfang: Rumänien : g4-g4a Sm [A47 g4-g4a Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2565H" rel="nofollow">Bilder auf Film h2/sh/S2565H</a> | Filmanfang: Rumänien : n25-g [A47 n25-g]
+
+
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 38 Mappen (bis 1949), 709 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

@@ -1,6 +1,6 @@
 ---
 title: "A60 Estonia"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -8,17 +8,81 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A60]{.gray}&#8201; Estonia
+# [A60]{.gray}&#8201; Estonia &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q191) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Estonia)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141052`</div>
-
-
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141052`</div>
 
 
 
 
 
-## Commodities/wares archives
+[Subject archives](#subject-archives-folders) &#160; [Commodities/wares archives](#commoditieswares-archives-folders)
+
+
+
+
+## Subject archives folders
+
+
+
+
+
+
+
+
+No material prepared as folder.
+
+
+
+<a id="filmsections" />
+
+## Sections of digitized microfilms (1st filming 1908-1949)
+
+<p>For intellectual property law reasons accessible only from the European Union legal area and from the ZBW reading room.</p>
+
+
+
+<p>Total number of images: 6701</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0637H" rel="nofollow">Images on film h1/sh/S0637H</a> | Filmanfang: Estland : Parteiwesen [A60 f5]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0638H" rel="nofollow">Images on film h1/sh/S0638H</a> | Filmanfang: Estland : Zollunionen Lettland [A60 g4a Sm18 Lettland]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0639H" rel="nofollow">Images on film h1/sh/S0639H</a> | Filmanfang: Estland : Fremdländische Kapitalanlagen, privatwirtschaftliche Interessen II Belgien [A60 n Sm1 II Belgien]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0640H" rel="nofollow">Images on film h1/sh/S0640H</a> | Filmanfang: Estland : Forstwirtschaft [A60 n9]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0641H" rel="nofollow">Images on film h1/sh/S0641H</a> | Filmanfang: Estland : Organisation des landwirtschaftlichen Kredits [A60 n24 Sm18]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0642H" rel="nofollow">Images on film h1/sh/S0642H</a> | Filmanfang: Estland : Versicherungswesen [A60 n37]
+
+
+:::
+
+
+
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 110</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2597H/0963" rel="nofollow">Images on film h2/sh/S2597H/0963</a> | Estland
+
+
+:::
 
 
 
@@ -28,8 +92,27 @@ fn-stub: about
 
 
 
-In total 24 folders, 384 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_wa.de.html) (in German).
+
+
+
+
+
+## Commodities/wares archives folders
+
+
+
+
+
+
+
+
+
+
+
+In total 24 folders (until 1949), 384 documents
+- folders incomplete.  For material not published as folders, please check the
+digitized micro-films of the [1st filming](/film/h1_wa.de.html) and [2nd
+filming](/film/h2_wa.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 

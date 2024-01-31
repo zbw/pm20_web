@@ -1,6 +1,6 @@
 ---
 title: "n2 Berichte über die wirtschaftliche Lage"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n2]{.gray}&#8201; Berichte über die wirtschaftliche Lage &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428018)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144972`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144972`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 65 Mappen, 5933 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 65 Mappen, 5993 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -33,7 +34,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 ### Europa
 
-- A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144972" title="über: Europa : Berichte über die wirtschaftliche Lage" target="_blank">176 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1449xx/144972/about.de.html))
+- A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144972" title="über: Europa : Berichte über die wirtschaftliche Lage" target="_blank">177 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1449xx/144972/about.de.html))
 - A1a Ostseeländer [**&nearr;**](../../../geo/i/140894/about.de.html "Ostseeländer (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1a "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140894,144972" title="über: Ostseeländer : Berichte über die wirtschaftliche Lage" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140894/1449xx/144972/about.de.html))
 - A2 Mitteleuropa [**&nearr;**](../../../geo/i/140895/about.de.html "Mitteleuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A2 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140895,144972" title="über: Mitteleuropa : Berichte über die wirtschaftliche Lage" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140895/1449xx/144972/about.de.html))
 - A3 Osteuropa [**&nearr;**](../../../geo/i/140896/about.de.html "Osteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A3 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140896,144972" title="über: Osteuropa : Berichte über die wirtschaftliche Lage" target="_blank">11 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140896/1449xx/144972/about.de.html))
@@ -43,7 +44,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,144972" title="über: Südosteuropa : Berichte über die wirtschaftliche Lage" target="_blank">91 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1449xx/144972/about.de.html))
 - A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,144972" title="über: Orient : Berichte über die wirtschaftliche Lage" target="_blank">37 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1449xx/144972/about.de.html))
 - A8 Russische Randstaaten [**&nearr;**](../../../geo/i/140904/about.de.html "Russische Randstaaten (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A8 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140904,144972" title="über: Russische Randstaaten : Berichte über die wirtschaftliche Lage" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140904/1449xx/144972/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144972" title="über: Hamburg : Berichte über die wirtschaftliche Lage" target="_blank">199 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1449xx/144972/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144972" title="über: Hamburg : Berichte über die wirtschaftliche Lage" target="_blank">258 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1449xx/144972/about.de.html))
 - A10n(1) Oberschlesien (dt.-poln. Abstimmungsgebiet) [**&nearr;**](../../../geo/i/140948/about.de.html "Oberschlesien (dt.-poln. Abstimmungsgebiet) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10n(1) "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140948,144972" title="über: Oberschlesien (dt.-poln. Abstimmungsgebiet) : Berichte über die wirtschaftliche Lage" target="_blank">18 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140948/1449xx/144972/about.de.html))
 - A10p Polnisch-Schlesien [**&nearr;**](../../../geo/i/140951/about.de.html "Polnisch-Schlesien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10p "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140951,144972" title="über: Polnisch-Schlesien : Berichte über die wirtschaftliche Lage" target="_blank">47 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140951/1449xx/144972/about.de.html))
 - A11 Deutsche Kolonien [**&nearr;**](../../../geo/i/140960/about.de.html "Deutsche Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A11 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140960,144972" title="über: Deutsche Kolonien : Berichte über die wirtschaftliche Lage" target="_blank">60 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140960/1449xx/144972/about.de.html))
@@ -110,6 +111,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144972" title="über: Argentinien : Berichte über die wirtschaftliche Lage" target="_blank">1036 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1449xx/144972/about.de.html))
 - E101 Niederländisch-Guayana [**&nearr;**](../../../geo/i/141699/about.de.html "Niederländisch-Guayana (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E101 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141699,144972" title="über: Niederländisch-Guayana : Berichte über die wirtschaftliche Lage" target="_blank">60 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141699/1449xx/144972/about.de.html))
 - E102 Britisch-Guayana [**&nearr;**](../../../geo/i/141700/about.de.html "Britisch-Guayana (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E102 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141700,144972" title="über: Britisch-Guayana : Berichte über die wirtschaftliche Lage" target="_blank">45 Dokumente</a>) ([Mappe](../../../../folder/sh/1417xx/141700/1449xx/144972/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

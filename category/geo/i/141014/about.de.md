@@ -1,6 +1,6 @@
 ---
 title: "A38 Fiume"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [A38]{.gray}&#8201; Fiume &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q1647) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Rijeka)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141014`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141014`</div>
 
 <div class="hint">
 Scope Note: Freistaat Fiume von 1920 bis 127.01.1924. Italienischer und ungarischer Name von Rijeka, daneben auch ungarisch Szentvit, deutsch veraltet auch St. Veit am Flaum.  Hafenstadt an der Kvarner-Bucht in Kroatien
@@ -20,14 +20,17 @@ Scope Note: Freistaat Fiume von 1920 bis 127.01.1924. Italienischer und ungarisc
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
 
 
 
 
 
 
-Insgesamt 25 Mappen, 146 Dokumente - Mappen komplett.
+
+
+
+Insgesamt 25 Mappen, 146 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -74,6 +77,14 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - n32b Schiffsverkehr mit einzelnen Ländern [**&nearr;**](../../../subject/i/145645/about.de.html "Schiffsverkehr mit einzelnen Ländern (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n32b "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141014,145645" title="über: Fiume : Schiffsverkehr mit einzelnen Ländern" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141014/1456xx/145645/about.de.html))
 - [n34 Postwesen, Telegraphenwesen und Fernsprechwesen]{.gray}
   - n34 Sm1 Drahtlose Telegraphie und Telephonie, Rundfunk [**&nearr;**](../../../subject/i/145663/about.de.html "Drahtlose Telegraphie und Telephonie, Rundfunk (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n34_Sm1 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141014,145663" title="über: Fiume : Drahtlose Telegraphie und Telephonie, Rundfunk" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141014/1456xx/145663/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
 
 
 

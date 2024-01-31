@@ -1,6 +1,6 @@
 ---
 title: "f2 Sm9 Political and cultural propaganda. (From 1945): Polling"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [f2 Sm9]{.gray}&#8201; Political and cultural propaganda. (From 1945): Polling &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699319)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144295`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144295`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 7 folders, 206 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 7 folders, 206 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -46,6 +47,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### Africa
 
 - C125 Abyssinia [**&nearr;**](../../../geo/i/141482/about.en.html "Abyssinia (all folders)") [**&uarr;**](../../../geo/about.en.html#C125 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141482,144295" title="about: Abyssinia : Political and cultural propaganda. (From 1945): Polling" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1414xx/141482/1442xx/144295/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "n24 Sm4.II Realkreditwesen"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n24 Sm4.II]{.gray}&#8201; Realkreditwesen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710994)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/161754`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/161754`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 1 Mappen, 1 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 1 Mappen, 1 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -34,6 +35,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Asien
 
 - B24a Palästina (-1945) [**&nearr;**](../../../geo/i/141115/about.de.html "Palästina (-1945) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B24a "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141115,161754" title="über: Palästina (-1945) : Realkreditwesen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1411xx/141115/1617xx/161754/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

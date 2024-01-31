@@ -1,6 +1,6 @@
 ---
 title: "A50(1) Russland"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -8,9 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A50(1)]{.gray}&#8201; Russland
+# [A50(1)]{.gray}&#8201; Russland &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q159) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Russland)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/220988`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/220988`</div>
 
 <div class="hint">
 Scope Note: bis Ende 1922, und ab 1991
@@ -20,7 +20,7 @@ Scope Note: bis Ende 1922, und ab 1991
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
@@ -29,8 +29,12 @@ Scope Note: bis Ende 1922, und ab 1991
 
 
 
-Insgesamt 1 Mappen, 81 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+Insgesamt 1 Mappen (bis 1949), 81 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

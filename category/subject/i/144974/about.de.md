@@ -1,6 +1,6 @@
 ---
 title: "n2 Sm2 (alt) Jahresübersichten (Berichte über die wirtschaftliche Lage)"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n2 Sm2 (alt)]{.gray}&#8201; Jahresübersichten (Berichte über die wirtschaftliche Lage) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710414)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144974`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144974`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 12 Mappen, 173 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 12 Mappen, 173 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -57,6 +58,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - E97 Brasilien [**&nearr;**](../../../geo/i/141697/about.de.html "Brasilien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E97 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141697,144974" title="über: Brasilien : Jahresübersichten (Berichte über die wirtschaftliche Lage)" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141697/1449xx/144974/about.de.html))
 - E101 Niederländisch-Guayana [**&nearr;**](../../../geo/i/141699/about.de.html "Niederländisch-Guayana (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E101 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141699,144974" title="über: Niederländisch-Guayana : Jahresübersichten (Berichte über die wirtschaftliche Lage)" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141699/1449xx/144974/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "g4a Wirtschaftspolitische Beziehungen zu einzelnen Ländern"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [g4a]{.gray}&#8201; Wirtschaftspolitische Beziehungen zu einzelnen Ländern &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427881)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144531`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144531`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 43 Mappen, 6800 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 43 Mappen, 6806 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -39,7 +40,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,144531" title="über: Südosteuropa : Wirtschaftspolitische Beziehungen zu einzelnen Ländern" target="_blank">678 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1445xx/144531/about.de.html))
 - A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,144531" title="über: Orient : Wirtschaftspolitische Beziehungen zu einzelnen Ländern" target="_blank">43 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1445xx/144531/about.de.html))
 - A8 Russische Randstaaten [**&nearr;**](../../../geo/i/140904/about.de.html "Russische Randstaaten (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A8 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140904,144531" title="über: Russische Randstaaten : Wirtschaftspolitische Beziehungen zu einzelnen Ländern" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140904/1445xx/144531/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144531" title="über: Hamburg : Wirtschaftspolitische Beziehungen zu einzelnen Ländern" target="_blank">192 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1445xx/144531/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144531" title="über: Hamburg : Wirtschaftspolitische Beziehungen zu einzelnen Ländern" target="_blank">198 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1445xx/144531/about.de.html))
 - A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,144531" title="über: Deutschland : Wirtschaftspolitische Beziehungen zu einzelnen Ländern" target="_blank">554 Dokumente</a>) ([Mappe](../../../../folder/sh/1261xx/126128/1445xx/144531/about.de.html))
 - A10n(1) Oberschlesien (dt.-poln. Abstimmungsgebiet) [**&nearr;**](../../../geo/i/140948/about.de.html "Oberschlesien (dt.-poln. Abstimmungsgebiet) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10n(1) "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140948,144531" title="über: Oberschlesien (dt.-poln. Abstimmungsgebiet) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140948/1445xx/144531/about.de.html))
 - A11 Deutsche Kolonien [**&nearr;**](../../../geo/i/140960/about.de.html "Deutsche Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A11 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140960,144531" title="über: Deutsche Kolonien : Wirtschaftspolitische Beziehungen zu einzelnen Ländern" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140960/1445xx/144531/about.de.html))
@@ -85,6 +86,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144531" title="über: Argentinien : Wirtschaftspolitische Beziehungen zu einzelnen Ländern" target="_blank">2530 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1445xx/144531/about.de.html))
 - E102 Britisch-Guayana [**&nearr;**](../../../geo/i/141700/about.de.html "Britisch-Guayana (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E102 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141700,144531" title="über: Britisch-Guayana : Wirtschaftspolitische Beziehungen zu einzelnen Ländern" target="_blank">19 Dokumente</a>) ([Mappe](../../../../folder/sh/1417xx/141700/1445xx/144531/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

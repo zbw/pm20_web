@@ -1,6 +1,6 @@
 ---
 title: "C110 Deutsch-Ostafrika"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,27 +10,30 @@ fn-stub: about
 
 # [C110]{.gray}&#8201; Deutsch-Ostafrika &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q153963) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Deutsch-Ostafrika)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141471`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141471`</div>
 
 <div class="hint">
 Scope Note: Deutsch Ostafrika (1891-1920), Tanganyika territory (ab 1920 brit. Mandat), Republik Tanganyika (1962-64), mit Sansibar zusammengeschlossen zu Vereinigter Republik von Tansania
 </div>
 
 
-[Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
 
 
 
 
 
 
-Insgesamt 248 Mappen, 6053 Dokumente - Mappen komplett.
+
+
+
+Insgesamt 248 Mappen, 6053 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -337,11 +340,27 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 339</p>
 
 
 
 
-## Warenarchiv
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2723H/0786" rel="nofollow">Bilder auf Film h2/sh/S2723H/0786</a> | Deutsch-Ostafrika
+
+
+:::
 
 
 
@@ -350,8 +369,27 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
-Insgesamt 13 Mappen, 200 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 13 Mappen (bis 1949), 200 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

@@ -1,6 +1,6 @@
 ---
 title: "Asphalt"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Asphalt &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q189259) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Asphalt_concrete)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142016`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142016`</div>
 
 
 
@@ -18,13 +18,15 @@ fn-stub: about
 
 
 
-## Commodities/wares archives
+## Commodities/wares archives folders
 
 
 
 
 
-In total 60 folders, 541 documents - folders complete.
+
+
+In total 60 folders, 541 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -50,7 +52,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A40b(A10) Ostmark (Austria) [**&nearr;**](../../../geo/i/163025/about.en.html "Ostmark (Austria) (all folders)") [**&uarr;**](../../../geo/about.en.html#A40b(A10) "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,163025" title="about: Asphalt : Ostmark (Austria)" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142016/1630xx/163025/about.en.html))
 - A40c Czechoslovakia [**&nearr;**](../../../geo/i/141022/about.en.html "Czechoslovakia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40c "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141022" title="about: Asphalt : Czechoslovakia" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1420xx/142016/1410xx/141022/about.en.html))
 - A40d Hungary [**&nearr;**](../../../geo/i/141025/about.en.html "Hungary (all folders)") [**&uarr;**](../../../geo/about.en.html#A40d "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141025" title="about: Asphalt : Hungary" target="_blank">4 documents</a>) ([folder](../../../../folder/wa/1420xx/142016/1410xx/141025/about.en.html))
-- A40e Kingdom of Yugoslavia [**&nearr;**](../../../geo/i/141028/about.en.html "Kingdom of Yugoslavia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40e "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141028" title="about: Asphalt : Kingdom of Yugoslavia" target="_blank">4 documents</a>) ([folder](../../../../folder/wa/1420xx/142016/1410xx/141028/about.en.html))
+- A40e (Kingdom of) Yugoslavia [**&nearr;**](../../../geo/i/141028/about.en.html "(Kingdom of) Yugoslavia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40e "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141028" title="about: Asphalt : (Kingdom of) Yugoslavia" target="_blank">4 documents</a>) ([folder](../../../../folder/wa/1420xx/142016/1410xx/141028/about.en.html))
 - A40f Slovakia [**&nearr;**](../../../geo/i/141029/about.en.html "Slovakia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40f "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141029" title="about: Asphalt : Slovakia" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1420xx/142016/1410xx/141029/about.en.html))
 - A45 Greece [**&nearr;**](../../../geo/i/141037/about.en.html "Greece (all folders)") [**&uarr;**](../../../geo/about.en.html#A45 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141037" title="about: Asphalt : Greece" target="_blank">7 documents</a>) ([folder](../../../../folder/wa/1420xx/142016/1410xx/141037/about.en.html))
 - A46 Bulgaria [**&nearr;**](../../../geo/i/141039/about.en.html "Bulgaria (all folders)") [**&uarr;**](../../../geo/about.en.html#A46 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141039" title="about: Asphalt : Bulgaria" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1420xx/142016/1410xx/141039/about.en.html))
@@ -107,6 +109,38 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### World
 
 - H World [**&nearr;**](../../../geo/i/141728/about.en.html "World (all folders)") [**&uarr;**](../../../geo/about.en.html#H "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141728" title="about: Asphalt : World" target="_blank">8 documents</a>) ([folder](../../../../folder/wa/1420xx/142016/1417xx/141728/about.en.html))
+
+
+
+<a id="filmsections" />
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 117</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2047H/0038" rel="nofollow">Images on film h2/wa/W2047H/0038</a> | Asphalt
+
+
+:::
+
+
+
+
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "A40d Ungarn"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -8,27 +8,117 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A40d]{.gray}&#8201; Ungarn
+# [A40d]{.gray}&#8201; Ungarn &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q28) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Ungarn)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141025`</div>
-
-
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141025`</div>
 
 
 
 
-
-## Warenarchiv
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
+## Sacharchiv Mappen
 
 
 
-Insgesamt 39 Mappen, 1115 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+Kein als Mappe erschlossenes Material.
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 14198</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0521H/0259" rel="nofollow">Bilder auf Film h1/sh/S0521H/0259</a> | Ungarn
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0522H" rel="nofollow">Bilder auf Film h1/sh/S0522H</a> | Filmanfang: Ungarn : Geschichtliche Vorgänge [A40d f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0523H" rel="nofollow">Bilder auf Film h1/sh/S0523H</a> | Filmanfang: Ungarn : Parteiwesen [A40d f5]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0524H" rel="nofollow">Bilder auf Film h1/sh/S0524H</a> | Filmanfang: Ungarn : Verhandlungen von parlamentarischen und politischen Körperschaften Oberhaus [A40d f6 Oberhaus]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0525H" rel="nofollow">Bilder auf Film h1/sh/S0525H</a> | Filmanfang: Ungarn : Rechtspflege, Allgemein [A40d i]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0526H" rel="nofollow">Bilder auf Film h1/sh/S0526H</a> | Filmanfang: Ungarn : Staatshaushalt [A40d m1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0528H" rel="nofollow">Bilder auf Film h1/sh/S0528H</a> | Filmanfang: Ungarn : Berichte über die wirtschaftliche Lage [A40d n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0529H" rel="nofollow">Bilder auf Film h1/sh/S0529H</a> | Filmanfang: Ungarn : Berichte über die wirtschaftliche Lage [A40d n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0530H" rel="nofollow">Bilder auf Film h1/sh/S0530H</a> | Filmanfang: Ungarn : Textilindustrie [A40d n13a Sm3]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0531H" rel="nofollow">Bilder auf Film h1/sh/S0531H</a> | Filmanfang: Ungarn : Lichtspielwesen [A40d n21 Sm8]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0532H" rel="nofollow">Bilder auf Film h1/sh/S0532H</a> | Filmanfang: Ungarn : Landwirtschaftliche Genossenschaften [A40d n27 Sm7]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0533H" rel="nofollow">Bilder auf Film h1/sh/S0533H</a> | Filmanfang: Ungarn : Minderheiten aus einzelnen Ländern Deutschland [A40d o3 Deutschland]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0533H/0749/L" rel="nofollow">Bilder auf Film h1/sh/S0533H/0749/L</a> | Ungarn : Fünfkirchenfrage (Baranya, Baranja)
+
+
+:::
+
+
+
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 242</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2544H/1014" rel="nofollow">Bilder auf Film h2/sh/S2544H/1014</a> | Ungarn
+
+
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 39 Mappen (bis 1949), 1115 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

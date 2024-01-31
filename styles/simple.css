@@ -61,6 +61,19 @@ table.listing,table.listing td {
 .fieldtable td:nth-child(1)::after {
   content: ":";
 }
+
+.sectiontable table {
+  border: none;
+  width: 100%;
+}
+
+.sectiontable td, .sectiontable th {
+  border: none;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  vertical-align: top;
+}
+
 .btn {
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
@@ -108,6 +121,10 @@ span.is-online {
 }
 span.gray {
   color: gray;
+}
+
+span.hint {
+  font-size: 81%;
 }
 
 header img {

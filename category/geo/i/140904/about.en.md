@@ -1,6 +1,6 @@
 ---
 title: "A8 Russian peripheral countries"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [A8]{.gray}&#8201; Russian peripheral countries &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q90303093)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140904`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/140904`</div>
 
 
 
@@ -18,7 +18,7 @@ fn-stub: about
 
 
 
-## Subject archives
+## Subject archives folders
 
 
 
@@ -26,15 +26,14 @@ fn-stub: about
 
 
 
-In total 33 folders, 254 documents - folders complete.
+
+
+
+In total 32 folders, 254 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 
-
-### Population and population policies
-
-- d7 Religious affairs, churches [**&nearr;**](../../../subject/i/144241/about.en.html "Religious affairs, churches (all over the world)") [**&uarr;**](../../../subject/about.en.html#d7 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140904,144241" title="about: Russian peripheral countries : Religious affairs, churches" target="_blank">0 documents</a>) ([folder](../../../../folder/sh/1409xx/140904/1442xx/144241/about.en.html))
 
 ### History, politics
 
@@ -87,6 +86,14 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### Foreigners and individual minorities
 
 - o3 Minorities from individual countries [**&nearr;**](../../../subject/i/182220/about.en.html "Minorities from individual countries (all over the world)") [**&uarr;**](../../../subject/about.en.html#o3 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140904,182220" title="about: Russian peripheral countries : Minorities from individual countries" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1409xx/140904/1822xx/182220/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
 
 
 

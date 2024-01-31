@@ -1,6 +1,6 @@
 ---
 title: "B104 Schantung"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -8,9 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B104]{.gray}&#8201; Schantung
+# [B104]{.gray}&#8201; Schantung &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q43407) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Shandong)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141269`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141269`</div>
 
 <div class="hint">
 Scope Note: bis 8.11.1926; Shandong,  Provinz an der chinesischen Ostküste am Unterlauf des Gelben Flusses (Huang He)
@@ -20,7 +20,7 @@ Scope Note: bis 8.11.1926; Shandong,  Provinz an der chinesischen Ostküste am U
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
@@ -29,8 +29,12 @@ Scope Note: bis 8.11.1926; Shandong,  Provinz an der chinesischen Ostküste am U
 
 
 
-Insgesamt 1 Mappen, 1 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+Insgesamt 1 Mappen (bis 1949), 1 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

@@ -1,6 +1,6 @@
 ---
 title: "E86 Argentina"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,18 +10,18 @@ fn-stub: about
 
 # [E86]{.gray}&#8201; Argentina &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q414) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Argentina)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141692`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141692`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
+[Subject archives](#subject-archives-folders) &#160; [Commodities/wares archives](#commoditieswares-archives-folders)
 
 
 
 
-## Subject archives
+## Subject archives folders
 
 
 
@@ -29,7 +29,10 @@ fn-stub: about
 
 
 
-In total 724 folders, 38501 documents - folders complete.
+
+
+
+In total 724 folders, 38501 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -813,11 +816,38 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
+<a id="filmsections" />
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 11780</p>
 
 
 
 
-## Commodities/wares archives
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2823H/0972" rel="nofollow">Images on film h2/sh/S2823H/0972</a> | Argentinien
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2824H" rel="nofollow">Images on film h2/sh/S2824H</a> | Filmanfang: Argentinien : b-f Sm [E86 b-f Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2825H" rel="nofollow">Images on film h2/sh/S2825H</a> | Filmanfang: Argentinien : Politische Beziehungen zu einzelnen Ländern Sm [E86 g1 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2826H" rel="nofollow">Images on film h2/sh/S2826H</a> | Filmanfang: Argentinien : Ausgleich laufender Aussenhandelsforderungen und -schulden [E86 g4 Sm25]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2827H" rel="nofollow">Images on film h2/sh/S2827H</a> | Filmanfang: Argentinien : Wirtschaftspolitische Beziehungen zu einzelnen Ländern [E86 g4a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2828H" rel="nofollow">Images on film h2/sh/S2828H</a> | Filmanfang: Argentinien : Wirtschaftspolitische Beziehungen zu einzelnen Ländern [E86 g4a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2829H" rel="nofollow">Images on film h2/sh/S2829H</a> | Filmanfang: Argentinien : Zollwesen, Zolltarife Sm [E86 m2 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2830H" rel="nofollow">Images on film h2/sh/S2830H</a> | Filmanfang: Argentinien : Wirtschaftspolitik [E86 n1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2831H" rel="nofollow">Images on film h2/sh/S2831H</a> | Filmanfang: Argentinien : Berichte über die wirtschaftliche Lage [E86 n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2832H" rel="nofollow">Images on film h2/sh/S2832H</a> | Filmanfang: Argentinien : Einzelne Industriezweige Sm1-12 [E86 n13a Sm1-12]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2833H" rel="nofollow">Images on film h2/sh/S2833H</a> | Filmanfang: Argentinien : Geld und Währung Sm [E86 n23 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2834H" rel="nofollow">Images on film h2/sh/S2834H</a> | Filmanfang: Argentinien : Versicherungswesen [E86 n37]
+
+
+:::
 
 
 
@@ -827,8 +857,27 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
-In total 40 folders, 1576 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_wa.de.html) (in German).
+
+
+
+
+
+## Commodities/wares archives folders
+
+
+
+
+
+
+
+
+
+
+
+In total 40 folders (until 1949), 1576 documents
+- folders incomplete.  For material not published as folders, please check the
+digitized micro-films of the [1st filming](/film/h1_wa.de.html) and [2nd
+filming](/film/h2_wa.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 

@@ -1,6 +1,6 @@
 ---
 title: "B114 Kwangtung"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [B114]{.gray}&#8201; Kwangtung &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q15175) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Guangdong)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141275`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141275`</div>
 
 <div class="hint">
 Scope Note: Guangzhou (auch Kanton), Provinz Guangdong (Kanton), VR China
@@ -20,14 +20,17 @@ Scope Note: Guangzhou (auch Kanton), Provinz Guangdong (Kanton), VR China
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
 
 
 
 
 
 
-Insgesamt 85 Mappen, 418 Dokumente - Mappen komplett.
+
+
+
+Insgesamt 85 Mappen, 418 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -158,6 +161,14 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Einzelfragen politischer und wirtschaftlicher Natur
 
 - q Sm2 Handel und Versorgung mit Waffen, Munition und sonst. Kriegsmaterial [**&nearr;**](../../../subject/i/160420/about.de.html "Handel und Versorgung mit Waffen, Munition und sonst. Kriegsmaterial (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#q_Sm2 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141275,160420" title="über: Kwangtung : Handel und Versorgung mit Waffen, Munition und sonst. Kriegsmaterial" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141275/1604xx/160420/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
 
 
 

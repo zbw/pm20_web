@@ -1,6 +1,6 @@
 ---
 title: "n35b Air traffic with individual countries"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n35b]{.gray}&#8201; Air traffic with individual countries &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428084)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145706`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145706`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 25 folders, 692 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 25 folders, 708 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -35,8 +36,8 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 - A2 Central Europe [**&nearr;**](../../../geo/i/140895/about.en.html "Central Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A2 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140895,145706" title="about: Central Europe : Air traffic with individual countries" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1408xx/140895/1457xx/145706/about.en.html))
 - A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145706" title="about: Southeastern Europe : Air traffic with individual countries" target="_blank">6 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1457xx/145706/about.en.html))
-- A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,145706" title="about: Orient : Air traffic with individual countries" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1457xx/145706/about.en.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145706" title="about: Hamburg : Air traffic with individual countries" target="_blank">22 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1457xx/145706/about.en.html))
+- A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,145706" title="about: Orient : Air traffic with individual countries" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1457xx/145706/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145706" title="about: Hamburg : Air traffic with individual countries" target="_blank">37 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1457xx/145706/about.en.html))
 
 ### Asia
 
@@ -70,6 +71,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 - E85 Chile [**&nearr;**](../../../geo/i/141691/about.en.html "Chile (all folders)") [**&uarr;**](../../../geo/about.en.html#E85 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141691,145706" title="about: Chile : Air traffic with individual countries" target="_blank">30 documents</a>) ([folder](../../../../folder/sh/1416xx/141691/1457xx/145706/about.en.html))
 - E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145706" title="about: Argentina : Air traffic with individual countries" target="_blank">396 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1457xx/145706/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

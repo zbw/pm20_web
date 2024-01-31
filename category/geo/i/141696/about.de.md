@@ -1,6 +1,6 @@
 ---
 title: "E96 Paraguay"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,18 +10,21 @@ fn-stub: about
 
 # [E96]{.gray}&#8201; Paraguay &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q733) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Paraguay)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141696`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141696`</div>
 
 
 
 
-[Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
+
+
+
 
 
 
@@ -47,11 +50,52 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 1357</p>
 
 
 
 
-## Warenarchiv
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1014H/1048" rel="nofollow">Bilder auf Film h1/sh/S1014H/1048</a> | Paraguay
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1015H_1" rel="nofollow">Bilder auf Film h1/sh/S1015H_1</a> | Filmanfang: Paraguay : Landheer, Schutztruppen [E96 l1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1016H" rel="nofollow">Bilder auf Film h1/sh/S1016H</a> | Filmanfang: Paraguay : Geld und Währung [E96 n23]
+
+
+:::
+
+
+
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 707</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2835H/0299" rel="nofollow">Bilder auf Film h2/sh/S2835H/0299</a> | Paraguay
+
+
+:::
 
 
 
@@ -60,8 +104,27 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
-Insgesamt 13 Mappen, 195 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 13 Mappen (bis 1949), 195 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

@@ -8,7 +8,7 @@ fn-stub: about
 
 Pressearchiv 20. Jahrhundert - historische Pressearchive der ZBW. Übernommen
 vom "Hamburgischen Welt-Wirtschafts-Archiv" (HWWA) und vom "Wirtschaftsarchiv"
-des Instituts für Weltwirtschaft in Kiel. Teil-digitalisiert (~ 1949) mit
+des Instituts für Weltwirtschaft in Kiel. Teil-digitalisiert (~ 1960) mit
 Unterstützung der DFG.
 
 * [Personenarchiv](folder/pe/about.de.html)

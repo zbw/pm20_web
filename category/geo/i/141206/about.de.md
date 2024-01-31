@@ -1,6 +1,6 @@
 ---
 title: "B58 Malayische Schutzstaaten"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,21 +10,23 @@ fn-stub: about
 
 # [B58]{.gray}&#8201; Malayische Schutzstaaten &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q1400154) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Federated_Malay_States)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141206`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141206`</div>
 
 <div class="hint">
-Scope Note: bis 1941; Britisch-Malaya (1941-1.4.1946), Malaiischer Bund (2.4.1946-15.9.1963); 
- (einschl.: Federated Malay States; Föderierte Malaiische Staaten, Malaiische Föderation,)
+Scope Note: bis 1941; Britisch-Malaya (1941-1.4.1946), Malaiischer Bund (2.4.1946-15.9.1963);   (einschl.: Federated Malay States; Föderierte Malaiische Staaten, Malaiische Föderation,)
 </div>
 
 
-[Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
+
+
+
 
 
 
@@ -51,11 +53,53 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 1280</p>
 
 
 
 
-## Warenarchiv
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0694H/0800" rel="nofollow">Bilder auf Film h1/sh/S0694H/0800</a> | Malayische Schutzstaaten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0695H" rel="nofollow">Bilder auf Film h1/sh/S0695H</a> | Filmanfang: Malayische Schutzstaaten : Wirtschaft, Allgemein [B58 n]
+
+
+:::
+
+
+
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 1803</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2639H/0986" rel="nofollow">Bilder auf Film h2/sh/S2639H/0986</a> | Malayische Schutzstaaten
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2640H" rel="nofollow">Bilder auf Film h2/sh/S2640H</a> | Filmanfang: Malayische Schutzstaaten : b-f2 [B58 b-f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2641H" rel="nofollow">Bilder auf Film h2/sh/S2641H</a> | Filmanfang: Malayische Schutzstaaten : n13-13a [B58 n13-13a]
+
+
+:::
 
 
 
@@ -64,8 +108,27 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
-Insgesamt 17 Mappen, 185 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 17 Mappen (bis 1949), 185 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

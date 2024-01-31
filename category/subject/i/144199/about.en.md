@@ -1,6 +1,6 @@
 ---
 title: "c Country studies, general"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [c]{.gray}&#8201; Country studies, general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427828)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144199`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144199`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 66 folders, 1442 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 66 folders, 1451 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -33,13 +34,13 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A1 Europe [**&nearr;**](../../../geo/i/140892/about.en.html "Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A1 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144199" title="about: Europe : Country studies, general" target="_blank">16 documents</a>) ([folder](../../../../folder/sh/1408xx/140892/1441xx/144199/about.en.html))
+- A1 Europe [**&nearr;**](../../../geo/i/140892/about.en.html "Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A1 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144199" title="about: Europe : Country studies, general" target="_blank">17 documents</a>) ([folder](../../../../folder/sh/1408xx/140892/1441xx/144199/about.en.html))
 - A1a Baltic region [**&nearr;**](../../../geo/i/140894/about.en.html "Baltic region (all folders)") [**&uarr;**](../../../geo/about.en.html#A1a "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140894,144199" title="about: Baltic region : Country studies, general" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1408xx/140894/1441xx/144199/about.en.html))
 - A5 Levant [**&nearr;**](../../../geo/i/140898/about.en.html "Levant (all folders)") [**&uarr;**](../../../geo/about.en.html#A5 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140898,144199" title="about: Levant : Country studies, general" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1408xx/140898/1441xx/144199/about.en.html))
 - A5a Mediterranean region [**&nearr;**](../../../geo/i/140899/about.en.html "Mediterranean region (all folders)") [**&uarr;**](../../../geo/about.en.html#A5a "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140899,144199" title="about: Mediterranean region : Country studies, general" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1408xx/140899/1441xx/144199/about.en.html))
 - A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,144199" title="about: Southeastern Europe : Country studies, general" target="_blank">13 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1441xx/144199/about.en.html))
-- A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,144199" title="about: Orient : Country studies, general" target="_blank">0 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1441xx/144199/about.en.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144199" title="about: Hamburg : Country studies, general" target="_blank">173 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1441xx/144199/about.en.html))
+- A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,144199" title="about: Orient : Country studies, general" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1441xx/144199/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144199" title="about: Hamburg : Country studies, general" target="_blank">180 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1441xx/144199/about.en.html))
 - A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,144199" title="about: Germany : Country studies, general" target="_blank">135 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1441xx/144199/about.en.html))
 - A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140960,144199" title="about: German imperial colonies : Country studies, general" target="_blank">15 documents</a>) ([folder](../../../../folder/sh/1409xx/140960/1441xx/144199/about.en.html))
 - A12 Poland [**&nearr;**](../../../geo/i/140962/about.en.html "Poland (all folders)") [**&uarr;**](../../../geo/about.en.html#A12 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140962,144199" title="about: Poland : Country studies, general" target="_blank">23 documents</a>) ([folder](../../../../folder/sh/1409xx/140962/1441xx/144199/about.en.html))
@@ -117,6 +118,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### World
 
 - H World [**&nearr;**](../../../geo/i/141728/about.en.html "World (all folders)") [**&uarr;**](../../../geo/about.en.html#H "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141728,144199" title="about: World : Country studies, general" target="_blank">63 documents</a>) ([folder](../../../../folder/sh/1417xx/141728/1441xx/144199/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "A3 Eastern Europe"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [A3]{.gray}&#8201; Eastern Europe &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q27468) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Eastern_Europe)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140896`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/140896`</div>
 
 
 
@@ -18,7 +18,7 @@ fn-stub: about
 
 
 
-## Subject archives
+## Subject archives folders
 
 
 
@@ -26,7 +26,10 @@ fn-stub: about
 
 
 
-In total 61 folders, 225 documents - folders complete.
+
+
+
+In total 61 folders, 225 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -129,6 +132,40 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 - q Sm5 (alt) Slavic question [**&nearr;**](../../../subject/i/145949/about.en.html "Slavic question (all over the world)") [**&uarr;**](../../../subject/about.en.html#q_Sm5_(alt) "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140896,145949" title="about: Eastern Europe : Slavic question" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1408xx/140896/1459xx/145949/about.en.html))
 - q Sm8 Situation of Jewish people, Antisemitism (1910-1945) [**&nearr;**](../../../subject/i/145952/about.en.html "Situation of Jewish people, Antisemitism (1910-1945) (all over the world)") [**&uarr;**](../../../subject/about.en.html#q_Sm8 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140896,145952" title="about: Eastern Europe : Situation of Jewish people, Antisemitism (1910-1945)" target="_blank">11 documents</a>) ([folder](../../../../folder/sh/1408xx/140896/1459xx/145952/about.en.html))
+
+
+
+<a id="filmsections" />
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 3834</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2019H/0820" rel="nofollow">Images on film h2/sh/S2019H/0820</a> | Osteuropa
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2020H" rel="nofollow">Images on film h2/sh/S2020H</a> | Filmanfang: Osteuropa : Außenpolitik und politische Beziehungen zum Ausland, Allgemein Sm [A3 g SM]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2021H" rel="nofollow">Images on film h2/sh/S2021H</a> | Filmanfang: Osteuropa : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein [A3 g4]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2022H" rel="nofollow">Images on film h2/sh/S2022H</a> | Filmanfang: Osteuropa : Handel [A3 n18]
+
+
+:::
+
+
+
+
+
+
+
 
 
 

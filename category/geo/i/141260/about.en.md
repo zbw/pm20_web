@@ -1,6 +1,6 @@
 ---
 title: "B98 Tuvan People's Republic"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [B98]{.gray}&#8201; Tuvan People's Republic &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q816709) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Tuvan_People%27s_Republic)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141260`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141260`</div>
 
 
 
@@ -18,7 +18,7 @@ fn-stub: about
 
 
 
-## Subject archives
+## Subject archives folders
 
 
 
@@ -26,7 +26,10 @@ fn-stub: about
 
 
 
-In total 2 folders, 4 documents - folders complete.
+
+
+
+In total 2 folders, 4 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -39,6 +42,14 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### Economy
 
 - n Economy, general [**&nearr;**](../../../subject/i/144930/about.en.html "Economy, general (all over the world)") [**&uarr;**](../../../subject/about.en.html#n "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141260,144930" title="about: Tuvan People's Republic : Economy, general" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1412xx/141260/1449xx/144930/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
 
 
 

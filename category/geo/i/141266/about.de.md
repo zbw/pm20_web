@@ -1,6 +1,6 @@
 ---
 title: "B100 Kuangtschouwan"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [B100]{.gray}&#8201; Kuangtschouwan &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q185682) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Franz%C3%B6sisch-Indochina)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141266`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141266`</div>
 
 <div class="hint">
 Scope Note: Gebiet in China, 1898 an Frankreich verpachtet
@@ -20,14 +20,17 @@ Scope Note: Gebiet in China, 1898 an Frankreich verpachtet
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
 
 
 
 
 
 
-Insgesamt 4 Mappen, 37 Dokumente - Mappen komplett.
+
+
+
+Insgesamt 4 Mappen, 37 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -43,6 +46,14 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - f2.1 Geschichtliche Vorgänge 1900-1914 [**&nearr;**](../../../subject/i/181392/about.de.html "Geschichtliche Vorgänge 1900-1914 (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#f2.1 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141266,181392" title="über: Kuangtschouwan : Geschichtliche Vorgänge 1900-1914" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141266/1813xx/181392/about.de.html))
 - f2.2 Geschichtliche Vorgänge 1914-1918 (1. Weltkrieg) [**&nearr;**](../../../subject/i/181360/about.de.html "Geschichtliche Vorgänge 1914-1918 (1. Weltkrieg) (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#f2.2 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141266,181360" title="über: Kuangtschouwan : Geschichtliche Vorgänge 1914-1918 (1. Weltkrieg)" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141266/1813xx/181360/about.de.html))
 - f2.4 Geschichtliche Vorgänge 1939-1945 (2. Weltkrieg) [**&nearr;**](../../../subject/i/181361/about.de.html "Geschichtliche Vorgänge 1939-1945 (2. Weltkrieg) (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#f2.4 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141266,181361" title="über: Kuangtschouwan : Geschichtliche Vorgänge 1939-1945 (2. Weltkrieg)" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141266/1813xx/181361/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
 
 
 

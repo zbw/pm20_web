@@ -1,6 +1,6 @@
 ---
 title: "A10(t1) Deutschland (unter alliierter Besetzung)"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [A10(t1)]{.gray}&#8201; Deutschland (unter alliierter Besetzung) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q2415901) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Deutschland_1945_bis_1949)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/187230`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/187230`</div>
 
 
 
@@ -18,7 +18,10 @@ fn-stub: about
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
+
+
+
 
 
 
@@ -46,6 +49,38 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Wirtschaft
 
 - n14 Handwerk [**&nearr;**](../../../subject/i/145135/about.de.html "Handwerk (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n14 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/187230,145135" title="über: Deutschland (unter alliierter Besetzung) : Handwerk" target="_blank">36 Dokumente</a>) ([Mappe](../../../../folder/sh/1872xx/187230/1451xx/145135/about.de.html))
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 16</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0088H/0856/L" rel="nofollow">Bilder auf Film h1/sh/S0088H/0856/L</a> | Deutschland (unter alliierter Besetzung) : Verwaltungsbezirke
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0204H/0940/L" rel="nofollow">Bilder auf Film h1/sh/S0204H/0940/L</a> | Deutschland (unter alliierter Besetzung)   : Reparationsfragen nach dem Zweiten Weltkrieg
+
+
+:::
+
+
+
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "A10n(1) Upper Silesia (German-Polish border region)"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [A10n(1)]{.gray}&#8201; Upper Silesia (German-Polish border region) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q81011) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Upper_Silesia)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140948`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/140948`</div>
 
 
 
@@ -18,7 +18,10 @@ fn-stub: about
 
 
 
-## Subject archives
+## Subject archives folders
+
+
+
 
 
 
@@ -98,6 +101,14 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - n34 Postal services, telegraphy and telephony [**&nearr;**](../../../subject/i/145662/about.en.html "Postal services, telegraphy and telephony (all over the world)") [**&uarr;**](../../../subject/about.en.html#n34 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140948,145662" title="about: Upper Silesia (German-Polish border region) : Postal services, telegraphy and telephony" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1409xx/140948/1456xx/145662/about.en.html))
 - n36 Communications and press [**&nearr;**](../../../subject/i/145707/about.en.html "Communications and press (all over the world)") [**&uarr;**](../../../subject/about.en.html#n36 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140948,145707" title="about: Upper Silesia (German-Polish border region) : Communications and press" target="_blank">8 documents</a>) ([folder](../../../../folder/sh/1409xx/140948/1457xx/145707/about.en.html))
 - n37 Insurance [**&nearr;**](../../../subject/i/145723/about.en.html "Insurance (all over the world)") [**&uarr;**](../../../subject/about.en.html#n37 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140948,145723" title="about: Upper Silesia (German-Polish border region) : Insurance" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1409xx/140948/1457xx/145723/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
 
 
 

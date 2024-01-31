@@ -1,6 +1,6 @@
 ---
 title: "E76 Kolumbien"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,18 +10,21 @@ fn-stub: about
 
 # [E76]{.gray}&#8201; Kolumbien &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q739) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Kolumbien)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141687`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141687`</div>
 
 
 
 
-[Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
+
+
+
 
 
 
@@ -44,11 +47,54 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 2402</p>
 
 
 
 
-## Warenarchiv
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0972H/1225" rel="nofollow">Bilder auf Film h1/sh/S0972H/1225</a> | Kolumbien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0973H" rel="nofollow">Bilder auf Film h1/sh/S0973H</a> | Filmanfang: Kolumbien : Land und Leute, Politik und Wirtschaft, Allgemein [E76 b]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0974H" rel="nofollow">Bilder auf Film h1/sh/S0974H</a> | Filmanfang: Kolumbien : Berichte über die wirtschaftliche Lage [E76 n2]
+
+
+:::
+
+
+
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 2255</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2814H/0331" rel="nofollow">Bilder auf Film h2/sh/S2814H/0331</a> | Kolumbien
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2815H" rel="nofollow">Bilder auf Film h2/sh/S2815H</a> | Filmanfang: Kolumbien : h-m1 Sm5.I+II [E76 h-m1 Sm5.I+II]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2816H" rel="nofollow">Bilder auf Film h2/sh/S2816H</a> | Filmanfang: Kolumbien : n17-23 Sm6 [E76 n17-23 Sm6]
+
+
+:::
 
 
 
@@ -57,8 +103,27 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
-Insgesamt 17 Mappen, 161 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 17 Mappen (bis 1949), 161 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

@@ -1,6 +1,6 @@
 ---
 title: "A40d Hungary"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -8,17 +8,88 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A40d]{.gray}&#8201; Hungary
+# [A40d]{.gray}&#8201; Hungary &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q28) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Hungary)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141025`</div>
-
-
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141025`</div>
 
 
 
 
 
-## Commodities/wares archives
+[Subject archives](#subject-archives-folders) &#160; [Commodities/wares archives](#commoditieswares-archives-folders)
+
+
+
+
+## Subject archives folders
+
+
+
+
+
+
+
+
+No material prepared as folder.
+
+
+
+<a id="filmsections" />
+
+## Sections of digitized microfilms (1st filming 1908-1949)
+
+<p>For intellectual property law reasons accessible only from the European Union legal area and from the ZBW reading room.</p>
+
+
+
+<p>Total number of images: 14198</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0521H/0259" rel="nofollow">Images on film h1/sh/S0521H/0259</a> | Ungarn
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0522H" rel="nofollow">Images on film h1/sh/S0522H</a> | Filmanfang: Ungarn : Geschichtliche Vorgänge [A40d f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0523H" rel="nofollow">Images on film h1/sh/S0523H</a> | Filmanfang: Ungarn : Parteiwesen [A40d f5]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0524H" rel="nofollow">Images on film h1/sh/S0524H</a> | Filmanfang: Ungarn : Verhandlungen von parlamentarischen und politischen Körperschaften Oberhaus [A40d f6 Oberhaus]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0525H" rel="nofollow">Images on film h1/sh/S0525H</a> | Filmanfang: Ungarn : Rechtspflege, Allgemein [A40d i]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0526H" rel="nofollow">Images on film h1/sh/S0526H</a> | Filmanfang: Ungarn : Staatshaushalt [A40d m1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0528H" rel="nofollow">Images on film h1/sh/S0528H</a> | Filmanfang: Ungarn : Berichte über die wirtschaftliche Lage [A40d n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0529H" rel="nofollow">Images on film h1/sh/S0529H</a> | Filmanfang: Ungarn : Berichte über die wirtschaftliche Lage [A40d n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0530H" rel="nofollow">Images on film h1/sh/S0530H</a> | Filmanfang: Ungarn : Textilindustrie [A40d n13a Sm3]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0531H" rel="nofollow">Images on film h1/sh/S0531H</a> | Filmanfang: Ungarn : Lichtspielwesen [A40d n21 Sm8]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0532H" rel="nofollow">Images on film h1/sh/S0532H</a> | Filmanfang: Ungarn : Landwirtschaftliche Genossenschaften [A40d n27 Sm7]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0533H" rel="nofollow">Images on film h1/sh/S0533H</a> | Filmanfang: Ungarn : Minderheiten aus einzelnen Ländern Deutschland [A40d o3 Deutschland]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0533H/0749/L" rel="nofollow">Images on film h1/sh/S0533H/0749/L</a> | Ungarn : Fünfkirchenfrage (Baranya, Baranja)
+
+
+:::
+
+
+
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 242</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2544H/1014" rel="nofollow">Images on film h2/sh/S2544H/1014</a> | Ungarn
+
+
+:::
 
 
 
@@ -28,8 +99,27 @@ fn-stub: about
 
 
 
-In total 39 folders, 1115 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_wa.de.html) (in German).
+
+
+
+
+
+## Commodities/wares archives folders
+
+
+
+
+
+
+
+
+
+
+
+In total 39 folders (until 1949), 1115 documents
+- folders incomplete.  For material not published as folders, please check the
+digitized micro-films of the [1st filming](/film/h1_wa.de.html) and [2nd
+filming](/film/h2_wa.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 

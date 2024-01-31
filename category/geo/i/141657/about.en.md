@@ -1,6 +1,6 @@
 ---
 title: "E20 Mexico"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,18 +10,21 @@ fn-stub: about
 
 # [E20]{.gray}&#8201; Mexico &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q96) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Mexico)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141657`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141657`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
+[Subject archives](#subject-archives-folders) &#160; [Commodities/wares archives](#commoditieswares-archives-folders)
 
 
 
 
-## Subject archives
+## Subject archives folders
+
+
+
 
 
 
@@ -43,11 +46,65 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
+<a id="filmsections" />
+
+## Sections of digitized microfilms (1st filming 1908-1949)
+
+<p>For intellectual property law reasons accessible only from the European Union legal area and from the ZBW reading room.</p>
+
+
+
+<p>Total number of images: 12352</p>
 
 
 
 
-## Commodities/wares archives
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0950H/1108" rel="nofollow">Images on film h1/sh/S0950H/1108</a> | Mexiko
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0951H_1" rel="nofollow">Images on film h1/sh/S0951H_1</a> | Filmanfang: Mexiko : Landeskunde, Allgemein [E20 c]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0952H" rel="nofollow">Images on film h1/sh/S0952H</a> | Filmanfang: Mexiko : Geschichtliche Vorgänge [E20 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0953H" rel="nofollow">Images on film h1/sh/S0953H</a> | Filmanfang: Mexiko : Parteiwesen [E20 f5]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0954H" rel="nofollow">Images on film h1/sh/S0954H</a> | Filmanfang: Mexiko : Wirtschaftskrieg [E20 g4 Sm2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0955H" rel="nofollow">Images on film h1/sh/S0955H</a> | Filmanfang: Mexiko : Flugwesen [E20 l4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0956H" rel="nofollow">Images on film h1/sh/S0956H</a> | Filmanfang: Mexiko : Konkurswesen, Geschäftsaufsicht [E20 n Sm4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0957H" rel="nofollow">Images on film h1/sh/S0957H</a> | Filmanfang: Mexiko : Grundbesitz von Ausländern, Überfremdung [E20 n3 Sm5]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0958H" rel="nofollow">Images on film h1/sh/S0958H</a> | Filmanfang: Mexiko : Streiks, Vereinbarungen zwischen Arbeitgebern und Arbeitnehmern, Allgemein [E20 n15 Sm2.I]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0959H" rel="nofollow">Images on film h1/sh/S0959H</a> | Filmanfang: Mexiko : Börsenwesen [E20 n25]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0960H" rel="nofollow">Images on film h1/sh/S0960H</a> | Filmanfang: Mexiko : Siedlung und Wanderung [E20 p]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0961H" rel="nofollow">Images on film h1/sh/S0961H</a> | Filmanfang: Mexiko : Wirtschaftspolitische Beziehungen zu einzelnen Ländern [E20 g4a]
+
+
+:::
+
+
+
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 4547</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2800H/0621" rel="nofollow">Images on film h2/sh/S2800H/0621</a> | Mexiko
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2801H" rel="nofollow">Images on film h2/sh/S2801H</a> | Filmanfang: Mexiko : Zollpolitik [E20 g4 Sm1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2802H" rel="nofollow">Images on film h2/sh/S2802H</a> | Filmanfang: Mexiko : Lebenshaltung, Lebensstandard, Einkommensverteilung n1 [E20 n Sm23 n1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2803H" rel="nofollow">Images on film h2/sh/S2803H</a> | Filmanfang: Mexiko : 2 Sm3 [E20 2 Sm3]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2804H" rel="nofollow">Images on film h2/sh/S2804H</a> | Filmanfang: Mexiko : Geld und Währung Sm1-4 [E20 n23 Sm1-4]
+
+
+:::
 
 
 
@@ -57,8 +114,27 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
-In total 41 folders, 860 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_wa.de.html) (in German).
+
+
+
+
+
+## Commodities/wares archives folders
+
+
+
+
+
+
+
+
+
+
+
+In total 41 folders (until 1949), 860 documents
+- folders incomplete.  For material not published as folders, please check the
+digitized micro-films of the [1st filming](/film/h1_wa.de.html) and [2nd
+filming](/film/h2_wa.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 

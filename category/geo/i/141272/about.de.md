@@ -1,6 +1,6 @@
 ---
 title: "B111 Japan"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,25 +10,28 @@ fn-stub: about
 
 # [B111]{.gray}&#8201; Japan &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q17) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Japan)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141272`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141272`</div>
 
 
 
 
-[Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
-
-
-
-
-
-## Sacharchiv
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
+## Sacharchiv Mappen
 
-Insgesamt 731 Mappen, 36041 Dokumente - Mappen komplett.
+
+
+
+
+
+
+
+
+Insgesamt 731 Mappen, 36041 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -821,11 +824,37 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 11506</p>
 
 
 
 
-## Warenarchiv
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2664H/0589" rel="nofollow">Bilder auf Film h2/sh/S2664H/0589</a> | Japan
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2665H" rel="nofollow">Bilder auf Film h2/sh/S2665H</a> | Filmanfang: Japan : Geschichtliche Vorgänge [B111 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2666H" rel="nofollow">Bilder auf Film h2/sh/S2666H</a> | Filmanfang: Japan : Außenpolitik und politische Beziehungen zum Ausland, Allgemein Sm [B111 g Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2667H" rel="nofollow">Bilder auf Film h2/sh/S2667H</a> | Filmanfang: Japan : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein [B111 g4]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2668H" rel="nofollow">Bilder auf Film h2/sh/S2668H</a> | Filmanfang: Japan : Wirtschaftspolitische Beziehungen zu einzelnen Ländern Sm [B111 g4a Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2669H" rel="nofollow">Bilder auf Film h2/sh/S2669H</a> | Filmanfang: Japan : l1-m1 Sm4 [B111 l1-m1 Sm4]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2670H" rel="nofollow">Bilder auf Film h2/sh/S2670H</a> | Filmanfang: Japan : Wirtschaftspolitik [B111 n1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2671H" rel="nofollow">Bilder auf Film h2/sh/S2671H</a> | Filmanfang: Japan : Berichte über die wirtschaftliche Lage Sm [B111 n2 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2672H" rel="nofollow">Bilder auf Film h2/sh/S2672H</a> | Filmanfang: Japan : Textilindustrie [B111 n13a Sm3]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2673H" rel="nofollow">Bilder auf Film h2/sh/S2673H</a> | Filmanfang: Japan : Arbeitnehmerverhältnisse in einzelnen Berufen Sm [B111 n15a Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2674H" rel="nofollow">Bilder auf Film h2/sh/S2674H</a> | Filmanfang: Japan : Seeschiffahrt [B111 n32]
+
+
+:::
 
 
 
@@ -834,8 +863,27 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
-Insgesamt 41 Mappen, 2210 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 41 Mappen (bis 1949), 2210 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

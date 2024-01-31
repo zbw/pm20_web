@@ -1,6 +1,6 @@
 ---
 title: "A10n Oberschlesien (1919-1938, 1941-1945)"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -8,29 +8,87 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A10n]{.gray}&#8201; Oberschlesien (1919-1938, 1941-1945)
+# [A10n]{.gray}&#8201; Oberschlesien (1919-1938, 1941-1945) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q81011) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Oberschlesien)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/206753`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/206753`</div>
 
 <div class="hint">
 Scope Note: Zeitangaben: 1919-1938, 1941-1945
 </div>
 
 
-
-
-
-## Warenarchiv
-
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
+## Sacharchiv Mappen
 
 
-Insgesamt 2 Mappen, 89 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+
+Kein als Mappe erschlossenes Material.
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 332</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0217H/0906" rel="nofollow">Bilder auf Film h1/sh/S0217H/0906</a> | Oberschlesien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0217H/0907/L" rel="nofollow">Bilder auf Film h1/sh/S0217H/0907/L</a> | Oberschlesien : Bevölkerungsbewegung, Bevölkerungsstatistik
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0217H/0908" rel="nofollow">Bilder auf Film h1/sh/S0217H/0908</a> | Oberschlesien : Religionswesen, Kirchen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0217H/0910/L" rel="nofollow">Bilder auf Film h1/sh/S0217H/0910/L</a> | Oberschlesien : Geschichtliche Vorgänge 1918-1939
+
+
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 2 Mappen (bis 1949), 89 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

@@ -1,6 +1,6 @@
 ---
 title: "i2 Zivilrecht"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -8,23 +8,24 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [i2]{.gray}&#8201; Zivilrecht &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427900)
+# [i2]{.gray}&#8201; Zivilrecht &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q222249)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144701`</div>
-
-
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144701`</div>
 
 
 
 
 
-## Länder-Sacharchiv
+
+
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 21 Mappen, 183 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 21 Mappen, 184 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -35,7 +36,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144701" title="über: Europa : Zivilrecht" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1447xx/144701/about.de.html))
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,144701" title="über: Südosteuropa : Zivilrecht" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1447xx/144701/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144701" title="über: Hamburg : Zivilrecht" target="_blank">23 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1447xx/144701/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144701" title="über: Hamburg : Zivilrecht" target="_blank">24 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1447xx/144701/about.de.html))
 - A11 Deutsche Kolonien [**&nearr;**](../../../geo/i/140960/about.de.html "Deutsche Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A11 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140960,144701" title="über: Deutsche Kolonien : Zivilrecht" target="_blank">11 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140960/1447xx/144701/about.de.html))
 - A43 Osmanisches Reich (-1923) [**&nearr;**](../../../geo/i/141034/about.de.html "Osmanisches Reich (-1923) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A43 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141034,144701" title="über: Osmanisches Reich (-1923) : Zivilrecht" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141034/1447xx/144701/about.de.html))
 
@@ -66,6 +67,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144701" title="über: Argentinien : Zivilrecht" target="_blank">72 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1447xx/144701/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

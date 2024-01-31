@@ -9,7 +9,7 @@ fn-stub: about
 
 20th Century Press Archives - historical press archives of ZBW. Inherited from
 the "Hamburgisches Welt-Wirtschafts-Archiv" (HWWA) and the "Wirtschaftsarchiv"
-of the Kiel Institute for the World Economy. Partially digitized (~ 1949) with
+of the Kiel Institute for the World Economy. Partially digitized (~ 1960) with
 funding from the German Research Foundation (DFG).
 
 * [Persons archive](folder/pe/about.en.html)

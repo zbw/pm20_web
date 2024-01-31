@@ -1,6 +1,6 @@
 ---
 title: "Kohlensäure"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Kohlensäure &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104334) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Kohlens%C3%A4ure)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/143122`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/143122`</div>
 
 
 
@@ -18,12 +18,14 @@ fn-stub: about
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 32 Mappen, 125 Dokumente - Mappen komplett.
+
+
+Insgesamt 32 Mappen, 125 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -44,7 +46,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - A35 Italien [**&nearr;**](../../../geo/i/141008/about.de.html "Italien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A35 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143122,141008" title="über: Kohlensäure : Italien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143122/1410xx/141008/about.de.html))
 - A40b Österreich [**&nearr;**](../../../geo/i/141731/about.de.html "Österreich (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40b "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143122,141731" title="über: Kohlensäure : Österreich" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143122/1417xx/141731/about.de.html))
 - A40d Ungarn [**&nearr;**](../../../geo/i/141025/about.de.html "Ungarn (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40d "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143122,141025" title="über: Kohlensäure : Ungarn" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143122/1410xx/141025/about.de.html))
-- A40e Südslawien [**&nearr;**](../../../geo/i/141028/about.de.html "Südslawien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40e "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143122,141028" title="über: Kohlensäure : Südslawien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143122/1410xx/141028/about.de.html))
+- A40e Jugoslawien (bis 1945 Südslawien) [**&nearr;**](../../../geo/i/141028/about.de.html "Jugoslawien (bis 1945 Südslawien) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40e "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143122,141028" title="über: Kohlensäure : Jugoslawien (bis 1945 Südslawien)" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143122/1410xx/141028/about.de.html))
 - A46 Bulgarien [**&nearr;**](../../../geo/i/141039/about.de.html "Bulgarien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A46 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143122,141039" title="über: Kohlensäure : Bulgarien" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143122/1410xx/141039/about.de.html))
 - A50 Sowjetunion (1922-1991) [**&nearr;**](../../../geo/i/141043/about.de.html "Sowjetunion (1922-1991) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A50 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143122,141043" title="über: Kohlensäure : Sowjetunion (1922-1991)" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143122/1410xx/141043/about.de.html))
 - A60 Estland [**&nearr;**](../../../geo/i/141052/about.de.html "Estland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A60 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143122,141052" title="über: Kohlensäure : Estland" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143122/1410xx/141052/about.de.html))
@@ -76,6 +78,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Welt
 
 - H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143122,141728" title="über: Kohlensäure : Welt" target="_blank">31 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143122/1417xx/141728/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

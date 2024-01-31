@@ -1,6 +1,6 @@
 ---
 title: "e4 Sm5 Apothekenwesen"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [e4 Sm5]{.gray}&#8201; Apothekenwesen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699290)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144273`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144273`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 8 Mappen, 187 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 8 Mappen, 189 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -33,7 +34,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 ### Europa
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144273" title="über: Hamburg : Apothekenwesen" target="_blank">46 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1442xx/144273/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144273" title="über: Hamburg : Apothekenwesen" target="_blank">48 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1442xx/144273/about.de.html))
 - A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,144273" title="über: Deutschland : Apothekenwesen" target="_blank">93 Dokumente</a>) ([Mappe](../../../../folder/sh/1261xx/126128/1442xx/144273/about.de.html))
 
 ### Asien
@@ -50,6 +51,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144273" title="über: Argentinien : Apothekenwesen" target="_blank">28 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1442xx/144273/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

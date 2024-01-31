@@ -1,6 +1,6 @@
 ---
 title: "Avocate pear"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -8,23 +8,25 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Avocate pear &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q961769)
+# Avocate pear &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q961769) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Avocado_(fruit))
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142021`</div>
-
-
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142021`</div>
 
 
 
 
 
-## Commodities/wares archives
+
+
+## Commodities/wares archives folders
 
 
 
 
 
-In total 14 folders, 31 documents - folders complete.
+
+
+In total 14 folders, 31 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -55,6 +57,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - E76 Colombia [**&nearr;**](../../../geo/i/141687/about.en.html "Colombia (all folders)") [**&uarr;**](../../../geo/about.en.html#E76 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142021,141687" title="about: Avocate pear : Colombia" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142021/1416xx/141687/about.en.html))
 - E79 Peru [**&nearr;**](../../../geo/i/141689/about.en.html "Peru (all folders)") [**&uarr;**](../../../geo/about.en.html#E79 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142021,141689" title="about: Avocate pear : Peru" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1420xx/142021/1416xx/141689/about.en.html))
 - E97 Brazil [**&nearr;**](../../../geo/i/141697/about.en.html "Brazil (all folders)") [**&uarr;**](../../../geo/about.en.html#E97 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142021,141697" title="about: Avocate pear : Brazil" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142021/1416xx/141697/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

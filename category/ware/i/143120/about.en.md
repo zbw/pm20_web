@@ -1,6 +1,6 @@
 ---
 title: "Coal"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Coal &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q24489) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Coal)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/143120`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/143120`</div>
 
 
 
@@ -18,13 +18,15 @@ fn-stub: about
 
 
 
-## Commodities/wares archives
+## Commodities/wares archives folders
 
 
 
 
 
-In total 159 folders, 36861 documents - folders complete.
+
+
+In total 159 folders, 36861 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -67,7 +69,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A40b Austria [**&nearr;**](../../../geo/i/141731/about.en.html "Austria (all folders)") [**&uarr;**](../../../geo/about.en.html#A40b "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141731" title="about: Coal : Austria" target="_blank">786 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1417xx/141731/about.en.html))
 - A40c Czechoslovakia [**&nearr;**](../../../geo/i/141022/about.en.html "Czechoslovakia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40c "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141022" title="about: Coal : Czechoslovakia" target="_blank">636 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1410xx/141022/about.en.html))
 - A40d Hungary [**&nearr;**](../../../geo/i/141025/about.en.html "Hungary (all folders)") [**&uarr;**](../../../geo/about.en.html#A40d "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141025" title="about: Coal : Hungary" target="_blank">390 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1410xx/141025/about.en.html))
-- A40e Kingdom of Yugoslavia [**&nearr;**](../../../geo/i/141028/about.en.html "Kingdom of Yugoslavia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40e "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141028" title="about: Coal : Kingdom of Yugoslavia" target="_blank">214 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1410xx/141028/about.en.html))
+- A40e (Kingdom of) Yugoslavia [**&nearr;**](../../../geo/i/141028/about.en.html "(Kingdom of) Yugoslavia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40e "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141028" title="about: Coal : (Kingdom of) Yugoslavia" target="_blank">214 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1410xx/141028/about.en.html))
 - A40f Slovakia [**&nearr;**](../../../geo/i/141029/about.en.html "Slovakia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40f "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141029" title="about: Coal : Slovakia" target="_blank">46 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1410xx/141029/about.en.html))
 - A40g Croatia [**&nearr;**](../../../geo/i/141030/about.en.html "Croatia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40g "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141030" title="about: Coal : Croatia" target="_blank">30 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1410xx/141030/about.en.html))
 - A41 Serbia [**&nearr;**](../../../geo/i/141032/about.en.html "Serbia (all folders)") [**&uarr;**](../../../geo/about.en.html#A41 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141032" title="about: Coal : Serbia" target="_blank">24 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1410xx/141032/about.en.html))
@@ -209,6 +211,48 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### World
 
 - H World [**&nearr;**](../../../geo/i/141728/about.en.html "World (all folders)") [**&uarr;**](../../../geo/about.en.html#H "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141728" title="about: Coal : World" target="_blank">1871 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1417xx/141728/about.en.html))
+
+
+
+<a id="filmsections" />
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 13782</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2010H/0075" rel="nofollow">Images on film h2/wa/W2010H/0075</a> | Kohle
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2011H/0002" rel="nofollow">Images on film h2/wa/W2011H/0002</a> | Kohle : Europa
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2012H/0002" rel="nofollow">Images on film h2/wa/W2012H/0002</a> | Kohle : Deutschland
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2013H/0002" rel="nofollow">Images on film h2/wa/W2013H/0002</a> | Kohle : Deutschland
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2014H" rel="nofollow">Images on film h2/wa/W2014H</a> | Filmanfang: Kohle - Deutschland [A10]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2015H/0002" rel="nofollow">Images on film h2/wa/W2015H/0002</a> | Kohle : Deutschland
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2016H/0002" rel="nofollow">Images on film h2/wa/W2016H/0002</a> | Kohle : Schweden
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2017H/0002" rel="nofollow">Images on film h2/wa/W2017H/0002</a> | Kohle : Großbritannien
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2018H/0002" rel="nofollow">Images on film h2/wa/W2018H/0002</a> | Kohle : Großbritannien
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2019H/0002" rel="nofollow">Images on film h2/wa/W2019H/0002</a> | Kohle : Österreich
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2020H/0002" rel="nofollow">Images on film h2/wa/W2020H/0002</a> | Kohle : Britisch-Südafrika
+
+
+:::
+
+
+
+
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "E8 Kanada"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,20 +10,23 @@ fn-stub: about
 
 # [E8]{.gray}&#8201; Kanada &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q16) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Kanada)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141644`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141644`</div>
 
 <div class="hint">
 Scope Note: früher: British Columbia (einschl.: Kanada, Canada)
 </div>
 
 
-[Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
+
+
+
 
 
 
@@ -45,11 +48,86 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 15812</p>
 
 
 
 
-## Warenarchiv
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0870H/0297" rel="nofollow">Bilder auf Film h1/sh/S0870H/0297</a> | Kanada
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0870H/0297/L" rel="nofollow">Bilder auf Film h1/sh/S0870H/0297/L</a> | Kanada : Literatur, Allgemein
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0870H/0328/L" rel="nofollow">Bilder auf Film h1/sh/S0870H/0328/L</a> | Kanada : Land und Leute, Politik und Wirtschaft, Allgemein
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0870H/0468/R" rel="nofollow">Bilder auf Film h1/sh/S0870H/0468/R</a> | Kanada : Landeskunde, Allgemein
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0870H/0693/R" rel="nofollow">Bilder auf Film h1/sh/S0870H/0693/R</a> | Kanada : Expeditionen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0870H/0765/L" rel="nofollow">Bilder auf Film h1/sh/S0870H/0765/L</a> | Kanada : Staatsgrenzen, politische Einteilung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0870H/0786/R" rel="nofollow">Bilder auf Film h1/sh/S0870H/0786/R</a> | Kanada : Landeskunde, Oberflächengestaltung, Geomorphologie
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0870H/0801/R" rel="nofollow">Bilder auf Film h1/sh/S0870H/0801/R</a> | Kanada : Landeskunde, Gewässer
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0870H/0812/R" rel="nofollow">Bilder auf Film h1/sh/S0870H/0812/R</a> | Kanada : Landeskunde, Klima
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0870H/0819/R" rel="nofollow">Bilder auf Film h1/sh/S0870H/0819/R</a> | Kanada : Landeskunde, Geologischer Aufbau, Mineralreich
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0870H/0852/L" rel="nofollow">Bilder auf Film h1/sh/S0870H/0852/L</a> | Kanada : Landeskunde, Pflanzenreich
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0870H/0853/R" rel="nofollow">Bilder auf Film h1/sh/S0870H/0853/R</a> | Kanada : Landeskunde, Tierreich
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0870H/0910/L" rel="nofollow">Bilder auf Film h1/sh/S0870H/0910/L</a> | Kanada : Landeskunde, Landschaften, Beschreibung einzelner Orte und Gegenden
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0871H" rel="nofollow">Bilder auf Film h1/sh/S0871H</a> | Filmanfang: Kanada : Landeskunde, Landschaften, Beschreibung einzelner Orte und Gegenden Ontario [E8 c9 Ontario]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0873H" rel="nofollow">Bilder auf Film h1/sh/S0873H</a> | Filmanfang: Kanada : Wirtschaftspolitische Beziehungen zu einzelnen Ländern Neuseeland [E8 g4a Neuseeland]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0874H" rel="nofollow">Bilder auf Film h1/sh/S0874H</a> | Filmanfang: Kanada : Militärwesen, Allgemein [E8 l]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0875H" rel="nofollow">Bilder auf Film h1/sh/S0875H</a> | Filmanfang: Kanada : Finanzwesen einzelner Bundesstaaten oder Provinzen Ontario [E8 m1a Ontario]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0876H_1" rel="nofollow">Bilder auf Film h1/sh/S0876H_1</a> | Filmanfang: Kanada : Erwerbsgesellschaften, Allgemein [E8 n Sm39.I]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0877H" rel="nofollow">Bilder auf Film h1/sh/S0877H</a> | Filmanfang: Kanada : Berichte über die wirtschaftliche Lage [E8 n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0878H_1" rel="nofollow">Bilder auf Film h1/sh/S0878H_1</a> | Filmanfang: Kanada : Berichte über die wirtschaftliche Lage in einzelnen Bundesstaaten, Provinzen und Städten Nova Scotia [E8 n2a Nova Scotia]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0879H" rel="nofollow">Bilder auf Film h1/sh/S0879H</a> | Filmanfang: Kanada : Bergbau [E8 n12]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0880H" rel="nofollow">Bilder auf Film h1/sh/S0880H</a> | Filmanfang: Kanada : Hydroelektrische Industrie [E8 n13a Sm5]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0881H" rel="nofollow">Bilder auf Film h1/sh/S0881H</a> | Filmanfang: Kanada : Handel [E8 n18]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0882H" rel="nofollow">Bilder auf Film h1/sh/S0882H</a> | Filmanfang: Kanada : Kreditwesen [E8 n24 Sm4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0883H" rel="nofollow">Bilder auf Film h1/sh/S0883H</a> | Filmanfang: Kanada : Seeschiffahrt [E8 n32]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0884H" rel="nofollow">Bilder auf Film h1/sh/S0884H</a> | Filmanfang: Kanada : Lebensversicherung [E8 n37a Sm4]
+
+
+:::
+
+
+
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 12427</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2742H/0069" rel="nofollow">Bilder auf Film h2/sh/S2742H/0069</a> | Kanada
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2743H" rel="nofollow">Bilder auf Film h2/sh/S2743H</a> | Filmanfang: Kanada : Zollpolitik [E8 g4 Sm1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2744H" rel="nofollow">Bilder auf Film h2/sh/S2744H</a> | Filmanfang: Kanada : Wirtschaftspolitische Beziehungen zu einzelnen Ländern [E8 g4a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2745H" rel="nofollow">Bilder auf Film h2/sh/S2745H</a> | Filmanfang: Kanada : Zolltarif, Vollständiger Text [E8 m2 Sm1.I]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2746H" rel="nofollow">Bilder auf Film h2/sh/S2746H</a> | Filmanfang: Kanada : Urheberschutz, Schutz des gewerblichen Eigentums a-b [E8 n Sm38.III a-b]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2747H" rel="nofollow">Bilder auf Film h2/sh/S2747H</a> | Filmanfang: Kanada : Urheberschutz, Schutz des gewerblichen Eigentums a-b [E8 n Sm38.III a-b]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2748H" rel="nofollow">Bilder auf Film h2/sh/S2748H</a> | Filmanfang: Kanada : Berichte über die wirtschaftliche Lage in einzelnen Bundesstaaten, Provinzen und Städten [E8 n2a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2749H" rel="nofollow">Bilder auf Film h2/sh/S2749H</a> | Filmanfang: Kanada : Bergbau [E8 n12]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2750H" rel="nofollow">Bilder auf Film h2/sh/S2750H</a> | Filmanfang: Kanada : Hydroelektrische Industrie [E8 n13a Sm5]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2751H" rel="nofollow">Bilder auf Film h2/sh/S2751H</a> | Filmanfang: Kanada : Handel [E8 n18]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2752H" rel="nofollow">Bilder auf Film h2/sh/S2752H</a> | Filmanfang: Kanada : Kraftfahrzeugverkehr, Allgemein [E8 n28 Sm4]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2753H" rel="nofollow">Bilder auf Film h2/sh/S2753H</a> | Filmanfang: Kanada : Versicherungswesen Sm [E8 n37 Sm]
+
+
+:::
 
 
 
@@ -58,8 +136,27 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
-Insgesamt 48 Mappen, 1517 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 48 Mappen (bis 1949), 1517 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

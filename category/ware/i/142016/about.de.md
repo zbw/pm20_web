@@ -1,6 +1,6 @@
 ---
 title: "Asphalt"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Asphalt &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q189259) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Asphalt)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142016`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142016`</div>
 
 
 
@@ -18,12 +18,14 @@ fn-stub: about
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 60 Mappen, 541 Dokumente - Mappen komplett.
+
+
+Insgesamt 60 Mappen, 541 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -50,7 +52,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - A40b(A10) Ostmark (1938-1945) [**&nearr;**](../../../geo/i/163025/about.de.html "Ostmark (1938-1945) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40b(A10) "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,163025" title="über: Asphalt : Ostmark (1938-1945)" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142016/1630xx/163025/about.de.html))
 - A40c Tschechoslowakei [**&nearr;**](../../../geo/i/141022/about.de.html "Tschechoslowakei (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40c "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141022" title="über: Asphalt : Tschechoslowakei" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142016/1410xx/141022/about.de.html))
 - A40d Ungarn [**&nearr;**](../../../geo/i/141025/about.de.html "Ungarn (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40d "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141025" title="über: Asphalt : Ungarn" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142016/1410xx/141025/about.de.html))
-- A40e Südslawien [**&nearr;**](../../../geo/i/141028/about.de.html "Südslawien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40e "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141028" title="über: Asphalt : Südslawien" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142016/1410xx/141028/about.de.html))
+- A40e Jugoslawien (bis 1945 Südslawien) [**&nearr;**](../../../geo/i/141028/about.de.html "Jugoslawien (bis 1945 Südslawien) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40e "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141028" title="über: Asphalt : Jugoslawien (bis 1945 Südslawien)" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142016/1410xx/141028/about.de.html))
 - A40f Slowakei [**&nearr;**](../../../geo/i/141029/about.de.html "Slowakei (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40f "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141029" title="über: Asphalt : Slowakei" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142016/1410xx/141029/about.de.html))
 - A45 Griechenland [**&nearr;**](../../../geo/i/141037/about.de.html "Griechenland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A45 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141037" title="über: Asphalt : Griechenland" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142016/1410xx/141037/about.de.html))
 - A46 Bulgarien [**&nearr;**](../../../geo/i/141039/about.de.html "Bulgarien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A46 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141039" title="über: Asphalt : Bulgarien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142016/1410xx/141039/about.de.html))
@@ -107,6 +109,38 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Welt
 
 - H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142016,141728" title="über: Asphalt : Welt" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142016/1417xx/141728/about.de.html))
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 117</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2047H/0038" rel="nofollow">Bilder auf Film h2/wa/W2047H/0038</a> | Asphalt
+
+
+:::
+
+
+
+
+
+
+
+
 
 
 

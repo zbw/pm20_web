@@ -1,6 +1,6 @@
 ---
 title: "c5 Climate"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [c5]{.gray}&#8201; Climate &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427835)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144209`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144209`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 35 folders, 446 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 35 folders, 449 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -37,7 +38,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A3 Eastern Europe [**&nearr;**](../../../geo/i/140896/about.en.html "Eastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A3 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140896,144209" title="about: Eastern Europe : Climate" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1408xx/140896/1442xx/144209/about.en.html))
 - A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,144209" title="about: Southeastern Europe : Climate" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1442xx/144209/about.en.html))
 - A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144209" title="about: Hamburg : Climate" target="_blank">11 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1442xx/144209/about.en.html))
-- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,144209" title="about: Germany : Climate" target="_blank">77 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1442xx/144209/about.en.html))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,144209" title="about: Germany : Climate" target="_blank">80 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1442xx/144209/about.en.html))
 - A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140960,144209" title="about: German imperial colonies : Climate" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1409xx/140960/1442xx/144209/about.en.html))
 - A12 Poland [**&nearr;**](../../../geo/i/140962/about.en.html "Poland (all folders)") [**&uarr;**](../../../geo/about.en.html#A12 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140962,144209" title="about: Poland : Climate" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1409xx/140962/1442xx/144209/about.en.html))
 - A43 Ottoman Empire [**&nearr;**](../../../geo/i/141034/about.en.html "Ottoman Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A43 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141034,144209" title="about: Ottoman Empire : Climate" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1410xx/141034/1442xx/144209/about.en.html))
@@ -86,6 +87,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### World
 
 - H World [**&nearr;**](../../../geo/i/141728/about.en.html "World (all folders)") [**&uarr;**](../../../geo/about.en.html#H "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141728,144209" title="about: World : Climate" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1417xx/141728/1442xx/144209/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

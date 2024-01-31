@@ -1,6 +1,6 @@
 ---
 title: "Kohl"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Kohl &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q146212) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Gem%C3%BCsekohl)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/143119`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/143119`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 25 Mappen, 136 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 25 Mappen, 136 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -64,6 +65,38 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - E8 Kanada [**&nearr;**](../../../geo/i/141644/about.de.html "Kanada (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E8 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143119,141644" title="über: Kohl : Kanada" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143119/1416xx/141644/about.de.html))
 - E15 USA [**&nearr;**](../../../geo/i/141653/about.de.html "USA (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E15 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143119,141653" title="über: Kohl : USA" target="_blank">11 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143119/1416xx/141653/about.de.html))
 - E20 Mexiko [**&nearr;**](../../../geo/i/141657/about.de.html "Mexiko (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E20 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143119,141657" title="über: Kohl : Mexiko" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143119/1416xx/141657/about.de.html))
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 71</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/wa/W0233H/1176" rel="nofollow">Bilder auf Film h1/wa/W0233H/1176</a> | Kohl
+
+
+:::
+
+
+
+
+
+
+
+
 
 
 

@@ -407,7 +407,9 @@ function film_nav($film, $set, $collection): string
     <li><b>Einzelbildanzeige</b>: Mausklick in Bildmitte</li>
     <li><b>Vergrößern</b>: mit Mauszeiger (Lupen-Symbol) auf gewünschten Bereich klicken (im Einzelbild-Modus)</li>
     <li><b>Einzelbild-Modus verlassen</b>: Alt-Pfeil links</li>
-  </ul>
+    <li>Optional kann ein Browser-Plugin (z.B. <a
+    href="https://github.com/and-rej/rotate-and-zoom-image">für Firefox</a>)
+    zum Zoomen und Rotieren der Bilder hilfreich sein</li> </ul>
 
   <?= $ip_hints ?>
 

@@ -1,6 +1,6 @@
 ---
 title: "A48 Albanien"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -8,27 +8,109 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A48]{.gray}&#8201; Albanien
+# [A48]{.gray}&#8201; Albanien &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q222) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Albanien)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141041`</div>
-
-
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141041`</div>
 
 
 
 
-
-## Warenarchiv
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
+## Sacharchiv Mappen
 
 
 
-Insgesamt 6 Mappen, 16 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+Kein als Mappe erschlossenes Material.
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 2752</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0573H/1060" rel="nofollow">Bilder auf Film h1/sh/S0573H/1060</a> | Albanien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0574H" rel="nofollow">Bilder auf Film h1/sh/S0574H</a> | Filmanfang: Albanien : Landeskunde, Allgemein [A48 c]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0575H" rel="nofollow">Bilder auf Film h1/sh/S0575H</a> | Filmanfang: Albanien : Politische Beziehungen zu einzelnen Ländern Südslawien [A48 g1 Südslawien]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0576H/0002/L" rel="nofollow">Bilder auf Film h1/sh/S0576H/0002/L</a> | Albanien : Siedlung und Wanderung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0576H/0008/R" rel="nofollow">Bilder auf Film h1/sh/S0576H/0008/R</a> | Albanien : Hilfsaktionen für ...
+
+
+:::
+
+
+
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 885</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2565H/0027" rel="nofollow">Bilder auf Film h2/sh/S2565H/0027</a> | Albanien
+
+
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 6 Mappen (bis 1949), 16 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

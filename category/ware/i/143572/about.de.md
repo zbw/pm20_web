@@ -1,6 +1,6 @@
 ---
-title: "Leichtmetall"
-modified: 2022-07-17
+title: "Metall, Leicht-"
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -8,32 +8,62 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Leichtmetall &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q428766) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Leichtmetalle)
+# Metall, Leicht- &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q428766) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Leichtmetalle)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/143572`</div>
-
-
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/143572`</div>
 
 
 
 
 
-## Warenarchiv
+
+
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 1 Mappen, 21 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 1 Mappen, 21 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
 
 
+- H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143572,141728" title="über: Metall, Leicht- : Welt" target="_blank">21 Dokumente</a>) ([Mappe](../../../../folder/wa/1435xx/143572/1417xx/141728/about.de.html))
 
-### Welt
 
-- H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143572,141728" title="über: Leichtmetall : Welt" target="_blank">21 Dokumente</a>) ([Mappe](../../../../folder/wa/1435xx/143572/1417xx/141728/about.de.html))
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 251</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/wa/W0323H/0337" rel="nofollow">Bilder auf Film h1/wa/W0323H/0337</a> | Metall, Leicht-
+
+
+:::
+
+
+
+
+
+
+
+
 
 
 

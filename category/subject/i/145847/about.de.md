@@ -1,6 +1,6 @@
 ---
 title: "n Sm43 Kältewirtschaft, Kühlanlagen, Allgemein"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n Sm43]{.gray}&#8201; Kältewirtschaft, Kühlanlagen, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710369)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145847`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145847`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 10 Mappen, 60 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 10 Mappen, 64 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -35,7 +36,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145847" title="über: Europa : Kältewirtschaft, Kühlanlagen, Allgemein" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1458xx/145847/about.de.html))
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145847" title="über: Südosteuropa : Kältewirtschaft, Kühlanlagen, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1458xx/145847/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145847" title="über: Hamburg : Kältewirtschaft, Kühlanlagen, Allgemein" target="_blank">15 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1458xx/145847/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145847" title="über: Hamburg : Kältewirtschaft, Kühlanlagen, Allgemein" target="_blank">19 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1458xx/145847/about.de.html))
 
 ### Asien
 
@@ -52,6 +53,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145847" title="über: Argentinien : Kältewirtschaft, Kühlanlagen, Allgemein" target="_blank">18 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1458xx/145847/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

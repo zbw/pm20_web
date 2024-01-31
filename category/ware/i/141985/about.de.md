@@ -1,6 +1,6 @@
 ---
 title: "Apparate und Instrumente"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Apparate und Instrumente &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q113376048)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141985`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/141985`</div>
 
 <div class="hint">
 Scope Note: (einschl.: enth. auch: Apparate der Chemischen Industrie. Regulatoren, Filter, Verdampfer, Öler, Photozellen, Schalldämpfer, Ultraschall, Wärmetauscher)
@@ -20,12 +20,14 @@ Scope Note: (einschl.: enth. auch: Apparate der Chemischen Industrie. Regulatore
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 42 Mappen, 404 Dokumente - Mappen komplett.
+
+
+Insgesamt 42 Mappen, 404 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -91,6 +93,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Welt
 
 - H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141985,141728" title="über: Apparate und Instrumente : Welt" target="_blank">97 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141985/1417xx/141728/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

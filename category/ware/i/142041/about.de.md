@@ -1,6 +1,6 @@
 ---
 title: "Barosma"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Barosma &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q194513) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Agathosma_betulina)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142041`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142041`</div>
 
 <div class="hint">
 Scope Note: Bukkostrauch
@@ -20,12 +20,14 @@ Scope Note: Bukkostrauch
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 2 Mappen, 11 Dokumente - Mappen komplett.
+
+
+Insgesamt 2 Mappen, 11 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -39,6 +41,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E15 USA [**&nearr;**](../../../geo/i/141653/about.de.html "USA (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E15 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142041,141653" title="über: Barosma : USA" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142041/1416xx/141653/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

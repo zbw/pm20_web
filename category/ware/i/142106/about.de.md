@@ -1,6 +1,6 @@
 ---
 title: "Bekleidung"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Bekleidung &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q1431632) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Konfektion)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142106`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142106`</div>
 
 
 
@@ -18,12 +18,14 @@ fn-stub: about
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 97 Mappen, 2731 Dokumente - Mappen komplett.
+
+
+Insgesamt 97 Mappen, 2731 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -57,7 +59,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - A40b(A10) Ostmark (1938-1945) [**&nearr;**](../../../geo/i/163025/about.de.html "Ostmark (1938-1945) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40b(A10) "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,163025" title="über: Bekleidung : Ostmark (1938-1945)" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142106/1630xx/163025/about.de.html))
 - A40c Tschechoslowakei [**&nearr;**](../../../geo/i/141022/about.de.html "Tschechoslowakei (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40c "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141022" title="über: Bekleidung : Tschechoslowakei" target="_blank">38 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142106/1410xx/141022/about.de.html))
 - A40d Ungarn [**&nearr;**](../../../geo/i/141025/about.de.html "Ungarn (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40d "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141025" title="über: Bekleidung : Ungarn" target="_blank">45 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142106/1410xx/141025/about.de.html))
-- A40e Südslawien [**&nearr;**](../../../geo/i/141028/about.de.html "Südslawien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40e "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141028" title="über: Bekleidung : Südslawien" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142106/1410xx/141028/about.de.html))
+- A40e Jugoslawien (bis 1945 Südslawien) [**&nearr;**](../../../geo/i/141028/about.de.html "Jugoslawien (bis 1945 Südslawien) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40e "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141028" title="über: Bekleidung : Jugoslawien (bis 1945 Südslawien)" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142106/1410xx/141028/about.de.html))
 - A40g Kroatien [**&nearr;**](../../../geo/i/141030/about.de.html "Kroatien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40g "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141030" title="über: Bekleidung : Kroatien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142106/1410xx/141030/about.de.html))
 - A41 Serbien [**&nearr;**](../../../geo/i/141032/about.de.html "Serbien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A41 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141032" title="über: Bekleidung : Serbien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142106/1410xx/141032/about.de.html))
 - A45 Griechenland [**&nearr;**](../../../geo/i/141037/about.de.html "Griechenland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A45 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141037" title="über: Bekleidung : Griechenland" target="_blank">10 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142106/1410xx/141037/about.de.html))
@@ -144,6 +146,39 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Welt
 
 - H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141728" title="über: Bekleidung : Welt" target="_blank">63 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142106/1417xx/141728/about.de.html))
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 1223</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2003H/0039/L" rel="nofollow">Bilder auf Film h2/wa/W2003H/0039/L</a> | Bekleidung
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2004H/0002" rel="nofollow">Bilder auf Film h2/wa/W2004H/0002</a> | Bekleidung : USA
+
+
+:::
+
+
+
+
+
+
+
+
 
 
 

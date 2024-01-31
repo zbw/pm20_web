@@ -1,6 +1,6 @@
 ---
 title: "d10 Dichtung, Musik, Theater"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [d10]{.gray}&#8201; Dichtung, Musik, Theater &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427855)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144256`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144256`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 1 Mappen, 1 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 1 Mappen, 1 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -34,6 +35,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Australien und Ozeanien
 
 - D2 Pazifischer Raum [**&nearr;**](../../../geo/i/141593/about.de.html "Pazifischer Raum (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#D2 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141593,144256" title="über: Pazifischer Raum : Dichtung, Musik, Theater" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1415xx/141593/1442xx/144256/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

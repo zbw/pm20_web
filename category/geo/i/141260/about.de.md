@@ -1,6 +1,6 @@
 ---
 title: "B98 Tannu-Tuwa"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [B98]{.gray}&#8201; Tannu-Tuwa &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q816709) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Tuwinische_Volksrepublik)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141260`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141260`</div>
 
 <div class="hint">
 Scope Note: 1921-1944. Tuwa: autonome Republik im südlichen Teil des asiatischen Russlands
@@ -20,14 +20,17 @@ Scope Note: 1921-1944. Tuwa: autonome Republik im südlichen Teil des asiatische
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
 
 
 
 
 
 
-Insgesamt 2 Mappen, 4 Dokumente - Mappen komplett.
+
+
+
+Insgesamt 2 Mappen, 4 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -41,6 +44,14 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Wirtschaft
 
 - n Wirtschaft, Allgemein [**&nearr;**](../../../subject/i/144930/about.de.html "Wirtschaft, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141260,144930" title="über: Tannu-Tuwa : Wirtschaft, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141260/1449xx/144930/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
 
 
 

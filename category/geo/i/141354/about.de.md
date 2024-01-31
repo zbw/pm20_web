@@ -1,6 +1,6 @@
 ---
 title: "C19 Algerien"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,25 +10,28 @@ fn-stub: about
 
 # [C19]{.gray}&#8201; Algerien &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q262) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Algerien)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141354`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141354`</div>
 
 
 
 
-[Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
-
-
-
-
-
-## Sacharchiv
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
+## Sacharchiv Mappen
 
-Insgesamt 52 Mappen, 839 Dokumente - Mappen unvollständig.
+
+
+
+
+
+
+
+
+Insgesamt 51 Mappen, 839 Dokumente - Mappen unvollständig.
 Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
@@ -91,7 +94,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - p2 Siedlungspolitik [**&nearr;**](../../../subject/i/145915/about.de.html "Siedlungspolitik (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#p2 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141354,145915" title="über: Algerien : Siedlungspolitik" target="_blank">24 Dokumente</a>) ([Mappe](../../../../folder/sh/1413xx/141354/1459xx/145915/about.de.html))
 - p3 Einwanderung und Einwanderungspolitik [**&nearr;**](../../../subject/i/145917/about.de.html "Einwanderung und Einwanderungspolitik (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#p3 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141354,145917" title="über: Algerien : Einwanderung und Einwanderungspolitik" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1413xx/141354/1459xx/145917/about.de.html))
   - p3 Sm4 Einwanderer aus Einzelnen Ländern [**&nearr;**](../../../subject/i/182222/about.de.html "Einwanderer aus Einzelnen Ländern (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#p3_Sm4 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141354,182222" title="über: Algerien : Einwanderer aus Einzelnen Ländern" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1413xx/141354/1822xx/182222/about.de.html))
-  - p3 Sm500 Deutsche Einwanderer (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145921/about.de.html "Deutsche Einwanderer (Forschungsstelle für das Übersee-Deutschtum) (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#p3_Sm500 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141354,145921" title="über: Algerien : Deutsche Einwanderer (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1413xx/141354/1459xx/145921/about.de.html))
 - p4 Auswanderung und Auswanderungspolitik [**&nearr;**](../../../subject/i/145925/about.de.html "Auswanderung und Auswanderungspolitik (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#p4 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141354,145925" title="über: Algerien : Auswanderung und Auswanderungspolitik" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/sh/1413xx/141354/1459xx/145925/about.de.html))
 - p6 Siedlungen [**&nearr;**](../../../subject/i/145931/about.de.html "Siedlungen (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#p6 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141354,145931" title="über: Algerien : Siedlungen" target="_blank">14 Dokumente</a>) ([Mappe](../../../../folder/sh/1413xx/141354/1459xx/145931/about.de.html))
 
@@ -105,11 +107,55 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 2771</p>
 
 
 
 
-## Warenarchiv
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0779H/0969" rel="nofollow">Bilder auf Film h1/sh/S0779H/0969</a> | Algerien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0780H" rel="nofollow">Bilder auf Film h1/sh/S0780H</a> | Filmanfang: Algerien : Landeskunde, Landschaften, Beschreibung einzelner Orte und Gegenden [C19 c9]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0781H" rel="nofollow">Bilder auf Film h1/sh/S0781H</a> | Filmanfang: Algerien : Zolltarif, Vollständiger Text [C19 m2 Sm1.I]
+
+
+:::
+
+
+
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 4019</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2697H/0114" rel="nofollow">Bilder auf Film h2/sh/S2697H/0114</a> | Algerien
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2698H" rel="nofollow">Bilder auf Film h2/sh/S2698H</a> | Filmanfang: Algerien : Geschichtliche Vorgänge [C19 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2699H" rel="nofollow">Bilder auf Film h2/sh/S2699H</a> | Filmanfang: Algerien : Geschichtliche Vorgänge [C19 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2700H" rel="nofollow">Bilder auf Film h2/sh/S2700H</a> | Filmanfang: Algerien : n2-n2a Sm [C19 n2-n2a Sm]
+
+
+:::
 
 
 
@@ -118,8 +164,27 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
-Insgesamt 20 Mappen, 321 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 20 Mappen (bis 1949), 322 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -129,7 +194,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### A
 
 - Absinth [**&nearr;**](../../../ware/i/141943/about.de.html "Absinth (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141943,141354" title="über: Absinth : Algerien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141943/1413xx/141354/about.de.html))
-- Agrumen [**&nearr;**](../../../ware/i/141948/about.de.html "Agrumen (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141354" title="über: Agrumen : Algerien" target="_blank">52 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1413xx/141354/about.de.html))
+- Agrumen [**&nearr;**](../../../ware/i/141948/about.de.html "Agrumen (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141354" title="über: Agrumen : Algerien" target="_blank">53 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1413xx/141354/about.de.html))
 - Alfagras [**&nearr;**](../../../ware/i/141957/about.de.html "Alfagras (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID19-Nf018 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141957,141354" title="über: Alfagras : Algerien" target="_blank">42 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141957/1413xx/141354/about.de.html))
 - Algen und Seetang [**&nearr;**](../../../ware/i/141959/about.de.html "Algen und Seetang (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW07-Mp01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141959,141354" title="über: Algen und Seetang : Algerien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141959/1413xx/141354/about.de.html))
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141354" title="über: Alkohol : Algerien" target="_blank">37 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1413xx/141354/about.de.html))

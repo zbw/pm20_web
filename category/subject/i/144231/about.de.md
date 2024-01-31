@@ -1,6 +1,6 @@
 ---
 title: "d4 Sm2 Sport"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [d4 Sm2]{.gray}&#8201; Sport &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699256)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144231`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144231`</div>
 
 <div class="hint">
 Scope Note: (einschl.: Leibesübung)
@@ -20,20 +20,21 @@ Scope Note: (einschl.: Leibesübung)
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 7 Mappen, 654 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 7 Mappen, 660 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
 
 
 - A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144231" title="über: Europa : Sport" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1442xx/144231/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144231" title="über: Hamburg : Sport" target="_blank">171 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1442xx/144231/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144231" title="über: Hamburg : Sport" target="_blank">177 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1442xx/144231/about.de.html))
 - A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,144231" title="über: Deutschland : Sport" target="_blank">350 Dokumente</a>) ([Mappe](../../../../folder/sh/1261xx/126128/1442xx/144231/about.de.html))
 
 ### Asien
@@ -45,6 +46,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144231" title="über: Argentinien : Sport" target="_blank">37 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1442xx/144231/about.de.html))
 - E95 Uruguay [**&nearr;**](../../../geo/i/141695/about.de.html "Uruguay (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E95 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141695,144231" title="über: Uruguay : Sport" target="_blank">19 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141695/1442xx/144231/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

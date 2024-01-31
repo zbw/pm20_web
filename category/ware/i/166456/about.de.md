@@ -1,6 +1,6 @@
 ---
 title: "Bekleidungssparten und Zubehör"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Bekleidungssparten und Zubehör &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q111973242)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/166456`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/166456`</div>
 
 
 
@@ -18,12 +18,14 @@ fn-stub: about
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 26 Mappen, 151 Dokumente - Mappen komplett.
+
+
+Insgesamt 26 Mappen, 151 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -64,6 +66,38 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - E69 Nicaragua [**&nearr;**](../../../geo/i/141682/about.de.html "Nicaragua (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E69 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/166456,141682" title="über: Bekleidungssparten und Zubehör  : Nicaragua" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1664xx/166456/1416xx/141682/about.de.html))
 - E79 Peru [**&nearr;**](../../../geo/i/141689/about.de.html "Peru (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E79 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/166456,141689" title="über: Bekleidungssparten und Zubehör  : Peru" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1664xx/166456/1416xx/141689/about.de.html))
 - E97 Brasilien [**&nearr;**](../../../geo/i/141697/about.de.html "Brasilien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E97 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/166456,141697" title="über: Bekleidungssparten und Zubehör  : Brasilien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1664xx/166456/1416xx/141697/about.de.html))
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: unbekannt - auffindbar derzeit nur über die [Filmliste]().</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2003H/0039" rel="nofollow">Bilder auf Film h2/wa/W2003H/0039</a> | Bekleidungssparten und Zubehör
+
+
+:::
+
+
+
+
+
+
+
+
 
 
 

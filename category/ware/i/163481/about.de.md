@@ -1,6 +1,6 @@
 ---
 title: "Alkohol (Chemie)"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Alkohol (Chemie) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q153) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Ethanol)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/163481`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/163481`</div>
 
 
 
@@ -18,12 +18,14 @@ fn-stub: about
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 33 Mappen, 144 Dokumente - Mappen komplett.
+
+
+Insgesamt 33 Mappen, 144 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -45,7 +47,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - A34 Schweiz [**&nearr;**](../../../geo/i/141007/about.de.html "Schweiz (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A34 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/163481,141007" title="über: Alkohol (Chemie) : Schweiz" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1634xx/163481/1410xx/141007/about.de.html))
 - A35 Italien [**&nearr;**](../../../geo/i/141008/about.de.html "Italien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A35 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/163481,141008" title="über: Alkohol (Chemie) : Italien" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/wa/1634xx/163481/1410xx/141008/about.de.html))
 - A40d Ungarn [**&nearr;**](../../../geo/i/141025/about.de.html "Ungarn (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40d "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/163481,141025" title="über: Alkohol (Chemie) : Ungarn" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1634xx/163481/1410xx/141025/about.de.html))
-- A40e Südslawien [**&nearr;**](../../../geo/i/141028/about.de.html "Südslawien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40e "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/163481,141028" title="über: Alkohol (Chemie) : Südslawien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1634xx/163481/1410xx/141028/about.de.html))
+- A40e Jugoslawien (bis 1945 Südslawien) [**&nearr;**](../../../geo/i/141028/about.de.html "Jugoslawien (bis 1945 Südslawien) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40e "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/163481,141028" title="über: Alkohol (Chemie) : Jugoslawien (bis 1945 Südslawien)" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1634xx/163481/1410xx/141028/about.de.html))
 - A46 Bulgarien [**&nearr;**](../../../geo/i/141039/about.de.html "Bulgarien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A46 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/163481,141039" title="über: Alkohol (Chemie) : Bulgarien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1634xx/163481/1410xx/141039/about.de.html))
 - A47 Rumänien [**&nearr;**](../../../geo/i/141040/about.de.html "Rumänien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A47 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/163481,141040" title="über: Alkohol (Chemie) : Rumänien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1634xx/163481/1410xx/141040/about.de.html))
 - A50 Sowjetunion (1922-1991) [**&nearr;**](../../../geo/i/141043/about.de.html "Sowjetunion (1922-1991) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A50 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/163481,141043" title="über: Alkohol (Chemie) : Sowjetunion (1922-1991)" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1634xx/163481/1410xx/141043/about.de.html))
@@ -77,6 +79,38 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Welt
 
 - H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/163481,141728" title="über: Alkohol (Chemie) : Welt" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/wa/1634xx/163481/1417xx/141728/about.de.html))
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 43</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2001H/0940" rel="nofollow">Bilder auf Film h2/wa/W2001H/0940</a> | Alkohol (Chemie)
+
+
+:::
+
+
+
+
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "n28 Sm2 Reiseverkehr, Fremdenverkehr"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n28 Sm2]{.gray}&#8201; Reiseverkehr, Fremdenverkehr &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711087)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/161625`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/161625`</div>
 
 <div class="hint">
 Scope Note: (einschl.: Fremdenwerbung; Verkehrswerbung)
@@ -20,13 +20,14 @@ Scope Note: (einschl.: Fremdenwerbung; Verkehrswerbung)
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 20 Mappen, 416 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 20 Mappen, 416 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -67,6 +68,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Polargebiete
 
 - F10 Arktis [**&nearr;**](../../../geo/i/141702/about.de.html "Arktis (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#F10 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141702,161625" title="über: Arktis : Reiseverkehr, Fremdenverkehr" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1417xx/141702/1616xx/161625/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

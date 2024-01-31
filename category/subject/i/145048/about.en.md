@@ -1,6 +1,6 @@
 ---
 title: "n4 Agriculture"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n4]{.gray}&#8201; Agriculture &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428023)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145048`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145048`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 47 folders, 2205 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 47 folders, 2206 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -39,7 +40,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A4 Western Europe [**&nearr;**](../../../geo/i/140897/about.en.html "Western Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A4 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140897,145048" title="about: Western Europe : Agriculture" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1408xx/140897/1450xx/145048/about.en.html))
 - A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145048" title="about: Southeastern Europe : Agriculture" target="_blank">79 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1450xx/145048/about.en.html))
 - A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,145048" title="about: Orient : Agriculture" target="_blank">7 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1450xx/145048/about.en.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145048" title="about: Hamburg : Agriculture" target="_blank">106 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1450xx/145048/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145048" title="about: Hamburg : Agriculture" target="_blank">107 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1450xx/145048/about.en.html))
 - A10n(1) Upper Silesia (German-Polish border region) [**&nearr;**](../../../geo/i/140948/about.en.html "Upper Silesia (German-Polish border region) (all folders)") [**&uarr;**](../../../geo/about.en.html#A10n(1) "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140948,145048" title="about: Upper Silesia (German-Polish border region) : Agriculture" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1409xx/140948/1450xx/145048/about.en.html))
 - A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140960,145048" title="about: German imperial colonies : Agriculture" target="_blank">40 documents</a>) ([folder](../../../../folder/sh/1409xx/140960/1450xx/145048/about.en.html))
 - A36 Italian Empire [**&nearr;**](../../../geo/i/141012/about.en.html "Italian Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A36 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141012,145048" title="about: Italian Empire : Agriculture" target="_blank">17 documents</a>) ([folder](../../../../folder/sh/1410xx/141012/1450xx/145048/about.en.html))
@@ -95,6 +96,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### Polar regions
 
 - F10 Arctic region [**&nearr;**](../../../geo/i/141702/about.en.html "Arctic region (all folders)") [**&uarr;**](../../../geo/about.en.html#F10 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141702,145048" title="about: Arctic region : Agriculture" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1417xx/141702/1450xx/145048/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

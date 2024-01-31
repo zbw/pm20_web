@@ -1,6 +1,6 @@
 ---
 title: "n32 Sm5 Schiffsverluste, Havarien"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n32 Sm5]{.gray}&#8201; Schiffsverluste, Havarien &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711156)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145574`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145574`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 10 Mappen, 411 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 10 Mappen, 415 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -37,7 +38,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - A1a Ostseeländer [**&nearr;**](../../../geo/i/140894/about.de.html "Ostseeländer (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1a "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140894,145574" title="über: Ostseeländer : Schiffsverluste, Havarien" target="_blank">14 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140894/1455xx/145574/about.de.html))
 - A4 Westeuropa [**&nearr;**](../../../geo/i/140897/about.de.html "Westeuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A4 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140897,145574" title="über: Westeuropa : Schiffsverluste, Havarien" target="_blank">15 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140897/1455xx/145574/about.de.html))
 - A5a Mittelmeerländer [**&nearr;**](../../../geo/i/140899/about.de.html "Mittelmeerländer (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A5a "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140899,145574" title="über: Mittelmeerländer : Schiffsverluste, Havarien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140899/1455xx/145574/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145574" title="über: Hamburg : Schiffsverluste, Havarien" target="_blank">59 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1455xx/145574/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145574" title="über: Hamburg : Schiffsverluste, Havarien" target="_blank">63 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1455xx/145574/about.de.html))
 - A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,145574" title="über: Deutschland : Schiffsverluste, Havarien" target="_blank">140 Dokumente</a>) ([Mappe](../../../../folder/sh/1261xx/126128/1455xx/145574/about.de.html))
 
 ### Asien
@@ -52,6 +53,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145574" title="über: Argentinien : Schiffsverluste, Havarien" target="_blank">19 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1455xx/145574/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

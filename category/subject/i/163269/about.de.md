@@ -1,6 +1,6 @@
 ---
 title: "m2 Sm4 Zollformalitäten"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [m2 Sm4]{.gray}&#8201; Zollformalitäten &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700310)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/163269`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/163269`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 4 Mappen, 57 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 4 Mappen, 57 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -40,6 +41,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E102 Britisch-Guayana [**&nearr;**](../../../geo/i/141700/about.de.html "Britisch-Guayana (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E102 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141700,163269" title="über: Britisch-Guayana : Zollformalitäten" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1417xx/141700/1632xx/163269/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

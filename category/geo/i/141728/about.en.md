@@ -1,6 +1,6 @@
 ---
 title: "H World"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,18 +10,21 @@ fn-stub: about
 
 # [H]{.gray}&#8201; World &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q16502) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/World)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141728`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141728`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
+[Subject archives](#subject-archives-folders) &#160; [Commodities/wares archives](#commoditieswares-archives-folders)
 
 
 
 
-## Subject archives
+## Subject archives folders
+
+
+
 
 
 
@@ -76,11 +79,169 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
+<a id="filmsections" />
+
+## Sections of digitized microfilms (1st filming 1908-1949)
+
+<p>For intellectual property law reasons accessible only from the European Union legal area and from the ZBW reading room.</p>
+
+
+
+<p>Total number of images: 64889</p>
 
 
 
 
-## Commodities/wares archives
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1039H" rel="nofollow">Images on film h1/sh/S1039H</a> | Filmanfang: Welt : Landeskunde, Allgemein [H c]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1040H" rel="nofollow">Images on film h1/sh/S1040H</a> | Filmanfang: Welt : Volkscharakter, Sport, Sitten und Gebräuche [H d4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1041H" rel="nofollow">Images on film h1/sh/S1041H</a> | Filmanfang: Welt : Besoldung, Pensionen, Kriegsunterstützungen, Versorgung ehemaliger Soldaten [H l7]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1042H" rel="nofollow">Images on film h1/sh/S1042H</a> | Filmanfang: Welt : Gesundheitliche Verhältnisse, Allgemein [H e]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1043H" rel="nofollow">Images on film h1/sh/S1043H</a> | Filmanfang: Welt : Trinkwasserversorgung, Kanalisation [H e4 sm2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1044H" rel="nofollow">Images on film h1/sh/S1044H</a> | Filmanfang: Welt : Geschichtliche Vorgänge [H f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1045H" rel="nofollow">Images on film h1/sh/S1045H</a> | Filmanfang: Welt : Verfassung, Staatsform [H f4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1046H_1" rel="nofollow">Images on film h1/sh/S1046H_1</a> | Filmanfang: Welt : Parteiwesen [H f5]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1047H" rel="nofollow">Images on film h1/sh/S1047H</a> | Filmanfang: Welt : Außenpolitik und politische Beziehungen zum Ausland, Allgemein [H g]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1048H" rel="nofollow">Images on film h1/sh/S1048H</a> | Filmanfang: Welt : Friedensbestrebungen (Weltkrieg) [H g Sm6]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1049H" rel="nofollow">Images on film h1/sh/S1049H</a> | Filmanfang: Welt : Außenpolitik und politische Beziehungen zum Ausland, Allgemein f501II b2 [H g f501II b2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1050H" rel="nofollow">Images on film h1/sh/S1050H</a> | Filmanfang: Welt : Außenpolitik und politische Beziehungen zum Ausland, Allgemein S16 50i IIIa [H g S16 50i IIIa]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1051H_1" rel="nofollow">Images on film h1/sh/S1051H_1</a> | Filmanfang: Welt : Außenpolitik und politische Beziehungen zum Ausland, Allgemein Sm501 [H g Sm501]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1052H" rel="nofollow">Images on film h1/sh/S1052H</a> | Filmanfang: Welt : Außenpolitik und politische Beziehungen zum Ausland, Allgemein Sm502 [H g Sm502]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1053H" rel="nofollow">Images on film h1/sh/S1053H</a> | Filmanfang: Welt : Außenpolitik und politische Beziehungen zum Ausland, Allgemein Sm506 [H g Sm506]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1054H" rel="nofollow">Images on film h1/sh/S1054H</a> | Filmanfang: Welt : Außenpolitik und politische Beziehungen zum Ausland, Allgemein [H g]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1055H" rel="nofollow">Images on film h1/sh/S1055H</a> | Filmanfang: Welt : Außenpolitik und politische Beziehungen zum Ausland, Allgemein [H g]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1056H" rel="nofollow">Images on film h1/sh/S1056H</a> | Filmanfang: Welt : Kolonialpolitik, Allgemein [H g5]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1057H" rel="nofollow">Images on film h1/sh/S1057H</a> | Filmanfang: Welt : Hochschulwesen, Forschungsanstalten Allgemein [H k1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1058H_1" rel="nofollow">Images on film h1/sh/S1058H_1</a> | Filmanfang: Welt : Festungen, Militärstationen,... (später: Militärbauten und -liegenschaften) [H l3]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1059H_1" rel="nofollow">Images on film h1/sh/S1059H_1</a> | Filmanfang: Welt : Zollwesen, Zolltarife [H m2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1060H_1" rel="nofollow">Images on film h1/sh/S1060H_1</a> | Filmanfang: Welt : Wirtschaft, Allgemein k7 I [H n k7 I]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1061H_1" rel="nofollow">Images on film h1/sh/S1061H_1</a> | Filmanfang: Welt : Wirtschaft, Allgemein [H n]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1062H" rel="nofollow">Images on film h1/sh/S1062H</a> | Filmanfang: Welt : Aufwendung für Soziallasten [H n Sm16]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1063H" rel="nofollow">Images on film h1/sh/S1063H</a> | Filmanfang: Welt : Berichte über die wirtschaftliche Lage [H n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1064H" rel="nofollow">Images on film h1/sh/S1064H</a> | Filmanfang: Welt : Wirtschaft, Allgemein 2 [H n 2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1065H" rel="nofollow">Images on film h1/sh/S1065H</a> | Filmanfang: Welt : Indexziffern IIId [H n2 Sm9 IIId]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1066H" rel="nofollow">Images on film h1/sh/S1066H</a> | Filmanfang: Welt : Landwirtschaft [H n4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1067H" rel="nofollow">Images on film h1/sh/S1067H</a> | Filmanfang: Welt : Industrie [H n13]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1068H" rel="nofollow">Images on film h1/sh/S1068H</a> | Filmanfang: Welt : Wirtschaft, Allgemein [H n]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1069H" rel="nofollow">Images on film h1/sh/S1069H</a> | Filmanfang: Welt : Arbeiterfrage, Arbeitsverhältnisse, Allgemein [H n15]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1070H" rel="nofollow">Images on film h1/sh/S1070H</a> | Filmanfang: Welt : Gewerkschaftswesen, Arbeiterorganisationen Allgemein [H n16]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1071H" rel="nofollow">Images on film h1/sh/S1071H</a> | Filmanfang: Welt : Handel [H n18]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1072H" rel="nofollow">Images on film h1/sh/S1072H</a> | Filmanfang: Welt : Geld und Währung [H n23]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1073H" rel="nofollow">Images on film h1/sh/S1073H</a> | Filmanfang: Welt : Geld und Währung [H n23]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1074H" rel="nofollow">Images on film h1/sh/S1074H</a> | Filmanfang: Welt : Geld und Währung [H n23]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1075H" rel="nofollow">Images on film h1/sh/S1075H</a> | Filmanfang: Welt : Kreditwesen und Bankwesen [H n24]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1076H" rel="nofollow">Images on film h1/sh/S1076H</a> | Filmanfang: Welt : Eisenbahnwesen [H n30]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1077H" rel="nofollow">Images on film h1/sh/S1077H</a> | Filmanfang: Welt : Seeschiffahrt [H n32]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1078H" rel="nofollow">Images on film h1/sh/S1078H</a> | Filmanfang: Welt : Seeschiffahrt [H n32]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1079H" rel="nofollow">Images on film h1/sh/S1079H</a> | Filmanfang: Welt : Seeschiffahrt [H n32]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1080H" rel="nofollow">Images on film h1/sh/S1080H</a> | Filmanfang: Welt : Postwesen, Telegraphenwesen und Fernsprechwesen [H n34]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1081H" rel="nofollow">Images on film h1/sh/S1081H</a> | Filmanfang: Welt : Postwesen, Telegraphenwesen und Fernsprechwesen [H n34]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1082H" rel="nofollow">Images on film h1/sh/S1082H</a> | Filmanfang: Welt : Luftschiffahrt, Flugwesen, Luftverkehr, Allgemein [H n35]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1083H" rel="nofollow">Images on film h1/sh/S1083H</a> | Filmanfang: Welt : Nachrichtenwesen und Pressewesen [H n36]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1084H_1" rel="nofollow">Images on film h1/sh/S1084H_1</a> | Filmanfang: Welt : Minderheiten aus einzelnen Ländern [H o3]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1085H" rel="nofollow">Images on film h1/sh/S1085H</a> | Filmanfang: Welt : Einzelfragen politischer und wirtschaftlicher Natur Nr 8 [H q Nr 8]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1086H" rel="nofollow">Images on film h1/sh/S1086H</a> | Filmanfang: Welt : Einzelfragen politischer und wirtschaftlicher Natur Nr 31 [H q Nr 31]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1087H" rel="nofollow">Images on film h1/sh/S1087H</a> | Filmanfang: Welt : Einzelfragen politischer und wirtschaftlicher Natur Nr 504 I [H q Nr 504 I]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1088H" rel="nofollow">Images on film h1/sh/S1088H</a> | Filmanfang: Welt : Einzelfragen politischer und wirtschaftlicher Natur Nr 504 IV [H q Nr 504 IV]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1089H" rel="nofollow">Images on film h1/sh/S1089H</a> | Filmanfang: Welt : Einzelfragen politischer und wirtschaftlicher Natur Nr 506 IVf [H q Nr 506 IVf]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1090H" rel="nofollow">Images on film h1/sh/S1090H</a> | Filmanfang: Welt : Einzelfragen politischer und wirtschaftlicher Natur Nr 506 Vb [H q Nr 506 Vb]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1091H" rel="nofollow">Images on film h1/sh/S1091H</a> | Filmanfang: Welt : Einzelfragen politischer und wirtschaftlicher Natur Nr 606 Vc [H q Nr 606 Vc]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1092H" rel="nofollow">Images on film h1/sh/S1092H</a> | Filmanfang: Welt : Einzelfragen politischer und wirtschaftlicher Natur nr 509 VII [H q nr 509 VII]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1093H" rel="nofollow">Images on film h1/sh/S1093H</a> | Filmanfang: Welt : Einzelfragen politischer und wirtschaftlicher Natur Nr 512 [H q Nr 512]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1094H" rel="nofollow">Images on film h1/sh/S1094H</a> | Filmanfang: Welt : Einzelfragen politischer und wirtschaftlicher Natur Nr 524 [H q Nr 524]
+
+
+:::
+
+
+
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 77025</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2843H/0452" rel="nofollow">Images on film h2/sh/S2843H/0452</a> | Welt
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2844H" rel="nofollow">Images on film h2/sh/S2844H</a> | Filmanfang: Welt : Bevölkerungsbewegung, Bevölkerungsstatistik [H d1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2845H" rel="nofollow">Images on film h2/sh/S2845H</a> | Filmanfang: Welt : Religionswesen, Kirchen Sm [H d7 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2846H" rel="nofollow">Images on film h2/sh/S2846H</a> | Filmanfang: Welt : Medizinalwesen, Hygiene, Sanitäre Einrichtungen Sm46-50 [H e4 Sm46-50]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2847H" rel="nofollow">Images on film h2/sh/S2847H</a> | Filmanfang: Welt : Verfassung, Staatsform Sm501-502 [H f4 Sm501-502]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2848H" rel="nofollow">Images on film h2/sh/S2848H</a> | Filmanfang: Welt : Einzelne Parteien und Parteigruppen [H f5a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2849H" rel="nofollow">Images on film h2/sh/S2849H</a> | Filmanfang: Welt : Außenpolitik, Konferenzen [H g Sm20]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2850H" rel="nofollow">Images on film h2/sh/S2850H</a> | Filmanfang: Welt : Außenpolitik, Konferenzen [H g Sm20]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2851H" rel="nofollow">Images on film h2/sh/S2851H</a> | Filmanfang: Welt : Außenpolitik und politische Beziehungen zum Ausland, Allgemein Sm501 [H g Sm501]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2852H" rel="nofollow">Images on film h2/sh/S2852H</a> | Filmanfang: Welt : Staatliche Wirtschaftspropaganda, Ausstellungen und Messen, Allgemein [H g4 Sm3.II]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2853H" rel="nofollow">Images on film h2/sh/S2853H</a> | Filmanfang: Welt : Handelspolitik u. allg. Wirtschaftspolitik, Konferenzen [H g4 Sm20]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2854H" rel="nofollow">Images on film h2/sh/S2854H</a> | Filmanfang: Welt : Handelspolitik u. allg. Wirtschaftspolitik, Konferenzen [H g4 Sm20]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2855H" rel="nofollow">Images on film h2/sh/S2855H</a> | Filmanfang: Welt : Verwaltung, Allgemein Sm [H h Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2856H" rel="nofollow">Images on film h2/sh/S2856H</a> | Filmanfang: Welt : Wissenschaft und Bildungswesen, Allgemein Sm502 [H k Sm502]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2857H" rel="nofollow">Images on film h2/sh/S2857H</a> | Filmanfang: Welt : Rotes Kreuz [H l5 Sm1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2858H" rel="nofollow">Images on film h2/sh/S2858H</a> | Filmanfang: Welt : Munition [H l6 Sm1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2859H" rel="nofollow">Images on film h2/sh/S2859H</a> | Filmanfang: Welt : Marktforschung und Absatzsteigerungsmethoden, Allgemein [H n Sm12]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2860H" rel="nofollow">Images on film h2/sh/S2860H</a> | Filmanfang: Welt : Buchführung und Bilanzierung, Allgemein [H n Sm15]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2861H" rel="nofollow">Images on film h2/sh/S2861H</a> | Filmanfang: Welt : Verpackungswesen [H n Sm41]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2862H" rel="nofollow">Images on film h2/sh/S2862H</a> | Filmanfang: Welt : Atomenergie für friedliche Zwecke [H n Sm46.IIa]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2863H" rel="nofollow">Images on film h2/sh/S2863H</a> | Filmanfang: Welt : Wirtschaft, Technik, Allgemein [H n Sm60]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2864H" rel="nofollow">Images on film h2/sh/S2864H</a> | Filmanfang: Welt : Sicherung und Überwachung der Volksernährung [H n1 Sm19]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2865H" rel="nofollow">Images on film h2/sh/S2865H</a> | Filmanfang: Welt : Berichte über die wirtschaftliche Lage [H n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2866H" rel="nofollow">Images on film h2/sh/S2866H</a> | Filmanfang: Welt : Übersichten der Preisentwicklung, Großhandelspreise [H n2 Sm11.IV]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2867H" rel="nofollow">Images on film h2/sh/S2867H</a> | Filmanfang: Welt : Landwirtschaft Sm8.I-8 [H n4 Sm8.I-8]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2868H" rel="nofollow">Images on film h2/sh/S2868H</a> | Filmanfang: Welt : Industrie Sm2-70 [H n13 Sm2-70]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2869H" rel="nofollow">Images on film h2/sh/S2869H</a> | Filmanfang: Welt : Industrie Sm502.I [H n13 Sm502.I]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2870H" rel="nofollow">Images on film h2/sh/S2870H</a> | Filmanfang: Welt : Industrie Sm502.II [H n13 Sm502.II]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2871H" rel="nofollow">Images on film h2/sh/S2871H</a> | Filmanfang: Welt : Industrie Sm502.III [H n13 Sm502.III]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2872H" rel="nofollow">Images on film h2/sh/S2872H</a> | Filmanfang: Welt : Industrie Sm502 [H n13 Sm502]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2873H" rel="nofollow">Images on film h2/sh/S2873H</a> | Filmanfang: Welt : Schiffbau, Statistik [H n13a Sm6.II]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2874H" rel="nofollow">Images on film h2/sh/S2874H</a> | Filmanfang: Welt : Arbeiterfrage, Arbeitsverhältnisse, Allgemein Sm501 [H n15 Sm501]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2875H" rel="nofollow">Images on film h2/sh/S2875H</a> | Filmanfang: Welt : Handel [H n18]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2876H" rel="nofollow">Images on film h2/sh/S2876H</a> | Filmanfang: Welt : Absatzmöglichkeiten im Handel [H n18 Sm4]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2877H" rel="nofollow">Images on film h2/sh/S2877H</a> | Filmanfang: Welt : Geld und Währung [H n23]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2878H" rel="nofollow">Images on film h2/sh/S2878H</a> | Filmanfang: Welt : Schutz und Stützung der Währung [H n23 Sm3]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2879H" rel="nofollow">Images on film h2/sh/S2879H</a> | Filmanfang: Welt : Kreditwesen und Bankwesen Sm1-17 [H n24 Sm1-17]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2880H" rel="nofollow">Images on film h2/sh/S2880H</a> | Filmanfang: Welt : Verkehrswesen, Allgemein Sm5.I-60 [H n28 Sm5.I-60]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2881H" rel="nofollow">Images on film h2/sh/S2881H</a> | Filmanfang: Welt : Seeschiffahrt Sm2-6 [H n32 Sm2-6]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2882H" rel="nofollow">Images on film h2/sh/S2882H</a> | Filmanfang: Welt : Seeschiffahrt, Frachtfragen [H n32 Sm22]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2883H" rel="nofollow">Images on film h2/sh/S2883H</a> | Filmanfang: Welt : Tankschiffahrt, Allgemein [H n32 Sm33]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2884H" rel="nofollow">Images on film h2/sh/S2884H</a> | Filmanfang: Welt : Luftschiffahrt, Flugwesen, Luftverkehr, Allgemein [H n35]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2885H" rel="nofollow">Images on film h2/sh/S2885H</a> | Filmanfang: Welt : Luftfahrttarife (für Fluggüter), Allgemein [H n35 Sm16]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2886H" rel="nofollow">Images on film h2/sh/S2886H</a> | Filmanfang: Welt : Luftschiffahrt, Flugwesen, Luftverkehr, Allgemein Sm502.I [H n35 Sm502.I]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2887H" rel="nofollow">Images on film h2/sh/S2887H</a> | Filmanfang: Welt : Luftschiffahrt, Flugwesen, Luftverkehr, Allgemein Sm504 [H n35 Sm504]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2888H" rel="nofollow">Images on film h2/sh/S2888H</a> | Filmanfang: Welt : Einwanderung und Einwanderungspolitik [H p3]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2889H" rel="nofollow">Images on film h2/sh/S2889H</a> | Filmanfang: Welt : Einzelfragen politischer und wirtschaftlicher Natur Nr.513 [H q Nr.513]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2890H" rel="nofollow">Images on film h2/sh/S2890H</a> | Filmanfang: Welt : Einzelfragen politischer und wirtschaftlicher Natur Nr.514 [H q Nr.514]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2891H" rel="nofollow">Images on film h2/sh/S2891H</a> | Filmanfang: Welt : Einzelfragen politischer und wirtschaftlicher Natur Nr.514II [H q Nr.514II]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2892H" rel="nofollow">Images on film h2/sh/S2892H</a> | Filmanfang: Welt : Einzelfragen politischer und wirtschaftlicher Natur Nr.514III [H q Nr.514III]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2893H" rel="nofollow">Images on film h2/sh/S2893H</a> | Filmanfang: Welt : Einzelfragen politischer und wirtschaftlicher Natur Nr.514V [H q Nr.514V]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2894H" rel="nofollow">Images on film h2/sh/S2894H</a> | Filmanfang: Welt : Einzelfragen politischer und wirtschaftlicher Natur Nr.516 [H q Nr.516]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2895H" rel="nofollow">Images on film h2/sh/S2895H</a> | Filmanfang: Welt : Einzelfragen politischer und wirtschaftlicher Natur Nr.516 [H q Nr.516]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2896H" rel="nofollow">Images on film h2/sh/S2896H</a> | Filmanfang: Welt : Einzelfragen politischer und wirtschaftlicher Natur Nr.522 [H q Nr.522]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2897H" rel="nofollow">Images on film h2/sh/S2897H</a> | Filmanfang: Welt : Einzelfragen politischer und wirtschaftlicher Natur Nr.535I [H q Nr.535I]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2898H" rel="nofollow">Images on film h2/sh/S2898H</a> | Filmanfang: Welt : Einzelfragen politischer und wirtschaftlicher Natur Nr.535I [H q Nr.535I]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2899H" rel="nofollow">Images on film h2/sh/S2899H</a> | Filmanfang: Welt : Einzelfragen politischer und wirtschaftlicher Natur Nr.535II [H q Nr.535II]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2900H" rel="nofollow">Images on film h2/sh/S2900H</a> | Filmanfang: Welt : Einzelfragen politischer und wirtschaftlicher Natur Nr.536I [H q Nr.536I]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2901H" rel="nofollow">Images on film h2/sh/S2901H</a> | Filmanfang: Welt : Einzelfragen politischer und wirtschaftlicher Natur Nr.536I [H q Nr.536I]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2902H" rel="nofollow">Images on film h2/sh/S2902H</a> | Filmanfang: Welt : Einzelfragen politischer und wirtschaftlicher Natur Nr.536II [H q Nr.536II]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2903H" rel="nofollow">Images on film h2/sh/S2903H</a> | Filmanfang: Welt : Einzelfragen politischer und wirtschaftlicher Natur Nr.537I [H q Nr.537I]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2904H" rel="nofollow">Images on film h2/sh/S2904H</a> | Filmanfang: Welt : Einzelfragen politischer und wirtschaftlicher Natur Nr.537I [H q Nr.537I]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2905H" rel="nofollow">Images on film h2/sh/S2905H</a> | Filmanfang: Welt : Einzelfragen politischer und wirtschaftlicher Natur Nr.537II (A-Z) [H q Nr.537II (A-Z)]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2906H" rel="nofollow">Images on film h2/sh/S2906H</a> | Filmanfang: Welt : Einzelfragen politischer und wirtschaftlicher Natur Nr.538I [H q Nr.538I]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2907H" rel="nofollow">Images on film h2/sh/S2907H</a> | Filmanfang: Welt : Einzelfragen politischer und wirtschaftlicher Natur Nr.538II A-J [H q Nr.538II A-J]
+
+
+:::
 
 
 
@@ -90,8 +251,27 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
-In total 67 folders, 8274 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_wa.de.html) (in German).
+
+
+
+
+
+## Commodities/wares archives folders
+
+
+
+
+
+
+
+
+
+
+
+In total 67 folders (until 1949), 8277 documents
+- folders incomplete.  For material not published as folders, please check the
+digitized micro-films of the [1st filming](/film/h1_wa.de.html) and [2nd
+filming](/film/h2_wa.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -161,7 +341,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### E
 
-- Eel [**&nearr;**](../../../ware/i/141941/about.en.html "Eel (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW07-Mt01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141941,141728" title="about: Eel : World" target="_blank">34 documents</a>) ([folder](../../../../folder/wa/1419xx/141941/1417xx/141728/about.en.html))
+- Eel [**&nearr;**](../../../ware/i/141941/about.en.html "Eel (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW07-Mt01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141941,141728" title="about: Eel : World" target="_blank">37 documents</a>) ([folder](../../../../folder/wa/1419xx/141941/1417xx/141728/about.en.html))
 - Ethyl alcohol [**&nearr;**](../../../ware/i/141946/about.en.html "Ethyl alcohol (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13.02-Ks01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141946,141728" title="about: Ethyl alcohol : World" target="_blank">22 documents</a>) ([folder](../../../../folder/wa/1419xx/141946/1417xx/141728/about.en.html))
 
 ### F

@@ -1,6 +1,6 @@
 ---
 title: "B77 Niederländisch-Borneo"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -8,17 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B77]{.gray}&#8201; Niederländisch-Borneo
+# [B77]{.gray}&#8201; Niederländisch-Borneo &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q91808226)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141227`</div>
-
-
-
-
-
-
-
-## Warenarchiv
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141227`</div>
 
 
 
@@ -26,9 +18,21 @@ fn-stub: about
 
 
 
+## Warenarchiv Mappen
 
-Insgesamt 2 Mappen, 2 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+
+
+
+
+Insgesamt 2 Mappen (bis 1949), 2 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

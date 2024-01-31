@@ -1,6 +1,6 @@
 ---
 title: "n2 Report on the economic situation"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n2]{.gray}&#8201; Report on the economic situation &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428018)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144972`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144972`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 65 folders, 5933 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 65 folders, 5993 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -33,7 +34,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A1 Europe [**&nearr;**](../../../geo/i/140892/about.en.html "Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A1 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144972" title="about: Europe : Report on the economic situation" target="_blank">176 documents</a>) ([folder](../../../../folder/sh/1408xx/140892/1449xx/144972/about.en.html))
+- A1 Europe [**&nearr;**](../../../geo/i/140892/about.en.html "Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A1 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144972" title="about: Europe : Report on the economic situation" target="_blank">177 documents</a>) ([folder](../../../../folder/sh/1408xx/140892/1449xx/144972/about.en.html))
 - A1a Baltic region [**&nearr;**](../../../geo/i/140894/about.en.html "Baltic region (all folders)") [**&uarr;**](../../../geo/about.en.html#A1a "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140894,144972" title="about: Baltic region : Report on the economic situation" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1408xx/140894/1449xx/144972/about.en.html))
 - A2 Central Europe [**&nearr;**](../../../geo/i/140895/about.en.html "Central Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A2 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140895,144972" title="about: Central Europe : Report on the economic situation" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1408xx/140895/1449xx/144972/about.en.html))
 - A3 Eastern Europe [**&nearr;**](../../../geo/i/140896/about.en.html "Eastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A3 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140896,144972" title="about: Eastern Europe : Report on the economic situation" target="_blank">11 documents</a>) ([folder](../../../../folder/sh/1408xx/140896/1449xx/144972/about.en.html))
@@ -43,7 +44,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,144972" title="about: Southeastern Europe : Report on the economic situation" target="_blank">91 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1449xx/144972/about.en.html))
 - A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,144972" title="about: Orient : Report on the economic situation" target="_blank">37 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1449xx/144972/about.en.html))
 - A8 Russian peripheral countries [**&nearr;**](../../../geo/i/140904/about.en.html "Russian peripheral countries (all folders)") [**&uarr;**](../../../geo/about.en.html#A8 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140904,144972" title="about: Russian peripheral countries : Report on the economic situation" target="_blank">6 documents</a>) ([folder](../../../../folder/sh/1409xx/140904/1449xx/144972/about.en.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144972" title="about: Hamburg : Report on the economic situation" target="_blank">199 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1449xx/144972/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144972" title="about: Hamburg : Report on the economic situation" target="_blank">258 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1449xx/144972/about.en.html))
 - A10n(1) Upper Silesia (German-Polish border region) [**&nearr;**](../../../geo/i/140948/about.en.html "Upper Silesia (German-Polish border region) (all folders)") [**&uarr;**](../../../geo/about.en.html#A10n(1) "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140948,144972" title="about: Upper Silesia (German-Polish border region) : Report on the economic situation" target="_blank">18 documents</a>) ([folder](../../../../folder/sh/1409xx/140948/1449xx/144972/about.en.html))
 - A10p East Upper Silesia [**&nearr;**](../../../geo/i/140951/about.en.html "East Upper Silesia (all folders)") [**&uarr;**](../../../geo/about.en.html#A10p "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140951,144972" title="about: East Upper Silesia : Report on the economic situation" target="_blank">47 documents</a>) ([folder](../../../../folder/sh/1409xx/140951/1449xx/144972/about.en.html))
 - A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140960,144972" title="about: German imperial colonies : Report on the economic situation" target="_blank">60 documents</a>) ([folder](../../../../folder/sh/1409xx/140960/1449xx/144972/about.en.html))
@@ -110,6 +111,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144972" title="about: Argentina : Report on the economic situation" target="_blank">1036 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1449xx/144972/about.en.html))
 - E101 Surinam [**&nearr;**](../../../geo/i/141699/about.en.html "Surinam (all folders)") [**&uarr;**](../../../geo/about.en.html#E101 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141699,144972" title="about: Surinam : Report on the economic situation" target="_blank">60 documents</a>) ([folder](../../../../folder/sh/1416xx/141699/1449xx/144972/about.en.html))
 - E102 British Guiana [**&nearr;**](../../../geo/i/141700/about.en.html "British Guiana (all folders)") [**&uarr;**](../../../geo/about.en.html#E102 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141700,144972" title="about: British Guiana : Report on the economic situation" target="_blank">45 documents</a>) ([folder](../../../../folder/sh/1417xx/141700/1449xx/144972/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

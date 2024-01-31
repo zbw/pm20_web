@@ -1,6 +1,6 @@
 ---
 title: "n28 Sm2.I Reiseverkehr, Fremdenverkehr, Allgemein"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n28 Sm2.I]{.gray}&#8201; Reiseverkehr, Fremdenverkehr, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711088)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145511`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145511`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 11 Mappen, 158 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 11 Mappen, 191 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -35,8 +36,8 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - A1a Ostseeländer [**&nearr;**](../../../geo/i/140894/about.de.html "Ostseeländer (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1a "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140894,145511" title="über: Ostseeländer : Reiseverkehr, Fremdenverkehr, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140894/1455xx/145511/about.de.html))
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145511" title="über: Südosteuropa : Reiseverkehr, Fremdenverkehr, Allgemein" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1455xx/145511/about.de.html))
-- A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,145511" title="über: Orient : Reiseverkehr, Fremdenverkehr, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1455xx/145511/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145511" title="über: Hamburg : Reiseverkehr, Fremdenverkehr, Allgemein" target="_blank">39 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1455xx/145511/about.de.html))
+- A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,145511" title="über: Orient : Reiseverkehr, Fremdenverkehr, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1455xx/145511/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145511" title="über: Hamburg : Reiseverkehr, Fremdenverkehr, Allgemein" target="_blank">71 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1455xx/145511/about.de.html))
 - A39 Liechtenstein [**&nearr;**](../../../geo/i/141016/about.de.html "Liechtenstein (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A39 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141016,145511" title="über: Liechtenstein : Reiseverkehr, Fremdenverkehr, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141016/1455xx/145511/about.de.html))
 
 ### Asien
@@ -53,6 +54,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145511" title="über: Argentinien : Reiseverkehr, Fremdenverkehr, Allgemein" target="_blank">75 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1455xx/145511/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

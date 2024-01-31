@@ -1,6 +1,6 @@
 ---
 title: "A37 Monaco"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [A37]{.gray}&#8201; Monaco &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q235) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Monaco)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141013`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141013`</div>
 
 
 
@@ -18,14 +18,17 @@ fn-stub: about
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
 
 
 
 
 
 
-Insgesamt 11 Mappen, 120 Dokumente - Mappen komplett.
+
+
+
+Insgesamt 11 Mappen, 120 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -68,6 +71,37 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
   - n Sm28 Spielbanken, Private Lotterien, Wettunternehmungen, Allgemein [**&nearr;**](../../../subject/i/145824/about.de.html "Spielbanken, Private Lotterien, Wettunternehmungen, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n_Sm28 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141013,145824" title="über: Monaco : Spielbanken, Private Lotterien, Wettunternehmungen, Allgemein" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141013/1458xx/145824/about.de.html))
 - n2 Berichte über die wirtschaftliche Lage [**&nearr;**](../../../subject/i/144972/about.de.html "Berichte über die wirtschaftliche Lage (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n2 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141013,144972" title="über: Monaco : Berichte über die wirtschaftliche Lage" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141013/1449xx/144972/about.de.html))
 - n23 Geld und Währung [**&nearr;**](../../../subject/i/145305/about.de.html "Geld und Währung (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n23 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141013,145305" title="über: Monaco : Geld und Währung" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141013/1453xx/145305/about.de.html))
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 121</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2527H/0968" rel="nofollow">Bilder auf Film h2/sh/S2527H/0968</a> | Monaco
+
+
+:::
+
+
+
+
+
+
+
 
 
 

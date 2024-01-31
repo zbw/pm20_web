@@ -1,6 +1,6 @@
 ---
 title: "Anis"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Anis &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q28692) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Anis)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141976`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/141976`</div>
 
 
 
@@ -18,12 +18,14 @@ fn-stub: about
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 10 Mappen, 32 Dokumente - Mappen komplett.
+
+
+Insgesamt 10 Mappen, 32 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -48,6 +50,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Afrika
 
 - C34 Französisch-Sudan [**&nearr;**](../../../geo/i/141370/about.de.html "Französisch-Sudan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C34 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141976,141370" title="über: Anis : Französisch-Sudan" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141976/1413xx/141370/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

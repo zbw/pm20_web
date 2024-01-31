@@ -1,6 +1,6 @@
 ---
 title: "i1 Sm1 Einzelne Gerichte"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [i1 Sm1]{.gray}&#8201; Einzelne Gerichte &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700136)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144698`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144698`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 4 Mappen, 116 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 4 Mappen, 117 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -33,7 +34,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 ### Europa
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144698" title="über: Hamburg : Einzelne Gerichte" target="_blank">113 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1446xx/144698/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144698" title="über: Hamburg : Einzelne Gerichte" target="_blank">114 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1446xx/144698/about.de.html))
 
 ### Asien
 
@@ -43,6 +44,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Afrika
 
 - C126 Eritrea [**&nearr;**](../../../geo/i/141483/about.de.html "Eritrea (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C126 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141483,144698" title="über: Eritrea : Einzelne Gerichte" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141483/1446xx/144698/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

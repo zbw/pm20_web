@@ -1,6 +1,6 @@
 ---
 title: "n2 Sm11.II Übersichten der Preisentwicklung, Kosten der Lebenshaltung"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n2 Sm11.II]{.gray}&#8201; Übersichten der Preisentwicklung, Kosten der Lebenshaltung &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710498)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145003`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145003`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 27 Mappen, 497 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 27 Mappen, 523 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -35,7 +36,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145003" title="über: Europa : Übersichten der Preisentwicklung, Kosten der Lebenshaltung" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1450xx/145003/about.de.html))
 - A4 Westeuropa [**&nearr;**](../../../geo/i/140897/about.de.html "Westeuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A4 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140897,145003" title="über: Westeuropa : Übersichten der Preisentwicklung, Kosten der Lebenshaltung" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140897/1450xx/145003/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145003" title="über: Hamburg : Übersichten der Preisentwicklung, Kosten der Lebenshaltung" target="_blank">186 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1450xx/145003/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145003" title="über: Hamburg : Übersichten der Preisentwicklung, Kosten der Lebenshaltung" target="_blank">212 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1450xx/145003/about.de.html))
 
 ### Asien
 
@@ -72,6 +73,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145003" title="über: Argentinien : Übersichten der Preisentwicklung, Kosten der Lebenshaltung" target="_blank">50 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1450xx/145003/about.de.html))
 - E101 Niederländisch-Guayana [**&nearr;**](../../../geo/i/141699/about.de.html "Niederländisch-Guayana (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E101 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141699,145003" title="über: Niederländisch-Guayana : Übersichten der Preisentwicklung, Kosten der Lebenshaltung" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141699/1450xx/145003/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

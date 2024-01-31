@@ -1,6 +1,6 @@
 ---
 title: "n13a Sm6.I Schiffbau, Allgemein"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n13a Sm6.I]{.gray}&#8201; Schiffbau, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710648)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145122`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145122`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 8 Mappen, 230 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 8 Mappen, 402 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -33,7 +34,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 ### Europa
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145122" title="über: Hamburg : Schiffbau, Allgemein" target="_blank">95 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1451xx/145122/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145122" title="über: Hamburg : Schiffbau, Allgemein" target="_blank">267 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1451xx/145122/about.de.html))
 
 ### Asien
 
@@ -50,6 +51,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145122" title="über: Argentinien : Schiffbau, Allgemein" target="_blank">43 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1451xx/145122/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

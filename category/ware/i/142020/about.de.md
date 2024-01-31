@@ -1,6 +1,6 @@
 ---
 title: "Automat"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Automat &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q211584) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Verkaufsautomat)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142020`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142020`</div>
 
 
 
@@ -18,12 +18,14 @@ fn-stub: about
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 27 Mappen, 145 Dokumente - Mappen komplett.
+
+
+Insgesamt 27 Mappen, 145 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -71,6 +73,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - E46 Trinidad und Tobago [**&nearr;**](../../../geo/i/141667/about.de.html "Trinidad und Tobago (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E46 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142020,141667" title="über: Automat : Trinidad und Tobago" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142020/1416xx/141667/about.de.html))
 - E79 Peru [**&nearr;**](../../../geo/i/141689/about.de.html "Peru (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E79 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142020,141689" title="über: Automat : Peru" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142020/1416xx/141689/about.de.html))
 - E97 Brasilien [**&nearr;**](../../../geo/i/141697/about.de.html "Brasilien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E97 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142020,141697" title="über: Automat : Brasilien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142020/1416xx/141697/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

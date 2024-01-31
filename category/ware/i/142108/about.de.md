@@ -1,6 +1,6 @@
 ---
 title: "Benzin"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Benzin &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q39558) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Motorenbenzin)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142108`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142108`</div>
 
 
 
@@ -18,12 +18,14 @@ fn-stub: about
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 110 Mappen, 4960 Dokumente - Mappen komplett.
+
+
+Insgesamt 110 Mappen, 4960 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -53,7 +55,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - A40b Österreich [**&nearr;**](../../../geo/i/141731/about.de.html "Österreich (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40b "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141731" title="über: Benzin : Österreich" target="_blank">277 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1417xx/141731/about.de.html))
 - A40c Tschechoslowakei [**&nearr;**](../../../geo/i/141022/about.de.html "Tschechoslowakei (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40c "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141022" title="über: Benzin : Tschechoslowakei" target="_blank">74 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1410xx/141022/about.de.html))
 - A40d Ungarn [**&nearr;**](../../../geo/i/141025/about.de.html "Ungarn (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40d "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141025" title="über: Benzin : Ungarn" target="_blank">43 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1410xx/141025/about.de.html))
-- A40e Südslawien [**&nearr;**](../../../geo/i/141028/about.de.html "Südslawien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40e "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141028" title="über: Benzin : Südslawien" target="_blank">35 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1410xx/141028/about.de.html))
+- A40e Jugoslawien (bis 1945 Südslawien) [**&nearr;**](../../../geo/i/141028/about.de.html "Jugoslawien (bis 1945 Südslawien) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40e "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141028" title="über: Benzin : Jugoslawien (bis 1945 Südslawien)" target="_blank">35 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1410xx/141028/about.de.html))
 - A40f Slowakei [**&nearr;**](../../../geo/i/141029/about.de.html "Slowakei (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40f "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141029" title="über: Benzin : Slowakei" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1410xx/141029/about.de.html))
 - A40g Kroatien [**&nearr;**](../../../geo/i/141030/about.de.html "Kroatien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40g "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141030" title="über: Benzin : Kroatien" target="_blank">11 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1410xx/141030/about.de.html))
 - A45 Griechenland [**&nearr;**](../../../geo/i/141037/about.de.html "Griechenland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A45 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141037" title="über: Benzin : Griechenland" target="_blank">39 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1410xx/141037/about.de.html))
@@ -157,6 +159,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Welt
 
 - H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141728" title="über: Benzin : Welt" target="_blank">265 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142108/1417xx/141728/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

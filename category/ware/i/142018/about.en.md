@@ -1,6 +1,6 @@
 ---
 title: "Conditioning agent"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Conditioning agent &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q5159287) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Conditioner_(chemistry))
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142018`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142018`</div>
 
 
 
@@ -18,13 +18,15 @@ fn-stub: about
 
 
 
-## Commodities/wares archives
+## Commodities/wares archives folders
 
 
 
 
 
-In total 4 folders, 25 documents - folders complete.
+
+
+In total 4 folders, 25 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -36,6 +38,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A22 United Kingdom [**&nearr;**](../../../geo/i/140974/about.en.html "United Kingdom (all folders)") [**&uarr;**](../../../geo/about.en.html#A22 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142018,140974" title="about: Conditioning agent : United Kingdom" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1420xx/142018/1409xx/140974/about.en.html))
 - A35 Italy [**&nearr;**](../../../geo/i/141008/about.en.html "Italy (all folders)") [**&uarr;**](../../../geo/about.en.html#A35 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142018,141008" title="about: Conditioning agent : Italy" target="_blank">11 documents</a>) ([folder](../../../../folder/wa/1420xx/142018/1410xx/141008/about.en.html))
 - A50 USSR [**&nearr;**](../../../geo/i/141043/about.en.html "USSR (all folders)") [**&uarr;**](../../../geo/about.en.html#A50 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142018,141043" title="about: Conditioning agent : USSR" target="_blank">10 documents</a>) ([folder](../../../../folder/wa/1420xx/142018/1410xx/141043/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

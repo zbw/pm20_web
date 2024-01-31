@@ -1,6 +1,6 @@
 ---
 title: "C80 Belgian Congo"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,18 +10,21 @@ fn-stub: about
 
 # [C80]{.gray}&#8201; Belgian Congo &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q213510) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Belgian_Congo)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141444`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141444`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
+[Subject archives](#subject-archives-folders) &#160; [Commodities/wares archives](#commoditieswares-archives-folders)
 
 
 
 
-## Subject archives
+## Subject archives folders
+
+
+
 
 
 
@@ -48,11 +51,58 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
+<a id="filmsections" />
+
+## Sections of digitized microfilms (1st filming 1908-1949)
+
+<p>For intellectual property law reasons accessible only from the European Union legal area and from the ZBW reading room.</p>
+
+
+
+<p>Total number of images: 6332</p>
 
 
 
 
-## Commodities/wares archives
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0800H/0137" rel="nofollow">Images on film h1/sh/S0800H/0137</a> | Belgisch-Kongo
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0801H" rel="nofollow">Images on film h1/sh/S0801H</a> | Filmanfang: Belgisch-Kongo : Geschichte, Politik, Allgemein [C80 f]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0802H" rel="nofollow">Images on film h1/sh/S0802H</a> | Filmanfang: Belgisch-Kongo : Strafrecht [C80 i3]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0803H" rel="nofollow">Images on film h1/sh/S0803H</a> | Filmanfang: Belgisch-Kongo : Berichte über die wirtschaftliche Lage [C80 n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0804H" rel="nofollow">Images on film h1/sh/S0804H</a> | Filmanfang: Belgisch-Kongo : Handel [C80 n18]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0805H" rel="nofollow">Images on film h1/sh/S0805H</a> | Filmanfang: Belgisch-Kongo : Siedlungsmöglichkeiten und Einwanderungsmöglichkeiten [C80 p1]
+
+
+:::
+
+
+
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 3455</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2710H/0537" rel="nofollow">Images on film h2/sh/S2710H/0537</a> | Belgisch-Kongo
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2711H" rel="nofollow">Images on film h2/sh/S2711H</a> | Filmanfang: Belgisch-Kongo : Geschichtliche Vorgänge [C80 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2712H" rel="nofollow">Images on film h2/sh/S2712H</a> | Filmanfang: Belgisch-Kongo : m-n Sm [C80 m-n Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2713H" rel="nofollow">Images on film h2/sh/S2713H</a> | Filmanfang: Belgisch-Kongo : n3-13e [C80 n3-13e]
+
+
+:::
 
 
 
@@ -62,8 +112,27 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
-In total 15 folders, 337 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_wa.de.html) (in German).
+
+
+
+
+
+## Commodities/wares archives folders
+
+
+
+
+
+
+
+
+
+
+
+In total 15 folders (until 1949), 337 documents
+- folders incomplete.  For material not published as folders, please check the
+digitized micro-films of the [1st filming](/film/h1_wa.de.html) and [2nd
+filming](/film/h2_wa.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 

@@ -1,6 +1,6 @@
 ---
 title: "n30 Sm1 Eisenbahnwesen, Finanzielles. Lage und Statistik der Privat-Eisenbahnunternehmungen"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n30 Sm1]{.gray}&#8201; Eisenbahnwesen, Finanzielles. Lage und Statistik der Privat-Eisenbahnunternehmungen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711112)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145532`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145532`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 18 Mappen, 531 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 18 Mappen, 531 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -60,6 +61,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145532" title="über: Argentinien : Eisenbahnwesen, Finanzielles. Lage und Statistik der Privat-Eisenbahnunternehmungen" target="_blank">309 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1455xx/145532/about.de.html))
 - E101 Niederländisch-Guayana [**&nearr;**](../../../geo/i/141699/about.de.html "Niederländisch-Guayana (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E101 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141699,145532" title="über: Niederländisch-Guayana : Eisenbahnwesen, Finanzielles. Lage und Statistik der Privat-Eisenbahnunternehmungen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141699/1455xx/145532/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

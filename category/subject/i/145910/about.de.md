@@ -1,6 +1,6 @@
 ---
 title: "o1 Sm1 (alt) Deutsche Kirchen, Schulen und Vereine... , Allgemein"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [o1 Sm1 (alt)]{.gray}&#8201; Deutsche Kirchen, Schulen und Vereine... , Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711342)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145910`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145910`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 4 Mappen, 113 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 4 Mappen, 113 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -46,6 +47,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Welt
 
 - H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141728,145910" title="über: Welt : Deutsche Kirchen, Schulen und Vereine... , Allgemein" target="_blank">97 Dokumente</a>) ([Mappe](../../../../folder/sh/1417xx/141728/1459xx/145910/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

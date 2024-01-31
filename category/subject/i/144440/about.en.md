@@ -1,6 +1,6 @@
 ---
 title: "f6 Negotiations of parliamentary and political bodies"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [f6]{.gray}&#8201; Negotiations of parliamentary and political bodies &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427870)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144440`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144440`</div>
 
 
 
@@ -18,19 +18,20 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 10 folders, 826 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 10 folders, 894 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144440" title="about: Hamburg : Negotiations of parliamentary and political bodies" target="_blank">188 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1444xx/144440/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144440" title="about: Hamburg : Negotiations of parliamentary and political bodies" target="_blank">256 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1444xx/144440/about.en.html))
 
 ### Asia
 
@@ -49,6 +50,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 - E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144440" title="about: Argentina : Negotiations of parliamentary and political bodies" target="_blank">111 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1444xx/144440/about.en.html))
 - E95 Uruguay [**&nearr;**](../../../geo/i/141695/about.en.html "Uruguay (all folders)") [**&uarr;**](../../../geo/about.en.html#E95 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141695,144440" title="about: Uruguay : Negotiations of parliamentary and political bodies" target="_blank">112 documents</a>) ([folder](../../../../folder/sh/1416xx/141695/1444xx/144440/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

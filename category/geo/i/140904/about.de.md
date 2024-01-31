@@ -1,6 +1,6 @@
 ---
 title: "A8 Russische Randstaaten"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [A8]{.gray}&#8201; Russische Randstaaten &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q90303093)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140904`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/140904`</div>
 
 <div class="hint">
 Scope Note: Baltische Staaten, Litauen, Polen, Finnland. Aus dem ehemaligen zarist. Russland neu entstandene Staaten (bis 1.1.1940)
@@ -20,23 +20,22 @@ Scope Note: Baltische Staaten, Litauen, Polen, Finnland. Aus dem ehemaligen zari
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
 
 
 
 
 
 
-Insgesamt 33 Mappen, 254 Dokumente - Mappen komplett.
+
+
+
+Insgesamt 32 Mappen, 254 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
 
 
-
-### Bevölkerung und Bevölkerungspolitik
-
-- d7 Religionswesen, Kirchen [**&nearr;**](../../../subject/i/144241/about.de.html "Religionswesen, Kirchen (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#d7 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140904,144241" title="über: Russische Randstaaten : Religionswesen, Kirchen" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140904/1442xx/144241/about.de.html))
 
 ### Geschichte, Politik
 
@@ -89,6 +88,14 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Fremdstämmige und einzelne Minderheiten
 
 - o3 Minderheiten aus einzelnen Ländern [**&nearr;**](../../../subject/i/182220/about.de.html "Minderheiten aus einzelnen Ländern (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#o3 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140904,182220" title="über: Russische Randstaaten : Minderheiten aus einzelnen Ländern" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140904/1822xx/182220/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
 
 
 

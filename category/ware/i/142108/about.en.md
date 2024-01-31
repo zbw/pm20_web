@@ -1,6 +1,6 @@
 ---
 title: "Petrol"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Petrol &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q39558) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Gasoline)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142108`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142108`</div>
 
 
 
@@ -18,13 +18,15 @@ fn-stub: about
 
 
 
-## Commodities/wares archives
+## Commodities/wares archives folders
 
 
 
 
 
-In total 110 folders, 4960 documents - folders complete.
+
+
+In total 110 folders, 4960 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -53,7 +55,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A40b Austria [**&nearr;**](../../../geo/i/141731/about.en.html "Austria (all folders)") [**&uarr;**](../../../geo/about.en.html#A40b "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141731" title="about: Petrol : Austria" target="_blank">277 documents</a>) ([folder](../../../../folder/wa/1421xx/142108/1417xx/141731/about.en.html))
 - A40c Czechoslovakia [**&nearr;**](../../../geo/i/141022/about.en.html "Czechoslovakia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40c "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141022" title="about: Petrol : Czechoslovakia" target="_blank">74 documents</a>) ([folder](../../../../folder/wa/1421xx/142108/1410xx/141022/about.en.html))
 - A40d Hungary [**&nearr;**](../../../geo/i/141025/about.en.html "Hungary (all folders)") [**&uarr;**](../../../geo/about.en.html#A40d "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141025" title="about: Petrol : Hungary" target="_blank">43 documents</a>) ([folder](../../../../folder/wa/1421xx/142108/1410xx/141025/about.en.html))
-- A40e Kingdom of Yugoslavia [**&nearr;**](../../../geo/i/141028/about.en.html "Kingdom of Yugoslavia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40e "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141028" title="about: Petrol : Kingdom of Yugoslavia" target="_blank">35 documents</a>) ([folder](../../../../folder/wa/1421xx/142108/1410xx/141028/about.en.html))
+- A40e (Kingdom of) Yugoslavia [**&nearr;**](../../../geo/i/141028/about.en.html "(Kingdom of) Yugoslavia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40e "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141028" title="about: Petrol : (Kingdom of) Yugoslavia" target="_blank">35 documents</a>) ([folder](../../../../folder/wa/1421xx/142108/1410xx/141028/about.en.html))
 - A40f Slovakia [**&nearr;**](../../../geo/i/141029/about.en.html "Slovakia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40f "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141029" title="about: Petrol : Slovakia" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1421xx/142108/1410xx/141029/about.en.html))
 - A40g Croatia [**&nearr;**](../../../geo/i/141030/about.en.html "Croatia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40g "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141030" title="about: Petrol : Croatia" target="_blank">11 documents</a>) ([folder](../../../../folder/wa/1421xx/142108/1410xx/141030/about.en.html))
 - A45 Greece [**&nearr;**](../../../geo/i/141037/about.en.html "Greece (all folders)") [**&uarr;**](../../../geo/about.en.html#A45 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141037" title="about: Petrol : Greece" target="_blank">39 documents</a>) ([folder](../../../../folder/wa/1421xx/142108/1410xx/141037/about.en.html))
@@ -157,6 +159,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### World
 
 - H World [**&nearr;**](../../../geo/i/141728/about.en.html "World (all folders)") [**&uarr;**](../../../geo/about.en.html#H "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142108,141728" title="about: Petrol : World" target="_blank">265 documents</a>) ([folder](../../../../folder/wa/1421xx/142108/1417xx/141728/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

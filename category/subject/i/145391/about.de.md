@@ -1,6 +1,6 @@
 ---
 title: "n24 Sm23 Misstände im Bankgewerbe und Kreditwesen"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n24 Sm23]{.gray}&#8201; Misstände im Bankgewerbe und Kreditwesen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711042)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145391`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145391`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 2 Mappen, 7 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 2 Mappen, 7 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -38,6 +39,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145391" title="über: Argentinien : Misstände im Bankgewerbe und Kreditwesen" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1453xx/145391/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

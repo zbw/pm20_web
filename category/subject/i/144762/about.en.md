@@ -1,6 +1,6 @@
 ---
 title: "l Military, general"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [l]{.gray}&#8201; Military, general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427914)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144762`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144762`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 38 folders, 933 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 37 folders, 933 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -36,7 +37,6 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A4 Western Europe [**&nearr;**](../../../geo/i/140897/about.en.html "Western Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A4 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140897,144762" title="about: Western Europe : Military, general" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1408xx/140897/1447xx/144762/about.en.html))
 - A5a Mediterranean region [**&nearr;**](../../../geo/i/140899/about.en.html "Mediterranean region (all folders)") [**&uarr;**](../../../geo/about.en.html#A5a "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140899,144762" title="about: Mediterranean region : Military, general" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1408xx/140899/1447xx/144762/about.en.html))
 - A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,144762" title="about: Southeastern Europe : Military, general" target="_blank">15 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1447xx/144762/about.en.html))
-- A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,144762" title="about: Orient : Military, general" target="_blank">0 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1447xx/144762/about.en.html))
 - A8 Russian peripheral countries [**&nearr;**](../../../geo/i/140904/about.en.html "Russian peripheral countries (all folders)") [**&uarr;**](../../../geo/about.en.html#A8 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140904,144762" title="about: Russian peripheral countries : Military, general" target="_blank">10 documents</a>) ([folder](../../../../folder/sh/1409xx/140904/1447xx/144762/about.en.html))
 - A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144762" title="about: Hamburg : Military, general" target="_blank">4 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1447xx/144762/about.en.html))
 - A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140960,144762" title="about: German imperial colonies : Military, general" target="_blank">11 documents</a>) ([folder](../../../../folder/sh/1409xx/140960/1447xx/144762/about.en.html))
@@ -80,6 +80,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### America
 
 - E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144762" title="about: Argentina : Military, general" target="_blank">146 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1447xx/144762/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

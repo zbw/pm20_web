@@ -1,6 +1,6 @@
 ---
 title: "m2 Sm4 Customs formalities"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [m2 Sm4]{.gray}&#8201; Customs formalities &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700310)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/163269`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/163269`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 4 folders, 57 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 4 folders, 57 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -40,6 +41,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### America
 
 - E102 British Guiana [**&nearr;**](../../../geo/i/141700/about.en.html "British Guiana (all folders)") [**&uarr;**](../../../geo/about.en.html#E102 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141700,163269" title="about: British Guiana : Customs formalities" target="_blank">4 documents</a>) ([folder](../../../../folder/sh/1417xx/141700/1632xx/163269/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

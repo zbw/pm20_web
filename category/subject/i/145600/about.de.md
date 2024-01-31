@@ -1,6 +1,6 @@
 ---
 title: "n32 Sm27.I Hafenabgaben, Allgemein"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n32 Sm27.I]{.gray}&#8201; Hafenabgaben, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711185)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145600`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145600`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 14 Mappen, 175 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 13 Mappen, 180 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -33,8 +34,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 ### Europa
 
-- A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,145600" title="über: Orient : Hafenabgaben, Allgemein" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1456xx/145600/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145600" title="über: Hamburg : Hafenabgaben, Allgemein" target="_blank">69 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1456xx/145600/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145600" title="über: Hamburg : Hafenabgaben, Allgemein" target="_blank">74 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1456xx/145600/about.de.html))
 - A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,145600" title="über: Deutschland : Hafenabgaben, Allgemein" target="_blank">18 Dokumente</a>) ([Mappe](../../../../folder/sh/1261xx/126128/1456xx/145600/about.de.html))
 
 ### Asien
@@ -59,6 +59,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145600" title="über: Argentinien : Hafenabgaben, Allgemein" target="_blank">19 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1456xx/145600/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

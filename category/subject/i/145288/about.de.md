@@ -1,6 +1,6 @@
 ---
 title: "n18a Handel einzelner Bundesstaaten, Provinzen, Kommunen"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n18a]{.gray}&#8201; Handel einzelner Bundesstaaten, Provinzen, Kommunen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428047)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145288`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145288`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 19 Mappen, 436 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 19 Mappen, 436 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -58,6 +59,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145288" title="über: Argentinien : Handel einzelner Bundesstaaten, Provinzen, Kommunen" target="_blank">73 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1452xx/145288/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

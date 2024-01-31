@@ -1,6 +1,6 @@
 ---
 title: "Auster"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Auster &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q107411) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Austern_(Lebensmittel))
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142019`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142019`</div>
 
 
 
@@ -18,12 +18,14 @@ fn-stub: about
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 30 Mappen, 327 Dokumente - Mappen komplett.
+
+
+Insgesamt 30 Mappen, 327 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -71,6 +73,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - E20 Mexiko [**&nearr;**](../../../geo/i/141657/about.de.html "Mexiko (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E20 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142019,141657" title="über: Auster : Mexiko" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142019/1416xx/141657/about.de.html))
 - E85 Chile [**&nearr;**](../../../geo/i/141691/about.de.html "Chile (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E85 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142019,141691" title="über: Auster : Chile" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142019/1416xx/141691/about.de.html))
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142019,141692" title="über: Auster : Argentinien" target="_blank">10 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142019/1416xx/141692/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

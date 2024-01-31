@@ -1,6 +1,6 @@
 ---
 title: "A46 Bulgarien"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -8,27 +8,115 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A46]{.gray}&#8201; Bulgarien
+# [A46]{.gray}&#8201; Bulgarien &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q219) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Bulgarien)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141039`</div>
-
-
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141039`</div>
 
 
 
 
-
-## Warenarchiv
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
+## Sacharchiv Mappen
 
 
 
-Insgesamt 39 Mappen, 888 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+Kein als Mappe erschlossenes Material.
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 10640</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0553H/0060" rel="nofollow">Bilder auf Film h1/sh/S0553H/0060</a> | Bulgarien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0554H" rel="nofollow">Bilder auf Film h1/sh/S0554H</a> | Filmanfang: Bulgarien : Geschichtliche Vorgänge [A46 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0555H" rel="nofollow">Bilder auf Film h1/sh/S0555H</a> | Filmanfang: Bulgarien : Politische Beziehungen zu einzelnen Ländern [A46 g1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0556H" rel="nofollow">Bilder auf Film h1/sh/S0556H</a> | Filmanfang: Bulgarien : Wirtschaftspolitische Beziehungen zu einzelnen Ländern [A46 g4a]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0557H" rel="nofollow">Bilder auf Film h1/sh/S0557H</a> | Filmanfang: Bulgarien : Wissenschaftliche Beziehungen zu einzelnen Ländern und geistige Zusammenarbeit mit einz. Ländern Deutschland [A46 k1a Deutschland]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0558H" rel="nofollow">Bilder auf Film h1/sh/S0558H</a> | Filmanfang: Bulgarien : Kartell-, Syndikat und Trustwesen I [A46 n Sm7 I]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0559H" rel="nofollow">Bilder auf Film h1/sh/S0559H</a> | Filmanfang: Bulgarien : Landwirtschaft [A46 n4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0560H" rel="nofollow">Bilder auf Film h1/sh/S0560H</a> | Filmanfang: Bulgarien : Handel [A46 n18]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0561H" rel="nofollow">Bilder auf Film h1/sh/S0561H</a> | Filmanfang: Bulgarien : Eisenbahnwesen [A46 n30]
+
+
+:::
+
+
+
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 2197</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2561H/0822" rel="nofollow">Bilder auf Film h2/sh/S2561H/0822</a> | Bulgarien
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2562H" rel="nofollow">Bilder auf Film h2/sh/S2562H</a> | Filmanfang: Bulgarien : Politische Beziehungen zu einzelnen Ländern [A46 g1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2563H" rel="nofollow">Bilder auf Film h2/sh/S2563H</a> | Filmanfang: Bulgarien : n2-n12 Sm [A46 n2-n12 Sm]
+
+
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 39 Mappen (bis 1949), 888 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

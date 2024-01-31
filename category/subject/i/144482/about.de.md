@@ -1,6 +1,6 @@
 ---
 title: "g4 Sm3.I Staatliche Wirtschaftspropaganda, Allgemein"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [g4 Sm3.I]{.gray}&#8201; Staatliche Wirtschaftspropaganda, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700004)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144482`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144482`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 10 Mappen, 130 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 10 Mappen, 134 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -36,7 +37,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144482" title="über: Europa : Staatliche Wirtschaftspropaganda, Allgemein" target="_blank">23 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1444xx/144482/about.de.html))
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,144482" title="über: Südosteuropa : Staatliche Wirtschaftspropaganda, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1444xx/144482/about.de.html))
 - A8 Russische Randstaaten [**&nearr;**](../../../geo/i/140904/about.de.html "Russische Randstaaten (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A8 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140904,144482" title="über: Russische Randstaaten : Staatliche Wirtschaftspropaganda, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140904/1444xx/144482/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144482" title="über: Hamburg : Staatliche Wirtschaftspropaganda, Allgemein" target="_blank">13 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1444xx/144482/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144482" title="über: Hamburg : Staatliche Wirtschaftspropaganda, Allgemein" target="_blank">17 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1444xx/144482/about.de.html))
 
 ### Asien
 
@@ -52,6 +53,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Australien und Ozeanien
 
 - D30 Australien [**&nearr;**](../../../geo/i/141621/about.de.html "Australien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#D30 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141621,144482" title="über: Australien : Staatliche Wirtschaftspropaganda, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141621/1444xx/144482/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

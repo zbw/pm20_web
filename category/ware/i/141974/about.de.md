@@ -1,6 +1,6 @@
 ---
 title: "Anhänger (Last- und Wohnanhänger)"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Anhänger (Last- und Wohnanhänger) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q216146) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Anh%C3%A4nger)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141974`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/141974`</div>
 
 <div class="hint">
 Scope Note: Nicht selbstfahrendes Straßenfahrzeug
@@ -20,12 +20,14 @@ Scope Note: Nicht selbstfahrendes Straßenfahrzeug
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 12 Mappen, 120 Dokumente - Mappen komplett.
+
+
+Insgesamt 12 Mappen, 120 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -58,6 +60,39 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Welt
 
 - H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141974,141728" title="über: Anhänger (Last- und Wohnanhänger) : Welt" target="_blank">20 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141974/1417xx/141728/about.de.html))
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 124</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2048H/1229" rel="nofollow">Bilder auf Film h2/wa/W2048H/1229</a> | Anhänger (Last- und Wohnanhänger)
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2049H/0002" rel="nofollow">Bilder auf Film h2/wa/W2049H/0002</a> | Anhänger (Last- und Wohnanhänger)
+
+
+:::
+
+
+
+
+
+
+
+
 
 
 

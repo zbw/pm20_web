@@ -1,6 +1,6 @@
 ---
 title: "f5 Party system"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [f5]{.gray}&#8201; Party system &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427868)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144395`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144395`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 18 folders, 619 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 18 folders, 626 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -34,7 +35,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### Europe
 
 - A1 Europe [**&nearr;**](../../../geo/i/140892/about.en.html "Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A1 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144395" title="about: Europe : Party system" target="_blank">4 documents</a>) ([folder](../../../../folder/sh/1408xx/140892/1443xx/144395/about.en.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144395" title="about: Hamburg : Party system" target="_blank">56 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1443xx/144395/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144395" title="about: Hamburg : Party system" target="_blank">63 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1443xx/144395/about.en.html))
 - A10n(1) Upper Silesia (German-Polish border region) [**&nearr;**](../../../geo/i/140948/about.en.html "Upper Silesia (German-Polish border region) (all folders)") [**&uarr;**](../../../geo/about.en.html#A10n(1) "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140948,144395" title="about: Upper Silesia (German-Polish border region) : Party system" target="_blank">18 documents</a>) ([folder](../../../../folder/sh/1409xx/140948/1443xx/144395/about.en.html))
 - A38 Free State of Fiume [**&nearr;**](../../../geo/i/141014/about.en.html "Free State of Fiume (all folders)") [**&uarr;**](../../../geo/about.en.html#A38 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141014,144395" title="about: Free State of Fiume : Party system" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1410xx/141014/1443xx/144395/about.en.html))
 - A43 Ottoman Empire [**&nearr;**](../../../geo/i/141034/about.en.html "Ottoman Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A43 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141034,144395" title="about: Ottoman Empire : Party system" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1410xx/141034/1443xx/144395/about.en.html))
@@ -63,6 +64,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 - E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144395" title="about: Argentina : Party system" target="_blank">102 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1443xx/144395/about.en.html))
 - E95 Uruguay [**&nearr;**](../../../geo/i/141695/about.en.html "Uruguay (all folders)") [**&uarr;**](../../../geo/about.en.html#E95 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141695,144395" title="about: Uruguay : Party system" target="_blank">36 documents</a>) ([folder](../../../../folder/sh/1416xx/141695/1443xx/144395/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

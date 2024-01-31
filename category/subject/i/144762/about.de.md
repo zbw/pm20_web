@@ -1,6 +1,6 @@
 ---
 title: "l Militärwesen, Allgemein"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [l]{.gray}&#8201; Militärwesen, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427914)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144762`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144762`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 38 Mappen, 933 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 37 Mappen, 933 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -36,7 +37,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - A4 Westeuropa [**&nearr;**](../../../geo/i/140897/about.de.html "Westeuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A4 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140897,144762" title="über: Westeuropa : Militärwesen, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140897/1447xx/144762/about.de.html))
 - A5a Mittelmeerländer [**&nearr;**](../../../geo/i/140899/about.de.html "Mittelmeerländer (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A5a "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140899,144762" title="über: Mittelmeerländer : Militärwesen, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140899/1447xx/144762/about.de.html))
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,144762" title="über: Südosteuropa : Militärwesen, Allgemein" target="_blank">15 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1447xx/144762/about.de.html))
-- A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,144762" title="über: Orient : Militärwesen, Allgemein" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1447xx/144762/about.de.html))
 - A8 Russische Randstaaten [**&nearr;**](../../../geo/i/140904/about.de.html "Russische Randstaaten (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A8 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140904,144762" title="über: Russische Randstaaten : Militärwesen, Allgemein" target="_blank">10 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140904/1447xx/144762/about.de.html))
 - A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144762" title="über: Hamburg : Militärwesen, Allgemein" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1447xx/144762/about.de.html))
 - A11 Deutsche Kolonien [**&nearr;**](../../../geo/i/140960/about.de.html "Deutsche Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A11 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140960,144762" title="über: Deutsche Kolonien : Militärwesen, Allgemein" target="_blank">11 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140960/1447xx/144762/about.de.html))
@@ -80,6 +80,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144762" title="über: Argentinien : Militärwesen, Allgemein" target="_blank">146 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1447xx/144762/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

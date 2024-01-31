@@ -1,6 +1,6 @@
 ---
 title: "Bagger"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Bagger &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q182661) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Bagger)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142028`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142028`</div>
 
 
 
@@ -18,12 +18,14 @@ fn-stub: about
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 23 Mappen, 193 Dokumente - Mappen komplett.
+
+
+Insgesamt 23 Mappen, 193 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -64,6 +66,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - E20 Mexiko [**&nearr;**](../../../geo/i/141657/about.de.html "Mexiko (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E20 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142028,141657" title="über: Bagger : Mexiko" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142028/1416xx/141657/about.de.html))
 - E76 Kolumbien [**&nearr;**](../../../geo/i/141687/about.de.html "Kolumbien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E76 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142028,141687" title="über: Bagger : Kolumbien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142028/1416xx/141687/about.de.html))
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142028,141692" title="über: Bagger : Argentinien" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142028/1416xx/141692/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

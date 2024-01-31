@@ -1,6 +1,6 @@
 ---
 title: "n4 Sm3 Gartenbau"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -8,23 +8,24 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n4 Sm3]{.gray}&#8201; Gartenbau &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710527)
+# [n4 Sm3]{.gray}&#8201; Gartenbau &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q48803)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145051`</div>
-
-
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145051`</div>
 
 
 
 
 
-## Länder-Sacharchiv
+
+
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 6 Mappen, 158 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 6 Mappen, 168 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -34,7 +35,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Europa
 
 - A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145051" title="über: Europa : Gartenbau" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1450xx/145051/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145051" title="über: Hamburg : Gartenbau" target="_blank">130 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1450xx/145051/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145051" title="über: Hamburg : Gartenbau" target="_blank">140 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1450xx/145051/about.de.html))
 
 ### Asien
 
@@ -48,6 +49,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145051" title="über: Argentinien : Gartenbau" target="_blank">11 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1450xx/145051/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

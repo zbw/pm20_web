@@ -1,6 +1,6 @@
 ---
 title: "Coca, cocaine"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Coca, cocaine &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q111973624)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/143124`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/143124`</div>
 
 
 
@@ -18,13 +18,15 @@ fn-stub: about
 
 
 
-## Commodities/wares archives
+## Commodities/wares archives folders
 
 
 
 
 
-In total 39 folders, 272 documents - folders complete.
+
+
+In total 39 folders, 272 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -45,7 +47,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A35 Italy [**&nearr;**](../../../geo/i/141008/about.en.html "Italy (all folders)") [**&uarr;**](../../../geo/about.en.html#A35 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,141008" title="about: Coca, cocaine : Italy" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1431xx/143124/1410xx/141008/about.en.html))
 - A40b Austria [**&nearr;**](../../../geo/i/141731/about.en.html "Austria (all folders)") [**&uarr;**](../../../geo/about.en.html#A40b "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,141731" title="about: Coca, cocaine : Austria" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1431xx/143124/1417xx/141731/about.en.html))
 - A40d Hungary [**&nearr;**](../../../geo/i/141025/about.en.html "Hungary (all folders)") [**&uarr;**](../../../geo/about.en.html#A40d "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,141025" title="about: Coca, cocaine : Hungary" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1431xx/143124/1410xx/141025/about.en.html))
-- A40e Kingdom of Yugoslavia [**&nearr;**](../../../geo/i/141028/about.en.html "Kingdom of Yugoslavia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40e "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,141028" title="about: Coca, cocaine : Kingdom of Yugoslavia" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1431xx/143124/1410xx/141028/about.en.html))
+- A40e (Kingdom of) Yugoslavia [**&nearr;**](../../../geo/i/141028/about.en.html "(Kingdom of) Yugoslavia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40e "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,141028" title="about: Coca, cocaine : (Kingdom of) Yugoslavia" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1431xx/143124/1410xx/141028/about.en.html))
 - A43 Ottoman Empire [**&nearr;**](../../../geo/i/141034/about.en.html "Ottoman Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A43 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,141034" title="about: Coca, cocaine : Ottoman Empire" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1431xx/143124/1410xx/141034/about.en.html))
 - A50 USSR [**&nearr;**](../../../geo/i/141043/about.en.html "USSR (all folders)") [**&uarr;**](../../../geo/about.en.html#A50 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,141043" title="about: Coca, cocaine : USSR" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1431xx/143124/1410xx/141043/about.en.html))
 - A58 Latvia [**&nearr;**](../../../geo/i/141050/about.en.html "Latvia (all folders)") [**&uarr;**](../../../geo/about.en.html#A58 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,141050" title="about: Coca, cocaine : Latvia" target="_blank">7 documents</a>) ([folder](../../../../folder/wa/1431xx/143124/1410xx/141050/about.en.html))
@@ -83,6 +85,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### World
 
 - H World [**&nearr;**](../../../geo/i/141728/about.en.html "World (all folders)") [**&uarr;**](../../../geo/about.en.html#H "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143124,141728" title="about: Coca, cocaine : World" target="_blank">51 documents</a>) ([folder](../../../../folder/wa/1431xx/143124/1417xx/141728/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

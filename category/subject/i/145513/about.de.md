@@ -1,6 +1,6 @@
 ---
 title: "n28 Sm3.I Kommunales Verkehrswesen, Allgemein"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n28 Sm3.I]{.gray}&#8201; Kommunales Verkehrswesen, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711091)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145513`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145513`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 5 Mappen, 321 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 4 Mappen, 486 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -33,8 +34,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 ### Europa
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145513" title="über: Hamburg : Kommunales Verkehrswesen, Allgemein" target="_blank">307 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1455xx/145513/about.de.html))
-- A10(t2) Deutschland (Bundesrepublik) [**&nearr;**](../../../geo/i/187232/about.de.html "Deutschland (Bundesrepublik) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10(t2) "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/187232,145513" title="über: Deutschland (Bundesrepublik) : Kommunales Verkehrswesen, Allgemein" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1872xx/187232/1455xx/145513/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145513" title="über: Hamburg : Kommunales Verkehrswesen, Allgemein" target="_blank">472 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1455xx/145513/about.de.html))
 
 ### Asien
 
@@ -47,6 +47,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145513" title="über: Argentinien : Kommunales Verkehrswesen, Allgemein" target="_blank">11 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1455xx/145513/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

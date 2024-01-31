@@ -1,6 +1,6 @@
 ---
 title: "Oyster"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Oyster &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q107411) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Oyster)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142019`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142019`</div>
 
 
 
@@ -18,13 +18,15 @@ fn-stub: about
 
 
 
-## Commodities/wares archives
+## Commodities/wares archives folders
 
 
 
 
 
-In total 30 folders, 327 documents - folders complete.
+
+
+In total 30 folders, 327 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -74,6 +76,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - E20 Mexico [**&nearr;**](../../../geo/i/141657/about.en.html "Mexico (all folders)") [**&uarr;**](../../../geo/about.en.html#E20 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142019,141657" title="about: Oyster : Mexico" target="_blank">4 documents</a>) ([folder](../../../../folder/wa/1420xx/142019/1416xx/141657/about.en.html))
 - E85 Chile [**&nearr;**](../../../geo/i/141691/about.en.html "Chile (all folders)") [**&uarr;**](../../../geo/about.en.html#E85 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142019,141691" title="about: Oyster : Chile" target="_blank">8 documents</a>) ([folder](../../../../folder/wa/1420xx/142019/1416xx/141691/about.en.html))
 - E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142019,141692" title="about: Oyster : Argentina" target="_blank">10 documents</a>) ([folder](../../../../folder/wa/1420xx/142019/1416xx/141692/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Building material"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Building material &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q206615) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Building_material)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142086`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142086`</div>
 
 
 
@@ -18,13 +18,15 @@ fn-stub: about
 
 
 
-## Commodities/wares archives
+## Commodities/wares archives folders
 
 
 
 
 
-In total 87 folders, 1702 documents - folders complete.
+
+
+In total 87 folders, 1702 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -56,7 +58,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A40b(A10) Ostmark (Austria) [**&nearr;**](../../../geo/i/163025/about.en.html "Ostmark (Austria) (all folders)") [**&uarr;**](../../../geo/about.en.html#A40b(A10) "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,163025" title="about: Building material : Ostmark (Austria)" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1420xx/142086/1630xx/163025/about.en.html))
 - A40c Czechoslovakia [**&nearr;**](../../../geo/i/141022/about.en.html "Czechoslovakia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40c "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141022" title="about: Building material : Czechoslovakia" target="_blank">29 documents</a>) ([folder](../../../../folder/wa/1420xx/142086/1410xx/141022/about.en.html))
 - A40d Hungary [**&nearr;**](../../../geo/i/141025/about.en.html "Hungary (all folders)") [**&uarr;**](../../../geo/about.en.html#A40d "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141025" title="about: Building material : Hungary" target="_blank">30 documents</a>) ([folder](../../../../folder/wa/1420xx/142086/1410xx/141025/about.en.html))
-- A40e Kingdom of Yugoslavia [**&nearr;**](../../../geo/i/141028/about.en.html "Kingdom of Yugoslavia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40e "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141028" title="about: Building material : Kingdom of Yugoslavia" target="_blank">6 documents</a>) ([folder](../../../../folder/wa/1420xx/142086/1410xx/141028/about.en.html))
+- A40e (Kingdom of) Yugoslavia [**&nearr;**](../../../geo/i/141028/about.en.html "(Kingdom of) Yugoslavia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40e "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141028" title="about: Building material : (Kingdom of) Yugoslavia" target="_blank">6 documents</a>) ([folder](../../../../folder/wa/1420xx/142086/1410xx/141028/about.en.html))
 - A40g Croatia [**&nearr;**](../../../geo/i/141030/about.en.html "Croatia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40g "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141030" title="about: Building material : Croatia" target="_blank">4 documents</a>) ([folder](../../../../folder/wa/1420xx/142086/1410xx/141030/about.en.html))
 - A45 Greece [**&nearr;**](../../../geo/i/141037/about.en.html "Greece (all folders)") [**&uarr;**](../../../geo/about.en.html#A45 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141037" title="about: Building material : Greece" target="_blank">16 documents</a>) ([folder](../../../../folder/wa/1420xx/142086/1410xx/141037/about.en.html))
 - A46 Bulgaria [**&nearr;**](../../../geo/i/141039/about.en.html "Bulgaria (all folders)") [**&uarr;**](../../../geo/about.en.html#A46 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141039" title="about: Building material : Bulgaria" target="_blank">16 documents</a>) ([folder](../../../../folder/wa/1420xx/142086/1410xx/141039/about.en.html))
@@ -131,6 +133,39 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141692" title="about: Building material : Argentina" target="_blank">15 documents</a>) ([folder](../../../../folder/wa/1420xx/142086/1416xx/141692/about.en.html))
 - E95 Uruguay [**&nearr;**](../../../geo/i/141695/about.en.html "Uruguay (all folders)") [**&uarr;**](../../../geo/about.en.html#E95 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141695" title="about: Building material : Uruguay" target="_blank">18 documents</a>) ([folder](../../../../folder/wa/1420xx/142086/1416xx/141695/about.en.html))
 - E97 Brazil [**&nearr;**](../../../geo/i/141697/about.en.html "Brazil (all folders)") [**&uarr;**](../../../geo/about.en.html#E97 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141697" title="about: Building material : Brazil" target="_blank">10 documents</a>) ([folder](../../../../folder/wa/1420xx/142086/1416xx/141697/about.en.html))
+
+
+
+<a id="filmsections" />
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 587</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2001H/0983" rel="nofollow">Images on film h2/wa/W2001H/0983</a> | Baumaterial
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2002H/0002" rel="nofollow">Images on film h2/wa/W2002H/0002</a> | Baumaterial : Deutschland (Sowjetische Zone/ DDR)
+
+
+:::
+
+
+
+
+
+
+
+
 
 
 

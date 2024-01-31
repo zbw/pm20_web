@@ -1,6 +1,6 @@
 ---
 title: "Äther"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Äther &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q103230) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Ether)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141945`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/141945`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 20 Mappen, 42 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 20 Mappen, 42 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -43,7 +44,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - A35 Italien [**&nearr;**](../../../geo/i/141008/about.de.html "Italien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A35 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141945,141008" title="über: Äther : Italien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141945/1410xx/141008/about.de.html))
 - A40b Österreich [**&nearr;**](../../../geo/i/141731/about.de.html "Österreich (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40b "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141945,141731" title="über: Äther : Österreich" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141945/1417xx/141731/about.de.html))
 - A40d Ungarn [**&nearr;**](../../../geo/i/141025/about.de.html "Ungarn (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40d "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141945,141025" title="über: Äther : Ungarn" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141945/1410xx/141025/about.de.html))
-- A40e Südslawien [**&nearr;**](../../../geo/i/141028/about.de.html "Südslawien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40e "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141945,141028" title="über: Äther : Südslawien" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141945/1410xx/141028/about.de.html))
+- A40e Jugoslawien (bis 1945 Südslawien) [**&nearr;**](../../../geo/i/141028/about.de.html "Jugoslawien (bis 1945 Südslawien) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40e "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141945,141028" title="über: Äther : Jugoslawien (bis 1945 Südslawien)" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141945/1410xx/141028/about.de.html))
 - A45 Griechenland [**&nearr;**](../../../geo/i/141037/about.de.html "Griechenland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A45 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141945,141037" title="über: Äther : Griechenland" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141945/1410xx/141037/about.de.html))
 - A46 Bulgarien [**&nearr;**](../../../geo/i/141039/about.de.html "Bulgarien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A46 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141945,141039" title="über: Äther : Bulgarien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141945/1410xx/141039/about.de.html))
 - A47 Rumänien [**&nearr;**](../../../geo/i/141040/about.de.html "Rumänien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A47 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141945,141040" title="über: Äther : Rumänien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141945/1410xx/141040/about.de.html))
@@ -59,6 +60,38 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Welt
 
 - H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141945,141728" title="über: Äther : Welt" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141945/1417xx/141728/about.de.html))
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 1</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2023H/0343" rel="nofollow">Bilder auf Film h2/wa/W2023H/0343</a> | Äther
+
+
+:::
+
+
+
+
+
+
+
+
 
 
 

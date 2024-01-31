@@ -1,6 +1,6 @@
 ---
 title: "f2 Sm2 Refugees in the country of refuge"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [f2 Sm2]{.gray}&#8201; Refugees in the country of refuge &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699309)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144288`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144288`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 13 folders, 165 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 13 folders, 165 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -55,6 +56,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### America
 
 - E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144288" title="about: Argentina : Refugees in the country of refuge" target="_blank">12 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1442xx/144288/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

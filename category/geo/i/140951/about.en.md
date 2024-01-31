@@ -1,6 +1,6 @@
 ---
 title: "A10p East Upper Silesia"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [A10p]{.gray}&#8201; East Upper Silesia &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q2035812) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/East_Upper_Silesia)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140951`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/140951`</div>
 
 
 
@@ -18,7 +18,7 @@ fn-stub: about
 
 
 
-## Subject archives
+## Subject archives folders
 
 
 
@@ -26,7 +26,10 @@ fn-stub: about
 
 
 
-In total 46 folders, 504 documents - folders complete.
+
+
+
+In total 46 folders, 504 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -109,6 +112,14 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 - q Sm8 Situation of Jewish people, Antisemitism (1910-1945) [**&nearr;**](../../../subject/i/145952/about.en.html "Situation of Jewish people, Antisemitism (1910-1945) (all over the world)") [**&uarr;**](../../../subject/about.en.html#q_Sm8 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140951,145952" title="about: East Upper Silesia : Situation of Jewish people, Antisemitism (1910-1945)" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1409xx/140951/1459xx/145952/about.en.html))
 - q Sm22 Foreign agitation against german people [**&nearr;**](../../../subject/i/145969/about.en.html "Foreign agitation against german people (all over the world)") [**&uarr;**](../../../subject/about.en.html#q_Sm22 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140951,145969" title="about: East Upper Silesia : Foreign agitation against german people" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1409xx/140951/1459xx/145969/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
 
 
 

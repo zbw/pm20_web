@@ -1,6 +1,6 @@
 ---
 title: "g4a Sm21 Handelspolitische Abmachungen mit einz. Ländern aus dem Deutschen Handelsarchiv"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [g4a Sm21]{.gray}&#8201; Handelspolitische Abmachungen mit einz. Ländern aus dem Deutschen Handelsarchiv &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700051)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144550`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144550`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 15 Mappen, 319 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 15 Mappen, 319 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -57,6 +58,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144550" title="über: Argentinien : Handelspolitische Abmachungen mit einz. Ländern aus dem Deutschen Handelsarchiv" target="_blank">67 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1445xx/144550/about.de.html))
 - E90 Falklandinseln [**&nearr;**](../../../geo/i/141694/about.de.html "Falklandinseln (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E90 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141694,144550" title="über: Falklandinseln : Handelspolitische Abmachungen mit einz. Ländern aus dem Deutschen Handelsarchiv" target="_blank">16 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141694/1445xx/144550/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

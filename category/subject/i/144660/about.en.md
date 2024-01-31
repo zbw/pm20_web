@@ -1,6 +1,6 @@
 ---
 title: "h1 Authorities, general"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [h1]{.gray}&#8201; Authorities, general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427886)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144660`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144660`</div>
 
 
 
@@ -18,19 +18,20 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 7 folders, 341 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 7 folders, 357 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144660" title="about: Hamburg : Authorities, general" target="_blank">147 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1446xx/144660/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144660" title="about: Hamburg : Authorities, general" target="_blank">163 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1446xx/144660/about.en.html))
 - A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,144660" title="about: Germany : Authorities, general" target="_blank">102 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1446xx/144660/about.en.html))
 - A10(t1) Allied occupied Germany [**&nearr;**](../../../geo/i/187230/about.en.html "Allied occupied Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10(t1) "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/187230,144660" title="about: Allied occupied Germany : Authorities, general" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1872xx/187230/1446xx/144660/about.en.html))
 
@@ -43,6 +44,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### America
 
 - E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144660" title="about: Argentina : Authorities, general" target="_blank">29 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1446xx/144660/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "D6 Guam"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [D6]{.gray}&#8201; Guam &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q16635) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Guam)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141598`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141598`</div>
 
 
 
@@ -18,14 +18,17 @@ fn-stub: about
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
 
 
 
 
 
 
-Insgesamt 7 Mappen, 41 Dokumente - Mappen komplett.
+
+
+
+Insgesamt 7 Mappen, 41 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -54,6 +57,37 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Fremdstämmige und einzelne Minderheiten
 
 - o3 Minderheiten aus einzelnen Ländern [**&nearr;**](../../../subject/i/182220/about.de.html "Minderheiten aus einzelnen Ländern (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#o3 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141598,182220" title="über: Guam : Minderheiten aus einzelnen Ländern" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1415xx/141598/1822xx/182220/about.de.html))
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 4</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2728H/1020" rel="nofollow">Bilder auf Film h2/sh/S2728H/1020</a> | Guam
+
+
+:::
+
+
+
+
+
+
+
 
 
 

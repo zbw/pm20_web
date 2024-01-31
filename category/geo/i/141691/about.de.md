@@ -1,6 +1,6 @@
 ---
 title: "E85 Chile"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,20 +10,23 @@ fn-stub: about
 
 # [E85]{.gray}&#8201; Chile &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q298) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Chile)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141691`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141691`</div>
 
 <div class="hint">
 Scope Note: Chile, Feuerland (chilenischer Teil)
 </div>
 
 
-[Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
+
+
+
 
 
 
@@ -112,11 +115,61 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 7580</p>
 
 
 
 
-## Warenarchiv
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0981H/1145" rel="nofollow">Bilder auf Film h1/sh/S0981H/1145</a> | Chile
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0982H_1" rel="nofollow">Bilder auf Film h1/sh/S0982H_1</a> | Filmanfang: Chile : Landeskunde, Allgemein [E85 c]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0983H" rel="nofollow">Bilder auf Film h1/sh/S0983H</a> | Filmanfang: Chile : Einzelne Parteien und Parteigruppen [E85 f5a]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0984H" rel="nofollow">Bilder auf Film h1/sh/S0984H</a> | Filmanfang: Chile : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein [E85 g4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0985H" rel="nofollow">Bilder auf Film h1/sh/S0985H</a> | Filmanfang: Chile : Eingeborenenpolitik [E85 h8]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0986H" rel="nofollow">Bilder auf Film h1/sh/S0986H</a> | Filmanfang: Chile : Äußere Schuld I [E85 m1 Sm5 I]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0987H_1" rel="nofollow">Bilder auf Film h1/sh/S0987H_1</a> | Filmanfang: Chile : Berichte über die wirtschaftliche Lage [E85 n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0988H_1" rel="nofollow">Bilder auf Film h1/sh/S0988H_1</a> | Filmanfang: Chile : Elektrizitätsindustrie [E85 n13a Sm4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0989H_1" rel="nofollow">Bilder auf Film h1/sh/S0989H_1</a> | Filmanfang: Chile : Kreditwesen und Bankwesen [E85 n24]
+
+
+:::
+
+
+
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 3604</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2820H/0525" rel="nofollow">Bilder auf Film h2/sh/S2820H/0525</a> | Chile
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2821H" rel="nofollow">Bilder auf Film h2/sh/S2821H</a> | Filmanfang: Chile : Wirtschaftskrieg [E85 g4 Sm2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2822H" rel="nofollow">Bilder auf Film h2/sh/S2822H</a> | Filmanfang: Chile : Zollwesen, Zolltarife Sm [E85 m2 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2823H" rel="nofollow">Bilder auf Film h2/sh/S2823H</a> | Filmanfang: Chile : n5-12 Sm [E85 n5-12 Sm]
+
+
+:::
 
 
 
@@ -125,8 +178,27 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
-Insgesamt 31 Mappen, 554 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 31 Mappen (bis 1949), 554 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

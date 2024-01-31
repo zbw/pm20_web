@@ -1,6 +1,6 @@
 ---
 title: "A45 Greece"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -8,17 +8,89 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A45]{.gray}&#8201; Greece
+# [A45]{.gray}&#8201; Greece &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q41) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Greece)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141037`</div>
-
-
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141037`</div>
 
 
 
 
 
-## Commodities/wares archives
+[Subject archives](#subject-archives-folders) &#160; [Commodities/wares archives](#commoditieswares-archives-folders)
+
+
+
+
+## Subject archives folders
+
+
+
+
+
+
+
+
+No material prepared as folder.
+
+
+
+<a id="filmsections" />
+
+## Sections of digitized microfilms (1st filming 1908-1949)
+
+<p>For intellectual property law reasons accessible only from the European Union legal area and from the ZBW reading room.</p>
+
+
+
+<p>Total number of images: 10157</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0544H/1031" rel="nofollow">Images on film h1/sh/S0544H/1031</a> | Griechenland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0545H" rel="nofollow">Images on film h1/sh/S0545H</a> | Filmanfang: Griechenland : Landeskunde, Elementare Katastrophen, Naturkatastrophen [A45 c10]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0546H" rel="nofollow">Images on film h1/sh/S0546H</a> | Filmanfang: Griechenland : Geschichtliche Vorgänge [A45 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0547H" rel="nofollow">Images on film h1/sh/S0547H</a> | Filmanfang: Griechenland : Politische Beziehungen zu einzelnen Ländern Italien [A45 g1 Italien]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0548H" rel="nofollow">Images on film h1/sh/S0548H</a> | Filmanfang: Griechenland : Wirtschaftspolitische Beziehungen zu einzelnen Ländern [A45 g4a]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0549H" rel="nofollow">Images on film h1/sh/S0549H</a> | Filmanfang: Griechenland : Staatshaushalt [A45 m1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0550H" rel="nofollow">Images on film h1/sh/S0550H</a> | Filmanfang: Griechenland : Berichte über die wirtschaftliche Lage [A45 n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0551H" rel="nofollow">Images on film h1/sh/S0551H</a> | Filmanfang: Griechenland : Handel [A45 n18]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0552H" rel="nofollow">Images on film h1/sh/S0552H</a> | Filmanfang: Griechenland : Eisenbahnwesen [A45 n30]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0553H" rel="nofollow">Images on film h1/sh/S0553H</a> | Filmanfang: Griechenland : Einzelfragen politischer und wirtschaftlicher Natur [A45 q]
+
+
+:::
+
+
+
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 5797</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2557H/0040" rel="nofollow">Images on film h2/sh/S2557H/0040</a> | Griechenland
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2558H" rel="nofollow">Images on film h2/sh/S2558H</a> | Filmanfang: Griechenland : Außenpolitik und politische Beziehungen zum Ausland, Allgemein Sm [A45 g Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2559H" rel="nofollow">Images on film h2/sh/S2559H</a> | Filmanfang: Griechenland : h-k2 Sm [A45 h-k2 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2560H" rel="nofollow">Images on film h2/sh/S2560H</a> | Filmanfang: Griechenland : Berichte über die wirtschaftliche Lage [A45 n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2561H" rel="nofollow">Images on film h2/sh/S2561H</a> | Filmanfang: Griechenland : n28-n 32 Sm [A45 n28-n 32 Sm]
+
+
+:::
 
 
 
@@ -28,8 +100,27 @@ fn-stub: about
 
 
 
-In total 30 folders, 676 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_wa.de.html) (in German).
+
+
+
+
+
+## Commodities/wares archives folders
+
+
+
+
+
+
+
+
+
+
+
+In total 30 folders (until 1949), 676 documents
+- folders incomplete.  For material not published as folders, please check the
+digitized micro-films of the [1st filming](/film/h1_wa.de.html) and [2nd
+filming](/film/h2_wa.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 

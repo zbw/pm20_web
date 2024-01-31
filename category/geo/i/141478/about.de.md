@@ -1,6 +1,6 @@
 ---
 title: "C120 Italienisch-Somaliland"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -8,29 +8,108 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C120]{.gray}&#8201; Italienisch-Somaliland
+# [C120]{.gray}&#8201; Italienisch-Somaliland &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q319984) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Italienisch-Somaliland)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141478`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141478`</div>
 
 <div class="hint">
 Scope Note: südlicher Teil Somalias (ab 1960 Somalia)
 </div>
 
 
-
-
-
-## Warenarchiv
-
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
+## Sacharchiv Mappen
 
 
-Insgesamt 3 Mappen, 51 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+
+Kein als Mappe erschlossenes Material.
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 828</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0839H/1069" rel="nofollow">Bilder auf Film h1/sh/S0839H/1069</a> | Italienisch-Somaliland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0840H" rel="nofollow">Bilder auf Film h1/sh/S0840H</a> | Filmanfang: Italienisch-Somaliland : Soziale Zustände, Soziale Lage [C120 d5]
+
+
+:::
+
+
+
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 227</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2727H/0549" rel="nofollow">Bilder auf Film h2/sh/S2727H/0549</a> | Italienisch-Somaliland
+
+
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 3 Mappen (bis 1949), 51 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

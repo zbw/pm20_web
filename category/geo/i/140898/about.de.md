@@ -1,6 +1,6 @@
 ---
 title: "A5 Levante"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [A5]{.gray}&#8201; Levante &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q81483) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Levante)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140898`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/140898`</div>
 
 <div class="hint">
 Scope Note: Länder des östlichen Mittelmeeres, eigentlich alle Länder, die östlich von Italien liegen, besonders das Küstengebiet von Kleinasien, Libanon, Syrien und Ägypten.
@@ -20,14 +20,17 @@ Scope Note: Länder des östlichen Mittelmeeres, eigentlich alle Länder, die ö
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
 
 
 
 
 
 
-Insgesamt 46 Mappen, 250 Dokumente - Mappen komplett.
+
+
+
+Insgesamt 46 Mappen, 250 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -107,6 +110,14 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
   - o1 Sm500 Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145911/about.de.html "Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#o1_Sm500 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140898,145911" title="über: Levante : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140898/1459xx/145911/about.de.html))
 - [o3 Minderheiten aus einzelnen Ländern]{.gray}
   - o3 Sm1 (alt) Minderheiten Kirchen, Schulen und Vereine ..., Allgemein [**&nearr;**](../../../subject/i/145912/about.de.html "Minderheiten Kirchen, Schulen und Vereine ..., Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#o3_Sm1_(alt) "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140898,145912" title="über: Levante : Minderheiten Kirchen, Schulen und Vereine ..., Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140898/1459xx/145912/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
 
 
 

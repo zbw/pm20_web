@@ -1,6 +1,6 @@
 ---
 title: "B42 Britisch-Indien"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,18 +10,21 @@ fn-stub: about
 
 # [B42]{.gray}&#8201; Britisch-Indien &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q129286)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141189`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141189`</div>
 
 
 
 
-[Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
+
+
+
 
 
 
@@ -44,11 +47,63 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 14731</p>
 
 
 
 
-## Warenarchiv
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0680H/1148" rel="nofollow">Bilder auf Film h1/sh/S0680H/1148</a> | Britisch-Indien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0681H" rel="nofollow">Bilder auf Film h1/sh/S0681H</a> | Filmanfang: Britisch-Indien : Land und Leute, Politik und Wirtschaft, Allgemein [B42 b]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0682H" rel="nofollow">Bilder auf Film h1/sh/S0682H</a> | Filmanfang: Britisch-Indien : Volkscharakter, Sport, Sitten und Gebräuche [B42 d4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0683H" rel="nofollow">Bilder auf Film h1/sh/S0683H</a> | Filmanfang: Britisch-Indien : Geschichtliche Vorgänge [B42 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0684H_1" rel="nofollow">Bilder auf Film h1/sh/S0684H_1</a> | Filmanfang: Britisch-Indien : Geschichtliche Vorgänge [B42 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0685H" rel="nofollow">Bilder auf Film h1/sh/S0685H</a> | Filmanfang: Britisch-Indien : Abwehrmaßnahmen gegenüber dem Kommunismus in nichtkommunistischen Ländern [B42 f2 Sm7]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0686H" rel="nofollow">Bilder auf Film h1/sh/S0686H</a> | Filmanfang: Britisch-Indien : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten [B42 f2a]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0687H" rel="nofollow">Bilder auf Film h1/sh/S0687H</a> | Filmanfang: Britisch-Indien : Einzelne Parteien und Parteigruppen Justice-Party [B42 f5a Justice-Party]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0688H" rel="nofollow">Bilder auf Film h1/sh/S0688H</a> | Filmanfang: Britisch-Indien : Wirtschaftspolitische Beziehungen zu einzelnen Ländern V.St.v.A. [B42 g4a V.St.v.A.]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0689H" rel="nofollow">Bilder auf Film h1/sh/S0689H</a> | Filmanfang: Britisch-Indien : Äußere Schuld II [B42 m1 Sm5 II]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0690H" rel="nofollow">Bilder auf Film h1/sh/S0690H</a> | Filmanfang: Britisch-Indien : Bodenbesitzverhältnisse und Bodenpolitik, Hausbesitz [B42 n3]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0691H" rel="nofollow">Bilder auf Film h1/sh/S0691H</a> | Filmanfang: Britisch-Indien : Handel [B42 n18]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0692H" rel="nofollow">Bilder auf Film h1/sh/S0692H</a> | Filmanfang: Britisch-Indien : Schutz und Stützung der Währung [B42 n23 Sm3]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0693H" rel="nofollow">Bilder auf Film h1/sh/S0693H</a> | Filmanfang: Britisch-Indien : Luftverkehr mit einzelnen Ländern [B42 n35b]
+
+
+:::
+
+
+
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 388</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2622H/0632" rel="nofollow">Bilder auf Film h2/sh/S2622H/0632</a> | British-Indien
+
+
+:::
 
 
 
@@ -57,8 +112,27 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
-Insgesamt 35 Mappen, 1283 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 34 Mappen (bis 1949), 1283 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -67,7 +141,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 ### A
 
-- Agrumen [**&nearr;**](../../../ware/i/141948/about.de.html "Agrumen (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW04-Zs "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141189" title="über: Agrumen : Britisch-Indien" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1411xx/141189/about.de.html))
 - Akazienrinde [**&nearr;**](../../../ware/i/141950/about.de.html "Akazienrinde (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PLW06-Fp01 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141950,141189" title="über: Akazienrinde : Britisch-Indien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141950/1411xx/141189/about.de.html))
 - Alaun [**&nearr;**](../../../ware/i/141956/about.de.html "Alaun (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID13-Pm02 "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141956,141189" title="über: Alaun : Britisch-Indien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141956/1411xx/141189/about.de.html))
 - Alkohol [**&nearr;**](../../../ware/i/141966/about.de.html "Alkohol (XXX in der ganzen Welt)") [**&uarr;**](../../../ware/about.de.html#PID20.02-Sp "Warensystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141189" title="über: Alkohol : Britisch-Indien" target="_blank">31 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1411xx/141189/about.de.html))

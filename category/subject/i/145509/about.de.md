@@ -1,6 +1,6 @@
 ---
 title: "n28 Verkehrswesen, Allgemein"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n28]{.gray}&#8201; Verkehrswesen, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428058)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145509`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145509`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 46 Mappen, 874 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 46 Mappen, 886 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -39,7 +40,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - A5a Mittelmeerländer [**&nearr;**](../../../geo/i/140899/about.de.html "Mittelmeerländer (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A5a "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140899,145509" title="über: Mittelmeerländer : Verkehrswesen, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140899/1455xx/145509/about.de.html))
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145509" title="über: Südosteuropa : Verkehrswesen, Allgemein" target="_blank">51 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1455xx/145509/about.de.html))
 - A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,145509" title="über: Orient : Verkehrswesen, Allgemein" target="_blank">18 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1455xx/145509/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145509" title="über: Hamburg : Verkehrswesen, Allgemein" target="_blank">99 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1455xx/145509/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145509" title="über: Hamburg : Verkehrswesen, Allgemein" target="_blank">111 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1455xx/145509/about.de.html))
 - A10n(1) Oberschlesien (dt.-poln. Abstimmungsgebiet) [**&nearr;**](../../../geo/i/140948/about.de.html "Oberschlesien (dt.-poln. Abstimmungsgebiet) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10n(1) "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140948,145509" title="über: Oberschlesien (dt.-poln. Abstimmungsgebiet) : Verkehrswesen, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140948/1455xx/145509/about.de.html))
 - A11 Deutsche Kolonien [**&nearr;**](../../../geo/i/140960/about.de.html "Deutsche Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A11 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140960,145509" title="über: Deutsche Kolonien : Verkehrswesen, Allgemein" target="_blank">13 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140960/1455xx/145509/about.de.html))
 - A36 Italienische Kolonien [**&nearr;**](../../../geo/i/141012/about.de.html "Italienische Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A36 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141012,145509" title="über: Italienische Kolonien : Verkehrswesen, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141012/1455xx/145509/about.de.html))
@@ -91,6 +92,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145509" title="über: Argentinien : Verkehrswesen, Allgemein" target="_blank">132 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1455xx/145509/about.de.html))
 - E101 Niederländisch-Guayana [**&nearr;**](../../../geo/i/141699/about.de.html "Niederländisch-Guayana (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E101 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141699,145509" title="über: Niederländisch-Guayana : Verkehrswesen, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141699/1455xx/145509/about.de.html))
 - E102 Britisch-Guayana [**&nearr;**](../../../geo/i/141700/about.de.html "Britisch-Guayana (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E102 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141700,145509" title="über: Britisch-Guayana : Verkehrswesen, Allgemein" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1417xx/141700/1455xx/145509/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

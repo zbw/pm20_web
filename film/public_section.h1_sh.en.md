@@ -6,13 +6,15 @@ robots: nofollow
 
 # Published sections from digitized roll films
 
-## A10f
+Some articles within the sections may be left out due to intellectual property law.
+
+## South Jutland
 
 ### S0211H
 
 - [German/Danish border vote](h1/sh/S0211H/0848) (247)
 
-## A22
+## United Kingdom
 
 ### S0291H
 
@@ -22,7 +24,13 @@ robots: nofollow
 
 - [Great Britain outbreak of WWI](h1/sh/S0292H/0646) (35)
 
-## A34
+## France
+
+### S0415H
+
+- [French film industry (n21 Sm8)](h1/sh/S0415H/1010) (47)
+
+## Switzerland
 
 ### S0449H
 
@@ -32,13 +40,13 @@ robots: nofollow
 
 - [Schweiz outbreak of WWI](h1/sh/S0450H/0098) (15)
 
-## B42
+## Indian Empire
 
 ### S0690H
 
 - [British-India : Land tenure, land policy](h1/sh/S0690H/0001) (16)
 
-## E15
+## United States
 
 ### S0887H
 

@@ -1,6 +1,6 @@
 ---
 title: "n37a Sm2 Sozialversicherung"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n37a Sm2]{.gray}&#8201; Sozialversicherung &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711297)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/160748`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/160748`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 3 Mappen, 82 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 3 Mappen, 82 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -42,6 +43,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E85 Chile [**&nearr;**](../../../geo/i/141691/about.de.html "Chile (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E85 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141691,160748" title="über: Chile : Sozialversicherung" target="_blank">80 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141691/1607xx/160748/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "C92 Tristan da Cunha"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [C92]{.gray}&#8201; Tristan da Cunha &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q220982) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Tristan_da_Cunha)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141453`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141453`</div>
 
 <div class="hint">
 Scope Note: Hauptinsel des gleichnamigen, aus vier Inseln und einigen Felseilanden bestehenden Archipels in südlichen Atlantischen Ozean
@@ -20,14 +20,17 @@ Scope Note: Hauptinsel des gleichnamigen, aus vier Inseln und einigen Felseiland
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
 
 
 
 
 
 
-Insgesamt 3 Mappen, 134 Dokumente - Mappen komplett.
+
+
+
+Insgesamt 3 Mappen, 134 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -46,6 +49,37 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - [g4 Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein]{.gray}
   - g4 Sm1 Zollpolitik [**&nearr;**](../../../subject/i/163419/about.de.html "Zollpolitik (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#g4_Sm1 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141453,163419" title="über: Tristan da Cunha : Zollpolitik" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141453/1634xx/163419/about.de.html))
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 9</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2714H/0710" rel="nofollow">Bilder auf Film h2/sh/S2714H/0710</a> | Tristan da Cunha
+
+
+:::
+
+
+
+
+
+
+
 
 
 

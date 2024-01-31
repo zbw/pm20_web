@@ -1,6 +1,6 @@
 ---
 title: "q Sm16 Sklavenfrage"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [q Sm16]{.gray}&#8201; Sklavenfrage &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711389)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145962`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145962`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 18 Mappen, 207 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 18 Mappen, 208 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -33,7 +34,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 ### Europa
 
-- A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,145962" title="über: Orient : Sklavenfrage" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1459xx/145962/about.de.html))
+- A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,145962" title="über: Orient : Sklavenfrage" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1459xx/145962/about.de.html))
 - A36 Italienische Kolonien [**&nearr;**](../../../geo/i/141012/about.de.html "Italienische Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A36 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141012,145962" title="über: Italienische Kolonien : Sklavenfrage" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141012/1459xx/145962/about.de.html))
 
 ### Asien
@@ -57,6 +58,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - C110 Deutsch-Ostafrika [**&nearr;**](../../../geo/i/141471/about.de.html "Deutsch-Ostafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C110 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141471,145962" title="über: Deutsch-Ostafrika : Sklavenfrage" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141471/1459xx/145962/about.de.html))
 - C125 Abessinien [**&nearr;**](../../../geo/i/141482/about.de.html "Abessinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C125 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141482,145962" title="über: Abessinien : Sklavenfrage" target="_blank">102 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141482/1459xx/145962/about.de.html))
 - C126 Eritrea [**&nearr;**](../../../geo/i/141483/about.de.html "Eritrea (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C126 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141483,145962" title="über: Eritrea : Sklavenfrage" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141483/1459xx/145962/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Building and insulating panels"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Building and insulating panels &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q113376050)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142083`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142083`</div>
 
 
 
@@ -18,13 +18,15 @@ fn-stub: about
 
 
 
-## Commodities/wares archives
+## Commodities/wares archives folders
 
 
 
 
 
-In total 38 folders, 382 documents - folders complete.
+
+
+In total 38 folders, 382 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -82,6 +84,38 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - E15 United States [**&nearr;**](../../../geo/i/141653/about.en.html "United States (all folders)") [**&uarr;**](../../../geo/about.en.html#E15 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142083,141653" title="about: Building and insulating panels : United States" target="_blank">9 documents</a>) ([folder](../../../../folder/wa/1420xx/142083/1416xx/141653/about.en.html))
 - E85 Chile [**&nearr;**](../../../geo/i/141691/about.en.html "Chile (all folders)") [**&uarr;**](../../../geo/about.en.html#E85 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142083,141691" title="about: Building and insulating panels : Chile" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1420xx/142083/1416xx/141691/about.en.html))
 - E97 Brazil [**&nearr;**](../../../geo/i/141697/about.en.html "Brazil (all folders)") [**&uarr;**](../../../geo/about.en.html#E97 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142083,141697" title="about: Building and insulating panels : Brazil" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142083/1416xx/141697/about.en.html))
+
+
+
+<a id="filmsections" />
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 106</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2002H/0502" rel="nofollow">Images on film h2/wa/W2002H/0502</a> | Bau- und Isolierplatten
+
+
+:::
+
+
+
+
+
+
+
+
 
 
 

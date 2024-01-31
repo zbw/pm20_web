@@ -1,6 +1,6 @@
 ---
 title: "n31a Bau, Ausbau, wirtschaftliche Förderung und Verwaltung einzelner Häfen"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n31a]{.gray}&#8201; Bau, Ausbau, wirtschaftliche Förderung und Verwaltung einzelner Häfen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428070)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145565`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145565`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 33 Mappen, 2287 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 33 Mappen, 2287 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -75,6 +76,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145565" title="über: Argentinien : Bau, Ausbau, wirtschaftliche Förderung und Verwaltung einzelner Häfen" target="_blank">556 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1455xx/145565/about.de.html))
 - E97 Brasilien [**&nearr;**](../../../geo/i/141697/about.de.html "Brasilien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E97 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141697,145565" title="über: Brasilien : Bau, Ausbau, wirtschaftliche Förderung und Verwaltung einzelner Häfen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141697/1455xx/145565/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

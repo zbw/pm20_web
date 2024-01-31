@@ -1,6 +1,6 @@
 ---
 title: "f6 Verhandlungen von parlamentarischen und politischen Körperschaften"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [f6]{.gray}&#8201; Verhandlungen von parlamentarischen und politischen Körperschaften &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427870)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144440`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144440`</div>
 
 <div class="hint">
 Scope Note: ab 1945 bis 1990 geändert in: Sitzungsberichte und Pressekommentare parlamentarischer und anderer politischer Gebietskörperschaften. - Ab 1990 integriert in: f 04 SM 002.1 Parlamentarische und politische Körperschaften, bzw. in f 04 SM 002.2 Einzelne parlamentarische und politische Körperschaften
@@ -20,19 +20,20 @@ Scope Note: ab 1945 bis 1990 geändert in: Sitzungsberichte und Pressekommentare
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 10 Mappen, 826 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 10 Mappen, 894 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
 
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144440" title="über: Hamburg : Verhandlungen von parlamentarischen und politischen Körperschaften" target="_blank">188 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1444xx/144440/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144440" title="über: Hamburg : Verhandlungen von parlamentarischen und politischen Körperschaften" target="_blank">256 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1444xx/144440/about.de.html))
 
 ### Asien
 
@@ -51,6 +52,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144440" title="über: Argentinien : Verhandlungen von parlamentarischen und politischen Körperschaften" target="_blank">111 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1444xx/144440/about.de.html))
 - E95 Uruguay [**&nearr;**](../../../geo/i/141695/about.de.html "Uruguay (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E95 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141695,144440" title="über: Uruguay : Verhandlungen von parlamentarischen und politischen Körperschaften" target="_blank">112 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141695/1444xx/144440/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

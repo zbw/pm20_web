@@ -1,6 +1,6 @@
 ---
 title: "B94 China"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,32 +10,35 @@ fn-stub: about
 
 # [B94]{.gray}&#8201; China &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q148) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Volksrepublik_China)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141253`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141253`</div>
 
 
 
 
-[Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
-
-
-
-
-
-## Sacharchiv
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
+## Sacharchiv Mappen
 
-Insgesamt 2 Mappen, 733 Dokumente - Mappen unvollständig.
+
+
+
+
+
+
+
+
+Insgesamt 2 Mappen, 735 Dokumente - Mappen unvollständig.
 Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
 
 
-  - o1 Sm500 Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145911/about.de.html "Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#o1_Sm500 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141253,145911" title="über: China : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">724 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141253/1459xx/145911/about.de.html))
+  - o1 Sm500 Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145911/about.de.html "Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#o1_Sm500 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141253,145911" title="über: China : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">726 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141253/1459xx/145911/about.de.html))
 
 ### Siedlung und Wanderung
 
@@ -44,11 +47,87 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 30524</p>
 
 
 
 
-## Warenarchiv
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0709H/0989" rel="nofollow">Bilder auf Film h1/sh/S0709H/0989</a> | China
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0710H" rel="nofollow">Bilder auf Film h1/sh/S0710H</a> | Filmanfang: China : Landeskunde, Allgemein Literatur [B94 c Literatur]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0711H" rel="nofollow">Bilder auf Film h1/sh/S0711H</a> | Filmanfang: China : Religionswesen, Kirchen [B94 d7]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0712H_1" rel="nofollow">Bilder auf Film h1/sh/S0712H_1</a> | Filmanfang: China : Geschichtliche Vorgänge [B94 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0713H" rel="nofollow">Bilder auf Film h1/sh/S0713H</a> | Filmanfang: China : Geschichtliche Vorgänge [B94 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0714H" rel="nofollow">Bilder auf Film h1/sh/S0714H</a> | Filmanfang: China : Geschichtliche Vorgänge [B94 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0715H_1" rel="nofollow">Bilder auf Film h1/sh/S0715H_1</a> | Filmanfang: China : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten Shanghai [B94 f2a Shanghai]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0716H" rel="nofollow">Bilder auf Film h1/sh/S0716H</a> | Filmanfang: China : Politische Beziehungen zu einzelnen Ländern Deutschland [B94 g1 Deutschland]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0717H" rel="nofollow">Bilder auf Film h1/sh/S0717H</a> | Filmanfang: China : Politische Beziehungen zu einzelnen Ländern Japan [B94 g1 Japan]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0718H" rel="nofollow">Bilder auf Film h1/sh/S0718H</a> | Filmanfang: China : Politische Beziehungen zu einzelnen Ländern Japan [B94 g1 Japan]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0719H" rel="nofollow">Bilder auf Film h1/sh/S0719H</a> | Filmanfang: China : Politische Beziehungen zu einzelnen Ländern Japan [B94 g1 Japan]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0720H" rel="nofollow">Bilder auf Film h1/sh/S0720H</a> | Filmanfang: China : Politische Beziehungen zu einzelnen Ländern Japan [B94 g1 Japan]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0721H" rel="nofollow">Bilder auf Film h1/sh/S0721H</a> | Filmanfang: China : Politische Beziehungen zu einzelnen Ländern Rußland [B94 g1 Rußland]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0722H" rel="nofollow">Bilder auf Film h1/sh/S0722H</a> | Filmanfang: China : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein [B94 g4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0723H" rel="nofollow">Bilder auf Film h1/sh/S0723H</a> | Filmanfang: China : Wirtschaftspolitische Beziehungen zu einzelnen Ländern Lettland [B94 g4a Lettland]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0724H" rel="nofollow">Bilder auf Film h1/sh/S0724H</a> | Filmanfang: China : Flugwesen [B94 l4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0725H" rel="nofollow">Bilder auf Film h1/sh/S0725H</a> | Filmanfang: China : Zollwesen, Zolltarife [B94 m2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0726H" rel="nofollow">Bilder auf Film h1/sh/S0726H</a> | Filmanfang: China : Wirtschaftspolitik [B94 n1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0727H" rel="nofollow">Bilder auf Film h1/sh/S0727H</a> | Filmanfang: China : Übersichten der Preisentwicklung, Kosten der Lebenshaltung [B94 n2 Sm11.II]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0728H" rel="nofollow">Bilder auf Film h1/sh/S0728H</a> | Filmanfang: China : Landwirtschaft in einzelnen Bundesstaaten, Provinzen etc. [B94 n4a]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0729H" rel="nofollow">Bilder auf Film h1/sh/S0729H</a> | Filmanfang: China : Arbeiterfrage, Arbeitsverhältnisse, Allgemein [B94 n15]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0730H" rel="nofollow">Bilder auf Film h1/sh/S0730H</a> | Filmanfang: China : Handel [B94 n18]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0731H" rel="nofollow">Bilder auf Film h1/sh/S0731H</a> | Filmanfang: China : Handelsbeziehungen zu einzelnen Ländern Italien [B94 n19 Italien]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0732H" rel="nofollow">Bilder auf Film h1/sh/S0732H</a> | Filmanfang: China : Edelmetallbewegung, Edelmetallarbitrage, Allgemein [B94 n23 Sm1.I]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0733H" rel="nofollow">Bilder auf Film h1/sh/S0733H</a> | Filmanfang: China : Eisenbahnwesen [B94 n30]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0734H" rel="nofollow">Bilder auf Film h1/sh/S0734H</a> | Filmanfang: China : Einzelne Binnenschiffahrtsstrassen und Seekanäle [B94 n33a]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0735H" rel="nofollow">Bilder auf Film h1/sh/S0735H</a> | Filmanfang: China : Auswanderung und Auswanderungspolitik [B94 p4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0735H/0286/R" rel="nofollow">Bilder auf Film h1/sh/S0735H/0286/R</a> | China : China, Bankenkonsortium
+
+
+:::
+
+
+
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 11285</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2652H/0494" rel="nofollow">Bilder auf Film h2/sh/S2652H/0494</a> | China
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2653H" rel="nofollow">Bilder auf Film h2/sh/S2653H</a> | Filmanfang: China : Geschichtliche Vorgänge [B94 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2654H" rel="nofollow">Bilder auf Film h2/sh/S2654H</a> | Filmanfang: China : f4-6 Sm [B94 f4-6 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2655H" rel="nofollow">Bilder auf Film h2/sh/S2655H</a> | Filmanfang: China : Politische Beziehungen zu einzelnen Ländern Sm3-9 [B94 g1 Sm3-9]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2656H" rel="nofollow">Bilder auf Film h2/sh/S2656H</a> | Filmanfang: China : Politische Beziehungen zu einzelnen Ländern [B94 g1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2657H" rel="nofollow">Bilder auf Film h2/sh/S2657H</a> | Filmanfang: China : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein Sm [B94 g4 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2658H" rel="nofollow">Bilder auf Film h2/sh/S2658H</a> | Filmanfang: China : Wirtschaftspolitische Beziehungen zu einzelnen Ländern [B94 g4a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2659H" rel="nofollow">Bilder auf Film h2/sh/S2659H</a> | Filmanfang: China : Militärwesen, Allgemein Sm [B94 l Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2660H" rel="nofollow">Bilder auf Film h2/sh/S2660H</a> | Filmanfang: China : Berichte über die wirtschaftliche Lage [B94 n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2661H" rel="nofollow">Bilder auf Film h2/sh/S2661H</a> | Filmanfang: China : Industrie Sm [B94 n13 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2662H" rel="nofollow">Bilder auf Film h2/sh/S2662H</a> | Filmanfang: China : n29-30b [B94 n29-30b]
+
+
+:::
 
 
 
@@ -57,8 +136,27 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
-Insgesamt 37 Mappen, 1168 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 37 Mappen (bis 1949), 1168 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

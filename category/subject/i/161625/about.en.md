@@ -1,6 +1,6 @@
 ---
 title: "n28 Sm2 Travel, tourism"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n28 Sm2]{.gray}&#8201; Travel, tourism &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711087)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/161625`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/161625`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 20 folders, 416 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 20 folders, 416 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -65,6 +66,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### Polar regions
 
 - F10 Arctic region [**&nearr;**](../../../geo/i/141702/about.en.html "Arctic region (all folders)") [**&uarr;**](../../../geo/about.en.html#F10 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141702,161625" title="about: Arctic region : Travel, tourism" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1417xx/141702/1616xx/161625/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

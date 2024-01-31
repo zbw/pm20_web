@@ -1,6 +1,6 @@
 ---
 title: "Arrowroot"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Arrowroot &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q4069888) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Arrowroot)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142005`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142005`</div>
 
 
 
@@ -18,13 +18,15 @@ fn-stub: about
 
 
 
-## Commodities/wares archives
+## Commodities/wares archives folders
 
 
 
 
 
-In total 12 folders, 20 documents - folders complete.
+
+
+In total 12 folders, 20 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -53,6 +55,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - E27 British West Indies [**&nearr;**](../../../geo/i/141663/about.en.html "British West Indies (all folders)") [**&uarr;**](../../../geo/about.en.html#E27 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142005,141663" title="about: Arrowroot : British West Indies" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142005/1416xx/141663/about.en.html))
 - E28 Jamaica [**&nearr;**](../../../geo/i/141664/about.en.html "Jamaica (all folders)") [**&uarr;**](../../../geo/about.en.html#E28 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142005,141664" title="about: Arrowroot : Jamaica" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142005/1416xx/141664/about.en.html))
 - E48 Windward islands [**&nearr;**](../../../geo/i/141669/about.en.html "Windward islands (all folders)") [**&uarr;**](../../../geo/about.en.html#E48 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142005,141669" title="about: Arrowroot : Windward islands" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1420xx/142005/1416xx/141669/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

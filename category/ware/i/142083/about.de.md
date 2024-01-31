@@ -1,6 +1,6 @@
 ---
 title: "Bau- und Isolierplatten"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Bau- und Isolierplatten &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q113376050)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142083`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142083`</div>
 
 <div class="hint">
 Scope Note: (einschl.: Kacheln; Holzplatten)
@@ -20,12 +20,14 @@ Scope Note: (einschl.: Kacheln; Holzplatten)
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 38 Mappen, 382 Dokumente - Mappen komplett.
+
+
+Insgesamt 38 Mappen, 382 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -84,6 +86,38 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - E15 USA [**&nearr;**](../../../geo/i/141653/about.de.html "USA (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E15 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142083,141653" title="über: Bau- und Isolierplatten : USA" target="_blank">9 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142083/1416xx/141653/about.de.html))
 - E85 Chile [**&nearr;**](../../../geo/i/141691/about.de.html "Chile (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E85 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142083,141691" title="über: Bau- und Isolierplatten : Chile" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142083/1416xx/141691/about.de.html))
 - E97 Brasilien [**&nearr;**](../../../geo/i/141697/about.de.html "Brasilien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E97 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142083,141697" title="über: Bau- und Isolierplatten : Brasilien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142083/1416xx/141697/about.de.html))
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 106</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2002H/0502" rel="nofollow">Bilder auf Film h2/wa/W2002H/0502</a> | Bau- und Isolierplatten
+
+
+:::
+
+
+
+
+
+
+
+
 
 
 

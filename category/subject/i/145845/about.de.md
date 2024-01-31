@@ -1,6 +1,6 @@
 ---
 title: "n Sm41 Verpackungswesen"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n Sm41]{.gray}&#8201; Verpackungswesen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710367)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145845`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145845`</div>
 
 
 
@@ -18,22 +18,19 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 4 Mappen, 9 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 3 Mappen, 9 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
 
 
-
-### Europa
-
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145845" title="über: Hamburg : Verpackungswesen" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1458xx/145845/about.de.html))
 
 ### Asien
 
@@ -43,6 +40,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145845" title="über: Argentinien : Verpackungswesen" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1458xx/145845/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

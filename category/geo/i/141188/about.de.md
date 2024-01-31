@@ -1,6 +1,6 @@
 ---
 title: "B41 Afghanistan"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,18 +10,21 @@ fn-stub: about
 
 # [B41]{.gray}&#8201; Afghanistan &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q889) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Afghanistan)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141188`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141188`</div>
 
 
 
 
-[Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
+
+
+
 
 
 
@@ -43,11 +46,62 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 1435</p>
 
 
 
 
-## Warenarchiv
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0679H/0967" rel="nofollow">Bilder auf Film h1/sh/S0679H/0967</a> | Afghanistan
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0679H/0967/R" rel="nofollow">Bilder auf Film h1/sh/S0679H/0967/R</a> | Afghanistan : Land und Leute, Politik und Wirtschaft, Allgemein - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0679H/0978/R" rel="nofollow">Bilder auf Film h1/sh/S0679H/0978/R</a> | Afghanistan : Land und Leute, Politik und Wirtschaft, Allgemein
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0679H/1031/L" rel="nofollow">Bilder auf Film h1/sh/S0679H/1031/L</a> | Afghanisatn : Landeskunde, Allgemein
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0679H/1104/R" rel="nofollow">Bilder auf Film h1/sh/S0679H/1104/R</a> | Afghanistan : Bevölkerung und Bevölkerungspolitik
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0679H/1118/L" rel="nofollow">Bilder auf Film h1/sh/S0679H/1118/L</a> | Afghanistan : Gesundheitliche Verhältnisse, Allgemein
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0679H/1127/R" rel="nofollow">Bilder auf Film h1/sh/S0679H/1127/R</a> | Afghanistan : Geschichte, Politik, Allgemein
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0679H/1145/R" rel="nofollow">Bilder auf Film h1/sh/S0679H/1145/R</a> | Afghanistan : Geschichtliche Vorgänge
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0679H/1147/R" rel="nofollow">Bilder auf Film h1/sh/S0679H/1147/R</a> | Afghanistan : Geschichtliche Vorgänge 1900-1914
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0679H/1156/L" rel="nofollow">Bilder auf Film h1/sh/S0679H/1156/L</a> | Afghanistan : Geschichtliche Vorgänge 1914-1918 (1. Weltkrieg)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0679H/1165/R" rel="nofollow">Bilder auf Film h1/sh/S0679H/1165/R</a> | Afghanistan : Geschichtliche Vorgänge 1918-1939
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0680H" rel="nofollow">Bilder auf Film h1/sh/S0680H</a> | Filmanfang: Afghanistan : Geschichtliche Vorgänge [B41 f2]
+
+
+:::
+
+
+
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 853</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2621H/0963" rel="nofollow">Bilder auf Film h2/sh/S2621H/0963</a> | Afghanistan
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2622H" rel="nofollow">Bilder auf Film h2/sh/S2622H</a> | Filmanfang: Afghanistan : b-g1 [B41 b-g1]
+
+
+:::
 
 
 
@@ -56,8 +110,27 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
-Insgesamt 5 Mappen, 13 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 5 Mappen (bis 1949), 13 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

@@ -1,6 +1,6 @@
 ---
 title: "Apfelsine"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Apfelsine &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q13191) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Orange_(Frucht))
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141981`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/141981`</div>
 
 
 
@@ -18,12 +18,14 @@ fn-stub: about
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 77 Mappen, 1920 Dokumente - Mappen komplett.
+
+
+Insgesamt 77 Mappen, 1920 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -51,7 +53,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - A40b Österreich [**&nearr;**](../../../geo/i/141731/about.de.html "Österreich (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40b "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,141731" title="über: Apfelsine : Österreich" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141981/1417xx/141731/about.de.html))
 - A40c Tschechoslowakei [**&nearr;**](../../../geo/i/141022/about.de.html "Tschechoslowakei (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40c "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,141022" title="über: Apfelsine : Tschechoslowakei" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141981/1410xx/141022/about.de.html))
 - A40d Ungarn [**&nearr;**](../../../geo/i/141025/about.de.html "Ungarn (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40d "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,141025" title="über: Apfelsine : Ungarn" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141981/1410xx/141025/about.de.html))
-- A40e Südslawien [**&nearr;**](../../../geo/i/141028/about.de.html "Südslawien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40e "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,141028" title="über: Apfelsine : Südslawien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141981/1410xx/141028/about.de.html))
+- A40e Jugoslawien (bis 1945 Südslawien) [**&nearr;**](../../../geo/i/141028/about.de.html "Jugoslawien (bis 1945 Südslawien) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40e "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,141028" title="über: Apfelsine : Jugoslawien (bis 1945 Südslawien)" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141981/1410xx/141028/about.de.html))
 - A45 Griechenland [**&nearr;**](../../../geo/i/141037/about.de.html "Griechenland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A45 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,141037" title="über: Apfelsine : Griechenland" target="_blank">9 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141981/1410xx/141037/about.de.html))
 - A46 Bulgarien [**&nearr;**](../../../geo/i/141039/about.de.html "Bulgarien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A46 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,141039" title="über: Apfelsine : Bulgarien" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141981/1410xx/141039/about.de.html))
 - A47 Rumänien [**&nearr;**](../../../geo/i/141040/about.de.html "Rumänien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A47 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,141040" title="über: Apfelsine : Rumänien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141981/1410xx/141040/about.de.html))
@@ -124,6 +126,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Welt
 
 - H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141981,141728" title="über: Apfelsine : Welt" target="_blank">58 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141981/1417xx/141728/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

@@ -30,21 +30,47 @@
   </span>
 </div>
 </header>
-<h1 id="annotationen-für-filme---anleitung-entwurf">Annotationen für Filme - Anleitung (Entwurf)</h1>
-<p>Damit BenutzerInnen Metadaten zu den auf den Filmen enthaltenen Mappen und Dokumenten erfassen können, wird der Non-profit Webservice <a href="https://web.hypothes.is/">Hypothes.is</a> eingebunden. Im Filmviewer werden die Hypothes.is-Icons oben am rechten Fensterrand angezeigt. User, die Annotationen erfassen wollen, müssen sich bei dem Service mit einer Email-Adresse registrieren und anmelden. Alle Annotationen, die in Hypothes.is als “Public” erfasst wurden, werden für den Filmviewer ausgewertet.</p>
-<p>In den Hypothes.is-Annotationen können beliebige Texte erfasst werden. Um sie maschinell parsen und die Anzeige im Filmviewer damit anreichern zu können, wird hier ein standardisiertes Format für Kommentare definiert.</p>
-<p>Wenn die erste Zeile der Annotation mit einem Feld-Marker beginnt, wird diese Zeile als Feldstruktur verstanden. Folgefelder sind durch mindestens ein Leerzeichen und einen anderen Feld-Marker getrennt. Feld-Marker dürfen nicht mehrfach auftreten. Ihre Reihenfolge ist nicht entscheidend, sollte jedoch aus Gründen der Lesbarkeit der untenstehenden Liste folgen.</p>
-<p>Weitere Informationen können formlos folgen (Leerzeile als optischen Trenner setzen), werden aber nicht automatisiert ausgewertet.</p>
+<h1 id="annotationen-für-filme---anleitung-entwurf">Annotationen für
+Filme - Anleitung (Entwurf)</h1>
+<p>Damit BenutzerInnen Metadaten zu den auf den Filmen enthaltenen
+Mappen und Dokumenten erfassen können, wird der Non-profit Webservice <a
+href="https://web.hypothes.is/">Hypothes.is</a> eingebunden. Im
+Filmviewer werden die Hypothes.is-Icons oben am rechten Fensterrand
+angezeigt. User, die Annotationen erfassen wollen, müssen sich bei dem
+Service mit einer Email-Adresse registrieren und anmelden. Alle
+Annotationen, die in Hypothes.is als “Public” erfasst wurden, werden für
+den Filmviewer ausgewertet.</p>
+<p>In den Hypothes.is-Annotationen können beliebige Texte erfasst
+werden. Um sie maschinell parsen und die Anzeige im Filmviewer damit
+anreichern zu können, wird hier ein standardisiertes Format für
+Kommentare definiert.</p>
+<p>Wenn die erste Zeile der Annotation mit einem Feld-Marker beginnt,
+wird diese Zeile als Feldstruktur verstanden. Folgefelder sind durch
+mindestens ein Leerzeichen und einen anderen Feld-Marker getrennt.
+Feld-Marker dürfen nicht mehrfach auftreten. Ihre Reihenfolge ist nicht
+entscheidend, sollte jedoch aus Gründen der Lesbarkeit der
+untenstehenden Liste folgen.</p>
+<p>Weitere Informationen können formlos folgen (Leerzeile als optischen
+Trenner setzen), werden aber nicht automatisiert ausgewertet.</p>
 <p>Folgende Feld-Marker werden erkannt:</p>
 <ul>
 <li><tt>$m</tt> - neue Mappe / folder start mark</li>
-<li><tt>$a</tt> - neuer Artikel (bei neuer Mappe nicht erforderlich) / article start (implied with new folder)</li>
-<li><tt>$r</tt> - rechte Seite (ansonsten links) / right page (left page implied)</li>
-<li><tt>$s</tt> - Signatur der Mappe (Format noch festzulegen / signature of the folder (format tbd)</li>
-<li><tt>$d</tt> - Datum der Publikation (JJJJ-MM-TT, JJJJ-MM, JJJJ) / date of publication (YYYY-MM-DD, YYYY-MM, YYYY)</li>
-<li><tt>$p</tt> - reserviert für Name (oder Code) der Publikation / reserved for name (or code) of publication, format tbd</li>
-<li><tt>$t</tt> - reserviert für Autor_in des Textes / reserved for author of the text, format tbd (WD QID, or “x” for named, but not identified?)</li>
-<li><tt>$i</tt> - reserviert für Autor_in der Abbildung / reserved for author of the image, format tbd (WD QID, or “x” for named, but not identified?)</li>
+<li><tt>$a</tt> - neuer Artikel (bei neuer Mappe nicht erforderlich) /
+article start (implied with new folder)</li>
+<li><tt>$r</tt> - rechte Seite (ansonsten links) / right page (left page
+implied)</li>
+<li><tt>$s</tt> - Signatur der Mappe (Format noch festzulegen /
+signature of the folder (format tbd)</li>
+<li><tt>$d</tt> - Datum der Publikation (JJJJ-MM-TT, JJJJ-MM, JJJJ) /
+date of publication (YYYY-MM-DD, YYYY-MM, YYYY)</li>
+<li><tt>$p</tt> - reserviert für Name (oder Code) der Publikation /
+reserved for name (or code) of publication, format tbd</li>
+<li><tt>$t</tt> - reserviert für Autor_in des Textes / reserved for
+author of the text, format tbd (WD QID, or “x” for named, but not
+identified?)</li>
+<li><tt>$i</tt> - reserviert für Autor_in der Abbildung / reserved for
+author of the image, format tbd (WD QID, or “x” for named, but not
+identified?)</li>
 <li><tt>$x</tt> - skip, Trennseite / skip, delimiter page</li>
 </ul>
 <p>Beispieleinträge:</p>
@@ -55,11 +81,13 @@ $a
 
 $m $s E28
 </pre>
-<p>Die Annotationen können auf Seitenebene erfasst werden (Notiz-Symbol am rechten Bildschirmrand), es ist also nicht erforderlich, einen Teil des Textes auszuwählen.</p>
+<p>Die Annotationen können auf Seitenebene erfasst werden (Notiz-Symbol
+am rechten Bildschirmrand), es ist also nicht erforderlich, einen Teil
+des Textes auszuwählen.</p>
 <p><a href=".">zurück zum Film-Überblick</a></p>
 <footer>
   <p><a href="../about">zurück zu Dokumentation / Documentation</a></p>
-<p><a href="&#109;&#97;ilto&#58;p%72essema%70pe&#50;0&#64;&#37;&#55;Ab%77&#46;eu?subject=Feedback%20zu%20PM20%20Annotationen&body=%0D%0A%0D%0A%0D%0A---%0D%0Ahttps://pm20.zbw.eu/doc/tech/film_annotation.de.html">Feedback</a> &nbsp;
+<p><a href="&#109;&#97;ilto&#58;pr%&#54;5&#37;73%73%6&#53;&#109;&#97;ppe20&#64;z&#37;62%77-onli%6Ee%&#50;Ee&#117;?subject=Feedback%20zu%20PM20%20Annotationen&body=%0D%0A%0D%0A%0D%0A---%0D%0Ahttps://pm20.zbw.eu/doc/tech/film_annotation.de.html">Feedback</a> &nbsp;
 <a href="/about-pm20/legal.de.html">Rechtliches</a> &nbsp;
 <a href="https://www.zbw.eu/de/impressum/">Impressum</a> &nbsp; <a href="https://www.zbw.eu/de/datenschutz/">Datenschutz</a> &nbsp;
 Alle Metadaten unter <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.de">CC0</a> Lizenz</p>

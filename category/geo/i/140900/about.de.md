@@ -1,6 +1,6 @@
 ---
 title: "A6 Südosteuropa"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,27 +10,30 @@ fn-stub: about
 
 # [A6]{.gray}&#8201; Südosteuropa &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q263686) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/S%C3%BCdosteuropa)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140900`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/140900`</div>
 
 <div class="hint">
 Scope Note: (einschl.: Balkan, Balitkum, Albanien, Bulgarien, Griechenland, Makedonien, Rumänien,  Europäische Türkei, ehem. Jugoslawien, außer Slowenien)Umfasst die Südosteuropäische Halbinsel
 </div>
 
 
-[Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
 
 
 
 
 
 
-Insgesamt 190 Mappen, 4300 Dokumente - Mappen komplett.
+
+
+
+Insgesamt 185 Mappen, 4300 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -189,7 +192,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
   - n5 Sm2.I Viehseuche, Allgemein [**&nearr;**](../../../subject/i/145071/about.de.html "Viehseuche, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n5_Sm2.I "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145071" title="über: Südosteuropa : Viehseuche, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1450xx/145071/about.de.html))
   - n5 Sm20 Viehwirtschaft, Konferenzen [**&nearr;**](../../../subject/i/152137/about.de.html "Viehwirtschaft, Konferenzen (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n5_Sm20 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,152137" title="über: Südosteuropa : Viehwirtschaft, Konferenzen" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1521xx/152137/about.de.html))
 - n9 Forstwirtschaft [**&nearr;**](../../../subject/i/145074/about.de.html "Forstwirtschaft (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n9 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145074" title="über: Südosteuropa : Forstwirtschaft" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1450xx/145074/about.de.html))
-- n10 Jagd [**&nearr;**](../../../subject/i/145075/about.de.html "Jagd (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n10 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145075" title="über: Südosteuropa : Jagd" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1450xx/145075/about.de.html))
 - n11 Fischerei [**&nearr;**](../../../subject/i/145076/about.de.html "Fischerei (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n11 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145076" title="über: Südosteuropa : Fischerei" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1450xx/145076/about.de.html))
 - n12 Bergbau [**&nearr;**](../../../subject/i/145083/about.de.html "Bergbau (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n12 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145083" title="über: Südosteuropa : Bergbau" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1450xx/145083/about.de.html))
   - n12 Sm8.I Fremdländische Rechte und Kapitalbeteiligungen am Bergbau, Allgemein [**&nearr;**](../../../subject/i/145091/about.de.html "Fremdländische Rechte und Kapitalbeteiligungen am Bergbau, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n12_Sm8.I "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145091" title="über: Südosteuropa : Fremdländische Rechte und Kapitalbeteiligungen am Bergbau, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1450xx/145091/about.de.html))
@@ -198,18 +200,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
   - n13 Sm12.II Verflechtung mit der Industrie des Auslandes, Einzelne Länder [**&nearr;**](../../../subject/i/145112/about.de.html "Verflechtung mit der Industrie des Auslandes, Einzelne Länder (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n13_Sm12.II "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145112" title="über: Südosteuropa : Verflechtung mit der Industrie des Auslandes, Einzelne Länder" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1451xx/145112/about.de.html))
 - [n13a Einzelne Industriezweige]{.gray}
   - n13a Sm1 Chemische Industrie [**&nearr;**](../../../subject/i/145117/about.de.html "Chemische Industrie (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n13a_Sm1 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145117" title="über: Südosteuropa : Chemische Industrie" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1451xx/145117/about.de.html))
-  - n13a Sm2 Montanindustrie [**&nearr;**](../../../subject/i/145118/about.de.html "Montanindustrie (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n13a_Sm2 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145118" title="über: Südosteuropa : Montanindustrie" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1451xx/145118/about.de.html))
   - n13a Sm3 Textilindustrie [**&nearr;**](../../../subject/i/145119/about.de.html "Textilindustrie (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n13a_Sm3 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145119" title="über: Südosteuropa : Textilindustrie" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1451xx/145119/about.de.html))
   - n13a Sm4 Elektrizitätsindustrie [**&nearr;**](../../../subject/i/145120/about.de.html "Elektrizitätsindustrie (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n13a_Sm4 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145120" title="über: Südosteuropa : Elektrizitätsindustrie" target="_blank">12 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1451xx/145120/about.de.html))
   - n13a Sm5 Hydroelektrische Industrie [**&nearr;**](../../../subject/i/145121/about.de.html "Hydroelektrische Industrie (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n13a_Sm5 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145121" title="über: Südosteuropa : Hydroelektrische Industrie" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1451xx/145121/about.de.html))
 - n14 Handwerk [**&nearr;**](../../../subject/i/145135/about.de.html "Handwerk (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n14 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145135" title="über: Südosteuropa : Handwerk" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1451xx/145135/about.de.html))
 - n15 Arbeiterfrage, Arbeitsverhältnisse, Allgemein [**&nearr;**](../../../subject/i/145155/about.de.html "Arbeiterfrage, Arbeitsverhältnisse, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n15 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145155" title="über: Südosteuropa : Arbeiterfrage, Arbeitsverhältnisse, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1451xx/145155/about.de.html))
-  - n15 Sm5 Frauenarbeit, Allgemein [**&nearr;**](../../../subject/i/145166/about.de.html "Frauenarbeit, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n15_Sm5 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145166" title="über: Südosteuropa : Frauenarbeit, Allgemein" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1451xx/145166/about.de.html))
   - n15 Sm7.II Arbeitsverhältnisse, Löhne [**&nearr;**](../../../subject/i/145169/about.de.html "Arbeitsverhältnisse, Löhne (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n15_Sm7.II "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145169" title="über: Südosteuropa : Arbeitsverhältnisse, Löhne" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1451xx/145169/about.de.html))
 - n16 Gewerkschaftswesen, Arbeiterorganisationen Allgemein [**&nearr;**](../../../subject/i/145239/about.de.html "Gewerkschaftswesen, Arbeiterorganisationen Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n16 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145239" title="über: Südosteuropa : Gewerkschaftswesen, Arbeiterorganisationen Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1452xx/145239/about.de.html))
 - n17 Bauwesen und Wohnungswesen [**&nearr;**](../../../subject/i/145250/about.de.html "Bauwesen und Wohnungswesen (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n17 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145250" title="über: Südosteuropa : Bauwesen und Wohnungswesen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1452xx/145250/about.de.html))
 - n18 Handel [**&nearr;**](../../../subject/i/145262/about.de.html "Handel (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n18 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145262" title="über: Südosteuropa : Handel" target="_blank">48 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1452xx/145262/about.de.html))
-  - n18 Sm4 Absatzmöglichkeiten im Handel [**&nearr;**](../../../subject/i/145266/about.de.html "Absatzmöglichkeiten im Handel (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n18_Sm4 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145266" title="über: Südosteuropa : Absatzmöglichkeiten im Handel" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1452xx/145266/about.de.html))
   - n18 Sm6.I Usancen und Handelsvorschriften, Handelsmethoden, Allgemein [**&nearr;**](../../../subject/i/145268/about.de.html "Usancen und Handelsvorschriften, Handelsmethoden, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n18_Sm6.I "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145268" title="über: Südosteuropa : Usancen und Handelsvorschriften, Handelsmethoden, Allgemein" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1452xx/145268/about.de.html))
   - n18 Sm12 Handelsregister, Allgemein [**&nearr;**](../../../subject/i/145274/about.de.html "Handelsregister, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n18_Sm12 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145274" title="über: Südosteuropa : Handelsregister, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1452xx/145274/about.de.html))
 - n19 Handelsbeziehungen zu einzelnen Ländern [**&nearr;**](../../../subject/i/145289/about.de.html "Handelsbeziehungen zu einzelnen Ländern (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n19 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145289" title="über: Südosteuropa : Handelsbeziehungen zu einzelnen Ländern" target="_blank">256 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1452xx/145289/about.de.html))
@@ -259,7 +258,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - [n37a Einzelne Versicherungszweige]{.gray}
   - n37a Sm2.I Sozialversicherung, Allgemein [**&nearr;**](../../../subject/i/145733/about.de.html "Sozialversicherung, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n37a_Sm2.I "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145733" title="über: Südosteuropa : Sozialversicherung, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1457xx/145733/about.de.html))
   - n37a Sm9 Rückversicherung [**&nearr;**](../../../subject/i/145744/about.de.html "Rückversicherung (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n37a_Sm9 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145744" title="über: Südosteuropa : Rückversicherung" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1457xx/145744/about.de.html))
-  - n37a Sm13 Kreditversicherung [**&nearr;**](../../../subject/i/145748/about.de.html "Kreditversicherung (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n37a_Sm13 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145748" title="über: Südosteuropa : Kreditversicherung" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1457xx/145748/about.de.html))
 
 ### Fremdstämmige und einzelne Minderheiten
 
@@ -281,11 +279,28 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 497</p>
 
 
 
 
-## Warenarchiv
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2025H/1010" rel="nofollow">Bilder auf Film h2/sh/S2025H/1010</a> | Südosteuropa
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2026H" rel="nofollow">Bilder auf Film h2/sh/S2026H</a> | Filmanfang: Südosteuropa : Politische Beziehungen zu einzelnen Ländern [A6 g1]
+
+
+:::
 
 
 
@@ -294,8 +309,27 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
-Insgesamt 5 Mappen, 32 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 5 Mappen (bis 1949), 32 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

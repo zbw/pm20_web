@@ -1,6 +1,6 @@
 ---
 title: "B16 Kaukasien"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -8,9 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B16]{.gray}&#8201; Kaukasien
+# [B16]{.gray}&#8201; Kaukasien &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q18869) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Kaukasien)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141072`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141072`</div>
 
 <div class="hint">
 Scope Note: Länder im Bereich u. mit Anteil am Kaukasus
@@ -20,7 +20,7 @@ Scope Note: Länder im Bereich u. mit Anteil am Kaukasus
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
@@ -29,8 +29,12 @@ Scope Note: Länder im Bereich u. mit Anteil am Kaukasus
 
 
 
-Insgesamt 5 Mappen, 12 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+Insgesamt 5 Mappen (bis 1949), 12 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

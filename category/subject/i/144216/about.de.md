@@ -1,6 +1,6 @@
 ---
 title: "c10 Sm1 (alt) Landeskunde, Erdbeben und Vulkanausbrüche"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [c10 Sm1 (alt)]{.gray}&#8201; Landeskunde, Erdbeben und Vulkanausbrüche &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699240)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144216`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144216`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 3 Mappen, 21 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 3 Mappen, 21 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -42,6 +43,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Welt
 
 - H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141728,144216" title="über: Welt : Landeskunde, Erdbeben und Vulkanausbrüche" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1417xx/141728/1442xx/144216/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

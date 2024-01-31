@@ -1,6 +1,6 @@
 ---
 title: "Fittings (Armature)"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Fittings (Armature) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q182612)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142004`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142004`</div>
 
 
 
@@ -18,13 +18,15 @@ fn-stub: about
 
 
 
-## Commodities/wares archives
+## Commodities/wares archives folders
 
 
 
 
 
-In total 16 folders, 167 documents - folders complete.
+
+
+In total 16 folders, 167 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -54,6 +56,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### America
 
 - E15 United States [**&nearr;**](../../../geo/i/141653/about.en.html "United States (all folders)") [**&uarr;**](../../../geo/about.en.html#E15 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142004,141653" title="about: Fittings (Armature) : United States" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1420xx/142004/1416xx/141653/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "n15 Sm11.I Ausländische und koloniale Arbeiter, Allgemein"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n15 Sm11.I]{.gray}&#8201; Ausländische und koloniale Arbeiter, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710721)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145174`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145174`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 7 Mappen, 73 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 7 Mappen, 73 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -52,6 +53,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145174" title="über: Argentinien : Ausländische und koloniale Arbeiter, Allgemein" target="_blank">14 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1451xx/145174/about.de.html))
 - E102 Britisch-Guayana [**&nearr;**](../../../geo/i/141700/about.de.html "Britisch-Guayana (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E102 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141700,145174" title="über: Britisch-Guayana : Ausländische und koloniale Arbeiter, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1417xx/141700/1451xx/145174/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

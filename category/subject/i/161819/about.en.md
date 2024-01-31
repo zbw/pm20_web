@@ -1,6 +1,6 @@
 ---
 title: "n18 Sm6 Practices and regulations in trade, trading methods"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n18 Sm6]{.gray}&#8201; Practices and regulations in trade, trading methods &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710924)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/161819`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/161819`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 6 folders, 17 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 6 folders, 17 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -48,6 +49,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### America
 
 - E102 British Guiana [**&nearr;**](../../../geo/i/141700/about.en.html "British Guiana (all folders)") [**&uarr;**](../../../geo/about.en.html#E102 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141700,161819" title="about: British Guiana : Practices and regulations in trade, trading methods" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1417xx/141700/1618xx/161819/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

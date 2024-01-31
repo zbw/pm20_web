@@ -1,6 +1,6 @@
 ---
 title: "Aluminium"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Aluminium &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q663) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Aluminium)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141969`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/141969`</div>
 
 <div class="hint">
 Scope Note: (einschl.: Bauxit; Aluminiumlegierung; Kryolit (Grönland))
@@ -20,12 +20,14 @@ Scope Note: (einschl.: Bauxit; Aluminiumlegierung; Kryolit (Grönland))
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 94 Mappen, 5440 Dokumente - Mappen komplett.
+
+
+Insgesamt 94 Mappen, 5440 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -60,7 +62,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - A40b(A10) Ostmark (1938-1945) [**&nearr;**](../../../geo/i/163025/about.de.html "Ostmark (1938-1945) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40b(A10) "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,163025" title="über: Aluminium : Ostmark (1938-1945)" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141969/1630xx/163025/about.de.html))
 - A40c Tschechoslowakei [**&nearr;**](../../../geo/i/141022/about.de.html "Tschechoslowakei (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40c "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,141022" title="über: Aluminium : Tschechoslowakei" target="_blank">22 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141969/1410xx/141022/about.de.html))
 - A40d Ungarn [**&nearr;**](../../../geo/i/141025/about.de.html "Ungarn (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40d "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,141025" title="über: Aluminium : Ungarn" target="_blank">207 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141969/1410xx/141025/about.de.html))
-- A40e Südslawien [**&nearr;**](../../../geo/i/141028/about.de.html "Südslawien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40e "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,141028" title="über: Aluminium : Südslawien" target="_blank">152 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141969/1410xx/141028/about.de.html))
+- A40e Jugoslawien (bis 1945 Südslawien) [**&nearr;**](../../../geo/i/141028/about.de.html "Jugoslawien (bis 1945 Südslawien) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40e "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,141028" title="über: Aluminium : Jugoslawien (bis 1945 Südslawien)" target="_blank">152 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141969/1410xx/141028/about.de.html))
 - A40f Slowakei [**&nearr;**](../../../geo/i/141029/about.de.html "Slowakei (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40f "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,141029" title="über: Aluminium : Slowakei" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141969/1410xx/141029/about.de.html))
 - A40g Kroatien [**&nearr;**](../../../geo/i/141030/about.de.html "Kroatien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40g "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,141030" title="über: Aluminium : Kroatien" target="_blank">27 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141969/1410xx/141030/about.de.html))
 - A45 Griechenland [**&nearr;**](../../../geo/i/141037/about.de.html "Griechenland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A45 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,141037" title="über: Aluminium : Griechenland" target="_blank">48 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141969/1410xx/141037/about.de.html))
@@ -143,6 +145,38 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Welt
 
 - H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141969,141728" title="über: Aluminium : Welt" target="_blank">1243 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141969/1417xx/141728/about.de.html))
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 91</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2002H/0373" rel="nofollow">Bilder auf Film h2/wa/W2002H/0373</a> | Aluminium
+
+
+:::
+
+
+
+
+
+
+
+
 
 
 

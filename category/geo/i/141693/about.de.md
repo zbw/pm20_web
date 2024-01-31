@@ -1,6 +1,6 @@
 ---
 title: "E88 La Plata-Staaten"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [E88]{.gray}&#8201; La Plata-Staaten &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q738144) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Vereinigte_Provinzen_des_R%C3%ADo_de_la_Plata)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141693`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141693`</div>
 
 <div class="hint">
 Scope Note: Aus La Plata gingen nach der Unabhängigkeit der spanischen Kolonien die Staaten Argentinien, Bolivien und Paraguay hervor
@@ -20,14 +20,17 @@ Scope Note: Aus La Plata gingen nach der Unabhängigkeit der spanischen Kolonien
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
 
 
 
 
 
 
-Insgesamt 6 Mappen, 34 Dokumente - Mappen komplett.
+
+
+
+Insgesamt 6 Mappen, 34 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -56,6 +59,14 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - [o1 Deutsche Minderheiten und Deutschtum]{.gray}
   - o1 Sm1 (alt) Deutsche Kirchen, Schulen und Vereine... , Allgemein [**&nearr;**](../../../subject/i/145910/about.de.html "Deutsche Kirchen, Schulen und Vereine... , Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#o1_Sm1_(alt) "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141693,145910" title="über: La Plata-Staaten : Deutsche Kirchen, Schulen und Vereine... , Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141693/1459xx/145910/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
 
 
 

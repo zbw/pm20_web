@@ -1,6 +1,6 @@
 ---
 title: "n Sm8.I Standardization, general"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n Sm8.I]{.gray}&#8201; Standardization, general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700367)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145790`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145790`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 7 folders, 17 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 7 folders, 17 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -46,6 +47,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - C25 French protectorate in Morocco [**&nearr;**](../../../geo/i/141358/about.en.html "French protectorate in Morocco (all folders)") [**&uarr;**](../../../geo/about.en.html#C25 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141358,145790" title="about: French protectorate in Morocco : Standardization, general" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1413xx/141358/1457xx/145790/about.en.html))
 - C58 Togoland [**&nearr;**](../../../geo/i/141408/about.en.html "Togoland (all folders)") [**&uarr;**](../../../geo/about.en.html#C58 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141408,145790" title="about: Togoland : Standardization, general" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1414xx/141408/1457xx/145790/about.en.html))
 - C65 Cameroon [**&nearr;**](../../../geo/i/141410/about.en.html "Cameroon (all folders)") [**&uarr;**](../../../geo/about.en.html#C65 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141410,145790" title="about: Cameroon : Standardization, general" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1414xx/141410/1457xx/145790/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "A22 United Kingdom"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -8,17 +8,227 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A22]{.gray}&#8201; United Kingdom
+# [A22]{.gray}&#8201; United Kingdom &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q145) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/United_Kingdom)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140974`</div>
-
-
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/140974`</div>
 
 
 
 
 
-## Commodities/wares archives
+[Subject archives](#subject-archives-folders) &#160; [Commodities/wares archives](#commoditieswares-archives-folders)
+
+
+
+
+## Subject archives folders
+
+
+
+
+
+
+
+
+No material prepared as folder.
+
+
+
+<a id="filmsections" />
+
+## Sections of digitized microfilms (1st filming 1908-1949)
+
+<p>For intellectual property law reasons accessible only from the European Union legal area and from the ZBW reading room.</p>
+
+
+
+<p>Total number of images: 77415</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0290H_2/0775" rel="nofollow">Images on film h1/sh/S0290H_2/0775</a> | Großbritannien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0291H" rel="nofollow">Images on film h1/sh/S0291H</a> | Filmanfang: Großbritannien : Landeskunde, Landschaften, Beschreibung einzelner Orte und Gegenden London [A22 c9 London]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0292H" rel="nofollow">Images on film h1/sh/S0292H</a> | Filmanfang: Großbritannien : Einzelne Krankheiten und deren Bekämpfung [A22 e1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0293H_1" rel="nofollow">Images on film h1/sh/S0293H_1</a> | Filmanfang: Großbritannien : Geschichtliche Vorgänge [A22 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0294H_1" rel="nofollow">Images on film h1/sh/S0294H_1</a> | Filmanfang: Großbritannien : Geschichtliche Vorgänge [A22 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0295H_1" rel="nofollow">Images on film h1/sh/S0295H_1</a> | Filmanfang: Großbritannien : Geschichtliche Vorgänge [A22 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0296H_1" rel="nofollow">Images on film h1/sh/S0296H_1</a> | Filmanfang: Großbritannien : Geschichtliche Vorgänge Sm501 [A22 f2 Sm501]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0297H_1" rel="nofollow">Images on film h1/sh/S0297H_1</a> | Filmanfang: Großbritannien : Wahlen [A22 f5 Sm1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0298H" rel="nofollow">Images on film h1/sh/S0298H</a> | Filmanfang: Großbritannien : Einzelne Parteien und Parteigruppen [A22 f5a]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0299H" rel="nofollow">Images on film h1/sh/S0299H</a> | Filmanfang: Großbritannien : Außenpolitik und politische Beziehungen zum Ausland, Allgemein [A22 g]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0300H" rel="nofollow">Images on film h1/sh/S0300H</a> | Filmanfang: Großbritannien : Außenpolitik und politische Beziehungen zum Ausland, Allgemein [A22 g]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0301H" rel="nofollow">Images on film h1/sh/S0301H</a> | Filmanfang: Großbritannien : Vorgeschichte des Weltkrieges [A22 g Sm4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0302H" rel="nofollow">Images on film h1/sh/S0302H</a> | Filmanfang: Großbritannien : Stimmen und Stellung zu den deutschen Friedensdiktatbestimmungen und deren Ausführung (Versailles) II [A22 g Sm14 II]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0303H_1" rel="nofollow">Images on film h1/sh/S0303H_1</a> | Filmanfang: Großbritannien : Politische Beziehungen zu einzelnen Ländern Finnland [A22 g1 Finnland]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0304H_1" rel="nofollow">Images on film h1/sh/S0304H_1</a> | Filmanfang: Großbritannien : Politische Beziehungen zu einzelnen Ländern Frankreich [A22 g1 Frankreich]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0305H" rel="nofollow">Images on film h1/sh/S0305H</a> | Filmanfang: Großbritannien : Politische Beziehungen zu einzelnen Ländern Italien [A22 g1 Italien]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0306H" rel="nofollow">Images on film h1/sh/S0306H</a> | Filmanfang: Großbritannien : Politische Beziehungen zu einzelnen Ländern Japan [A22 g1 Japan]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0307H" rel="nofollow">Images on film h1/sh/S0307H</a> | Filmanfang: Großbritannien : Politische Beziehungen zu einzelnen Ländern Polen [A22 g1 Polen]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0308H" rel="nofollow">Images on film h1/sh/S0308H</a> | Filmanfang: Großbritannien : Politische Beziehungen zu einzelnen Ländern Russland [A22 g1 Russland]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0309H" rel="nofollow">Images on film h1/sh/S0309H</a> | Filmanfang: Großbritannien : Politische Beziehungen zu einzelnen Ländern Spanien [A22 g1 Spanien]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0310H" rel="nofollow">Images on film h1/sh/S0310H</a> | Filmanfang: Großbritannien : Politische Beziehungen zu einzelnen Ländern Ver. St. v. Amerika [A22 g1 Ver. St. v. Amerika]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0311H" rel="nofollow">Images on film h1/sh/S0311H</a> | Filmanfang: Großbritannien : Diplomatische und konsularische Vertretungen in einzelnen Ländern Spanien [A22 g2a Spanien]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0312H" rel="nofollow">Images on film h1/sh/S0312H</a> | Filmanfang: Großbritannien : Zollpolitik [A22 g4 Sm1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0313H" rel="nofollow">Images on film h1/sh/S0313H</a> | Filmanfang: Großbritannien : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein V Sm2 [A22 g4 V Sm2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0314H" rel="nofollow">Images on film h1/sh/S0314H</a> | Filmanfang: Großbritannien : Wirtschaftspolitische Beziehungen zu einzelnen Ländern Finnland [A22 g4a Finnland]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0315H" rel="nofollow">Images on film h1/sh/S0315H</a> | Filmanfang: Großbritannien : Wirtschaftspolitische Beziehungen zu einzelnen Ländern Japan [A22 g4a Japan]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0316H" rel="nofollow">Images on film h1/sh/S0316H</a> | Filmanfang: Großbritannien : Wirtschaftspolitische Beziehungen zu einzelnen Ländern Rumänien [A22 g4a Rumänien]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0317H" rel="nofollow">Images on film h1/sh/S0317H</a> | Filmanfang: Großbritannien : Wirtschaftspolitische Beziehungen zu einzelnen Ländern Südamerika [A22 g4a Südamerika]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0318H" rel="nofollow">Images on film h1/sh/S0318H</a> | Filmanfang: Großbritannien : Wirtschaftspolitische Beziehungen zu einzelnen Ländern Ver. St. v. Amerika [A22 g4a Ver. St. v. Amerika]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0319H" rel="nofollow">Images on film h1/sh/S0319H</a> | Filmanfang: Großbritannien : Behörden, Allgemein [A22 h1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0320H" rel="nofollow">Images on film h1/sh/S0320H</a> | Filmanfang: Großbritannien : Rechtspflege, Allgemein h 1 [A22 i h 1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0321H" rel="nofollow">Images on film h1/sh/S0321H</a> | Filmanfang: Großbritannien : Wissenschaftliche Beziehungen zu einzelnen Ländern und geistige Zusammenarbeit mit einz. Ländern Rußland [A22 k1a Rußland]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0322H" rel="nofollow">Images on film h1/sh/S0322H</a> | Filmanfang: Großbritannien : Militärwesen, Allgemein [A22 l]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0323H" rel="nofollow">Images on film h1/sh/S0323H</a> | Filmanfang: Großbritannien : Landheer, Schutztruppen [A22 l1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0324H" rel="nofollow">Images on film h1/sh/S0324H</a> | Filmanfang: Großbritannien : Flotte, Ausbildung [A22 l2 Sm40]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0325H_1" rel="nofollow">Images on film h1/sh/S0325H_1</a> | Filmanfang: Großbritannien : Flugwesen Sm7 [A22 l4 Sm7]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0326H" rel="nofollow">Images on film h1/sh/S0326H</a> | Filmanfang: Großbritannien : Staatshaushalt [A22 m1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0327H" rel="nofollow">Images on film h1/sh/S0327H</a> | Filmanfang: Großbritannien : Staatshaushalt [A22 m1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0328H" rel="nofollow">Images on film h1/sh/S0328H</a> | Filmanfang: Großbritannien : Zolltarif [A22 m2 Sm1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0329H" rel="nofollow">Images on film h1/sh/S0329H</a> | Filmanfang: Großbritannien : Finanzwesen einzelner Städte London [A22 m5a London]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0330H" rel="nofollow">Images on film h1/sh/S0330H</a> | Filmanfang: Großbritannien : Unlauteres Wirtschaftsgebahren, Allgemein, Bestechungswesen [A22 n Sm11]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0331H" rel="nofollow">Images on film h1/sh/S0331H</a> | Filmanfang: Großbritannien : Wirtschaftspolitik [A22 n1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0332H" rel="nofollow">Images on film h1/sh/S0332H</a> | Filmanfang: Großbritannien : Staatliche Reglementierung des Kapitalmarktes [A22 n1 Sm14]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0333H_1" rel="nofollow">Images on film h1/sh/S0333H_1</a> | Filmanfang: Großbritannien : Berichte über die wirtschaftliche Lage [A22 n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0334H_1" rel="nofollow">Images on film h1/sh/S0334H_1</a> | Filmanfang: Großbritannien : Berichte über die wirtschaftliche Lage N2 [A22 n2 N2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0335H_1" rel="nofollow">Images on film h1/sh/S0335H_1</a> | Filmanfang: Großbritannien : Kapitalmarktübersichten, Neugründungen und Kapitalerhöhungen [A22 n2 Sm7]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0336H_1" rel="nofollow">Images on film h1/sh/S0336H_1</a> | Filmanfang: Großbritannien : Produktionsstatistische Erhebungen [A22 n2 Sm12]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0337H" rel="nofollow">Images on film h1/sh/S0337H</a> | Filmanfang: Großbritannien : Landwirtschaft [A22 n4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0338H" rel="nofollow">Images on film h1/sh/S0338H</a> | Filmanfang: Großbritannien : Bergbau [A22 n12]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0339H" rel="nofollow">Images on film h1/sh/S0339H</a> | Filmanfang: Großbritannien : Verständigungsaktionen zwischen Arbeitgebern und Arbeitnehmern [A22 n13 Sm6]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0340H" rel="nofollow">Images on film h1/sh/S0340H</a> | Filmanfang: Großbritannien : Elektrizitätsindustrie [A22 n13a Sm4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0341H_1" rel="nofollow">Images on film h1/sh/S0341H_1</a> | Filmanfang: Großbritannien : Schiffbau IV b Türkei [A22 n13a Sm6 IV b Türkei]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0342H" rel="nofollow">Images on film h1/sh/S0342H</a> | Filmanfang: Großbritannien : Erwerbslosenfürsorge [A22 n15 Sm3]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0343H" rel="nofollow">Images on film h1/sh/S0343H</a> | Filmanfang: Großbritannien : Arbeiterschutz, Arbeitsunfallstatistik [A22 n15 Sm13]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0344H" rel="nofollow">Images on film h1/sh/S0344H</a> | Filmanfang: Großbritannien : Arbeitnehmerverhältnisse, Bergbau und bergbauliche Betriebe [A22 n15a Sm4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0345H" rel="nofollow">Images on film h1/sh/S0345H</a> | Filmanfang: Großbritannien : Arbeitnehmerverhältnisse, Metallverarbeitung und Maschinenindustrie [A22 n15a Sm19]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0346H" rel="nofollow">Images on film h1/sh/S0346H</a> | Filmanfang: Großbritannien : Arbeitnehmerverhältnisse, Transportgewerbe (ausgen. Schiffahrt) [A22 n15a Sm27]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0347H" rel="nofollow">Images on film h1/sh/S0347H</a> | Filmanfang: Großbritannien : Miete und Mieterfragen [A22 n17 Sm1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0348H_1" rel="nofollow">Images on film h1/sh/S0348H_1</a> | Filmanfang: Großbritannien : Handel [A22 n18]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0349H" rel="nofollow">Images on film h1/sh/S0349H</a> | Filmanfang: Großbritannien : Handelsbeziehungen zu einzelnen Ländern [A22 n19]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0350H_1" rel="nofollow">Images on film h1/sh/S0350H_1</a> | Filmanfang: Großbritannien : Lichtspielwesen [A22 n21 Sm8]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0351H_1" rel="nofollow">Images on film h1/sh/S0351H_1</a> | Filmanfang: Großbritannien : Kursentwicklung der Landeswährung, Bildung mehrfacher Kurse für die Währungseinheit [A22 n23 Sm2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0352H_1" rel="nofollow">Images on film h1/sh/S0352H_1</a> | Filmanfang: Großbritannien : Sparkassenwesen, Spareinrichtungen, Allgemein [A22 n24 Sm3]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0353H" rel="nofollow">Images on film h1/sh/S0353H</a> | Filmanfang: Großbritannien : Bankwesen, Private Kreditgewährung an Ausländer I [A22 n24 Sm37 I]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0354H_1" rel="nofollow">Images on film h1/sh/S0354H_1</a> | Filmanfang: Großbritannien : Kraftfahrzeugverkehr, Allgemein [A22 n28 Sm4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0355H" rel="nofollow">Images on film h1/sh/S0355H</a> | Filmanfang: Großbritannien : Eisenbahnwesen [A22 n30]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0356H_1" rel="nofollow">Images on film h1/sh/S0356H_1</a> | Filmanfang: Großbritannien : Seeschiffahrt [A22 n32]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0357H_1" rel="nofollow">Images on film h1/sh/S0357H_1</a> | Filmanfang: Großbritannien : Seeschiffahrt [A22 n32]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0358H" rel="nofollow">Images on film h1/sh/S0358H</a> | Filmanfang: Großbritannien : Trampschifffahrt [A22 n32 Sm13]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0359H_1" rel="nofollow">Images on film h1/sh/S0359H_1</a> | Filmanfang: Großbritannien : Schiffsverkehr in einzelnen Häfen London [A22 n32a London]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0360H" rel="nofollow">Images on film h1/sh/S0360H</a> | Filmanfang: Großbritannien : Fernsehen [A22 n34 Sm7]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0361H_1" rel="nofollow">Images on film h1/sh/S0361H_1</a> | Filmanfang: Großbritannien : Segelflugwesen [A22 n35 Sm5]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0362H_1" rel="nofollow">Images on film h1/sh/S0362H_1</a> | Filmanfang: Großbritannien : Nachrichten- und Pressewesen, Inseratenwesen [A22 n36 Sm7]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0363H" rel="nofollow">Images on film h1/sh/S0363H</a> | Filmanfang: Großbritannien : Feuerversicherung [A22 n37a Sm3]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0364H" rel="nofollow">Images on film h1/sh/S0364H</a> | Filmanfang: Großbritannien : Minderheiten aus einzelnen Ländern Norwegen [A22 o3 Norwegen]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0364H/1012/R" rel="nofollow">Images on film h1/sh/S0364H/1012/R</a> | Großbritannienn : Kanaltunnel, Kanaldamm
+
+
+:::
+
+
+
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 91443</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2329H/0314" rel="nofollow">Images on film h2/sh/S2329H/0314</a> | Großbritannien
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2330H" rel="nofollow">Images on film h2/sh/S2330H</a> | Filmanfang: Großbritannien : Religionswesen, Kirchen Sm [A22 d7 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2331H" rel="nofollow">Images on film h2/sh/S2331H</a> | Filmanfang: Großbritannien : Medizinalwesen, Hygiene, Sanitäre Einrichtungen Sm8-20 [A22 e4 Sm8-20]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2332H" rel="nofollow">Images on film h2/sh/S2332H</a> | Filmanfang: Großbritannien : Schicksal der Fürstenhäuser [A22 f2 Sm5]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2333H" rel="nofollow">Images on film h2/sh/S2333H</a> | Filmanfang: Großbritannien : Verfassung, Staatsform Sm3-13 [A22 f4 Sm3-13]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2334H" rel="nofollow">Images on film h2/sh/S2334H</a> | Filmanfang: Großbritannien : Einzelne politische Strömungen [A22 f5 Sm2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2335H" rel="nofollow">Images on film h2/sh/S2335H</a> | Filmanfang: Großbritannien : Einzelne Parteien und Parteigruppen [A22 f5a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2336H" rel="nofollow">Images on film h2/sh/S2336H</a> | Filmanfang: Großbritannien : Einzelne Parteien und Parteigruppen [A22 f5a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2337H" rel="nofollow">Images on film h2/sh/S2337H</a> | Filmanfang: Großbritannien : Verhandlungen von parlamentarischen und politischen Körperschaften [A22 f6]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2338H" rel="nofollow">Images on film h2/sh/S2338H</a> | Filmanfang: Großbritannien : Verhandlungen von parlamentarischen und politischen Körperschaften [A22 f6]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2339H" rel="nofollow">Images on film h2/sh/S2339H</a> | Filmanfang: Großbritannien : Verhandlungen von parlamentarischen und politischen Körperschaften [A22 f6]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2340H" rel="nofollow">Images on film h2/sh/S2340H</a> | Filmanfang: Großbritannien : Verhandlungen von parlamentarischen und politischen Körperschaften [A22 f6]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2341H" rel="nofollow">Images on film h2/sh/S2341H</a> | Filmanfang: Großbritannien : Politische Beziehungen zu einzelnen Ländern Sm4-9 [A22 g1 Sm4-9]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2342H" rel="nofollow">Images on film h2/sh/S2342H</a> | Filmanfang: Großbritannien : Politische Beziehungen zu einzelnen Ländern Sm1-8 [A22 g1 Sm1-8]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2343H" rel="nofollow">Images on film h2/sh/S2343H</a> | Filmanfang: Großbritannien : Politische Beziehungen zu einzelnen Ländern Sm [A22 g1 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2344H" rel="nofollow">Images on film h2/sh/S2344H</a> | Filmanfang: Großbritannien : Politische Beziehungen zu einzelnen Ländern Sm [A22 g1 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2345H" rel="nofollow">Images on film h2/sh/S2345H</a> | Filmanfang: Großbritannien : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein [A22 g4]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2346H" rel="nofollow">Images on film h2/sh/S2346H</a> | Filmanfang: Großbritannien : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein [A22 g4]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2347H" rel="nofollow">Images on film h2/sh/S2347H</a> | Filmanfang: Großbritannien : Wirtschaftspolitische Beziehungen zu einzelnen Ländern [A22 g4a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2348H" rel="nofollow">Images on film h2/sh/S2348H</a> | Filmanfang: Großbritannien : Wirtschaftspolitische Beziehungen zu einzelnen Ländern Sm [A22 g4a Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2349H" rel="nofollow">Images on film h2/sh/S2349H</a> | Filmanfang: Großbritannien : Wirtschaftspolitische Beziehungen zu einzelnen Ländern [A22 g4a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2350H" rel="nofollow">Images on film h2/sh/S2350H</a> | Filmanfang: Großbritannien : Wirtschaftspolitische Beziehungen zu einzelnen Ländern Sm [A22 g4a Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2351H" rel="nofollow">Images on film h2/sh/S2351H</a> | Filmanfang: Großbritannien : Wirtschaftspolitische Beziehungen zu einzelnen Ländern Sm [A22 g4a Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2352H" rel="nofollow">Images on film h2/sh/S2352H</a> | Filmanfang: Großbritannien : Wirtschaftspolitische Beziehungen zu einzelnen Ländern [A22 g4a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2353H" rel="nofollow">Images on film h2/sh/S2353H</a> | Filmanfang: Großbritannien : Beamtenwesen, Öffentlicher Dienst Sm [A22 h2 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2354H" rel="nofollow">Images on film h2/sh/S2354H</a> | Filmanfang: Großbritannien : Strafrecht [A22 i3]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2355H" rel="nofollow">Images on film h2/sh/S2355H</a> | Filmanfang: Großbritannien : Studentenwesen [A22 k1 Sm2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2356H" rel="nofollow">Images on film h2/sh/S2356H</a> | Filmanfang: Großbritannien : Elementarschulen [A22 k2 Sm1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2357H" rel="nofollow">Images on film h2/sh/S2357H</a> | Filmanfang: Großbritannien : Sm1 [A22 Sm1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2358H" rel="nofollow">Images on film h2/sh/S2358H</a> | Filmanfang: Großbritannien : Militärische Stützpunkte im Ausland (Projekte) [A22 l3 Sm1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2359H" rel="nofollow">Images on film h2/sh/S2359H</a> | Filmanfang: Großbritannien : Staatshaushalt [A22 m1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2360H" rel="nofollow">Images on film h2/sh/S2360H</a> | Filmanfang: Großbritannien : Staatshaushalt [A22 m1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2361H" rel="nofollow">Images on film h2/sh/S2361H</a> | Filmanfang: Großbritannien : Wirtschaft, Allgemein Sm [A22 n Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2362H" rel="nofollow">Images on film h2/sh/S2362H</a> | Filmanfang: Großbritannien : Zahlungsbilanz [A22 n Sm2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2363H" rel="nofollow">Images on film h2/sh/S2363H</a> | Filmanfang: Großbritannien : Nationale Kapitalanlagen im Ausland [A22 n Sm6.II]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2364H" rel="nofollow">Images on film h2/sh/S2364H</a> | Filmanfang: Großbritannien : Urheberschutz - stillgelegt [A22 n Sm38]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2365H" rel="nofollow">Images on film h2/sh/S2365H</a> | Filmanfang: Großbritannien : Energiewirtschaft, Allgemein [A22 n Sm46]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2366H" rel="nofollow">Images on film h2/sh/S2366H</a> | Filmanfang: Großbritannien : Wirtschaftspolitik [A22 n1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2367H" rel="nofollow">Images on film h2/sh/S2367H</a> | Filmanfang: Großbritannien : Preisregelung [A22 n1 Sm12]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2368H" rel="nofollow">Images on film h2/sh/S2368H</a> | Filmanfang: Großbritannien : Berichte über die wirtschaftliche Lage [A22 n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2369H" rel="nofollow">Images on film h2/sh/S2369H</a> | Filmanfang: Großbritannien : u 2 [A22 u 2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2370H" rel="nofollow">Images on film h2/sh/S2370H</a> | Filmanfang: Großbritannien : Berichte über die wirtschaftliche Lage Sm6-7 [A22 n2 Sm6-7]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2371H" rel="nofollow">Images on film h2/sh/S2371H</a> | Filmanfang: Großbritannien : Übersichten der Preisentwicklung [A22 n2 Sm11]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2372H" rel="nofollow">Images on film h2/sh/S2372H</a> | Filmanfang: Großbritannien : Berichte über die wirtschaftliche Lage in einzelnen Bundesstaaten, Provinzen und Städten [A22 n2a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2373H" rel="nofollow">Images on film h2/sh/S2373H</a> | Filmanfang: Großbritannien : Landwirtschaft [A22 n4]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2374H" rel="nofollow">Images on film h2/sh/S2374H</a> | Filmanfang: Großbritannien : Viehwirtschaft [A22 n5]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2375H" rel="nofollow">Images on film h2/sh/S2375H</a> | Filmanfang: Großbritannien : Industrie [A22 n13]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2376H" rel="nofollow">Images on film h2/sh/S2376H</a> | Filmanfang: Großbritannien : Industrie Sm7-9 [A22 n13 Sm7-9]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2377H" rel="nofollow">Images on film h2/sh/S2377H</a> | Filmanfang: Großbritannien : x 13 a Sm1+2 [A22 x 13 a Sm1+2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2378H" rel="nofollow">Images on film h2/sh/S2378H</a> | Filmanfang: Großbritannien : Hydroelektrische Industrie [A22 n13a Sm5]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2379H" rel="nofollow">Images on film h2/sh/S2379H</a> | Filmanfang: Großbritannien : Baugewerbe [A22 n13a Sm7]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2380H" rel="nofollow">Images on film h2/sh/S2380H</a> | Filmanfang: Großbritannien : Flugzeug- und Luftschiffbauindustrie [A22 n13a Sm9]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2381H" rel="nofollow">Images on film h2/sh/S2381H</a> | Filmanfang: Großbritannien : Streiks, Vereinbarungen zwischen Arbeitgebern und Arbeitnehmern [A22 n15 Sm2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2382H" rel="nofollow">Images on film h2/sh/S2382H</a> | Filmanfang: Großbritannien : Ausländische und koloniale Arbeiter [A22 n15 Sm11]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2383H" rel="nofollow">Images on film h2/sh/S2383H</a> | Filmanfang: Großbritannien : Arbeitnehmerverhältnisse in einzelnen Berufen Sm [A22 n15a Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2384H" rel="nofollow">Images on film h2/sh/S2384H</a> | Filmanfang: Großbritannien : Arbeitnehmerverhältnisse in einzelnen Berufen Sm [A22 n15a Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2385H" rel="nofollow">Images on film h2/sh/S2385H</a> | Filmanfang: Großbritannien : Gewerkschaftswesen, Arbeiterorganisationen Allgemein [A22 n16]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2386H" rel="nofollow">Images on film h2/sh/S2386H</a> | Filmanfang: Großbritannien : Bauwesen und Wohnungswesen [A22 n17]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2387H" rel="nofollow">Images on film h2/sh/S2387H</a> | Filmanfang: Großbritannien : Handel [A22 n18]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2388H" rel="nofollow">Images on film h2/sh/S2388H</a> | Filmanfang: Großbritannien : Handelsbeziehungen zu einzelnen Ländern [A22 n19]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2389H" rel="nofollow">Images on film h2/sh/S2389H</a> | Filmanfang: Großbritannien : Einzelhandel, Allgemein [A22 n20 III a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2390H" rel="nofollow">Images on film h2/sh/S2390H</a> | Filmanfang: Großbritannien : Kunst und Literatur (Wirtschaftsverhältnisse) Sm [A22 n21 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2391H" rel="nofollow">Images on film h2/sh/S2391H</a> | Filmanfang: Großbritannien : Geld und Währung Sm [A22 n23 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2392H" rel="nofollow">Images on film h2/sh/S2392H</a> | Filmanfang: Großbritannien : Kreditwesen und Bankwesen Sm [A22 n24 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2393H" rel="nofollow">Images on film h2/sh/S2393H</a> | Filmanfang: Großbritannien : Kreditwesen und Bankwesen Sm [A22 n24 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2394H" rel="nofollow">Images on film h2/sh/S2394H</a> | Filmanfang: Großbritannien : Genossenschaftswesen Sm [A22 n27 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2395H" rel="nofollow">Images on film h2/sh/S2395H</a> | Filmanfang: Großbritannien : Verkehrswesen, Allgemein Sm [A22 n28 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2396H" rel="nofollow">Images on film h2/sh/S2396H</a> | Filmanfang: Großbritannien : Landstrassen, Wege, Brücken (einschl. ihres Verkehrs) Sm [A22 n29 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2397H" rel="nofollow">Images on film h2/sh/S2397H</a> | Filmanfang: Großbritannien : Hafenanlagen und deren Verwaltung [A22 n31]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2398H" rel="nofollow">Images on film h2/sh/S2398H</a> | Filmanfang: Großbritannien : Seeschiffahrt Sm [A22 n32 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2399H" rel="nofollow">Images on film h2/sh/S2399H</a> | Filmanfang: Großbritannien : Postwesen, Telegraphenwesen und Fernsprechwesen Sm [A22 n34 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2400H" rel="nofollow">Images on film h2/sh/S2400H</a> | Filmanfang: Großbritannien : Luftschiffahrt, Flugwesen, Luftverkehr, Allgemein [A22 n35]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2401H" rel="nofollow">Images on film h2/sh/S2401H</a> | Filmanfang: Großbritannien : Luftverkehr mit einzelnen Ländern [A22 n35b]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2402H" rel="nofollow">Images on film h2/sh/S2402H</a> | Filmanfang: Großbritannien : Versicherungswesen Sm [A22 n37 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2403H" rel="nofollow">Images on film h2/sh/S2403H</a> | Filmanfang: Großbritannien : Einzelfragen politischer und wirtschaftlicher Natur Nr. 2-3 [A22 q Nr. 2-3]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2404H" rel="nofollow">Images on film h2/sh/S2404H</a> | Filmanfang: Großbritannien : Einzelfragen politischer und wirtschaftlicher Natur [A22 q]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2405H" rel="nofollow">Images on film h2/sh/S2405H</a> | Filmanfang: Großbritannien : Einzelfragen politischer und wirtschaftlicher Natur Nr. 32 [A22 q Nr. 32]
+
+
+:::
 
 
 
@@ -28,8 +238,27 @@ fn-stub: about
 
 
 
-In total 66 folders, 11914 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_wa.de.html) (in German).
+
+
+
+
+
+## Commodities/wares archives folders
+
+
+
+
+
+
+
+
+
+
+
+In total 66 folders (until 1949), 11914 documents
+- folders incomplete.  For material not published as folders, please check the
+digitized micro-films of the [1st filming](/film/h1_wa.de.html) and [2nd
+filming](/film/h2_wa.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 

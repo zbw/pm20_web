@@ -1,6 +1,6 @@
 ---
 title: "Asbestos"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Asbestos &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104085) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Asbestos)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142014`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142014`</div>
 
 
 
@@ -18,13 +18,15 @@ fn-stub: about
 
 
 
-## Commodities/wares archives
+## Commodities/wares archives folders
 
 
 
 
 
-In total 62 folders, 900 documents - folders complete.
+
+
+In total 62 folders, 900 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -50,7 +52,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A40b Austria [**&nearr;**](../../../geo/i/141731/about.en.html "Austria (all folders)") [**&uarr;**](../../../geo/about.en.html#A40b "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,141731" title="about: Asbestos : Austria" target="_blank">7 documents</a>) ([folder](../../../../folder/wa/1420xx/142014/1417xx/141731/about.en.html))
 - A40c Czechoslovakia [**&nearr;**](../../../geo/i/141022/about.en.html "Czechoslovakia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40c "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,141022" title="about: Asbestos : Czechoslovakia" target="_blank">12 documents</a>) ([folder](../../../../folder/wa/1420xx/142014/1410xx/141022/about.en.html))
 - A40d Hungary [**&nearr;**](../../../geo/i/141025/about.en.html "Hungary (all folders)") [**&uarr;**](../../../geo/about.en.html#A40d "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,141025" title="about: Asbestos : Hungary" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1420xx/142014/1410xx/141025/about.en.html))
-- A40e Kingdom of Yugoslavia [**&nearr;**](../../../geo/i/141028/about.en.html "Kingdom of Yugoslavia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40e "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,141028" title="about: Asbestos : Kingdom of Yugoslavia" target="_blank">18 documents</a>) ([folder](../../../../folder/wa/1420xx/142014/1410xx/141028/about.en.html))
+- A40e (Kingdom of) Yugoslavia [**&nearr;**](../../../geo/i/141028/about.en.html "(Kingdom of) Yugoslavia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40e "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,141028" title="about: Asbestos : (Kingdom of) Yugoslavia" target="_blank">18 documents</a>) ([folder](../../../../folder/wa/1420xx/142014/1410xx/141028/about.en.html))
 - A41 Serbia [**&nearr;**](../../../geo/i/141032/about.en.html "Serbia (all folders)") [**&uarr;**](../../../geo/about.en.html#A41 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,141032" title="about: Asbestos : Serbia" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142014/1410xx/141032/about.en.html))
 - A45 Greece [**&nearr;**](../../../geo/i/141037/about.en.html "Greece (all folders)") [**&uarr;**](../../../geo/about.en.html#A45 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,141037" title="about: Asbestos : Greece" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1420xx/142014/1410xx/141037/about.en.html))
 - A47 Romania [**&nearr;**](../../../geo/i/141040/about.en.html "Romania (all folders)") [**&uarr;**](../../../geo/about.en.html#A47 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,141040" title="about: Asbestos : Romania" target="_blank">5 documents</a>) ([folder](../../../../folder/wa/1420xx/142014/1410xx/141040/about.en.html))
@@ -109,6 +111,38 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### World
 
 - H World [**&nearr;**](../../../geo/i/141728/about.en.html "World (all folders)") [**&uarr;**](../../../geo/about.en.html#H "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,141728" title="about: Asbestos : World" target="_blank">118 documents</a>) ([folder](../../../../folder/wa/1420xx/142014/1417xx/141728/about.en.html))
+
+
+
+<a id="filmsections" />
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 38</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2002H/0464" rel="nofollow">Images on film h2/wa/W2002H/0464</a> | Asbest
+
+
+:::
+
+
+
+
+
+
+
+
 
 
 

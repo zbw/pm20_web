@@ -1,6 +1,6 @@
 ---
 title: "n14a Sm12 Handwerk, Graphisches Gewerbe"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n14a Sm12]{.gray}&#8201; Handwerk, Graphisches Gewerbe &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710682)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145143`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145143`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 6 Mappen, 44 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 6 Mappen, 44 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -42,6 +43,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145143" title="über: Argentinien : Handwerk, Graphisches Gewerbe" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1451xx/145143/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

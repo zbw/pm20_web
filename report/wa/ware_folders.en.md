@@ -100,7 +100,7 @@ A10 | PLW04-Bw | [Cotton : Germany](https://pm20.zbw.eu/folder/wa/1420xx/142089/
 A10 | PID19-Bw01 | [Cotton industry : Germany](https://pm20.zbw.eu/folder/wa/1420xx/142091/1261xx/126128/about.en.html ) | 442 | A 010
 A10 | PID08-Ld02 | [Cotton machine : Germany](https://pm20.zbw.eu/folder/wa/1420xx/142092/1261xx/126128/about.en.html ) | 1 | A 010
 A10 | PID20-Oe01 | [Cottonseed, cottonseed oil : Germany](https://pm20.zbw.eu/folder/wa/1420xx/142093/1261xx/126128/about.en.html ) | 3 | A 010
-A10 | PLW07-Mt01 | [Eel : Germany](https://pm20.zbw.eu/folder/wa/1419xx/141941/1261xx/126128/about.en.html ) | 28 | A 010
+A10 | PLW07-Mt01 | [Eel : Germany](https://pm20.zbw.eu/folder/wa/1419xx/141941/1261xx/126128/about.en.html ) | 31 | A 010
 A10 | PID13.02-Ks01 | [Ethyl alcohol : Germany](https://pm20.zbw.eu/folder/wa/1419xx/141946/1261xx/126128/about.en.html ) | 1 | A 010
 A10 | PID09.02-Nf01 | [Excavator : Germany](https://pm20.zbw.eu/folder/wa/1420xx/142028/1261xx/126128/about.en.html ) | 82 | A 010
 A10 | PID08-Ar | [Fittings (Armature) : Germany](https://pm20.zbw.eu/folder/wa/1420xx/142004/1261xx/126128/about.en.html ) | 121 | A 010
@@ -883,28 +883,28 @@ A40d | PID19-Nf06 | [Milkweed : Hungary](https://pm20.zbw.eu/folder/wa/1420xx/14
 A40d | PLW04-Zs01 | [Orange : Hungary](https://pm20.zbw.eu/folder/wa/1419xx/141981/1410xx/141025/about.en.html ) | 3 | A 040d
 A40d | PID13.02-Ks02 | [Petrol : Hungary](https://pm20.zbw.eu/folder/wa/1421xx/142108/1410xx/141025/about.en.html ) | 43 | A 040d
 A40d | PRB01-01 | [Waste and scrap : Hungary](https://pm20.zbw.eu/folder/wa/1419xx/141942/1410xx/141025/about.en.html ) | 6 | A 040d
-A40e | PID13-Ko01 | [Aether : Kingdom of Yugoslavia](https://pm20.zbw.eu/folder/wa/1419xx/141945/1410xx/141028/about.en.html ) | 4 | A 040e
-A40e | PID13-Ko02 | [Alcohol : Kingdom of Yugoslavia](https://pm20.zbw.eu/folder/wa/1634xx/163481/1410xx/141028/about.en.html ) | 2 | A 040e
-A40e | PID20.02-Sp | [Alcoholic beverage : Kingdom of Yugoslavia](https://pm20.zbw.eu/folder/wa/1419xx/141966/1410xx/141028/about.en.html ) | 51 | A 040e
-A40e | PID07.01-Lm01 | [Aluminium : Kingdom of Yugoslavia](https://pm20.zbw.eu/folder/wa/1419xx/141969/1410xx/141028/about.en.html ) | 152 | A 040e
-A40e | PID13-Du01 | [Ammonia : Kingdom of Yugoslavia](https://pm20.zbw.eu/folder/wa/1659xx/165930/1410xx/141028/about.en.html ) | 3 | A 040e
-A40e | PID07.01-Hm01 | [Antimony : Kingdom of Yugoslavia](https://pm20.zbw.eu/folder/wa/1419xx/141977/1410xx/141028/about.en.html ) | 19 | A 040e
-A40e | PLW04-Ob01 | [Apple : Kingdom of Yugoslavia](https://pm20.zbw.eu/folder/wa/1419xx/141980/1410xx/141028/about.en.html ) | 16 | A 040e
-A40e | PID07.01-Hm02 | [Arsenic : Kingdom of Yugoslavia](https://pm20.zbw.eu/folder/wa/1420xx/142006/1410xx/141028/about.en.html ) | 3 | A 040e
-A40e | PID23-As | [Asbestos : Kingdom of Yugoslavia](https://pm20.zbw.eu/folder/wa/1420xx/142014/1410xx/141028/about.en.html ) | 18 | A 040e
-A40e | PID22-Bd01 | [Asphalt : Kingdom of Yugoslavia](https://pm20.zbw.eu/folder/wa/1420xx/142016/1410xx/141028/about.en.html ) | 4 | A 040e
-A40e | PID22-Bs | [Building material : Kingdom of Yugoslavia](https://pm20.zbw.eu/folder/wa/1420xx/142086/1410xx/141028/about.en.html ) | 6 | A 040e
-A40e | PRB02.01-Ru | [Carbon (soot) : Kingdom of Yugoslavia](https://pm20.zbw.eu/folder/wa/1431xx/143123/1410xx/141028/about.en.html ) | 2 | A 040e
-A40e | PID13-Sc06 | [Carbonic acid : Kingdom of Yugoslavia](https://pm20.zbw.eu/folder/wa/1431xx/143122/1410xx/141028/about.en.html ) | 1 | A 040e
-A40e | PLW04-Zs | [Citrus fruits : Kingdom of Yugoslavia](https://pm20.zbw.eu/folder/wa/1419xx/141948/1410xx/141028/about.en.html ) | 2 | A 040e
-A40e | PID19-Bk | [Clothing : Kingdom of Yugoslavia](https://pm20.zbw.eu/folder/wa/1421xx/142106/1410xx/141028/about.en.html ) | 6 | A 040e
-A40e | PRB02.01 | [Coal : Kingdom of Yugoslavia](https://pm20.zbw.eu/folder/wa/1431xx/143120/1410xx/141028/about.en.html ) | 214 | A 040e
-A40e | PID04-Dr05 | [Coca, cocaine : Kingdom of Yugoslavia](https://pm20.zbw.eu/folder/wa/1431xx/143124/1410xx/141028/about.en.html ) | 1 | A 040e
-A40e | PID19-Bw01 | [Cotton industry : Kingdom of Yugoslavia](https://pm20.zbw.eu/folder/wa/1420xx/142091/1410xx/141028/about.en.html ) | 132 | A 040e
-A40e | PID19-Nf02 | [Cotton yarn : Kingdom of Yugoslavia](https://pm20.zbw.eu/folder/wa/1964xx/196460/1410xx/141028/about.en.html ) | 15 | A 040e
-A40e | PID08-Bg | [Mining machine : Kingdom of Yugoslavia](https://pm20.zbw.eu/folder/wa/1421xx/142112/1410xx/141028/about.en.html ) | 1 | A 040e
-A40e | PLW04-Zs01 | [Orange : Kingdom of Yugoslavia](https://pm20.zbw.eu/folder/wa/1419xx/141981/1410xx/141028/about.en.html ) | 1 | A 040e
-A40e | PID13.02-Ks02 | [Petrol : Kingdom of Yugoslavia](https://pm20.zbw.eu/folder/wa/1421xx/142108/1410xx/141028/about.en.html ) | 35 | A 040e
+A40e | PID13-Ko01 | [Aether : (Kingdom of) Yugoslavia](https://pm20.zbw.eu/folder/wa/1419xx/141945/1410xx/141028/about.en.html ) | 4 | A 040e
+A40e | PID13-Ko02 | [Alcohol : (Kingdom of) Yugoslavia](https://pm20.zbw.eu/folder/wa/1634xx/163481/1410xx/141028/about.en.html ) | 2 | A 040e
+A40e | PID20.02-Sp | [Alcoholic beverage : (Kingdom of) Yugoslavia](https://pm20.zbw.eu/folder/wa/1419xx/141966/1410xx/141028/about.en.html ) | 51 | A 040e
+A40e | PID07.01-Lm01 | [Aluminium : (Kingdom of) Yugoslavia](https://pm20.zbw.eu/folder/wa/1419xx/141969/1410xx/141028/about.en.html ) | 152 | A 040e
+A40e | PID13-Du01 | [Ammonia : (Kingdom of) Yugoslavia](https://pm20.zbw.eu/folder/wa/1659xx/165930/1410xx/141028/about.en.html ) | 3 | A 040e
+A40e | PID07.01-Hm01 | [Antimony : (Kingdom of) Yugoslavia](https://pm20.zbw.eu/folder/wa/1419xx/141977/1410xx/141028/about.en.html ) | 19 | A 040e
+A40e | PLW04-Ob01 | [Apple : (Kingdom of) Yugoslavia](https://pm20.zbw.eu/folder/wa/1419xx/141980/1410xx/141028/about.en.html ) | 16 | A 040e
+A40e | PID07.01-Hm02 | [Arsenic : (Kingdom of) Yugoslavia](https://pm20.zbw.eu/folder/wa/1420xx/142006/1410xx/141028/about.en.html ) | 3 | A 040e
+A40e | PID23-As | [Asbestos : (Kingdom of) Yugoslavia](https://pm20.zbw.eu/folder/wa/1420xx/142014/1410xx/141028/about.en.html ) | 18 | A 040e
+A40e | PID22-Bd01 | [Asphalt : (Kingdom of) Yugoslavia](https://pm20.zbw.eu/folder/wa/1420xx/142016/1410xx/141028/about.en.html ) | 4 | A 040e
+A40e | PID22-Bs | [Building material : (Kingdom of) Yugoslavia](https://pm20.zbw.eu/folder/wa/1420xx/142086/1410xx/141028/about.en.html ) | 6 | A 040e
+A40e | PRB02.01-Ru | [Carbon (soot) : (Kingdom of) Yugoslavia](https://pm20.zbw.eu/folder/wa/1431xx/143123/1410xx/141028/about.en.html ) | 2 | A 040e
+A40e | PID13-Sc06 | [Carbonic acid : (Kingdom of) Yugoslavia](https://pm20.zbw.eu/folder/wa/1431xx/143122/1410xx/141028/about.en.html ) | 1 | A 040e
+A40e | PLW04-Zs | [Citrus fruits : (Kingdom of) Yugoslavia](https://pm20.zbw.eu/folder/wa/1419xx/141948/1410xx/141028/about.en.html ) | 2 | A 040e
+A40e | PID19-Bk | [Clothing : (Kingdom of) Yugoslavia](https://pm20.zbw.eu/folder/wa/1421xx/142106/1410xx/141028/about.en.html ) | 6 | A 040e
+A40e | PRB02.01 | [Coal : (Kingdom of) Yugoslavia](https://pm20.zbw.eu/folder/wa/1431xx/143120/1410xx/141028/about.en.html ) | 214 | A 040e
+A40e | PID04-Dr05 | [Coca, cocaine : (Kingdom of) Yugoslavia](https://pm20.zbw.eu/folder/wa/1431xx/143124/1410xx/141028/about.en.html ) | 1 | A 040e
+A40e | PID19-Bw01 | [Cotton industry : (Kingdom of) Yugoslavia](https://pm20.zbw.eu/folder/wa/1420xx/142091/1410xx/141028/about.en.html ) | 132 | A 040e
+A40e | PID19-Nf02 | [Cotton yarn : (Kingdom of) Yugoslavia](https://pm20.zbw.eu/folder/wa/1964xx/196460/1410xx/141028/about.en.html ) | 15 | A 040e
+A40e | PID08-Bg | [Mining machine : (Kingdom of) Yugoslavia](https://pm20.zbw.eu/folder/wa/1421xx/142112/1410xx/141028/about.en.html ) | 1 | A 040e
+A40e | PLW04-Zs01 | [Orange : (Kingdom of) Yugoslavia](https://pm20.zbw.eu/folder/wa/1419xx/141981/1410xx/141028/about.en.html ) | 1 | A 040e
+A40e | PID13.02-Ks02 | [Petrol : (Kingdom of) Yugoslavia](https://pm20.zbw.eu/folder/wa/1421xx/142108/1410xx/141028/about.en.html ) | 35 | A 040e
 A40f | PID20.02-Sp | [Alcoholic beverage : Slovakia](https://pm20.zbw.eu/folder/wa/1419xx/141966/1410xx/141029/about.en.html ) | 31 | A 040f
 A40f | PID07.01-Lm01 | [Aluminium : Slovakia](https://pm20.zbw.eu/folder/wa/1419xx/141969/1410xx/141029/about.en.html ) | 1 | A 040f
 A40f | PID13-Du01 | [Ammonia : Slovakia](https://pm20.zbw.eu/folder/wa/1659xx/165930/1410xx/141029/about.en.html ) | 1 | A 040f
@@ -1750,7 +1750,7 @@ C19 | PLW04-Bn | [Banana : Algeria](https://pm20.zbw.eu/folder/wa/1420xx/142038/
 C19 | PID07.01-Lm02 | [Barium : Algeria](https://pm20.zbw.eu/folder/wa/1420xx/142042/1413xx/141354/about.en.html ) | 1 | C 019
 C19 | PLW04-Kf02 | [Batata : Algeria](https://pm20.zbw.eu/folder/wa/1420xx/142049/1413xx/141354/about.en.html ) | 1 | C 019
 C19 | PID22-Bs | [Building material : Algeria](https://pm20.zbw.eu/folder/wa/1420xx/142086/1413xx/141354/about.en.html ) | 5 | C 019
-C19 | PLW04-Zs | [Citrus fruits : Algeria](https://pm20.zbw.eu/folder/wa/1419xx/141948/1413xx/141354/about.en.html ) | 52 | C 019
+C19 | PLW04-Zs | [Citrus fruits : Algeria](https://pm20.zbw.eu/folder/wa/1419xx/141948/1413xx/141354/about.en.html ) | 53 | C 019
 C19 | PID19-Bk | [Clothing : Algeria](https://pm20.zbw.eu/folder/wa/1421xx/142106/1413xx/141354/about.en.html ) | 2 | C 019
 C19 | PRB02.01 | [Coal : Algeria](https://pm20.zbw.eu/folder/wa/1431xx/143120/1413xx/141354/about.en.html ) | 77 | C 019
 C19 | PID19-Nf11 | [Coir : Algeria](https://pm20.zbw.eu/folder/wa/1431xx/143125/1413xx/141354/about.en.html ) | 1 | C 019
@@ -2890,7 +2890,7 @@ H | PID19-Bw01 | [Cotton industry : World](https://pm20.zbw.eu/folder/wa/1420xx/
 H | PID08-Ld02 | [Cotton machine : World](https://pm20.zbw.eu/folder/wa/1420xx/142092/1417xx/141728/about.en.html ) | 35 | H
 H | PID19-Bw02 | [Cotton textiles : World](https://pm20.zbw.eu/folder/wa/1549xx/154932/1417xx/141728/about.en.html ) | 11 | H
 H | PID20-Oe01 | [Cottonseed, cottonseed oil : World](https://pm20.zbw.eu/folder/wa/1420xx/142093/1417xx/141728/about.en.html ) | 44 | H
-H | PLW07-Mt01 | [Eel : World](https://pm20.zbw.eu/folder/wa/1419xx/141941/1417xx/141728/about.en.html ) | 34 | H
+H | PLW07-Mt01 | [Eel : World](https://pm20.zbw.eu/folder/wa/1419xx/141941/1417xx/141728/about.en.html ) | 37 | H
 H | PID13.02-Ks01 | [Ethyl alcohol : World](https://pm20.zbw.eu/folder/wa/1419xx/141946/1417xx/141728/about.en.html ) | 22 | H
 H | PID07.03-01 | [Fittings and hinges : World](https://pm20.zbw.eu/folder/wa/1421xx/142113/1417xx/141728/about.en.html ) | 7 | H
 H | PID19-Nf018 | [Halfah grass : World](https://pm20.zbw.eu/folder/wa/1419xx/141957/1417xx/141728/about.en.html ) | 28 | H

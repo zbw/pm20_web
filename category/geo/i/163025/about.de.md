@@ -1,6 +1,6 @@
 ---
 title: "A40b(A10) Ostmark (1938-1945)"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -8,9 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A40b(A10)]{.gray}&#8201; Ostmark (1938-1945)
+# [A40b(A10)]{.gray}&#8201; Ostmark (1938-1945) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q1457322) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Alpen-_und_Donau-Reichsgaue)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/163025`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/163025`</div>
 
 <div class="hint">
 Scope Note: Der, im nationalsozialistischen Sprachgebrauch so bezeichnete, „Anschluss“ bezeichnet die De-facto-Annexion des Bundesstaates Österreich durch das nationalsozialistische Deutsche Reich am 12. März 1938 kurz vor Beginn des Zweiten Weltkriegs.  (einschl.: Anschluss (Österreich))
@@ -20,7 +20,7 @@ Scope Note: Der, im nationalsozialistischen Sprachgebrauch so bezeichnete, „An
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
@@ -29,8 +29,12 @@ Scope Note: Der, im nationalsozialistischen Sprachgebrauch so bezeichnete, „An
 
 
 
-Insgesamt 12 Mappen, 33 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+Insgesamt 12 Mappen (bis 1949), 33 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

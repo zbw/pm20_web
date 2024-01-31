@@ -1,6 +1,6 @@
 ---
 title: "n15 Sm7 Regelung der Arbeitszeit, Löhne"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n15 Sm7]{.gray}&#8201; Regelung der Arbeitszeit, Löhne &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710711)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/161846`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/161846`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 5 Mappen, 45 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 5 Mappen, 45 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -44,6 +45,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - C25 Französisch-Marokko [**&nearr;**](../../../geo/i/141358/about.de.html "Französisch-Marokko (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C25 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141358,161846" title="über: Französisch-Marokko : Regelung der Arbeitszeit, Löhne" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/sh/1413xx/141358/1618xx/161846/about.de.html))
 - C110 Deutsch-Ostafrika [**&nearr;**](../../../geo/i/141471/about.de.html "Deutsch-Ostafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C110 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141471,161846" title="über: Deutsch-Ostafrika : Regelung der Arbeitszeit, Löhne" target="_blank">12 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141471/1618xx/161846/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "B62 Indonesien"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -8,27 +8,115 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B62]{.gray}&#8201; Indonesien
+# [B62]{.gray}&#8201; Indonesien &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q252) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Indonesien)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141218`</div>
-
-
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141218`</div>
 
 
 
 
-
-## Warenarchiv
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
+## Sacharchiv Mappen
 
 
 
-Insgesamt 30 Mappen, 446 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+Kein als Mappe erschlossenes Material.
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 8138</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0696H/0298" rel="nofollow">Bilder auf Film h1/sh/S0696H/0298</a> | Niederländisch-Indien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0697H" rel="nofollow">Bilder auf Film h1/sh/S0697H</a> | Filmanfang: Indonesien : Einzelne Krankheiten und deren Bekämpfung Malaria [B62 e1 Malaria]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0698H" rel="nofollow">Bilder auf Film h1/sh/S0698H</a> | Filmanfang: Indonesien : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein dm21 [B62 g4 dm21]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0699H" rel="nofollow">Bilder auf Film h1/sh/S0699H</a> | Filmanfang: Indonesien : Staatshaushalt [B62 m1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0700H" rel="nofollow">Bilder auf Film h1/sh/S0700H</a> | Filmanfang: Indonesien : Arbeitsmarkt, Erwerbslosenstatistik [B62 n2 Sm4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0701H" rel="nofollow">Bilder auf Film h1/sh/S0701H</a> | Filmanfang: Indonesien : Arbeiterfrage, Arbeitsverhältnisse, Allgemein [B62 n15]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0702H" rel="nofollow">Bilder auf Film h1/sh/S0702H</a> | Filmanfang: Indonesien : Landstrassen, Wege, Brücken (einschl. ihres Verkehrs) [B62 n29]
+
+
+:::
+
+
+
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 4707</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2642H/0076" rel="nofollow">Bilder auf Film h2/sh/S2642H/0076</a> | Indonesien
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2643H" rel="nofollow">Bilder auf Film h2/sh/S2643H</a> | Filmanfang: Indonesien : f4-6 [B62 f4-6]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2644H" rel="nofollow">Bilder auf Film h2/sh/S2644H</a> | Filmanfang: Indonesien : Wirtschaftspolitische Beziehungen zu einzelnen Ländern (M-Z) [B62 g4a (M-Z)]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2645H" rel="nofollow">Bilder auf Film h2/sh/S2645H</a> | Filmanfang: Indonesien : Berichte über die wirtschaftliche Lage [B62 n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2646H" rel="nofollow">Bilder auf Film h2/sh/S2646H</a> | Filmanfang: Indonesien : n23-27 Sm [B62 n23-27 Sm]
+
+
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 30 Mappen (bis 1949), 446 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

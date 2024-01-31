@@ -1,6 +1,6 @@
 ---
 title: "A10(t1) Allied occupied Germany"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [A10(t1)]{.gray}&#8201; Allied occupied Germany &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q2415901) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Allied-occupied_Germany)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/187230`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/187230`</div>
 
 
 
@@ -18,7 +18,10 @@ fn-stub: about
 
 
 
-## Subject archives
+## Subject archives folders
+
+
+
 
 
 
@@ -46,6 +49,38 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### Economy
 
 - n14 Crafts and trades [**&nearr;**](../../../subject/i/145135/about.en.html "Crafts and trades (all over the world)") [**&uarr;**](../../../subject/about.en.html#n14 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/187230,145135" title="about: Allied occupied Germany : Crafts and trades" target="_blank">36 documents</a>) ([folder](../../../../folder/sh/1872xx/187230/1451xx/145135/about.en.html))
+
+
+
+<a id="filmsections" />
+
+## Sections of digitized microfilms (1st filming 1908-1949)
+
+<p>For intellectual property law reasons accessible only from the European Union legal area and from the ZBW reading room.</p>
+
+
+
+<p>Total number of images: 16</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0088H/0856/L" rel="nofollow">Images on film h1/sh/S0088H/0856/L</a> | Deutschland (unter alliierter Besetzung) : Verwaltungsbezirke
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0204H/0940/L" rel="nofollow">Images on film h1/sh/S0204H/0940/L</a> | Deutschland (unter alliierter Besetzung)   : Reparationsfragen nach dem Zweiten Weltkrieg
+
+
+:::
+
+
+
+
+
+
+
 
 
 

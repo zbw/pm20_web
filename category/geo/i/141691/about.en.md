@@ -1,6 +1,6 @@
 ---
 title: "E85 Chile"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,18 +10,21 @@ fn-stub: about
 
 # [E85]{.gray}&#8201; Chile &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q298) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Chile)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141691`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141691`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
+[Subject archives](#subject-archives-folders) &#160; [Commodities/wares archives](#commoditieswares-archives-folders)
 
 
 
 
-## Subject archives
+## Subject archives folders
+
+
+
 
 
 
@@ -110,11 +113,61 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
+<a id="filmsections" />
+
+## Sections of digitized microfilms (1st filming 1908-1949)
+
+<p>For intellectual property law reasons accessible only from the European Union legal area and from the ZBW reading room.</p>
+
+
+
+<p>Total number of images: 7580</p>
 
 
 
 
-## Commodities/wares archives
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0981H/1145" rel="nofollow">Images on film h1/sh/S0981H/1145</a> | Chile
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0982H_1" rel="nofollow">Images on film h1/sh/S0982H_1</a> | Filmanfang: Chile : Landeskunde, Allgemein [E85 c]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0983H" rel="nofollow">Images on film h1/sh/S0983H</a> | Filmanfang: Chile : Einzelne Parteien und Parteigruppen [E85 f5a]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0984H" rel="nofollow">Images on film h1/sh/S0984H</a> | Filmanfang: Chile : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein [E85 g4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0985H" rel="nofollow">Images on film h1/sh/S0985H</a> | Filmanfang: Chile : Eingeborenenpolitik [E85 h8]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0986H" rel="nofollow">Images on film h1/sh/S0986H</a> | Filmanfang: Chile : Äußere Schuld I [E85 m1 Sm5 I]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0987H_1" rel="nofollow">Images on film h1/sh/S0987H_1</a> | Filmanfang: Chile : Berichte über die wirtschaftliche Lage [E85 n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0988H_1" rel="nofollow">Images on film h1/sh/S0988H_1</a> | Filmanfang: Chile : Elektrizitätsindustrie [E85 n13a Sm4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0989H_1" rel="nofollow">Images on film h1/sh/S0989H_1</a> | Filmanfang: Chile : Kreditwesen und Bankwesen [E85 n24]
+
+
+:::
+
+
+
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 3604</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2820H/0525" rel="nofollow">Images on film h2/sh/S2820H/0525</a> | Chile
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2821H" rel="nofollow">Images on film h2/sh/S2821H</a> | Filmanfang: Chile : Wirtschaftskrieg [E85 g4 Sm2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2822H" rel="nofollow">Images on film h2/sh/S2822H</a> | Filmanfang: Chile : Zollwesen, Zolltarife Sm [E85 m2 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2823H" rel="nofollow">Images on film h2/sh/S2823H</a> | Filmanfang: Chile : n5-12 Sm [E85 n5-12 Sm]
+
+
+:::
 
 
 
@@ -124,8 +177,27 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
-In total 31 folders, 554 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_wa.de.html) (in German).
+
+
+
+
+
+## Commodities/wares archives folders
+
+
+
+
+
+
+
+
+
+
+
+In total 31 folders (until 1949), 554 documents
+- folders incomplete.  For material not published as folders, please check the
+digitized micro-films of the [1st filming](/film/h1_wa.de.html) and [2nd
+filming](/film/h2_wa.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 

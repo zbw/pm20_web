@@ -1,6 +1,6 @@
 ---
 title: "D15 Marianen"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,25 +10,27 @@ fn-stub: about
 
 # [D15]{.gray}&#8201; Marianen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q153732) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Marianen)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141615`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141615`</div>
 
 <div class="hint">
-Scope Note: bis 30.06.1919, dann unter Japanische Mandatländer in Ozeanien (D 18); 	
-Inselgruppe im Pazifik; umfasst die Nördlichen Marianen und Guam
+Scope Note: bis 30.06.1919, dann unter Japanische Mandatländer in Ozeanien (D 18); 	 Inselgruppe im Pazifik; umfasst die Nördlichen Marianen und Guam
 </div>
 
 
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
 
 
 
 
 
 
-Insgesamt 4 Mappen, 9 Dokumente - Mappen komplett.
+
+
+
+Insgesamt 4 Mappen, 9 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -47,6 +49,14 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Geschichte, Politik
 
 - f2.2 Geschichtliche Vorgänge 1914-1918 (1. Weltkrieg) [**&nearr;**](../../../subject/i/181360/about.de.html "Geschichtliche Vorgänge 1914-1918 (1. Weltkrieg) (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#f2.2 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141615,181360" title="über: Marianen : Geschichtliche Vorgänge 1914-1918 (1. Weltkrieg)" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141615/1813xx/181360/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
 
 
 

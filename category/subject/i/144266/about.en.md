@@ -1,6 +1,6 @@
 ---
 title: "e4 Medical services, hygiene, medical institutions"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [e4]{.gray}&#8201; Medical services, hygiene, medical institutions &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427859)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144266`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144266`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 40 folders, 1362 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 40 folders, 1402 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -35,7 +36,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 - A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,144266" title="about: Southeastern Europe : Medical services, hygiene, medical institutions" target="_blank">4 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1442xx/144266/about.en.html))
 - A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,144266" title="about: Orient : Medical services, hygiene, medical institutions" target="_blank">5 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1442xx/144266/about.en.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144266" title="about: Hamburg : Medical services, hygiene, medical institutions" target="_blank">204 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1442xx/144266/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144266" title="about: Hamburg : Medical services, hygiene, medical institutions" target="_blank">244 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1442xx/144266/about.en.html))
 - A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,144266" title="about: Germany : Medical services, hygiene, medical institutions" target="_blank">401 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1442xx/144266/about.en.html))
 - A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140960,144266" title="about: German imperial colonies : Medical services, hygiene, medical institutions" target="_blank">18 documents</a>) ([folder](../../../../folder/sh/1409xx/140960/1442xx/144266/about.en.html))
 - A36 Italian Empire [**&nearr;**](../../../geo/i/141012/about.en.html "Italian Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A36 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141012,144266" title="about: Italian Empire : Medical services, hygiene, medical institutions" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1410xx/141012/1442xx/144266/about.en.html))
@@ -85,6 +86,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144266" title="about: Argentina : Medical services, hygiene, medical institutions" target="_blank">196 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1442xx/144266/about.en.html))
 - E95 Uruguay [**&nearr;**](../../../geo/i/141695/about.en.html "Uruguay (all folders)") [**&uarr;**](../../../geo/about.en.html#E95 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141695,144266" title="about: Uruguay : Medical services, hygiene, medical institutions" target="_blank">58 documents</a>) ([folder](../../../../folder/sh/1416xx/141695/1442xx/144266/about.en.html))
 - E102 British Guiana [**&nearr;**](../../../geo/i/141700/about.en.html "British Guiana (all folders)") [**&uarr;**](../../../geo/about.en.html#E102 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141700,144266" title="about: British Guiana : Medical services, hygiene, medical institutions" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1417xx/141700/1442xx/144266/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Milkweed"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Milkweed &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q162153) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Asclepias)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142013`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142013`</div>
 
 
 
@@ -18,13 +18,15 @@ fn-stub: about
 
 
 
-## Commodities/wares archives
+## Commodities/wares archives folders
 
 
 
 
 
-In total 13 folders, 63 documents - folders complete.
+
+
+In total 13 folders, 63 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -57,6 +59,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 - E15 United States [**&nearr;**](../../../geo/i/141653/about.en.html "United States (all folders)") [**&uarr;**](../../../geo/about.en.html#E15 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142013,141653" title="about: Milkweed : United States" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142013/1416xx/141653/about.en.html))
 - E97 Brazil [**&nearr;**](../../../geo/i/141697/about.en.html "Brazil (all folders)") [**&uarr;**](../../../geo/about.en.html#E97 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142013,141697" title="about: Milkweed : Brazil" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142013/1416xx/141697/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "n18 Handel"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n18]{.gray}&#8201; Handel &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428045)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145262`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145262`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 56 Mappen, 3950 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 56 Mappen, 3981 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -42,7 +43,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145262" title="über: Südosteuropa : Handel" target="_blank">48 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1452xx/145262/about.de.html))
 - A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,145262" title="über: Orient : Handel" target="_blank">9 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1452xx/145262/about.de.html))
 - A8 Russische Randstaaten [**&nearr;**](../../../geo/i/140904/about.de.html "Russische Randstaaten (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A8 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140904,145262" title="über: Russische Randstaaten : Handel" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140904/1452xx/145262/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145262" title="über: Hamburg : Handel" target="_blank">243 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1452xx/145262/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145262" title="über: Hamburg : Handel" target="_blank">274 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1452xx/145262/about.de.html))
 - A10n(1) Oberschlesien (dt.-poln. Abstimmungsgebiet) [**&nearr;**](../../../geo/i/140948/about.de.html "Oberschlesien (dt.-poln. Abstimmungsgebiet) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10n(1) "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140948,145262" title="über: Oberschlesien (dt.-poln. Abstimmungsgebiet) : Handel" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140948/1452xx/145262/about.de.html))
 - A10p Polnisch-Schlesien [**&nearr;**](../../../geo/i/140951/about.de.html "Polnisch-Schlesien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10p "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140951,145262" title="über: Polnisch-Schlesien : Handel" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140951/1452xx/145262/about.de.html))
 - A11 Deutsche Kolonien [**&nearr;**](../../../geo/i/140960/about.de.html "Deutsche Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A11 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140960,145262" title="über: Deutsche Kolonien : Handel" target="_blank">25 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140960/1452xx/145262/about.de.html))
@@ -101,6 +102,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145262" title="über: Argentinien : Handel" target="_blank">816 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1452xx/145262/about.de.html))
 - E101 Niederländisch-Guayana [**&nearr;**](../../../geo/i/141699/about.de.html "Niederländisch-Guayana (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E101 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141699,145262" title="über: Niederländisch-Guayana : Handel" target="_blank">23 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141699/1452xx/145262/about.de.html))
 - E102 Britisch-Guayana [**&nearr;**](../../../geo/i/141700/about.de.html "Britisch-Guayana (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E102 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141700,145262" title="über: Britisch-Guayana : Handel" target="_blank">55 Dokumente</a>) ([Mappe](../../../../folder/sh/1417xx/141700/1452xx/145262/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

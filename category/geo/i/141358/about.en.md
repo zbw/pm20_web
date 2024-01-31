@@ -1,6 +1,6 @@
 ---
 title: "C25 French protectorate in Morocco"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,18 +10,18 @@ fn-stub: about
 
 # [C25]{.gray}&#8201; French protectorate in Morocco &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q907234) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/French_protectorate_in_Morocco)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141358`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141358`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
+[Subject archives](#subject-archives-folders) &#160; [Commodities/wares archives](#commoditieswares-archives-folders)
 
 
 
 
-## Subject archives
+## Subject archives folders
 
 
 
@@ -29,7 +29,10 @@ fn-stub: about
 
 
 
-In total 280 folders, 5704 documents - folders complete.
+
+
+
+In total 280 folders, 5704 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -367,11 +370,29 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
+<a id="filmsections" />
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 1820</p>
 
 
 
 
-## Commodities/wares archives
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2701H/0792" rel="nofollow">Images on film h2/sh/S2701H/0792</a> | Französisch-Marokko
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2702H" rel="nofollow">Images on film h2/sh/S2702H</a> | Filmanfang: Französisch-Marokko : Geschichtliche Vorgänge [C25 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2703H" rel="nofollow">Images on film h2/sh/S2703H</a> | Filmanfang: Französisch-Marokko : n-n1 Sm [C25 n-n1 Sm]
+
+
+:::
 
 
 
@@ -381,8 +402,27 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
-In total 21 folders, 224 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_wa.de.html) (in German).
+
+
+
+
+
+## Commodities/wares archives folders
+
+
+
+
+
+
+
+
+
+
+
+In total 21 folders (until 1949), 224 documents
+- folders incomplete.  For material not published as folders, please check the
+digitized micro-films of the [1st filming](/film/h1_wa.de.html) and [2nd
+filming](/film/h2_wa.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 

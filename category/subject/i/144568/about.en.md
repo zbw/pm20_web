@@ -1,6 +1,6 @@
 ---
 title: "g6 Sm3 Interests of individual states in ..."
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [g6 Sm3]{.gray}&#8201; Interests of individual states in ... &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700072)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144568`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144568`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 28 folders, 1008 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 28 folders, 1009 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -35,7 +36,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 - A5 Levant [**&nearr;**](../../../geo/i/140898/about.en.html "Levant (all folders)") [**&uarr;**](../../../geo/about.en.html#A5 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140898,144568" title="about: Levant : Interests of individual states in ..." target="_blank">24 documents</a>) ([folder](../../../../folder/sh/1408xx/140898/1445xx/144568/about.en.html))
 - A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,144568" title="about: Southeastern Europe : Interests of individual states in ..." target="_blank">50 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1445xx/144568/about.en.html))
-- A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,144568" title="about: Orient : Interests of individual states in ..." target="_blank">59 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1445xx/144568/about.en.html))
+- A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,144568" title="about: Orient : Interests of individual states in ..." target="_blank">60 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1445xx/144568/about.en.html))
 - A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140960,144568" title="about: German imperial colonies : Interests of individual states in ..." target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1409xx/140960/1445xx/144568/about.en.html))
 
 ### Asia
@@ -76,6 +77,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### Polar regions
 
 - F11 Antarctica [**&nearr;**](../../../geo/i/141703/about.en.html "Antarctica (all folders)") [**&uarr;**](../../../geo/about.en.html#F11 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141703,144568" title="about: Antarctica : Interests of individual states in ..." target="_blank">91 documents</a>) ([folder](../../../../folder/sh/1417xx/141703/1445xx/144568/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

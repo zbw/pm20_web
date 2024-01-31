@@ -1,6 +1,6 @@
 ---
 title: "B114 Guangdong"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [B114]{.gray}&#8201; Guangdong &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q15175) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Guangdong)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141275`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141275`</div>
 
 
 
@@ -18,7 +18,7 @@ fn-stub: about
 
 
 
-## Subject archives
+## Subject archives folders
 
 
 
@@ -26,7 +26,10 @@ fn-stub: about
 
 
 
-In total 85 folders, 418 documents - folders complete.
+
+
+
+In total 85 folders, 418 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -156,6 +159,14 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### Individual questions of political or economic nature
 
 - q Sm2 Trade and supply of weapons, ammunition and other war material [**&nearr;**](../../../subject/i/160420/about.en.html "Trade and supply of weapons, ammunition and other war material (all over the world)") [**&uarr;**](../../../subject/about.en.html#q_Sm2 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141275,160420" title="about: Guangdong : Trade and supply of weapons, ammunition and other war material" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1412xx/141275/1604xx/160420/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
 
 
 

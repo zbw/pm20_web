@@ -1,6 +1,6 @@
 ---
 title: "E18 Anglo-amerikanische Staaten"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -8,27 +8,109 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [E18]{.gray}&#8201; Anglo-amerikanische Staaten
+# [E18]{.gray}&#8201; Anglo-amerikanische Staaten &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q27353) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Angloamerikanisch)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141656`</div>
-
-
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141656`</div>
 
 
 
 
-
-## Warenarchiv
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
+## Sacharchiv Mappen
 
 
 
-Insgesamt 1 Mappen, 1 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+Kein als Mappe erschlossenes Material.
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 1807</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0949H/0542" rel="nofollow">Bilder auf Film h1/sh/S0949H/0542</a> | Anglo-amerikanische Staaten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0950H" rel="nofollow">Bilder auf Film h1/sh/S0950H</a> | Filmanfang: Anglo-amerikanische Staaten : Politische Beziehungen zu einzelnen Ländern Russland [E18 g1 Russland]
+
+
+:::
+
+
+
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 3829</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2797H/0158" rel="nofollow">Bilder auf Film h2/sh/S2797H/0158</a> | Anglo-amerikanische Staaten
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2798H" rel="nofollow">Bilder auf Film h2/sh/S2798H</a> | Filmanfang: Anglo-amerikanische Staaten : Politische Beziehungen zu einzelnen Ländern [E18 g1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2799H" rel="nofollow">Bilder auf Film h2/sh/S2799H</a> | Filmanfang: Anglo-amerikanische Staaten : Politische Beziehungen zu einzelnen Ländern [E18 g1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2800H" rel="nofollow">Bilder auf Film h2/sh/S2800H</a> | Filmanfang: Anglo-amerikanische Staaten : Politische Beziehungen zu einzelnen Ländern [E18 g1]
+
+
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 1 Mappen (bis 1949), 1 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

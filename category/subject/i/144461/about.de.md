@@ -1,6 +1,6 @@
 ---
 title: "g2 Diplomatische und konsularische Vertretungen"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [g2]{.gray}&#8201; Diplomatische und konsularische Vertretungen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427875)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144461`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144461`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 17 Mappen, 311 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 17 Mappen, 320 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -34,7 +35,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Europa
 
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,144461" title="über: Südosteuropa : Diplomatische und konsularische Vertretungen" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1444xx/144461/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144461" title="über: Hamburg : Diplomatische und konsularische Vertretungen" target="_blank">56 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1444xx/144461/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144461" title="über: Hamburg : Diplomatische und konsularische Vertretungen" target="_blank">65 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1444xx/144461/about.de.html))
 
 ### Asien
 
@@ -62,6 +63,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144461" title="über: Argentinien : Diplomatische und konsularische Vertretungen" target="_blank">84 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1444xx/144461/about.de.html))
 - E95 Uruguay [**&nearr;**](../../../geo/i/141695/about.de.html "Uruguay (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E95 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141695,144461" title="über: Uruguay : Diplomatische und konsularische Vertretungen" target="_blank">21 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141695/1444xx/144461/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

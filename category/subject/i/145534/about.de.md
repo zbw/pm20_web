@@ -1,6 +1,6 @@
 ---
 title: "n30 Sm3 Eisenbahnwesen, Tarife"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n30 Sm3]{.gray}&#8201; Eisenbahnwesen, Tarife &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711129)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145534`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145534`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 18 Mappen, 235 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 18 Mappen, 236 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -36,7 +37,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145534" title="über: Europa : Eisenbahnwesen, Tarife" target="_blank">47 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1455xx/145534/about.de.html))
 - A3 Osteuropa [**&nearr;**](../../../geo/i/140896/about.de.html "Osteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A3 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140896,145534" title="über: Osteuropa : Eisenbahnwesen, Tarife" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140896/1455xx/145534/about.de.html))
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145534" title="über: Südosteuropa : Eisenbahnwesen, Tarife" target="_blank">15 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1455xx/145534/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145534" title="über: Hamburg : Eisenbahnwesen, Tarife" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1455xx/145534/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145534" title="über: Hamburg : Eisenbahnwesen, Tarife" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1455xx/145534/about.de.html))
 - A10p Polnisch-Schlesien [**&nearr;**](../../../geo/i/140951/about.de.html "Polnisch-Schlesien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10p "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140951,145534" title="über: Polnisch-Schlesien : Eisenbahnwesen, Tarife" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140951/1455xx/145534/about.de.html))
 
 ### Asien
@@ -60,6 +61,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145534" title="über: Argentinien : Eisenbahnwesen, Tarife" target="_blank">34 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1455xx/145534/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Agrumen"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Agrumen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q81513) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Zitruspflanzen)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141948`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/141948`</div>
 
 <div class="hint">
 Scope Note: Agrumen (ital.: agrumi = Sauerfrüchte) sind eine Sammelbezeichnung für die wachsbedeckten Früchte von Zitruspflanzen. Die Zitruspflanzen (Citrus) gehören zu den Rautengewächsen (Rutaceae). Als Zitrusfrucht werden die Früchte der über 60 Arten der Gattung bezeichnet. Zitruspflanzen wachsen in warmen Regionen, beispielsweise rund um das Mittelmeer, es sind immergrüne Sträucher oder kleine Bäume und ihre Früchte enthalten viel Vitamin C. (www.wikipedia.de)
@@ -20,12 +20,14 @@ Scope Note: Agrumen (ital.: agrumi = Sauerfrüchte) sind eine Sammelbezeichnung 
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 70 Mappen, 1542 Dokumente - Mappen komplett.
+
+
+Insgesamt 69 Mappen, 1543 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -50,7 +52,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - A35 Italien [**&nearr;**](../../../geo/i/141008/about.de.html "Italien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A35 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141008" title="über: Agrumen : Italien" target="_blank">216 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1410xx/141008/about.de.html))
 - A40b Österreich [**&nearr;**](../../../geo/i/141731/about.de.html "Österreich (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40b "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141731" title="über: Agrumen : Österreich" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1417xx/141731/about.de.html))
 - A40d Ungarn [**&nearr;**](../../../geo/i/141025/about.de.html "Ungarn (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40d "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141025" title="über: Agrumen : Ungarn" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1410xx/141025/about.de.html))
-- A40e Südslawien [**&nearr;**](../../../geo/i/141028/about.de.html "Südslawien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40e "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141028" title="über: Agrumen : Südslawien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1410xx/141028/about.de.html))
+- A40e Jugoslawien (bis 1945 Südslawien) [**&nearr;**](../../../geo/i/141028/about.de.html "Jugoslawien (bis 1945 Südslawien) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40e "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141028" title="über: Agrumen : Jugoslawien (bis 1945 Südslawien)" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1410xx/141028/about.de.html))
 - A45 Griechenland [**&nearr;**](../../../geo/i/141037/about.de.html "Griechenland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A45 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141037" title="über: Agrumen : Griechenland" target="_blank">42 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1410xx/141037/about.de.html))
 - A46 Bulgarien [**&nearr;**](../../../geo/i/141039/about.de.html "Bulgarien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A46 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141039" title="über: Agrumen : Bulgarien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1410xx/141039/about.de.html))
 - A47 Rumänien [**&nearr;**](../../../geo/i/141040/about.de.html "Rumänien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A47 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141040" title="über: Agrumen : Rumänien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1410xx/141040/about.de.html))
@@ -65,7 +67,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - B24 Syrien [**&nearr;**](../../../geo/i/141114/about.de.html "Syrien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B24 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141114" title="über: Agrumen : Syrien" target="_blank">16 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1411xx/141114/about.de.html))
 - B24a Palästina (-1945) [**&nearr;**](../../../geo/i/141115/about.de.html "Palästina (-1945) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B24a "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141115" title="über: Agrumen : Palästina (-1945)" target="_blank">254 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1411xx/141115/about.de.html))
 - B24c Libanon [**&nearr;**](../../../geo/i/141117/about.de.html "Libanon (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B24c "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141117" title="über: Agrumen : Libanon" target="_blank">34 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1411xx/141117/about.de.html))
-- B42 Britisch-Indien [**&nearr;**](../../../geo/i/141189/about.de.html "Britisch-Indien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B42 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141189" title="über: Agrumen : Britisch-Indien" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1411xx/141189/about.de.html))
 - B57 Ceylon [**&nearr;**](../../../geo/i/141204/about.de.html "Ceylon (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B57 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141204" title="über: Agrumen : Ceylon" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1412xx/141204/about.de.html))
 - B86 Philippinen [**&nearr;**](../../../geo/i/141240/about.de.html "Philippinen (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141240" title="über: Agrumen : Philippinen" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1412xx/141240/about.de.html))
 - B91 Cochinchina [**&nearr;**](../../../geo/i/141243/about.de.html "Cochinchina (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B91 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141243" title="über: Agrumen : Cochinchina" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1412xx/141243/about.de.html))
@@ -77,7 +78,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - C10 Ägypten [**&nearr;**](../../../geo/i/141336/about.de.html "Ägypten (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C10 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141336" title="über: Agrumen : Ägypten" target="_blank">22 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1413xx/141336/about.de.html))
 - C15 Libyen [**&nearr;**](../../../geo/i/141339/about.de.html "Libyen (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C15 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141339" title="über: Agrumen : Libyen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1413xx/141339/about.de.html))
 - C18 Tunesien [**&nearr;**](../../../geo/i/141353/about.de.html "Tunesien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C18 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141353" title="über: Agrumen : Tunesien" target="_blank">9 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1413xx/141353/about.de.html))
-- C19 Algerien [**&nearr;**](../../../geo/i/141354/about.de.html "Algerien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C19 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141354" title="über: Agrumen : Algerien" target="_blank">52 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1413xx/141354/about.de.html))
+- C19 Algerien [**&nearr;**](../../../geo/i/141354/about.de.html "Algerien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C19 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141354" title="über: Agrumen : Algerien" target="_blank">53 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1413xx/141354/about.de.html))
 - C25 Französisch-Marokko [**&nearr;**](../../../geo/i/141358/about.de.html "Französisch-Marokko (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C25 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141358" title="über: Agrumen : Französisch-Marokko" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1413xx/141358/about.de.html))
 - C30 Französisch-Westafrika [**&nearr;**](../../../geo/i/141361/about.de.html "Französisch-Westafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C30 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141361" title="über: Agrumen : Französisch-Westafrika" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1413xx/141361/about.de.html))
 - C36 Französisch-Guinea [**&nearr;**](../../../geo/i/141375/about.de.html "Französisch-Guinea (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C36 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141375" title="über: Agrumen : Französisch-Guinea" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1413xx/141375/about.de.html))
@@ -119,6 +120,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Welt
 
 - H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141728" title="über: Agrumen : Welt" target="_blank">79 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141948/1417xx/141728/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "g4 Trade policy, Foreign economic policy, general"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [g4]{.gray}&#8201; Trade policy, Foreign economic policy, general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427880)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144470`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144470`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 46 folders, 2037 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 46 folders, 2039 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -33,7 +34,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A1 Europe [**&nearr;**](../../../geo/i/140892/about.en.html "Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A1 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144470" title="about: Europe : Trade policy, Foreign economic policy, general" target="_blank">251 documents</a>) ([folder](../../../../folder/sh/1408xx/140892/1444xx/144470/about.en.html))
+- A1 Europe [**&nearr;**](../../../geo/i/140892/about.en.html "Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A1 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144470" title="about: Europe : Trade policy, Foreign economic policy, general" target="_blank">252 documents</a>) ([folder](../../../../folder/sh/1408xx/140892/1444xx/144470/about.en.html))
 - A1a Baltic region [**&nearr;**](../../../geo/i/140894/about.en.html "Baltic region (all folders)") [**&uarr;**](../../../geo/about.en.html#A1a "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140894,144470" title="about: Baltic region : Trade policy, Foreign economic policy, general" target="_blank">7 documents</a>) ([folder](../../../../folder/sh/1408xx/140894/1444xx/144470/about.en.html))
 - A2 Central Europe [**&nearr;**](../../../geo/i/140895/about.en.html "Central Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A2 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140895,144470" title="about: Central Europe : Trade policy, Foreign economic policy, general" target="_blank">8 documents</a>) ([folder](../../../../folder/sh/1408xx/140895/1444xx/144470/about.en.html))
 - A3 Eastern Europe [**&nearr;**](../../../geo/i/140896/about.en.html "Eastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A3 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140896,144470" title="about: Eastern Europe : Trade policy, Foreign economic policy, general" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1408xx/140896/1444xx/144470/about.en.html))
@@ -43,7 +44,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,144470" title="about: Southeastern Europe : Trade policy, Foreign economic policy, general" target="_blank">154 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1444xx/144470/about.en.html))
 - A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,144470" title="about: Orient : Trade policy, Foreign economic policy, general" target="_blank">6 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1444xx/144470/about.en.html))
 - A8 Russian peripheral countries [**&nearr;**](../../../geo/i/140904/about.en.html "Russian peripheral countries (all folders)") [**&uarr;**](../../../geo/about.en.html#A8 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140904,144470" title="about: Russian peripheral countries : Trade policy, Foreign economic policy, general" target="_blank">9 documents</a>) ([folder](../../../../folder/sh/1409xx/140904/1444xx/144470/about.en.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144470" title="about: Hamburg : Trade policy, Foreign economic policy, general" target="_blank">13 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1444xx/144470/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144470" title="about: Hamburg : Trade policy, Foreign economic policy, general" target="_blank">14 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1444xx/144470/about.en.html))
 - A10p East Upper Silesia [**&nearr;**](../../../geo/i/140951/about.en.html "East Upper Silesia (all folders)") [**&uarr;**](../../../geo/about.en.html#A10p "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140951,144470" title="about: East Upper Silesia : Trade policy, Foreign economic policy, general" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1409xx/140951/1444xx/144470/about.en.html))
 - A36 Italian Empire [**&nearr;**](../../../geo/i/141012/about.en.html "Italian Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A36 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141012,144470" title="about: Italian Empire : Trade policy, Foreign economic policy, general" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1410xx/141012/1444xx/144470/about.en.html))
 - A39 Liechtenstein [**&nearr;**](../../../geo/i/141016/about.en.html "Liechtenstein (all folders)") [**&uarr;**](../../../geo/about.en.html#A39 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141016,144470" title="about: Liechtenstein : Trade policy, Foreign economic policy, general" target="_blank">5 documents</a>) ([folder](../../../../folder/sh/1410xx/141016/1444xx/144470/about.en.html))
@@ -91,6 +92,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 - E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144470" title="about: Argentina : Trade policy, Foreign economic policy, general" target="_blank">214 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1444xx/144470/about.en.html))
 - E102 British Guiana [**&nearr;**](../../../geo/i/141700/about.en.html "British Guiana (all folders)") [**&uarr;**](../../../geo/about.en.html#E102 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141700,144470" title="about: British Guiana : Trade policy, Foreign economic policy, general" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1417xx/141700/1444xx/144470/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

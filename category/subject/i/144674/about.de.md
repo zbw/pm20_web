@@ -1,6 +1,6 @@
 ---
 title: "h5 Sm1 Feuerlöschwesen"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [h5 Sm1]{.gray}&#8201; Feuerlöschwesen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700089)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144674`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144674`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 5 Mappen, 75 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 5 Mappen, 82 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -33,7 +34,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 ### Europa
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144674" title="über: Hamburg : Feuerlöschwesen" target="_blank">66 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1446xx/144674/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144674" title="über: Hamburg : Feuerlöschwesen" target="_blank">73 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1446xx/144674/about.de.html))
 
 ### Asien
 
@@ -47,6 +48,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144674" title="über: Argentinien : Feuerlöschwesen" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1446xx/144674/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

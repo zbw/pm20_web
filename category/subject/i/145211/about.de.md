@@ -1,6 +1,6 @@
 ---
 title: "n15a Sm6 Arbeitnehmerverhältnisse, Eisenbahn, Strassenbahn, Auto-Personenverkehr (Personenkraftverkehr)"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n15a Sm6]{.gray}&#8201; Arbeitnehmerverhältnisse, Eisenbahn, Strassenbahn, Auto-Personenverkehr (Personenkraftverkehr) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710803)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145211`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145211`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 11 Mappen, 312 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 11 Mappen, 317 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -33,7 +34,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 ### Europa
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145211" title="über: Hamburg : Arbeitnehmerverhältnisse, Eisenbahn, Strassenbahn, Auto-Personenverkehr (Personenkraftverkehr)" target="_blank">53 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1452xx/145211/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145211" title="über: Hamburg : Arbeitnehmerverhältnisse, Eisenbahn, Strassenbahn, Auto-Personenverkehr (Personenkraftverkehr)" target="_blank">58 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1452xx/145211/about.de.html))
 - A10n(1) Oberschlesien (dt.-poln. Abstimmungsgebiet) [**&nearr;**](../../../geo/i/140948/about.de.html "Oberschlesien (dt.-poln. Abstimmungsgebiet) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10n(1) "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140948,145211" title="über: Oberschlesien (dt.-poln. Abstimmungsgebiet) : Arbeitnehmerverhältnisse, Eisenbahn, Strassenbahn, Auto-Personenverkehr (Personenkraftverkehr)" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140948/1452xx/145211/about.de.html))
 - A10p Polnisch-Schlesien [**&nearr;**](../../../geo/i/140951/about.de.html "Polnisch-Schlesien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10p "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140951,145211" title="über: Polnisch-Schlesien : Arbeitnehmerverhältnisse, Eisenbahn, Strassenbahn, Auto-Personenverkehr (Personenkraftverkehr)" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140951/1452xx/145211/about.de.html))
 
@@ -53,6 +54,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145211" title="über: Argentinien : Arbeitnehmerverhältnisse, Eisenbahn, Strassenbahn, Auto-Personenverkehr (Personenkraftverkehr)" target="_blank">181 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1452xx/145211/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

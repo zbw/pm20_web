@@ -1,6 +1,6 @@
 ---
 title: "c Landeskunde, Allgemein"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [c]{.gray}&#8201; Landeskunde, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427828)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144199`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144199`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 66 Mappen, 1442 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 66 Mappen, 1451 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -33,13 +34,13 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 ### Europa
 
-- A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144199" title="über: Europa : Landeskunde, Allgemein" target="_blank">16 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1441xx/144199/about.de.html))
+- A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144199" title="über: Europa : Landeskunde, Allgemein" target="_blank">17 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1441xx/144199/about.de.html))
 - A1a Ostseeländer [**&nearr;**](../../../geo/i/140894/about.de.html "Ostseeländer (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1a "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140894,144199" title="über: Ostseeländer : Landeskunde, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140894/1441xx/144199/about.de.html))
 - A5 Levante [**&nearr;**](../../../geo/i/140898/about.de.html "Levante (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A5 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140898,144199" title="über: Levante : Landeskunde, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140898/1441xx/144199/about.de.html))
 - A5a Mittelmeerländer [**&nearr;**](../../../geo/i/140899/about.de.html "Mittelmeerländer (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A5a "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140899,144199" title="über: Mittelmeerländer : Landeskunde, Allgemein" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140899/1441xx/144199/about.de.html))
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,144199" title="über: Südosteuropa : Landeskunde, Allgemein" target="_blank">13 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1441xx/144199/about.de.html))
-- A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,144199" title="über: Orient : Landeskunde, Allgemein" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1441xx/144199/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144199" title="über: Hamburg : Landeskunde, Allgemein" target="_blank">173 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1441xx/144199/about.de.html))
+- A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,144199" title="über: Orient : Landeskunde, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1441xx/144199/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144199" title="über: Hamburg : Landeskunde, Allgemein" target="_blank">180 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1441xx/144199/about.de.html))
 - A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,144199" title="über: Deutschland : Landeskunde, Allgemein" target="_blank">135 Dokumente</a>) ([Mappe](../../../../folder/sh/1261xx/126128/1441xx/144199/about.de.html))
 - A11 Deutsche Kolonien [**&nearr;**](../../../geo/i/140960/about.de.html "Deutsche Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A11 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140960,144199" title="über: Deutsche Kolonien : Landeskunde, Allgemein" target="_blank">15 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140960/1441xx/144199/about.de.html))
 - A12 Polen [**&nearr;**](../../../geo/i/140962/about.de.html "Polen (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A12 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140962,144199" title="über: Polen : Landeskunde, Allgemein" target="_blank">23 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140962/1441xx/144199/about.de.html))
@@ -117,6 +118,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Welt
 
 - H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141728,144199" title="über: Welt : Landeskunde, Allgemein" target="_blank">63 Dokumente</a>) ([Mappe](../../../../folder/sh/1417xx/141728/1441xx/144199/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

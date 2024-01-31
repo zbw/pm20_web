@@ -1,6 +1,6 @@
 ---
 title: "g Außenpolitik und politische Beziehungen zum Ausland, Allgemein"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [g]{.gray}&#8201; Außenpolitik und politische Beziehungen zum Ausland, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427872)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144451`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144451`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 28 Mappen, 4737 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 28 Mappen, 4738 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -33,7 +34,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 ### Europa
 
-- A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144451" title="über: Europa : Außenpolitik und politische Beziehungen zum Ausland, Allgemein" target="_blank">1208 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1444xx/144451/about.de.html))
+- A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144451" title="über: Europa : Außenpolitik und politische Beziehungen zum Ausland, Allgemein" target="_blank">1209 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1444xx/144451/about.de.html))
 - A1a Ostseeländer [**&nearr;**](../../../geo/i/140894/about.de.html "Ostseeländer (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1a "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140894,144451" title="über: Ostseeländer : Außenpolitik und politische Beziehungen zum Ausland, Allgemein" target="_blank">10 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140894/1444xx/144451/about.de.html))
 - A2 Mitteleuropa [**&nearr;**](../../../geo/i/140895/about.de.html "Mitteleuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A2 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140895,144451" title="über: Mitteleuropa : Außenpolitik und politische Beziehungen zum Ausland, Allgemein" target="_blank">21 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140895/1444xx/144451/about.de.html))
 - A3 Osteuropa [**&nearr;**](../../../geo/i/140896/about.de.html "Osteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A3 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140896,144451" title="über: Osteuropa : Außenpolitik und politische Beziehungen zum Ausland, Allgemein" target="_blank">19 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140896/1444xx/144451/about.de.html))
@@ -73,6 +74,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144451" title="über: Argentinien : Außenpolitik und politische Beziehungen zum Ausland, Allgemein" target="_blank">164 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1444xx/144451/about.de.html))
 - E95 Uruguay [**&nearr;**](../../../geo/i/141695/about.de.html "Uruguay (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E95 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141695,144451" title="über: Uruguay : Außenpolitik und politische Beziehungen zum Ausland, Allgemein" target="_blank">39 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141695/1444xx/144451/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "A4 Western Europe"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [A4]{.gray}&#8201; Western Europe &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q27496) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Western_Europe)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140897`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/140897`</div>
 
 
 
@@ -18,7 +18,7 @@ fn-stub: about
 
 
 
-## Subject archives
+## Subject archives folders
 
 
 
@@ -26,7 +26,10 @@ fn-stub: about
 
 
 
-In total 68 folders, 272 documents - folders complete.
+
+
+
+In total 68 folders, 272 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -132,6 +135,40 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### Individual questions of political or economic nature
 
 - q Sm2.IIb War material deliveries from abroad, through individual countries [**&nearr;**](../../../subject/i/145944/about.en.html "War material deliveries from abroad, through individual countries (all over the world)") [**&uarr;**](../../../subject/about.en.html#q_Sm2.IIb "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140897,145944" title="about: Western Europe : War material deliveries from abroad, through individual countries" target="_blank">17 documents</a>) ([folder](../../../../folder/sh/1408xx/140897/1459xx/145944/about.en.html))
+
+
+
+<a id="filmsections" />
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 4154</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2022H/0630" rel="nofollow">Images on film h2/sh/S2022H/0630</a> | Westeuropa
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2023H" rel="nofollow">Images on film h2/sh/S2023H</a> | Filmanfang: Westeuropa : Militärwesen, Allgemein [A4 l]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2024H" rel="nofollow">Images on film h2/sh/S2024H</a> | Filmanfang: Westeuropa : Militärwesen, Allgemein [A4 l]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2025H" rel="nofollow">Images on film h2/sh/S2025H</a> | Filmanfang: Westeuropa : Berichte über die wirtschaftliche Lage [A4 n2]
+
+
+:::
+
+
+
+
+
+
+
 
 
 

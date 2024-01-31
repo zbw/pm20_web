@@ -1,6 +1,6 @@
 ---
 title: "Basalt"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Basalt &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q43338) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Basalt)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142046`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142046`</div>
 
 
 
@@ -18,13 +18,15 @@ fn-stub: about
 
 
 
-## Commodities/wares archives
+## Commodities/wares archives folders
 
 
 
 
 
-In total 8 folders, 216 documents - folders complete.
+
+
+In total 8 folders, 216 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -43,6 +45,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### Australia and Oceania
 
 - D30 Australia [**&nearr;**](../../../geo/i/141621/about.en.html "Australia (all folders)") [**&uarr;**](../../../geo/about.en.html#D30 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142046,141621" title="about: Basalt : Australia" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1420xx/142046/1416xx/141621/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

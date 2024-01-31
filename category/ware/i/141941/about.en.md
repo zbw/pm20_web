@@ -1,6 +1,6 @@
 ---
 title: "Eel"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Eel &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q26387) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/European_eel)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141941`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/141941`</div>
 
 
 
@@ -18,13 +18,15 @@ fn-stub: about
 
 
 
-## Commodities/wares archives
+## Commodities/wares archives folders
 
 
 
 
 
-In total 14 folders, 114 documents - folders complete.
+
+
+In total 14 folders, 120 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -32,7 +34,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141941,126128" title="about: Eel : Germany" target="_blank">28 documents</a>) ([folder](../../../../folder/wa/1419xx/141941/1261xx/126128/about.en.html))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141941,126128" title="about: Eel : Germany" target="_blank">31 documents</a>) ([folder](../../../../folder/wa/1419xx/141941/1261xx/126128/about.en.html))
 - A15 Denmark [**&nearr;**](../../../geo/i/141739/about.en.html "Denmark (all folders)") [**&uarr;**](../../../geo/about.en.html#A15 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141941,141739" title="about: Eel : Denmark" target="_blank">4 documents</a>) ([folder](../../../../folder/wa/1419xx/141941/1417xx/141739/about.en.html))
 - A17 Sweden [**&nearr;**](../../../geo/i/140968/about.en.html "Sweden (all folders)") [**&uarr;**](../../../geo/about.en.html#A17 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141941,140968" title="about: Eel : Sweden" target="_blank">14 documents</a>) ([folder](../../../../folder/wa/1419xx/141941/1409xx/140968/about.en.html))
 - A19 Netherlands [**&nearr;**](../../../geo/i/140970/about.en.html "Netherlands (all folders)") [**&uarr;**](../../../geo/about.en.html#A19 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141941,140970" title="about: Eel : Netherlands" target="_blank">15 documents</a>) ([folder](../../../../folder/wa/1419xx/141941/1409xx/140970/about.en.html))
@@ -51,7 +53,16 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### World
 
-- H World [**&nearr;**](../../../geo/i/141728/about.en.html "World (all folders)") [**&uarr;**](../../../geo/about.en.html#H "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141941,141728" title="about: Eel : World" target="_blank">34 documents</a>) ([folder](../../../../folder/wa/1419xx/141941/1417xx/141728/about.en.html))
+- H World [**&nearr;**](../../../geo/i/141728/about.en.html "World (all folders)") [**&uarr;**](../../../geo/about.en.html#H "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141941,141728" title="about: Eel : World" target="_blank">37 documents</a>) ([folder](../../../../folder/wa/1419xx/141941/1417xx/141728/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Asbest"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Asbest &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104085) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Asbest)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142014`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142014`</div>
 
 
 
@@ -18,12 +18,14 @@ fn-stub: about
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 62 Mappen, 900 Dokumente - Mappen komplett.
+
+
+Insgesamt 62 Mappen, 900 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -50,7 +52,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - A40b Österreich [**&nearr;**](../../../geo/i/141731/about.de.html "Österreich (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40b "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,141731" title="über: Asbest : Österreich" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142014/1417xx/141731/about.de.html))
 - A40c Tschechoslowakei [**&nearr;**](../../../geo/i/141022/about.de.html "Tschechoslowakei (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40c "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,141022" title="über: Asbest : Tschechoslowakei" target="_blank">12 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142014/1410xx/141022/about.de.html))
 - A40d Ungarn [**&nearr;**](../../../geo/i/141025/about.de.html "Ungarn (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40d "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,141025" title="über: Asbest : Ungarn" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142014/1410xx/141025/about.de.html))
-- A40e Südslawien [**&nearr;**](../../../geo/i/141028/about.de.html "Südslawien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40e "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,141028" title="über: Asbest : Südslawien" target="_blank">18 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142014/1410xx/141028/about.de.html))
+- A40e Jugoslawien (bis 1945 Südslawien) [**&nearr;**](../../../geo/i/141028/about.de.html "Jugoslawien (bis 1945 Südslawien) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40e "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,141028" title="über: Asbest : Jugoslawien (bis 1945 Südslawien)" target="_blank">18 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142014/1410xx/141028/about.de.html))
 - A41 Serbien [**&nearr;**](../../../geo/i/141032/about.de.html "Serbien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A41 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,141032" title="über: Asbest : Serbien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142014/1410xx/141032/about.de.html))
 - A45 Griechenland [**&nearr;**](../../../geo/i/141037/about.de.html "Griechenland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A45 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,141037" title="über: Asbest : Griechenland" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142014/1410xx/141037/about.de.html))
 - A47 Rumänien [**&nearr;**](../../../geo/i/141040/about.de.html "Rumänien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A47 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,141040" title="über: Asbest : Rumänien" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142014/1410xx/141040/about.de.html))
@@ -109,6 +111,38 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Welt
 
 - H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142014,141728" title="über: Asbest : Welt" target="_blank">118 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142014/1417xx/141728/about.de.html))
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 38</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2002H/0464" rel="nofollow">Bilder auf Film h2/wa/W2002H/0464</a> | Asbest
+
+
+:::
+
+
+
+
+
+
+
+
 
 
 

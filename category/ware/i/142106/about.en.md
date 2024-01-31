@@ -1,6 +1,6 @@
 ---
 title: "Clothing"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Clothing &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q1431632) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Ready-made_garment)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142106`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142106`</div>
 
 
 
@@ -18,13 +18,15 @@ fn-stub: about
 
 
 
-## Commodities/wares archives
+## Commodities/wares archives folders
 
 
 
 
 
-In total 97 folders, 2731 documents - folders complete.
+
+
+In total 97 folders, 2731 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -57,7 +59,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A40b(A10) Ostmark (Austria) [**&nearr;**](../../../geo/i/163025/about.en.html "Ostmark (Austria) (all folders)") [**&uarr;**](../../../geo/about.en.html#A40b(A10) "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,163025" title="about: Clothing : Ostmark (Austria)" target="_blank">6 documents</a>) ([folder](../../../../folder/wa/1421xx/142106/1630xx/163025/about.en.html))
 - A40c Czechoslovakia [**&nearr;**](../../../geo/i/141022/about.en.html "Czechoslovakia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40c "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141022" title="about: Clothing : Czechoslovakia" target="_blank">38 documents</a>) ([folder](../../../../folder/wa/1421xx/142106/1410xx/141022/about.en.html))
 - A40d Hungary [**&nearr;**](../../../geo/i/141025/about.en.html "Hungary (all folders)") [**&uarr;**](../../../geo/about.en.html#A40d "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141025" title="about: Clothing : Hungary" target="_blank">45 documents</a>) ([folder](../../../../folder/wa/1421xx/142106/1410xx/141025/about.en.html))
-- A40e Kingdom of Yugoslavia [**&nearr;**](../../../geo/i/141028/about.en.html "Kingdom of Yugoslavia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40e "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141028" title="about: Clothing : Kingdom of Yugoslavia" target="_blank">6 documents</a>) ([folder](../../../../folder/wa/1421xx/142106/1410xx/141028/about.en.html))
+- A40e (Kingdom of) Yugoslavia [**&nearr;**](../../../geo/i/141028/about.en.html "(Kingdom of) Yugoslavia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40e "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141028" title="about: Clothing : (Kingdom of) Yugoslavia" target="_blank">6 documents</a>) ([folder](../../../../folder/wa/1421xx/142106/1410xx/141028/about.en.html))
 - A40g Croatia [**&nearr;**](../../../geo/i/141030/about.en.html "Croatia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40g "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141030" title="about: Clothing : Croatia" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1421xx/142106/1410xx/141030/about.en.html))
 - A41 Serbia [**&nearr;**](../../../geo/i/141032/about.en.html "Serbia (all folders)") [**&uarr;**](../../../geo/about.en.html#A41 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141032" title="about: Clothing : Serbia" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1421xx/142106/1410xx/141032/about.en.html))
 - A45 Greece [**&nearr;**](../../../geo/i/141037/about.en.html "Greece (all folders)") [**&uarr;**](../../../geo/about.en.html#A45 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141037" title="about: Clothing : Greece" target="_blank">10 documents</a>) ([folder](../../../../folder/wa/1421xx/142106/1410xx/141037/about.en.html))
@@ -144,6 +146,39 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### World
 
 - H World [**&nearr;**](../../../geo/i/141728/about.en.html "World (all folders)") [**&uarr;**](../../../geo/about.en.html#H "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141728" title="about: Clothing : World" target="_blank">63 documents</a>) ([folder](../../../../folder/wa/1421xx/142106/1417xx/141728/about.en.html))
+
+
+
+<a id="filmsections" />
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 1223</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2003H/0039/L" rel="nofollow">Images on film h2/wa/W2003H/0039/L</a> | Bekleidung
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2004H/0002" rel="nofollow">Images on film h2/wa/W2004H/0002</a> | Bekleidung : USA
+
+
+:::
+
+
+
+
+
+
+
+
 
 
 

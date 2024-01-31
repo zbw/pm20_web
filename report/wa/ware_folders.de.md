@@ -40,7 +40,7 @@ A9 | PID19-Bk | [Bekleidung : Hamburg](https://pm20.zbw.eu/folder/wa/1421xx/1421
 A9 | PID04-Sc01 | [Bernstein : Hamburg](https://pm20.zbw.eu/folder/wa/1421xx/142111/1409xx/140905/about.de.html ) | 6 | A 009
 A9 | PID04-Dr | [Betäubungsmittel : Hamburg](https://pm20.zbw.eu/folder/wa/1421xx/142115/1409xx/140905/about.de.html ) | 1 | A 009
 A9 | PRB02.01 | [Kohle : Hamburg](https://pm20.zbw.eu/folder/wa/1431xx/143120/1409xx/140905/about.de.html ) | 26 | A 009
-A10 | PLW07-Mt01 | [Aal : Deutschland](https://pm20.zbw.eu/folder/wa/1419xx/141941/1261xx/126128/about.de.html ) | 28 | A 010
+A10 | PLW07-Mt01 | [Aal : Deutschland](https://pm20.zbw.eu/folder/wa/1419xx/141941/1261xx/126128/about.de.html ) | 31 | A 010
 A10 | PRB01-01 | [Abfälle und Altmaterial : Deutschland](https://pm20.zbw.eu/folder/wa/1419xx/141942/1261xx/126128/about.de.html ) | 82 | A 010
 A10 | PID20.02-Sp01 | [Absinth : Deutschland](https://pm20.zbw.eu/folder/wa/1419xx/141943/1261xx/126128/about.de.html ) | 1 | A 010
 A10 | PID23-Ed01 | [Achat : Deutschland](https://pm20.zbw.eu/folder/wa/1419xx/141944/1261xx/126128/about.de.html ) | 6 | A 010
@@ -883,28 +883,28 @@ A40d | PRB02.01-Ru | [Kohlenstoff (Ruß) : Ungarn](https://pm20.zbw.eu/folder/wa
 A40d | PID13-Sc06 | [Kohlensäure : Ungarn](https://pm20.zbw.eu/folder/wa/1431xx/143122/1410xx/141025/about.de.html ) | 3 | A 040d
 A40d | PID04-Dr05 | [Koka, Kokain : Ungarn](https://pm20.zbw.eu/folder/wa/1431xx/143124/1410xx/141025/about.de.html ) | 1 | A 040d
 A40d | PID13-Ko01 | [Äther : Ungarn](https://pm20.zbw.eu/folder/wa/1419xx/141945/1410xx/141025/about.de.html ) | 3 | A 040d
-A40e | PLW04-Zs | [Agrumen : Südslawien](https://pm20.zbw.eu/folder/wa/1419xx/141948/1410xx/141028/about.de.html ) | 2 | A 040e
-A40e | PID13-Ko02 | [Alkohol (Chemie) : Südslawien](https://pm20.zbw.eu/folder/wa/1634xx/163481/1410xx/141028/about.de.html ) | 2 | A 040e
-A40e | PID20.02-Sp | [Alkohol : Südslawien](https://pm20.zbw.eu/folder/wa/1419xx/141966/1410xx/141028/about.de.html ) | 51 | A 040e
-A40e | PID07.01-Lm01 | [Aluminium : Südslawien](https://pm20.zbw.eu/folder/wa/1419xx/141969/1410xx/141028/about.de.html ) | 152 | A 040e
-A40e | PID13-Du01 | [Ammoniak : Südslawien](https://pm20.zbw.eu/folder/wa/1659xx/165930/1410xx/141028/about.de.html ) | 3 | A 040e
-A40e | PID07.01-Hm01 | [Antimon : Südslawien](https://pm20.zbw.eu/folder/wa/1419xx/141977/1410xx/141028/about.de.html ) | 19 | A 040e
-A40e | PLW04-Ob01 | [Apfel : Südslawien](https://pm20.zbw.eu/folder/wa/1419xx/141980/1410xx/141028/about.de.html ) | 16 | A 040e
-A40e | PLW04-Zs01 | [Apfelsine : Südslawien](https://pm20.zbw.eu/folder/wa/1419xx/141981/1410xx/141028/about.de.html ) | 1 | A 040e
-A40e | PID07.01-Hm02 | [Arsen : Südslawien](https://pm20.zbw.eu/folder/wa/1420xx/142006/1410xx/141028/about.de.html ) | 3 | A 040e
-A40e | PID23-As | [Asbest : Südslawien](https://pm20.zbw.eu/folder/wa/1420xx/142014/1410xx/141028/about.de.html ) | 18 | A 040e
-A40e | PID22-Bd01 | [Asphalt : Südslawien](https://pm20.zbw.eu/folder/wa/1420xx/142016/1410xx/141028/about.de.html ) | 4 | A 040e
-A40e | PID22-Bs | [Baumaterial : Südslawien](https://pm20.zbw.eu/folder/wa/1420xx/142086/1410xx/141028/about.de.html ) | 6 | A 040e
-A40e | PID19-Nf02 | [Baumwollgarn : Südslawien](https://pm20.zbw.eu/folder/wa/1964xx/196460/1410xx/141028/about.de.html ) | 15 | A 040e
-A40e | PID19-Bw01 | [Baumwollindustrie : Südslawien](https://pm20.zbw.eu/folder/wa/1420xx/142091/1410xx/141028/about.de.html ) | 132 | A 040e
-A40e | PID19-Bk | [Bekleidung : Südslawien](https://pm20.zbw.eu/folder/wa/1421xx/142106/1410xx/141028/about.de.html ) | 6 | A 040e
-A40e | PID13.02-Ks02 | [Benzin : Südslawien](https://pm20.zbw.eu/folder/wa/1421xx/142108/1410xx/141028/about.de.html ) | 35 | A 040e
-A40e | PID08-Bg | [Bergbaumaschine : Südslawien](https://pm20.zbw.eu/folder/wa/1421xx/142112/1410xx/141028/about.de.html ) | 1 | A 040e
-A40e | PRB02.01 | [Kohle : Südslawien](https://pm20.zbw.eu/folder/wa/1431xx/143120/1410xx/141028/about.de.html ) | 214 | A 040e
-A40e | PRB02.01-Ru | [Kohlenstoff (Ruß) : Südslawien](https://pm20.zbw.eu/folder/wa/1431xx/143123/1410xx/141028/about.de.html ) | 2 | A 040e
-A40e | PID13-Sc06 | [Kohlensäure : Südslawien](https://pm20.zbw.eu/folder/wa/1431xx/143122/1410xx/141028/about.de.html ) | 1 | A 040e
-A40e | PID04-Dr05 | [Koka, Kokain : Südslawien](https://pm20.zbw.eu/folder/wa/1431xx/143124/1410xx/141028/about.de.html ) | 1 | A 040e
-A40e | PID13-Ko01 | [Äther : Südslawien](https://pm20.zbw.eu/folder/wa/1419xx/141945/1410xx/141028/about.de.html ) | 4 | A 040e
+A40e | PLW04-Zs | [Agrumen : Jugoslawien (bis 1945 Südslawien)](https://pm20.zbw.eu/folder/wa/1419xx/141948/1410xx/141028/about.de.html ) | 2 | A 040e
+A40e | PID13-Ko02 | [Alkohol (Chemie) : Jugoslawien (bis 1945 Südslawien)](https://pm20.zbw.eu/folder/wa/1634xx/163481/1410xx/141028/about.de.html ) | 2 | A 040e
+A40e | PID20.02-Sp | [Alkohol : Jugoslawien (bis 1945 Südslawien)](https://pm20.zbw.eu/folder/wa/1419xx/141966/1410xx/141028/about.de.html ) | 51 | A 040e
+A40e | PID07.01-Lm01 | [Aluminium : Jugoslawien (bis 1945 Südslawien)](https://pm20.zbw.eu/folder/wa/1419xx/141969/1410xx/141028/about.de.html ) | 152 | A 040e
+A40e | PID13-Du01 | [Ammoniak : Jugoslawien (bis 1945 Südslawien)](https://pm20.zbw.eu/folder/wa/1659xx/165930/1410xx/141028/about.de.html ) | 3 | A 040e
+A40e | PID07.01-Hm01 | [Antimon : Jugoslawien (bis 1945 Südslawien)](https://pm20.zbw.eu/folder/wa/1419xx/141977/1410xx/141028/about.de.html ) | 19 | A 040e
+A40e | PLW04-Ob01 | [Apfel : Jugoslawien (bis 1945 Südslawien)](https://pm20.zbw.eu/folder/wa/1419xx/141980/1410xx/141028/about.de.html ) | 16 | A 040e
+A40e | PLW04-Zs01 | [Apfelsine : Jugoslawien (bis 1945 Südslawien)](https://pm20.zbw.eu/folder/wa/1419xx/141981/1410xx/141028/about.de.html ) | 1 | A 040e
+A40e | PID07.01-Hm02 | [Arsen : Jugoslawien (bis 1945 Südslawien)](https://pm20.zbw.eu/folder/wa/1420xx/142006/1410xx/141028/about.de.html ) | 3 | A 040e
+A40e | PID23-As | [Asbest : Jugoslawien (bis 1945 Südslawien)](https://pm20.zbw.eu/folder/wa/1420xx/142014/1410xx/141028/about.de.html ) | 18 | A 040e
+A40e | PID22-Bd01 | [Asphalt : Jugoslawien (bis 1945 Südslawien)](https://pm20.zbw.eu/folder/wa/1420xx/142016/1410xx/141028/about.de.html ) | 4 | A 040e
+A40e | PID22-Bs | [Baumaterial : Jugoslawien (bis 1945 Südslawien)](https://pm20.zbw.eu/folder/wa/1420xx/142086/1410xx/141028/about.de.html ) | 6 | A 040e
+A40e | PID19-Nf02 | [Baumwollgarn : Jugoslawien (bis 1945 Südslawien)](https://pm20.zbw.eu/folder/wa/1964xx/196460/1410xx/141028/about.de.html ) | 15 | A 040e
+A40e | PID19-Bw01 | [Baumwollindustrie : Jugoslawien (bis 1945 Südslawien)](https://pm20.zbw.eu/folder/wa/1420xx/142091/1410xx/141028/about.de.html ) | 132 | A 040e
+A40e | PID19-Bk | [Bekleidung : Jugoslawien (bis 1945 Südslawien)](https://pm20.zbw.eu/folder/wa/1421xx/142106/1410xx/141028/about.de.html ) | 6 | A 040e
+A40e | PID13.02-Ks02 | [Benzin : Jugoslawien (bis 1945 Südslawien)](https://pm20.zbw.eu/folder/wa/1421xx/142108/1410xx/141028/about.de.html ) | 35 | A 040e
+A40e | PID08-Bg | [Bergbaumaschine : Jugoslawien (bis 1945 Südslawien)](https://pm20.zbw.eu/folder/wa/1421xx/142112/1410xx/141028/about.de.html ) | 1 | A 040e
+A40e | PRB02.01 | [Kohle : Jugoslawien (bis 1945 Südslawien)](https://pm20.zbw.eu/folder/wa/1431xx/143120/1410xx/141028/about.de.html ) | 214 | A 040e
+A40e | PRB02.01-Ru | [Kohlenstoff (Ruß) : Jugoslawien (bis 1945 Südslawien)](https://pm20.zbw.eu/folder/wa/1431xx/143123/1410xx/141028/about.de.html ) | 2 | A 040e
+A40e | PID13-Sc06 | [Kohlensäure : Jugoslawien (bis 1945 Südslawien)](https://pm20.zbw.eu/folder/wa/1431xx/143122/1410xx/141028/about.de.html ) | 1 | A 040e
+A40e | PID04-Dr05 | [Koka, Kokain : Jugoslawien (bis 1945 Südslawien)](https://pm20.zbw.eu/folder/wa/1431xx/143124/1410xx/141028/about.de.html ) | 1 | A 040e
+A40e | PID13-Ko01 | [Äther : Jugoslawien (bis 1945 Südslawien)](https://pm20.zbw.eu/folder/wa/1419xx/141945/1410xx/141028/about.de.html ) | 4 | A 040e
 A40f | PRB01-01 | [Abfälle und Altmaterial : Slowakei](https://pm20.zbw.eu/folder/wa/1419xx/141942/1410xx/141029/about.de.html ) | 1 | A 040f
 A40f | PID20.02-Sp | [Alkohol : Slowakei](https://pm20.zbw.eu/folder/wa/1419xx/141966/1410xx/141029/about.de.html ) | 31 | A 040f
 A40f | PID07.01-Lm01 | [Aluminium : Slowakei](https://pm20.zbw.eu/folder/wa/1419xx/141969/1410xx/141029/about.de.html ) | 1 | A 040f
@@ -1740,7 +1740,7 @@ C18 | PID19-Bk | [Bekleidung : Tunesien](https://pm20.zbw.eu/folder/wa/1421xx/14
 C18 | PRB02.01 | [Kohle : Tunesien](https://pm20.zbw.eu/folder/wa/1431xx/143120/1413xx/141353/about.de.html ) | 25 | C 018
 C18 | PID04-Dr05 | [Koka, Kokain : Tunesien](https://pm20.zbw.eu/folder/wa/1431xx/143124/1413xx/141353/about.de.html ) | 2 | C 018
 C19 | PID20.02-Sp01 | [Absinth : Algerien](https://pm20.zbw.eu/folder/wa/1419xx/141943/1413xx/141354/about.de.html ) | 1 | C 019
-C19 | PLW04-Zs | [Agrumen : Algerien](https://pm20.zbw.eu/folder/wa/1419xx/141948/1413xx/141354/about.de.html ) | 52 | C 019
+C19 | PLW04-Zs | [Agrumen : Algerien](https://pm20.zbw.eu/folder/wa/1419xx/141948/1413xx/141354/about.de.html ) | 53 | C 019
 C19 | PID19-Nf018 | [Alfagras : Algerien](https://pm20.zbw.eu/folder/wa/1419xx/141957/1413xx/141354/about.de.html ) | 42 | C 019
 C19 | PLW07-Mp01 | [Algen und Seetang : Algerien](https://pm20.zbw.eu/folder/wa/1419xx/141959/1413xx/141354/about.de.html ) | 1 | C 019
 C19 | PID20.02-Sp | [Alkohol : Algerien](https://pm20.zbw.eu/folder/wa/1419xx/141966/1413xx/141354/about.de.html ) | 37 | C 019
@@ -2489,9 +2489,9 @@ E46 | PLW04-Bn | [Banane : Trinidad und Tobago](https://pm20.zbw.eu/folder/wa/14
 E46 | PID07.01-Lm02 | [Barium : Trinidad und Tobago](https://pm20.zbw.eu/folder/wa/1420xx/142042/1416xx/141667/about.de.html ) | 1 | E 046
 E46 | PID19-Bk | [Bekleidung : Trinidad und Tobago](https://pm20.zbw.eu/folder/wa/1421xx/142106/1416xx/141667/about.de.html ) | 3 | E 046
 E47 | PLW04-Kf02 | [Batate : Leeward Islands](https://pm20.zbw.eu/folder/wa/1420xx/142049/1416xx/141668/about.de.html ) | 4 | E 047
-E48 | PLW04-Tr01 | [Ananas : Windward islands](https://pm20.zbw.eu/folder/wa/1419xx/141970/1416xx/141669/about.de.html ) | 1 | E 048
-E48 | PLW04-Kf01 | [Arrowroot (Tacca) : Windward islands](https://pm20.zbw.eu/folder/wa/1420xx/142005/1416xx/141669/about.de.html ) | 3 | E 048
-E48 | PLW04-Ob02 | [Avocatbirne : Windward islands](https://pm20.zbw.eu/folder/wa/1420xx/142021/1416xx/141669/about.de.html ) | 1 | E 048
+E48 | PLW04-Tr01 | [Ananas : Windward Islands](https://pm20.zbw.eu/folder/wa/1419xx/141970/1416xx/141669/about.de.html ) | 1 | E 048
+E48 | PLW04-Kf01 | [Arrowroot (Tacca) : Windward Islands](https://pm20.zbw.eu/folder/wa/1420xx/142005/1416xx/141669/about.de.html ) | 3 | E 048
+E48 | PLW04-Ob02 | [Avocatbirne : Windward Islands](https://pm20.zbw.eu/folder/wa/1420xx/142021/1416xx/141669/about.de.html ) | 1 | E 048
 E50 | PID20.02-Sp | [Alkohol : Französisch-Westindien](https://pm20.zbw.eu/folder/wa/1419xx/141966/1416xx/141671/about.de.html ) | 14 | E 050
 E50 | PLW04-Tr01 | [Ananas : Französisch-Westindien](https://pm20.zbw.eu/folder/wa/1419xx/141970/1416xx/141671/about.de.html ) | 4 | E 050
 E50 | PLW04-Bn | [Banane : Französisch-Westindien](https://pm20.zbw.eu/folder/wa/1420xx/142038/1416xx/141671/about.de.html ) | 71 | E 050
@@ -2837,7 +2837,7 @@ E102 | PID19-Bk | [Bekleidung : Britisch-Guayana](https://pm20.zbw.eu/folder/wa/
 E102 | PRB02.01 | [Kohle : Britisch-Guayana](https://pm20.zbw.eu/folder/wa/1431xx/143120/1417xx/141700/about.de.html ) | 1 | E 102
 F10 | PRB02.01 | [Kohle : Arktis](https://pm20.zbw.eu/folder/wa/1431xx/143120/1417xx/141702/about.de.html ) | 1 | F 010
 F11 | PRB02.01 | [Kohle : Antarktis](https://pm20.zbw.eu/folder/wa/1431xx/143120/1417xx/141703/about.de.html ) | 6 | F 011
-H | PLW07-Mt01 | [Aal : Welt](https://pm20.zbw.eu/folder/wa/1419xx/141941/1417xx/141728/about.de.html ) | 34 | H
+H | PLW07-Mt01 | [Aal : Welt](https://pm20.zbw.eu/folder/wa/1419xx/141941/1417xx/141728/about.de.html ) | 37 | H
 H | PRB01-01 | [Abfälle und Altmaterial : Welt](https://pm20.zbw.eu/folder/wa/1419xx/141942/1417xx/141728/about.de.html ) | 29 | H
 H | PID23-Ed01 | [Achat : Welt](https://pm20.zbw.eu/folder/wa/1419xx/141944/1417xx/141728/about.de.html ) | 1 | H
 H | PLW04-Zs | [Agrumen : Welt](https://pm20.zbw.eu/folder/wa/1419xx/141948/1417xx/141728/about.de.html ) | 79 | H
@@ -2898,9 +2898,9 @@ H | PID13-Sc06 | [Kohlensäure : Welt](https://pm20.zbw.eu/folder/wa/1431xx/1431
 H | PRB02.01.01 | [Kohleveredelung : Welt](https://pm20.zbw.eu/folder/wa/2187xx/218757/1417xx/141728/about.de.html ) | 440 | H
 H | PID04-Dr05 | [Koka, Kokain : Welt](https://pm20.zbw.eu/folder/wa/1431xx/143124/1417xx/141728/about.de.html ) | 51 | H
 H | PID19-Nf11 | [Kokosfaser : Welt](https://pm20.zbw.eu/folder/wa/1431xx/143125/1417xx/141728/about.de.html ) | 16 | H
-H | PLW04-Nu05 | [Kokosnuss : Welt](https://pm20.zbw.eu/folder/wa/1431xx/143126/1417xx/141728/about.de.html ) | 200 | H
-H | PID07.01-Lm | [Leichtmetall : Welt](https://pm20.zbw.eu/folder/wa/1435xx/143572/1417xx/141728/about.de.html ) | 21 | H
-H | PID07 | [Metalle : Welt](https://pm20.zbw.eu/folder/wa/1484xx/148466/1417xx/141728/about.de.html ) | 1 | H
+H | PLW04-Nu05 | [Kokosnuss, Kopra, Kokosöl : Welt](https://pm20.zbw.eu/folder/wa/1431xx/143126/1417xx/141728/about.de.html ) | 200 | H
+H | PID07 | [Metall : Welt](https://pm20.zbw.eu/folder/wa/1484xx/148466/1417xx/141728/about.de.html ) | 1 | H
+H | PID07.01-Lm | [Metall, Leicht- : Welt](https://pm20.zbw.eu/folder/wa/1435xx/143572/1417xx/141728/about.de.html ) | 21 | H
 H | PID07.01 | [NE-Metall : Welt](https://pm20.zbw.eu/folder/wa/1614xx/161442/1417xx/141728/about.de.html ) | 2 | H
 H | PID13-Ko01 | [Äther : Welt](https://pm20.zbw.eu/folder/wa/1419xx/141945/1417xx/141728/about.de.html ) | 3 | H
 H | PID13.02-Ks01 | [Äthylbenzin : Welt](https://pm20.zbw.eu/folder/wa/1419xx/141946/1417xx/141728/about.de.html ) | 22 | H

@@ -1,6 +1,6 @@
 ---
 title: "A10n(1) Oberschlesien (dt.-poln. Abstimmungsgebiet)"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [A10n(1)]{.gray}&#8201; Oberschlesien (dt.-poln. Abstimmungsgebiet) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q81011) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Oberschlesien)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140948`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/140948`</div>
 
 <div class="hint">
 Scope Note: bis 1.1.1923.  Plebiszit am 20. März 1921
@@ -20,7 +20,10 @@ Scope Note: bis 1.1.1923.  Plebiszit am 20. März 1921
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
+
+
+
 
 
 
@@ -100,6 +103,14 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - n34 Postwesen, Telegraphenwesen und Fernsprechwesen [**&nearr;**](../../../subject/i/145662/about.de.html "Postwesen, Telegraphenwesen und Fernsprechwesen (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n34 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140948,145662" title="über: Oberschlesien (dt.-poln. Abstimmungsgebiet) : Postwesen, Telegraphenwesen und Fernsprechwesen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140948/1456xx/145662/about.de.html))
 - n36 Nachrichtenwesen und Pressewesen [**&nearr;**](../../../subject/i/145707/about.de.html "Nachrichtenwesen und Pressewesen (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n36 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140948,145707" title="über: Oberschlesien (dt.-poln. Abstimmungsgebiet) : Nachrichtenwesen und Pressewesen" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140948/1457xx/145707/about.de.html))
 - n37 Versicherungswesen [**&nearr;**](../../../subject/i/145723/about.de.html "Versicherungswesen (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n37 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140948,145723" title="über: Oberschlesien (dt.-poln. Abstimmungsgebiet) : Versicherungswesen" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140948/1457xx/145723/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
 
 
 

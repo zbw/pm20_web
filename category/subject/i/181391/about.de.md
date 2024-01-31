@@ -1,6 +1,6 @@
 ---
 title: "f2.3 Geschichtliche Vorgänge 1918-1939"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [f2.3]{.gray}&#8201; Geschichtliche Vorgänge 1918-1939 &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699620)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/181391`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/181391`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 61 Mappen, 14064 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 61 Mappen, 14064 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -106,6 +107,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - E95 Uruguay [**&nearr;**](../../../geo/i/141695/about.de.html "Uruguay (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E95 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141695,181391" title="über: Uruguay : Geschichtliche Vorgänge 1918-1939" target="_blank">240 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141695/1813xx/181391/about.de.html))
 - E101 Niederländisch-Guayana [**&nearr;**](../../../geo/i/141699/about.de.html "Niederländisch-Guayana (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E101 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141699,181391" title="über: Niederländisch-Guayana : Geschichtliche Vorgänge 1918-1939" target="_blank">10 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141699/1813xx/181391/about.de.html))
 - E102 Britisch-Guayana [**&nearr;**](../../../geo/i/141700/about.de.html "Britisch-Guayana (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E102 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141700,181391" title="über: Britisch-Guayana : Geschichtliche Vorgänge 1918-1939" target="_blank">16 Dokumente</a>) ([Mappe](../../../../folder/sh/1417xx/141700/1813xx/181391/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

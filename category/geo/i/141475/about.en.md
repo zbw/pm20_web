@@ -1,6 +1,6 @@
 ---
 title: "C116 Kenya"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,18 +10,21 @@ fn-stub: about
 
 # [C116]{.gray}&#8201; Kenya &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q114) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Kenya)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141475`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141475`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
+[Subject archives](#subject-archives-folders) &#160; [Commodities/wares archives](#commoditieswares-archives-folders)
 
 
 
 
-## Subject archives
+## Subject archives folders
+
+
+
 
 
 
@@ -44,11 +47,52 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
+<a id="filmsections" />
+
+## Sections of digitized microfilms (1st filming 1908-1949)
+
+<p>For intellectual property law reasons accessible only from the European Union legal area and from the ZBW reading room.</p>
+
+
+
+<p>Total number of images: 622</p>
 
 
 
 
-## Commodities/wares archives
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0836H_1" rel="nofollow">Images on film h1/sh/S0836H_1</a> | Filmanfang: Kenia : Expeditionen [C116 c1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0837H_1" rel="nofollow">Images on film h1/sh/S0837H_1</a> | Filmanfang: Kenia : Berichte über die wirtschaftliche Lage [C116 n2]
+
+
+:::
+
+
+
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 1965</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2725H/0054" rel="nofollow">Images on film h2/sh/S2725H/0054</a> | Kenia
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2726H" rel="nofollow">Images on film h2/sh/S2726H</a> | Filmanfang: Kenia : h-n1 Sm [C116 h-n1 Sm]
+
+
+:::
 
 
 
@@ -58,8 +102,27 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
-In total 10 folders, 52 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_wa.de.html) (in German).
+
+
+
+
+
+## Commodities/wares archives folders
+
+
+
+
+
+
+
+
+
+
+
+In total 10 folders (until 1949), 52 documents
+- folders incomplete.  For material not published as folders, please check the
+digitized micro-films of the [1st filming](/film/h1_wa.de.html) and [2nd
+filming](/film/h2_wa.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 

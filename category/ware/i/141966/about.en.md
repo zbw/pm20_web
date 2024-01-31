@@ -1,6 +1,6 @@
 ---
 title: "Alcoholic beverage"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -8,23 +8,25 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# Alcoholic beverage &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q154) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Alcoholic_drink)
+# Alcoholic beverage &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q154) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Alcoholic_beverage)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141966`</div>
-
-
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/141966`</div>
 
 
 
 
 
-## Commodities/wares archives
+
+
+## Commodities/wares archives folders
 
 
 
 
 
-In total 168 folders, 8094 documents - folders complete.
+
+
+In total 168 folders, 8094 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -69,7 +71,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A40c Czechoslovakia [**&nearr;**](../../../geo/i/141022/about.en.html "Czechoslovakia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40c "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141022" title="about: Alcoholic beverage : Czechoslovakia" target="_blank">201 documents</a>) ([folder](../../../../folder/wa/1419xx/141966/1410xx/141022/about.en.html))
 - A40c(A10) Sudeten Germans [**&nearr;**](../../../geo/i/141023/about.en.html "Sudeten Germans (all folders)") [**&uarr;**](../../../geo/about.en.html#A40c(A10) "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141023" title="about: Alcoholic beverage : Sudeten Germans" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1419xx/141966/1410xx/141023/about.en.html))
 - A40d Hungary [**&nearr;**](../../../geo/i/141025/about.en.html "Hungary (all folders)") [**&uarr;**](../../../geo/about.en.html#A40d "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141025" title="about: Alcoholic beverage : Hungary" target="_blank">175 documents</a>) ([folder](../../../../folder/wa/1419xx/141966/1410xx/141025/about.en.html))
-- A40e Kingdom of Yugoslavia [**&nearr;**](../../../geo/i/141028/about.en.html "Kingdom of Yugoslavia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40e "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141028" title="about: Alcoholic beverage : Kingdom of Yugoslavia" target="_blank">51 documents</a>) ([folder](../../../../folder/wa/1419xx/141966/1410xx/141028/about.en.html))
+- A40e (Kingdom of) Yugoslavia [**&nearr;**](../../../geo/i/141028/about.en.html "(Kingdom of) Yugoslavia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40e "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141028" title="about: Alcoholic beverage : (Kingdom of) Yugoslavia" target="_blank">51 documents</a>) ([folder](../../../../folder/wa/1419xx/141966/1410xx/141028/about.en.html))
 - A40f Slovakia [**&nearr;**](../../../geo/i/141029/about.en.html "Slovakia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40f "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141029" title="about: Alcoholic beverage : Slovakia" target="_blank">31 documents</a>) ([folder](../../../../folder/wa/1419xx/141966/1410xx/141029/about.en.html))
 - A40g Croatia [**&nearr;**](../../../geo/i/141030/about.en.html "Croatia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40g "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141030" title="about: Alcoholic beverage : Croatia" target="_blank">28 documents</a>) ([folder](../../../../folder/wa/1419xx/141966/1410xx/141030/about.en.html))
 - A41 Serbia [**&nearr;**](../../../geo/i/141032/about.en.html "Serbia (all folders)") [**&uarr;**](../../../geo/about.en.html#A41 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141032" title="about: Alcoholic beverage : Serbia" target="_blank">8 documents</a>) ([folder](../../../../folder/wa/1419xx/141966/1410xx/141032/about.en.html))
@@ -215,6 +217,38 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### World
 
 - H World [**&nearr;**](../../../geo/i/141728/about.en.html "World (all folders)") [**&uarr;**](../../../geo/about.en.html#H "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141728" title="about: Alcoholic beverage : World" target="_blank">286 documents</a>) ([folder](../../../../folder/wa/1419xx/141966/1417xx/141728/about.en.html))
+
+
+
+<a id="filmsections" />
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 804</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2001H/0136" rel="nofollow">Images on film h2/wa/W2001H/0136</a> | Alkohol
+
+
+:::
+
+
+
+
+
+
+
+
 
 
 

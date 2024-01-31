@@ -1,6 +1,6 @@
 ---
 title: "g4 Sm21 Handelspolitische und zollrechtliche Massnahmen aus dem Deutschen Handelsarchiv"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [g4 Sm21]{.gray}&#8201; Handelspolitische und zollrechtliche Massnahmen aus dem Deutschen Handelsarchiv &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700019)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144492`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144492`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 40 Mappen, 943 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 40 Mappen, 943 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -85,6 +86,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - E90 Falklandinseln [**&nearr;**](../../../geo/i/141694/about.de.html "Falklandinseln (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E90 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141694,144492" title="über: Falklandinseln : Handelspolitische und zollrechtliche Massnahmen aus dem Deutschen Handelsarchiv" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141694/1444xx/144492/about.de.html))
 - E101 Niederländisch-Guayana [**&nearr;**](../../../geo/i/141699/about.de.html "Niederländisch-Guayana (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E101 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141699,144492" title="über: Niederländisch-Guayana : Handelspolitische und zollrechtliche Massnahmen aus dem Deutschen Handelsarchiv" target="_blank">29 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141699/1444xx/144492/about.de.html))
 - E102 Britisch-Guayana [**&nearr;**](../../../geo/i/141700/about.de.html "Britisch-Guayana (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E102 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141700,144492" title="über: Britisch-Guayana : Handelspolitische und zollrechtliche Massnahmen aus dem Deutschen Handelsarchiv" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1417xx/141700/1444xx/144492/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

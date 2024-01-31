@@ -1,6 +1,6 @@
 ---
 title: "d Population and population policies"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [d]{.gray}&#8201; Population and population policies &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427842)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144221`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144221`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 41 folders, 898 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 40 folders, 898 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -35,7 +36,6 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 - A1 Europe [**&nearr;**](../../../geo/i/140892/about.en.html "Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A1 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144221" title="about: Europe : Population and population policies" target="_blank">20 documents</a>) ([folder](../../../../folder/sh/1408xx/140892/1442xx/144221/about.en.html))
 - A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,144221" title="about: Southeastern Europe : Population and population policies" target="_blank">24 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1442xx/144221/about.en.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144221" title="about: Hamburg : Population and population policies" target="_blank">0 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1442xx/144221/about.en.html))
 - A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,144221" title="about: Germany : Population and population policies" target="_blank">223 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1442xx/144221/about.en.html))
 - A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140960,144221" title="about: German imperial colonies : Population and population policies" target="_blank">21 documents</a>) ([folder](../../../../folder/sh/1409xx/140960/1442xx/144221/about.en.html))
 - A40 Austria-Hungary [**&nearr;**](../../../geo/i/126127/about.en.html "Austria-Hungary (all folders)") [**&uarr;**](../../../geo/about.en.html#A40 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126127,144221" title="about: Austria-Hungary : Population and population policies" target="_blank">6 documents</a>) ([folder](../../../../folder/sh/1261xx/126127/1442xx/144221/about.en.html))
@@ -89,6 +89,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### Polar regions
 
 - F10 Arctic region [**&nearr;**](../../../geo/i/141702/about.en.html "Arctic region (all folders)") [**&uarr;**](../../../geo/about.en.html#F10 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141702,144221" title="about: Arctic region : Population and population policies" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1417xx/141702/1442xx/144221/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

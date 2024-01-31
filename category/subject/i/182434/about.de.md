@@ -1,6 +1,6 @@
 ---
 title: "h4 Sm40 Polizeiwesen, Beruf und Ausbildung"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [h4 Sm40]{.gray}&#8201; Polizeiwesen, Beruf und Ausbildung &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700087)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/182434`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/182434`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 4 Mappen, 18 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 4 Mappen, 18 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -43,6 +44,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,182434" title="über: Argentinien : Polizeiwesen, Beruf und Ausbildung" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1824xx/182434/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

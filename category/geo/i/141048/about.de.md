@@ -1,6 +1,6 @@
 ---
 title: "A54 Ukraine"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -8,9 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A54]{.gray}&#8201; Ukraine
+# [A54]{.gray}&#8201; Ukraine &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q212) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Ukraine)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141048`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141048`</div>
 
 <div class="hint">
 Scope Note: bis 30.6.1931, dann Sowjetunion (A 50)
@@ -20,7 +20,7 @@ Scope Note: bis 30.6.1931, dann Sowjetunion (A 50)
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
@@ -29,8 +29,12 @@ Scope Note: bis 30.6.1931, dann Sowjetunion (A 50)
 
 
 
-Insgesamt 2 Mappen, 24 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+Insgesamt 2 Mappen (bis 1949), 24 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

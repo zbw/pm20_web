@@ -1,6 +1,6 @@
 ---
 title: "C27 Tanger"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,18 +10,21 @@ fn-stub: about
 
 # [C27]{.gray}&#8201; Tanger &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q126148) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Tanger)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141360`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141360`</div>
 
 
 
 
-[Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
+
+
+
 
 
 
@@ -130,11 +133,69 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 117</p>
 
 
 
 
-## Warenarchiv
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0788H/0002" rel="nofollow">Bilder auf Film h1/sh/S0788H/0002</a> | Tanger : Berichte über die wirtschaftliche Lage
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0788H/0008" rel="nofollow">Bilder auf Film h1/sh/S0788H/0008</a> | Tanger : Bodenbesitzverhältnisse und Bodenpolitik, Hausbesitz
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0788H/0014/L" rel="nofollow">Bilder auf Film h1/sh/S0788H/0014/L</a> | Tanger : Landwirtschaft
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0788H/0018/L" rel="nofollow">Bilder auf Film h1/sh/S0788H/0018/L</a> | Tanger : Handel
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0788H/0039/R" rel="nofollow">Bilder auf Film h1/sh/S0788H/0039/R</a> | Tanger : Handelsbeziehungen zu einzelnen Ländern
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0788H/0041/R" rel="nofollow">Bilder auf Film h1/sh/S0788H/0041/R</a> | Tanger : Geld und Währung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0788H/0048/L" rel="nofollow">Bilder auf Film h1/sh/S0788H/0048/L</a> | Tanger : Kreditwesen und Bankwesen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0788H/0052/R" rel="nofollow">Bilder auf Film h1/sh/S0788H/0052/R</a> | Tanger : Genossenschaftswesen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0788H/0053/R" rel="nofollow">Bilder auf Film h1/sh/S0788H/0053/R</a> | Tanger : Verkehrswesen, Allgemein
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0788H/0059/R" rel="nofollow">Bilder auf Film h1/sh/S0788H/0059/R</a> | Tanger : Eisenbahnwesen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0788H/0060/R" rel="nofollow">Bilder auf Film h1/sh/S0788H/0060/R</a> | Tanger : Hafenanlagen und deren Verwaltung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0788H/0080/R" rel="nofollow">Bilder auf Film h1/sh/S0788H/0080/R</a> | Tanger : Seeschiffahrt
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0788H/0094/L" rel="nofollow">Bilder auf Film h1/sh/S0788H/0094/L</a> | Tanger : Postwesen, Telegraphenwesen und Fernsprechwesen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0788H/0100/R" rel="nofollow">Bilder auf Film h1/sh/S0788H/0100/R</a> | Tanger : Nachrichtenwesen und Pressewesen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0788H/0103/R" rel="nofollow">Bilder auf Film h1/sh/S0788H/0103/R</a> | Tanger : Urheberschutz
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0788H/0105/L" rel="nofollow">Bilder auf Film h1/sh/S0788H/0105/L</a> | Tanger : Fremdstämmige und einzelne Minderheiten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0788H/0111/R" rel="nofollow">Bilder auf Film h1/sh/S0788H/0111/R</a> | Tanger : Einwanderung und Einwanderungspolitik
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0788H/0112/R" rel="nofollow">Bilder auf Film h1/sh/S0788H/0112/R</a> | Tanger : Handel und Versorgung mit Waffen, Munition und sonst. Kriegsmaterial
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0788H/0115/L" rel="nofollow">Bilder auf Film h1/sh/S0788H/0115/L</a> | Tanger : Juden, Judenfeindlichkeit und Antisemitismus bis 1945
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0788H/0118/R" rel="nofollow">Bilder auf Film h1/sh/S0788H/0118/R</a> | Tanger : Landesplanung und Städtebau
+
+
+:::
+
+
+
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 191</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2703H/0743" rel="nofollow">Bilder auf Film h2/sh/S2703H/0743</a> | Tanger
+
+
+:::
 
 
 
@@ -143,8 +204,27 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
-Insgesamt 4 Mappen, 9 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 4 Mappen (bis 1949), 9 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

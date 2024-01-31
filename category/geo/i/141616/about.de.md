@@ -1,6 +1,6 @@
 ---
 title: "D16 Marshall-Inseln, Nauru (bis 30.6.1919)"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -8,27 +8,29 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [D16]{.gray}&#8201; Marshall-Inseln, Nauru (bis 30.6.1919) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q697) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Nauru)
+# [D16]{.gray}&#8201; Marshall-Inseln, Nauru (bis 30.6.1919) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104722012) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Marshallinseln)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141616`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141616`</div>
 
 <div class="hint">
-Scope Note: Marschall-Inseln, Nauru (bis 30.06.1919, dann unter Japanische Mandatländer in Ozeanien (D 18); 	
-Staat im westlichen Pazifik, umfasst die gleichnamige, zum östlichen Mikronesien zählende Inselgruppe
+Scope Note: Marschall-Inseln, Nauru (bis 30.06.1919, dann unter Japanische Mandatländer in Ozeanien (D 18); 	 Staat im westlichen Pazifik, umfasst die gleichnamige, zum östlichen Mikronesien zählende Inselgruppe
 </div>
 
 
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
 
 
 
 
 
 
-Insgesamt 7 Mappen, 27 Dokumente - Mappen komplett.
+
+
+
+Insgesamt 7 Mappen, 27 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -57,6 +59,14 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - [g4 Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein]{.gray}
   - g4 Sm1 Zollpolitik [**&nearr;**](../../../subject/i/163419/about.de.html "Zollpolitik (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#g4_Sm1 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141616,163419" title="über: Marshall-Inseln, Nauru (bis 30.6.1919) : Zollpolitik" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141616/1634xx/163419/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
 
 
 

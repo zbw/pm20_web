@@ -6,6 +6,8 @@ robots: nofollow
 
 # Veröffentlichte Abschnitte aus digitalisierten Rollfilmen
 
+In den Abschnitten können einzelne Artikel aus urheberrechtlichen Gründen ausgeblendet sein.
+
 ## Nordschleswig
 
 ### S0211H
@@ -21,6 +23,12 @@ robots: nofollow
 ### S0292H
 
 - [Großbritannien Ausbruch 1. Weltkrieg](h1/sh/S0292H/0646) (35)
+
+## Frankreich
+
+### S0415H
+
+- [Filmindustrie (n21 Sm8)](h1/sh/S0415H/1010) (47)
 
 ## Schweiz
 

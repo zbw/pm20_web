@@ -1,6 +1,6 @@
 ---
 title: "C19 Algeria"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,18 +10,18 @@ fn-stub: about
 
 # [C19]{.gray}&#8201; Algeria &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q262) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Algeria)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141354`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141354`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
+[Subject archives](#subject-archives-folders) &#160; [Commodities/wares archives](#commoditieswares-archives-folders)
 
 
 
 
-## Subject archives
+## Subject archives folders
 
 
 
@@ -29,7 +29,10 @@ fn-stub: about
 
 
 
-In total 52 folders, 839 documents - folders incomplete.
+
+
+
+In total 51 folders, 839 documents - folders incomplete.
 For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
@@ -91,7 +94,6 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - p2 Settlement policy [**&nearr;**](../../../subject/i/145915/about.en.html "Settlement policy (all over the world)") [**&uarr;**](../../../subject/about.en.html#p2 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141354,145915" title="about: Algeria : Settlement policy" target="_blank">24 documents</a>) ([folder](../../../../folder/sh/1413xx/141354/1459xx/145915/about.en.html))
 - p3 Immigration and Immigration Policy [**&nearr;**](../../../subject/i/145917/about.en.html "Immigration and Immigration Policy (all over the world)") [**&uarr;**](../../../subject/about.en.html#p3 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141354,145917" title="about: Algeria : Immigration and Immigration Policy" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1413xx/141354/1459xx/145917/about.en.html))
   - p3 Sm4 Immigrants from individual countries [**&nearr;**](../../../subject/i/182222/about.en.html "Immigrants from individual countries (all over the world)") [**&uarr;**](../../../subject/about.en.html#p3_Sm4 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141354,182222" title="about: Algeria : Immigrants from individual countries" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1413xx/141354/1822xx/182222/about.en.html))
-  - p3 Sm500 German immigrants (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145921/about.en.html "German immigrants (Forschungsstelle für das Übersee-Deutschtum) (all over the world)") [**&uarr;**](../../../subject/about.en.html#p3_Sm500 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141354,145921" title="about: Algeria : German immigrants (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">0 documents</a>) ([folder](../../../../folder/sh/1413xx/141354/1459xx/145921/about.en.html))
 - p4 Emigration and emigration Policy [**&nearr;**](../../../subject/i/145925/about.en.html "Emigration and emigration Policy (all over the world)") [**&uarr;**](../../../subject/about.en.html#p4 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141354,145925" title="about: Algeria : Emigration and emigration Policy" target="_blank">7 documents</a>) ([folder](../../../../folder/sh/1413xx/141354/1459xx/145925/about.en.html))
 - p6 Settlements [**&nearr;**](../../../subject/i/145931/about.en.html "Settlements (all over the world)") [**&uarr;**](../../../subject/about.en.html#p6 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141354,145931" title="about: Algeria : Settlements" target="_blank">14 documents</a>) ([folder](../../../../folder/sh/1413xx/141354/1459xx/145931/about.en.html))
 
@@ -105,11 +107,55 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
+<a id="filmsections" />
+
+## Sections of digitized microfilms (1st filming 1908-1949)
+
+<p>For intellectual property law reasons accessible only from the European Union legal area and from the ZBW reading room.</p>
+
+
+
+<p>Total number of images: 2771</p>
 
 
 
 
-## Commodities/wares archives
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0779H/0969" rel="nofollow">Images on film h1/sh/S0779H/0969</a> | Algerien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0780H" rel="nofollow">Images on film h1/sh/S0780H</a> | Filmanfang: Algerien : Landeskunde, Landschaften, Beschreibung einzelner Orte und Gegenden [C19 c9]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0781H" rel="nofollow">Images on film h1/sh/S0781H</a> | Filmanfang: Algerien : Zolltarif, Vollständiger Text [C19 m2 Sm1.I]
+
+
+:::
+
+
+
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 4019</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2697H/0114" rel="nofollow">Images on film h2/sh/S2697H/0114</a> | Algerien
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2698H" rel="nofollow">Images on film h2/sh/S2698H</a> | Filmanfang: Algerien : Geschichtliche Vorgänge [C19 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2699H" rel="nofollow">Images on film h2/sh/S2699H</a> | Filmanfang: Algerien : Geschichtliche Vorgänge [C19 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2700H" rel="nofollow">Images on film h2/sh/S2700H</a> | Filmanfang: Algerien : n2-n2a Sm [C19 n2-n2a Sm]
+
+
+:::
 
 
 
@@ -119,8 +165,27 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
-In total 20 folders, 321 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_wa.de.html) (in German).
+
+
+
+
+
+## Commodities/wares archives folders
+
+
+
+
+
+
+
+
+
+
+
+In total 20 folders (until 1949), 322 documents
+- folders incomplete.  For material not published as folders, please check the
+digitized micro-films of the [1st filming](/film/h1_wa.de.html) and [2nd
+filming](/film/h2_wa.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -145,7 +210,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### C
 
-- Citrus fruits [**&nearr;**](../../../ware/i/141948/about.en.html "Citrus fruits (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Zs "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141354" title="about: Citrus fruits : Algeria" target="_blank">52 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1413xx/141354/about.en.html))
+- Citrus fruits [**&nearr;**](../../../ware/i/141948/about.en.html "Citrus fruits (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW04-Zs "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141354" title="about: Citrus fruits : Algeria" target="_blank">53 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1413xx/141354/about.en.html))
 - Clothing [**&nearr;**](../../../ware/i/142106/about.en.html "Clothing (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Bk "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142106,141354" title="about: Clothing : Algeria" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1421xx/142106/1413xx/141354/about.en.html))
 - Coal [**&nearr;**](../../../ware/i/143120/about.en.html "Coal (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PRB02.01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141354" title="about: Coal : Algeria" target="_blank">77 documents</a>) ([folder](../../../../folder/wa/1431xx/143120/1413xx/141354/about.en.html))
 - Coir [**&nearr;**](../../../ware/i/143125/about.en.html "Coir (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID19-Nf11 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143125,141354" title="about: Coir : Algeria" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1431xx/143125/1413xx/141354/about.en.html))

@@ -1,6 +1,6 @@
 ---
 title: "q Sm16 Slave question"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [q Sm16]{.gray}&#8201; Slave question &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711389)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145962`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145962`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 18 folders, 207 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 18 folders, 208 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -33,7 +34,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,145962" title="about: Orient : Slave question" target="_blank">0 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1459xx/145962/about.en.html))
+- A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,145962" title="about: Orient : Slave question" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1459xx/145962/about.en.html))
 - A36 Italian Empire [**&nearr;**](../../../geo/i/141012/about.en.html "Italian Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A36 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141012,145962" title="about: Italian Empire : Slave question" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1410xx/141012/1459xx/145962/about.en.html))
 
 ### Asia
@@ -57,6 +58,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - C110 German East Africa [**&nearr;**](../../../geo/i/141471/about.en.html "German East Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C110 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141471,145962" title="about: German East Africa : Slave question" target="_blank">5 documents</a>) ([folder](../../../../folder/sh/1414xx/141471/1459xx/145962/about.en.html))
 - C125 Abyssinia [**&nearr;**](../../../geo/i/141482/about.en.html "Abyssinia (all folders)") [**&uarr;**](../../../geo/about.en.html#C125 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141482,145962" title="about: Abyssinia : Slave question" target="_blank">102 documents</a>) ([folder](../../../../folder/sh/1414xx/141482/1459xx/145962/about.en.html))
 - C126 Eritrea [**&nearr;**](../../../geo/i/141483/about.en.html "Eritrea (all folders)") [**&uarr;**](../../../geo/about.en.html#C126 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141483,145962" title="about: Eritrea : Slave question" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1414xx/141483/1459xx/145962/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "m2 Sm4.I Customs formalities, general"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [m2 Sm4.I]{.gray}&#8201; Customs formalities, general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700312)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144858`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144858`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 14 folders, 135 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 14 folders, 138 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -34,7 +35,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### Europe
 
 - A1 Europe [**&nearr;**](../../../geo/i/140892/about.en.html "Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A1 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144858" title="about: Europe : Customs formalities, general" target="_blank">9 documents</a>) ([folder](../../../../folder/sh/1408xx/140892/1448xx/144858/about.en.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144858" title="about: Hamburg : Customs formalities, general" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1448xx/144858/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144858" title="about: Hamburg : Customs formalities, general" target="_blank">5 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1448xx/144858/about.en.html))
 - A36 Italian Empire [**&nearr;**](../../../geo/i/141012/about.en.html "Italian Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A36 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141012,144858" title="about: Italian Empire : Customs formalities, general" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1410xx/141012/1448xx/144858/about.en.html))
 
 ### Asia
@@ -56,6 +57,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### America
 
 - E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144858" title="about: Argentina : Customs formalities, general" target="_blank">21 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1448xx/144858/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

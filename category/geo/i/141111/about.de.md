@@ -1,6 +1,6 @@
 ---
 title: "B21 Türkei (1923 -)"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,27 +10,30 @@ fn-stub: about
 
 # [B21]{.gray}&#8201; Türkei (1923 -) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q43) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/T%C3%BCrkei)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141111`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141111`</div>
 
 <div class="hint">
 Scope Note: vor 1921 hier auch A 043!
 </div>
 
 
-[Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
 
 
 
 
 
 
-Insgesamt 610 Mappen, 16875 Dokumente - Mappen komplett.
+
+
+
+Insgesamt 610 Mappen, 16875 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -702,11 +705,32 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 4995</p>
 
 
 
 
-## Warenarchiv
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2600H/1066" rel="nofollow">Bilder auf Film h2/sh/S2600H/1066</a> | Türkei
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2602H" rel="nofollow">Bilder auf Film h2/sh/S2602H</a> | Filmanfang: Türkei (1923 -) : d1-f Sm [B21 d1-f Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2603H" rel="nofollow">Bilder auf Film h2/sh/S2603H</a> | Filmanfang: Türkei (1923 -) : m-m1 Sm [B21 m-m1 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2604H" rel="nofollow">Bilder auf Film h2/sh/S2604H</a> | Filmanfang: Türkei (1923 -) : Berichte über die wirtschaftliche Lage [B21 n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2605H" rel="nofollow">Bilder auf Film h2/sh/S2605H</a> | Filmanfang: Türkei (1923 -) : Handel Sm4-50 [B21 n18 Sm4-50]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2606H" rel="nofollow">Bilder auf Film h2/sh/S2606H</a> | Filmanfang: Türkei (1923 -) : n37-q Nr.8 [B21 n37-q Nr.8]
+
+
+:::
 
 
 
@@ -715,8 +739,27 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
-Insgesamt 34 Mappen, 1406 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 34 Mappen (bis 1949), 1406 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

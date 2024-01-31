@@ -1,6 +1,6 @@
 ---
 title: "Kohle"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Kohle &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q24489) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Kohle)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/143120`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/143120`</div>
 
 
 
@@ -18,12 +18,14 @@ fn-stub: about
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 159 Mappen, 36861 Dokumente - Mappen komplett.
+
+
+Insgesamt 159 Mappen, 36861 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -67,7 +69,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - A40b Österreich [**&nearr;**](../../../geo/i/141731/about.de.html "Österreich (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40b "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141731" title="über: Kohle : Österreich" target="_blank">786 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1417xx/141731/about.de.html))
 - A40c Tschechoslowakei [**&nearr;**](../../../geo/i/141022/about.de.html "Tschechoslowakei (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40c "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141022" title="über: Kohle : Tschechoslowakei" target="_blank">636 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1410xx/141022/about.de.html))
 - A40d Ungarn [**&nearr;**](../../../geo/i/141025/about.de.html "Ungarn (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40d "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141025" title="über: Kohle : Ungarn" target="_blank">390 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1410xx/141025/about.de.html))
-- A40e Südslawien [**&nearr;**](../../../geo/i/141028/about.de.html "Südslawien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40e "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141028" title="über: Kohle : Südslawien" target="_blank">214 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1410xx/141028/about.de.html))
+- A40e Jugoslawien (bis 1945 Südslawien) [**&nearr;**](../../../geo/i/141028/about.de.html "Jugoslawien (bis 1945 Südslawien) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40e "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141028" title="über: Kohle : Jugoslawien (bis 1945 Südslawien)" target="_blank">214 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1410xx/141028/about.de.html))
 - A40f Slowakei [**&nearr;**](../../../geo/i/141029/about.de.html "Slowakei (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40f "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141029" title="über: Kohle : Slowakei" target="_blank">46 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1410xx/141029/about.de.html))
 - A40g Kroatien [**&nearr;**](../../../geo/i/141030/about.de.html "Kroatien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40g "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141030" title="über: Kohle : Kroatien" target="_blank">30 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1410xx/141030/about.de.html))
 - A41 Serbien [**&nearr;**](../../../geo/i/141032/about.de.html "Serbien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A41 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141032" title="über: Kohle : Serbien" target="_blank">24 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1410xx/141032/about.de.html))
@@ -209,6 +211,48 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Welt
 
 - H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143120,141728" title="über: Kohle : Welt" target="_blank">1871 Dokumente</a>) ([Mappe](../../../../folder/wa/1431xx/143120/1417xx/141728/about.de.html))
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 13782</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2010H/0075" rel="nofollow">Bilder auf Film h2/wa/W2010H/0075</a> | Kohle
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2011H/0002" rel="nofollow">Bilder auf Film h2/wa/W2011H/0002</a> | Kohle : Europa
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2012H/0002" rel="nofollow">Bilder auf Film h2/wa/W2012H/0002</a> | Kohle : Deutschland
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2013H/0002" rel="nofollow">Bilder auf Film h2/wa/W2013H/0002</a> | Kohle : Deutschland
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2014H" rel="nofollow">Bilder auf Film h2/wa/W2014H</a> | Filmanfang: Kohle - Deutschland [A10]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2015H/0002" rel="nofollow">Bilder auf Film h2/wa/W2015H/0002</a> | Kohle : Deutschland
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2016H/0002" rel="nofollow">Bilder auf Film h2/wa/W2016H/0002</a> | Kohle : Schweden
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2017H/0002" rel="nofollow">Bilder auf Film h2/wa/W2017H/0002</a> | Kohle : Großbritannien
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2018H/0002" rel="nofollow">Bilder auf Film h2/wa/W2018H/0002</a> | Kohle : Großbritannien
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2019H/0002" rel="nofollow">Bilder auf Film h2/wa/W2019H/0002</a> | Kohle : Österreich
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2020H/0002" rel="nofollow">Bilder auf Film h2/wa/W2020H/0002</a> | Kohle : Britisch-Südafrika
+
+
+:::
+
+
+
+
+
+
+
+
 
 
 

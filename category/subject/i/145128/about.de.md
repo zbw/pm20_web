@@ -1,6 +1,6 @@
 ---
 title: "n13a Sm7.I Baugewerbe, Allgemein"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n13a Sm7.I]{.gray}&#8201; Baugewerbe, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710662)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145128`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145128`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 7 Mappen, 161 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 7 Mappen, 172 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -34,7 +35,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Europa
 
 - A4 Westeuropa [**&nearr;**](../../../geo/i/140897/about.de.html "Westeuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A4 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140897,145128" title="über: Westeuropa : Baugewerbe, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140897/1451xx/145128/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145128" title="über: Hamburg : Baugewerbe, Allgemein" target="_blank">96 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1451xx/145128/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145128" title="über: Hamburg : Baugewerbe, Allgemein" target="_blank">107 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1451xx/145128/about.de.html))
 
 ### Asien
 
@@ -46,6 +47,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145128" title="über: Argentinien : Baugewerbe, Allgemein" target="_blank">23 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1451xx/145128/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

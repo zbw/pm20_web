@@ -1,6 +1,6 @@
 ---
 title: "n26 Sm1 Chamber of commerce, business association, general"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n26 Sm1]{.gray}&#8201; Chamber of commerce, business association, general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711074)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145492`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145492`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 7 folders, 146 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 7 folders, 157 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -33,8 +34,8 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,145492" title="about: Orient : Chamber of commerce, business association, general" target="_blank">0 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1454xx/145492/about.en.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145492" title="about: Hamburg : Chamber of commerce, business association, general" target="_blank">63 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1454xx/145492/about.en.html))
+- A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,145492" title="about: Orient : Chamber of commerce, business association, general" target="_blank">5 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1454xx/145492/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145492" title="about: Hamburg : Chamber of commerce, business association, general" target="_blank">69 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1454xx/145492/about.en.html))
 
 ### Asia
 
@@ -46,6 +47,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### America
 
 - E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145492" title="about: Argentina : Chamber of commerce, business association, general" target="_blank">11 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1454xx/145492/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

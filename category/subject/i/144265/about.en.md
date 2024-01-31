@@ -1,6 +1,6 @@
 ---
 title: "e1 Individual diseases and their control"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [e1]{.gray}&#8201; Individual diseases and their control &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q92707235)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144265`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144265`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 38 folders, 1477 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 38 folders, 1493 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -35,7 +36,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 - A1 Europe [**&nearr;**](../../../geo/i/140892/about.en.html "Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A1 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144265" title="about: Europe : Individual diseases and their control" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1408xx/140892/1442xx/144265/about.en.html))
 - A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,144265" title="about: Orient : Individual diseases and their control" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1442xx/144265/about.en.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144265" title="about: Hamburg : Individual diseases and their control" target="_blank">52 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1442xx/144265/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144265" title="about: Hamburg : Individual diseases and their control" target="_blank">68 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1442xx/144265/about.en.html))
 - A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,144265" title="about: Germany : Individual diseases and their control" target="_blank">611 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1442xx/144265/about.en.html))
 - A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140960,144265" title="about: German imperial colonies : Individual diseases and their control" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1409xx/140960/1442xx/144265/about.en.html))
 - A36 Italian Empire [**&nearr;**](../../../geo/i/141012/about.en.html "Italian Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A36 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141012,144265" title="about: Italian Empire : Individual diseases and their control" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1410xx/141012/1442xx/144265/about.en.html))
@@ -83,6 +84,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 - E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144265" title="about: Argentina : Individual diseases and their control" target="_blank">247 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1442xx/144265/about.en.html))
 - E95 Uruguay [**&nearr;**](../../../geo/i/141695/about.en.html "Uruguay (all folders)") [**&uarr;**](../../../geo/about.en.html#E95 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141695,144265" title="about: Uruguay : Individual diseases and their control" target="_blank">56 documents</a>) ([folder](../../../../folder/sh/1416xx/141695/1442xx/144265/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

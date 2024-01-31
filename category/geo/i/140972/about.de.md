@@ -1,6 +1,6 @@
 ---
 title: "A21 Belgien"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,18 @@ fn-stub: about
 
 # [A21]{.gray}&#8201; Belgien &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q31) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Belgien)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140972`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/140972`</div>
+
+
+
+
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
+
+
+
+
+
+## Sacharchiv Mappen
 
 
 
@@ -18,7 +29,83 @@ fn-stub: about
 
 
 
-## Warenarchiv
+
+Kein als Mappe erschlossenes Material.
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 17967</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0234H/0833/L" rel="nofollow">Bilder auf Film h1/sh/S0234H/0833/L</a> | Polen : Nachrichtenwesen und Pressewesen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0272H_1/0539" rel="nofollow">Bilder auf Film h1/sh/S0272H_1/0539</a> | Belgien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0273H_1" rel="nofollow">Bilder auf Film h1/sh/S0273H_1</a> | Filmanfang: Belgien : Geschichtliche Vorgänge [A21 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0274H_1" rel="nofollow">Bilder auf Film h1/sh/S0274H_1</a> | Filmanfang: Belgien : Geschichtliche Vorgänge [A21 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0275H_1" rel="nofollow">Bilder auf Film h1/sh/S0275H_1</a> | Filmanfang: Belgien : Verhandlungen von parlamentarischen und politischen Körperschaften Kabinett [A21 f6 Kabinett]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0276H" rel="nofollow">Bilder auf Film h1/sh/S0276H</a> | Filmanfang: Belgien : Politische Beziehungen zu einzelnen Ländern Frankreich [A21 g1 Frankreich]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0277H" rel="nofollow">Bilder auf Film h1/sh/S0277H</a> | Filmanfang: Belgien : Diplomatische und konsularische Vertretungen in einzelnen Ländern [A21 g2a]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0278H" rel="nofollow">Bilder auf Film h1/sh/S0278H</a> | Filmanfang: Belgien : Handelspolitische und zollrechtliche Massnahmen aus dem Deutschen Handelsarchiv [A21 g4 Sm21]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0279H" rel="nofollow">Bilder auf Film h1/sh/S0279H</a> | Filmanfang: Belgien : Wirtschaftspolitische Beziehungen zu einzelnen Ländern Frankreich [A21 g4a Frankreich]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0280H" rel="nofollow">Bilder auf Film h1/sh/S0280H</a> | Filmanfang: Belgien : Wirtschaftspolitische Beziehungen zu einzelnen Ländern Spanien [A21 g4a Spanien]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0281H" rel="nofollow">Bilder auf Film h1/sh/S0281H</a> | Filmanfang: Belgien : Hochschulwesen, Forschungsanstalten Allgemein [A21 k1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0282H" rel="nofollow">Bilder auf Film h1/sh/S0282H</a> | Filmanfang: Belgien : Staatshaushalt N1 [A21 m1 N1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0283H_1" rel="nofollow">Bilder auf Film h1/sh/S0283H_1</a> | Filmanfang: Belgien : Nationale Kapitalanlagen II b1 Schweden [A21 n Sm6 II b1 Schweden]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0284H" rel="nofollow">Bilder auf Film h1/sh/S0284H</a> | Filmanfang: Belgien : Berichte über die wirtschaftliche Lage N2 [A21 n2 N2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0285H" rel="nofollow">Bilder auf Film h1/sh/S0285H</a> | Filmanfang: Belgien : Elektrizitätsindustrie [A21 n13a Sm4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0286H" rel="nofollow">Bilder auf Film h1/sh/S0286H</a> | Filmanfang: Belgien : Handel [A21 n18]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0287H_1" rel="nofollow">Bilder auf Film h1/sh/S0287H_1</a> | Filmanfang: Belgien : Bildende Künste [A21 n21 Sm3]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0288H" rel="nofollow">Bilder auf Film h1/sh/S0288H</a> | Filmanfang: Belgien : Gütertransport- und Frachtfragen, Allgemein [A21 n28 Sm22]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0289H_1" rel="nofollow">Bilder auf Film h1/sh/S0289H_1</a> | Filmanfang: Belgien : Schiffsverkehr in einzelnen Häfen Antwerpen [A21 n32a Antwerpen]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0290H_1" rel="nofollow">Bilder auf Film h1/sh/S0290H_1</a> | Filmanfang: Belgien : Urheberschutz [A21 n38]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0290H_1/0390" rel="nofollow">Bilder auf Film h1/sh/S0290H_1/0390</a> | Belgien : Vlamenfrage (Flamenfrage)
+
+
+:::
+
+
+
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 9333</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2320H/1119" rel="nofollow">Bilder auf Film h2/sh/S2320H/1119</a> | Belgien
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2321H" rel="nofollow">Bilder auf Film h2/sh/S2321H</a> | Filmanfang: Belgien : Geschichtliche Vorgänge [A21 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2322H" rel="nofollow">Bilder auf Film h2/sh/S2322H</a> | Filmanfang: Belgien : Staatliche Wirtschaftspropaganda [A21 g4 Sm3]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2323H" rel="nofollow">Bilder auf Film h2/sh/S2323H</a> | Filmanfang: Belgien : Wirtschaftspolitische Beziehungen zu einzelnen Ländern [A21 g4a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2324H" rel="nofollow">Bilder auf Film h2/sh/S2324H</a> | Filmanfang: Belgien : Wirtschaftspolitische Beziehungen zu einzelnen Ländern Sm [A21 g4a Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2325H" rel="nofollow">Bilder auf Film h2/sh/S2325H</a> | Filmanfang: Belgien : Wirtschaft, Allgemein Sm [A21 n Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2326H" rel="nofollow">Bilder auf Film h2/sh/S2326H</a> | Filmanfang: Belgien : Landwirtschaft Sm [A21 n4 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2327H" rel="nofollow">Bilder auf Film h2/sh/S2327H</a> | Filmanfang: Belgien : Handelsbeziehungen zu einzelnen Ländern [A21 n19]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2328H" rel="nofollow">Bilder auf Film h2/sh/S2328H</a> | Filmanfang: Belgien : Schiffsverkehr in einzelnen Häfen [A21 n32a]
+
+
+:::
 
 
 
@@ -27,8 +114,27 @@ fn-stub: about
 
 
 
-Insgesamt 34 Mappen, 2075 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 34 Mappen (bis 1949), 2075 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

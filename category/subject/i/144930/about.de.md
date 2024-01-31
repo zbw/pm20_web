@@ -1,6 +1,6 @@
 ---
 title: "n Wirtschaft, Allgemein"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n]{.gray}&#8201; Wirtschaft, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q96748601)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144930`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144930`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 58 Mappen, 997 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 58 Mappen, 1001 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -43,7 +44,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,144930" title="über: Südosteuropa : Wirtschaft, Allgemein" target="_blank">26 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1449xx/144930/about.de.html))
 - A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,144930" title="über: Orient : Wirtschaft, Allgemein" target="_blank">14 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1449xx/144930/about.de.html))
 - A8 Russische Randstaaten [**&nearr;**](../../../geo/i/140904/about.de.html "Russische Randstaaten (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A8 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140904,144930" title="über: Russische Randstaaten : Wirtschaft, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140904/1449xx/144930/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144930" title="über: Hamburg : Wirtschaft, Allgemein" target="_blank">74 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1449xx/144930/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144930" title="über: Hamburg : Wirtschaft, Allgemein" target="_blank">78 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1449xx/144930/about.de.html))
 - A10n(1) Oberschlesien (dt.-poln. Abstimmungsgebiet) [**&nearr;**](../../../geo/i/140948/about.de.html "Oberschlesien (dt.-poln. Abstimmungsgebiet) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10n(1) "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140948,144930" title="über: Oberschlesien (dt.-poln. Abstimmungsgebiet) : Wirtschaft, Allgemein" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140948/1449xx/144930/about.de.html))
 - A11 Deutsche Kolonien [**&nearr;**](../../../geo/i/140960/about.de.html "Deutsche Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A11 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140960,144930" title="über: Deutsche Kolonien : Wirtschaft, Allgemein" target="_blank">60 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140960/1449xx/144930/about.de.html))
 - A36 Italienische Kolonien [**&nearr;**](../../../geo/i/141012/about.de.html "Italienische Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A36 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141012,144930" title="über: Italienische Kolonien : Wirtschaft, Allgemein" target="_blank">18 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141012/1449xx/144930/about.de.html))
@@ -106,6 +107,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Polargebiete
 
 - F10 Arktis [**&nearr;**](../../../geo/i/141702/about.de.html "Arktis (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#F10 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141702,144930" title="über: Arktis : Wirtschaft, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1417xx/141702/1449xx/144930/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Artischocken"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Artischocken &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q23041430) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Artischocke)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142012`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142012`</div>
 
 
 
@@ -18,12 +18,14 @@ fn-stub: about
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 8 Mappen, 15 Dokumente - Mappen komplett.
+
+
+Insgesamt 8 Mappen, 15 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -46,6 +48,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - E15 USA [**&nearr;**](../../../geo/i/141653/about.de.html "USA (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E15 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142012,141653" title="über: Artischocken : USA" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142012/1416xx/141653/about.de.html))
 - E85 Chile [**&nearr;**](../../../geo/i/141691/about.de.html "Chile (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E85 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142012,141691" title="über: Artischocken : Chile" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142012/1416xx/141691/about.de.html))
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142012,141692" title="über: Artischocken : Argentinien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142012/1416xx/141692/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

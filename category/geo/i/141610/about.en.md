@@ -1,6 +1,6 @@
 ---
 title: "D11 Solomon Islands and Bismarck Archipelago"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [D11]{.gray}&#8201; Solomon Islands and Bismarck Archipelago &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q97060007)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141610`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141610`</div>
 
 
 
@@ -18,7 +18,7 @@ fn-stub: about
 
 
 
-## Subject archives
+## Subject archives folders
 
 
 
@@ -26,7 +26,10 @@ fn-stub: about
 
 
 
-In total 29 folders, 93 documents - folders complete.
+
+
+
+In total 29 folders, 93 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -92,6 +95,14 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - n15 Labor question, labor relations [**&nearr;**](../../../subject/i/145155/about.en.html "Labor question, labor relations (all over the world)") [**&uarr;**](../../../subject/about.en.html#n15 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141610,145155" title="about: Solomon Islands and Bismarck Archipelago : Labor question, labor relations" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1416xx/141610/1451xx/145155/about.en.html))
 - n29 Roads, paths, bridges (including their traffic) [**&nearr;**](../../../subject/i/145524/about.en.html "Roads, paths, bridges (including their traffic) (all over the world)") [**&uarr;**](../../../subject/about.en.html#n29 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141610,145524" title="about: Solomon Islands and Bismarck Archipelago : Roads, paths, bridges (including their traffic)" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1416xx/141610/1455xx/145524/about.en.html))
 - n31 Port facilities and their management [**&nearr;**](../../../subject/i/145563/about.en.html "Port facilities and their management (all over the world)") [**&uarr;**](../../../subject/about.en.html#n31 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141610,145563" title="about: Solomon Islands and Bismarck Archipelago : Port facilities and their management" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1416xx/141610/1455xx/145563/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
 
 
 

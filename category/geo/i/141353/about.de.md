@@ -1,6 +1,6 @@
 ---
 title: "C18 Tunesien"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,18 +10,21 @@ fn-stub: about
 
 # [C18]{.gray}&#8201; Tunesien &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q948) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Tunesien)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141353`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141353`</div>
 
 
 
 
-[Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
+
+
+
 
 
 
@@ -39,11 +42,62 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 2414</p>
 
 
 
 
-## Warenarchiv
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0777H/1037" rel="nofollow">Bilder auf Film h1/sh/S0777H/1037</a> | Tunesien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0777H/1037/R" rel="nofollow">Bilder auf Film h1/sh/S0777H/1037/R</a> | Tunesien : Land und Leute, Politik und Wirtschaft, Allgemein
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0777H/1098/R" rel="nofollow">Bilder auf Film h1/sh/S0777H/1098/R</a> | Tunesien : Landeskunde, Allgemein
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0777H/1126/R" rel="nofollow">Bilder auf Film h1/sh/S0777H/1126/R</a> | Tunesien : Landeskunde, Landschaften, Beschreibung einzelner Orte und Gegenden
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0777H/1177/L" rel="nofollow">Bilder auf Film h1/sh/S0777H/1177/L</a> | Tunesien :  Landeskunde, Elementare Katastrophen, Naturkatastrophen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0777H/1183/R" rel="nofollow">Bilder auf Film h1/sh/S0777H/1183/R</a> | Tunesien :  Bevölkerung und Bevölkerungspolitik
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0777H/1190/L" rel="nofollow">Bilder auf Film h1/sh/S0777H/1190/L</a> | Tunesien : Bevölkerungsbewegung, Bevölkerungsstatistik
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0777H/1227/R" rel="nofollow">Bilder auf Film h1/sh/S0777H/1227/R</a> | Tunesien : Bevölkerungsbewegung und Bevölkerungsstatistik einzelner Provinzen, Bundesstaaten und Städte
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0777H/1231/L" rel="nofollow">Bilder auf Film h1/sh/S0777H/1231/L</a> | Tunesien : Volkscharakter, Sport, Sitten und Gebräuche
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0778H" rel="nofollow">Bilder auf Film h1/sh/S0778H</a> | Filmanfang: Tunesien : Volkscharakter, Sport, Sitten und Gebräuche [C18 d4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0779H" rel="nofollow">Bilder auf Film h1/sh/S0779H</a> | Filmanfang: Tunesien : Bodenbesitzverhältnisse und Bodenpolitik, Hausbesitz [C18 n3]
+
+
+:::
+
+
+
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 1888</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2695H/0497" rel="nofollow">Bilder auf Film h2/sh/S2695H/0497</a> | Tunesien
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2696H" rel="nofollow">Bilder auf Film h2/sh/S2696H</a> | Filmanfang: Tunesien : Geschichtliche Vorgänge [C18 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2697H" rel="nofollow">Bilder auf Film h2/sh/S2697H</a> | Filmanfang: Tunesien : n5-q Nr.31 [C18 n5-q Nr.31]
+
+
+:::
 
 
 
@@ -52,8 +106,27 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
-Insgesamt 18 Mappen, 190 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 18 Mappen (bis 1949), 190 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

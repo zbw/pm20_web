@@ -1,6 +1,6 @@
 ---
 title: "E15 USA"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,32 +10,198 @@ fn-stub: about
 
 # [E15]{.gray}&#8201; USA &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q30) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Vereinigte_Staaten)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141653`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141653`</div>
 
 
 
 
-[Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
-
-
-
-
-
-## Sacharchiv
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
+## Sacharchiv Mappen
 
-Insgesamt 1 Mappen, 344 Dokumente - Mappen unvollständig.
+
+
+
+
+
+
+
+
+Insgesamt 1 Mappen, 346 Dokumente - Mappen unvollständig.
 Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
 
 
-  - o1 Sm500 Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145911/about.de.html "Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#o1_Sm500 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141653,145911" title="über: USA : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">344 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141653/1459xx/145911/about.de.html))
+  - o1 Sm500 Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145911/about.de.html "Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#o1_Sm500 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141653,145911" title="über: USA : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">346 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141653/1459xx/145911/about.de.html))
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 69690</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0885H/0752" rel="nofollow">Bilder auf Film h1/sh/S0885H/0752</a> | USA
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0886H" rel="nofollow">Bilder auf Film h1/sh/S0886H</a> | Filmanfang: USA : Kartographie I Literatur [E15 c Sm2 I Literatur]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0887H" rel="nofollow">Bilder auf Film h1/sh/S0887H</a> | Filmanfang: USA : Bevölkerungsbewegung, Bevölkerungsstatistik [E15 d1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0888H" rel="nofollow">Bilder auf Film h1/sh/S0888H</a> | Filmanfang: USA : Geschichtliche Vorgänge [E15 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0889H" rel="nofollow">Bilder auf Film h1/sh/S0889H</a> | Filmanfang: USA : Geschichtliche Vorgänge [E15 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0890H" rel="nofollow">Bilder auf Film h1/sh/S0890H</a> | Filmanfang: USA : Stellung und Befugnisse des Staatsoberhauptes, seines Vertreters und der Minister [E15 f4 Sm8]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0891H_1" rel="nofollow">Bilder auf Film h1/sh/S0891H_1</a> | Filmanfang: USA : Wahl des Staatsoberhauptes [E15 f5 Sm1.II]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0892H" rel="nofollow">Bilder auf Film h1/sh/S0892H</a> | Filmanfang: USA : Außenpolitik und politische Beziehungen zum Ausland, Allgemein [E15 g]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0893H" rel="nofollow">Bilder auf Film h1/sh/S0893H</a> | Filmanfang: USA : Außenpolitik und politische Beziehungen zum Ausland, Allgemein [E15 g]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0894H" rel="nofollow">Bilder auf Film h1/sh/S0894H</a> | Filmanfang: USA : Friedensbestrebungen (Weltkrieg) [E15 g Sm6]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0895H" rel="nofollow">Bilder auf Film h1/sh/S0895H</a> | Filmanfang: USA : Beziehungen zum Völkerbund [E15 g Sm15]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0896H" rel="nofollow">Bilder auf Film h1/sh/S0896H</a> | Filmanfang: USA : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein [E15 g4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0897H_1" rel="nofollow">Bilder auf Film h1/sh/S0897H_1</a> | Filmanfang: USA : Außenpolitik und politische Beziehungen zum Ausland, Allgemein Sm1.I [E15 g Sm1.I]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0898H" rel="nofollow">Bilder auf Film h1/sh/S0898H</a> | Filmanfang: USA : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein Sm501 [E15 g4 Sm501]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0899H_1" rel="nofollow">Bilder auf Film h1/sh/S0899H_1</a> | Filmanfang: USA : Einzelne Skandale und Prozesse Scopes [E15 i5 Scopes]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0900H" rel="nofollow">Bilder auf Film h1/sh/S0900H</a> | Filmanfang: USA : Landheer, Schutztruppen [E15 l1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0901H_1" rel="nofollow">Bilder auf Film h1/sh/S0901H_1</a> | Filmanfang: USA : Festungen, Militärstationen,... (später: Militärbauten und -liegenschaften) Sm3 [E15 l3 Sm3]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0901aH" rel="nofollow">Bilder auf Film h1/sh/S0901aH</a> | Filmanfang: USA : Flugwesen [E15 l4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0902H" rel="nofollow">Bilder auf Film h1/sh/S0902H</a> | Filmanfang: USA : Finanzwesen, Allgemein [E15 m]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0903H_1" rel="nofollow">Bilder auf Film h1/sh/S0903H_1</a> | Filmanfang: USA : Staatshaushalt [E15 m1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0904H" rel="nofollow">Bilder auf Film h1/sh/S0904H</a> | Filmanfang: USA : Zolltarif, Vollständiger Text [E15 m2 Sm1.I]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0905H_1" rel="nofollow">Bilder auf Film h1/sh/S0905H_1</a> | Filmanfang: USA : Steuerwesen (Finanzwesen) [E15 m3]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0906H_1" rel="nofollow">Bilder auf Film h1/sh/S0906H_1</a> | Filmanfang: USA : Fremdländische Kapitalanlagen, privatwirtschaftliche Interessen, Allgemein [E15 n Sm1.I]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0907H" rel="nofollow">Bilder auf Film h1/sh/S0907H</a> | Filmanfang: USA : Unlauteres Wirtschaftsgebahren, Allgemein, Bestechungswesen [E15 n Sm11]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0908H_1" rel="nofollow">Bilder auf Film h1/sh/S0908H_1</a> | Filmanfang: USA : Wirtschaftspolitik [E15 n1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0909H" rel="nofollow">Bilder auf Film h1/sh/S0909H</a> | Filmanfang: USA : Sozialpolitik, Allgemein [E15 n1 Sm11]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0910H_1" rel="nofollow">Bilder auf Film h1/sh/S0910H_1</a> | Filmanfang: USA : Wirtschaftspolitik Sm501 [E15 n1 Sm501]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0911H_1" rel="nofollow">Bilder auf Film h1/sh/S0911H_1</a> | Filmanfang: USA : Berichte über die wirtschaftliche Lage [E15 n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0912H_1" rel="nofollow">Bilder auf Film h1/sh/S0912H_1</a> | Filmanfang: USA : Berichte über die wirtschaftliche Lage [E15 n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0913H" rel="nofollow">Bilder auf Film h1/sh/S0913H</a> | Filmanfang: USA : Arbeitsmarkt, Erwerbslosenstatistik [E15 n2 Sm4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0914H_1" rel="nofollow">Bilder auf Film h1/sh/S0914H_1</a> | Filmanfang: USA : Kapitalmarktübersichten, Neugründungen und Kapitalerhöhungen N1 [E15 n2 Sm7 N1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0915H_1" rel="nofollow">Bilder auf Film h1/sh/S0915H_1</a> | Filmanfang: USA : Berichte über die wirtschaftliche Lage in einzelnen Bundesstaaten, Provinzen und Städten Pennsylvania [E15 n2a Pennsylvania]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0916H_1" rel="nofollow">Bilder auf Film h1/sh/S0916H_1</a> | Filmanfang: USA : Landwirtschaft [E15 n4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0917H" rel="nofollow">Bilder auf Film h1/sh/S0917H</a> | Filmanfang: USA : Forstwirtschaft [E15 n9]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0918H_1" rel="nofollow">Bilder auf Film h1/sh/S0918H_1</a> | Filmanfang: USA : Industrie [E15 n13]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0919H" rel="nofollow">Bilder auf Film h1/sh/S0919H</a> | Filmanfang: USA : Elektrizitätsindustrie [E15 n13a Sm4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0920H" rel="nofollow">Bilder auf Film h1/sh/S0920H</a> | Filmanfang: USA : Baugewerbe, Allgemein [E15 n13a Sm7.I]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0921H" rel="nofollow">Bilder auf Film h1/sh/S0921H</a> | Filmanfang: USA : Streiks, Vereinbarungen zwischen Arbeitgebern und Arbeitnehmern, Allgemein [E15 n15 Sm2.I]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0922H_1" rel="nofollow">Bilder auf Film h1/sh/S0922H_1</a> | Filmanfang: USA : Betriebskontrolle und Gewinnbeteiligung der Arbeiter [E15 n15 Sm9]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0923H" rel="nofollow">Bilder auf Film h1/sh/S0923H</a> | Filmanfang: USA : Arbeitnehmerverhältnisse, Metallverarbeitung und Maschinenindustrie [E15 n15a Sm19]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0924H" rel="nofollow">Bilder auf Film h1/sh/S0924H</a> | Filmanfang: USA : Arbeitnehmerverhältnisse, Schiffahrt und Hafenbetrieb [E15 n15a Sm24]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0925H" rel="nofollow">Bilder auf Film h1/sh/S0925H</a> | Filmanfang: USA : Handel [E15 n18]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0926H" rel="nofollow">Bilder auf Film h1/sh/S0926H</a> | Filmanfang: USA : Handel Sm1 [E15 n18 Sm1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0927H" rel="nofollow">Bilder auf Film h1/sh/S0927H</a> | Filmanfang: USA : Geld und Währung [E15 n23]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0928H" rel="nofollow">Bilder auf Film h1/sh/S0928H</a> | Filmanfang: USA : Edelmetallbewegung, Edelmetallarbitrage, Allgemein [E15 n23 Sm1.I]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0929H" rel="nofollow">Bilder auf Film h1/sh/S0929H</a> | Filmanfang: USA : Kreditwesen und Bankwesen [E15 n24]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0929aH" rel="nofollow">Bilder auf Film h1/sh/S0929aH</a> | Filmanfang: USA : Kreditwesen und Bankwesen [E15 n24]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0930H" rel="nofollow">Bilder auf Film h1/sh/S0930H</a> | Filmanfang: USA : Kreditaufnahme fremder Staaten, Allgemein; Anleihen [E15 n24 Sm13.I]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0931H" rel="nofollow">Bilder auf Film h1/sh/S0931H</a> | Filmanfang: USA : Lage des Bankgewerbes [E15 n24 Sm35]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0932H" rel="nofollow">Bilder auf Film h1/sh/S0932H</a> | Filmanfang: USA : Kreditwesen und Bankwesen 502Vb1 [E15 n24 502Vb1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0933H" rel="nofollow">Bilder auf Film h1/sh/S0933H</a> | Filmanfang: USA : Kreditwesen und Bankwesen Sm504 [E15 n24 Sm504]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0934H" rel="nofollow">Bilder auf Film h1/sh/S0934H</a> | Filmanfang: USA : Kreditwesen und Bankwesen Sm509 [E15 n24 Sm509]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0935H" rel="nofollow">Bilder auf Film h1/sh/S0935H</a> | Filmanfang: USA : Börsenwesen [E15 n25]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0936H" rel="nofollow">Bilder auf Film h1/sh/S0936H</a> | Filmanfang: USA : Kraftfahrzeugverkehr, Allgemein [E15 n28 Sm4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0937H" rel="nofollow">Bilder auf Film h1/sh/S0937H</a> | Filmanfang: USA : Eisenbahnwesen [E15 n30]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0938H" rel="nofollow">Bilder auf Film h1/sh/S0938H</a> | Filmanfang: USA : Eisenbahnwesen, Tarife [E15 n30 Sm3]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0939H" rel="nofollow">Bilder auf Film h1/sh/S0939H</a> | Filmanfang: USA : Bau, Ausbau, wirtschaftliche Förderung und Verwaltung einzelner Häfen New York [E15 n31a New York]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0940H" rel="nofollow">Bilder auf Film h1/sh/S0940H</a> | Filmanfang: USA : Seeschiffahrt [E15 n32]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0941H" rel="nofollow">Bilder auf Film h1/sh/S0941H</a> | Filmanfang: USA : Seekriegsrecht im Ganzen, Flaggenmißbrauch, Flaggenwechsel [E15 n32 Sm31.VI]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0942H" rel="nofollow">Bilder auf Film h1/sh/S0942H</a> | Filmanfang: USA : Einzelne Binnenschiffahrtsstrassen und Seekanäle Mississippi [E15 n33a Mississippi]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0943H" rel="nofollow">Bilder auf Film h1/sh/S0943H</a> | Filmanfang: USA : Luftschiffahrt, Flugwesen, Luftverkehr, Allgemein [E15 n35]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0944H" rel="nofollow">Bilder auf Film h1/sh/S0944H</a> | Filmanfang: USA : Nachrichten- und Pressewesen, Nachrichtendienst, Korrespondezen, Allgemein [E15 n36 Sm5]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0945H" rel="nofollow">Bilder auf Film h1/sh/S0945H</a> | Filmanfang: USA : Feuerversicherung [E15 n37a Sm3]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0946H" rel="nofollow">Bilder auf Film h1/sh/S0946H</a> | Filmanfang: USA : Einzelne Versicherungszweige Sm501 [E15 n37a Sm501]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0947H" rel="nofollow">Bilder auf Film h1/sh/S0947H</a> | Filmanfang: USA : Einwanderer aus Einzelnen Ländern Japan [E15 p3 Sm4 Japan]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0948H" rel="nofollow">Bilder auf Film h1/sh/S0948H</a> | Filmanfang: USA : Einzelfragen politischer und wirtschaftlicher Natur Nr 8 [E15 q Nr 8]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0948H/0818" rel="nofollow">Bilder auf Film h1/sh/S0948H/0818</a> | USA : Monroe Doctrine (Monroedoktrin) - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0948H/0827" rel="nofollow">Bilder auf Film h1/sh/S0948H/0827</a> | USA : Monroe Doctrine (Monroedoktrin)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0948H/1009/L" rel="nofollow">Bilder auf Film h1/sh/S0948H/1009/L</a> | USA : Irenfrage in Amerika
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0948H/1057/L" rel="nofollow">Bilder auf Film h1/sh/S0948H/1057/L</a> | USA : Muscle Shoals
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0948H/1178/R" rel="nofollow">Bilder auf Film h1/sh/S0948H/1178/R</a> | USA : Japanerfrage in den Vereinigten Staaten von Amerika - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0948H/1181" rel="nofollow">Bilder auf Film h1/sh/S0948H/1181</a> | USA : Japanerfrage in den Vereinigten Staaten von Amerika
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0949H/0002" rel="nofollow">Bilder auf Film h1/sh/S0949H/0002</a> | USA : Japanerfrage in den Vereinigten Staaten von Amerika
+
+
+:::
+
+
+
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 49041</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2753H/0765" rel="nofollow">Bilder auf Film h2/sh/S2753H/0765</a> | USA
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2754H" rel="nofollow">Bilder auf Film h2/sh/S2754H</a> | Filmanfang: USA : c10-d1 [E15 c10-d1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2755H" rel="nofollow">Bilder auf Film h2/sh/S2755H</a> | Filmanfang: USA : Geschichtliche Vorgänge [E15 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2756H" rel="nofollow">Bilder auf Film h2/sh/S2756H</a> | Filmanfang: USA : Stellung und Befugnisse des Staatsoberhauptes, seines Vertreters und der Minister [E15 f4 Sm8]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2757H" rel="nofollow">Bilder auf Film h2/sh/S2757H</a> | Filmanfang: USA : Wahlen [E15 f5 Sm1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2758H" rel="nofollow">Bilder auf Film h2/sh/S2758H</a> | Filmanfang: USA : Einzelne Parteien und Parteigruppen [E15 f5a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2759H" rel="nofollow">Bilder auf Film h2/sh/S2759H</a> | Filmanfang: USA : Außenpolitik und politische Beziehungen zum Ausland, Allgemein [E15 g]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2760H" rel="nofollow">Bilder auf Film h2/sh/S2760H</a> | Filmanfang: USA : Diplomatische und konsularische Vertretungen [E15 g2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2761H" rel="nofollow">Bilder auf Film h2/sh/S2761H</a> | Filmanfang: USA : Zollpolitik [E15 g4 Sm1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2762H" rel="nofollow">Bilder auf Film h2/sh/S2762H</a> | Filmanfang: USA : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein Sm26 [E15 g4 Sm26]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2763H" rel="nofollow">Bilder auf Film h2/sh/S2763H</a> | Filmanfang: USA : k1II [E15 k1II]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2764H" rel="nofollow">Bilder auf Film h2/sh/S2764H</a> | Filmanfang: USA : Militärwesen, Allgemein Sm11-501 [E15 l Sm11-501]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2765H" rel="nofollow">Bilder auf Film h2/sh/S2765H</a> | Filmanfang: USA : Flugwesen [E15 l4]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2766H" rel="nofollow">Bilder auf Film h2/sh/S2766H</a> | Filmanfang: USA : Munition [E15 l6 Sm1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2767H" rel="nofollow">Bilder auf Film h2/sh/S2767H</a> | Filmanfang: USA : Staatshaushalt [E15 m1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2768H" rel="nofollow">Bilder auf Film h2/sh/S2768H</a> | Filmanfang: USA : Zolltarif, Vollständiger Text [E15 m2 Sm1.I]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2769H" rel="nofollow">Bilder auf Film h2/sh/S2769H</a> | Filmanfang: USA : Steuerwesen (Finanzwesen) [E15 m3]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2770H" rel="nofollow">Bilder auf Film h2/sh/S2770H</a> | Filmanfang: USA : Nationale Kapitalanlagen, Übersichten im In- und Ausland, Allgemein [E15 n Sm6.I]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2771H" rel="nofollow">Bilder auf Film h2/sh/S2771H</a> | Filmanfang: USA : Wirtschaft, Allgemein Sm13-16 [E15 n Sm13-16]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2772H" rel="nofollow">Bilder auf Film h2/sh/S2772H</a> | Filmanfang: USA : Wirtschaft, Allgemein SmSm46.II [E15 n Sm Sm46.II]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2773H" rel="nofollow">Bilder auf Film h2/sh/S2773H</a> | Filmanfang: USA : Wirtschaftspolitik [E15 n1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2774H" rel="nofollow">Bilder auf Film h2/sh/S2774H</a> | Filmanfang: USA : Preisregelung, Allgemein [E15 n1 Sm12.I]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2775H" rel="nofollow">Bilder auf Film h2/sh/S2775H</a> | Filmanfang: USA : Berichte über die wirtschaftliche Lage [E15 n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2776H" rel="nofollow">Bilder auf Film h2/sh/S2776H</a> | Filmanfang: USA : Berichte über die wirtschaftliche Lage [E15 n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2777H" rel="nofollow">Bilder auf Film h2/sh/S2777H</a> | Filmanfang: USA : Lage und Statistik von Erwerbsgesellschaften verschiedener Wirtschaftszweige, Übersichten [E15 n2 Sm3]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2778H" rel="nofollow">Bilder auf Film h2/sh/S2778H</a> | Filmanfang: USA : Arbeitsmarkt, Erwerbslosenstatistik [E15 n2 Sm4]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2779H" rel="nofollow">Bilder auf Film h2/sh/S2779H</a> | Filmanfang: USA : Berichte über die wirtschaftliche Lage in einzelnen Bundesstaaten, Provinzen und Städten A-Z [E15 n2a A-Z]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2780H" rel="nofollow">Bilder auf Film h2/sh/S2780H</a> | Filmanfang: USA : Landwirtschaft [E15 n4]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2781H" rel="nofollow">Bilder auf Film h2/sh/S2781H</a> | Filmanfang: USA : Landwirtschaft Sm20-70 [E15 n4 Sm20-70]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2782H" rel="nofollow">Bilder auf Film h2/sh/S2782H</a> | Filmanfang: USA : Industrie, Öffentliche Kredite und Subventionen [E15 n13 Sm3]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2783H" rel="nofollow">Bilder auf Film h2/sh/S2783H</a> | Filmanfang: USA : Elektrizitätsindustrie [E15 n13a Sm4]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2784H" rel="nofollow">Bilder auf Film h2/sh/S2784H</a> | Filmanfang: USA : Flugzeug- und Luftschiffbauindustrie [E15 n13a Sm9]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2785H" rel="nofollow">Bilder auf Film h2/sh/S2785H</a> | Filmanfang: USA : Schlichtungswesen [E15 n15 Sm17]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2786H" rel="nofollow">Bilder auf Film h2/sh/S2786H</a> | Filmanfang: USA : Arbeitnehmerverhältnisse, Metallverarbeitung und Maschinenindustrie [E15 n15a Sm19]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2787H" rel="nofollow">Bilder auf Film h2/sh/S2787H</a> | Filmanfang: USA : Bauwesen und Wohnungswesen [E15 n17]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2788H" rel="nofollow">Bilder auf Film h2/sh/S2788H</a> | Filmanfang: USA : Private Förderung des Handels, Reklame, Reklamegewerbe [E15 n18 Sm7]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2789H" rel="nofollow">Bilder auf Film h2/sh/S2789H</a> | Filmanfang: USA : Lichtspielwesen [E15 n21 Sm8]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2790H" rel="nofollow">Bilder auf Film h2/sh/S2790H</a> | Filmanfang: USA : Notenbankwesen, Allgemein [E15 n24 Sm15.I]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2791H" rel="nofollow">Bilder auf Film h2/sh/S2791H</a> | Filmanfang: USA : Reiseverkehr, Fremdenverkehr, Allgemein [E15 n28 Sm2.I]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2792H" rel="nofollow">Bilder auf Film h2/sh/S2792H</a> | Filmanfang: USA : Eisenbahnwesen [E15 n30]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2793H" rel="nofollow">Bilder auf Film h2/sh/S2793H</a> | Filmanfang: USA : Küstenschiffahrt, kombinierte Fluss-Seeschiffahrt [E15 n32 Sm14]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2794H" rel="nofollow">Bilder auf Film h2/sh/S2794H</a> | Filmanfang: USA : Luftschiffahrt, Flugwesen, Luftverkehr, Allgemein [E15 n35]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2795H" rel="nofollow">Bilder auf Film h2/sh/S2795H</a> | Filmanfang: USA : Nachrichtenwesen und Pressewesen [E15 n36]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2796H" rel="nofollow">Bilder auf Film h2/sh/S2796H</a> | Filmanfang: USA : Einwanderer aus Einzelnen Ländern [E15 p3 Sm4]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2797H" rel="nofollow">Bilder auf Film h2/sh/S2797H</a> | Filmanfang: USA : Einzelfragen politischer und wirtschaftlicher Natur Nr.32 [E15 q Nr.32]
+
+
+:::
 
 
 
@@ -43,7 +209,14 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
-## Warenarchiv
+
+
+
+
+
+
+
+## Warenarchiv Mappen
 
 
 
@@ -52,8 +225,12 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
-Insgesamt 72 Mappen, 10511 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+Insgesamt 72 Mappen (bis 1949), 10511 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

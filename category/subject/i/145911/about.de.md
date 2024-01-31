@@ -1,6 +1,6 @@
 ---
 title: "o1 Sm500 Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [o1 Sm500]{.gray}&#8201; Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711343)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145911`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145911`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 68 Mappen, 5456 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 66 Mappen, 5461 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -40,7 +41,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 ### Asien
 
-- B1 Asien [**&nearr;**](../../../geo/i/141056/about.de.html "Asien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141056,145911" title="über: Asien : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141056/1459xx/145911/about.de.html))
 - B6 Ostasien [**&nearr;**](../../../geo/i/141062/about.de.html "Ostasien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B6 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141062,145911" title="über: Ostasien : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">40 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141062/1459xx/145911/about.de.html))
 - B23 Irak [**&nearr;**](../../../geo/i/141113/about.de.html "Irak (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B23 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141113,145911" title="über: Irak : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/sh/1411xx/141113/1459xx/145911/about.de.html))
 - B24 Syrien [**&nearr;**](../../../geo/i/141114/about.de.html "Syrien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B24 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141114,145911" title="über: Syrien : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">29 Dokumente</a>) ([Mappe](../../../../folder/sh/1411xx/141114/1459xx/145911/about.de.html))
@@ -54,7 +54,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - B80c Sabah [**&nearr;**](../../../geo/i/141234/about.de.html "Sabah (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B80c "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141234,145911" title="über: Sabah : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">10 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141234/1459xx/145911/about.de.html))
 - B86 Philippinen [**&nearr;**](../../../geo/i/141240/about.de.html "Philippinen (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141240,145911" title="über: Philippinen : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">20 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141240/1459xx/145911/about.de.html))
 - B90 Siam [**&nearr;**](../../../geo/i/141242/about.de.html "Siam (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B90 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141242,145911" title="über: Siam : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">27 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141242/1459xx/145911/about.de.html))
-- B94 China [**&nearr;**](../../../geo/i/141253/about.de.html "China (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B94 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141253,145911" title="über: China : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">724 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141253/1459xx/145911/about.de.html))
+- B94 China [**&nearr;**](../../../geo/i/141253/about.de.html "China (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B94 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141253,145911" title="über: China : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">726 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141253/1459xx/145911/about.de.html))
 - B95 Mandschurei [**&nearr;**](../../../geo/i/141258/about.de.html "Mandschurei (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B95 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141258,145911" title="über: Mandschurei : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">29 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141258/1459xx/145911/about.de.html))
 - B99 Mongolei [**&nearr;**](../../../geo/i/141261/about.de.html "Mongolei (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B99 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141261,145911" title="über: Mongolei : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141261/1459xx/145911/about.de.html))
 - B102 Hongkong [**&nearr;**](../../../geo/i/141268/about.de.html "Hongkong (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B102 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141268,145911" title="über: Hongkong : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">18 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141268/1459xx/145911/about.de.html))
@@ -78,7 +78,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - C70 Spanisch-Guinea [**&nearr;**](../../../geo/i/141412/about.de.html "Spanisch-Guinea (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C70 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141412,145911" title="über: Spanisch-Guinea : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">10 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141412/1459xx/145911/about.de.html))
 - C80 Belgisch-Kongo [**&nearr;**](../../../geo/i/141444/about.de.html "Belgisch-Kongo (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C80 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141444,145911" title="über: Belgisch-Kongo : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141444/1459xx/145911/about.de.html))
 - C85 Portugiesisch-Westafrika [**&nearr;**](../../../geo/i/141449/about.de.html "Portugiesisch-Westafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C85 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141449,145911" title="über: Portugiesisch-Westafrika : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">18 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141449/1459xx/145911/about.de.html))
-- C87 Deutsch-Südwestafrika [**&nearr;**](../../../geo/i/141450/about.de.html "Deutsch-Südwestafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C87 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141450,145911" title="über: Deutsch-Südwestafrika : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">651 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141450/1459xx/145911/about.de.html))
+- C87 Deutsch-Südwestafrika [**&nearr;**](../../../geo/i/141450/about.de.html "Deutsch-Südwestafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C87 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141450,145911" title="über: Deutsch-Südwestafrika : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">652 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141450/1459xx/145911/about.de.html))
 - C93 Britisch-Südafrika [**&nearr;**](../../../geo/i/141454/about.de.html "Britisch-Südafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C93 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141454,145911" title="über: Britisch-Südafrika : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">232 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141454/1459xx/145911/about.de.html))
 - C100 Portugiesisch-Ostafrika [**&nearr;**](../../../geo/i/141463/about.de.html "Portugiesisch-Ostafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C100 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141463,145911" title="über: Portugiesisch-Ostafrika : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141463/1459xx/145911/about.de.html))
 - C102 Madagaskar [**&nearr;**](../../../geo/i/141464/about.de.html "Madagaskar (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C102 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141464,145911" title="über: Madagaskar : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141464/1459xx/145911/about.de.html))
@@ -100,8 +100,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E8 Kanada [**&nearr;**](../../../geo/i/141644/about.de.html "Kanada (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E8 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141644,145911" title="über: Kanada : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">103 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141644/1459xx/145911/about.de.html))
-- E15 USA [**&nearr;**](../../../geo/i/141653/about.de.html "USA (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E15 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141653,145911" title="über: USA : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">344 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141653/1459xx/145911/about.de.html))
-- E61 Westindien [**&nearr;**](../../../geo/i/141677/about.de.html "Westindien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E61 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141677,145911" title="über: Westindien : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141677/1459xx/145911/about.de.html))
+- E15 USA [**&nearr;**](../../../geo/i/141653/about.de.html "USA (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E15 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141653,145911" title="über: USA : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">346 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141653/1459xx/145911/about.de.html))
 - E75 Venezuela [**&nearr;**](../../../geo/i/141686/about.de.html "Venezuela (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E75 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141686,145911" title="über: Venezuela : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141686/1459xx/145911/about.de.html))
 - E76 Kolumbien [**&nearr;**](../../../geo/i/141687/about.de.html "Kolumbien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E76 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141687,145911" title="über: Kolumbien : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">21 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141687/1459xx/145911/about.de.html))
 - E77 Ecuador [**&nearr;**](../../../geo/i/141688/about.de.html "Ecuador (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E77 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141688,145911" title="über: Ecuador : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">9 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141688/1459xx/145911/about.de.html))
@@ -119,6 +118,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Welt
 
 - H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141728,145911" title="über: Welt : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">572 Dokumente</a>) ([Mappe](../../../../folder/sh/1417xx/141728/1459xx/145911/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

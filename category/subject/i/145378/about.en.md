@@ -1,6 +1,6 @@
 ---
 title: "n24 Sm15.II Central banking, discount policy"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n24 Sm15.II]{.gray}&#8201; Central banking, discount policy &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711032)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145378`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145378`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 3 folders, 21 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 3 folders, 21 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -39,6 +40,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### Africa
 
 - C25 French protectorate in Morocco [**&nearr;**](../../../geo/i/141358/about.en.html "French protectorate in Morocco (all folders)") [**&uarr;**](../../../geo/about.en.html#C25 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141358,145378" title="about: French protectorate in Morocco : Central banking, discount policy" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1413xx/141358/1453xx/145378/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

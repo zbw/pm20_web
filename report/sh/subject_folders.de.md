@@ -14,7 +14,7 @@ fn-stub: subject_folders
 geoNta | subjectNta | pm20 | docs | geoNtaLong | subjectNtaLong
 -|-|-|-|-|-
 A1 | b | [Europa : Land und Leute, Politik und Wirtschaft, Allgemein](https://pm20.zbw.eu/folder/sh/1408xx/140892/1441xx/144196/about.de.html ) | 14 | A 001 | b
-A1 | c | [Europa : Landeskunde, Allgemein](https://pm20.zbw.eu/folder/sh/1408xx/140892/1441xx/144199/about.de.html ) | 16 | A 001 | c
+A1 | c | [Europa : Landeskunde, Allgemein](https://pm20.zbw.eu/folder/sh/1408xx/140892/1441xx/144199/about.de.html ) | 17 | A 001 | c
 A1 | c1 | [Europa : Expeditionen](https://pm20.zbw.eu/folder/sh/1408xx/140892/1442xx/144200/about.de.html ) | 1 | A 001 | c 01
 A1 | c2 | [Europa : Staatsgrenzen, politische Einteilung](https://pm20.zbw.eu/folder/sh/1408xx/140892/1442xx/144202/about.de.html ) | 2 | A 001 | c 02
 A1 | c5 | [Europa : Landeskunde, Klima](https://pm20.zbw.eu/folder/sh/1408xx/140892/1442xx/144209/about.de.html ) | 10 | A 001 | c 05
@@ -26,7 +26,7 @@ A1 | d Sm20 | [Europa : Bevölkerung und Bevölkerungspolitik, Konferenzen](http
 A1 | d1 | [Europa : Bevölkerungsbewegung, Bevölkerungsstatistik](https://pm20.zbw.eu/folder/sh/1408xx/140892/1442xx/144222/about.de.html ) | 44 | A 001 | d 01
 A1 | d4 | [Europa : Volkscharakter, Sport, Sitten und Gebräuche](https://pm20.zbw.eu/folder/sh/1408xx/140892/1442xx/144228/about.de.html ) | 5 | A 001 | d 04
 A1 | d4 Sm2 | [Europa : Sport](https://pm20.zbw.eu/folder/sh/1408xx/140892/1442xx/144231/about.de.html ) | 1 | A 001 | d 04 SM 002
-A1 | d5 | [Europa : Soziale Zustände, Soziale Lage](https://pm20.zbw.eu/folder/sh/1408xx/140892/1442xx/144233/about.de.html ) | 6 | A 001 | d 05
+A1 | d5 | [Europa : Soziale Zustände, Soziale Lage](https://pm20.zbw.eu/folder/sh/1408xx/140892/1442xx/144233/about.de.html ) | 7 | A 001 | d 05
 A1 | d5 Sm1 | [Europa : Jugendbewegung](https://pm20.zbw.eu/folder/sh/1408xx/140892/1442xx/144234/about.de.html ) | 22 | A 001 | d 05 SM 001
 A1 | d6 | [Europa : Sprache](https://pm20.zbw.eu/folder/sh/1408xx/140892/1442xx/144239/about.de.html ) | 4 | A 001 | d 06
 A1 | d7 | [Europa : Religionswesen, Kirchen](https://pm20.zbw.eu/folder/sh/1408xx/140892/1442xx/144241/about.de.html ) | 4 | A 001 | d 07
@@ -35,27 +35,27 @@ A1 | e | [Europa : Gesundheitliche Verhältnisse, Allgemein](https://pm20.zbw.eu
 A1 | e Sm2 | [Europa : Ernährungsweise als Faktor der Volksgesundheit](https://pm20.zbw.eu/folder/sh/1408xx/140892/1442xx/144279/about.de.html ) | 4 | A 001 | e 00 SM 002
 A1 | e1 | [Europa : Einzelne Krankheiten und deren Bekämpfung](https://pm20.zbw.eu/folder/sh/1408xx/140892/1442xx/144265/about.de.html ) | 2 | A 001 | e 01
 A1 | e4 Sm7 | [Europa : Bäder und Kurorte, Allgemein](https://pm20.zbw.eu/folder/sh/1408xx/140892/1442xx/144275/about.de.html ) | 3 | A 001 | e 04 SM 007
-A1 | f | [Europa : Geschichte, Politik, Allgemein](https://pm20.zbw.eu/folder/sh/1408xx/140892/1442xx/144282/about.de.html ) | 38 | A 001 | f
+A1 | f | [Europa : Geschichte, Politik, Allgemein](https://pm20.zbw.eu/folder/sh/1408xx/140892/1442xx/144282/about.de.html ) | 42 | A 001 | f
 A1 | f Sm1 | [Europa : Vorgeschichte](https://pm20.zbw.eu/folder/sh/1408xx/140892/1444xx/144448/about.de.html ) | 1 | A 001 | f 00 SM 001
 A1 | f1 | [Europa : Geschichtliche Rückblicke](https://pm20.zbw.eu/folder/sh/1408xx/140892/1442xx/144283/about.de.html ) | 1 | A 001 | f 01
-A1 | f2 | [Europa : Geschichtliche Vorgänge](https://pm20.zbw.eu/folder/sh/1408xx/140892/1442xx/144286/about.de.html ) | 145 | A 001 | f 02
+A1 | f2 | [Europa : Geschichtliche Vorgänge](https://pm20.zbw.eu/folder/sh/1408xx/140892/1442xx/144286/about.de.html ) | 148 | A 001 | f 02
 A1 | f2 Sm7 (alt) | [Europa : Antibolschewismus und Antikommunismus (-1945)](https://pm20.zbw.eu/folder/sh/1408xx/140892/1442xx/144293/about.de.html ) | 20 | A 001 | f 02 SM 007 (alt)
 A1 | f2 Sm11 | [Europa : Frontkämpfer, Allgemein](https://pm20.zbw.eu/folder/sh/1408xx/140892/1442xx/144297/about.de.html ) | 1 | A 001 | f 02 SM 011
 A1 | f4 | [Europa : Verfassung, Staatsform](https://pm20.zbw.eu/folder/sh/1408xx/140892/1443xx/144355/about.de.html ) | 6 | A 001 | f 04
 A1 | f5 | [Europa : Parteiwesen](https://pm20.zbw.eu/folder/sh/1408xx/140892/1443xx/144395/about.de.html ) | 4 | A 001 | f 05
-A1 | g | [Europa : Außenpolitik und politische Beziehungen zum Ausland, Allgemein](https://pm20.zbw.eu/folder/sh/1408xx/140892/1444xx/144451/about.de.html ) | 1208 | A 001 | g
+A1 | g | [Europa : Außenpolitik und politische Beziehungen zum Ausland, Allgemein](https://pm20.zbw.eu/folder/sh/1408xx/140892/1444xx/144451/about.de.html ) | 1209 | A 001 | g
 A1 | g Sm1 | [Europa : Neutralität](https://pm20.zbw.eu/folder/sh/1408xx/140892/1445xx/144570/about.de.html ) | 19 | A 001 | g 00 SM 001
 A1 | g Sm12.I (alt) | [Europa : Politische und kulturelle Propaganda, Allgemein](https://pm20.zbw.eu/folder/sh/1408xx/140892/1445xx/144582/about.de.html ) | 1 | A 001 | g 00 SM 012.01 (alt)
 A1 | g Sm15 | [Europa : Beziehungen zum Völkerbund](https://pm20.zbw.eu/folder/sh/1408xx/140892/1445xx/144589/about.de.html ) | 15 | A 001 | g 00 SM 015
 A1 | g Sm20 | [Europa : Außenpolitik, Konferenzen](https://pm20.zbw.eu/folder/sh/1408xx/140892/1535xx/153593/about.de.html ) | 16 | A 001 | g 00 SM 020
 A1 | g1 | [Europa : Politische Beziehungen zu einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1408xx/140892/1444xx/144452/about.de.html ) | 2 | A 001 | g 01
-A1 | g4 | [Europa : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein](https://pm20.zbw.eu/folder/sh/1408xx/140892/1444xx/144470/about.de.html ) | 251 | A 001 | g 04
-A1 | g4 Sm1.I | [Europa : Zollpolitik, Allgemein](https://pm20.zbw.eu/folder/sh/1408xx/140892/1444xx/144471/about.de.html ) | 23 | A 001 | g 04 SM 001.01
+A1 | g4 | [Europa : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein](https://pm20.zbw.eu/folder/sh/1408xx/140892/1444xx/144470/about.de.html ) | 252 | A 001 | g 04
+A1 | g4 Sm1.I | [Europa : Zollpolitik, Allgemein](https://pm20.zbw.eu/folder/sh/1408xx/140892/1444xx/144471/about.de.html ) | 26 | A 001 | g 04 SM 001.01
 A1 | g4 Sm1.II | [Europa : Zollpolitik, Meistbegünstigung](https://pm20.zbw.eu/folder/sh/1408xx/140892/1444xx/144472/about.de.html ) | 2 | A 001 | g 04 SM 001.02
 A1 | g4 Sm1.III | [Europa : Zollpolitik, Einfuhrkontingentierung, Ein-, Aus- und Durchfuhrverbote, Allgemein](https://pm20.zbw.eu/folder/sh/1408xx/140892/1444xx/144473/about.de.html ) | 0 | A 001 | g 04 SM 001.03
 A1 | g4 Sm3.I | [Europa : Staatliche Wirtschaftspropaganda, Allgemein](https://pm20.zbw.eu/folder/sh/1408xx/140892/1444xx/144482/about.de.html ) | 23 | A 001 | g 04 SM 003.01
 A1 | g4 Sm3.II | [Europa : Staatliche Wirtschaftspropaganda, Ausstellungen und Messen, Allgemein](https://pm20.zbw.eu/folder/sh/1408xx/140892/1444xx/144483/about.de.html ) | 2 | A 001 | g 04 SM 003.02
-A1 | g4 Sm20 | [Europa : Handelspolitik u. allg. Wirtschaftspolitik, Konferenzen ](https://pm20.zbw.eu/folder/sh/1408xx/140892/1503xx/150373/about.de.html ) | 73 | A 001 | g 04 SM 020
+A1 | g4 Sm20 | [Europa : Handelspolitik u. allg. Wirtschaftspolitik, Konferenzen ](https://pm20.zbw.eu/folder/sh/1408xx/140892/1503xx/150373/about.de.html ) | 74 | A 001 | g 04 SM 020
 A1 | g4 Sm21 | [Europa : Handelspolitische und zollrechtliche Massnahmen aus dem Deutschen Handelsarchiv](https://pm20.zbw.eu/folder/sh/1408xx/140892/1444xx/144492/about.de.html ) | 1 | A 001 | g 04 SM 021
 A1 | g4 Sm25 | [Europa : Ausgleich laufender Aussenhandelsforderungen und -schulden](https://pm20.zbw.eu/folder/sh/1408xx/140892/1444xx/144493/about.de.html ) | 19 | A 001 | g 04 SM 025
 A1 | g4 Sm501 (A1) | [Europa : Interessengemeinschaft der Agrarstaaten](https://pm20.zbw.eu/folder/sh/1408xx/140892/1444xx/144495/about.de.html ) | 335 | A 001 | g 04 SM 501 (A 001)
@@ -88,7 +88,7 @@ A1 | m2 Sm4.I | [Europa : Zollformalitäten, Allgemein](https://pm20.zbw.eu/fold
 A1 | m3 | [Europa : Steuerwesen (Finanzwesen)](https://pm20.zbw.eu/folder/sh/1408xx/140892/1448xx/144868/about.de.html ) | 4 | A 001 | m 03
 A1 | n | [Europa : Wirtschaft, Allgemein](https://pm20.zbw.eu/folder/sh/1408xx/140892/1449xx/144930/about.de.html ) | 60 | A 001 | n
 A1 | n Sm1.I | [Europa : Fremdländische Kapitalanlagen, privatwirtschaftliche Interessen, Allgemein](https://pm20.zbw.eu/folder/sh/1408xx/140892/1457xx/145774/about.de.html ) | 2 | A 001 | n 00 SM 001.01
-A1 | n Sm1.II | [Europa : Fremdländische Kapitalanlagen, privatwirtschaftliche Interessen, Angehöriger Einzelner Länder](https://pm20.zbw.eu/folder/sh/1408xx/140892/1457xx/145775/about.de.html ) | 16 | A 001 | n 00 SM 001.02
+A1 | n Sm1.II | [Europa : Fremdländische Kapitalanlagen, privatwirtschaftliche Interessen, Angehöriger Einzelner Länder](https://pm20.zbw.eu/folder/sh/1408xx/140892/1457xx/145775/about.de.html ) | 18 | A 001 | n 00 SM 001.02
 A1 | n Sm2.I | [Europa : Zahlungsbilanz, Allgemein](https://pm20.zbw.eu/folder/sh/1408xx/140892/1457xx/145776/about.de.html ) | 2 | A 001 | n 00 SM 002.01
 A1 | n Sm2.II | [Europa : Zahlungsbilanz, im Verhältnis zu anderen Ländern](https://pm20.zbw.eu/folder/sh/1408xx/140892/1457xx/145777/about.de.html ) | 0 | A 001 | n 00 SM 002.02
 A1 | n Sm3.I | [Europa : Wirtschaftsstatistik, Allgemein](https://pm20.zbw.eu/folder/sh/1408xx/140892/1457xx/145778/about.de.html ) | 1 | A 001 | n 00 SM 003.01
@@ -123,7 +123,7 @@ A1 | n1 Sm16 | [Europa : Massnahmen zur Erhaltung der Betriebe und Vermehrung de
 A1 | n1 Sm19 | [Europa : Sicherung und Überwachung der Volksernährung](https://pm20.zbw.eu/folder/sh/1408xx/140892/1449xx/144952/about.de.html ) | 28 | A 001 | n 01 SM 019
 A1 | n1 Sm21 | [Europa : Förderung der Landbevölkerung, Bekämpfung der Landflucht, Allgemein](https://pm20.zbw.eu/folder/sh/1408xx/140892/1449xx/144953/about.de.html ) | 1 | A 001 | n 01 SM 021
 A1 | n1 Sm61 | [Europa : Förderung der Werkstoffumstellung](https://pm20.zbw.eu/folder/sh/1408xx/140892/1449xx/144956/about.de.html ) | 1 | A 001 | n 01 SM 061
-A1 | n2 | [Europa : Berichte über die wirtschaftliche Lage](https://pm20.zbw.eu/folder/sh/1408xx/140892/1449xx/144972/about.de.html ) | 176 | A 001 | n 02
+A1 | n2 | [Europa : Berichte über die wirtschaftliche Lage](https://pm20.zbw.eu/folder/sh/1408xx/140892/1449xx/144972/about.de.html ) | 177 | A 001 | n 02
 A1 | n2 Sm3 | [Europa : Lage und Statistik von Erwerbsgesellschaften verschiedener Wirtschaftszweige, Übersichten](https://pm20.zbw.eu/folder/sh/1408xx/140892/1449xx/144975/about.de.html ) | 1 | A 001 | n 02 SM 003
 A1 | n2 Sm4 | [Europa : Arbeitsmarkt, Erwerbslosenstatistik](https://pm20.zbw.eu/folder/sh/1408xx/140892/1449xx/144976/about.de.html ) | 12 | A 001 | n 02 SM 004
 A1 | n2 Sm11.II | [Europa : Übersichten der Preisentwicklung, Kosten der Lebenshaltung](https://pm20.zbw.eu/folder/sh/1408xx/140892/1450xx/145003/about.de.html ) | 1 | A 001 | n 02 SM 011.02
@@ -217,7 +217,7 @@ A1 | n32b | [Europa : Schiffsverkehr mit einzelnen Ländern](https://pm20.zbw.eu
 A1 | n33 | [Europa : Binnenschiffahrt](https://pm20.zbw.eu/folder/sh/1408xx/140892/1456xx/145646/about.de.html ) | 86 | A 001 | n 33
 A1 | n33 Sm20 | [Europa : Binnenschiffahrt, Konferenzen](https://pm20.zbw.eu/folder/sh/1408xx/140892/1943xx/194370/about.de.html ) | 3 | A 001 | n 33 SM 020
 A1 | n33a | [Europa : Einzelne Binnenschiffahrtsstrassen und Seekanäle](https://pm20.zbw.eu/folder/sh/1408xx/140892/1456xx/145651/about.de.html ) | 46 | A 001 | n 33a
-A1 | n33a Sm1 | [Europa : Einzelne Binnenschiffahrtsstrassen und Seekanäle, Allg](https://pm20.zbw.eu/folder/sh/1408xx/140892/1456xx/145652/about.de.html ) | 151 | A 001 | n 33a SM 001
+A1 | n33a Sm1 | [Europa : Einzelne Binnenschiffahrtsstrassen und Seekanäle, Allg](https://pm20.zbw.eu/folder/sh/1408xx/140892/1456xx/145652/about.de.html ) | 152 | A 001 | n 33a SM 001
 A1 | n33a Sm2 | [Europa : Einzelne Binnenschiffahrtsstrassen und Seekanäle, Hoheitsrechte, Politische Fragen](https://pm20.zbw.eu/folder/sh/1408xx/140892/1456xx/145653/about.de.html ) | 162 | A 001 | n 33a SM 002
 A1 | n33a Sm3 | [Europa : Einzelne Binnenschiffahrtsstrassen und Seekanäle, Verwaltung](https://pm20.zbw.eu/folder/sh/1408xx/140892/1456xx/145654/about.de.html ) | 334 | A 001 | n 33a SM 003
 A1 | n33a Sm4 | [Europa : Einzelne Binnenschiffahrtsstrassen und Seekanäle, Bau, Regulierung](https://pm20.zbw.eu/folder/sh/1408xx/140892/1456xx/145655/about.de.html ) | 227 | A 001 | n 33a SM 004
@@ -677,7 +677,7 @@ A6 | q Sm8 | [Südosteuropa : Juden, Judenfeindlichkeit und Antisemitismus bis 1
 A6 | q Sm12.II | [Südosteuropa : Hilfsaktionen für ..., (Angehörige) Einzelne Staaten](https://pm20.zbw.eu/folder/sh/1409xx/140900/1459xx/145956/about.de.html ) | 2 | A 006 | q SM 012.02
 A7 | a | [Orient : Literatur, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140902/1423xx/142393/about.de.html ) | 9 | A 007 | a
 A7 | b | [Orient : Land und Leute, Politik und Wirtschaft, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140902/1441xx/144196/about.de.html ) | 6 | A 007 | b
-A7 | c | [Orient : Landeskunde, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140902/1441xx/144199/about.de.html ) | 0 | A 007 | c
+A7 | c | [Orient : Landeskunde, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140902/1441xx/144199/about.de.html ) | 1 | A 007 | c
 A7 | d1 Sm4.II | [Orient : Nationale Angehörige im Ausland, in einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140902/1442xx/144224/about.de.html ) | 1 | A 007 | d 01 SM 004.02
 A7 | d4 | [Orient : Volkscharakter, Sport, Sitten und Gebräuche](https://pm20.zbw.eu/folder/sh/1409xx/140902/1442xx/144228/about.de.html ) | 2 | A 007 | d 04
 A7 | d5 | [Orient : Soziale Zustände, Soziale Lage](https://pm20.zbw.eu/folder/sh/1409xx/140902/1442xx/144233/about.de.html ) | 4 | A 007 | d 05
@@ -704,7 +704,7 @@ A7 | g4a Sm1 | [Orient : Wirtschaftliche Kompensationen, Warenaustausch](https:/
 A7 | g4a Sm19 | [Orient : Sachverständigen- und Facharbeiteraustausch, Studienkommissionen](https://pm20.zbw.eu/folder/sh/1409xx/140902/1445xx/144549/about.de.html ) | 1 | A 007 | g 04a SM 019
 A7 | g4a Sm25 | [Orient : Ausgleich laufender Aussenhandelsforderungen und -schulden, Einzelne Länder](https://pm20.zbw.eu/folder/sh/1409xx/140902/1445xx/144554/about.de.html ) | 1 | A 007 | g 04a SM 025
 A7 | g6 | [Orient : Interessen fremder Staaten in ..., Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140902/1445xx/144565/about.de.html ) | 3 | A 007 | g 06
-A7 | g6 Sm3 | [Orient : Interessen einzelner Staaten in ...](https://pm20.zbw.eu/folder/sh/1409xx/140902/1445xx/144568/about.de.html ) | 59 | A 007 | g 06 SM 003
+A7 | g6 Sm3 | [Orient : Interessen einzelner Staaten in ...](https://pm20.zbw.eu/folder/sh/1409xx/140902/1445xx/144568/about.de.html ) | 60 | A 007 | g 06 SM 003
 A7 | i | [Orient : Rechtspflege, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140902/1446xx/144694/about.de.html ) | 0 | A 007 | i
 A7 | k | [Orient : Wissenschaft und Bildungswesen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140902/1447xx/144713/about.de.html ) | 1 | A 007 | k
 A7 | k1 | [Orient : Hochschulwesen, Forschungsanstalten Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140902/1447xx/144714/about.de.html ) | 3 | A 007 | k 01
@@ -740,33 +740,33 @@ A7 | n21 Sm4 | [Orient : Literatur](https://pm20.zbw.eu/folder/sh/1409xx/140902/
 A7 | n23 | [Orient : Geld und Währung](https://pm20.zbw.eu/folder/sh/1409xx/140902/1453xx/145305/about.de.html ) | 21 | A 007 | n 23
 A7 | n23 Sm4 | [Orient : Zahlungsmittel (Ausgabe, Beschreibung, Fälschung)](https://pm20.zbw.eu/folder/sh/1409xx/140902/1453xx/145315/about.de.html ) | 1 | A 007 | n 23 SM 004
 A7 | n24 | [Orient : Kreditwesen und Bankwesen](https://pm20.zbw.eu/folder/sh/1409xx/140902/1453xx/145339/about.de.html ) | 2 | A 007 | n 24
-A7 | n26 Sm1 | [Orient : Handelskammern, Industriekammern und Gewerbekammern, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140902/1454xx/145492/about.de.html ) | 0 | A 007 | n 26 SM 001
+A7 | n26 Sm1 | [Orient : Handelskammern, Industriekammern und Gewerbekammern, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140902/1454xx/145492/about.de.html ) | 5 | A 007 | n 26 SM 001
 A7 | n28 | [Orient : Verkehrswesen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140902/1455xx/145509/about.de.html ) | 18 | A 007 | n 28
-A7 | n28 Sm2.I | [Orient : Reiseverkehr, Fremdenverkehr, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140902/1455xx/145511/about.de.html ) | 1 | A 007 | n 28 SM 002.01
+A7 | n28 Sm2.I | [Orient : Reiseverkehr, Fremdenverkehr, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140902/1455xx/145511/about.de.html ) | 2 | A 007 | n 28 SM 002.01
 A7 | n28 Sm4 | [Orient : Kraftfahrzeugverkehr, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140902/1455xx/145515/about.de.html ) | 1 | A 007 | n 28 SM 004
 A7 | n28 Sm5 | [Orient : Konkurrenz und Zusammenarbeit der verschiedenartigen Verkehrsmittel](https://pm20.zbw.eu/folder/sh/1409xx/140902/1455xx/145516/about.de.html ) | 0 | A 007 | n 28 SM 005
-A7 | n29 | [Orient : Landstrassen, Wege, Brücken (einschl. ihres Verkehrs)](https://pm20.zbw.eu/folder/sh/1409xx/140902/1455xx/145524/about.de.html ) | 9 | A 007 | n 29
+A7 | n29 | [Orient : Landstrassen, Wege, Brücken (einschl. ihres Verkehrs)](https://pm20.zbw.eu/folder/sh/1409xx/140902/1455xx/145524/about.de.html ) | 10 | A 007 | n 29
 A7 | n29 Sm1 | [Orient : Autospezialstrassen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140902/1455xx/145525/about.de.html ) | 1 | A 007 | n 29 SM 001
-A7 | n30 | [Orient : Eisenbahnwesen](https://pm20.zbw.eu/folder/sh/1409xx/140902/1455xx/145531/about.de.html ) | 36 | A 007 | n 30
+A7 | n30 | [Orient : Eisenbahnwesen](https://pm20.zbw.eu/folder/sh/1409xx/140902/1455xx/145531/about.de.html ) | 37 | A 007 | n 30
 A7 | n30b | [Orient : Eisenbahnverbindungen mit einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140902/1455xx/145562/about.de.html ) | 1 | A 007 | n 30b
 A7 | n31 | [Orient : Hafenanlagen und deren Verwaltung](https://pm20.zbw.eu/folder/sh/1409xx/140902/1455xx/145563/about.de.html ) | 2 | A 007 | n 31
-A7 | n32 | [Orient : Seeschiffahrt](https://pm20.zbw.eu/folder/sh/1409xx/140902/1455xx/145567/about.de.html ) | 0 | A 007 | n 32
+A7 | n32 | [Orient : Seeschiffahrt](https://pm20.zbw.eu/folder/sh/1409xx/140902/1455xx/145567/about.de.html ) | 5 | A 007 | n 32
 A7 | n32 Sm17.I | [Orient : Seerecht, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140902/1455xx/145588/about.de.html ) | 0 | A 007 | n 32 SM 017.01
-A7 | n32 Sm22 | [Orient : Seeschiffahrt, Frachtfragen](https://pm20.zbw.eu/folder/sh/1409xx/140902/1455xx/145595/about.de.html ) | 0 | A 007 | n 32 SM 022
+A7 | n32 Sm22 | [Orient : Seeschiffahrt, Frachtfragen](https://pm20.zbw.eu/folder/sh/1409xx/140902/1455xx/145595/about.de.html ) | 3 | A 007 | n 32 SM 022
 A7 | n32 Sm27.I | [Orient : Hafenabgaben, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140902/1456xx/145600/about.de.html ) | 0 | A 007 | n 32 SM 027.01
 A7 | n32 Sm33 | [Orient : Tankschiffahrt, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140902/1456xx/145613/about.de.html ) | 0 | A 007 | n 32 SM 033
-A7 | n32b | [Orient : Schiffsverkehr mit einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140902/1456xx/145645/about.de.html ) | 21 | A 007 | n 32b
+A7 | n32b | [Orient : Schiffsverkehr mit einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140902/1456xx/145645/about.de.html ) | 23 | A 007 | n 32b
 A7 | n33 | [Orient : Binnenschiffahrt](https://pm20.zbw.eu/folder/sh/1409xx/140902/1456xx/145646/about.de.html ) | 0 | A 007 | n 33
 A7 | n33a | [Orient : Einzelne Binnenschiffahrtsstrassen und Seekanäle](https://pm20.zbw.eu/folder/sh/1409xx/140902/1456xx/145651/about.de.html ) | 1 | A 007 | n 33a
 A7 | n34 | [Orient : Postwesen, Telegraphenwesen und Fernsprechwesen](https://pm20.zbw.eu/folder/sh/1409xx/140902/1456xx/145662/about.de.html ) | 0 | A 007 | n 34
 A7 | n34 Sm1 | [Orient : Drahtlose Telegraphie und Telephonie, Rundfunk](https://pm20.zbw.eu/folder/sh/1409xx/140902/1456xx/145663/about.de.html ) | 4 | A 007 | n 34 SM 001
 A7 | n34 Sm7 | [Orient : Fernsehen](https://pm20.zbw.eu/folder/sh/1409xx/140902/1456xx/145669/about.de.html ) | 0 | A 007 | n 34 SM 007
-A7 | n34 Sm60 | [Orient : Postwesen, Telegraphenwesen und Fernsprechwesen, Technisches](https://pm20.zbw.eu/folder/sh/1409xx/140902/1456xx/145675/about.de.html ) | 2 | A 007 | n 34 SM 060
+A7 | n34 Sm60 | [Orient : Postwesen, Telegraphenwesen und Fernsprechwesen, Technisches](https://pm20.zbw.eu/folder/sh/1409xx/140902/1456xx/145675/about.de.html ) | 4 | A 007 | n 34 SM 060
 A7 | n34b | [Orient : Postwesen, Telegraphenwesen und Fernsprechwesen mit einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140902/1456xx/145680/about.de.html ) | 2 | A 007 | n 34b
-A7 | n35 | [Orient : Luftschiffahrt, Flugwesen, Luftverkehr, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140902/1456xx/145681/about.de.html ) | 6 | A 007 | n 35
+A7 | n35 | [Orient : Luftschiffahrt, Flugwesen, Luftverkehr, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140902/1456xx/145681/about.de.html ) | 8 | A 007 | n 35
 A7 | n35 Sm7 | [Orient : Verbindung des Luftverkehrs mit Schiffahrt und Landverkehr](https://pm20.zbw.eu/folder/sh/1409xx/140902/1456xx/145690/about.de.html ) | 0 | A 007 | n 35 SM 007
 A7 | n35 Sm8 | [Orient : Luftschiffahrt, Gütertransport](https://pm20.zbw.eu/folder/sh/1409xx/140902/1456xx/145692/about.de.html ) | 1 | A 007 | n 35 SM 008
-A7 | n35b | [Orient : Luftverkehr mit einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140902/1457xx/145706/about.de.html ) | 2 | A 007 | n 35b
+A7 | n35b | [Orient : Luftverkehr mit einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140902/1457xx/145706/about.de.html ) | 3 | A 007 | n 35b
 A7 | n36 | [Orient : Nachrichtenwesen und Pressewesen](https://pm20.zbw.eu/folder/sh/1409xx/140902/1457xx/145707/about.de.html ) | 6 | A 007 | n 36
 A7 | n36 Sm7 | [Orient : Nachrichten- und Pressewesen, Inseratenwesen](https://pm20.zbw.eu/folder/sh/1409xx/140902/1457xx/145714/about.de.html ) | 0 | A 007 | n 36 SM 007
 A7 | n36 Sm8 | [Orient : Beziehungen zur Presse des Auslands](https://pm20.zbw.eu/folder/sh/1409xx/140902/1457xx/145715/about.de.html ) | 0 | A 007 | n 36 SM 008
@@ -781,16 +781,16 @@ A7 | p | [Orient : Siedlung und Wanderung](https://pm20.zbw.eu/folder/sh/1409xx/
 A7 | p2 | [Orient : Siedlungspolitik](https://pm20.zbw.eu/folder/sh/1409xx/140902/1459xx/145915/about.de.html ) | 2 | A 007 | p 02
 A7 | p3 | [Orient : Einwanderung und Einwanderungspolitik](https://pm20.zbw.eu/folder/sh/1409xx/140902/1459xx/145917/about.de.html ) | 1 | A 007 | p 03
 A7 | p4 | [Orient : Auswanderung und Auswanderungspolitik](https://pm20.zbw.eu/folder/sh/1409xx/140902/1459xx/145925/about.de.html ) | 0 | A 007 | p 04
-A7 | p6 | [Orient : Siedlungen](https://pm20.zbw.eu/folder/sh/1409xx/140902/1459xx/145931/about.de.html ) | 0 | A 007 | p 06
-A7 | p7 | [Orient : Binnenwanderungsbewegungen](https://pm20.zbw.eu/folder/sh/1409xx/140902/1459xx/145939/about.de.html ) | 4 | A 007 | p 07
+A7 | p6 | [Orient : Siedlungen](https://pm20.zbw.eu/folder/sh/1409xx/140902/1459xx/145931/about.de.html ) | 1 | A 007 | p 06
+A7 | p7 | [Orient : Binnenwanderungsbewegungen](https://pm20.zbw.eu/folder/sh/1409xx/140902/1459xx/145939/about.de.html ) | 5 | A 007 | p 07
 A7 | q Sm2.I | [Orient : Handel und Versorgung mit Waffen, Munition und sonst. Kriegsmaterial, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140902/1459xx/145942/about.de.html ) | 2 | A 007 | q SM 002.01
-A7 | q Sm2.IIa | [Orient : Kriegsmateriallieferungen durch das Ausland, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140902/1459xx/145943/about.de.html ) | 15 | A 007 | q SM 002.02a
-A7 | q Sm2.IIb | [Orient : Kriegsmateriallieferungen durch das Ausland, Durch Einzelne Länder](https://pm20.zbw.eu/folder/sh/1409xx/140902/1459xx/145944/about.de.html ) | 16 | A 007 | q SM 002.02b
-A7 | q Sm8 | [Orient : Juden, Judenfeindlichkeit und Antisemitismus bis 1945](https://pm20.zbw.eu/folder/sh/1409xx/140902/1459xx/145952/about.de.html ) | 7 | A 007 | q SM 008
+A7 | q Sm2.IIa | [Orient : Kriegsmateriallieferungen durch das Ausland, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140902/1459xx/145943/about.de.html ) | 18 | A 007 | q SM 002.02a
+A7 | q Sm2.IIb | [Orient : Kriegsmateriallieferungen durch das Ausland, Durch Einzelne Länder](https://pm20.zbw.eu/folder/sh/1409xx/140902/1459xx/145944/about.de.html ) | 21 | A 007 | q SM 002.02b
+A7 | q Sm8 | [Orient : Juden, Judenfeindlichkeit und Antisemitismus bis 1945](https://pm20.zbw.eu/folder/sh/1409xx/140902/1459xx/145952/about.de.html ) | 9 | A 007 | q SM 008
 A7 | q Sm12.I | [Orient : Hilfsaktionen für ..., Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140902/1459xx/145955/about.de.html ) | 0 | A 007 | q SM 012.01
 A7 | q Sm12.II | [Orient : Hilfsaktionen für ..., (Angehörige) Einzelne Staaten](https://pm20.zbw.eu/folder/sh/1409xx/140902/1459xx/145956/about.de.html ) | 1 | A 007 | q SM 012.02
 A7 | q Sm12a | [Orient : Hilfsaktionen für das Ausland](https://pm20.zbw.eu/folder/sh/1409xx/140902/1604xx/160414/about.de.html ) | 0 | A 007 | q SM 012a
-A7 | q Sm16 | [Orient : Sklavenfrage](https://pm20.zbw.eu/folder/sh/1409xx/140902/1459xx/145962/about.de.html ) | 0 | A 007 | q SM 016
+A7 | q Sm16 | [Orient : Sklavenfrage](https://pm20.zbw.eu/folder/sh/1409xx/140902/1459xx/145962/about.de.html ) | 1 | A 007 | q SM 016
 A8 | d7 | [Russische Randstaaten : Religionswesen, Kirchen](https://pm20.zbw.eu/folder/sh/1409xx/140904/1442xx/144241/about.de.html ) | 0 | A 008 | d 07
 A8 | f2 | [Russische Randstaaten : Geschichtliche Vorgänge](https://pm20.zbw.eu/folder/sh/1409xx/140904/1442xx/144286/about.de.html ) | 28 | A 008 | f 02
 A8 | f2 Sm20 | [Russische Randstaaten : Geschichtliche Vorgänge, Konferenzen](https://pm20.zbw.eu/folder/sh/1409xx/140904/1506xx/150605/about.de.html ) | 124 | A 008 | f 02 SM 020
@@ -824,33 +824,33 @@ A8 | n30b | [Russische Randstaaten : Eisenbahnverbindungen mit einzelnen Länder
 A8 | n32 | [Russische Randstaaten : Seeschiffahrt](https://pm20.zbw.eu/folder/sh/1409xx/140904/1455xx/145567/about.de.html ) | 1 | A 008 | n 32
 A8 | n35 | [Russische Randstaaten : Luftschiffahrt, Flugwesen, Luftverkehr, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140904/1456xx/145681/about.de.html ) | 1 | A 008 | n 35
 A8 | o3 | [Russische Randstaaten : Minderheiten aus einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140904/1822xx/182220/about.de.html ) | 2 | A 008 | o 03
-A9 | b | [Hamburg : Land und Leute, Politik und Wirtschaft, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1441xx/144196/about.de.html ) | 48 | A 009 | b
-A9 | c | [Hamburg : Landeskunde, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1441xx/144199/about.de.html ) | 173 | A 009 | c
+A9 | b | [Hamburg : Land und Leute, Politik und Wirtschaft, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1441xx/144196/about.de.html ) | 49 | A 009 | b
+A9 | c | [Hamburg : Landeskunde, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1441xx/144199/about.de.html ) | 180 | A 009 | c
 A9 | c Sm1 (alt) | [Hamburg : Naturschutzparks (bis 1945)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144217/about.de.html ) | 1 | A 009 | c 00 SM 001 (alt)
 A9 | c Sm2 | [Hamburg : Kartographie](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144218/about.de.html ) | 9 | A 009 | c 00 SM 002
 A9 | c5 | [Hamburg : Landeskunde, Klima](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144209/about.de.html ) | 11 | A 009 | c 05
 A9 | c7 | [Hamburg : Landeskunde, Pflanzenreich](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144211/about.de.html ) | 3 | A 009 | c 07
 A9 | c8 | [Hamburg : Landeskunde, Tierreich](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144212/about.de.html ) | 4 | A 009 | c 08
-A9 | c8 Sm1 | [Hamburg : Tierschutz](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144213/about.de.html ) | 20 | A 009 | c 08 SM 001
+A9 | c8 Sm1 | [Hamburg : Tierschutz](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144213/about.de.html ) | 21 | A 009 | c 08 SM 001
 A9 | c9 | [Hamburg : Landeskunde, Landschaften, Beschreibung einzelner Orte und Gegenden](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144214/about.de.html ) | 101 | A 009 | c 09
 A9 | c10 | [Hamburg : Landeskunde, Elementare Katastrophen, Naturkatastrophen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144215/about.de.html ) | 20 | A 009 | c 10
 A9 | d | [Hamburg : Bevölkerung und Bevölkerungspolitik](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144221/about.de.html ) | 0 | A 009 | d
-A9 | d Sm2 | [Hamburg : Personenstandsregister](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144260/about.de.html ) | 21 | A 009 | d 00 SM 002
+A9 | d Sm2 | [Hamburg : Personenstandsregister](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144260/about.de.html ) | 22 | A 009 | d 00 SM 002
 A9 | d Sm20 | [Hamburg : Bevölkerung und Bevölkerungspolitik, Konferenzen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1503xx/150369/about.de.html ) | 0 | A 009 | d 00 SM 020
-A9 | d1 | [Hamburg : Bevölkerungsbewegung, Bevölkerungsstatistik](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144222/about.de.html ) | 141 | A 009 | d 01
+A9 | d1 | [Hamburg : Bevölkerungsbewegung, Bevölkerungsstatistik](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144222/about.de.html ) | 166 | A 009 | d 01
 A9 | d1a | [Hamburg : Bevölkerungsbewegung und Bevölkerungsstatistik einzelner Provinzen, Bundesstaaten und Städte](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144225/about.de.html ) | 8 | A 009 | d 01a
 A9 | d4 | [Hamburg : Volkscharakter, Sport, Sitten und Gebräuche](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144228/about.de.html ) | 13 | A 009 | d 04
-A9 | d4 Sm1.II | [Hamburg : Geheimbünde, Einzelne](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144230/about.de.html ) | 0 | A 009 | d 04 SM 001.02
-A9 | d4 Sm2 | [Hamburg : Sport](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144231/about.de.html ) | 171 | A 009 | d 04 SM 002
+A9 | d4 Sm1.II | [Hamburg : Geheimbünde, Einzelne](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144230/about.de.html ) | 2 | A 009 | d 04 SM 001.02
+A9 | d4 Sm2 | [Hamburg : Sport](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144231/about.de.html ) | 177 | A 009 | d 04 SM 002
 A9 | d4 Sm50 | [Hamburg : Volkscharakter, Sport, Sitten und Gebräuche, Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1535xx/153514/about.de.html ) | 1 | A 009 | d 04 SM 050
 A9 | d5 | [Hamburg : Soziale Zustände, Soziale Lage](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144233/about.de.html ) | 38 | A 009 | d 05
-A9 | d5 Sm1 | [Hamburg : Jugendbewegung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144234/about.de.html ) | 174 | A 009 | d 05 SM 001
-A9 | d5 Sm2 | [Hamburg : Soziale Stellung der Frau](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144235/about.de.html ) | 46 | A 009 | d 05 SM 002
-A9 | d5 Sm3 | [Hamburg : Kriminalität](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144236/about.de.html ) | 10 | A 009 | d 05 SM 003
+A9 | d5 Sm1 | [Hamburg : Jugendbewegung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144234/about.de.html ) | 175 | A 009 | d 05 SM 001
+A9 | d5 Sm2 | [Hamburg : Soziale Stellung der Frau](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144235/about.de.html ) | 49 | A 009 | d 05 SM 002
+A9 | d5 Sm3 | [Hamburg : Kriminalität](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144236/about.de.html ) | 12 | A 009 | d 05 SM 003
 A9 | d5 Sm4 | [Hamburg : Frauenhandel, Kinderhandel](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144237/about.de.html ) | 4 | A 009 | d 05 SM 004
 A9 | d6 | [Hamburg : Sprache](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144239/about.de.html ) | 35 | A 009 | d 06
 A9 | d6 Sm40 | [Hamburg : Sprache, Berufe und Ausbildung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1855xx/185530/about.de.html ) | 16 | A 009 | d 06 SM 040
-A9 | d7 | [Hamburg : Religionswesen, Kirchen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144241/about.de.html ) | 152 | A 009 | d 07
+A9 | d7 | [Hamburg : Religionswesen, Kirchen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144241/about.de.html ) | 157 | A 009 | d 07
 A9 | d7 Sm1 | [Hamburg : Islam](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144242/about.de.html ) | 5 | A 009 | d 07 SM 001
 A9 | d7 Sm2 | [Hamburg : Römisch-katholische Kirche](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144243/about.de.html ) | 13 | A 009 | d 07 SM 002
 A9 | d7 Sm20 | [Hamburg : Religionswesen, Konferenzen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1855xx/185531/about.de.html ) | 0 | A 009 | d 07 SM 020
@@ -860,31 +860,31 @@ A9 | d8 | [Hamburg : Missionswesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/
 A9 | d9 | [Hamburg : Geistige Kultur, Wissenschaftliche Leistungen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144254/about.de.html ) | 12 | A 009 | d 09
 A9 | d9 Sm1 | [Hamburg : Kampf gegen Schmutz und Schund, Jugendschutz](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144255/about.de.html ) | 4 | A 009 | d 09 SM 001
 A9 | d11 Sm1 (alt) | [Hamburg : Archäologische Ausgrabungen und Funde](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144258/about.de.html ) | 2 | A 009 | d 11 SM 001 (alt)
-A9 | e | [Hamburg : Gesundheitliche Verhältnisse, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144264/about.de.html ) | 26 | A 009 | e
+A9 | e | [Hamburg : Gesundheitliche Verhältnisse, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144264/about.de.html ) | 27 | A 009 | e
 A9 | e Sm2 | [Hamburg : Ernährungsweise als Faktor der Volksgesundheit](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144279/about.de.html ) | 2 | A 009 | e 00 SM 002
-A9 | e1 | [Hamburg : Einzelne Krankheiten und deren Bekämpfung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144265/about.de.html ) | 52 | A 009 | e 01
-A9 | e4 | [Hamburg : Medizinalwesen, Hygiene, Sanitäre Einrichtungen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144266/about.de.html ) | 204 | A 009 | e 04
-A9 | e4 Sm1 | [Hamburg : Bestattungswesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144267/about.de.html ) | 67 | A 009 | e 04 SM 001
-A9 | e4 Sm2 | [Hamburg : Trinkwasserversorgung, Kanalisation](https://pm20.zbw.eu/folder/sh/1409xx/140905/1636xx/163695/about.de.html ) | 55 | A 009 | e 04 SM 002
+A9 | e1 | [Hamburg : Einzelne Krankheiten und deren Bekämpfung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144265/about.de.html ) | 68 | A 009 | e 01
+A9 | e4 | [Hamburg : Medizinalwesen, Hygiene, Sanitäre Einrichtungen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144266/about.de.html ) | 244 | A 009 | e 04
+A9 | e4 Sm1 | [Hamburg : Bestattungswesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144267/about.de.html ) | 68 | A 009 | e 04 SM 001
+A9 | e4 Sm2 | [Hamburg : Trinkwasserversorgung, Kanalisation](https://pm20.zbw.eu/folder/sh/1409xx/140905/1636xx/163695/about.de.html ) | 83 | A 009 | e 04 SM 002
 A9 | e4 Sm2.I | [Hamburg : Trinkwasserversorgung, Kanalisation, Allg.](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144268/about.de.html ) | 37 | A 009 | e 04 SM 002.01
 A9 | e4 Sm2.II | [Hamburg : Trinkwasserversorgung, Kanalisation einzelner Städte](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144269/about.de.html ) | 60 | A 009 | e 04 SM 002.02
-A9 | e4 Sm3 | [Hamburg : Gesundheitspolizei, Bekämpfung von Krankheitserregern und -überträgern](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144270/about.de.html ) | 23 | A 009 | e 04 SM 003
-A9 | e4 Sm4 | [Hamburg : Abfallbeseitigung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144271/about.de.html ) | 24 | A 009 | e 04 SM 004
-A9 | e4 Sm5 | [Hamburg : Apothekenwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144273/about.de.html ) | 46 | A 009 | e 04 SM 005
-A9 | e4 Sm7 | [Hamburg : Bäder und Kurorte, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144275/about.de.html ) | 6 | A 009 | e 04 SM 007
-A9 | e4 Sm8 | [Hamburg : Lufthygiene und Lüftungswesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144276/about.de.html ) | 1 | A 009 | e 04 SM 008
+A9 | e4 Sm3 | [Hamburg : Gesundheitspolizei, Bekämpfung von Krankheitserregern und -überträgern](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144270/about.de.html ) | 24 | A 009 | e 04 SM 003
+A9 | e4 Sm4 | [Hamburg : Abfallbeseitigung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144271/about.de.html ) | 26 | A 009 | e 04 SM 004
+A9 | e4 Sm5 | [Hamburg : Apothekenwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144273/about.de.html ) | 48 | A 009 | e 04 SM 005
+A9 | e4 Sm7 | [Hamburg : Bäder und Kurorte, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144275/about.de.html ) | 9 | A 009 | e 04 SM 007
+A9 | e4 Sm8 | [Hamburg : Lufthygiene und Lüftungswesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144276/about.de.html ) | 2 | A 009 | e 04 SM 008
 A9 | e4 Sm9 | [Hamburg : Bekämpfung von Erbkrankheiten](https://pm20.zbw.eu/folder/sh/1409xx/140905/1856xx/185600/about.de.html ) | 1 | A 009 | e 04 SM 009
 A9 | e4 Sm10 | [Hamburg : Ernährungsfragen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1856xx/185602/about.de.html ) | 7 | A 009 | e 04 SM 010
 A9 | e4 Sm11 | [Hamburg : Lärmeinflüsse, Lärmbekämpfung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1856xx/185601/about.de.html ) | 3 | A 009 | e 04 SM 011
-A9 | e4 Sm20 | [Hamburg : Medizinalwesen, Konferenzen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1503xx/150371/about.de.html ) | 3 | A 009 | e 04 SM 020
-A9 | e4 Sm40 | [Hamburg : Medizinalwesen, Berufe und Ausbildung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1535xx/153591/about.de.html ) | 114 | A 009 | e 04 SM 040
+A9 | e4 Sm20 | [Hamburg : Medizinalwesen, Konferenzen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1503xx/150371/about.de.html ) | 5 | A 009 | e 04 SM 020
+A9 | e4 Sm40 | [Hamburg : Medizinalwesen, Berufe und Ausbildung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1535xx/153591/about.de.html ) | 126 | A 009 | e 04 SM 040
 A9 | e4 Sm46 | [Hamburg : Strahlenschutz, Strahlenschäden](https://pm20.zbw.eu/folder/sh/1409xx/140905/1856xx/185605/about.de.html ) | 0 | A 009 | e 04 SM 046
-A9 | e4 Sm50 | [Hamburg : Medizinalwesen, Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1535xx/153592/about.de.html ) | 25 | A 009 | e 04 SM 050
-A9 | f | [Hamburg : Geschichte, Politik, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144282/about.de.html ) | 193 | A 009 | f
+A9 | e4 Sm50 | [Hamburg : Medizinalwesen, Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1535xx/153592/about.de.html ) | 26 | A 009 | e 04 SM 050
+A9 | f | [Hamburg : Geschichte, Politik, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144282/about.de.html ) | 197 | A 009 | f
 A9 | f Sm1 | [Hamburg : Vorgeschichte](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144448/about.de.html ) | 10 | A 009 | f 00 SM 001
-A9 | f1 | [Hamburg : Geschichtliche Rückblicke](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144283/about.de.html ) | 27 | A 009 | f 01
+A9 | f1 | [Hamburg : Geschichtliche Rückblicke](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144283/about.de.html ) | 28 | A 009 | f 01
 A9 | f2 Sm2 | [Hamburg : Flüchtlinge im Zufluchtslande](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144288/about.de.html ) | 11 | A 009 | f 02 SM 002
-A9 | f2 Sm6 | [Hamburg : Leitende Staatsmänner, Kabinette](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144292/about.de.html ) | 20 | A 009 | f 02 SM 006
+A9 | f2 Sm6 | [Hamburg : Leitende Staatsmänner, Kabinette](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144292/about.de.html ) | 23 | A 009 | f 02 SM 006
 A9 | f2 Sm7 (alt) | [Hamburg : Antibolschewismus und Antikommunismus (-1945)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144293/about.de.html ) | 39 | A 009 | f 02 SM 007 (alt)
 A9 | f2 Sm8 | [Hamburg : Wichtige Reden von Staatsmännern und Politikern (bis 1945)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144294/about.de.html ) | 45 | A 009 | f 02 SM 008
 A9 | f2 Sm9 | [Hamburg : Politische und kulturelle Propaganda. (Ab 1945): Meinungsforschung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1442xx/144295/about.de.html ) | 11 | A 009 | f 02 SM 009
@@ -901,18 +901,18 @@ A9 | f2.2 | [Hamburg : Geschichtliche Vorgänge 1914-1918 (1. Weltkrieg)](https:
 A9 | f2.3.1 | [Hamburg : Geschichtliche Vorgänge 1919-1933 (Weimarer Republik)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1824xx/182454/about.de.html ) | 605 | A 009 | f 02.03.01
 A9 | f2.3.2 | [Hamburg : Geschichtliche Vorgänge 1933-1939 (Nationalsozialismus)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1824xx/182453/about.de.html ) | 909 | A 009 | f 02.03.02
 A9 | f2.4 | [Hamburg : Geschichtliche Vorgänge 1939-1945 (2. Weltkrieg)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1813xx/181361/about.de.html ) | 232 | A 009 | f 02.04
-A9 | f2.5 | [Hamburg : Geschichtliche Vorgänge 1945-](https://pm20.zbw.eu/folder/sh/1409xx/140905/1856xx/185631/about.de.html ) | 75 | A 009 | f 02.05
+A9 | f2.5 | [Hamburg : Geschichtliche Vorgänge 1945-](https://pm20.zbw.eu/folder/sh/1409xx/140905/1856xx/185631/about.de.html ) | 109 | A 009 | f 02.05
 A9 | f2a | [Hamburg : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten](https://pm20.zbw.eu/folder/sh/1409xx/140905/1443xx/144354/about.de.html ) | 142 | A 009 | f 02a
-A9 | f4 | [Hamburg : Verfassung, Staatsform](https://pm20.zbw.eu/folder/sh/1409xx/140905/1443xx/144355/about.de.html ) | 128 | A 009 | f 04
-A9 | f4 Sm1 | [Hamburg : Wahlrecht](https://pm20.zbw.eu/folder/sh/1409xx/140905/1636xx/163674/about.de.html ) | 40 | A 009 | f 04 SM 001
+A9 | f4 | [Hamburg : Verfassung, Staatsform](https://pm20.zbw.eu/folder/sh/1409xx/140905/1443xx/144355/about.de.html ) | 139 | A 009 | f 04
+A9 | f4 Sm1 | [Hamburg : Wahlrecht](https://pm20.zbw.eu/folder/sh/1409xx/140905/1636xx/163674/about.de.html ) | 44 | A 009 | f 04 SM 001
 A9 | f4 Sm1.I | [Hamburg : Wahlrecht, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1443xx/144356/about.de.html ) | 37 | A 009 | f 04 SM 001.01
 A9 | f4 Sm1.II | [Hamburg : Frauenwahlrecht](https://pm20.zbw.eu/folder/sh/1409xx/140905/1443xx/144357/about.de.html ) | 3 | A 009 | f 04 SM 001.02
 A9 | f4 Sm2.I | [Hamburg : Parlamentarische und politische Körperschaften, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1443xx/144358/about.de.html ) | 12 | A 009 | f 04 SM 002.01
-A9 | f4 Sm2.II | [Hamburg : Einzelne parlamentarische und politische Körperschaften](https://pm20.zbw.eu/folder/sh/1409xx/140905/1443xx/144359/about.de.html ) | 300 | A 009 | f 04 SM 002.02
+A9 | f4 Sm2.II | [Hamburg : Einzelne parlamentarische und politische Körperschaften](https://pm20.zbw.eu/folder/sh/1409xx/140905/1443xx/144359/about.de.html ) | 321 | A 009 | f 04 SM 002.02
 A9 | f4 Sm3 | [Hamburg : Staatsgericht](https://pm20.zbw.eu/folder/sh/1409xx/140905/1443xx/144360/about.de.html ) | 6 | A 009 | f 04 SM 003
-A9 | f4 Sm4 | [Hamburg : Gesetzliche Feiertage](https://pm20.zbw.eu/folder/sh/1409xx/140905/1443xx/144361/about.de.html ) | 41 | A 009 | f 04 SM 004
-A9 | f4 Sm5 | [Hamburg : Hoheitszeichen, Orden und Titel](https://pm20.zbw.eu/folder/sh/1409xx/140905/1443xx/144362/about.de.html ) | 35 | A 009 | f 04 SM 005
-A9 | f4 Sm7 | [Hamburg : Koalitions- und Versammlungsrecht](https://pm20.zbw.eu/folder/sh/1409xx/140905/1443xx/144364/about.de.html ) | 25 | A 009 | f 04 SM 007
+A9 | f4 Sm4 | [Hamburg : Gesetzliche Feiertage](https://pm20.zbw.eu/folder/sh/1409xx/140905/1443xx/144361/about.de.html ) | 42 | A 009 | f 04 SM 004
+A9 | f4 Sm5 | [Hamburg : Hoheitszeichen, Orden und Titel](https://pm20.zbw.eu/folder/sh/1409xx/140905/1443xx/144362/about.de.html ) | 41 | A 009 | f 04 SM 005
+A9 | f4 Sm7 | [Hamburg : Koalitions- und Versammlungsrecht](https://pm20.zbw.eu/folder/sh/1409xx/140905/1443xx/144364/about.de.html ) | 27 | A 009 | f 04 SM 007
 A9 | f4 Sm8 | [Hamburg : Stellung und Befugnisse des Staatsoberhauptes, seines Vertreters und der Minister](https://pm20.zbw.eu/folder/sh/1409xx/140905/1443xx/144365/about.de.html ) | 9 | A 009 | f 04 SM 008
 A9 | f4 Sm11 | [Hamburg : Ermächtigung der Regierung zu Notverordnungen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1443xx/144367/about.de.html ) | 3 | A 009 | f 04 SM 011
 A9 | f4 Sm12 | [Hamburg : Staatsangehörigkeit, Bürgerrecht, Naturalisation](https://pm20.zbw.eu/folder/sh/1409xx/140905/1443xx/144368/about.de.html ) | 10 | A 009 | f 04 SM 012
@@ -921,20 +921,20 @@ A9 | f4 Sm50 | [Hamburg : Verfassung, weitere Institutionen](https://pm20.zbw.eu
 A9 | f4 Sm501.II (A9) | [Hamburg : Wirtschaftsrat, Einzelne](https://pm20.zbw.eu/folder/sh/1409xx/140905/1443xx/144376/about.de.html ) | 1 | A 009 | f 04 SM 501.02 (A 009)
 A9 | f4 Sm502.I (A10) | [Hamburg : Arbeiter- und Wirtschaftsräte, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1443xx/144379/about.de.html ) | 7 | A 009 | f 04 SM 502.01 (A 010)
 A9 | f4 Sm502.II (A10) | [Hamburg : Reichswirtschaftsrat](https://pm20.zbw.eu/folder/sh/1409xx/140905/1443xx/144380/about.de.html ) | 11 | A 009 | f 04 SM 502.02 (A 010)
-A9 | f5 | [Hamburg : Parteiwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1443xx/144395/about.de.html ) | 56 | A 009 | f 05
+A9 | f5 | [Hamburg : Parteiwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1443xx/144395/about.de.html ) | 63 | A 009 | f 05
 A9 | f5 Sm1.I | [Hamburg : Wahl, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1443xx/144396/about.de.html ) | 163 | A 009 | f 05 SM 001.01
 A9 | f5 Sm1.II | [Hamburg : Wahl des Staatsoberhauptes](https://pm20.zbw.eu/folder/sh/1409xx/140905/1443xx/144397/about.de.html ) | 1 | A 009 | f 05 SM 001.02
-A9 | f5 Sm1.III | [Hamburg : Wahlen für parlamentarische Körperschaften und sonstige politische Wahlen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1636xx/163653/about.de.html ) | 87 | A 009 | f 05 SM 001.03
+A9 | f5 Sm1.III | [Hamburg : Wahlen für parlamentarische Körperschaften und sonstige politische Wahlen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1636xx/163653/about.de.html ) | 131 | A 009 | f 05 SM 001.03
 A9 | f5 Sm1.IIIa | [Hamburg : Wahlen für parlamentarische Körperschaften und sonstige politische Wahlen des Gesamtstaates](https://pm20.zbw.eu/folder/sh/1409xx/140905/1443xx/144398/about.de.html ) | 19 | A 009 | f 05 SM 001.03a
 A9 | f5 Sm1.IIIb | [Hamburg : Wahlen für parlamentarische Körperschaften und sonstige politische Wahlen einz. Bundesstaaten.](https://pm20.zbw.eu/folder/sh/1409xx/140905/1443xx/144399/about.de.html ) | 25 | A 009 | f 05 SM 001.03b
-A9 | f5a | [Hamburg : Einzelne Parteien und Parteigruppen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144420/about.de.html ) | 474 | A 009 | f 05a
+A9 | f5a | [Hamburg : Einzelne Parteien und Parteigruppen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144420/about.de.html ) | 521 | A 009 | f 05a
 A9 | f5a.1 | [Hamburg : Die Partei im Ganzen, auch im Urteil des Auslandes](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144421/about.de.html ) | 1 | A 009 | f 05a.01
 A9 | f5a.1a | [Hamburg : Die Partei im Ganzen, geschichtliche Rückblicke](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144422/about.de.html ) | 48 | A 009 | f 05a.01a
 A9 | f5a.1b | [Hamburg : Die Partei im Ganzen, Organisation](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144423/about.de.html ) | 36 | A 009 | f 05a.01b
 A9 | f5a.1c | [Hamburg : Die Partei im Ganzen, Programm](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144424/about.de.html ) | 11 | A 009 | f 05a.01c
 A9 | f5a.1d (alt) | [Hamburg : Die Partei im Ganzen, Agitation und Taktik (z.B. Maifeier, Kundgebungen, Propaganda, Flugblätter)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144425/about.de.html ) | 27 | A 009 | f 05a.01d (alt)
 A9 | f5a.1e | [Hamburg : Die Partei im Ganzen, Presse, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144426/about.de.html ) | 1 | A 009 | f 05a.01e
-A9 | f5a.1f | [Hamburg : Die Partei im Ganzen, Tätigkeit der Partei](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144427/about.de.html ) | 194 | A 009 | f 05a.01f
+A9 | f5a.1f | [Hamburg : Die Partei im Ganzen, Tätigkeit der Partei](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144427/about.de.html ) | 195 | A 009 | f 05a.01f
 A9 | f5a.1g (alt) | [Hamburg : Die Partei im Ganzen, Spaltung in der Partei](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144428/about.de.html ) | 4 | A 009 | f 05a.01g (alt)
 A9 | f5a.1h (alt) | [Hamburg : Die Partei im Ganzen, Verhältniss zu anderen Parteien](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144429/about.de.html ) | 9 | A 009 | f 05a.01h (alt)
 A9 | f5a.1k | [Hamburg : Die Partei im Ganzen, Parteitagungen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144431/about.de.html ) | 17 | A 009 | f 05a.01k
@@ -943,130 +943,130 @@ A9 | f5a.1m | [Hamburg : Die Partei im Ganzen, Frauenorganisationen](https://pm2
 A9 | f5a.1o | [Hamburg : Die Partei im Ganzen, Auslandsorganisationen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144436/about.de.html ) | 3 | A 009 | f 05a.01o
 A9 | f5a.3 | [Hamburg : Führende Persönlichkeiten (einzelner Parteien)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144438/about.de.html ) | 3 | A 009 | f 05a.03
 A9 | f5a.4 | [Hamburg : Bekämpfung der Partei](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144439/about.de.html ) | 6 | A 009 | f 05a.04
-A9 | f6 | [Hamburg : Verhandlungen von parlamentarischen und politischen Körperschaften](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144440/about.de.html ) | 188 | A 009 | f 06
+A9 | f6 | [Hamburg : Verhandlungen von parlamentarischen und politischen Körperschaften](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144440/about.de.html ) | 256 | A 009 | f 06
 A9 | g Sm9 | [Hamburg : Pazifistische und philantropische Bestrebungen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1445xx/144581/about.de.html ) | 7 | A 009 | g 00 SM 009
 A9 | g1 | [Hamburg : Politische Beziehungen zu einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144452/about.de.html ) | 4 | A 009 | g 01
-A9 | g2 | [Hamburg : Diplomatische und konsularische Vertretungen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144461/about.de.html ) | 56 | A 009 | g 02
-A9 | g2a | [Hamburg : Diplomatische und konsularische Vertretungen in einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144466/about.de.html ) | 372 | A 009 | g 02a
-A9 | g4 | [Hamburg : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144470/about.de.html ) | 13 | A 009 | g 04
+A9 | g2 | [Hamburg : Diplomatische und konsularische Vertretungen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144461/about.de.html ) | 65 | A 009 | g 02
+A9 | g2a | [Hamburg : Diplomatische und konsularische Vertretungen in einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144466/about.de.html ) | 382 | A 009 | g 02a
+A9 | g4 | [Hamburg : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144470/about.de.html ) | 14 | A 009 | g 04
 A9 | g4 Sm1 | [Hamburg : Zollpolitik](https://pm20.zbw.eu/folder/sh/1409xx/140905/1634xx/163419/about.de.html ) | 2 | A 009 | g 04 SM 001
 A9 | g4 Sm3 | [Hamburg : Staatliche Wirtschaftspropaganda](https://pm20.zbw.eu/folder/sh/1409xx/140905/1633xx/163381/about.de.html ) | 34 | A 009 | g 04 SM 003
-A9 | g4 Sm3.I | [Hamburg : Staatliche Wirtschaftspropaganda, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144482/about.de.html ) | 13 | A 009 | g 04 SM 003.01
-A9 | g4 Sm3.II | [Hamburg : Staatliche Wirtschaftspropaganda, Ausstellungen und Messen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144483/about.de.html ) | 310 | A 009 | g 04 SM 003.02
+A9 | g4 Sm3.I | [Hamburg : Staatliche Wirtschaftspropaganda, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144482/about.de.html ) | 17 | A 009 | g 04 SM 003.01
+A9 | g4 Sm3.II | [Hamburg : Staatliche Wirtschaftspropaganda, Ausstellungen und Messen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144483/about.de.html ) | 338 | A 009 | g 04 SM 003.02
 A9 | g4 Sm5 | [Hamburg : Beschränkung des freien Handels](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144486/about.de.html ) | 5 | A 009 | g 04 SM 005
-A9 | g4 Sm6 | [Hamburg : Staatliche Handelskredite, Garantieübernahme, Subventionierung, Förderung des Aussenhandels](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144487/about.de.html ) | 1 | A 009 | g 04 SM 006
+A9 | g4 Sm6 | [Hamburg : Staatliche Handelskredite, Garantieübernahme, Subventionierung, Förderung des Aussenhandels](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144487/about.de.html ) | 3 | A 009 | g 04 SM 006
 A9 | g4 Sm19 | [Hamburg : Entsendung und Heranziehung von Sachverständigen und Spezialarbeitern](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144491/about.de.html ) | 6 | A 009 | g 04 SM 019
 A9 | g4 Sm20 | [Hamburg : Handelspolitik u. allg. Wirtschaftspolitik, Konferenzen ](https://pm20.zbw.eu/folder/sh/1409xx/140905/1503xx/150373/about.de.html ) | 4 | A 009 | g 04 SM 020
 A9 | g4 Sm25 | [Hamburg : Ausgleich laufender Aussenhandelsforderungen und -schulden](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144493/about.de.html ) | 5 | A 009 | g 04 SM 025
 A9 | g4 Sm31 | [Hamburg : Freihäfen, Freizonen, Zollniederlagen, Allgemein (Projekte)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144494/about.de.html ) | 3 | A 009 | g 04 SM 031
-A9 | g4 Sm50 | [Hamburg : Handelspolitik, Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1865xx/186580/about.de.html ) | 6 | A 009 | g 04 SM 050
-A9 | g4a | [Hamburg : Wirtschaftspolitische Beziehungen zu einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140905/1445xx/144531/about.de.html ) | 192 | A 009 | g 04a
+A9 | g4 Sm50 | [Hamburg : Handelspolitik, Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1865xx/186580/about.de.html ) | 7 | A 009 | g 04 SM 050
+A9 | g4a | [Hamburg : Wirtschaftspolitische Beziehungen zu einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140905/1445xx/144531/about.de.html ) | 198 | A 009 | g 04a
 A9 | g4a Sm11 | [Hamburg : Kaufmännische Schiedsgerichte](https://pm20.zbw.eu/folder/sh/1409xx/140905/1445xx/144541/about.de.html ) | 0 | A 009 | g 04a SM 011
-A9 | g4a Sm13 | [Hamburg : Eisenbahnverkehr, Transit](https://pm20.zbw.eu/folder/sh/1409xx/140905/1445xx/144543/about.de.html ) | 4 | A 009 | g 04a SM 013
-A9 | g4a Sm14 | [Hamburg : Schiffahrt (Wirtschaftspolitische Beziehungen zu einzelnen Ländern)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1445xx/144544/about.de.html ) | 8 | A 009 | g 04a SM 014
+A9 | g4a Sm13 | [Hamburg : Eisenbahnverkehr, Transit](https://pm20.zbw.eu/folder/sh/1409xx/140905/1445xx/144543/about.de.html ) | 5 | A 009 | g 04a SM 013
+A9 | g4a Sm14 | [Hamburg : Schiffahrt (Wirtschaftspolitische Beziehungen zu einzelnen Ländern)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1445xx/144544/about.de.html ) | 10 | A 009 | g 04a SM 014
 A9 | g4a Sm19 | [Hamburg : Sachverständigen- und Facharbeiteraustausch, Studienkommissionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1445xx/144549/about.de.html ) | 9 | A 009 | g 04a SM 019
 A9 | g4a Sm25 | [Hamburg : Ausgleich laufender Aussenhandelsforderungen und -schulden, Einzelne Länder](https://pm20.zbw.eu/folder/sh/1409xx/140905/1445xx/144554/about.de.html ) | 0 | A 009 | g 04a SM 025
-A9 | g4a Sm26 | [Hamburg : Niederlassung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1445xx/144555/about.de.html ) | 1 | A 009 | g 04a SM 026
+A9 | g4a Sm26 | [Hamburg : Niederlassung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1445xx/144555/about.de.html ) | 3 | A 009 | g 04a SM 026
 A9 | g4a Sm31 | [Hamburg : Freihäfen, Freizonen, Zollniederlagen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1445xx/144557/about.de.html ) | 6 | A 009 | g 04a SM 031
-A9 | h | [Hamburg : Verwaltung, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144659/about.de.html ) | 286 | A 009 | h
-A9 | h1 | [Hamburg : Behörden, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144660/about.de.html ) | 147 | A 009 | h 01
-A9 | h2 | [Hamburg : Beamtenwesen, Öffentlicher Dienst](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144661/about.de.html ) | 194 | A 009 | h 02
-A9 | h2 Sm1 | [Hamburg : Besoldung, Tarifverträge](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144662/about.de.html ) | 258 | A 009 | h 02 SM 001
+A9 | h | [Hamburg : Verwaltung, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144659/about.de.html ) | 293 | A 009 | h
+A9 | h1 | [Hamburg : Behörden, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144660/about.de.html ) | 163 | A 009 | h 01
+A9 | h2 | [Hamburg : Beamtenwesen, Öffentlicher Dienst](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144661/about.de.html ) | 212 | A 009 | h 02
+A9 | h2 Sm1 | [Hamburg : Besoldung, Tarifverträge](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144662/about.de.html ) | 302 | A 009 | h 02 SM 001
 A9 | h2 Sm3 | [Hamburg : Disciplinarwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144663/about.de.html ) | 15 | A 009 | h 02 SM 003
-A9 | h2 Sm4 | [Hamburg : Beamtenabbau](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144664/about.de.html ) | 19 | A 009 | h 02 SM 004
+A9 | h2 Sm4 | [Hamburg : Beamtenabbau](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144664/about.de.html ) | 20 | A 009 | h 02 SM 004
 A9 | h3 | [Hamburg : Verwaltungsbezirke](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144665/about.de.html ) | 29 | A 009 | h 03
-A9 | h4 | [Hamburg : Polizeiwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144666/about.de.html ) | 339 | A 009 | h 04
+A9 | h4 | [Hamburg : Polizeiwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144666/about.de.html ) | 367 | A 009 | h 04
 A9 | h4 Sm1 | [Hamburg : Passwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1633xx/163348/about.de.html ) | 9 | A 009 | h 04 SM 001
-A9 | h4 Sm1.I | [Hamburg : Passwesen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144667/about.de.html ) | 38 | A 009 | h 04 SM 001.01
+A9 | h4 Sm1.I | [Hamburg : Passwesen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144667/about.de.html ) | 44 | A 009 | h 04 SM 001.01
 A9 | h4 Sm1.III | [Hamburg : Passwesen, Ausländische Passbestimmungen für nationale Angehörige](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144669/about.de.html ) | 1 | A 009 | h 04 SM 001.03
 A9 | h4 Sm40 | [Hamburg : Polizeiwesen, Beruf und Ausbildung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1824xx/182434/about.de.html ) | 13 | A 009 | h 04 SM 040
 A9 | h4 Sm50 | [Hamburg : Polizeiwesen, Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1824xx/182435/about.de.html ) | 5 | A 009 | h 04 SM 050
-A9 | h5 | [Hamburg : Provinzial- und Kommunalverwaltung, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144673/about.de.html ) | 149 | A 009 | h 05
-A9 | h5 Sm1 | [Hamburg : Feuerlöschwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144674/about.de.html ) | 66 | A 009 | h 05 SM 001
-A9 | h5 Sm2 | [Hamburg : Eingemeindung, Umgemeindung, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144675/about.de.html ) | 10 | A 009 | h 05 SM 002
-A9 | h5a | [Hamburg : Verwaltung, einzelne Bundesstaaten, Provinzen und Kommunen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144676/about.de.html ) | 129 | A 009 | h 05a
-A9 | h7 | [Hamburg : Soziale Fürsorge (öffentliche u. private)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144677/about.de.html ) | 228 | A 009 | h 07
+A9 | h5 | [Hamburg : Provinzial- und Kommunalverwaltung, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144673/about.de.html ) | 167 | A 009 | h 05
+A9 | h5 Sm1 | [Hamburg : Feuerlöschwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144674/about.de.html ) | 73 | A 009 | h 05 SM 001
+A9 | h5 Sm2 | [Hamburg : Eingemeindung, Umgemeindung, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144675/about.de.html ) | 12 | A 009 | h 05 SM 002
+A9 | h5a | [Hamburg : Verwaltung, einzelne Bundesstaaten, Provinzen und Kommunen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144676/about.de.html ) | 131 | A 009 | h 05a
+A9 | h7 | [Hamburg : Soziale Fürsorge (öffentliche u. private)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144677/about.de.html ) | 254 | A 009 | h 07
 A9 | h7 Sm1 | [Hamburg : Berufsberatung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144680/about.de.html ) | 7 | A 009 | h 07 SM 001
-A9 | h7 Sm2 | [Hamburg : Fürsorge für Mutter und Kind](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144681/about.de.html ) | 77 | A 009 | h 07 SM 002
-A9 | h7 Sm3 | [Hamburg : Jugendfürsorge](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144682/about.de.html ) | 196 | A 009 | h 07 SM 003
-A9 | h7 Sm4 | [Hamburg : Altersfürsorge, Kleinrentnerfürsorge](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144683/about.de.html ) | 44 | A 009 | h 07 SM 004
-A9 | h7 Sm5 | [Hamburg : Obdachlosenfürsorge](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144684/about.de.html ) | 16 | A 009 | h 07 SM 005
-A9 | h7 Sm6 | [Hamburg : Krüppelfürsorge](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144685/about.de.html ) | 66 | A 009 | h 07 SM 006
-A9 | h7 Sm7 | [Hamburg : Armenwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144686/about.de.html ) | 34 | A 009 | h 07 SM 007
+A9 | h7 Sm2 | [Hamburg : Fürsorge für Mutter und Kind](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144681/about.de.html ) | 81 | A 009 | h 07 SM 002
+A9 | h7 Sm3 | [Hamburg : Jugendfürsorge](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144682/about.de.html ) | 243 | A 009 | h 07 SM 003
+A9 | h7 Sm4 | [Hamburg : Altersfürsorge, Kleinrentnerfürsorge](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144683/about.de.html ) | 61 | A 009 | h 07 SM 004
+A9 | h7 Sm5 | [Hamburg : Obdachlosenfürsorge](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144684/about.de.html ) | 23 | A 009 | h 07 SM 005
+A9 | h7 Sm6 | [Hamburg : Krüppelfürsorge](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144685/about.de.html ) | 78 | A 009 | h 07 SM 006
+A9 | h7 Sm7 | [Hamburg : Armenwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144686/about.de.html ) | 35 | A 009 | h 07 SM 007
 A9 | h7 Sm8 | [Hamburg : Fürsorge für kinderreiche Familien](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144687/about.de.html ) | 11 | A 009 | h 07 SM 008
 A9 | h7 Sm9 | [Hamburg : Fürsorge für Asoziale](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144688/about.de.html ) | 2 | A 009 | h 07 SM 009
-A9 | h7 Sm11 | [Hamburg : Verschickung oder Aufnahme Erholungsbedürftiger und Urlaubsfahrer](https://pm20.zbw.eu/folder/sh/1409xx/140905/1633xx/163343/about.de.html ) | 5 | A 009 | h 07 SM 011
+A9 | h7 Sm11 | [Hamburg : Verschickung oder Aufnahme Erholungsbedürftiger und Urlaubsfahrer](https://pm20.zbw.eu/folder/sh/1409xx/140905/1633xx/163343/about.de.html ) | 7 | A 009 | h 07 SM 011
 A9 | h7 Sm11.I | [Hamburg : Verschickung oder Aufnahme Erholungsbedürftiger und Urlaubsfahrer, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144690/about.de.html ) | 10 | A 009 | h 07 SM 011.01
-A9 | h7 Sm11.II | [Hamburg : Verschickung oder Aufnahme Erholungsbedürftiger und Urlaubsfahrer, von und nach einz. Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144691/about.de.html ) | 7 | A 009 | h 07 SM 011.02
+A9 | h7 Sm11.II | [Hamburg : Verschickung oder Aufnahme Erholungsbedürftiger und Urlaubsfahrer, von und nach einz. Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144691/about.de.html ) | 8 | A 009 | h 07 SM 011.02
 A9 | h7 Sm40 | [Hamburg : Soziale Fürsorge, Berufe und Tarife](https://pm20.zbw.eu/folder/sh/1409xx/140905/1811xx/181100/about.de.html ) | 16 | A 009 | h 07 SM 040
 A9 | h7 Sm50 | [Hamburg : Soziale Fürsorge, Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1811xx/181120/about.de.html ) | 22 | A 009 | h 07 SM 050
 A9 | h7 Sm501 (A9) | [Hamburg : Winterhilfswerk](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144678/about.de.html ) | 220 | A 009 | h 07 SM 501 (A 009)
-A9 | i | [Hamburg : Rechtspflege, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144694/about.de.html ) | 9 | A 009 | i
-A9 | i Sm40 | [Hamburg : Rechtspflege, Berufe und Besoldung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1811xx/181121/about.de.html ) | 48 | A 009 | i 00 SM 040
+A9 | i | [Hamburg : Rechtspflege, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144694/about.de.html ) | 10 | A 009 | i
+A9 | i Sm40 | [Hamburg : Rechtspflege, Berufe und Besoldung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1811xx/181121/about.de.html ) | 52 | A 009 | i 00 SM 040
 A9 | i Sm50 | [Hamburg : Rechtspflege, Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1811xx/181140/about.de.html ) | 9 | A 009 | i 00 SM 050
 A9 | i1 | [Hamburg : Gerichtsverfassung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144695/about.de.html ) | 74 | A 009 | i 01
-A9 | i1 Sm1 | [Hamburg : Einzelne Gerichte](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144698/about.de.html ) | 113 | A 009 | i 01 SM 001
+A9 | i1 Sm1 | [Hamburg : Einzelne Gerichte](https://pm20.zbw.eu/folder/sh/1409xx/140905/1446xx/144698/about.de.html ) | 114 | A 009 | i 01 SM 001
 A9 | i1 Sm3 | [Hamburg : Gerichts- und Anwaltskosten, Gebühren](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144700/about.de.html ) | 12 | A 009 | i 01 SM 003
-A9 | i2 | [Hamburg : Zivilrecht](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144701/about.de.html ) | 23 | A 009 | i 02
+A9 | i2 | [Hamburg : Zivilrecht](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144701/about.de.html ) | 24 | A 009 | i 02
 A9 | i2 Sm2 | [Hamburg : Erbrecht](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144702/about.de.html ) | 2 | A 009 | i 02 SM 002
-A9 | i2 Sm3 | [Hamburg : Familienrecht](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144703/about.de.html ) | 13 | A 009 | i 02 SM 003
+A9 | i2 Sm3 | [Hamburg : Familienrecht](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144703/about.de.html ) | 14 | A 009 | i 02 SM 003
 A9 | i2 Sm11 | [Hamburg : Vormundschaftswesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144704/about.de.html ) | 1 | A 009 | i 02 SM 011
 A9 | i3 | [Hamburg : Strafrecht](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144705/about.de.html ) | 22 | A 009 | i 03
-A9 | i3 Sm1 | [Hamburg : Strafvollzug, Gefängniswesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144706/about.de.html ) | 15 | A 009 | i 03 SM 001
-A9 | i5 | [Hamburg : Einzelne Skandale und Prozesse](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144710/about.de.html ) | 35 | A 009 | i 05
-A9 | k | [Hamburg : Wissenschaft und Bildungswesen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144713/about.de.html ) | 68 | A 009 | k
-A9 | k Sm1 | [Hamburg : Bibliothekswesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144752/about.de.html ) | 100 | A 009 | k 00 SM 001
-A9 | k Sm2 | [Hamburg : Archivwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144753/about.de.html ) | 16 | A 009 | k 00 SM 002
-A9 | k Sm3 | [Hamburg : Museen, botanische und zoologische Gärten](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144754/about.de.html ) | 115 | A 009 | k 00 SM 003
-A9 | k Sm4 | [Hamburg : Geistige Zusammenarbeit mit anderen Ländern, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144755/about.de.html ) | 18 | A 009 | k 00 SM 004
+A9 | i3 Sm1 | [Hamburg : Strafvollzug, Gefängniswesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144706/about.de.html ) | 18 | A 009 | i 03 SM 001
+A9 | i5 | [Hamburg : Einzelne Skandale und Prozesse](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144710/about.de.html ) | 37 | A 009 | i 05
+A9 | k | [Hamburg : Wissenschaft und Bildungswesen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144713/about.de.html ) | 69 | A 009 | k
+A9 | k Sm1 | [Hamburg : Bibliothekswesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144752/about.de.html ) | 110 | A 009 | k 00 SM 001
+A9 | k Sm2 | [Hamburg : Archivwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144753/about.de.html ) | 25 | A 009 | k 00 SM 002
+A9 | k Sm3 | [Hamburg : Museen, botanische und zoologische Gärten](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144754/about.de.html ) | 134 | A 009 | k 00 SM 003
+A9 | k Sm4 | [Hamburg : Geistige Zusammenarbeit mit anderen Ländern, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144755/about.de.html ) | 22 | A 009 | k 00 SM 004
 A9 | k Sm5 | [Hamburg : Politische und weltanschauliche Schulung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144756/about.de.html ) | 7 | A 009 | k 00 SM 005
 A9 | k Sm7.I | [Hamburg : Stiftungen für Forschung und Lehre, Wissenschaft, sonstige Stiftungen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1872xx/187225/about.de.html ) | 1 | A 009 | k 00 SM 007.01
 A9 | k Sm7.II | [Hamburg : Einzelne Stiftungen von Personen, Firmen, Körperschaften](https://pm20.zbw.eu/folder/sh/1409xx/140905/1872xx/187226/about.de.html ) | 1 | A 009 | k 00 SM 007.02
-A9 | k Sm20 | [Hamburg : Wissenschaft und Bildungswesen, Kongresse und Veranstaltungen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1811xx/181141/about.de.html ) | 5 | A 009 | k 00 SM 020
+A9 | k Sm20 | [Hamburg : Wissenschaft und Bildungswesen, Kongresse und Veranstaltungen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1811xx/181141/about.de.html ) | 6 | A 009 | k 00 SM 020
 A9 | k Sm50 | [Hamburg : Wissenschaft und Bildungswesen, Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1811xx/181142/about.de.html ) | 22 | A 009 | k 00 SM 050
 A9 | k Sm501 (A9) | [Hamburg : Zentralstelle des Hamburgischen Kolonialinstitutes](https://pm20.zbw.eu/folder/sh/1409xx/140905/1811xx/181162/about.de.html ) | 196 | A 009 | k 00 SM 501 (A 009)
-A9 | k1 | [Hamburg : Hochschulwesen, Forschungsanstalten Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144714/about.de.html ) | 380 | A 009 | k 01
+A9 | k1 | [Hamburg : Hochschulwesen, Forschungsanstalten Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144714/about.de.html ) | 448 | A 009 | k 01
 A9 | k1 Sm1 | [Hamburg : Ausländerfrage](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144715/about.de.html ) | 20 | A 009 | k 01 SM 001
 A9 | k1 Sm2 | [Hamburg : Studentenwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1633xx/163329/about.de.html ) | 27 | A 009 | k 01 SM 002
-A9 | k1 Sm2.I | [Hamburg : Studentenwesen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144716/about.de.html ) | 104 | A 009 | k 01 SM 002.01
-A9 | k1 Sm2.II | [Hamburg : Studentenwesen, Studentische Selbstverwaltung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144717/about.de.html ) | 0 | A 009 | k 01 SM 002.02
-A9 | k1 Sm2.III | [Hamburg : Studentenwesen, Wohnungswesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144718/about.de.html ) | 24 | A 009 | k 01 SM 002.03
+A9 | k1 Sm2.I | [Hamburg : Studentenwesen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144716/about.de.html ) | 136 | A 009 | k 01 SM 002.01
+A9 | k1 Sm2.II | [Hamburg : Studentenwesen, Studentische Selbstverwaltung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144717/about.de.html ) | 1 | A 009 | k 01 SM 002.02
+A9 | k1 Sm2.III | [Hamburg : Studentenwesen, Wohnungswesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144718/about.de.html ) | 29 | A 009 | k 01 SM 002.03
 A9 | k1 Sm2.IV | [Hamburg : Studentenwesen, Arbeitsvermittlung und Berufsberatung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144719/about.de.html ) | 3 | A 009 | k 01 SM 002.04
-A9 | k1 Sm2.V | [Hamburg : Studentenwesen, Wohlfahrtseinrichtungen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144720/about.de.html ) | 2 | A 009 | k 01 SM 002.05
+A9 | k1 Sm2.V | [Hamburg : Studentenwesen, Wohlfahrtseinrichtungen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144720/about.de.html ) | 3 | A 009 | k 01 SM 002.05
 A9 | k1 Sm2.VI | [Hamburg : Studentenwesen, Wirtschaftliche Selbsthilfe](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144721/about.de.html ) | 0 | A 009 | k 01 SM 002.06
 A9 | k1 Sm2.VII | [Hamburg : Studentenwesen, Verbindungen, Vereine, freie Organisationen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144722/about.de.html ) | 10 | A 009 | k 01 SM 002.07
-A9 | k1 Sm3 | [Hamburg : Volkshochschulen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144723/about.de.html ) | 69 | A 009 | k 01 SM 003
-A9 | k1 Sm4 | [Hamburg : Technisches Hochschulwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144724/about.de.html ) | 11 | A 009 | k 01 SM 004
-A9 | k1 Sm5 | [Hamburg : Land- und forstwirtschaftliches Hochschul- und Forschungswesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144725/about.de.html ) | 2 | A 009 | k 01 SM 005
-A9 | k1 Sm6 | [Hamburg : Frauenstudium](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144726/about.de.html ) | 15 | A 009 | k 01 SM 006
+A9 | k1 Sm3 | [Hamburg : Volkshochschulen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144723/about.de.html ) | 77 | A 009 | k 01 SM 003
+A9 | k1 Sm4 | [Hamburg : Technisches Hochschulwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144724/about.de.html ) | 14 | A 009 | k 01 SM 004
+A9 | k1 Sm5 | [Hamburg : Land- und forstwirtschaftliches Hochschul- und Forschungswesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144725/about.de.html ) | 4 | A 009 | k 01 SM 005
+A9 | k1 Sm6 | [Hamburg : Frauenstudium](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144726/about.de.html ) | 16 | A 009 | k 01 SM 006
 A9 | k1 Sm7 | [Hamburg : Akademiker](https://pm20.zbw.eu/folder/sh/1409xx/140905/1633xx/163327/about.de.html ) | 1 | A 009 | k 01 SM 007
 A9 | k1 Sm7.I | [Hamburg : Akademische Berufe, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144727/about.de.html ) | 10 | A 009 | k 01 SM 007.01
 A9 | k1 Sm7.IIa | [Hamburg : Akademische Berufe, Einzelne, Volkswirte](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144728/about.de.html ) | 4 | A 009 | k 01 SM 007.02a
-A9 | k1 Sm7.IIb | [Hamburg : Akademische Berufe, Einzelne, Juristen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144729/about.de.html ) | 11 | A 009 | k 01 SM 007.02b
+A9 | k1 Sm7.IIb | [Hamburg : Akademische Berufe, Einzelne, Juristen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144729/about.de.html ) | 13 | A 009 | k 01 SM 007.02b
 A9 | k1 Sm7.IIc | [Hamburg : Akademische Berufe, Einzelne, Ingenieure](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144730/about.de.html ) | 11 | A 009 | k 01 SM 007.02c
 A9 | k1 Sm7.IId | [Hamburg : Akademische Berufe, Einzelne, Chemiker](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144731/about.de.html ) | 3 | A 009 | k 01 SM 007.02d
 A9 | k1 Sm8 | [Hamburg : Wirtschaftswissenschaftliche Forschung und Lehre](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144732/about.de.html ) | 8 | A 009 | k 01 SM 008
 A9 | k1 Sm9 | [Hamburg : Handelshochschulen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144733/about.de.html ) | 8 | A 009 | k 01 SM 009
-A9 | k1 Sm12 | [Hamburg : Forschung und Lehre über Kolonien und Ausland](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144735/about.de.html ) | 181 | A 009 | k 01 SM 012
+A9 | k1 Sm12 | [Hamburg : Forschung und Lehre über Kolonien und Ausland](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144735/about.de.html ) | 183 | A 009 | k 01 SM 012
 A9 | k1 Sm40 | [Hamburg : Hochschulwesen, Berufe und Ausbildung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1819xx/181964/about.de.html ) | 38 | A 009 | k 01 SM 040
 A9 | k1 Sm50 | [Hamburg : Hochschulwesen, Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1872xx/187228/about.de.html ) | 5 | A 009 | k 01 SM 050
-A9 | k1a | [Hamburg : Wissenschaftliche Beziehungen zu einzelnen Ländern und geistige Zusammenarbeit mit einz. Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144738/about.de.html ) | 312 | A 009 | k 01a
-A9 | k2 | [Hamburg : Schulwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144739/about.de.html ) | 485 | A 009 | k 02
-A9 | k2 Sm1 | [Hamburg : Elementarschulen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144740/about.de.html ) | 88 | A 009 | k 02 SM 001
-A9 | k2 Sm2 | [Hamburg : Mittleres Schulwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144741/about.de.html ) | 92 | A 009 | k 02 SM 002
+A9 | k1a | [Hamburg : Wissenschaftliche Beziehungen zu einzelnen Ländern und geistige Zusammenarbeit mit einz. Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144738/about.de.html ) | 322 | A 009 | k 01a
+A9 | k2 | [Hamburg : Schulwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144739/about.de.html ) | 586 | A 009 | k 02
+A9 | k2 Sm1 | [Hamburg : Elementarschulen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144740/about.de.html ) | 94 | A 009 | k 02 SM 001
+A9 | k2 Sm2 | [Hamburg : Mittleres Schulwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144741/about.de.html ) | 100 | A 009 | k 02 SM 002
 A9 | k2 Sm3 | [Hamburg : Pflichtfortbildungsschulwesen (später  Berufsschulwesen, Gewerbeschulwesen (nicht Fachschulen))](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144742/about.de.html ) | 30 | A 009 | k 02 SM 003
-A9 | k2 Sm4 | [Hamburg : Fachschulwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144743/about.de.html ) | 189 | A 009 | k 02 SM 004
+A9 | k2 Sm4 | [Hamburg : Fachschulwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144743/about.de.html ) | 192 | A 009 | k 02 SM 004
 A9 | k2 Sm5 | [Hamburg : Kolonialschulwesen (im Mutterland)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144744/about.de.html ) | 6 | A 009 | k 02 SM 005
-A9 | k2 Sm7 | [Hamburg : Übungs- (Schein-) Wirtschaft als Berufsausbildung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144746/about.de.html ) | 21 | A 009 | k 02 SM 007
+A9 | k2 Sm7 | [Hamburg : Übungs- (Schein-) Wirtschaft als Berufsausbildung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144746/about.de.html ) | 23 | A 009 | k 02 SM 007
 A9 | k2 Sm20 | [Hamburg : Schulwesen, Kongresse und Veranstaltungen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1819xx/181980/about.de.html ) | 8 | A 009 | k 02 SM 020
-A9 | k2 Sm40 | [Hamburg : Schulwesen, Berufe und Ausbildung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1819xx/181981/about.de.html ) | 127 | A 009 | k 02 SM 040
-A9 | k2 Sm50 | [Hamburg : Schulwesen, Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1819xx/181982/about.de.html ) | 11 | A 009 | k 02 SM 050
+A9 | k2 Sm40 | [Hamburg : Schulwesen, Berufe und Ausbildung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1819xx/181981/about.de.html ) | 160 | A 009 | k 02 SM 040
+A9 | k2 Sm50 | [Hamburg : Schulwesen, Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1819xx/181982/about.de.html ) | 12 | A 009 | k 02 SM 050
 A9 | k2 Sm501 (A9) | [Hamburg : Einheitsschule (Hamburg)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144747/about.de.html ) | 22 | A 009 | k 02 SM 501 (A 009)
 A9 | k2 Sm502 (A9) | [Hamburg : Privatschulwesen (Hamburg)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144750/about.de.html ) | 27 | A 009 | k 02 SM 502 (A 009)
 A9 | l | [Hamburg : Militärwesen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144762/about.de.html ) | 4 | A 009 | l
 A9 | l Sm1 | [Hamburg : Wehrpflicht](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144785/about.de.html ) | 2 | A 009 | l 00 SM 001
-A9 | l Sm2 | [Hamburg : Mannschaftsverluste im Weltkriege, Grabstätten](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144786/about.de.html ) | 39 | A 009 | l 00 SM 002
-A9 | l Sm8 | [Hamburg : Wehrleistung der Zivilbevölkerung (später: Ziviler Bevölkerungsschutz)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144796/about.de.html ) | 8 | A 009 | l 00 SM 008
+A9 | l Sm2 | [Hamburg : Mannschaftsverluste im Weltkriege, Grabstätten](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144786/about.de.html ) | 42 | A 009 | l 00 SM 002
+A9 | l Sm8 | [Hamburg : Wehrleistung der Zivilbevölkerung (später: Ziviler Bevölkerungsschutz)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144796/about.de.html ) | 12 | A 009 | l 00 SM 008
 A9 | l Sm13 | [Hamburg : Frauen im Wehrdienst](https://pm20.zbw.eu/folder/sh/1409xx/140905/1448xx/144800/about.de.html ) | 1 | A 009 | l 00 SM 013
 A9 | l2 | [Hamburg : Flotte](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144768/about.de.html ) | 1 | A 009 | l 02
 A9 | l3 | [Hamburg : Festungen, Militärstationen,...  (später:  Militärbauten und -liegenschaften)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144773/about.de.html ) | 2 | A 009 | l 03
@@ -1075,281 +1075,281 @@ A9 | l5 Sm1 | [Hamburg : Rotes Kreuz](https://pm20.zbw.eu/folder/sh/1409xx/14090
 A9 | l6 Sm1 | [Hamburg : Munition](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144781/about.de.html ) | 1 | A 009 | l 06 SM 001
 A9 | l7 | [Hamburg : Besoldung, Pensionen, Kriegsunterstützungen, Versorgung ehemaliger Soldaten](https://pm20.zbw.eu/folder/sh/1409xx/140905/1447xx/144783/about.de.html ) | 25 | A 009 | l 07
 A9 | m | [Hamburg : Finanzwesen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1448xx/144809/about.de.html ) | 28 | A 009 | m
-A9 | m Sm1 (obsolet) | [Hamburg : Privatwirtschaftliche Betätigung der Öffentlichen Hand (obsolet)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1633xx/163309/about.de.html ) | 2 | A 009 | m 00 SM 001 (obsolet)
+A9 | m Sm1 (obsolet) | [Hamburg : Privatwirtschaftliche Betätigung der Öffentlichen Hand (obsolet)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1633xx/163309/about.de.html ) | 3 | A 009 | m 00 SM 001 (obsolet)
 A9 | m Sm2.I | [Hamburg : Privatwirtschaftliche Betätigung der Öffentlichen Hand, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144909/about.de.html ) | 3 | A 009 | m 00 SM 002.01
 A9 | m Sm2.II | [Hamburg : Privatwirtschaftliche Betätigung der Öffentlichen Hand. Öffentliche Betriebe, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144910/about.de.html ) | 16 | A 009 | m 00 SM 002.02
 A9 | m Sm2.III | [Hamburg : Privatwirt. Betätigung der Öff. Hand, Staatl. u. komm. Beteiligung an priv. Unternehmungen, Allg.](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144911/about.de.html ) | 20 | A 009 | m 00 SM 002.03
 A9 | m Sm3 | [Hamburg : Fiskalisches Vermögen, Staatsschuld](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144912/about.de.html ) | 3 | A 009 | m 00 SM 003
 A9 | m Sm4 | [Hamburg : Aufwertung öffentlicher Anleihen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144913/about.de.html ) | 33 | A 009 | m 00 SM 004
 A9 | m Sm5 | [Hamburg : Gebührenwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144914/about.de.html ) | 138 | A 009 | m 00 SM 005
-A9 | m Sm9.III | [Hamburg : Finanzwesen der Bundesstaaten und Provinzen, Finanzausgleich](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144920/about.de.html ) | 0 | A 009 | m 00 SM 009.03
+A9 | m Sm9.III | [Hamburg : Finanzwesen der Bundesstaaten und Provinzen, Finanzausgleich](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144920/about.de.html ) | 6 | A 009 | m 00 SM 009.03
 A9 | m Sm9.IV | [Hamburg : Finanzwesen der Bundesstaaten und Provinzen, Zwischenbundesstaatliche (etc.) Abgaben, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144921/about.de.html ) | 0 | A 009 | m 00 SM 009.04
 A9 | m Sm11 | [Hamburg : Staatslotterie, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144922/about.de.html ) | 1 | A 009 | m 00 SM 011
-A9 | m Sm12 | [Hamburg : Submissionswesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144923/about.de.html ) | 45 | A 009 | m 00 SM 012
-A9 | m Sm50 | [Hamburg : Finanzwesen, Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1819xx/181992/about.de.html ) | 45 | A 009 | m 00 SM 050
-A9 | m1 | [Hamburg : Staatshaushalt](https://pm20.zbw.eu/folder/sh/1409xx/140905/1448xx/144810/about.de.html ) | 94 | A 009 | m 01
-A9 | m1 Sm4 | [Hamburg : Inlandsschulden, insbes. Anleihepolitik in Landeswährung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1632xx/163296/about.de.html ) | 11 | A 009 | m 01 SM 004
-A9 | m1 Sm5.I | [Hamburg : Äußere Schuld, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1448xx/144818/about.de.html ) | 1 | A 009 | m 01 SM 005.01
-A9 | m1 Sm5.II | [Hamburg : Äußere Schuld, Gegenüber einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140905/1448xx/144819/about.de.html ) | 3 | A 009 | m 01 SM 005.02
+A9 | m Sm12 | [Hamburg : Submissionswesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144923/about.de.html ) | 48 | A 009 | m 00 SM 012
+A9 | m Sm50 | [Hamburg : Finanzwesen, Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1819xx/181992/about.de.html ) | 54 | A 009 | m 00 SM 050
+A9 | m1 | [Hamburg : Staatshaushalt](https://pm20.zbw.eu/folder/sh/1409xx/140905/1448xx/144810/about.de.html ) | 202 | A 009 | m 01
+A9 | m1 Sm4 | [Hamburg : Inlandsschulden, insbes. Anleihepolitik in Landeswährung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1632xx/163296/about.de.html ) | 32 | A 009 | m 01 SM 004
+A9 | m1 Sm5.I | [Hamburg : Äußere Schuld, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1448xx/144818/about.de.html ) | 11 | A 009 | m 01 SM 005.01
+A9 | m1 Sm5.II | [Hamburg : Äußere Schuld, Gegenüber einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140905/1448xx/144819/about.de.html ) | 4 | A 009 | m 01 SM 005.02
 A9 | m2 | [Hamburg : Zollwesen, Zolltarife](https://pm20.zbw.eu/folder/sh/1409xx/140905/1448xx/144850/about.de.html ) | 27 | A 009 | m 02
-A9 | m2 Sm4.I | [Hamburg : Zollformalitäten, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1448xx/144858/about.de.html ) | 2 | A 009 | m 02 SM 004.01
+A9 | m2 Sm4.I | [Hamburg : Zollformalitäten, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1448xx/144858/about.de.html ) | 5 | A 009 | m 02 SM 004.01
 A9 | m2 Sm4.II | [Hamburg : Zollformalitäten, im Handelsverkehr mit einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140905/1448xx/144859/about.de.html ) | 2 | A 009 | m 02 SM 004.02
 A9 | m2 Sm6 | [Hamburg : Zollniederlagen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1448xx/144861/about.de.html ) | 0 | A 009 | m 02 SM 006
-A9 | m2 Sm9 | [Hamburg : Bekämpfung des Schmuggels](https://pm20.zbw.eu/folder/sh/1409xx/140905/1448xx/144864/about.de.html ) | 9 | A 009 | m 02 SM 009
-A9 | m2 Sm50 | [Hamburg : Zollwesen, Zolltarife, Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1820xx/182000/about.de.html ) | 3 | A 009 | m 02 SM 050
-A9 | m3 | [Hamburg : Steuerwesen (Finanzwesen)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1448xx/144868/about.de.html ) | 92 | A 009 | m 03
+A9 | m2 Sm9 | [Hamburg : Bekämpfung des Schmuggels](https://pm20.zbw.eu/folder/sh/1409xx/140905/1448xx/144864/about.de.html ) | 17 | A 009 | m 02 SM 009
+A9 | m2 Sm50 | [Hamburg : Zollwesen, Zolltarife, Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1820xx/182000/about.de.html ) | 4 | A 009 | m 02 SM 050
+A9 | m3 | [Hamburg : Steuerwesen (Finanzwesen)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1448xx/144868/about.de.html ) | 98 | A 009 | m 03
 A9 | m3 Sm2 | [Hamburg : Steuerflucht, Kapitalabwanderung, Steuerhinterziehung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1448xx/144870/about.de.html ) | 2 | A 009 | m 03 SM 002
 A9 | m3 Sm7 | [Hamburg : Provinziales und kommunales Steuerwesen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1448xx/144875/about.de.html ) | 11 | A 009 | m 03 SM 007
 A9 | m3 Sm8 | [Hamburg : Steuerliche Bewertung des Eigentums](https://pm20.zbw.eu/folder/sh/1409xx/140905/1448xx/144876/about.de.html ) | 3 | A 009 | m 03 SM 008
 A9 | m3 Sm20 | [Hamburg : Steuerwesen, Konferenzen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1872xx/187241/about.de.html ) | 2 | A 009 | m 03 SM 020
 A9 | m3 Sm40 | [Hamburg : Steuerwesen, Berufe und Ausbildung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1872xx/187242/about.de.html ) | 2 | A 009 | m 03 SM 040
 A9 | m3 Sm50 | [Hamburg : Steuerwesen, Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1872xx/187240/about.de.html ) | 5 | A 009 | m 03 SM 050
-A9 | m3a | [Hamburg : Einzelne Steuern](https://pm20.zbw.eu/folder/sh/1409xx/140905/1448xx/144889/about.de.html ) | 446 | A 009 | m 03a
+A9 | m3a | [Hamburg : Einzelne Steuern](https://pm20.zbw.eu/folder/sh/1409xx/140905/1448xx/144889/about.de.html ) | 464 | A 009 | m 03a
 A9 | m5 | [Hamburg : Kommunales Finanzwesen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1448xx/144895/about.de.html ) | 4 | A 009 | m 05
 A9 | m5a | [Hamburg : Finanzwesen einzelner Städte](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144902/about.de.html ) | 9 | A 009 | m 05a
-A9 | n | [Hamburg : Wirtschaft, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144930/about.de.html ) | 74 | A 009 | n
-A9 | n Sm1.I | [Hamburg : Fremdländische Kapitalanlagen, privatwirtschaftliche Interessen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145774/about.de.html ) | 4 | A 009 | n 00 SM 001.01
+A9 | n | [Hamburg : Wirtschaft, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144930/about.de.html ) | 78 | A 009 | n
+A9 | n Sm1.I | [Hamburg : Fremdländische Kapitalanlagen, privatwirtschaftliche Interessen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145774/about.de.html ) | 5 | A 009 | n 00 SM 001.01
 A9 | n Sm1.II | [Hamburg : Fremdländische Kapitalanlagen, privatwirtschaftliche Interessen, Angehöriger Einzelner Länder](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145775/about.de.html ) | 2 | A 009 | n 00 SM 001.02
 A9 | n Sm3.I | [Hamburg : Wirtschaftsstatistik, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145778/about.de.html ) | 11 | A 009 | n 00 SM 003.01
 A9 | n Sm3.II | [Hamburg : Wirtschaftsstatistik, Einzelne Sachgebiete betreffend](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145779/about.de.html ) | 27 | A 009 | n 00 SM 003.02
 A9 | n Sm4 | [Hamburg : Konkurswesen, Geschäftsaufsicht](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145780/about.de.html ) | 10 | A 009 | n 00 SM 004
 A9 | n Sm5 | [Hamburg : Berufe](https://pm20.zbw.eu/folder/sh/1409xx/140905/1632xx/163247/about.de.html ) | 13 | A 009 | n 00 SM 005
-A9 | n Sm5.I | [Hamburg : Berufe, Verteilung der Berufe (Übersichten)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145781/about.de.html ) | 6 | A 009 | n 00 SM 005.01
+A9 | n Sm5.I | [Hamburg : Berufe, Verteilung der Berufe (Übersichten)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145781/about.de.html ) | 14 | A 009 | n 00 SM 005.01
 A9 | n Sm5.II | [Hamburg : Berufe, Berufskundliche Forschung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145782/about.de.html ) | 2 | A 009 | n 00 SM 005.02
-A9 | n Sm5.III | [Hamburg : Berufe, Berufserziehung, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145783/about.de.html ) | 15 | A 009 | n 00 SM 005.03
-A9 | n Sm6.I | [Hamburg : Nationale Kapitalanlagen, Übersichten im In- und Ausland, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145784/about.de.html ) | 6 | A 009 | n 00 SM 006.01
+A9 | n Sm5.III | [Hamburg : Berufe, Berufserziehung, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145783/about.de.html ) | 20 | A 009 | n 00 SM 005.03
+A9 | n Sm6.I | [Hamburg : Nationale Kapitalanlagen, Übersichten im In- und Ausland, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145784/about.de.html ) | 7 | A 009 | n 00 SM 006.01
 A9 | n Sm6.II | [Hamburg : Nationale Kapitalanlagen im Ausland](https://pm20.zbw.eu/folder/sh/1409xx/140905/1632xx/163242/about.de.html ) | 0 | A 009 | n 00 SM 006.02
 A9 | n Sm7 | [Hamburg : Kartell-, Syndikat und Trustwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1632xx/163238/about.de.html ) | 1 | A 009 | n 00 SM 007
 A9 | n Sm8.I | [Hamburg : Normung, Standardisierung, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145790/about.de.html ) | 1 | A 009 | n 00 SM 008.01
 A9 | n Sm8.III | [Hamburg : Normung, Standardisierung, von Bodenprodukten](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145792/about.de.html ) | 0 | A 009 | n 00 SM 008.03
 A9 | n Sm11 | [Hamburg : Unlauteres Wirtschaftsgebahren, Allgemein, Bestechungswesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145794/about.de.html ) | 51 | A 009 | n 00 SM 011
 A9 | n Sm12 | [Hamburg : Marktforschung und Absatzsteigerungsmethoden, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145795/about.de.html ) | 1 | A 009 | n 00 SM 012
-A9 | n Sm13 | [Hamburg : Rohstoffversorgung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145796/about.de.html ) | 0 | A 009 | n 00 SM 013
-A9 | n Sm14 | [Hamburg : Unternehmertum und Betriebsführung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145797/about.de.html ) | 0 | A 009 | n 00 SM 014
+A9 | n Sm13 | [Hamburg : Rohstoffversorgung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145796/about.de.html ) | 1 | A 009 | n 00 SM 013
+A9 | n Sm14 | [Hamburg : Unternehmertum und Betriebsführung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145797/about.de.html ) | 4 | A 009 | n 00 SM 014
 A9 | n Sm17 | [Hamburg : Handels- und Industriespionage, Sabotage](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145803/about.de.html ) | 0 | A 009 | n 00 SM 017
 A9 | n Sm19 | [Hamburg : Aufwertung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1632xx/163230/about.de.html ) | 6 | A 009 | n 00 SM 019
 A9 | n Sm19.I | [Hamburg : Aufwertung, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145805/about.de.html ) | 11 | A 009 | n 00 SM 019.01
 A9 | n Sm19.II | [Hamburg : Aufwertung, Aufwertungsverfahren](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145806/about.de.html ) | 1 | A 009 | n 00 SM 019.02
 A9 | n Sm21 | [Hamburg : Bilanzen auf Goldbasis](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145808/about.de.html ) | 4 | A 009 | n 00 SM 021
-A9 | n Sm23 | [Hamburg : Lebenshaltung, Lebensstandard, Einkommensverteilung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145810/about.de.html ) | 3 | A 009 | n 00 SM 023
-A9 | n Sm24 | [Hamburg : Private Aufruhrschäden (später: Durch politische Umwälzung entstandene private Schäden)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145812/about.de.html ) | 58 | A 009 | n 00 SM 024
-A9 | n Sm25 | [Hamburg : Private Kriegsschäden](https://pm20.zbw.eu/folder/sh/1409xx/140905/1632xx/163226/about.de.html ) | 14 | A 009 | n 00 SM 025
-A9 | n Sm26 | [Hamburg : Okkupations- und Sanktionsschäden](https://pm20.zbw.eu/folder/sh/1409xx/140905/1632xx/163218/about.de.html ) | 22 | A 009 | n 00 SM 026
+A9 | n Sm23 | [Hamburg : Lebenshaltung, Lebensstandard, Einkommensverteilung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145810/about.de.html ) | 8 | A 009 | n 00 SM 023
+A9 | n Sm24 | [Hamburg : Private Aufruhrschäden (später: Durch politische Umwälzung entstandene private Schäden)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145812/about.de.html ) | 63 | A 009 | n 00 SM 024
+A9 | n Sm25 | [Hamburg : Private Kriegsschäden](https://pm20.zbw.eu/folder/sh/1409xx/140905/1632xx/163226/about.de.html ) | 21 | A 009 | n 00 SM 025
+A9 | n Sm26 | [Hamburg : Okkupations- und Sanktionsschäden](https://pm20.zbw.eu/folder/sh/1409xx/140905/1632xx/163218/about.de.html ) | 42 | A 009 | n 00 SM 026
 A9 | n Sm27 | [Hamburg : Markenartikel, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145822/about.de.html ) | 1 | A 009 | n 00 SM 027
-A9 | n Sm28 | [Hamburg : Spielbanken, Private Lotterien, Wettunternehmungen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145824/about.de.html ) | 41 | A 009 | n 00 SM 028
-A9 | n Sm29 | [Hamburg : Auktionswesen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145825/about.de.html ) | 0 | A 009 | n 00 SM 029
-A9 | n Sm31 | [Hamburg : Gewerbewesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145826/about.de.html ) | 64 | A 009 | n 00 SM 031
+A9 | n Sm28 | [Hamburg : Spielbanken, Private Lotterien, Wettunternehmungen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145824/about.de.html ) | 58 | A 009 | n 00 SM 028
+A9 | n Sm29 | [Hamburg : Auktionswesen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145825/about.de.html ) | 1 | A 009 | n 00 SM 029
+A9 | n Sm31 | [Hamburg : Gewerbewesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145826/about.de.html ) | 65 | A 009 | n 00 SM 031
 A9 | n Sm32 | [Hamburg : Wasserwirtschaft (incl. Wasserrecht)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1632xx/163215/about.de.html ) | 1 | A 009 | n 00 SM 032
-A9 | n Sm32.I | [Hamburg : Wasserwirtschaft (incl. Wasserrecht), Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145827/about.de.html ) | 23 | A 009 | n 00 SM 032.01
-A9 | n Sm32.II | [Hamburg : Wasserwirtschaft (incl. Wasserrecht), Abwässserfrage](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145828/about.de.html ) | 24 | A 009 | n 00 SM 032.02
+A9 | n Sm32.I | [Hamburg : Wasserwirtschaft (incl. Wasserrecht), Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145827/about.de.html ) | 27 | A 009 | n 00 SM 032.01
+A9 | n Sm32.II | [Hamburg : Wasserwirtschaft (incl. Wasserrecht), Abwässserfrage](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145828/about.de.html ) | 31 | A 009 | n 00 SM 032.02
 A9 | n Sm34 | [Hamburg : Maße und Gewichte](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145830/about.de.html ) | 14 | A 009 | n 00 SM 034
-A9 | n Sm36.I | [Hamburg : Wärmewirtschaft, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145832/about.de.html ) | 9 | A 009 | n 00 SM 036.01
-A9 | n Sm36.IIa | [Hamburg : Wärmewirtschaft, Fernheizung, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145833/about.de.html ) | 5 | A 009 | n 00 SM 036.02a
-A9 | n Sm36.IIb | [Hamburg : Wärmewirtschaft, Fernheizung, in Einzelne Orten oder Gegenden](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145834/about.de.html ) | 2 | A 009 | n 00 SM 036.02b
-A9 | n Sm37 | [Hamburg : Lehrlingwesen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145835/about.de.html ) | 38 | A 009 | n 00 SM 037
+A9 | n Sm36.I | [Hamburg : Wärmewirtschaft, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145832/about.de.html ) | 14 | A 009 | n 00 SM 036.01
+A9 | n Sm36.IIa | [Hamburg : Wärmewirtschaft, Fernheizung, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145833/about.de.html ) | 8 | A 009 | n 00 SM 036.02a
+A9 | n Sm36.IIb | [Hamburg : Wärmewirtschaft, Fernheizung, in Einzelne Orten oder Gegenden](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145834/about.de.html ) | 4 | A 009 | n 00 SM 036.02b
+A9 | n Sm37 | [Hamburg : Lehrlingwesen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145835/about.de.html ) | 61 | A 009 | n 00 SM 037
 A9 | n Sm38.III | [Hamburg : Urheberschutz, Schutz des gewerblichen Eigentums](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145839/about.de.html ) | 0 | A 009 | n 00 SM 038.03
-A9 | n Sm39.I | [Hamburg : Erwerbsgesellschaften, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145840/about.de.html ) | 2 | A 009 | n 00 SM 039.01
-A9 | n Sm39.IIa | [Hamburg : Erwerbsgesellschaften, Einzelne (nach der Rechtsform), AG](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145841/about.de.html ) | 1 | A 009 | n 00 SM 039.02a
-A9 | n Sm40 | [Hamburg : Wirtschaft, Berufe und Ausbildung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1872xx/187252/about.de.html ) | 4 | A 009 | n 00 SM 040
+A9 | n Sm39.I | [Hamburg : Erwerbsgesellschaften, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145840/about.de.html ) | 3 | A 009 | n 00 SM 039.01
+A9 | n Sm39.IIa | [Hamburg : Erwerbsgesellschaften, Einzelne (nach der Rechtsform), AG](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145841/about.de.html ) | 2 | A 009 | n 00 SM 039.02a
+A9 | n Sm40 | [Hamburg : Wirtschaft, Berufe und Ausbildung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1872xx/187252/about.de.html ) | 9 | A 009 | n 00 SM 040
 A9 | n Sm41 | [Hamburg : Verpackungswesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145845/about.de.html ) | 0 | A 009 | n 00 SM 041
-A9 | n Sm42 | [Hamburg : Beleuchtungswirtschaft](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145846/about.de.html ) | 33 | A 009 | n 00 SM 042
-A9 | n Sm43 | [Hamburg : Kältewirtschaft, Kühlanlagen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145847/about.de.html ) | 15 | A 009 | n 00 SM 043
-A9 | n Sm45 | [Hamburg : Versorgungswirtschaft](https://pm20.zbw.eu/folder/sh/1409xx/140905/1631xx/163194/about.de.html ) | 47 | A 009 | n 00 SM 045
+A9 | n Sm42 | [Hamburg : Beleuchtungswirtschaft](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145846/about.de.html ) | 40 | A 009 | n 00 SM 042
+A9 | n Sm43 | [Hamburg : Kältewirtschaft, Kühlanlagen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145847/about.de.html ) | 19 | A 009 | n 00 SM 043
+A9 | n Sm45 | [Hamburg : Versorgungswirtschaft](https://pm20.zbw.eu/folder/sh/1409xx/140905/1631xx/163194/about.de.html ) | 54 | A 009 | n 00 SM 045
 A9 | n Sm46.IIa | [Hamburg : Atomenergie für friedliche Zwecke](https://pm20.zbw.eu/folder/sh/1409xx/140905/1872xx/187253/about.de.html ) | 1 | A 009 | n 00 SM 046.02a
 A9 | n Sm46.IIb | [Hamburg : Atomenergie für friedliche Zwecke, einzelne Kraftwerke](https://pm20.zbw.eu/folder/sh/1409xx/140905/1872xx/187254/about.de.html ) | 0 | A 009 | n 00 SM 046.02b
-A9 | n Sm50 | [Hamburg : Wirtschaft, Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1820xx/182050/about.de.html ) | 20 | A 009 | n 00 SM 050
+A9 | n Sm50 | [Hamburg : Wirtschaft, Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1820xx/182050/about.de.html ) | 22 | A 009 | n 00 SM 050
 A9 | n Sm52 | [Hamburg : Lagerhaltung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145854/about.de.html ) | 0 | A 009 | n 00 SM 052
 A9 | n Sm55 (alt) | [Hamburg : Public Utilities (der Öffentlichkeit dienende Versorgungs- und Verkehrsbetriebe)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145859/about.de.html ) | 8 | A 009 | n 00 SM 055 (alt)
 A9 | n Sm59 | [Hamburg : Prüfwesen für Werkstoffe und Waren, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145861/about.de.html ) | 1 | A 009 | n 00 SM 059
 A9 | n Sm60 | [Hamburg : Wirtschaft, Technik, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145862/about.de.html ) | 15 | A 009 | n 00 SM 060
 A9 | n Sm61 | [Hamburg : Aufkommen und Verwendung neuer Werkstoffe, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145863/about.de.html ) | 5 | A 009 | n 00 SM 061
-A9 | n Sm70 | [Hamburg : Wirtschaft, Finanzierungsfragen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145864/about.de.html ) | 1 | A 009 | n 00 SM 070
+A9 | n Sm70 | [Hamburg : Wirtschaft, Finanzierungsfragen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1458xx/145864/about.de.html ) | 2 | A 009 | n 00 SM 070
 A9 | n Sm100 | [Hamburg : Unternehmen und Betrieb](https://pm20.zbw.eu/folder/sh/1409xx/140905/1820xx/182052/about.de.html ) | 2 | A 009 | n 00 SM 100
 A9 | n Sm507 (A9) | [Hamburg : NS Hago und GHG (Hamburg)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1459xx/145904/about.de.html ) | 17 | A 009 | n 00 SM 507 (A 009)
-A9 | n1 | [Hamburg : Wirtschaftspolitik](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144931/about.de.html ) | 123 | A 009 | n 01
+A9 | n1 | [Hamburg : Wirtschaftspolitik](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144931/about.de.html ) | 129 | A 009 | n 01
 A9 | n1 Sm1 | [Hamburg : Übergangswirtschaftliche Planwirtschaft](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144932/about.de.html ) | 14 | A 009 | n 01 SM 001
 A9 | n1 Sm3 | [Hamburg : Sozialisierung, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144934/about.de.html ) | 33 | A 009 | n 01 SM 003
-A9 | n1 Sm4 | [Hamburg : Öffentliche Kredite und Subventionen an die Wirtschaft, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144935/about.de.html ) | 41 | A 009 | n 01 SM 004
+A9 | n1 Sm4 | [Hamburg : Öffentliche Kredite und Subventionen an die Wirtschaft, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144935/about.de.html ) | 44 | A 009 | n 01 SM 004
 A9 | n1 Sm5 | [Hamburg : Arbeitsdienstjahr und Arbeitsdienstpflicht](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144936/about.de.html ) | 55 | A 009 | n 01 SM 005
-A9 | n1 Sm11 | [Hamburg : Sozialpolitik, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144941/about.de.html ) | 9 | A 009 | n 01 SM 011
+A9 | n1 Sm11 | [Hamburg : Sozialpolitik, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144941/about.de.html ) | 10 | A 009 | n 01 SM 011
 A9 | n1 Sm12 | [Hamburg : Preisregelung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1631xx/163159/about.de.html ) | 3 | A 009 | n 01 SM 012
-A9 | n1 Sm12.I | [Hamburg : Preisregelung, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144942/about.de.html ) | 43 | A 009 | n 01 SM 012.01
-A9 | n1 Sm12.II | [Hamburg : Preisregelung, Preissenkungspolitik](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144943/about.de.html ) | 20 | A 009 | n 01 SM 012.02
-A9 | n1 Sm13 | [Hamburg : Pflege, Erhaltung und Vollverwertung nationaler Sachgüter](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144945/about.de.html ) | 40 | A 009 | n 01 SM 013
-A9 | n1 Sm14 | [Hamburg : Staatliche Reglementierung des Kapitalmarktes](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144947/about.de.html ) | 5 | A 009 | n 01 SM 014
+A9 | n1 Sm12.I | [Hamburg : Preisregelung, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144942/about.de.html ) | 45 | A 009 | n 01 SM 012.01
+A9 | n1 Sm12.II | [Hamburg : Preisregelung, Preissenkungspolitik](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144943/about.de.html ) | 21 | A 009 | n 01 SM 012.02
+A9 | n1 Sm13 | [Hamburg : Pflege, Erhaltung und Vollverwertung nationaler Sachgüter](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144945/about.de.html ) | 42 | A 009 | n 01 SM 013
+A9 | n1 Sm14 | [Hamburg : Staatliche Reglementierung des Kapitalmarktes](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144947/about.de.html ) | 6 | A 009 | n 01 SM 014
 A9 | n1 Sm15 | [Hamburg : Bekämpfung von Mißständen im Gründungswesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144948/about.de.html ) | 1 | A 009 | n 01 SM 015
-A9 | n1 Sm16 | [Hamburg : Massnahmen zur Erhaltung der Betriebe und Vermehrung der Arbeitsgelegenheit, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144949/about.de.html ) | 128 | A 009 | n 01 SM 016
+A9 | n1 Sm16 | [Hamburg : Massnahmen zur Erhaltung der Betriebe und Vermehrung der Arbeitsgelegenheit, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144949/about.de.html ) | 164 | A 009 | n 01 SM 016
 A9 | n1 Sm17 | [Hamburg : Hilfsaktionen für notleidende Landesteile](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144950/about.de.html ) | 7 | A 009 | n 01 SM 017
-A9 | n1 Sm19 | [Hamburg : Sicherung und Überwachung der Volksernährung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144952/about.de.html ) | 645 | A 009 | n 01 SM 019
+A9 | n1 Sm19 | [Hamburg : Sicherung und Überwachung der Volksernährung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144952/about.de.html ) | 651 | A 009 | n 01 SM 019
 A9 | n1 Sm63 | [Hamburg : Dienstpflicht und Ausbildungsverpflichtung für staatspolitische Aufgaben](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144958/about.de.html ) | 8 | A 009 | n 01 SM 063
-A9 | n2 | [Hamburg : Berichte über die wirtschaftliche Lage](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144972/about.de.html ) | 199 | A 009 | n 02
+A9 | n2 | [Hamburg : Berichte über die wirtschaftliche Lage](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144972/about.de.html ) | 258 | A 009 | n 02
 A9 | n2 Sm2 (alt) | [Hamburg : Jahresübersichten (Berichte über die wirtschaftliche Lage)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144974/about.de.html ) | 57 | A 009 | n 02 SM 002 (alt)
 A9 | n2 Sm3 | [Hamburg : Lage und Statistik von Erwerbsgesellschaften verschiedener Wirtschaftszweige, Übersichten](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144975/about.de.html ) | 8 | A 009 | n 02 SM 003
-A9 | n2 Sm4 | [Hamburg : Arbeitsmarkt, Erwerbslosenstatistik](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144976/about.de.html ) | 150 | A 009 | n 02 SM 004
-A9 | n2 Sm6 | [Hamburg : Zahlungseinstellungen, Konkurse und Liquidationen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144978/about.de.html ) | 30 | A 009 | n 02 SM 006
-A9 | n2 Sm7 | [Hamburg : Kapitalmarktübersichten, Neugründungen und Kapitalerhöhungen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144979/about.de.html ) | 19 | A 009 | n 02 SM 007
+A9 | n2 Sm4 | [Hamburg : Arbeitsmarkt, Erwerbslosenstatistik](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144976/about.de.html ) | 207 | A 009 | n 02 SM 004
+A9 | n2 Sm6 | [Hamburg : Zahlungseinstellungen, Konkurse und Liquidationen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144978/about.de.html ) | 32 | A 009 | n 02 SM 006
+A9 | n2 Sm7 | [Hamburg : Kapitalmarktübersichten, Neugründungen und Kapitalerhöhungen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144979/about.de.html ) | 20 | A 009 | n 02 SM 007
 A9 | n2 Sm9.II | [Hamburg : Indexziffern, Übersichten](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144983/about.de.html ) | 1 | A 009 | n 02 SM 009.02
-A9 | n2 Sm9.III | [Hamburg : Indexziffern, Einzelne Indices](https://pm20.zbw.eu/folder/sh/1409xx/140905/1631xx/163131/about.de.html ) | 0 | A 009 | n 02 SM 009.03
+A9 | n2 Sm9.III | [Hamburg : Indexziffern, Einzelne Indices](https://pm20.zbw.eu/folder/sh/1409xx/140905/1631xx/163131/about.de.html ) | 1 | A 009 | n 02 SM 009.03
 A9 | n2 Sm9.IIId | [Hamburg : Indexziffern, Einzelne Indices, Lebenshaltungsindex](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144987/about.de.html ) | 18 | A 009 | n 02 SM 009.03d
-A9 | n2 Sm9.IIIg | [Hamburg : Indexziffern, Einzelne Indices, Bauindices](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144990/about.de.html ) | 0 | A 009 | n 02 SM 009.03g
-A9 | n2 Sm9.IIIl | [Hamburg : Indexziffern, Einzelne Indices, Index der industriellen Produktion](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144995/about.de.html ) | 26 | A 009 | n 02 SM 009.03l
+A9 | n2 Sm9.IIIg | [Hamburg : Indexziffern, Einzelne Indices, Bauindices](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144990/about.de.html ) | 5 | A 009 | n 02 SM 009.03g
+A9 | n2 Sm9.IIIl | [Hamburg : Indexziffern, Einzelne Indices, Index der industriellen Produktion](https://pm20.zbw.eu/folder/sh/1409xx/140905/1449xx/144995/about.de.html ) | 51 | A 009 | n 02 SM 009.03l
 A9 | n2 Sm11.I | [Hamburg : Übersichten der Preisentwicklung, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145002/about.de.html ) | 2 | A 009 | n 02 SM 011.01
-A9 | n2 Sm11.II | [Hamburg : Übersichten der Preisentwicklung, Kosten der Lebenshaltung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145003/about.de.html ) | 186 | A 009 | n 02 SM 011.02
-A9 | n2 Sm11.III | [Hamburg : Übersichten der Preisentwicklung, Kleinhandelspreise](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145004/about.de.html ) | 5 | A 009 | n 02 SM 011.03
-A9 | n2 Sm11.IV | [Hamburg : Übersichten der Preisentwicklung, Großhandelspreise](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145005/about.de.html ) | 0 | A 009 | n 02 SM 011.04
+A9 | n2 Sm11.II | [Hamburg : Übersichten der Preisentwicklung, Kosten der Lebenshaltung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145003/about.de.html ) | 212 | A 009 | n 02 SM 011.02
+A9 | n2 Sm11.III | [Hamburg : Übersichten der Preisentwicklung, Kleinhandelspreise](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145004/about.de.html ) | 6 | A 009 | n 02 SM 011.03
+A9 | n2 Sm11.IV | [Hamburg : Übersichten der Preisentwicklung, Großhandelspreise](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145005/about.de.html ) | 6 | A 009 | n 02 SM 011.04
 A9 | n2 Sm12 | [Hamburg : Produktionsstatistische Erhebungen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145006/about.de.html ) | 1 | A 009 | n 02 SM 012
-A9 | n2a | [Hamburg : Berichte über die wirtschaftliche Lage in einzelnen Bundesstaaten, Provinzen und Städten](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145026/about.de.html ) | 109 | A 009 | n 02a
-A9 | n3 | [Hamburg : Bodenbesitzverhältnisse und Bodenpolitik, Hausbesitz](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145027/about.de.html ) | 83 | A 009 | n 03
+A9 | n2a | [Hamburg : Berichte über die wirtschaftliche Lage in einzelnen Bundesstaaten, Provinzen und Städten](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145026/about.de.html ) | 118 | A 009 | n 02a
+A9 | n3 | [Hamburg : Bodenbesitzverhältnisse und Bodenpolitik, Hausbesitz](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145027/about.de.html ) | 85 | A 009 | n 03
 A9 | n3 Sm1 | [Hamburg : Staatliche Bodenbesitzverhältnisse und Bodenpolitik](https://pm20.zbw.eu/folder/sh/1409xx/140905/1619xx/161908/about.de.html ) | 30 | A 009 | n 03 SM 001
 A9 | n3 Sm1.I | [Hamburg : Staatliche Bodenbesitzverhältnisse und Bodenpolitik, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145028/about.de.html ) | 21 | A 009 | n 03 SM 001.01
 A9 | n3 Sm1.III | [Hamburg : Katasterwesen, Grundbuchwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145030/about.de.html ) | 70 | A 009 | n 03 SM 001.03
-A9 | n3 Sm1.IV | [Hamburg : Uferschutzanlagen, Neulandgewinnung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145031/about.de.html ) | 29 | A 009 | n 03 SM 001.04
-A9 | n3 Sm1.V | [Hamburg : Verwaltung und Verpachtung staatlicher Güter](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145032/about.de.html ) | 4 | A 009 | n 03 SM 001.05
-A9 | n3 Sm3 | [Hamburg : Sozialisierung des Bodens (später:  Bodenreform)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145034/about.de.html ) | 20 | A 009 | n 03 SM 003
+A9 | n3 Sm1.IV | [Hamburg : Uferschutzanlagen, Neulandgewinnung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145031/about.de.html ) | 30 | A 009 | n 03 SM 001.04
+A9 | n3 Sm1.V | [Hamburg : Verwaltung und Verpachtung staatlicher Güter](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145032/about.de.html ) | 5 | A 009 | n 03 SM 001.05
+A9 | n3 Sm3 | [Hamburg : Sozialisierung des Bodens (später:  Bodenreform)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145034/about.de.html ) | 21 | A 009 | n 03 SM 003
 A9 | n3 Sm4 | [Hamburg : Bodenreformbewegung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145035/about.de.html ) | 7 | A 009 | n 03 SM 004
 A9 | n3 Sm5 | [Hamburg : Grundbesitz von Ausländern, Überfremdung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145036/about.de.html ) | 4 | A 009 | n 03 SM 005
-A9 | n3 Sm6 | [Hamburg : Bodenpreise (Übersichten)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145037/about.de.html ) | 21 | A 009 | n 03 SM 006
-A9 | n3 Sm7 | [Hamburg : Grundstückshandel und Grundstücksmarkt, Immobilien-Börsen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145038/about.de.html ) | 115 | A 009 | n 03 SM 007
-A9 | n3 Sm40 | [Hamburg : Immobilien, Berufe und Ausbildung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1820xx/182058/about.de.html ) | 12 | A 009 | n 03 SM 040
+A9 | n3 Sm6 | [Hamburg : Bodenpreise (Übersichten)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145037/about.de.html ) | 23 | A 009 | n 03 SM 006
+A9 | n3 Sm7 | [Hamburg : Grundstückshandel und Grundstücksmarkt, Immobilien-Börsen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145038/about.de.html ) | 121 | A 009 | n 03 SM 007
+A9 | n3 Sm40 | [Hamburg : Immobilien, Berufe und Ausbildung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1820xx/182058/about.de.html ) | 15 | A 009 | n 03 SM 040
 A9 | n3 Sm50 | [Hamburg : Immobilien, Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1872xx/187257/about.de.html ) | 1 | A 009 | n 03 SM 050
 A9 | n3 Sm501 (A9) | [Hamburg : Erbbaurecht](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145040/about.de.html ) | 11 | A 009 | n 03 SM 501 (A 009)
 A9 | n3 Sm502 (A9) | [Hamburg : Anerbenrecht (Hamburg)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145044/about.de.html ) | 3 | A 009 | n 03 SM 502 (A 009)
 A9 | n3a | [Hamburg : Bodenbesitzverhältnisse und Bodenpolitik, Hausbesitz, in einzelnen Regionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145047/about.de.html ) | 10 | A 009 | n 03a
-A9 | n4 | [Hamburg : Landwirtschaft](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145048/about.de.html ) | 106 | A 009 | n 04
+A9 | n4 | [Hamburg : Landwirtschaft](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145048/about.de.html ) | 107 | A 009 | n 04
 A9 | n4 Sm1 (alt) | [Hamburg : Ernte](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145049/about.de.html ) | 1 | A 009 | n 04 SM 001 (alt)
-A9 | n4 Sm2 | [Hamburg : Ödland und Moorkultur](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145050/about.de.html ) | 21 | A 009 | n 04 SM 002
-A9 | n4 Sm3 | [Hamburg : Gartenbau](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145051/about.de.html ) | 130 | A 009 | n 04 SM 003
+A9 | n4 Sm2 | [Hamburg : Ödland und Moorkultur](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145050/about.de.html ) | 26 | A 009 | n 04 SM 002
+A9 | n4 Sm3 | [Hamburg : Gartenbau](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145051/about.de.html ) | 140 | A 009 | n 04 SM 003
 A9 | n4 Sm4 | [Hamburg : Staatliche Unterstützung der Landwirtschaft](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145052/about.de.html ) | 7 | A 009 | n 04 SM 004
-A9 | n4 Sm6 | [Hamburg : Pachtverhältnisse](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145054/about.de.html ) | 13 | A 009 | n 04 SM 006
+A9 | n4 Sm6 | [Hamburg : Pachtverhältnisse](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145054/about.de.html ) | 14 | A 009 | n 04 SM 006
 A9 | n4 Sm8.I | [Hamburg : Schädlingsbekämpfung, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145056/about.de.html ) | 14 | A 009 | n 04 SM 008.01
 A9 | n4 Sm8.II | [Hamburg : Schädlingsbekämpfung, Einzelne](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145057/about.de.html ) | 8 | A 009 | n 04 SM 008.02
 A9 | n4 Sm9 | [Hamburg : Organisation des Absatzes](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145058/about.de.html ) | 4 | A 009 | n 04 SM 009
 A9 | n4 Sm20 | [Hamburg : Landwirtschaft, Konferenzen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1501xx/150185/about.de.html ) | 5 | A 009 | n 04 SM 020
-A9 | n4 Sm40 | [Hamburg : Landwirtschaft, Berufe und Ausbildung ](https://pm20.zbw.eu/folder/sh/1409xx/140905/1501xx/150188/about.de.html ) | 0 | A 009 | n 04 SM 040
+A9 | n4 Sm40 | [Hamburg : Landwirtschaft, Berufe und Ausbildung ](https://pm20.zbw.eu/folder/sh/1409xx/140905/1501xx/150188/about.de.html ) | 2 | A 009 | n 04 SM 040
 A9 | n4 Sm50 | [Hamburg : Landwirtschaft, Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1820xx/182061/about.de.html ) | 7 | A 009 | n 04 SM 050
 A9 | n4 Sm60 | [Hamburg : Landwirtschaft, Technisches](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145059/about.de.html ) | 2 | A 009 | n 04 SM 060
 A9 | n4a | [Hamburg : Landwirtschaft in einzelnen Bundesstaaten, Provinzen etc.](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145068/about.de.html ) | 20 | A 009 | n 04a
 A9 | n5 | [Hamburg : Viehwirtschaft](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145069/about.de.html ) | 23 | A 009 | n 05
 A9 | n5 Sm2 | [Hamburg : Tierseuche](https://pm20.zbw.eu/folder/sh/1409xx/140905/1618xx/161899/about.de.html ) | 44 | A 009 | n 05 SM 002
 A9 | n5 Sm2.I | [Hamburg : Viehseuche, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145071/about.de.html ) | 5 | A 009 | n 05 SM 002.01
-A9 | n5 Sm2.II | [Hamburg : Viehseuche, Einzelne](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145072/about.de.html ) | 37 | A 009 | n 05 SM 002.02
+A9 | n5 Sm2.II | [Hamburg : Viehseuche, Einzelne](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145072/about.de.html ) | 42 | A 009 | n 05 SM 002.02
 A9 | n5 Sm40 | [Hamburg : Viehwirtschaft, Berufe und Ausbildung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1820xx/182066/about.de.html ) | 2 | A 009 | n 05 SM 040
 A9 | n6 | [Hamburg : Bewässerung, Entwässerung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145073/about.de.html ) | 58 | A 009 | n 06
-A9 | n9 | [Hamburg : Forstwirtschaft](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145074/about.de.html ) | 25 | A 009 | n 09
-A9 | n10 | [Hamburg : Jagd](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145075/about.de.html ) | 9 | A 009 | n 10
-A9 | n11 | [Hamburg : Fischerei](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145076/about.de.html ) | 75 | A 009 | n 11
+A9 | n9 | [Hamburg : Forstwirtschaft](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145074/about.de.html ) | 30 | A 009 | n 09
+A9 | n10 | [Hamburg : Jagd](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145075/about.de.html ) | 10 | A 009 | n 10
+A9 | n11 | [Hamburg : Fischerei](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145076/about.de.html ) | 76 | A 009 | n 11
 A9 | n11 Sm1 (alt) | [Hamburg : Fangergebnisse](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145077/about.de.html ) | 2 | A 009 | n 11 SM 001 (alt)
 A9 | n11 Sm2 | [Hamburg : Fischereihäfen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1618xx/161896/about.de.html ) | 4 | A 009 | n 11 SM 002
-A9 | n11 Sm2.I | [Hamburg : Fischereihäfen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145078/about.de.html ) | 1 | A 009 | n 11 SM 002.01
-A9 | n11 Sm2.II | [Hamburg : Fischereihäfen, Einzelne](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145079/about.de.html ) | 50 | A 009 | n 11 SM 002.02
+A9 | n11 Sm2.I | [Hamburg : Fischereihäfen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145078/about.de.html ) | 2 | A 009 | n 11 SM 002.01
+A9 | n11 Sm2.II | [Hamburg : Fischereihäfen, Einzelne](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145079/about.de.html ) | 53 | A 009 | n 11 SM 002.02
 A9 | n12 | [Hamburg : Bergbau](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145083/about.de.html ) | 8 | A 009 | n 12
 A9 | n12 Sm1 | [Hamburg : Verstaatlichung des Bergbaus](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145084/about.de.html ) | 2 | A 009 | n 12 SM 001
-A9 | n13 | [Hamburg : Industrie](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145098/about.de.html ) | 142 | A 009 | n 13
+A9 | n13 | [Hamburg : Industrie](https://pm20.zbw.eu/folder/sh/1409xx/140905/1450xx/145098/about.de.html ) | 181 | A 009 | n 13
 A9 | n13 Sm3 | [Hamburg : Industrie, Öffentliche Kredite und Subventionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145101/about.de.html ) | 2 | A 009 | n 13 SM 003
-A9 | n13 Sm4.II | [Hamburg : Industrielle Verwertung von Naturkräften, Einzelne](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145103/about.de.html ) | 1 | A 009 | n 13 SM 004.02
+A9 | n13 Sm4.II | [Hamburg : Industrielle Verwertung von Naturkräften, Einzelne](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145103/about.de.html ) | 3 | A 009 | n 13 SM 004.02
 A9 | n13 Sm6 | [Hamburg : Verständigungsaktionen zwischen Arbeitgebern und Arbeitnehmern](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145105/about.de.html ) | 2 | A 009 | n 13 SM 006
-A9 | n13 Sm7 | [Hamburg : An- und Umsiedlung von Industrien, Standortsverlegung, Errichtung von Mietfabriken, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145106/about.de.html ) | 0 | A 009 | n 13 SM 007
+A9 | n13 Sm7 | [Hamburg : An- und Umsiedlung von Industrien, Standortsverlegung, Errichtung von Mietfabriken, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145106/about.de.html ) | 3 | A 009 | n 13 SM 007
 A9 | n13 Sm9 | [Hamburg : Forschungswesen der Industrie, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145109/about.de.html ) | 0 | A 009 | n 13 SM 009
-A9 | n13 Sm13 | [Hamburg : Demontage](https://pm20.zbw.eu/folder/sh/1409xx/140905/1872xx/187264/about.de.html ) | 4 | A 009 | n 13 SM 013
+A9 | n13 Sm13 | [Hamburg : Demontage](https://pm20.zbw.eu/folder/sh/1409xx/140905/1872xx/187264/about.de.html ) | 5 | A 009 | n 13 SM 013
 A9 | n13 Sm20 | [Hamburg : Industrie, Ausstellung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1820xx/182067/about.de.html ) | 11 | A 009 | n 13 SM 020
 A9 | n13 Sm40 | [Hamburg : Industrie, Berufe und Ausbildung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1820xx/182068/about.de.html ) | 15 | A 009 | n 13 SM 040
 A9 | n13 Sm50 | [Hamburg : Industrie, Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1820xx/182069/about.de.html ) | 2 | A 009 | n 13 SM 050
 A9 | n13 Sm70 | [Hamburg : Industrie, Kapitalbeschaffung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1872xx/187265/about.de.html ) | 2 | A 009 | n 13 SM 070
-A9 | n13a Sm1 | [Hamburg : Chemische Industrie](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145117/about.de.html ) | 10 | A 009 | n 13a SM 001
+A9 | n13a Sm1 | [Hamburg : Chemische Industrie](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145117/about.de.html ) | 11 | A 009 | n 13a SM 001
 A9 | n13a Sm2 | [Hamburg : Montanindustrie](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145118/about.de.html ) | 3 | A 009 | n 13a SM 002
-A9 | n13a Sm3 | [Hamburg : Textilindustrie](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145119/about.de.html ) | 8 | A 009 | n 13a SM 003
-A9 | n13a Sm4 | [Hamburg : Elektrizitätsindustrie](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145120/about.de.html ) | 111 | A 009 | n 13a SM 004
+A9 | n13a Sm3 | [Hamburg : Textilindustrie](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145119/about.de.html ) | 10 | A 009 | n 13a SM 003
+A9 | n13a Sm4 | [Hamburg : Elektrizitätsindustrie](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145120/about.de.html ) | 141 | A 009 | n 13a SM 004
 A9 | n13a Sm6 | [Hamburg : Schiffbau](https://pm20.zbw.eu/folder/sh/1409xx/140905/1618xx/161867/about.de.html ) | 59 | A 009 | n 13a SM 006
-A9 | n13a Sm6.I | [Hamburg : Schiffbau, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145122/about.de.html ) | 95 | A 009 | n 13a SM 006.01
-A9 | n13a Sm6.II | [Hamburg : Schiffbau, Statistik](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145123/about.de.html ) | 4 | A 009 | n 13a SM 006.02
+A9 | n13a Sm6.I | [Hamburg : Schiffbau, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145122/about.de.html ) | 267 | A 009 | n 13a SM 006.01
+A9 | n13a Sm6.II | [Hamburg : Schiffbau, Statistik](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145123/about.de.html ) | 10 | A 009 | n 13a SM 006.02
 A9 | n13a Sm6.III | [Hamburg : Schiffbau, Abwrackindustrie](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145124/about.de.html ) | 3 | A 009 | n 13a SM 006.03
-A9 | n13a Sm6.IVa | [Hamburg : Schiffbau, Schiffsbanken für das Ausland, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145125/about.de.html ) | 7 | A 009 | n 13a SM 006.04a
-A9 | n13a Sm6.IVb | [Hamburg : Schiffbau, Schiffsbanken für das Ausland, für einzelne Länder](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145126/about.de.html ) | 29 | A 009 | n 13a SM 006.04b
-A9 | n13a Sm6.VI | [Hamburg : Schiffbau, private und öffentliche Kredite, Subventionierung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1872xx/187266/about.de.html ) | 17 | A 009 | n 13a SM 006.06
-A9 | n13a Sm7.I | [Hamburg : Baugewerbe, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145128/about.de.html ) | 96 | A 009 | n 13a SM 007.01
-A9 | n13a Sm7.II | [Hamburg : Baugewerbe, Bauvorhaben, Baustatistik](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145129/about.de.html ) | 18 | A 009 | n 13a SM 007.02
+A9 | n13a Sm6.IVa | [Hamburg : Schiffbau, Schiffsbanken für das Ausland, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145125/about.de.html ) | 21 | A 009 | n 13a SM 006.04a
+A9 | n13a Sm6.IVb | [Hamburg : Schiffbau, Schiffsbanken für das Ausland, für einzelne Länder](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145126/about.de.html ) | 58 | A 009 | n 13a SM 006.04b
+A9 | n13a Sm6.VI | [Hamburg : Schiffbau, private und öffentliche Kredite, Subventionierung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1872xx/187266/about.de.html ) | 32 | A 009 | n 13a SM 006.06
+A9 | n13a Sm7.I | [Hamburg : Baugewerbe, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145128/about.de.html ) | 107 | A 009 | n 13a SM 007.01
+A9 | n13a Sm7.II | [Hamburg : Baugewerbe, Bauvorhaben, Baustatistik](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145129/about.de.html ) | 19 | A 009 | n 13a SM 007.02
 A9 | n13a Sm7.III | [Hamburg : Baugewerbe, Abbruchgewerbe](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145130/about.de.html ) | 8 | A 009 | n 13a SM 007.03
-A9 | n13a Sm9 | [Hamburg : Flugzeug- und Luftschiffbauindustrie](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145133/about.de.html ) | 0 | A 009 | n 13a SM 009
-A9 | n14 | [Hamburg : Handwerk](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145135/about.de.html ) | 182 | A 009 | n 14
-A9 | n14 Sm1 | [Hamburg : Handwerk, Lehrlingswesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145136/about.de.html ) | 17 | A 009 | n 14 SM 001
+A9 | n13a Sm9 | [Hamburg : Flugzeug- und Luftschiffbauindustrie](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145133/about.de.html ) | 4 | A 009 | n 13a SM 009
+A9 | n14 | [Hamburg : Handwerk](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145135/about.de.html ) | 195 | A 009 | n 14
+A9 | n14 Sm1 | [Hamburg : Handwerk, Lehrlingswesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145136/about.de.html ) | 20 | A 009 | n 14 SM 001
 A9 | n14 Sm4 | [Hamburg : Staatliche Unterstützung des Handwerks](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145137/about.de.html ) | 0 | A 009 | n 14 SM 004
 A9 | n14 Sm20 | [Hamburg : Handwerk, Ausstellung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1503xx/150372/about.de.html ) | 4 | A 009 | n 14 SM 020
 A9 | n14 Sm40 | [Hamburg : Handwerk, Beruf und Ausbildung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1872xx/187280/about.de.html ) | 2 | A 009 | n 14 SM 040
 A9 | n14 Sm70 | [Hamburg : Handwerk, Kapitalbeschaffung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1872xx/187281/about.de.html ) | 1 | A 009 | n 14 SM 070
-A9 | n14a Sm1 | [Hamburg : Feinmechanisches Handwerk, optisches Handwerk](https://pm20.zbw.eu/folder/sh/1409xx/140905/1872xx/187282/about.de.html ) | 0 | A 009 | n 14a SM 001
+A9 | n14a Sm1 | [Hamburg : Feinmechanisches Handwerk, optisches Handwerk](https://pm20.zbw.eu/folder/sh/1409xx/140905/1872xx/187282/about.de.html ) | 1 | A 009 | n 14a SM 001
 A9 | n14a Sm2 | [Hamburg : Bauhandwerk](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145139/about.de.html ) | 38 | A 009 | n 14a SM 002
-A9 | n14a Sm3 | [Hamburg : Handwerk, Bekleidung, Reinigung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145140/about.de.html ) | 20 | A 009 | n 14a SM 003
-A9 | n14a Sm4 | [Hamburg : Handwerk, Friseure](https://pm20.zbw.eu/folder/sh/1409xx/140905/1820xx/182071/about.de.html ) | 1 | A 009 | n 14a SM 004
-A9 | n14a Sm6 | [Hamburg : Schornsteinfegerhandwerk](https://pm20.zbw.eu/folder/sh/1409xx/140905/1872xx/187283/about.de.html ) | 2 | A 009 | n 14a SM 006
-A9 | n14a Sm7 | [Hamburg : Handwerk, Elektrotechnik](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145142/about.de.html ) | 3 | A 009 | n 14a SM 007
-A9 | n14a Sm8 | [Hamburg : Handwerk, Kraftfahrzeug](https://pm20.zbw.eu/folder/sh/1409xx/140905/1820xx/182072/about.de.html ) | 0 | A 009 | n 14a SM 008
+A9 | n14a Sm3 | [Hamburg : Handwerk, Bekleidung, Reinigung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145140/about.de.html ) | 26 | A 009 | n 14a SM 003
+A9 | n14a Sm4 | [Hamburg : Handwerk, Friseure](https://pm20.zbw.eu/folder/sh/1409xx/140905/1820xx/182071/about.de.html ) | 2 | A 009 | n 14a SM 004
+A9 | n14a Sm6 | [Hamburg : Schornsteinfegerhandwerk](https://pm20.zbw.eu/folder/sh/1409xx/140905/1872xx/187283/about.de.html ) | 3 | A 009 | n 14a SM 006
+A9 | n14a Sm7 | [Hamburg : Handwerk, Elektrotechnik](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145142/about.de.html ) | 4 | A 009 | n 14a SM 007
+A9 | n14a Sm8 | [Hamburg : Handwerk, Kraftfahrzeug](https://pm20.zbw.eu/folder/sh/1409xx/140905/1820xx/182072/about.de.html ) | 1 | A 009 | n 14a SM 008
 A9 | n14a Sm9 | [Hamburg : Handwerk, Raumausstattung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1820xx/182073/about.de.html ) | 2 | A 009 | n 14a SM 009
 A9 | n14a Sm12 | [Hamburg : Handwerk, Graphisches Gewerbe](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145143/about.de.html ) | 20 | A 009 | n 14a SM 012
-A9 | n14a Sm15 | [Hamburg : Handwerk, Holzverarbeitung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145144/about.de.html ) | 17 | A 009 | n 14a SM 015
+A9 | n14a Sm15 | [Hamburg : Handwerk, Holzverarbeitung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145144/about.de.html ) | 18 | A 009 | n 14a SM 015
 A9 | n14a Sm16 | [Hamburg : Handwerk, Töpferei, Steinverarbeitung, Glaserei](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145145/about.de.html ) | 1 | A 009 | n 14a SM 016
-A9 | n14a Sm18 | [Hamburg : Handwerk, Lederwarenverarbeitung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145147/about.de.html ) | 10 | A 009 | n 14a SM 018
+A9 | n14a Sm18 | [Hamburg : Handwerk, Lederwarenverarbeitung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145147/about.de.html ) | 11 | A 009 | n 14a SM 018
 A9 | n14a Sm19 | [Hamburg : Handwerk, Metallverarbeitung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145148/about.de.html ) | 17 | A 009 | n 14a SM 019
-A9 | n14a Sm21 | [Hamburg : Handwerk, Nahrungsmittelgewerbe](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145149/about.de.html ) | 52 | A 009 | n 14a SM 021
+A9 | n14a Sm21 | [Hamburg : Handwerk, Nahrungsmittelgewerbe](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145149/about.de.html ) | 54 | A 009 | n 14a SM 021
 A9 | n14a Sm22 | [Hamburg : Handwerk, Buchbinderei](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145150/about.de.html ) | 5 | A 009 | n 14a SM 022
 A9 | n14a Sm25 | [Hamburg : Handwerk, Bootsbau](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145151/about.de.html ) | 6 | A 009 | n 14a SM 025
 A9 | n14a Sm27 | [Hamburg : Handwerk, Transportgewerbe](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145153/about.de.html ) | 15 | A 009 | n 14a SM 027
-A9 | n14a Sm30 | [Hamburg : Handwerk, Verschiedene](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145154/about.de.html ) | 2 | A 009 | n 14a SM 030
+A9 | n14a Sm30 | [Hamburg : Handwerk, Verschiedene](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145154/about.de.html ) | 3 | A 009 | n 14a SM 030
 A9 | n15 | [Hamburg : Arbeiterfrage, Arbeitsverhältnisse, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145155/about.de.html ) | 60 | A 009 | n 15
 A9 | n15 Sm1 | [Hamburg : Berechnung und Förderung der Arbeitsleistung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1618xx/161859/about.de.html ) | 1 | A 009 | n 15 SM 001
-A9 | n15 Sm1.I | [Hamburg : Berechnung und Förderung der Arbeitsleistung, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145156/about.de.html ) | 0 | A 009 | n 15 SM 001.01
-A9 | n15 Sm1.II | [Hamburg : Berechnung und Förderung der Arbeitsleistung, Systeme](https://pm20.zbw.eu/folder/sh/1409xx/140905/1618xx/161861/about.de.html ) | 0 | A 009 | n 15 SM 001.02
+A9 | n15 Sm1.I | [Hamburg : Berechnung und Förderung der Arbeitsleistung, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145156/about.de.html ) | 1 | A 009 | n 15 SM 001.01
+A9 | n15 Sm1.II | [Hamburg : Berechnung und Förderung der Arbeitsleistung, Systeme](https://pm20.zbw.eu/folder/sh/1409xx/140905/1618xx/161861/about.de.html ) | 1 | A 009 | n 15 SM 001.02
 A9 | n15 Sm1.III | [Hamburg : Berechnung und Förderung der Arbeitsleistung, Indexziffern der Arbeitsleistung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1618xx/161862/about.de.html ) | 1 | A 009 | n 15 SM 001.03
 A9 | n15 Sm2 | [Hamburg : Streiks, Vereinbarungen zwischen Arbeitgebern und Arbeitnehmern](https://pm20.zbw.eu/folder/sh/1409xx/140905/1618xx/161854/about.de.html ) | 33 | A 009 | n 15 SM 002
-A9 | n15 Sm2.I | [Hamburg : Streiks, Vereinbarungen zwischen Arbeitgebern und Arbeitnehmern, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145159/about.de.html ) | 3 | A 009 | n 15 SM 002.01
-A9 | n15 Sm2.II | [Hamburg : Streiks, Vereinbarungen zwischen Arbeitgebern und Arbeitnehmern, Aktuelles Material](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145160/about.de.html ) | 14 | A 009 | n 15 SM 002.02
+A9 | n15 Sm2.I | [Hamburg : Streiks, Vereinbarungen zwischen Arbeitgebern und Arbeitnehmern, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145159/about.de.html ) | 4 | A 009 | n 15 SM 002.01
+A9 | n15 Sm2.II | [Hamburg : Streiks, Vereinbarungen zwischen Arbeitgebern und Arbeitnehmern, Aktuelles Material](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145160/about.de.html ) | 15 | A 009 | n 15 SM 002.02
 A9 | n15 Sm2.III | [Hamburg : Streiks, Vereinbarungen zwischen Arbeitgebern und Arbeitnehmern, Techn. Nothilfe](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145161/about.de.html ) | 139 | A 009 | n 15 SM 002.03
-A9 | n15 Sm3 | [Hamburg : Erwerbslosenfürsorge](https://pm20.zbw.eu/folder/sh/1409xx/140905/1618xx/161851/about.de.html ) | 46 | A 009 | n 15 SM 003
+A9 | n15 Sm3 | [Hamburg : Erwerbslosenfürsorge](https://pm20.zbw.eu/folder/sh/1409xx/140905/1618xx/161851/about.de.html ) | 53 | A 009 | n 15 SM 003
 A9 | n15 Sm3.I | [Hamburg : Erwerbslosenfürsorge, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145163/about.de.html ) | 41 | A 009 | n 15 SM 003.01
-A9 | n15 Sm4 | [Hamburg : Heimarbeit, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145165/about.de.html ) | 47 | A 009 | n 15 SM 004
-A9 | n15 Sm5 | [Hamburg : Frauenarbeit, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145166/about.de.html ) | 30 | A 009 | n 15 SM 005
-A9 | n15 Sm6 | [Hamburg : Geistige Arbeit, Freie Berufe, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145167/about.de.html ) | 5 | A 009 | n 15 SM 006
+A9 | n15 Sm4 | [Hamburg : Heimarbeit, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145165/about.de.html ) | 48 | A 009 | n 15 SM 004
+A9 | n15 Sm5 | [Hamburg : Frauenarbeit, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145166/about.de.html ) | 41 | A 009 | n 15 SM 005
+A9 | n15 Sm6 | [Hamburg : Geistige Arbeit, Freie Berufe, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145167/about.de.html ) | 6 | A 009 | n 15 SM 006
 A9 | n15 Sm7 | [Hamburg : Regelung der Arbeitszeit, Löhne](https://pm20.zbw.eu/folder/sh/1409xx/140905/1618xx/161846/about.de.html ) | 5 | A 009 | n 15 SM 007
 A9 | n15 Sm7.I | [Hamburg : Regelung der Arbeitszeit, Löhne, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145168/about.de.html ) | 113 | A 009 | n 15 SM 007.01
-A9 | n15 Sm7.II | [Hamburg : Arbeitsverhältnisse, Löhne](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145169/about.de.html ) | 51 | A 009 | n 15 SM 007.02
+A9 | n15 Sm7.II | [Hamburg : Arbeitsverhältnisse, Löhne](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145169/about.de.html ) | 70 | A 009 | n 15 SM 007.02
 A9 | n15 Sm7.III | [Hamburg : Arbeitsverhältnisse, Arbeitszeit](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145170/about.de.html ) | 30 | A 009 | n 15 SM 007.03
-A9 | n15 Sm7.V | [Hamburg : Arbeitsverhältnisse, Urlaub](https://pm20.zbw.eu/folder/sh/1409xx/140905/1872xx/187284/about.de.html ) | 8 | A 009 | n 15 SM 007.05
+A9 | n15 Sm7.V | [Hamburg : Arbeitsverhältnisse, Urlaub](https://pm20.zbw.eu/folder/sh/1409xx/140905/1872xx/187284/about.de.html ) | 10 | A 009 | n 15 SM 007.05
 A9 | n15 Sm7.VI | [Hamburg : Arbeitsverhältnisse, Gratifikationen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1872xx/187285/about.de.html ) | 3 | A 009 | n 15 SM 007.06
-A9 | n15 Sm8 | [Hamburg : Jugendlichen- und Kinderarbeit, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145172/about.de.html ) | 43 | A 009 | n 15 SM 008
-A9 | n15 Sm9 | [Hamburg : Betriebskontrolle und Gewinnbeteiligung der Arbeiter](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145173/about.de.html ) | 0 | A 009 | n 15 SM 009
+A9 | n15 Sm8 | [Hamburg : Jugendlichen- und Kinderarbeit, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145172/about.de.html ) | 47 | A 009 | n 15 SM 008
+A9 | n15 Sm9 | [Hamburg : Betriebskontrolle und Gewinnbeteiligung der Arbeiter](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145173/about.de.html ) | 1 | A 009 | n 15 SM 009
 A9 | n15 Sm11.I | [Hamburg : Ausländische und koloniale Arbeiter, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145174/about.de.html ) | 27 | A 009 | n 15 SM 011.01
 A9 | n15 Sm11.II | [Hamburg : Ausländische und koloniale Arbeiter, Angehörige einzelner Länder](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145175/about.de.html ) | 10 | A 009 | n 15 SM 011.02
-A9 | n15 Sm12 | [Hamburg : Arbeitsnachweis (Organisation)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145176/about.de.html ) | 50 | A 009 | n 15 SM 012
+A9 | n15 Sm12 | [Hamburg : Arbeitsnachweis (Organisation)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145176/about.de.html ) | 60 | A 009 | n 15 SM 012
 A9 | n15 Sm13 | [Hamburg : Arbeiterschutz, Arbeitsunfallstatistik](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145177/about.de.html ) | 16 | A 009 | n 15 SM 013
-A9 | n15 Sm14 | [Hamburg : Arbeiterbildungswesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145178/about.de.html ) | 26 | A 009 | n 15 SM 014
-A9 | n15 Sm15 | [Hamburg : Arbeitsrecht](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145179/about.de.html ) | 8 | A 009 | n 15 SM 015
-A9 | n15 Sm16 | [Hamburg : Betrieblich-soziale Einrichtungen zum Wohle der Arbeiter](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145180/about.de.html ) | 3 | A 009 | n 15 SM 016
+A9 | n15 Sm14 | [Hamburg : Arbeiterbildungswesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145178/about.de.html ) | 33 | A 009 | n 15 SM 014
+A9 | n15 Sm15 | [Hamburg : Arbeitsrecht](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145179/about.de.html ) | 12 | A 009 | n 15 SM 015
+A9 | n15 Sm16 | [Hamburg : Betrieblich-soziale Einrichtungen zum Wohle der Arbeiter](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145180/about.de.html ) | 5 | A 009 | n 15 SM 016
 A9 | n15 Sm16 (alt) | [Hamburg : Wohlfahrtseinrichtung für Arbeiter](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145181/about.de.html ) | 106 | A 009 | n 15 SM 016 (alt)
 A9 | n15 Sm17 | [Hamburg : Schlichtungswesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145182/about.de.html ) | 11 | A 009 | n 15 SM 017
-A9 | n15 Sm19 | [Hamburg : Beschäftigung Schwerbeschädigter](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145184/about.de.html ) | 32 | A 009 | n 15 SM 019
-A9 | n15 Sm22 | [Hamburg : Facharbeit, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145189/about.de.html ) | 6 | A 009 | n 15 SM 022
-A9 | n15 Sm24 | [Hamburg : Angestelltenfrage](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145191/about.de.html ) | 26 | A 009 | n 15 SM 024
+A9 | n15 Sm19 | [Hamburg : Beschäftigung Schwerbeschädigter](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145184/about.de.html ) | 36 | A 009 | n 15 SM 019
+A9 | n15 Sm22 | [Hamburg : Facharbeit, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145189/about.de.html ) | 7 | A 009 | n 15 SM 022
+A9 | n15 Sm24 | [Hamburg : Angestelltenfrage](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145191/about.de.html ) | 28 | A 009 | n 15 SM 024
 A9 | n15 Sm25 | [Hamburg : Warenverkauf durch Betriebsangehörige durch die Betriebsleitung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145192/about.de.html ) | 2 | A 009 | n 15 SM 025
 A9 | n15 Sm26.III | [Hamburg : Betriebsfonds](https://pm20.zbw.eu/folder/sh/1409xx/140905/1873xx/187301/about.de.html ) | 7 | A 009 | n 15 SM 026.03
 A9 | n15 Sm40 | [Hamburg : Arbeitsverhältnisse, Reichsberufswettkämpfe](https://pm20.zbw.eu/folder/sh/1409xx/140905/1820xx/182076/about.de.html ) | 26 | A 009 | n 15 SM 040
 A9 | n15 Sm50 | [Hamburg : Arbeitsverhältnisse, Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1820xx/182077/about.de.html ) | 6 | A 009 | n 15 SM 050
-A9 | n15 Sm501 (A10) | [Hamburg : Betriebsräte](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145194/about.de.html ) | 1 | A 009 | n 15 SM 501 (A 010)
-A9 | n15a Sm1 | [Hamburg : Arbeitnehmerverhältnisse, Bankgewerbe](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145206/about.de.html ) | 28 | A 009 | n 15a SM 001
-A9 | n15a Sm2 | [Hamburg : Arbeitnehmerverhältnisse, Baugewerbe und Baunebengewerbe](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145207/about.de.html ) | 77 | A 009 | n 15a SM 002
+A9 | n15 Sm501 (A10) | [Hamburg : Betriebsräte](https://pm20.zbw.eu/folder/sh/1409xx/140905/1451xx/145194/about.de.html ) | 2 | A 009 | n 15 SM 501 (A 010)
+A9 | n15a Sm1 | [Hamburg : Arbeitnehmerverhältnisse, Bankgewerbe](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145206/about.de.html ) | 29 | A 009 | n 15a SM 001
+A9 | n15a Sm2 | [Hamburg : Arbeitnehmerverhältnisse, Baugewerbe und Baunebengewerbe](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145207/about.de.html ) | 83 | A 009 | n 15a SM 002
 A9 | n15a Sm3 | [Hamburg : Arbeitnehmerverhältnisse, Bekleidungsgewerbe und Reinigungsgewerbe](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145208/about.de.html ) | 12 | A 009 | n 15a SM 003
-A9 | n15a Sm5 | [Hamburg : Arbeitnehmerverhältnisse, Chemische Industrie](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145210/about.de.html ) | 9 | A 009 | n 15a SM 005
-A9 | n15a Sm6 | [Hamburg : Arbeitnehmerverhältnisse, Eisenbahn, Strassenbahn, Auto-Personenverkehr (Personenkraftverkehr)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145211/about.de.html ) | 53 | A 009 | n 15a SM 006
+A9 | n15a Sm5 | [Hamburg : Arbeitnehmerverhältnisse, Chemische Industrie](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145210/about.de.html ) | 10 | A 009 | n 15a SM 005
+A9 | n15a Sm6 | [Hamburg : Arbeitnehmerverhältnisse, Eisenbahn, Strassenbahn, Auto-Personenverkehr (Personenkraftverkehr)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145211/about.de.html ) | 58 | A 009 | n 15a SM 006
 A9 | n15a Sm7 | [Hamburg : Arbeitnehmerverhältnisse, Elektrizitätsindustrie](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145212/about.de.html ) | 10 | A 009 | n 15a SM 007
 A9 | n15a Sm8 | [Hamburg : Arbeitnehmerverhältnisse, Fischerei](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145213/about.de.html ) | 21 | A 009 | n 15a SM 008
-A9 | n15a Sm9 | [Hamburg : Arbeitnehmerverhältnisse, Gastwirtschaft und Schankwirtschaft (Gastronomie)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145214/about.de.html ) | 35 | A 009 | n 15a SM 009
+A9 | n15a Sm9 | [Hamburg : Arbeitnehmerverhältnisse, Gastwirtschaft und Schankwirtschaft (Gastronomie)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145214/about.de.html ) | 36 | A 009 | n 15a SM 009
 A9 | n15a Sm11 | [Hamburg : Arbeitnehmerverhältnisse, Genussmittelindustrie](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145215/about.de.html ) | 10 | A 009 | n 15a SM 011
-A9 | n15a Sm12 | [Hamburg : Arbeitnehmerverhältnisse, Graphisches Gewerbe, Zeitungsgewerbe](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145216/about.de.html ) | 20 | A 009 | n 15a SM 012
-A9 | n15a Sm13 | [Hamburg : Arbeitnehmerverhältnisse, Häusliche Dienste](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145217/about.de.html ) | 38 | A 009 | n 15a SM 013
-A9 | n15a Sm14 | [Hamburg : Arbeitnehmerverhältnisse, Handelsgewerbe](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145218/about.de.html ) | 112 | A 009 | n 15a SM 014
-A9 | n15a Sm15 | [Hamburg : Arbeitnehmerverhältnisse, Holzindustrie und Holzverarbeitung, Holzverkohlung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145219/about.de.html ) | 17 | A 009 | n 15a SM 015
+A9 | n15a Sm12 | [Hamburg : Arbeitnehmerverhältnisse, Graphisches Gewerbe, Zeitungsgewerbe](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145216/about.de.html ) | 21 | A 009 | n 15a SM 012
+A9 | n15a Sm13 | [Hamburg : Arbeitnehmerverhältnisse, Häusliche Dienste](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145217/about.de.html ) | 39 | A 009 | n 15a SM 013
+A9 | n15a Sm14 | [Hamburg : Arbeitnehmerverhältnisse, Handelsgewerbe](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145218/about.de.html ) | 115 | A 009 | n 15a SM 014
+A9 | n15a Sm15 | [Hamburg : Arbeitnehmerverhältnisse, Holzindustrie und Holzverarbeitung, Holzverkohlung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145219/about.de.html ) | 18 | A 009 | n 15a SM 015
 A9 | n15a Sm16 | [Hamburg : Arbeitnehmerverhältnisse, Industrie der Steine und Erden](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145220/about.de.html ) | 7 | A 009 | n 15a SM 016
-A9 | n15a Sm17 | [Hamburg : Arbeitnehmerverhältnisse, Landwirtschaft, Forstwirtschaft, Gärtnerei](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145221/about.de.html ) | 13 | A 009 | n 15a SM 017
+A9 | n15a Sm17 | [Hamburg : Arbeitnehmerverhältnisse, Landwirtschaft, Forstwirtschaft, Gärtnerei](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145221/about.de.html ) | 14 | A 009 | n 15a SM 017
 A9 | n15a Sm18 | [Hamburg : Arbeitnehmerverhältnisse, Lederindustrie und Lederverarbeitung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145222/about.de.html ) | 3 | A 009 | n 15a SM 018
-A9 | n15a Sm19 | [Hamburg : Arbeitnehmerverhältnisse, Metallverarbeitung und Maschinenindustrie](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145223/about.de.html ) | 46 | A 009 | n 15a SM 019
+A9 | n15a Sm19 | [Hamburg : Arbeitnehmerverhältnisse, Metallverarbeitung und Maschinenindustrie](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145223/about.de.html ) | 48 | A 009 | n 15a SM 019
 A9 | n15a Sm21 | [Hamburg : Arbeitnehmerverhältnisse, Nahrungsmittelindustrie](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145224/about.de.html ) | 51 | A 009 | n 15a SM 021
 A9 | n15a Sm22 | [Hamburg : Arbeitnehmerverhältnisse, Papierindustrie und Kartonagen-Industrie, Buchbinderei](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145225/about.de.html ) | 1 | A 009 | n 15a SM 022
 A9 | n15a Sm23 | [Hamburg : Arbeitnehmerverhältnisse, Post, Telegraph (Telegraf), Telephon (Telefon)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145226/about.de.html ) | 9 | A 009 | n 15a SM 023
@@ -1368,67 +1368,67 @@ A9 | n16 | [Hamburg : Gewerkschaftswesen, Arbeiterorganisationen Allgemein](http
 A9 | n16 Sm1 | [Hamburg : Beziehungen zu den Gewerkschaften des Auslandes](https://pm20.zbw.eu/folder/sh/1409xx/140905/1618xx/161825/about.de.html ) | 1 | A 009 | n 16 SM 001
 A9 | n16 Sm1.II | [Hamburg : Beziehungen zu den Gewerkschaften des Auslandes, Einzelne Länder](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145241/about.de.html ) | 2 | A 009 | n 16 SM 001.02
 A9 | n16 Sm20 | [Hamburg : Gewerkschaftswesen, Konferenzen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1820xx/182079/about.de.html ) | 4 | A 009 | n 16 SM 020
-A9 | n17 | [Hamburg : Bauwesen und Wohnungswesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145250/about.de.html ) | 786 | A 009 | n 17
+A9 | n17 | [Hamburg : Bauwesen und Wohnungswesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145250/about.de.html ) | 1084 | A 009 | n 17
 A9 | n17 Sm1 | [Hamburg : Miete und Mieterfragen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1618xx/161822/about.de.html ) | 150 | A 009 | n 17 SM 001
-A9 | n17 Sm1.I | [Hamburg : Miete und Mieterfragen, Mietrechtsfragen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145252/about.de.html ) | 90 | A 009 | n 17 SM 001.01
-A9 | n17 Sm1.II | [Hamburg : Miete und Mieterfragen, Mietrechtsrechtsfragen für Gewerbeimmobilien, Geschäftslokale](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145253/about.de.html ) | 23 | A 009 | n 17 SM 001.02
+A9 | n17 Sm1.I | [Hamburg : Miete und Mieterfragen, Mietrechtsfragen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145252/about.de.html ) | 154 | A 009 | n 17 SM 001.01
+A9 | n17 Sm1.II | [Hamburg : Miete und Mieterfragen, Mietrechtsrechtsfragen für Gewerbeimmobilien, Geschäftslokale](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145253/about.de.html ) | 24 | A 009 | n 17 SM 001.02
 A9 | n17 Sm2.I | [Hamburg : Arbeiterwohnungen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145254/about.de.html ) | 17 | A 009 | n 17 SM 002.01
-A9 | n17 Sm2.II | [Hamburg : Städtische Arbeiterwohnungen, Werkswohnungen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1964xx/196469/about.de.html ) | 2 | A 009 | n 17 SM 002.02
-A9 | n17 Sm4 | [Hamburg : Öffentliche Baupflege](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145256/about.de.html ) | 40 | A 009 | n 17 SM 004
-A9 | n17 Sm20 | [Hamburg : Bauwesen, Konferenzen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1820xx/182080/about.de.html ) | 3 | A 009 | n 17 SM 020
-A9 | n17 Sm40 | [Hamburg : Bauwesen, Beruf und Ausbildung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1820xx/182081/about.de.html ) | 24 | A 009 | n 17 SM 040
+A9 | n17 Sm2.II | [Hamburg : Städtische Arbeiterwohnungen, Werkswohnungen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1964xx/196469/about.de.html ) | 5 | A 009 | n 17 SM 002.02
+A9 | n17 Sm4 | [Hamburg : Öffentliche Baupflege](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145256/about.de.html ) | 41 | A 009 | n 17 SM 004
+A9 | n17 Sm20 | [Hamburg : Bauwesen, Konferenzen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1820xx/182080/about.de.html ) | 5 | A 009 | n 17 SM 020
+A9 | n17 Sm40 | [Hamburg : Bauwesen, Beruf und Ausbildung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1820xx/182081/about.de.html ) | 31 | A 009 | n 17 SM 040
 A9 | n17 Sm50 | [Hamburg : Bauwesen, Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1820xx/182082/about.de.html ) | 13 | A 009 | n 17 SM 050
-A9 | n17 Sm60 | [Hamburg : Bauwesen und Wohnungswesen, Technisches](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145259/about.de.html ) | 48 | A 009 | n 17 SM 060
-A9 | n17 Sm70 | [Hamburg : Bauwesen und Wohnungswesen, Kapitalbeschaffung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145260/about.de.html ) | 105 | A 009 | n 17 SM 070
-A9 | n17a | [Hamburg : Bauwesen und Wohnungswesen einzelner Bundesstaaten, Provinzen und Städte](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145261/about.de.html ) | 166 | A 009 | n 17a
-A9 | n18 | [Hamburg : Handel](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145262/about.de.html ) | 243 | A 009 | n 18
-A9 | n18 Sm1 (alt) | [Hamburg : Handel, Ein-, Aus- und Durchfuhrverbote](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145263/about.de.html ) | 11 | A 009 | n 18 SM 001 (alt)
+A9 | n17 Sm60 | [Hamburg : Bauwesen und Wohnungswesen, Technisches](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145259/about.de.html ) | 56 | A 009 | n 17 SM 060
+A9 | n17 Sm70 | [Hamburg : Bauwesen und Wohnungswesen, Kapitalbeschaffung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145260/about.de.html ) | 144 | A 009 | n 17 SM 070
+A9 | n17a | [Hamburg : Bauwesen und Wohnungswesen einzelner Bundesstaaten, Provinzen und Städte](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145261/about.de.html ) | 172 | A 009 | n 17a
+A9 | n18 | [Hamburg : Handel](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145262/about.de.html ) | 274 | A 009 | n 18
+A9 | n18 Sm1 (alt) | [Hamburg : Handel, Ein-, Aus- und Durchfuhrverbote](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145263/about.de.html ) | 18 | A 009 | n 18 SM 001 (alt)
 A9 | n18 Sm6.I | [Hamburg : Usancen und Handelsvorschriften, Handelsmethoden, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145268/about.de.html ) | 8 | A 009 | n 18 SM 006.01
 A9 | n18 Sm6.II | [Hamburg : Usancen und Handelsvorschriften, Handelsmethoden, Einzelne](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145269/about.de.html ) | 8 | A 009 | n 18 SM 006.02
-A9 | n18 Sm7 | [Hamburg : Private Förderung des Handels, Reklame, Reklamegewerbe](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145270/about.de.html ) | 66 | A 009 | n 18 SM 007
-A9 | n18 Sm8 | [Hamburg : Handel, Kaufmännische Schiedsgerichte](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145271/about.de.html ) | 16 | A 009 | n 18 SM 008
+A9 | n18 Sm7 | [Hamburg : Private Förderung des Handels, Reklame, Reklamegewerbe](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145270/about.de.html ) | 72 | A 009 | n 18 SM 007
+A9 | n18 Sm8 | [Hamburg : Handel, Kaufmännische Schiedsgerichte](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145271/about.de.html ) | 17 | A 009 | n 18 SM 008
 A9 | n18 Sm9 | [Hamburg : Handel, Unlauterer Wettbewerb](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145272/about.de.html ) | 6 | A 009 | n 18 SM 009
-A9 | n18 Sm11 | [Hamburg : Handelsagenten, Allgemein, Handelsvertreter](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145273/about.de.html ) | 5 | A 009 | n 18 SM 011
+A9 | n18 Sm11 | [Hamburg : Handelsagenten, Allgemein, Handelsvertreter](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145273/about.de.html ) | 7 | A 009 | n 18 SM 011
 A9 | n18 Sm12 | [Hamburg : Handelsregister, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145274/about.de.html ) | 8 | A 009 | n 18 SM 012
 A9 | n18 Sm14 | [Hamburg : Markthallen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1618xx/161816/about.de.html ) | 56 | A 009 | n 18 SM 014
-A9 | n18 Sm14.I | [Hamburg : Markthallen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145276/about.de.html ) | 5 | A 009 | n 18 SM 014.01
-A9 | n18 Sm17 | [Hamburg : Handelsrecht, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145278/about.de.html ) | 5 | A 009 | n 18 SM 017
+A9 | n18 Sm14.I | [Hamburg : Markthallen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145276/about.de.html ) | 7 | A 009 | n 18 SM 014.01
+A9 | n18 Sm17 | [Hamburg : Handelsrecht, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145278/about.de.html ) | 9 | A 009 | n 18 SM 017
 A9 | n18 Sm20 | [Hamburg : Handel, Konferenzen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1964xx/196472/about.de.html ) | 10 | A 009 | n 18 SM 020
 A9 | n18 Sm29 (alt) | [Hamburg : Periodische Handelsstatistiken](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145279/about.de.html ) | 27 | A 009 | n 18 SM 029 (alt)
-A9 | n18 Sm40 | [Hamburg : Handel, Beruf und Ausbildung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1820xx/182084/about.de.html ) | 34 | A 009 | n 18 SM 040
+A9 | n18 Sm40 | [Hamburg : Handel, Beruf und Ausbildung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1820xx/182084/about.de.html ) | 38 | A 009 | n 18 SM 040
 A9 | n18 Sm50 | [Hamburg : Handel, Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1964xx/196473/about.de.html ) | 0 | A 009 | n 18 SM 050
 A9 | n18 Sm501 (A9) | [Hamburg : Überseewoche (Wirtschaft Hamburg)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145280/about.de.html ) | 2 | A 009 | n 18 SM 501 (A 009)
-A9 | n19 | [Hamburg : Handelsbeziehungen zu einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145289/about.de.html ) | 96 | A 009 | n 19
+A9 | n19 | [Hamburg : Handelsbeziehungen zu einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145289/about.de.html ) | 100 | A 009 | n 19
 A9 | n20 | [Hamburg : Kleinhandel](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145290/about.de.html ) | 107 | A 009 | n 20
 A9 | n20 I | [Hamburg : Binnenhandel](https://pm20.zbw.eu/folder/sh/1409xx/140905/1821xx/182104/about.de.html ) | 0 | A 009 | n 20 I
-A9 | n20 II | [Hamburg : Großhandel](https://pm20.zbw.eu/folder/sh/1409xx/140905/1821xx/182105/about.de.html ) | 28 | A 009 | n 20 II
-A9 | n20 III a | [Hamburg : Einzelhandel, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1821xx/182106/about.de.html ) | 199 | A 009 | n 20 III a
-A9 | n20 III b | [Hamburg : Ratenkauf (Einzelhandel), Teilzahlungskredit (Einzelhandel), Mietkauf (Einzelhandel)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1821xx/182107/about.de.html ) | 0 | A 009 | n 20 III b
-A9 | n20 III d | [Hamburg : Großbetriebe (Einzelhandel)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1821xx/182108/about.de.html ) | 14 | A 009 | n 20 III d
+A9 | n20 II | [Hamburg : Großhandel](https://pm20.zbw.eu/folder/sh/1409xx/140905/1821xx/182105/about.de.html ) | 33 | A 009 | n 20 II
+A9 | n20 III a | [Hamburg : Einzelhandel, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1821xx/182106/about.de.html ) | 252 | A 009 | n 20 III a
+A9 | n20 III b | [Hamburg : Ratenkauf (Einzelhandel), Teilzahlungskredit (Einzelhandel), Mietkauf (Einzelhandel)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1821xx/182107/about.de.html ) | 5 | A 009 | n 20 III b
+A9 | n20 III d | [Hamburg : Großbetriebe (Einzelhandel)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1821xx/182108/about.de.html ) | 15 | A 009 | n 20 III d
 A9 | n20 III e | [Hamburg : Rabattwesen (Einzelhandel)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1821xx/182109/about.de.html ) | 10 | A 009 | n 20 III e
-A9 | n20 III f | [Hamburg : Selbstbedienungseinzelhandel](https://pm20.zbw.eu/folder/sh/1409xx/140905/1821xx/182110/about.de.html ) | 6 | A 009 | n 20 III f
-A9 | n20 III g | [Hamburg : Warenautomaten (Einzelhandel)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1821xx/182111/about.de.html ) | 4 | A 009 | n 20 III g
-A9 | n20 Sm2 | [Hamburg : Gastwirtschaften, Schankwirtschaften, Vergnügungsbetriebe, Vergnügungsstätten](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145292/about.de.html ) | 110 | A 009 | n 20 SM 002
-A9 | n21 | [Hamburg : Kunst und Literatur (Wirtschaftsverhältnisse)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145296/about.de.html ) | 24 | A 009 | n 21
-A9 | n21 Sm1 | [Hamburg : Theater und Musik](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145297/about.de.html ) | 287 | A 009 | n 21 SM 001
-A9 | n21 Sm3 | [Hamburg : Bildende Künste](https://pm20.zbw.eu/folder/sh/1409xx/140905/1453xx/145300/about.de.html ) | 150 | A 009 | n 21 SM 003
+A9 | n20 III f | [Hamburg : Selbstbedienungseinzelhandel](https://pm20.zbw.eu/folder/sh/1409xx/140905/1821xx/182110/about.de.html ) | 8 | A 009 | n 20 III f
+A9 | n20 III g | [Hamburg : Warenautomaten (Einzelhandel)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1821xx/182111/about.de.html ) | 5 | A 009 | n 20 III g
+A9 | n20 Sm2 | [Hamburg : Gastwirtschaften, Schankwirtschaften, Vergnügungsbetriebe, Vergnügungsstätten](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145292/about.de.html ) | 122 | A 009 | n 20 SM 002
+A9 | n21 | [Hamburg : Kunst und Literatur (Wirtschaftsverhältnisse)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145296/about.de.html ) | 26 | A 009 | n 21
+A9 | n21 Sm1 | [Hamburg : Theater und Musik](https://pm20.zbw.eu/folder/sh/1409xx/140905/1452xx/145297/about.de.html ) | 339 | A 009 | n 21 SM 001
+A9 | n21 Sm3 | [Hamburg : Bildende Künste](https://pm20.zbw.eu/folder/sh/1409xx/140905/1453xx/145300/about.de.html ) | 172 | A 009 | n 21 SM 003
 A9 | n21 Sm4 | [Hamburg : Literatur](https://pm20.zbw.eu/folder/sh/1409xx/140905/1453xx/145301/about.de.html ) | 52 | A 009 | n 21 SM 004
-A9 | n21 Sm8 | [Hamburg : Lichtspielwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1453xx/145302/about.de.html ) | 97 | A 009 | n 21 SM 008
-A9 | n21 Sm40 | [Hamburg : Kunst, Berufe und Ausbildung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1821xx/182114/about.de.html ) | 29 | A 009 | n 21 SM 040
+A9 | n21 Sm8 | [Hamburg : Lichtspielwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1453xx/145302/about.de.html ) | 149 | A 009 | n 21 SM 008
+A9 | n21 Sm40 | [Hamburg : Kunst, Berufe und Ausbildung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1821xx/182114/about.de.html ) | 31 | A 009 | n 21 SM 040
 A9 | n21 Sm50 | [Hamburg : Kunst, Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1821xx/182115/about.de.html ) | 6 | A 009 | n 21 SM 050
 A9 | n21 Sm90 | [Hamburg : Kunst, Förderung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1968xx/196845/about.de.html ) | 0 | A 009 | n 21 SM 090
-A9 | n22 | [Hamburg : Spedition und Lagerung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1453xx/145303/about.de.html ) | 80 | A 009 | n 22
+A9 | n22 | [Hamburg : Spedition und Lagerung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1453xx/145303/about.de.html ) | 86 | A 009 | n 22
 A9 | n22 Sm1 | [Hamburg : Lagerhauswesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1453xx/145304/about.de.html ) | 9 | A 009 | n 22 SM 001
 A9 | n22 Sm20 | [Hamburg : Spedition und Lagerung, Konferenzen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1968xx/196869/about.de.html ) | 2 | A 009 | n 22 SM 020
-A9 | n22 Sm50 | [Hamburg : Spedition und Lagerung, Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1968xx/196870/about.de.html ) | 2 | A 009 | n 22 SM 050
+A9 | n22 Sm50 | [Hamburg : Spedition und Lagerung, Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1968xx/196870/about.de.html ) | 9 | A 009 | n 22 SM 050
 A9 | n23 | [Hamburg : Geld und Währung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1453xx/145305/about.de.html ) | 24 | A 009 | n 23
 A9 | n23 Sm1.II | [Hamburg : Edelmetallbewegung, Edelmetallarbitrage, Von und nach Einzelne Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140905/1453xx/145307/about.de.html ) | 1 | A 009 | n 23 SM 001.02
 A9 | n23 Sm4 | [Hamburg : Zahlungsmittel (Ausgabe, Beschreibung, Fälschung)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1453xx/145315/about.de.html ) | 15 | A 009 | n 23 SM 004
 A9 | n23 Sm50 | [Hamburg : Geld und Währung, Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1968xx/196871/about.de.html ) | 2 | A 009 | n 23 SM 050
 A9 | n23 Sm508 (A10) | [Hamburg : Lastenausgleich](https://pm20.zbw.eu/folder/sh/1409xx/140905/1971xx/197125/about.de.html ) | 0 | A 009 | n 23 SM 508 (A 010)
-A9 | n24 | [Hamburg : Kreditwesen und Bankwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1453xx/145339/about.de.html ) | 48 | A 009 | n 24
-A9 | n24 Sm3 | [Hamburg : Sparkassenwesen, Spareinrichtungen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1453xx/145343/about.de.html ) | 73 | A 009 | n 24 SM 003
-A9 | n24 Sm4 | [Hamburg : Kreditwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1617xx/161752/about.de.html ) | 11 | A 009 | n 24 SM 004
+A9 | n24 | [Hamburg : Kreditwesen und Bankwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1453xx/145339/about.de.html ) | 53 | A 009 | n 24
+A9 | n24 Sm3 | [Hamburg : Sparkassenwesen, Spareinrichtungen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1453xx/145343/about.de.html ) | 113 | A 009 | n 24 SM 003
+A9 | n24 Sm4 | [Hamburg : Kreditwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1617xx/161752/about.de.html ) | 14 | A 009 | n 24 SM 004
 A9 | n24 Sm4.I | [Hamburg : Realkreditwesen, Allgemein. Hypothekarkreditwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1453xx/145344/about.de.html ) | 2 | A 009 | n 24 SM 004.01
 A9 | n24 Sm4.IIa | [Hamburg : Realkreditwesen, Hypothekenwesen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1453xx/145345/about.de.html ) | 7 | A 009 | n 24 SM 004.02a
 A9 | n24 Sm4.IIf | [Hamburg : Realkreditwesen, Hypothekenaufwertung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1453xx/145350/about.de.html ) | 17 | A 009 | n 24 SM 004.02f
@@ -1436,7 +1436,7 @@ A9 | n24 Sm4.IVd (alt) | [Hamburg : Hypothekarkreditanstalten, Pfand- und Renten
 A9 | n24 Sm5 | [Hamburg : Wertpapierhandel (ausser Börsenhandel), Beeinflussung privater Kapitalanlagen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1453xx/145364/about.de.html ) | 15 | A 009 | n 24 SM 005
 A9 | n24 Sm7 | [Hamburg : Ausländische Banken](https://pm20.zbw.eu/folder/sh/1409xx/140905/1453xx/145366/about.de.html ) | 1 | A 009 | n 24 SM 007
 A9 | n24 Sm11 | [Hamburg : Postscheckverkehr, Postsparkassenwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1617xx/161744/about.de.html ) | 9 | A 009 | n 24 SM 011
-A9 | n24 Sm11.I | [Hamburg : Postscheckverkehr, Postsparkassenwesen, Allgemein und Statistiken](https://pm20.zbw.eu/folder/sh/1409xx/140905/1453xx/145371/about.de.html ) | 58 | A 009 | n 24 SM 011.01
+A9 | n24 Sm11.I | [Hamburg : Postscheckverkehr, Postsparkassenwesen, Allgemein und Statistiken](https://pm20.zbw.eu/folder/sh/1409xx/140905/1453xx/145371/about.de.html ) | 60 | A 009 | n 24 SM 011.01
 A9 | n24 Sm12 | [Hamburg : Auslandbanken und Kolonialbanken](https://pm20.zbw.eu/folder/sh/1409xx/140905/1453xx/145373/about.de.html ) | 10 | A 009 | n 24 SM 012
 A9 | n24 Sm14 | [Hamburg : Bargeldloser Verkehr, Abrechnungsverkehr](https://pm20.zbw.eu/folder/sh/1409xx/140905/1453xx/145376/about.de.html ) | 12 | A 009 | n 24 SM 014
 A9 | n24 Sm15 | [Hamburg : Notenbankwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1617xx/161738/about.de.html ) | 1 | A 009 | n 24 SM 015
@@ -1454,194 +1454,194 @@ A9 | n24 Sm29 | [Hamburg : Bankprojekte](https://pm20.zbw.eu/folder/sh/1409xx/14
 A9 | n24 Sm31 | [Hamburg : Landesbanken, Kommunalbanken und Provinzialbanken](https://pm20.zbw.eu/folder/sh/1409xx/140905/1454xx/145401/about.de.html ) | 1 | A 009 | n 24 SM 031
 A9 | n24 Sm32 | [Hamburg : Privatbankiers, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1454xx/145402/about.de.html ) | 7 | A 009 | n 24 SM 032
 A9 | n24 Sm34 | [Hamburg : Bankwesen, Private Kreditaufnahme im Ausland](https://pm20.zbw.eu/folder/sh/1409xx/140905/1617xx/161708/about.de.html ) | 1 | A 009 | n 24 SM 034
-A9 | n24 Sm34.I | [Hamburg : Bankwesen, Private Kreditaufnahme im Ausland, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1454xx/145404/about.de.html ) | 0 | A 009 | n 24 SM 034.01
-A9 | n24 Sm34.II | [Hamburg : Bankwesen, Private Kreditaufnahme in einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140905/1454xx/145405/about.de.html ) | 0 | A 009 | n 24 SM 034.02
+A9 | n24 Sm34.I | [Hamburg : Bankwesen, Private Kreditaufnahme im Ausland, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1454xx/145404/about.de.html ) | 1 | A 009 | n 24 SM 034.01
+A9 | n24 Sm34.II | [Hamburg : Bankwesen, Private Kreditaufnahme in einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140905/1454xx/145405/about.de.html ) | 1 | A 009 | n 24 SM 034.02
 A9 | n24 Sm35 | [Hamburg : Lage des Bankgewerbes](https://pm20.zbw.eu/folder/sh/1409xx/140905/1454xx/145406/about.de.html ) | 4 | A 009 | n 24 SM 035
-A9 | n24 Sm41 | [Hamburg : Leihhäuser, Warenlombartgeschäft](https://pm20.zbw.eu/folder/sh/1409xx/140905/1454xx/145413/about.de.html ) | 39 | A 009 | n 24 SM 041
+A9 | n24 Sm41 | [Hamburg : Leihhäuser, Warenlombartgeschäft](https://pm20.zbw.eu/folder/sh/1409xx/140905/1454xx/145413/about.de.html ) | 41 | A 009 | n 24 SM 041
 A9 | n24 Sm42 | [Hamburg : Treuhandwesen und Revisionswesen, Revisionsunternehmungen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1454xx/145414/about.de.html ) | 18 | A 009 | n 24 SM 042
-A9 | n24 Sm44 | [Hamburg : Privates Auskunfteiwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1454xx/145416/about.de.html ) | 2 | A 009 | n 24 SM 044
-A9 | n24 Sm45 | [Hamburg : Konsumfinanzierung, Absatzfinanzierung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1454xx/145417/about.de.html ) | 12 | A 009 | n 24 SM 045
+A9 | n24 Sm44 | [Hamburg : Privates Auskunfteiwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1454xx/145416/about.de.html ) | 3 | A 009 | n 24 SM 044
+A9 | n24 Sm45 | [Hamburg : Konsumfinanzierung, Absatzfinanzierung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1454xx/145417/about.de.html ) | 16 | A 009 | n 24 SM 045
 A9 | n24 Sm47 | [Hamburg : Mündelsicherheit, Anlegung von Mündelgeld](https://pm20.zbw.eu/folder/sh/1409xx/140905/1454xx/145419/about.de.html ) | 2 | A 009 | n 24 SM 047
 A9 | n24 Sm48 | [Hamburg : Schiffsbeleihungswesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1454xx/145420/about.de.html ) | 4 | A 009 | n 24 SM 048
 A9 | n24 Sm502.IIa (A10) | [Hamburg : Zwecksparkasse, für einzelne Zwecke, Bausparkasse](https://pm20.zbw.eu/folder/sh/1409xx/140905/1454xx/145439/about.de.html ) | 0 | A 009 | n 24 SM 502.02a (A 010)
-A9 | n25 | [Hamburg : Börsenwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1454xx/145486/about.de.html ) | 69 | A 009 | n 25
-A9 | n25 Sm3 | [Hamburg : Warenbörse, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1454xx/145489/about.de.html ) | 15 | A 009 | n 25 SM 003
+A9 | n25 | [Hamburg : Börsenwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1454xx/145486/about.de.html ) | 72 | A 009 | n 25
+A9 | n25 Sm3 | [Hamburg : Warenbörse, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1454xx/145489/about.de.html ) | 18 | A 009 | n 25 SM 003
 A9 | n26 | [Hamburg : Wirtschaftliche Interessenvertretungen, Wirtschaftskammern, Berufsstände](https://pm20.zbw.eu/folder/sh/1409xx/140905/1454xx/145491/about.de.html ) | 40 | A 009 | n 26
-A9 | n26 Sm1 | [Hamburg : Handelskammern, Industriekammern und Gewerbekammern, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1454xx/145492/about.de.html ) | 63 | A 009 | n 26 SM 001
-A9 | n26 Sm2 | [Hamburg : Auslandshandelskammern, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1454xx/145493/about.de.html ) | 1 | A 009 | n 26 SM 002
-A9 | n26 Sm3 | [Hamburg : Landwirtschaftskammern und Forstwirtschaftskammern, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1454xx/145494/about.de.html ) | 19 | A 009 | n 26 SM 003
+A9 | n26 Sm1 | [Hamburg : Handelskammern, Industriekammern und Gewerbekammern, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1454xx/145492/about.de.html ) | 69 | A 009 | n 26 SM 001
+A9 | n26 Sm2 | [Hamburg : Auslandshandelskammern, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1454xx/145493/about.de.html ) | 2 | A 009 | n 26 SM 002
+A9 | n26 Sm3 | [Hamburg : Landwirtschaftskammern und Forstwirtschaftskammern, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1454xx/145494/about.de.html ) | 21 | A 009 | n 26 SM 003
 A9 | n26 Sm4 | [Hamburg : Konsumentenkammern, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1454xx/145495/about.de.html ) | 20 | A 009 | n 26 SM 004
-A9 | n26 Sm6 | [Hamburg : Handwerkskammern, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1454xx/145497/about.de.html ) | 15 | A 009 | n 26 SM 006
-A9 | n27 | [Hamburg : Genossenschaftswesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145500/about.de.html ) | 11 | A 009 | n 27
+A9 | n26 Sm6 | [Hamburg : Handwerkskammern, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1454xx/145497/about.de.html ) | 17 | A 009 | n 26 SM 006
+A9 | n27 | [Hamburg : Genossenschaftswesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145500/about.de.html ) | 12 | A 009 | n 27
 A9 | n27 Sm2 | [Hamburg : Einkaufsgenossenschaften und Kreditgenossenschaften](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145502/about.de.html ) | 1 | A 009 | n 27 SM 002
-A9 | n27 Sm3 | [Hamburg : Konsumgenossenschaft](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145503/about.de.html ) | 50 | A 009 | n 27 SM 003
-A9 | n27 Sm4 | [Hamburg : Baugenossenschaften](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145504/about.de.html ) | 13 | A 009 | n 27 SM 004
+A9 | n27 Sm3 | [Hamburg : Konsumgenossenschaft](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145503/about.de.html ) | 57 | A 009 | n 27 SM 003
+A9 | n27 Sm4 | [Hamburg : Baugenossenschaften](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145504/about.de.html ) | 21 | A 009 | n 27 SM 004
 A9 | n27 Sm5 | [Hamburg : Absatzgenossenschaften](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145505/about.de.html ) | 1 | A 009 | n 27 SM 005
 A9 | n27 Sm7 | [Hamburg : Landwirtschaftliche Genossenschaften](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145507/about.de.html ) | 9 | A 009 | n 27 SM 007
-A9 | n28 | [Hamburg : Verkehrswesen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145509/about.de.html ) | 99 | A 009 | n 28
-A9 | n28 Sm1 | [Hamburg : Hotelgewerbe (alt)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145510/about.de.html ) | 64 | A 009 | n 28 SM 001
+A9 | n28 | [Hamburg : Verkehrswesen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145509/about.de.html ) | 111 | A 009 | n 28
+A9 | n28 Sm1 | [Hamburg : Hotelgewerbe (alt)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145510/about.de.html ) | 75 | A 009 | n 28 SM 001
 A9 | n28 Sm2 | [Hamburg : Reiseverkehr, Fremdenverkehr](https://pm20.zbw.eu/folder/sh/1409xx/140905/1616xx/161625/about.de.html ) | 109 | A 009 | n 28 SM 002
-A9 | n28 Sm2.I | [Hamburg : Reiseverkehr, Fremdenverkehr, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145511/about.de.html ) | 39 | A 009 | n 28 SM 002.01
-A9 | n28 Sm2.II | [Hamburg : Reiseverkehr, von und nach einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145512/about.de.html ) | 2 | A 009 | n 28 SM 002.02
-A9 | n28 Sm3.I | [Hamburg : Kommunales Verkehrswesen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145513/about.de.html ) | 307 | A 009 | n 28 SM 003.01
-A9 | n28 Sm3.II | [Hamburg : Kommunales Verkehrswesen, in einzelne Städten oder Stadtteilen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145514/about.de.html ) | 283 | A 009 | n 28 SM 003.02
-A9 | n28 Sm4 | [Hamburg : Kraftfahrzeugverkehr, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145515/about.de.html ) | 169 | A 009 | n 28 SM 004
+A9 | n28 Sm2.I | [Hamburg : Reiseverkehr, Fremdenverkehr, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145511/about.de.html ) | 71 | A 009 | n 28 SM 002.01
+A9 | n28 Sm2.II | [Hamburg : Reiseverkehr, von und nach einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145512/about.de.html ) | 4 | A 009 | n 28 SM 002.02
+A9 | n28 Sm3.I | [Hamburg : Kommunales Verkehrswesen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145513/about.de.html ) | 472 | A 009 | n 28 SM 003.01
+A9 | n28 Sm3.II | [Hamburg : Kommunales Verkehrswesen, in einzelne Städten oder Stadtteilen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145514/about.de.html ) | 287 | A 009 | n 28 SM 003.02
+A9 | n28 Sm4 | [Hamburg : Kraftfahrzeugverkehr, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145515/about.de.html ) | 202 | A 009 | n 28 SM 004
 A9 | n28 Sm5 | [Hamburg : Konkurrenz und Zusammenarbeit der verschiedenartigen Verkehrsmittel](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145516/about.de.html ) | 3 | A 009 | n 28 SM 005
-A9 | n28 Sm6 | [Hamburg : Autohöfe für den Güterfernverkehr](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145517/about.de.html ) | 34 | A 009 | n 28 SM 006
-A9 | n28 Sm6.II | [Hamburg : Autohöfe](https://pm20.zbw.eu/folder/sh/1409xx/140905/1978xx/197821/about.de.html ) | 23 | A 009 | n 28 SM 006.02
+A9 | n28 Sm6 | [Hamburg : Autohöfe für den Güterfernverkehr](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145517/about.de.html ) | 36 | A 009 | n 28 SM 006
+A9 | n28 Sm6.II | [Hamburg : Autohöfe](https://pm20.zbw.eu/folder/sh/1409xx/140905/1978xx/197821/about.de.html ) | 25 | A 009 | n 28 SM 006.02
 A9 | n28 Sm7 | [Hamburg : Verkehrsmittel-Verleih-Anstalten, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145518/about.de.html ) | 0 | A 009 | n 28 SM 007
 A9 | n28 Sm8.I | [Hamburg : Güterverkehr, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1978xx/197873/about.de.html ) | 3 | A 009 | n 28 SM 008.01
 A9 | n28 Sm20 | [Hamburg : Verkehrswesen, Konferenzen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1505xx/150580/about.de.html ) | 7 | A 009 | n 28 SM 020
 A9 | n28 Sm22 | [Hamburg : Gütertransport- und Frachtfragen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145519/about.de.html ) | 1 | A 009 | n 28 SM 022
-A9 | n28 Sm26 | [Hamburg : Sicherheitsvorkehrungen und Sicherheitsvorschriften im Straßen- und Überlandverkehr](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145520/about.de.html ) | 45 | A 009 | n 28 SM 026
+A9 | n28 Sm26 | [Hamburg : Sicherheitsvorkehrungen und Sicherheitsvorschriften im Straßen- und Überlandverkehr](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145520/about.de.html ) | 77 | A 009 | n 28 SM 026
 A9 | n28 Sm50 | [Hamburg : Verkehrswesen, Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1978xx/197800/about.de.html ) | 7 | A 009 | n 28 SM 050
 A9 | n28 Sm70 | [Hamburg : Verkehrswesen, Kapitalbeschaffung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1983xx/198328/about.de.html ) | 0 | A 009 | n 28 SM 070
 A9 | n28b | [Hamburg : Verkehr (im Ganzen) mit einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145523/about.de.html ) | 1 | A 009 | n 28b
-A9 | n29 | [Hamburg : Landstrassen, Wege, Brücken (einschl. ihres Verkehrs)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145524/about.de.html ) | 75 | A 009 | n 29
+A9 | n29 | [Hamburg : Landstrassen, Wege, Brücken (einschl. ihres Verkehrs)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145524/about.de.html ) | 87 | A 009 | n 29
 A9 | n29 Sm1 | [Hamburg : Autospezialstrassen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145525/about.de.html ) | 25 | A 009 | n 29 SM 001
 A9 | n29 Sm50 | [Hamburg : Landstrassen, Wege, Brücken (einschl. ihres Verkehrs), Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1978xx/197875/about.de.html ) | 1 | A 009 | n 29 SM 050
 A9 | n29 Sm60 | [Hamburg : Landstrassen, Wege, Brücken (einschl. ihres Verkehrs), Technisches](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145526/about.de.html ) | 2 | A 009 | n 29 SM 060
 A9 | n29 Sm70 | [Hamburg : Landstrassen, Wege, Brücken (einschl. ihres Verkehrs), Kapitalbeschaffung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145527/about.de.html ) | 0 | A 009 | n 29 SM 070
-A9 | n29a | [Hamburg : Einzelne Strassen, Tunnel, Brücken (einschl. ihres Verkehrs)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145529/about.de.html ) | 110 | A 009 | n 29a
+A9 | n29a | [Hamburg : Einzelne Strassen, Tunnel, Brücken (einschl. ihres Verkehrs)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145529/about.de.html ) | 119 | A 009 | n 29a
 A9 | n30 | [Hamburg : Eisenbahnwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145531/about.de.html ) | 42 | A 009 | n 30
-A9 | n30 Sm3 | [Hamburg : Eisenbahnwesen, Tarife](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145534/about.de.html ) | 0 | A 009 | n 30 SM 003
+A9 | n30 Sm3 | [Hamburg : Eisenbahnwesen, Tarife](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145534/about.de.html ) | 1 | A 009 | n 30 SM 003
 A9 | n30 Sm5 | [Hamburg : Eisenbahnwesen, Elektrifizierung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145536/about.de.html ) | 0 | A 009 | n 30 SM 005
-A9 | n30 Sm6.I | [Hamburg : Bahnhöfe, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145538/about.de.html ) | 16 | A 009 | n 30 SM 006.01
-A9 | n30 Sm6.II | [Hamburg : Bahnhöfe, Einzelne Städte oder Stadtteile](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145539/about.de.html ) | 58 | A 009 | n 30 SM 006.02
+A9 | n30 Sm6.I | [Hamburg : Bahnhöfe, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145538/about.de.html ) | 36 | A 009 | n 30 SM 006.01
+A9 | n30 Sm6.II | [Hamburg : Bahnhöfe, Einzelne Städte oder Stadtteile](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145539/about.de.html ) | 59 | A 009 | n 30 SM 006.02
 A9 | n30 Sm8 | [Hamburg : Eisenbahnwesen, Unfälle und Sicherheitsmassnahmen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145541/about.de.html ) | 0 | A 009 | n 30 SM 008
-A9 | n30 Sm501 (A9) | [Hamburg : Eisenbahnwesen, Vorortsverkehr](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145544/about.de.html ) | 107 | A 009 | n 30 SM 501 (A 009)
+A9 | n30 Sm501 (A9) | [Hamburg : Eisenbahnwesen, Vorortsverkehr](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145544/about.de.html ) | 144 | A 009 | n 30 SM 501 (A 009)
 A9 | n30 Sm502 (A9) | [Hamburg : Hafenbahnen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145548/about.de.html ) | 50 | A 009 | n 30 SM 502 (A 009)
 A9 | n30a | [Hamburg : Einzelne Bahnlinien, auch projektierte](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145556/about.de.html ) | 62 | A 009 | n 30a
-A9 | n31 | [Hamburg : Hafenanlagen und deren Verwaltung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145563/about.de.html ) | 787 | A 009 | n 31
+A9 | n31 | [Hamburg : Hafenanlagen und deren Verwaltung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145563/about.de.html ) | 1035 | A 009 | n 31
 A9 | n31 Sm20 | [Hamburg : Hafenanlagen und deren Verwaltung, Konferenzen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1984xx/198400/about.de.html ) | 0 | A 009 | n 31 SM 020
-A9 | n31 Sm50 | [Hamburg : Hafenanlagen und deren Verwaltung, Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1821xx/182126/about.de.html ) | 10 | A 009 | n 31 SM 050
-A9 | n31 Sm70 | [Hamburg : Hafenanlagen und deren Verwaltung, Kapitalbeschaffung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1984xx/198436/about.de.html ) | 0 | A 009 | n 31 SM 070
+A9 | n31 Sm50 | [Hamburg : Hafenanlagen und deren Verwaltung, Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1821xx/182126/about.de.html ) | 12 | A 009 | n 31 SM 050
+A9 | n31 Sm70 | [Hamburg : Hafenanlagen und deren Verwaltung, Kapitalbeschaffung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1984xx/198436/about.de.html ) | 2 | A 009 | n 31 SM 070
 A9 | n31 Sm501 (A9) | [Hamburg : Hafengemeinschaft des Unterelbegebietes](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145564/about.de.html ) | 40 | A 009 | n 31 SM 501 (A 009)
 A9 | n31a | [Hamburg : Bau, Ausbau, wirtschaftliche Förderung und Verwaltung einzelner Häfen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145565/about.de.html ) | 45 | A 009 | n 31a
-A9 | n32 | [Hamburg : Seeschiffahrt](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145567/about.de.html ) | 473 | A 009 | n 32
+A9 | n32 | [Hamburg : Seeschiffahrt](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145567/about.de.html ) | 612 | A 009 | n 32
 A9 | n32 Sm1 (A9) | [Hamburg : Seeverkehr, Statistiken des Hamburger Hafens (ab 1935)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1821xx/182143/about.de.html ) | 101 | A 009 | n 32 SM 001 (A 09)
-A9 | n32 Sm2 | [Hamburg : Schiffsverkäufe und Schiffskäufe](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145569/about.de.html ) | 5 | A 009 | n 32 SM 002
+A9 | n32 Sm2 | [Hamburg : Schiffsverkäufe und Schiffskäufe](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145569/about.de.html ) | 10 | A 009 | n 32 SM 002
 A9 | n32 Sm4 | [Hamburg : Seeschiffahrt, Konzentrationsbewegung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145573/about.de.html ) | 0 | A 009 | n 32 SM 004
-A9 | n32 Sm5 | [Hamburg : Schiffsverluste, Havarien](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145574/about.de.html ) | 59 | A 009 | n 32 SM 005
-A9 | n32 Sm6 | [Hamburg : Lage und Statistik der Privatunternehmungen und statistische Übersichten der Handelsflotte](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145575/about.de.html ) | 0 | A 009 | n 32 SM 006
-A9 | n32 Sm9 | [Hamburg : Seeschiffahrt, Öffentliche Kredite und Subventionierung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145579/about.de.html ) | 3 | A 009 | n 32 SM 009
-A9 | n32 Sm11 | [Hamburg : Seeschiffahrt, Bergungswesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145580/about.de.html ) | 23 | A 009 | n 32 SM 011
+A9 | n32 Sm5 | [Hamburg : Schiffsverluste, Havarien](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145574/about.de.html ) | 63 | A 009 | n 32 SM 005
+A9 | n32 Sm6 | [Hamburg : Lage und Statistik der Privatunternehmungen und statistische Übersichten der Handelsflotte](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145575/about.de.html ) | 2 | A 009 | n 32 SM 006
+A9 | n32 Sm9 | [Hamburg : Seeschiffahrt, Öffentliche Kredite und Subventionierung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145579/about.de.html ) | 14 | A 009 | n 32 SM 009
+A9 | n32 Sm11 | [Hamburg : Seeschiffahrt, Bergungswesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145580/about.de.html ) | 26 | A 009 | n 32 SM 011
 A9 | n32 Sm14 | [Hamburg : Küstenschiffahrt, kombinierte Fluss-Seeschiffahrt](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145585/about.de.html ) | 1 | A 009 | n 32 SM 014
 A9 | n32 Sm16 | [Hamburg : Seeschiffahrt, Passagierraten, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145587/about.de.html ) | 0 | A 009 | n 32 SM 016
 A9 | n32 Sm17.I | [Hamburg : Seerecht, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145588/about.de.html ) | 7 | A 009 | n 32 SM 017.01
-A9 | n32 Sm17.II | [Hamburg : Seerecht, Seetransportregeln, Konnossemente](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145589/about.de.html ) | 1 | A 009 | n 32 SM 017.02
+A9 | n32 Sm17.II | [Hamburg : Seerecht, Seetransportregeln, Konnossemente](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145589/about.de.html ) | 2 | A 009 | n 32 SM 017.02
 A9 | n32 Sm17.IV | [Hamburg : Ölpest](https://pm20.zbw.eu/folder/sh/1409xx/140905/1985xx/198505/about.de.html ) | 0 | A 009 | n 32 SM 017.04
 A9 | n32 Sm19 | [Hamburg : Seeschiffahrt, Auswanderungsbeförderung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145593/about.de.html ) | 0 | A 009 | n 32 SM 019
 A9 | n32 Sm20 | [Hamburg : Seeschiffahrt, Konferenzen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1501xx/150181/about.de.html ) | 2 | A 009 | n 32 SM 020
-A9 | n32 Sm22 | [Hamburg : Seeschiffahrt, Frachtfragen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145595/about.de.html ) | 10 | A 009 | n 32 SM 022
-A9 | n32 Sm23 | [Hamburg : Lotsenwesen, Seezeichenwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145596/about.de.html ) | 53 | A 009 | n 32 SM 023
-A9 | n32 Sm24 | [Hamburg : Schiffsmeldedienst](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145597/about.de.html ) | 10 | A 009 | n 32 SM 024
-A9 | n32 Sm25 | [Hamburg : Schiffsmakler](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145598/about.de.html ) | 10 | A 009 | n 32 SM 025
+A9 | n32 Sm22 | [Hamburg : Seeschiffahrt, Frachtfragen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145595/about.de.html ) | 15 | A 009 | n 32 SM 022
+A9 | n32 Sm23 | [Hamburg : Lotsenwesen, Seezeichenwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145596/about.de.html ) | 63 | A 009 | n 32 SM 023
+A9 | n32 Sm24 | [Hamburg : Schiffsmeldedienst](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145597/about.de.html ) | 11 | A 009 | n 32 SM 024
+A9 | n32 Sm25 | [Hamburg : Schiffsmakler](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145598/about.de.html ) | 12 | A 009 | n 32 SM 025
 A9 | n32 Sm26 | [Hamburg : Seeschiffahrt, Sicherheitsvorkehrungen, Rettungswesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1455xx/145599/about.de.html ) | 1 | A 009 | n 32 SM 026
-A9 | n32 Sm27.I | [Hamburg : Hafenabgaben, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145600/about.de.html ) | 69 | A 009 | n 32 SM 027.01
+A9 | n32 Sm27.I | [Hamburg : Hafenabgaben, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145600/about.de.html ) | 74 | A 009 | n 32 SM 027.01
 A9 | n32 Sm27.II | [Hamburg : Hafenabgaben, in Einzelne Häfen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145601/about.de.html ) | 73 | A 009 | n 32 SM 027.02
 A9 | n32 Sm28 | [Hamburg : Schiffsvermessung, Schiffsklassifizierung, Schiffsregister](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145602/about.de.html ) | 5 | A 009 | n 32 SM 028
 A9 | n32 Sm31.III | [Hamburg : Seekriegsrecht im Ganzen, Prisen, Prisenurteile](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145608/about.de.html ) | 99 | A 009 | n 32 SM 031.03
-A9 | n32 Sm32 | [Hamburg : Bugsierschiffahrt und Schleppschiffahrt, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145612/about.de.html ) | 3 | A 009 | n 32 SM 032
-A9 | n32 Sm33 | [Hamburg : Tankschiffahrt, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145613/about.de.html ) | 8 | A 009 | n 32 SM 033
+A9 | n32 Sm32 | [Hamburg : Bugsierschiffahrt und Schleppschiffahrt, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145612/about.de.html ) | 6 | A 009 | n 32 SM 032
+A9 | n32 Sm33 | [Hamburg : Tankschiffahrt, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145613/about.de.html ) | 18 | A 009 | n 32 SM 033
 A9 | n32 Sm34 | [Hamburg : Seeschiffahrt, Stauerei](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145614/about.de.html ) | 2 | A 009 | n 32 SM 034
 A9 | n32 Sm36 | [Hamburg : Seeschiffahrt, Schiffsausrüster](https://pm20.zbw.eu/folder/sh/1409xx/140905/1994xx/199418/about.de.html ) | 0 | A 009 | n 32 SM 036
-A9 | n32 Sm40 | [Hamburg : Seeschiffahrt, Berufe und Ausbildung ](https://pm20.zbw.eu/folder/sh/1409xx/140905/1821xx/182145/about.de.html ) | 44 | A 009 | n 32 SM 040
+A9 | n32 Sm40 | [Hamburg : Seeschiffahrt, Berufe und Ausbildung ](https://pm20.zbw.eu/folder/sh/1409xx/140905/1821xx/182145/about.de.html ) | 48 | A 009 | n 32 SM 040
 A9 | n32 Sm46 | [Hamburg : Seeschiffahrt, Kernenergieantrieb](https://pm20.zbw.eu/folder/sh/1409xx/140905/1994xx/199419/about.de.html ) | 0 | A 009 | n 32 SM 046
-A9 | n32 Sm50 | [Hamburg : Seeschiffahrt, Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1821xx/182146/about.de.html ) | 22 | A 009 | n 32 SM 050
-A9 | n32 Sm60 | [Hamburg : Seeschiffahrt, Technisches](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145617/about.de.html ) | 0 | A 009 | n 32 SM 060
+A9 | n32 Sm50 | [Hamburg : Seeschiffahrt, Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1821xx/182146/about.de.html ) | 25 | A 009 | n 32 SM 050
+A9 | n32 Sm60 | [Hamburg : Seeschiffahrt, Technisches](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145617/about.de.html ) | 3 | A 009 | n 32 SM 060
 A9 | n32 Sm70 | [Hamburg : Seeschiffahrt, Kapitalbeschaffung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145618/about.de.html ) | 0 | A 009 | n 32 SM 070
-A9 | n32 Sm501 (A9) | [Hamburg : Hamburg im Wettbewerb mit anderen Häfen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145619/about.de.html ) | 366 | A 009 | n 32 SM 501 (A 009)
+A9 | n32 Sm501 (A9) | [Hamburg : Hamburg im Wettbewerb mit anderen Häfen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145619/about.de.html ) | 447 | A 009 | n 32 SM 501 (A 009)
 A9 | n32 Sm501 N1 (A9) | [Hamburg : Hamburg im Wettbewerb mit anderen Häfen, Monatsübersichten](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145625/about.de.html ) | 38 | A 009 | n 32 SM 501 N1 (A 009)
-A9 | n32b | [Hamburg : Schiffsverkehr mit einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145645/about.de.html ) | 247 | A 009 | n 32b
-A9 | n33 | [Hamburg : Binnenschiffahrt](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145646/about.de.html ) | 67 | A 009 | n 33
+A9 | n32b | [Hamburg : Schiffsverkehr mit einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145645/about.de.html ) | 269 | A 009 | n 32b
+A9 | n33 | [Hamburg : Binnenschiffahrt](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145646/about.de.html ) | 68 | A 009 | n 33
 A9 | n33 Sm20 | [Hamburg : Binnenschiffahrt, Konferenzen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1943xx/194370/about.de.html ) | 0 | A 009 | n 33 SM 020
 A9 | n33 Sm22 | [Hamburg : Binnenschiffahrt, Frachtfragen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145648/about.de.html ) | 0 | A 009 | n 33 SM 022
 A9 | n33 Sm50 | [Hamburg : Binnenschiffahrt, Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1821xx/182147/about.de.html ) | 3 | A 009 | n 33 SM 050
-A9 | n33a | [Hamburg : Einzelne Binnenschiffahrtsstrassen und Seekanäle](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145651/about.de.html ) | 47 | A 009 | n 33a
-A9 | n34 | [Hamburg : Postwesen, Telegraphenwesen und Fernsprechwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145662/about.de.html ) | 73 | A 009 | n 34
-A9 | n34 Sm1 | [Hamburg : Drahtlose Telegraphie und Telephonie, Rundfunk](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145663/about.de.html ) | 57 | A 009 | n 34 SM 001
+A9 | n33a | [Hamburg : Einzelne Binnenschiffahrtsstrassen und Seekanäle](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145651/about.de.html ) | 49 | A 009 | n 33a
+A9 | n34 | [Hamburg : Postwesen, Telegraphenwesen und Fernsprechwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145662/about.de.html ) | 74 | A 009 | n 34
+A9 | n34 Sm1 | [Hamburg : Drahtlose Telegraphie und Telephonie, Rundfunk](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145663/about.de.html ) | 58 | A 009 | n 34 SM 001
 A9 | n34 Sm3 | [Hamburg : Luftpost](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145665/about.de.html ) | 2 | A 009 | n 34 SM 003
 A9 | n34 Sm4 | [Hamburg : Postzensur](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145666/about.de.html ) | 0 | A 009 | n 34 SM 004
 A9 | n34 Sm7 | [Hamburg : Fernsehen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145669/about.de.html ) | 17 | A 009 | n 34 SM 007
-A9 | n34 Sm7.III | [Hamburg : Fernschreiben](https://pm20.zbw.eu/folder/sh/1409xx/140905/1996xx/199600/about.de.html ) | 0 | A 009 | n 34 SM 007.03
+A9 | n34 Sm7.III | [Hamburg : Fernschreiben](https://pm20.zbw.eu/folder/sh/1409xx/140905/1996xx/199600/about.de.html ) | 4 | A 009 | n 34 SM 007.03
 A9 | n34 Sm8.II | [Hamburg : Ausländische Postanstalten und Telegraphenanstalten in einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145672/about.de.html ) | 17 | A 009 | n 34 SM 008.02
-A9 | n34 Sm12 | [Hamburg : Fernsprechwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1996xx/199601/about.de.html ) | 12 | A 009 | n 34 SM 012
+A9 | n34 Sm12 | [Hamburg : Fernsprechwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1996xx/199601/about.de.html ) | 16 | A 009 | n 34 SM 012
 A9 | n34 Sm60 | [Hamburg : Postwesen, Telegraphenwesen und Fernsprechwesen, Technisches](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145675/about.de.html ) | 1 | A 009 | n 34 SM 060
-A9 | n35 | [Hamburg : Luftschiffahrt, Flugwesen, Luftverkehr, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145681/about.de.html ) | 93 | A 009 | n 35
+A9 | n35 | [Hamburg : Luftschiffahrt, Flugwesen, Luftverkehr, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145681/about.de.html ) | 123 | A 009 | n 35
 A9 | n35 Sm2 | [Hamburg : Lufthafen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1614xx/161488/about.de.html ) | 33 | A 009 | n 35 SM 002
-A9 | n35 Sm2.I | [Hamburg : Lufthafen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145683/about.de.html ) | 12 | A 009 | n 35 SM 002.01
+A9 | n35 Sm2.I | [Hamburg : Lufthafen, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145683/about.de.html ) | 63 | A 009 | n 35 SM 002.01
 A9 | n35 Sm2.II | [Hamburg : Lufthafen, Einzelne](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145684/about.de.html ) | 48 | A 009 | n 35 SM 002.02
 A9 | n35 Sm4 | [Hamburg : Luftschiffahrt, Flugwesen, Luftverkehr, Subventionierung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145687/about.de.html ) | 2 | A 009 | n 35 SM 004
-A9 | n35 Sm5 | [Hamburg : Segelflugwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145688/about.de.html ) | 15 | A 009 | n 35 SM 005
-A9 | n35 Sm8 | [Hamburg : Luftschiffahrt, Gütertransport](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145692/about.de.html ) | 4 | A 009 | n 35 SM 008
-A9 | n35 Sm9 | [Hamburg : Luftschiffahrt, Einzelne bemerkenswerte Flüge](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145693/about.de.html ) | 3 | A 009 | n 35 SM 009
+A9 | n35 Sm5 | [Hamburg : Segelflugwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145688/about.de.html ) | 16 | A 009 | n 35 SM 005
+A9 | n35 Sm8 | [Hamburg : Luftschiffahrt, Gütertransport](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145692/about.de.html ) | 10 | A 009 | n 35 SM 008
+A9 | n35 Sm9 | [Hamburg : Luftschiffahrt, Einzelne bemerkenswerte Flüge](https://pm20.zbw.eu/folder/sh/1409xx/140905/1456xx/145693/about.de.html ) | 4 | A 009 | n 35 SM 009
 A9 | n35 Sm11 | [Hamburg : Hubschrauber (Verkehr), Senkrechtstarter (Verkehr)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1996xx/199602/about.de.html ) | 0 | A 009 | n 35 SM 011
 A9 | n35 Sm50 | [Hamburg : Luftschiffahrt, Flugwesen, Luftverkehr, Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1996xx/199603/about.de.html ) | 0 | A 009 | n 35 SM 050
-A9 | n35b | [Hamburg : Luftverkehr mit einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145706/about.de.html ) | 22 | A 009 | n 35b
+A9 | n35b | [Hamburg : Luftverkehr mit einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145706/about.de.html ) | 37 | A 009 | n 35b
 A9 | n36 | [Hamburg : Nachrichtenwesen und Pressewesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145707/about.de.html ) | 67 | A 009 | n 36
 A9 | n36 Sm1 | [Hamburg : Beschränkung der Pressefreiheit, Zensur](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145708/about.de.html ) | 13 | A 009 | n 36 SM 001
 A9 | n36 Sm2 | [Hamburg : Nachrichten- und Pressewesen, Aufklärungsdienst](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145709/about.de.html ) | 1 | A 009 | n 36 SM 002
 A9 | n36 Sm7 | [Hamburg : Nachrichten- und Pressewesen, Inseratenwesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145714/about.de.html ) | 4 | A 009 | n 36 SM 007
-A9 | n36 Sm8 | [Hamburg : Beziehungen zur Presse des Auslands](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145715/about.de.html ) | 1 | A 009 | n 36 SM 008
+A9 | n36 Sm8 | [Hamburg : Beziehungen zur Presse des Auslands](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145715/about.de.html ) | 5 | A 009 | n 36 SM 008
 A9 | n36 Sm12 | [Hamburg : Zeitungskunde und Zeitschriftenkunde](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145717/about.de.html ) | 1 | A 009 | n 36 SM 012
-A9 | n36 Sm40 | [Hamburg : Nachrichtenwesen und Pressewesen, Beruf und Ausbildung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1996xx/199604/about.de.html ) | 4 | A 009 | n 36 SM 040
+A9 | n36 Sm40 | [Hamburg : Nachrichtenwesen und Pressewesen, Beruf und Ausbildung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1996xx/199604/about.de.html ) | 5 | A 009 | n 36 SM 040
 A9 | n36 Sm50 | [Hamburg : Nachrichtenwesen und Pressewesen, Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1996xx/199605/about.de.html ) | 4 | A 009 | n 36 SM 050
-A9 | n37 | [Hamburg : Versicherungswesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145723/about.de.html ) | 30 | A 009 | n 37
-A9 | n37 Sm2 | [Hamburg : Versicherungswesen, Konzentrationsbewegung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145725/about.de.html ) | 1 | A 009 | n 37 SM 002
+A9 | n37 | [Hamburg : Versicherungswesen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145723/about.de.html ) | 34 | A 009 | n 37
+A9 | n37 Sm2 | [Hamburg : Versicherungswesen, Konzentrationsbewegung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145725/about.de.html ) | 2 | A 009 | n 37 SM 002
 A9 | n37 Sm6 | [Hamburg : Lage und Statistik der Versicherungsgesellschaften, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145728/about.de.html ) | 4 | A 009 | n 37 SM 006
 A9 | n37 Sm40 | [Hamburg : Versicherungswesen, Beruf und Ausbildung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1822xx/182221/about.de.html ) | 2 | A 009 | n 37 SM 040
 A9 | n37 Sm50 | [Hamburg : Versicherungswesen, Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1822xx/182269/about.de.html ) | 6 | A 009 | n 37 SM 050
-A9 | n37a Sm2.I | [Hamburg : Sozialversicherung, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145733/about.de.html ) | 27 | A 009 | n 37a SM 002.01
+A9 | n37a Sm2.I | [Hamburg : Sozialversicherung, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145733/about.de.html ) | 29 | A 009 | n 37a SM 002.01
 A9 | n37a Sm2.II | [Hamburg : Sozialversicherung, Einzelne Zweige der Sozialversicherung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145734/about.de.html ) | 89 | A 009 | n 37a SM 002.02
-A9 | n37a Sm2.IIa | [Hamburg : Krankenversicherung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1996xx/199607/about.de.html ) | 13 | A 009 | n 37a SM 002.02a
-A9 | n37a Sm2.IIb | [Hamburg : Unfallversicherung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1996xx/199608/about.de.html ) | 9 | A 009 | n 37a SM 002.02b
-A9 | n37a Sm2.IIc | [Hamburg : Rentenversicherung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1996xx/199609/about.de.html ) | 23 | A 009 | n 37a SM 002.02c
-A9 | n37a Sm2.IId | [Hamburg : Arbeitslosenversicherung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1996xx/199610/about.de.html ) | 11 | A 009 | n 37a SM 002.02d
-A9 | n37a Sm3 | [Hamburg : Feuerversicherung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145735/about.de.html ) | 34 | A 009 | n 37a SM 003
-A9 | n37a Sm4 | [Hamburg : Lebensversicherung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145736/about.de.html ) | 4 | A 009 | n 37a SM 004
+A9 | n37a Sm2.IIa | [Hamburg : Krankenversicherung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1996xx/199607/about.de.html ) | 18 | A 009 | n 37a SM 002.02a
+A9 | n37a Sm2.IIb | [Hamburg : Unfallversicherung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1996xx/199608/about.de.html ) | 10 | A 009 | n 37a SM 002.02b
+A9 | n37a Sm2.IIc | [Hamburg : Rentenversicherung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1996xx/199609/about.de.html ) | 26 | A 009 | n 37a SM 002.02c
+A9 | n37a Sm2.IId | [Hamburg : Arbeitslosenversicherung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1996xx/199610/about.de.html ) | 15 | A 009 | n 37a SM 002.02d
+A9 | n37a Sm3 | [Hamburg : Feuerversicherung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145735/about.de.html ) | 35 | A 009 | n 37a SM 003
+A9 | n37a Sm4 | [Hamburg : Lebensversicherung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145736/about.de.html ) | 5 | A 009 | n 37a SM 004
 A9 | n37a Sm5 | [Hamburg : Transportversicherung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1607xx/160744/about.de.html ) | 1 | A 009 | n 37a SM 005
-A9 | n37a Sm5.I | [Hamburg : Transportversicherung, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145737/about.de.html ) | 0 | A 009 | n 37a SM 005.01
+A9 | n37a Sm5.I | [Hamburg : Transportversicherung, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145737/about.de.html ) | 2 | A 009 | n 37a SM 005.01
 A9 | n37a Sm5.II | [Hamburg : Transportversicherung, Wassertransportversicherung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145738/about.de.html ) | 0 | A 009 | n 37a SM 005.02
 A9 | n37a Sm12 | [Hamburg : Elementarschädenversicherung (ausser Erdbeben)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145746/about.de.html ) | 2 | A 009 | n 37a SM 012
 A9 | n37a Sm12 (alt) | [Hamburg : Unwetterversicherung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145747/about.de.html ) | 1 | A 009 | n 37a SM 012 (alt)
 A9 | n37a Sm17 | [Hamburg : Viehversicherung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145752/about.de.html ) | 2 | A 009 | n 37a SM 017
 A9 | n37a Sm18 | [Hamburg : Kraftfahrzeugversicherung (kombinierte). Kraftwagenversicherung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145753/about.de.html ) | 1 | A 009 | n 37a SM 018
 A9 | n37a Sm30 | [Hamburg : Verschiedene einzelne Versicherungszweige](https://pm20.zbw.eu/folder/sh/1409xx/140905/1457xx/145755/about.de.html ) | 6 | A 009 | n 37a SM 030
-A9 | n39 Sm3 | [Hamburg : Schaustellergewerbe](https://pm20.zbw.eu/folder/sh/1409xx/140905/1996xx/199616/about.de.html ) | 18 | A 009 | n 39 SM 003
-A9 | n39 Sm20 | [Hamburg : Hotelgewerbe, Gaststätten- und Vergnügungsgewerbe. Konferenzen und Messen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1996xx/199620/about.de.html ) | 3 | A 009 | n 39 SM 020
+A9 | n39 Sm3 | [Hamburg : Schaustellergewerbe](https://pm20.zbw.eu/folder/sh/1409xx/140905/1996xx/199616/about.de.html ) | 23 | A 009 | n 39 SM 003
+A9 | n39 Sm20 | [Hamburg : Hotelgewerbe, Gaststätten- und Vergnügungsgewerbe. Konferenzen und Messen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1996xx/199620/about.de.html ) | 5 | A 009 | n 39 SM 020
 A9 | o | [Hamburg : Fremdstämmige und einzelne Minderheiten, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1459xx/145908/about.de.html ) | 19 | A 009 | o
-A9 | o3 | [Hamburg : Minderheiten aus einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140905/1822xx/182220/about.de.html ) | 96 | A 009 | o 03
+A9 | o3 | [Hamburg : Minderheiten aus einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140905/1822xx/182220/about.de.html ) | 98 | A 009 | o 03
 A9 | p | [Hamburg : Siedlung und Wanderung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1459xx/145913/about.de.html ) | 1 | A 009 | p
 A9 | p2 | [Hamburg : Siedlungspolitik](https://pm20.zbw.eu/folder/sh/1409xx/140905/1459xx/145915/about.de.html ) | 39 | A 009 | p 02
 A9 | p3 Sm4 | [Hamburg : Einwanderer aus Einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140905/1822xx/182222/about.de.html ) | 0 | A 009 | p 03 SM 004
 A9 | p4 | [Hamburg : Auswanderung und Auswanderungspolitik](https://pm20.zbw.eu/folder/sh/1409xx/140905/1459xx/145925/about.de.html ) | 9 | A 009 | p 04
-A9 | p4 Sm1 | [Hamburg : Auswandererfürsorge](https://pm20.zbw.eu/folder/sh/1409xx/140905/1459xx/145926/about.de.html ) | 24 | A 009 | p 04 SM 001
+A9 | p4 Sm1 | [Hamburg : Auswandererfürsorge](https://pm20.zbw.eu/folder/sh/1409xx/140905/1459xx/145926/about.de.html ) | 26 | A 009 | p 04 SM 001
 A9 | p4 Sm2 | [Hamburg : Auswanderung über Einzelne Häfen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1459xx/145927/about.de.html ) | 0 | A 009 | p 04 SM 002
 A9 | p4 Sm50 | [Hamburg : Auswanderung, Institutionen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1822xx/182277/about.de.html ) | 3 | A 009 | p 04 SM 050
-A9 | p6 | [Hamburg : Siedlungen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1459xx/145931/about.de.html ) | 93 | A 009 | p 06
+A9 | p6 | [Hamburg : Siedlungen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1459xx/145931/about.de.html ) | 94 | A 009 | p 06
 A9 | p6 Sm2 | [Hamburg : Ländliche Kleinsiedlungen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1459xx/145934/about.de.html ) | 57 | A 009 | p 06 SM 002
 A9 | p6 Sm3 | [Hamburg : Soldatensiedlungen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1459xx/145935/about.de.html ) | 13 | A 009 | p 06 SM 003
-A9 | p6 Sm4 | [Hamburg : Wohnsiedlung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1459xx/145936/about.de.html ) | 30 | A 009 | p 06 SM 004
-A9 | p6 Sm5 | [Hamburg : Flüchtlingssiedlungen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1459xx/145937/about.de.html ) | 3 | A 009 | p 06 SM 005
+A9 | p6 Sm4 | [Hamburg : Wohnsiedlung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1459xx/145936/about.de.html ) | 37 | A 009 | p 06 SM 004
+A9 | p6 Sm5 | [Hamburg : Flüchtlingssiedlungen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1459xx/145937/about.de.html ) | 5 | A 009 | p 06 SM 005
 A9 | p6 Sm6 | [Hamburg : Beamtensiedlungen, Beamtenheimstätten](https://pm20.zbw.eu/folder/sh/1409xx/140905/1459xx/145938/about.de.html ) | 4 | A 009 | p 06 SM 006
 A9 | p7 | [Hamburg : Binnenwanderungsbewegungen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1459xx/145939/about.de.html ) | 0 | A 009 | p 07
-A9 | q Sm1 | [Hamburg : Alkoholismus und seine Bekämpfung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1459xx/145941/about.de.html ) | 9 | A 009 | q SM 001
+A9 | q Sm1 | [Hamburg : Alkoholismus und seine Bekämpfung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1459xx/145941/about.de.html ) | 10 | A 009 | q SM 001
 A9 | q Sm2.I | [Hamburg : Handel und Versorgung mit Waffen, Munition und sonst. Kriegsmaterial, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1459xx/145942/about.de.html ) | 2 | A 009 | q SM 002.01
-A9 | q Sm8 | [Hamburg : Juden, Judenfeindlichkeit und Antisemitismus bis 1945](https://pm20.zbw.eu/folder/sh/1409xx/140905/1459xx/145952/about.de.html ) | 75 | A 009 | q SM 008
+A9 | q Sm8 | [Hamburg : Juden, Judenfeindlichkeit und Antisemitismus bis 1945](https://pm20.zbw.eu/folder/sh/1409xx/140905/1459xx/145952/about.de.html ) | 84 | A 009 | q SM 008
 A9 | q Sm12 | [Hamburg : Hilfsaktionen für ...](https://pm20.zbw.eu/folder/sh/1409xx/140905/1604xx/160417/about.de.html ) | 34 | A 009 | q SM 012
 A9 | q Sm12.I | [Hamburg : Hilfsaktionen für ..., Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1459xx/145955/about.de.html ) | 4 | A 009 | q SM 012.01
-A9 | q Sm12.II | [Hamburg : Hilfsaktionen für ..., (Angehörige) Einzelne Staaten](https://pm20.zbw.eu/folder/sh/1409xx/140905/1459xx/145956/about.de.html ) | 32 | A 009 | q SM 012.02
-A9 | q Sm15 | [Hamburg : Freimaurer](https://pm20.zbw.eu/folder/sh/1409xx/140905/1459xx/145961/about.de.html ) | 2 | A 009 | q SM 015
+A9 | q Sm12.II | [Hamburg : Hilfsaktionen für ..., (Angehörige) Einzelne Staaten](https://pm20.zbw.eu/folder/sh/1409xx/140905/1459xx/145956/about.de.html ) | 34 | A 009 | q SM 012.02
+A9 | q Sm15 | [Hamburg : Freimaurer](https://pm20.zbw.eu/folder/sh/1409xx/140905/1459xx/145961/about.de.html ) | 5 | A 009 | q SM 015
 A9 | q Sm18 | [Hamburg : Negerfrage](https://pm20.zbw.eu/folder/sh/1409xx/140905/1459xx/145964/about.de.html ) | 0 | A 009 | q SM 018
 A9 | q Sm21 | [Hamburg : Rätesystem](https://pm20.zbw.eu/folder/sh/1409xx/140905/1604xx/160411/about.de.html ) | 71 | A 009 | q SM 021
 A9 | q Sm31 | [Hamburg : Landesplanung und Städtebau](https://pm20.zbw.eu/folder/sh/1409xx/140905/1459xx/145983/about.de.html ) | 147 | A 009 | q SM 031
-A9 | q Sm31.I | [Hamburg : Städtebau](https://pm20.zbw.eu/folder/sh/1409xx/140905/1823xx/182304/about.de.html ) | 703 | A 009 | q SM 031.01
+A9 | q Sm31.I | [Hamburg : Städtebau](https://pm20.zbw.eu/folder/sh/1409xx/140905/1823xx/182304/about.de.html ) | 986 | A 009 | q SM 031.01
 A9 | q Sm31.II | [Hamburg : Städtebau einzelner Provinzen, Gegenden, Städte](https://pm20.zbw.eu/folder/sh/1409xx/140905/1823xx/182305/about.de.html ) | 1 | A 009 | q SM 031.02
-A9 | q Sm34 | [Hamburg : Mittelstandsbewegung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1459xx/145986/about.de.html ) | 29 | A 009 | q SM 034
+A9 | q Sm34 | [Hamburg : Mittelstandsbewegung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1459xx/145986/about.de.html ) | 32 | A 009 | q SM 034
 A9 | q Sm38 | [Hamburg : Rotarybewegung](https://pm20.zbw.eu/folder/sh/1409xx/140905/1459xx/145990/about.de.html ) | 0 | A 009 | q SM 038
-A9 | q Sm41 | [Hamburg : Korruption](https://pm20.zbw.eu/folder/sh/1409xx/140905/1459xx/145992/about.de.html ) | 39 | A 009 | q SM 041
-A9 | q Sm501 (A9) | [Hamburg : Überseewoche](https://pm20.zbw.eu/folder/sh/1409xx/140905/1459xx/145994/about.de.html ) | 101 | A 009 | q SM 501 (A 009)
+A9 | q Sm41 | [Hamburg : Korruption](https://pm20.zbw.eu/folder/sh/1409xx/140905/1459xx/145992/about.de.html ) | 47 | A 009 | q SM 041
+A9 | q Sm501 (A9) | [Hamburg : Überseewoche](https://pm20.zbw.eu/folder/sh/1409xx/140905/1459xx/145994/about.de.html ) | 151 | A 009 | q SM 501 (A 009)
 A9 | q Sm502 (A9) | [Hamburg : Wirtschaftsgebiet an der Unterelbe (Groß-Hamburg)-Frage](https://pm20.zbw.eu/folder/sh/1409xx/140905/1603xx/160397/about.de.html ) | 166 | A 009 | q SM 502 (A 009)
 A9 | q Sm502.I (A9) | [Hamburg : Wirtschaftsgebiet an der Unterelbe (Groß-Hamburg)-Frage, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1460xx/146065/about.de.html ) | 109 | A 009 | q SM 502.01 (A 009)
 A9 | q Sm502.II (A9) | [Hamburg : Wirtschaftsgebiet an der Unterelbe (Groß-Hamburg)-Frage, Gross-Hamburg](https://pm20.zbw.eu/folder/sh/1409xx/140905/1460xx/146068/about.de.html ) | 154 | A 009 | q SM 502.02 (A 009)
@@ -1649,25 +1649,25 @@ A9 | q Sm502.III (A9) | [Hamburg : Wirtschaftsgebiet an der Unterelbe (Groß-Ham
 A9 | q Sm502.IV (A9) | [Hamburg : Wirtschaftsgebiet an der Unterelbe (Groß-Hamburg)-Frage, Altona](https://pm20.zbw.eu/folder/sh/1409xx/140905/1460xx/146073/about.de.html ) | 40 | A 009 | q SM 502.04 (A 009)
 A9 | q Sm502.V (A9) | [Hamburg : Wirtschaftsgebiet an der Unterelbe (Groß-Hamburg)-Frage, Wandsbek](https://pm20.zbw.eu/folder/sh/1409xx/140905/1460xx/146074/about.de.html ) | 15 | A 009 | q SM 502.05 (A 009)
 A9 | q Sm503 (A9) | [Hamburg : Freihafen der Tschechoslowakei in Hamburg](https://pm20.zbw.eu/folder/sh/1409xx/140905/1460xx/146076/about.de.html ) | 1 | A 009 | q SM 503 (A 009)
-A9 | q Sm504 (A9) | [Hamburg : Zusammenwirken der Hansestädte](https://pm20.zbw.eu/folder/sh/1409xx/140905/1460xx/146082/about.de.html ) | 170 | A 009 | q SM 504 (A 009)
+A9 | q Sm504 (A9) | [Hamburg : Zusammenwirken der Hansestädte](https://pm20.zbw.eu/folder/sh/1409xx/140905/1460xx/146082/about.de.html ) | 204 | A 009 | q SM 504 (A 009)
 A10 | a | [Deutschland : Literatur, Allgemein](https://pm20.zbw.eu/folder/sh/1261xx/126128/1423xx/142393/about.de.html ) | 12 | A 010 | a
 A10 | a1 | [Deutschland : Kartenliteratur](https://pm20.zbw.eu/folder/sh/1261xx/126128/1441xx/144193/about.de.html ) | 13 | A 010 | a 01
-A10 | b | [Deutschland : Land und Leute, Politik und Wirtschaft, Allgemein](https://pm20.zbw.eu/folder/sh/1261xx/126128/1441xx/144196/about.de.html ) | 209 | A 010 | b
+A10 | b | [Deutschland : Land und Leute, Politik und Wirtschaft, Allgemein](https://pm20.zbw.eu/folder/sh/1261xx/126128/1441xx/144196/about.de.html ) | 214 | A 010 | b
 A10 | c | [Deutschland : Landeskunde, Allgemein](https://pm20.zbw.eu/folder/sh/1261xx/126128/1441xx/144199/about.de.html ) | 135 | A 010 | c
-A10 | c Sm1 (alt) | [Deutschland : Naturschutzparks (bis 1945)](https://pm20.zbw.eu/folder/sh/1261xx/126128/1442xx/144217/about.de.html ) | 74 | A 010 | c 00 SM 001 (alt)
-A10 | c Sm2 | [Deutschland : Kartographie](https://pm20.zbw.eu/folder/sh/1261xx/126128/1442xx/144218/about.de.html ) | 8 | A 010 | c 00 SM 002
+A10 | c Sm1 (alt) | [Deutschland : Naturschutzparks (bis 1945)](https://pm20.zbw.eu/folder/sh/1261xx/126128/1442xx/144217/about.de.html ) | 76 | A 010 | c 00 SM 001 (alt)
+A10 | c Sm2 | [Deutschland : Kartographie](https://pm20.zbw.eu/folder/sh/1261xx/126128/1442xx/144218/about.de.html ) | 14 | A 010 | c 00 SM 002
 A10 | c Sm2.I (alt) | [Deutschland : Kartographie, Allgemein (bis 1945)](https://pm20.zbw.eu/folder/sh/1261xx/126128/1442xx/144219/about.de.html ) | 42 | A 010 | c 00 SM 002.01 (alt)
 A10 | c Sm2.II (alt) | [Deutschland : Kartographie, Luftphotographie (bis 1945)](https://pm20.zbw.eu/folder/sh/1261xx/126128/1442xx/144220/about.de.html ) | 7 | A 010 | c 00 SM 002.02 (alt)
-A10 | c Sm20 | [Deutschland : Landeskunde, Konferenzen](https://pm20.zbw.eu/folder/sh/1261xx/126128/1827xx/182723/about.de.html ) | 6 | A 010 | c 00 SM 020
+A10 | c Sm20 | [Deutschland : Landeskunde, Konferenzen](https://pm20.zbw.eu/folder/sh/1261xx/126128/1827xx/182723/about.de.html ) | 8 | A 010 | c 00 SM 020
 A10 | c Sm40 | [Deutschland : Landeskunde, Berufe und Ausbildung](https://pm20.zbw.eu/folder/sh/1261xx/126128/1827xx/182748/about.de.html ) | 9 | A 010 | c 00 SM 040
 A10 | c Sm50 | [Deutschland : Landeskunde, Institutionen](https://pm20.zbw.eu/folder/sh/1261xx/126128/1827xx/182749/about.de.html ) | 3 | A 010 | c 00 SM 050
-A10 | c2 | [Deutschland : Staatsgrenzen, politische Einteilung](https://pm20.zbw.eu/folder/sh/1261xx/126128/1442xx/144202/about.de.html ) | 202 | A 010 | c 02
+A10 | c2 | [Deutschland : Staatsgrenzen, politische Einteilung](https://pm20.zbw.eu/folder/sh/1261xx/126128/1442xx/144202/about.de.html ) | 205 | A 010 | c 02
 A10 | c2a | [Deutschland : Staatsgrenzen gegenüber einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1261xx/126128/1442xx/144203/about.de.html ) | 97 | A 010 | c 02a
-A10 | c5 | [Deutschland : Landeskunde, Klima](https://pm20.zbw.eu/folder/sh/1261xx/126128/1442xx/144209/about.de.html ) | 77 | A 010 | c 05
+A10 | c5 | [Deutschland : Landeskunde, Klima](https://pm20.zbw.eu/folder/sh/1261xx/126128/1442xx/144209/about.de.html ) | 80 | A 010 | c 05
 A10 | c7 | [Deutschland : Landeskunde, Pflanzenreich](https://pm20.zbw.eu/folder/sh/1261xx/126128/1442xx/144211/about.de.html ) | 48 | A 010 | c 07
 A10 | c8 | [Deutschland : Landeskunde, Tierreich](https://pm20.zbw.eu/folder/sh/1261xx/126128/1442xx/144212/about.de.html ) | 74 | A 010 | c 08
-A10 | c8 Sm1 | [Deutschland : Tierschutz](https://pm20.zbw.eu/folder/sh/1261xx/126128/1442xx/144213/about.de.html ) | 81 | A 010 | c 08 SM 001
-A10 | c9 | [Deutschland : Landeskunde, Landschaften, Beschreibung einzelner Orte und Gegenden](https://pm20.zbw.eu/folder/sh/1261xx/126128/1442xx/144214/about.de.html ) | 933 | A 010 | c 09
+A10 | c8 Sm1 | [Deutschland : Tierschutz](https://pm20.zbw.eu/folder/sh/1261xx/126128/1442xx/144213/about.de.html ) | 88 | A 010 | c 08 SM 001
+A10 | c9 | [Deutschland : Landeskunde, Landschaften, Beschreibung einzelner Orte und Gegenden](https://pm20.zbw.eu/folder/sh/1261xx/126128/1442xx/144214/about.de.html ) | 962 | A 010 | c 09
 A10 | c10 | [Deutschland : Landeskunde, Elementare Katastrophen, Naturkatastrophen](https://pm20.zbw.eu/folder/sh/1261xx/126128/1442xx/144215/about.de.html ) | 113 | A 010 | c 10
 A10 | c10 Sm1 (alt) | [Deutschland : Landeskunde, Erdbeben und Vulkanausbrüche](https://pm20.zbw.eu/folder/sh/1261xx/126128/1442xx/144216/about.de.html ) | 19 | A 010 | c 10 SM 001 (alt)
 A10 | d | [Deutschland : Bevölkerung und Bevölkerungspolitik](https://pm20.zbw.eu/folder/sh/1261xx/126128/1442xx/144221/about.de.html ) | 223 | A 010 | d
@@ -1945,9 +1945,9 @@ A10(t1) | h1 | [Deutschland (unter alliierter Besetzung) : Behörden, Allgemein]
 A10(t1) | n14 | [Deutschland (unter alliierter Besetzung) : Handwerk](https://pm20.zbw.eu/folder/sh/1872xx/187230/1451xx/145135/about.de.html ) | 36 | A 010(t1) | n 14
 A10(t2) | k Sm7.II | [Deutschland (Bundesrepublik) : Einzelne Stiftungen von Personen, Firmen, Körperschaften](https://pm20.zbw.eu/folder/sh/1872xx/187232/1872xx/187226/about.de.html ) | 1 | A 010(t2) | k 00 SM 007.02
 A10(t2) | k2 | [Deutschland (Bundesrepublik) : Schulwesen](https://pm20.zbw.eu/folder/sh/1872xx/187232/1447xx/144739/about.de.html ) | 0 | A 010(t2) | k 02
-A10(t2) | n14 | [Deutschland (Bundesrepublik) : Handwerk](https://pm20.zbw.eu/folder/sh/1872xx/187232/1451xx/145135/about.de.html ) | 12 | A 010(t2) | n 14
-A10(t2) | n15 Sm5 | [Deutschland (Bundesrepublik) : Frauenarbeit, Allgemein](https://pm20.zbw.eu/folder/sh/1872xx/187232/1451xx/145166/about.de.html ) | 2 | A 010(t2) | n 15 SM 005
-A10(t2) | n21 Sm1 | [Deutschland (Bundesrepublik) : Theater und Musik](https://pm20.zbw.eu/folder/sh/1872xx/187232/1452xx/145297/about.de.html ) | 0 | A 010(t2) | n 21 SM 001
+A10(t2) | n14 | [Deutschland (Bundesrepublik) : Handwerk](https://pm20.zbw.eu/folder/sh/1872xx/187232/1451xx/145135/about.de.html ) | 20 | A 010(t2) | n 14
+A10(t2) | n15 Sm5 | [Deutschland (Bundesrepublik) : Frauenarbeit, Allgemein](https://pm20.zbw.eu/folder/sh/1872xx/187232/1451xx/145166/about.de.html ) | 16 | A 010(t2) | n 15 SM 005
+A10(t2) | n21 Sm1 | [Deutschland (Bundesrepublik) : Theater und Musik](https://pm20.zbw.eu/folder/sh/1872xx/187232/1452xx/145297/about.de.html ) | 26 | A 010(t2) | n 21 SM 001
 A10(t2) | n28 Sm3.I | [Deutschland (Bundesrepublik) : Kommunales Verkehrswesen, Allgemein](https://pm20.zbw.eu/folder/sh/1872xx/187232/1455xx/145513/about.de.html ) | 0 | A 010(t2) | n 28 SM 003.01
 A10(t2) | n28 Sm4.L | [Deutschland (Bundesrepublik) : Kraftfahrzeugverkehr, Institutionen](https://pm20.zbw.eu/folder/sh/1872xx/187232/1995xx/199515/about.de.html ) | 1 | A 010(t2) | n 28 SM 004.50
 A10n(1) | f2 Sm7 (alt) | [Oberschlesien (dt.-poln. Abstimmungsgebiet) : Antibolschewismus und Antikommunismus (-1945)](https://pm20.zbw.eu/folder/sh/1409xx/140948/1442xx/144293/about.de.html ) | 1 | A 010n(1) | f 02 SM 007 (alt)
@@ -4084,7 +4084,7 @@ B24b | g4 Sm21 | [Jordanien : Handelspolitische und zollrechtliche Massnahmen au
 B24b | m2 | [Jordanien : Zollwesen, Zolltarife](https://pm20.zbw.eu/folder/sh/1411xx/141116/1448xx/144850/about.de.html ) | 1 | B 024b | m 02
 B40 | n34 Sm1 | [Iran : Drahtlose Telegraphie und Telephonie, Rundfunk](https://pm20.zbw.eu/folder/sh/1411xx/141186/1456xx/145663/about.de.html ) | 1 | B 040 | n 34 SM 001
 B40 | o1 Sm500 | [Iran : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)](https://pm20.zbw.eu/folder/sh/1411xx/141186/1459xx/145911/about.de.html ) | 1 | B 040 | o 01 SM 500
-B40 | p3 Sm500 | [Iran : Deutsche Einwanderer (Forschungsstelle für das Übersee-Deutschtum)](https://pm20.zbw.eu/folder/sh/1411xx/141186/1459xx/145921/about.de.html ) | 8 | B 040 | p 03 SM 500
+B40 | p3 Sm500 | [Iran : Deutsche Einwanderer (Forschungsstelle für das Übersee-Deutschtum)](https://pm20.zbw.eu/folder/sh/1411xx/141186/1459xx/145921/about.de.html ) | 10 | B 040 | p 03 SM 500
 B41 | o1 Sm500 | [Afghanistan : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)](https://pm20.zbw.eu/folder/sh/1411xx/141188/1459xx/145911/about.de.html ) | 9 | B 041 | o 01 SM 500
 B42 | o1 Sm500 | [Britisch-Indien : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)](https://pm20.zbw.eu/folder/sh/1411xx/141189/1459xx/145911/about.de.html ) | 67 | B 042 | o 01 SM 500
 B42 | p3 Sm500 | [Britisch-Indien : Deutsche Einwanderer (Forschungsstelle für das Übersee-Deutschtum)](https://pm20.zbw.eu/folder/sh/1411xx/141189/1459xx/145921/about.de.html ) | 4 | B 042 | p 03 SM 500
@@ -4097,7 +4097,7 @@ B59 | p3 Sm500 | [Straits Settlements : Deutsche Einwanderer (Forschungsstelle f
 B80c | o1 Sm500 | [Sabah : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)](https://pm20.zbw.eu/folder/sh/1412xx/141234/1459xx/145911/about.de.html ) | 10 | B 080c | o 01 SM 500
 B86 | o1 Sm500 | [Philippinen : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)](https://pm20.zbw.eu/folder/sh/1412xx/141240/1459xx/145911/about.de.html ) | 20 | B 086 | o 01 SM 500
 B90 | o1 Sm500 | [Siam : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)](https://pm20.zbw.eu/folder/sh/1412xx/141242/1459xx/145911/about.de.html ) | 27 | B 090 | o 01 SM 500
-B94 | o1 Sm500 | [China : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)](https://pm20.zbw.eu/folder/sh/1412xx/141253/1459xx/145911/about.de.html ) | 724 | B 094 | o 01 SM 500
+B94 | o1 Sm500 | [China : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)](https://pm20.zbw.eu/folder/sh/1412xx/141253/1459xx/145911/about.de.html ) | 726 | B 094 | o 01 SM 500
 B94 | p3 Sm500 | [China : Deutsche Einwanderer (Forschungsstelle für das Übersee-Deutschtum)](https://pm20.zbw.eu/folder/sh/1412xx/141253/1459xx/145921/about.de.html ) | 9 | B 094 | p 03 SM 500
 B95 | o1 Sm500 | [Mandschurei : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)](https://pm20.zbw.eu/folder/sh/1412xx/141258/1459xx/145911/about.de.html ) | 29 | B 095 | o 01 SM 500
 B96 | f2 Sm7 (alt) | [Tibet : Antibolschewismus und Antikommunismus (-1945)](https://pm20.zbw.eu/folder/sh/1412xx/141259/1442xx/144293/about.de.html ) | 2 | B 096 | f 02 SM 007 (alt)
@@ -7018,7 +7018,7 @@ C87 | n37a Sm2.IIa | [Deutsch-Südwestafrika : Krankenversicherung](https://pm20
 C87 | n37a Sm5 | [Deutsch-Südwestafrika : Transportversicherung](https://pm20.zbw.eu/folder/sh/1414xx/141450/1607xx/160744/about.de.html ) | 1 | C 087 | n 37a SM 005
 C87 | n38 | [Deutsch-Südwestafrika : Urheberschutz ](https://pm20.zbw.eu/folder/sh/1414xx/141450/1457xx/145757/about.de.html ) | 6 | C 087 | n 38
 C87 | o1 | [Deutsch-Südwestafrika : Deutsche Minderheiten und Deutschtum](https://pm20.zbw.eu/folder/sh/1414xx/141450/1459xx/145909/about.de.html ) | 30 | C 087 | o 01
-C87 | o1 Sm500 | [Deutsch-Südwestafrika : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)](https://pm20.zbw.eu/folder/sh/1414xx/141450/1459xx/145911/about.de.html ) | 651 | C 087 | o 01 SM 500
+C87 | o1 Sm500 | [Deutsch-Südwestafrika : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)](https://pm20.zbw.eu/folder/sh/1414xx/141450/1459xx/145911/about.de.html ) | 652 | C 087 | o 01 SM 500
 C87 | o3 | [Deutsch-Südwestafrika : Minderheiten aus einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1414xx/141450/1822xx/182220/about.de.html ) | 2 | C 087 | o 03
 C87 | p | [Deutsch-Südwestafrika : Siedlung und Wanderung](https://pm20.zbw.eu/folder/sh/1414xx/141450/1459xx/145913/about.de.html ) | 3 | C 087 | p
 C87 | p1 | [Deutsch-Südwestafrika : Siedlungsmöglichkeiten und Einwanderungsmöglichkeiten](https://pm20.zbw.eu/folder/sh/1414xx/141450/1459xx/145914/about.de.html ) | 45 | C 087 | p 01
@@ -8153,7 +8153,7 @@ D35 | p3 Sm500 | [Neuseeland : Deutsche Einwanderer (Forschungsstelle für das �
 D60 | o1 Sm500 | [Deutsch-Samoa : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)](https://pm20.zbw.eu/folder/sh/1416xx/141634/1459xx/145911/about.de.html ) | 11 | D 060 | o 01 SM 500
 D60 | p3 Sm500 | [Deutsch-Samoa : Deutsche Einwanderer (Forschungsstelle für das Übersee-Deutschtum)](https://pm20.zbw.eu/folder/sh/1416xx/141634/1459xx/145921/about.de.html ) | 5 | D 060 | p 03 SM 500
 E8 | o1 Sm500 | [Kanada : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)](https://pm20.zbw.eu/folder/sh/1416xx/141644/1459xx/145911/about.de.html ) | 103 | E 008 | o 01 SM 500
-E15 | o1 Sm500 | [USA : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)](https://pm20.zbw.eu/folder/sh/1416xx/141653/1459xx/145911/about.de.html ) | 344 | E 015 | o 01 SM 500
+E15 | o1 Sm500 | [USA : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)](https://pm20.zbw.eu/folder/sh/1416xx/141653/1459xx/145911/about.de.html ) | 346 | E 015 | o 01 SM 500
 E20 | p3 Sm500 | [Mexiko : Deutsche Einwanderer (Forschungsstelle für das Übersee-Deutschtum)](https://pm20.zbw.eu/folder/sh/1416xx/141657/1459xx/145921/about.de.html ) | 46 | E 020 | p 03 SM 500
 E61 | o1 Sm500 | [Westindien : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)](https://pm20.zbw.eu/folder/sh/1416xx/141677/1459xx/145911/about.de.html ) | 0 | E 061 | o 01 SM 500
 E68 | d1 Sm4.II | [Honduras : Nationale Angehörige im Ausland, in einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1416xx/141681/1442xx/144224/about.de.html ) | 1 | E 068 | d 01 SM 004.02

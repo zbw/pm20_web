@@ -1,6 +1,6 @@
 ---
 title: "n15 Sm5 Frauenarbeit, Allgemein"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n15 Sm5]{.gray}&#8201; Frauenarbeit, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710709)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145166`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145166`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 7 Mappen, 113 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 6 Mappen, 138 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -33,9 +34,8 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 ### Europa
 
-- A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145166" title="über: Südosteuropa : Frauenarbeit, Allgemein" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1451xx/145166/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145166" title="über: Hamburg : Frauenarbeit, Allgemein" target="_blank">30 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1451xx/145166/about.de.html))
-- A10(t2) Deutschland (Bundesrepublik) [**&nearr;**](../../../geo/i/187232/about.de.html "Deutschland (Bundesrepublik) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10(t2) "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/187232,145166" title="über: Deutschland (Bundesrepublik) : Frauenarbeit, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1872xx/187232/1451xx/145166/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145166" title="über: Hamburg : Frauenarbeit, Allgemein" target="_blank">41 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1451xx/145166/about.de.html))
+- A10(t2) Deutschland (Bundesrepublik) [**&nearr;**](../../../geo/i/187232/about.de.html "Deutschland (Bundesrepublik) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10(t2) "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/187232,145166" title="über: Deutschland (Bundesrepublik) : Frauenarbeit, Allgemein" target="_blank">16 Dokumente</a>) ([Mappe](../../../../folder/sh/1872xx/187232/1451xx/145166/about.de.html))
 
 ### Asien
 
@@ -49,6 +49,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145166" title="über: Argentinien : Frauenarbeit, Allgemein" target="_blank">22 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1451xx/145166/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

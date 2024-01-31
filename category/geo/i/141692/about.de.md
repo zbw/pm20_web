@@ -1,6 +1,6 @@
 ---
 title: "E86 Argentinien"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,27 +10,30 @@ fn-stub: about
 
 # [E86]{.gray}&#8201; Argentinien &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q414) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Argentinien)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141692`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141692`</div>
 
 <div class="hint">
 Scope Note: Argentinien, Feuerland (argentinischer Teil)
 </div>
 
 
-[Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
 
 
 
 
 
 
-Insgesamt 724 Mappen, 38501 Dokumente - Mappen komplett.
+
+
+
+Insgesamt 724 Mappen, 38501 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -815,11 +818,38 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 11780</p>
 
 
 
 
-## Warenarchiv
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2823H/0972" rel="nofollow">Bilder auf Film h2/sh/S2823H/0972</a> | Argentinien
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2824H" rel="nofollow">Bilder auf Film h2/sh/S2824H</a> | Filmanfang: Argentinien : b-f Sm [E86 b-f Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2825H" rel="nofollow">Bilder auf Film h2/sh/S2825H</a> | Filmanfang: Argentinien : Politische Beziehungen zu einzelnen Ländern Sm [E86 g1 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2826H" rel="nofollow">Bilder auf Film h2/sh/S2826H</a> | Filmanfang: Argentinien : Ausgleich laufender Aussenhandelsforderungen und -schulden [E86 g4 Sm25]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2827H" rel="nofollow">Bilder auf Film h2/sh/S2827H</a> | Filmanfang: Argentinien : Wirtschaftspolitische Beziehungen zu einzelnen Ländern [E86 g4a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2828H" rel="nofollow">Bilder auf Film h2/sh/S2828H</a> | Filmanfang: Argentinien : Wirtschaftspolitische Beziehungen zu einzelnen Ländern [E86 g4a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2829H" rel="nofollow">Bilder auf Film h2/sh/S2829H</a> | Filmanfang: Argentinien : Zollwesen, Zolltarife Sm [E86 m2 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2830H" rel="nofollow">Bilder auf Film h2/sh/S2830H</a> | Filmanfang: Argentinien : Wirtschaftspolitik [E86 n1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2831H" rel="nofollow">Bilder auf Film h2/sh/S2831H</a> | Filmanfang: Argentinien : Berichte über die wirtschaftliche Lage [E86 n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2832H" rel="nofollow">Bilder auf Film h2/sh/S2832H</a> | Filmanfang: Argentinien : Einzelne Industriezweige Sm1-12 [E86 n13a Sm1-12]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2833H" rel="nofollow">Bilder auf Film h2/sh/S2833H</a> | Filmanfang: Argentinien : Geld und Währung Sm [E86 n23 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2834H" rel="nofollow">Bilder auf Film h2/sh/S2834H</a> | Filmanfang: Argentinien : Versicherungswesen [E86 n37]
+
+
+:::
 
 
 
@@ -828,8 +858,27 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
-Insgesamt 40 Mappen, 1576 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 40 Mappen (bis 1949), 1576 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

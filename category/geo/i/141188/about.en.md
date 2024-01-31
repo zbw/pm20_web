@@ -1,6 +1,6 @@
 ---
 title: "B41 Afghanistan"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,18 +10,21 @@ fn-stub: about
 
 # [B41]{.gray}&#8201; Afghanistan &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q889) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Afghanistan)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141188`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141188`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
+[Subject archives](#subject-archives-folders) &#160; [Commodities/wares archives](#commoditieswares-archives-folders)
 
 
 
 
-## Subject archives
+## Subject archives folders
+
+
+
 
 
 
@@ -43,11 +46,62 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
+<a id="filmsections" />
+
+## Sections of digitized microfilms (1st filming 1908-1949)
+
+<p>For intellectual property law reasons accessible only from the European Union legal area and from the ZBW reading room.</p>
+
+
+
+<p>Total number of images: 1435</p>
 
 
 
 
-## Commodities/wares archives
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0679H/0967" rel="nofollow">Images on film h1/sh/S0679H/0967</a> | Afghanistan
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0679H/0967/R" rel="nofollow">Images on film h1/sh/S0679H/0967/R</a> | Afghanistan : Land und Leute, Politik und Wirtschaft, Allgemein - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0679H/0978/R" rel="nofollow">Images on film h1/sh/S0679H/0978/R</a> | Afghanistan : Land und Leute, Politik und Wirtschaft, Allgemein
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0679H/1031/L" rel="nofollow">Images on film h1/sh/S0679H/1031/L</a> | Afghanisatn : Landeskunde, Allgemein
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0679H/1104/R" rel="nofollow">Images on film h1/sh/S0679H/1104/R</a> | Afghanistan : Bevölkerung und Bevölkerungspolitik
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0679H/1118/L" rel="nofollow">Images on film h1/sh/S0679H/1118/L</a> | Afghanistan : Gesundheitliche Verhältnisse, Allgemein
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0679H/1127/R" rel="nofollow">Images on film h1/sh/S0679H/1127/R</a> | Afghanistan : Geschichte, Politik, Allgemein
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0679H/1145/R" rel="nofollow">Images on film h1/sh/S0679H/1145/R</a> | Afghanistan : Geschichtliche Vorgänge
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0679H/1147/R" rel="nofollow">Images on film h1/sh/S0679H/1147/R</a> | Afghanistan : Geschichtliche Vorgänge 1900-1914
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0679H/1156/L" rel="nofollow">Images on film h1/sh/S0679H/1156/L</a> | Afghanistan : Geschichtliche Vorgänge 1914-1918 (1. Weltkrieg)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0679H/1165/R" rel="nofollow">Images on film h1/sh/S0679H/1165/R</a> | Afghanistan : Geschichtliche Vorgänge 1918-1939
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0680H" rel="nofollow">Images on film h1/sh/S0680H</a> | Filmanfang: Afghanistan : Geschichtliche Vorgänge [B41 f2]
+
+
+:::
+
+
+
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 853</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2621H/0963" rel="nofollow">Images on film h2/sh/S2621H/0963</a> | Afghanistan
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2622H" rel="nofollow">Images on film h2/sh/S2622H</a> | Filmanfang: Afghanistan : b-g1 [B41 b-g1]
+
+
+:::
 
 
 
@@ -57,8 +111,27 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
-In total 5 folders, 13 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_wa.de.html) (in German).
+
+
+
+
+
+## Commodities/wares archives folders
+
+
+
+
+
+
+
+
+
+
+
+In total 5 folders (until 1949), 13 documents
+- folders incomplete.  For material not published as folders, please check the
+digitized micro-films of the [1st filming](/film/h1_wa.de.html) and [2nd
+filming](/film/h2_wa.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 

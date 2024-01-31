@@ -1,6 +1,6 @@
 ---
 title: "C87 German South-West Africa"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,18 +10,18 @@ fn-stub: about
 
 # [C87]{.gray}&#8201; German South-West Africa &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q153665) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/German_South_West_Africa)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141450`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141450`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
+[Subject archives](#subject-archives-folders) &#160; [Commodities/wares archives](#commoditieswares-archives-folders)
 
 
 
 
-## Subject archives
+## Subject archives folders
 
 
 
@@ -29,7 +29,10 @@ fn-stub: about
 
 
 
-In total 225 folders, 6094 documents - folders complete.
+
+
+
+In total 225 folders, 6095 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -284,7 +287,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### Foreigners and individual minorities
 
 - o1 German minorities and Germanness [**&nearr;**](../../../subject/i/145909/about.en.html "German minorities and Germanness (all over the world)") [**&uarr;**](../../../subject/about.en.html#o1 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141450,145909" title="about: German South-West Africa : German minorities and Germanness" target="_blank">30 documents</a>) ([folder](../../../../folder/sh/1414xx/141450/1459xx/145909/about.en.html))
-  - o1 Sm500 German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145911/about.en.html "German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum) (all over the world)") [**&uarr;**](../../../subject/about.en.html#o1_Sm500 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141450,145911" title="about: German South-West Africa : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">651 documents</a>) ([folder](../../../../folder/sh/1414xx/141450/1459xx/145911/about.en.html))
+  - o1 Sm500 German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145911/about.en.html "German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum) (all over the world)") [**&uarr;**](../../../subject/about.en.html#o1_Sm500 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141450,145911" title="about: German South-West Africa : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">652 documents</a>) ([folder](../../../../folder/sh/1414xx/141450/1459xx/145911/about.en.html))
 - o3 Minorities from individual countries [**&nearr;**](../../../subject/i/182220/about.en.html "Minorities from individual countries (all over the world)") [**&uarr;**](../../../subject/about.en.html#o3 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141450,182220" title="about: German South-West Africa : Minorities from individual countries" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1414xx/141450/1822xx/182220/about.en.html))
 
 ### Settling and migration
@@ -312,11 +315,27 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
+<a id="filmsections" />
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 318</p>
 
 
 
 
-## Commodities/wares archives
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2714H/0375" rel="nofollow">Images on film h2/sh/S2714H/0375</a> | Deutsch-Südwestafrika
+
+
+:::
 
 
 
@@ -326,8 +345,27 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
-In total 8 folders, 56 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_wa.de.html) (in German).
+
+
+
+
+
+## Commodities/wares archives folders
+
+
+
+
+
+
+
+
+
+
+
+In total 8 folders (until 1949), 56 documents
+- folders incomplete.  For material not published as folders, please check the
+digitized micro-films of the [1st filming](/film/h1_wa.de.html) and [2nd
+filming](/film/h2_wa.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 

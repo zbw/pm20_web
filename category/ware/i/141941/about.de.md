@@ -1,6 +1,6 @@
 ---
 title: "Aal"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Aal &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q26387) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Europ%C3%A4ischer_Aal)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141941`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/141941`</div>
 
 <div class="hint">
 Scope Note: Gattung schlangenförmiger Knochenfische, die auf allen Kontinenten vorkommt. Umgangssprachlich werden unter Aalen meist der "Europäische Aal" bzw. Derivate aalartiger Fische verstanden, wozu die meisten Fischarten mit langgestreckter Körperform gerechnet werden, wiewohl sie streng genommen der Gattung selbst gar nicht angehören wie etwa der Zitteraal (www.wikipedia.de, u.a.).
@@ -20,12 +20,14 @@ Scope Note: Gattung schlangenförmiger Knochenfische, die auf allen Kontinenten 
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 14 Mappen, 114 Dokumente - Mappen komplett.
+
+
+Insgesamt 14 Mappen, 120 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -34,7 +36,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 ### Europa
 
-- A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141941,126128" title="über: Aal : Deutschland" target="_blank">28 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141941/1261xx/126128/about.de.html))
+- A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141941,126128" title="über: Aal : Deutschland" target="_blank">31 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141941/1261xx/126128/about.de.html))
 - A15 Dänemark [**&nearr;**](../../../geo/i/141739/about.de.html "Dänemark (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A15 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141941,141739" title="über: Aal : Dänemark" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141941/1417xx/141739/about.de.html))
 - A17 Schweden [**&nearr;**](../../../geo/i/140968/about.de.html "Schweden (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A17 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141941,140968" title="über: Aal : Schweden" target="_blank">14 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141941/1409xx/140968/about.de.html))
 - A19 Niederlande [**&nearr;**](../../../geo/i/140970/about.de.html "Niederlande (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A19 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141941,140970" title="über: Aal : Niederlande" target="_blank">15 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141941/1409xx/140970/about.de.html))
@@ -53,7 +55,16 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 ### Welt
 
-- H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141941,141728" title="über: Aal : Welt" target="_blank">34 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141941/1417xx/141728/about.de.html))
+- H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141941,141728" title="über: Aal : Welt" target="_blank">37 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141941/1417xx/141728/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

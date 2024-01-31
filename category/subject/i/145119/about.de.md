@@ -1,6 +1,6 @@
 ---
 title: "n13a Sm3 Textilindustrie"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n13a Sm3]{.gray}&#8201; Textilindustrie &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710657)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145119`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145119`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 17 Mappen, 457 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 17 Mappen, 459 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -36,7 +37,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145119" title="über: Europa : Textilindustrie" target="_blank">19 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1451xx/145119/about.de.html))
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145119" title="über: Südosteuropa : Textilindustrie" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1451xx/145119/about.de.html))
 - A8 Russische Randstaaten [**&nearr;**](../../../geo/i/140904/about.de.html "Russische Randstaaten (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A8 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140904,145119" title="über: Russische Randstaaten : Textilindustrie" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140904/1451xx/145119/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145119" title="über: Hamburg : Textilindustrie" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1451xx/145119/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145119" title="über: Hamburg : Textilindustrie" target="_blank">10 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1451xx/145119/about.de.html))
 - A10p Polnisch-Schlesien [**&nearr;**](../../../geo/i/140951/about.de.html "Polnisch-Schlesien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10p "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140951,145119" title="über: Polnisch-Schlesien : Textilindustrie" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140951/1451xx/145119/about.de.html))
 
 ### Asien
@@ -59,6 +60,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145119" title="über: Argentinien : Textilindustrie" target="_blank">53 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1451xx/145119/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

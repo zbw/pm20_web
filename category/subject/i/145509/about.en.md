@@ -1,6 +1,6 @@
 ---
 title: "n28 Transport and traffic, general"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n28]{.gray}&#8201; Transport and traffic, general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428058)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145509`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145509`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 46 folders, 874 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 46 folders, 886 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -39,7 +40,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A5a Mediterranean region [**&nearr;**](../../../geo/i/140899/about.en.html "Mediterranean region (all folders)") [**&uarr;**](../../../geo/about.en.html#A5a "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140899,145509" title="about: Mediterranean region : Transport and traffic, general" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1408xx/140899/1455xx/145509/about.en.html))
 - A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145509" title="about: Southeastern Europe : Transport and traffic, general" target="_blank">51 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1455xx/145509/about.en.html))
 - A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,145509" title="about: Orient : Transport and traffic, general" target="_blank">18 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1455xx/145509/about.en.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145509" title="about: Hamburg : Transport and traffic, general" target="_blank">99 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1455xx/145509/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145509" title="about: Hamburg : Transport and traffic, general" target="_blank">111 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1455xx/145509/about.en.html))
 - A10n(1) Upper Silesia (German-Polish border region) [**&nearr;**](../../../geo/i/140948/about.en.html "Upper Silesia (German-Polish border region) (all folders)") [**&uarr;**](../../../geo/about.en.html#A10n(1) "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140948,145509" title="about: Upper Silesia (German-Polish border region) : Transport and traffic, general" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1409xx/140948/1455xx/145509/about.en.html))
 - A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140960,145509" title="about: German imperial colonies : Transport and traffic, general" target="_blank">13 documents</a>) ([folder](../../../../folder/sh/1409xx/140960/1455xx/145509/about.en.html))
 - A36 Italian Empire [**&nearr;**](../../../geo/i/141012/about.en.html "Italian Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A36 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141012,145509" title="about: Italian Empire : Transport and traffic, general" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1410xx/141012/1455xx/145509/about.en.html))
@@ -91,6 +92,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145509" title="about: Argentina : Transport and traffic, general" target="_blank">132 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1455xx/145509/about.en.html))
 - E101 Surinam [**&nearr;**](../../../geo/i/141699/about.en.html "Surinam (all folders)") [**&uarr;**](../../../geo/about.en.html#E101 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141699,145509" title="about: Surinam : Transport and traffic, general" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1416xx/141699/1455xx/145509/about.en.html))
 - E102 British Guiana [**&nearr;**](../../../geo/i/141700/about.en.html "British Guiana (all folders)") [**&uarr;**](../../../geo/about.en.html#E102 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141700,145509" title="about: British Guiana : Transport and traffic, general" target="_blank">4 documents</a>) ([folder](../../../../folder/sh/1417xx/141700/1455xx/145509/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Cotton yarn"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Cotton yarn &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q111973116)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/196460`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/196460`</div>
 
 
 
@@ -18,13 +18,15 @@ fn-stub: about
 
 
 
-## Commodities/wares archives
+## Commodities/wares archives folders
 
 
 
 
 
-In total 48 folders, 893 documents - folders complete.
+
+
+In total 48 folders, 893 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -41,7 +43,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A40b Austria [**&nearr;**](../../../geo/i/141731/about.en.html "Austria (all folders)") [**&uarr;**](../../../geo/about.en.html#A40b "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/196460,141731" title="about: Cotton yarn : Austria" target="_blank">79 documents</a>) ([folder](../../../../folder/wa/1964xx/196460/1417xx/141731/about.en.html))
 - A40c Czechoslovakia [**&nearr;**](../../../geo/i/141022/about.en.html "Czechoslovakia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40c "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/196460,141022" title="about: Cotton yarn : Czechoslovakia" target="_blank">27 documents</a>) ([folder](../../../../folder/wa/1964xx/196460/1410xx/141022/about.en.html))
 - A40d Hungary [**&nearr;**](../../../geo/i/141025/about.en.html "Hungary (all folders)") [**&uarr;**](../../../geo/about.en.html#A40d "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/196460,141025" title="about: Cotton yarn : Hungary" target="_blank">18 documents</a>) ([folder](../../../../folder/wa/1964xx/196460/1410xx/141025/about.en.html))
-- A40e Kingdom of Yugoslavia [**&nearr;**](../../../geo/i/141028/about.en.html "Kingdom of Yugoslavia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40e "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/196460,141028" title="about: Cotton yarn : Kingdom of Yugoslavia" target="_blank">15 documents</a>) ([folder](../../../../folder/wa/1964xx/196460/1410xx/141028/about.en.html))
+- A40e (Kingdom of) Yugoslavia [**&nearr;**](../../../geo/i/141028/about.en.html "(Kingdom of) Yugoslavia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40e "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/196460,141028" title="about: Cotton yarn : (Kingdom of) Yugoslavia" target="_blank">15 documents</a>) ([folder](../../../../folder/wa/1964xx/196460/1410xx/141028/about.en.html))
 - A40f Slovakia [**&nearr;**](../../../geo/i/141029/about.en.html "Slovakia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40f "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/196460,141029" title="about: Cotton yarn : Slovakia" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1964xx/196460/1410xx/141029/about.en.html))
 - A45 Greece [**&nearr;**](../../../geo/i/141037/about.en.html "Greece (all folders)") [**&uarr;**](../../../geo/about.en.html#A45 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/196460,141037" title="about: Cotton yarn : Greece" target="_blank">24 documents</a>) ([folder](../../../../folder/wa/1964xx/196460/1410xx/141037/about.en.html))
 - A46 Bulgaria [**&nearr;**](../../../geo/i/141039/about.en.html "Bulgaria (all folders)") [**&uarr;**](../../../geo/about.en.html#A46 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/196460,141039" title="about: Cotton yarn : Bulgaria" target="_blank">22 documents</a>) ([folder](../../../../folder/wa/1964xx/196460/1410xx/141039/about.en.html))
@@ -92,6 +94,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/196460,141692" title="about: Cotton yarn : Argentina" target="_blank">8 documents</a>) ([folder](../../../../folder/wa/1964xx/196460/1416xx/141692/about.en.html))
 - E96 Paraguay [**&nearr;**](../../../geo/i/141696/about.en.html "Paraguay (all folders)") [**&uarr;**](../../../geo/about.en.html#E96 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/196460,141696" title="about: Cotton yarn : Paraguay" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1964xx/196460/1416xx/141696/about.en.html))
 - E97 Brazil [**&nearr;**](../../../geo/i/141697/about.en.html "Brazil (all folders)") [**&uarr;**](../../../geo/about.en.html#E97 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/196460,141697" title="about: Cotton yarn : Brazil" target="_blank">6 documents</a>) ([folder](../../../../folder/wa/1964xx/196460/1416xx/141697/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

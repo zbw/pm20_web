@@ -1,6 +1,6 @@
 ---
 title: "B62 Indonesia"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -8,17 +8,86 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B62]{.gray}&#8201; Indonesia
+# [B62]{.gray}&#8201; Indonesia &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q252) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Indonesia)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141218`</div>
-
-
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141218`</div>
 
 
 
 
 
-## Commodities/wares archives
+[Subject archives](#subject-archives-folders) &#160; [Commodities/wares archives](#commoditieswares-archives-folders)
+
+
+
+
+## Subject archives folders
+
+
+
+
+
+
+
+
+No material prepared as folder.
+
+
+
+<a id="filmsections" />
+
+## Sections of digitized microfilms (1st filming 1908-1949)
+
+<p>For intellectual property law reasons accessible only from the European Union legal area and from the ZBW reading room.</p>
+
+
+
+<p>Total number of images: 8138</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0696H/0298" rel="nofollow">Images on film h1/sh/S0696H/0298</a> | Niederländisch-Indien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0697H" rel="nofollow">Images on film h1/sh/S0697H</a> | Filmanfang: Indonesien : Einzelne Krankheiten und deren Bekämpfung Malaria [B62 e1 Malaria]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0698H" rel="nofollow">Images on film h1/sh/S0698H</a> | Filmanfang: Indonesien : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein dm21 [B62 g4 dm21]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0699H" rel="nofollow">Images on film h1/sh/S0699H</a> | Filmanfang: Indonesien : Staatshaushalt [B62 m1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0700H" rel="nofollow">Images on film h1/sh/S0700H</a> | Filmanfang: Indonesien : Arbeitsmarkt, Erwerbslosenstatistik [B62 n2 Sm4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0701H" rel="nofollow">Images on film h1/sh/S0701H</a> | Filmanfang: Indonesien : Arbeiterfrage, Arbeitsverhältnisse, Allgemein [B62 n15]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0702H" rel="nofollow">Images on film h1/sh/S0702H</a> | Filmanfang: Indonesien : Landstrassen, Wege, Brücken (einschl. ihres Verkehrs) [B62 n29]
+
+
+:::
+
+
+
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 4707</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2642H/0076" rel="nofollow">Images on film h2/sh/S2642H/0076</a> | Indonesien
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2643H" rel="nofollow">Images on film h2/sh/S2643H</a> | Filmanfang: Indonesien : f4-6 [B62 f4-6]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2644H" rel="nofollow">Images on film h2/sh/S2644H</a> | Filmanfang: Indonesien : Wirtschaftspolitische Beziehungen zu einzelnen Ländern (M-Z) [B62 g4a (M-Z)]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2645H" rel="nofollow">Images on film h2/sh/S2645H</a> | Filmanfang: Indonesien : Berichte über die wirtschaftliche Lage [B62 n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2646H" rel="nofollow">Images on film h2/sh/S2646H</a> | Filmanfang: Indonesien : n23-27 Sm [B62 n23-27 Sm]
+
+
+:::
 
 
 
@@ -28,8 +97,27 @@ fn-stub: about
 
 
 
-In total 30 folders, 446 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_wa.de.html) (in German).
+
+
+
+
+
+## Commodities/wares archives folders
+
+
+
+
+
+
+
+
+
+
+
+In total 30 folders (until 1949), 446 documents
+- folders incomplete.  For material not published as folders, please check the
+digitized micro-films of the [1st filming](/film/h1_wa.de.html) and [2nd
+filming](/film/h2_wa.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 

@@ -1,6 +1,6 @@
 ---
 title: "g4 Sm21 Trade policy and customs law measures from the German Trade Archives"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [g4 Sm21]{.gray}&#8201; Trade policy and customs law measures from the German Trade Archives &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700019)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144492`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144492`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 40 folders, 943 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 40 folders, 943 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -85,6 +86,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - E90 Falkland Islands [**&nearr;**](../../../geo/i/141694/about.en.html "Falkland Islands (all folders)") [**&uarr;**](../../../geo/about.en.html#E90 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141694,144492" title="about: Falkland Islands : Trade policy and customs law measures from the German Trade Archives" target="_blank">4 documents</a>) ([folder](../../../../folder/sh/1416xx/141694/1444xx/144492/about.en.html))
 - E101 Surinam [**&nearr;**](../../../geo/i/141699/about.en.html "Surinam (all folders)") [**&uarr;**](../../../geo/about.en.html#E101 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141699,144492" title="about: Surinam : Trade policy and customs law measures from the German Trade Archives" target="_blank">29 documents</a>) ([folder](../../../../folder/sh/1416xx/141699/1444xx/144492/about.en.html))
 - E102 British Guiana [**&nearr;**](../../../geo/i/141700/about.en.html "British Guiana (all folders)") [**&uarr;**](../../../geo/about.en.html#E102 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141700,144492" title="about: British Guiana : Trade policy and customs law measures from the German Trade Archives" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1417xx/141700/1444xx/144492/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

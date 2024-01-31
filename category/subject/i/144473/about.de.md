@@ -1,6 +1,6 @@
 ---
 title: "g4 Sm1.III Zollpolitik, Einfuhrkontingentierung, Ein-, Aus- und Durchfuhrverbote, Allgemein"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [g4 Sm1.III]{.gray}&#8201; Zollpolitik, Einfuhrkontingentierung, Ein-, Aus- und Durchfuhrverbote, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699987)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144473`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144473`</div>
 
 
 
@@ -18,22 +18,19 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 18 Mappen, 476 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 17 Mappen, 476 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
 
 
-
-### Europa
-
-- A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144473" title="über: Europa : Zollpolitik, Einfuhrkontingentierung, Ein-, Aus- und Durchfuhrverbote, Allgemein" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1444xx/144473/about.de.html))
 
 ### Asien
 
@@ -63,6 +60,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144473" title="über: Argentinien : Zollpolitik, Einfuhrkontingentierung, Ein-, Aus- und Durchfuhrverbote, Allgemein" target="_blank">46 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1444xx/144473/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

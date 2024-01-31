@@ -1,6 +1,6 @@
 ---
 title: "f2.2 Geschichtliche Vorgänge 1914-1918 (1. Weltkrieg)"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [f2.2]{.gray}&#8201; Geschichtliche Vorgänge 1914-1918 (1. Weltkrieg) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699619)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/181360`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/181360`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 41 Mappen, 2774 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 41 Mappen, 2774 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -86,6 +87,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,181360" title="über: Argentinien : Geschichtliche Vorgänge 1914-1918 (1. Weltkrieg)" target="_blank">21 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1813xx/181360/about.de.html))
 - E95 Uruguay [**&nearr;**](../../../geo/i/141695/about.de.html "Uruguay (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E95 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141695,181360" title="über: Uruguay : Geschichtliche Vorgänge 1914-1918 (1. Weltkrieg)" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141695/1813xx/181360/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

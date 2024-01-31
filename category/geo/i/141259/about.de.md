@@ -1,6 +1,6 @@
 ---
 title: "B96 Tibet"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [B96]{.gray}&#8201; Tibet &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q17252) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Tibet)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141259`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141259`</div>
 
 
 
@@ -18,7 +18,10 @@ fn-stub: about
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
+
+
+
 
 
 
@@ -83,6 +86,60 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Fremdstämmige und einzelne Minderheiten
 
 - o3 Minderheiten aus einzelnen Ländern [**&nearr;**](../../../subject/i/182220/about.de.html "Minderheiten aus einzelnen Ländern (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#o3 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141259,182220" title="über: Tibet : Minderheiten aus einzelnen Ländern" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141259/1822xx/182220/about.de.html))
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 518</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0739H/0734" rel="nofollow">Bilder auf Film h1/sh/S0739H/0734</a> | Tibet
+
+
+:::
+
+
+
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 440</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2662H/0544" rel="nofollow">Bilder auf Film h2/sh/S2662H/0544</a> | Tibet
+
+
+:::
+
+
+
+
+
+
+
 
 
 

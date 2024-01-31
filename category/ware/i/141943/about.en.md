@@ -1,6 +1,6 @@
 ---
 title: "Absinth"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Absinth &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q170210) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Absinthe)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141943`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/141943`</div>
 
 
 
@@ -18,13 +18,15 @@ fn-stub: about
 
 
 
-## Commodities/wares archives
+## Commodities/wares archives folders
 
 
 
 
 
-In total 13 folders, 26 documents - folders complete.
+
+
+In total 13 folders, 26 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -57,6 +59,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### America
 
 - E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141943,141692" title="about: Absinth : Argentina" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1419xx/141943/1416xx/141692/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

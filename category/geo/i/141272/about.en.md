@@ -1,6 +1,6 @@
 ---
 title: "B111 Japan"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,18 +10,18 @@ fn-stub: about
 
 # [B111]{.gray}&#8201; Japan &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q17) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Japan)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141272`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141272`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
+[Subject archives](#subject-archives-folders) &#160; [Commodities/wares archives](#commoditieswares-archives-folders)
 
 
 
 
-## Subject archives
+## Subject archives folders
 
 
 
@@ -29,7 +29,10 @@ fn-stub: about
 
 
 
-In total 731 folders, 36041 documents - folders complete.
+
+
+
+In total 731 folders, 36041 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -391,7 +394,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
   - n Sm43 Refrigeration, cooling systems, general [**&nearr;**](../../../subject/i/145847/about.en.html "Refrigeration, cooling systems, general (all over the world)") [**&uarr;**](../../../subject/about.en.html#n_Sm43 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141272,145847" title="about: Japan : Refrigeration, cooling systems, general" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1458xx/145847/about.en.html))
   - n Sm46 Energy industry, general [**&nearr;**](../../../subject/i/145852/about.en.html "Energy industry, general (all over the world)") [**&uarr;**](../../../subject/about.en.html#n_Sm46 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141272,145852" title="about: Japan : Energy industry, general" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1458xx/145852/about.en.html))
   - n Sm50 Economy, institutions [**&nearr;**](../../../subject/i/182050/about.en.html "Economy, institutions (all over the world)") [**&uarr;**](../../../subject/about.en.html#n_Sm50 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141272,182050" title="about: Japan : Economy, institutions" target="_blank">30 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1820xx/182050/about.en.html))
-  - n Sm52 Warehousing [**&nearr;**](../../../subject/i/145854/about.en.html "Warehousing (all over the world)") [**&uarr;**](../../../subject/about.en.html#n_Sm52 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141272,145854" title="about: Japan : Warehousing" target="_blank">30 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1458xx/145854/about.en.html))
+  - n Sm52 Inventory management [**&nearr;**](../../../subject/i/145854/about.en.html "Inventory management (all over the world)") [**&uarr;**](../../../subject/about.en.html#n_Sm52 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141272,145854" title="about: Japan : Inventory management" target="_blank">30 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1458xx/145854/about.en.html))
   - n Sm56 Prisoner work, forced labor [**&nearr;**](../../../subject/i/145860/about.en.html "Prisoner work, forced labor (all over the world)") [**&uarr;**](../../../subject/about.en.html#n_Sm56 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141272,145860" title="about: Japan : Prisoner work, forced labor" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1458xx/145860/about.en.html))
   - n Sm60 Economy, technology, general [**&nearr;**](../../../subject/i/145862/about.en.html "Economy, technology, general (all over the world)") [**&uarr;**](../../../subject/about.en.html#n_Sm60 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141272,145862" title="about: Japan : Economy, technology, general" target="_blank">7 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1458xx/145862/about.en.html))
   - n Sm61 Emergence and use of new materials, general [**&nearr;**](../../../subject/i/145863/about.en.html "Emergence and use of new materials, general (all over the world)") [**&uarr;**](../../../subject/about.en.html#n_Sm61 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141272,145863" title="about: Japan : Emergence and use of new materials, general" target="_blank">13 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1458xx/145863/about.en.html))
@@ -638,7 +641,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
   - n24 Sm38 Public and private bank support, nationalization of banks [**&nearr;**](../../../subject/i/145410/about.en.html "Public and private bank support, nationalization of banks (all over the world)") [**&uarr;**](../../../subject/about.en.html#n24_Sm38 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141272,145410" title="about: Japan : Public and private bank support, nationalization of banks" target="_blank">6 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1454xx/145410/about.en.html))
   - n24 Sm41 Pawn shops, lending on goods [**&nearr;**](../../../subject/i/145413/about.en.html "Pawn shops, lending on goods (all over the world)") [**&uarr;**](../../../subject/about.en.html#n24_Sm41 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141272,145413" title="about: Japan : Pawn shops, lending on goods" target="_blank">6 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1454xx/145413/about.en.html))
   - n24 Sm42 Fiduciary and auditing, audit firms [**&nearr;**](../../../subject/i/145414/about.en.html "Fiduciary and auditing, audit firms (all over the world)") [**&uarr;**](../../../subject/about.en.html#n24_Sm42 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141272,145414" title="about: Japan : Fiduciary and auditing, audit firms" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1454xx/145414/about.en.html))
-  - n24 Sm48 Ship lending [**&nearr;**](../../../subject/i/145420/about.en.html "Ship lending (all over the world)") [**&uarr;**](../../../subject/about.en.html#n24_Sm48 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141272,145420" title="about: Japan : Ship lending" target="_blank">8 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1454xx/145420/about.en.html))
+  - n24 Sm48 Ship mortgage [**&nearr;**](../../../subject/i/145420/about.en.html "Ship mortgage (all over the world)") [**&uarr;**](../../../subject/about.en.html#n24_Sm48 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141272,145420" title="about: Japan : Ship mortgage" target="_blank">8 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1454xx/145420/about.en.html))
   - n24 Sm49 Conversion of foreign currency bonds to domestic currency [**&nearr;**](../../../subject/i/145421/about.en.html "Conversion of foreign currency bonds to domestic currency (all over the world)") [**&uarr;**](../../../subject/about.en.html#n24_Sm49 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141272,145421" title="about: Japan : Conversion of foreign currency bonds to domestic currency" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1454xx/145421/about.en.html))
 - n25 Bourse [**&nearr;**](../../../subject/i/145486/about.en.html "Bourse (all over the world)") [**&uarr;**](../../../subject/about.en.html#n25 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141272,145486" title="about: Japan : Bourse" target="_blank">46 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1454xx/145486/about.en.html))
   - n25 Sm1 Excesses and combating speculation [**&nearr;**](../../../subject/i/145487/about.en.html "Excesses and combating speculation (all over the world)") [**&uarr;**](../../../subject/about.en.html#n25_Sm1 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141272,145487" title="about: Japan : Excesses and combating speculation" target="_blank">6 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1454xx/145487/about.en.html))
@@ -821,11 +824,37 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
+<a id="filmsections" />
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 11506</p>
 
 
 
 
-## Commodities/wares archives
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2664H/0589" rel="nofollow">Images on film h2/sh/S2664H/0589</a> | Japan
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2665H" rel="nofollow">Images on film h2/sh/S2665H</a> | Filmanfang: Japan : Geschichtliche Vorgänge [B111 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2666H" rel="nofollow">Images on film h2/sh/S2666H</a> | Filmanfang: Japan : Außenpolitik und politische Beziehungen zum Ausland, Allgemein Sm [B111 g Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2667H" rel="nofollow">Images on film h2/sh/S2667H</a> | Filmanfang: Japan : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein [B111 g4]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2668H" rel="nofollow">Images on film h2/sh/S2668H</a> | Filmanfang: Japan : Wirtschaftspolitische Beziehungen zu einzelnen Ländern Sm [B111 g4a Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2669H" rel="nofollow">Images on film h2/sh/S2669H</a> | Filmanfang: Japan : l1-m1 Sm4 [B111 l1-m1 Sm4]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2670H" rel="nofollow">Images on film h2/sh/S2670H</a> | Filmanfang: Japan : Wirtschaftspolitik [B111 n1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2671H" rel="nofollow">Images on film h2/sh/S2671H</a> | Filmanfang: Japan : Berichte über die wirtschaftliche Lage Sm [B111 n2 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2672H" rel="nofollow">Images on film h2/sh/S2672H</a> | Filmanfang: Japan : Textilindustrie [B111 n13a Sm3]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2673H" rel="nofollow">Images on film h2/sh/S2673H</a> | Filmanfang: Japan : Arbeitnehmerverhältnisse in einzelnen Berufen Sm [B111 n15a Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2674H" rel="nofollow">Images on film h2/sh/S2674H</a> | Filmanfang: Japan : Seeschiffahrt [B111 n32]
+
+
+:::
 
 
 
@@ -835,8 +864,27 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
-In total 41 folders, 2210 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_wa.de.html) (in German).
+
+
+
+
+
+## Commodities/wares archives folders
+
+
+
+
+
+
+
+
+
+
+
+In total 41 folders (until 1949), 2210 documents
+- folders incomplete.  For material not published as folders, please check the
+digitized micro-films of the [1st filming](/film/h1_wa.de.html) and [2nd
+filming](/film/h2_wa.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 

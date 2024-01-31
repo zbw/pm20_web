@@ -1,6 +1,6 @@
 ---
 title: "g4 Sm1 Zollpolitik"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [g4 Sm1]{.gray}&#8201; Zollpolitik &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699983)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/163419`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/163419`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 17 Mappen, 404 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 17 Mappen, 404 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -62,6 +63,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,163419" title="über: Argentinien : Zollpolitik" target="_blank">97 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1634xx/163419/about.de.html))
 - E102 Britisch-Guayana [**&nearr;**](../../../geo/i/141700/about.de.html "Britisch-Guayana (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E102 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141700,163419" title="über: Britisch-Guayana : Zollpolitik" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1417xx/141700/1634xx/163419/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

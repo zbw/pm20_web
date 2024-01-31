@@ -1,6 +1,6 @@
 ---
 title: "D31 Australische Mandatsländer in Ozeanien"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -8,27 +8,84 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [D31]{.gray}&#8201; Australische Mandatsländer in Ozeanien
+# [D31]{.gray}&#8201; Australische Mandatsländer in Ozeanien &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q97059252)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141622`</div>
-
-
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141622`</div>
 
 
 
 
-
-## Warenarchiv
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
+## Sacharchiv Mappen
 
 
 
-Insgesamt 4 Mappen, 8 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+Kein als Mappe erschlossenes Material.
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 50</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0856H/0311/L" rel="nofollow">Bilder auf Film h1/sh/S0856H/0311/L</a> | Australische Mandatsländer in Ozeanien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0856H/0355/R" rel="nofollow">Bilder auf Film h1/sh/S0856H/0355/R</a> | Australische Mandatsländer in Ozeanien : Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen einz. Länder
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0856H/0357/R" rel="nofollow">Bilder auf Film h1/sh/S0856H/0357/R</a> | Australische Mandatsländer in Ozeanien : Berichte über die wirtschaftliche Lage
+
+
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 4 Mappen (bis 1949), 8 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

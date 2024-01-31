@@ -1,6 +1,6 @@
 ---
 title: "Citrus fruits"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Citrus fruits &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q81513) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Citrus)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141948`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/141948`</div>
 
 
 
@@ -18,13 +18,15 @@ fn-stub: about
 
 
 
-## Commodities/wares archives
+## Commodities/wares archives folders
 
 
 
 
 
-In total 70 folders, 1542 documents - folders complete.
+
+
+In total 69 folders, 1543 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -45,7 +47,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A35 Italy [**&nearr;**](../../../geo/i/141008/about.en.html "Italy (all folders)") [**&uarr;**](../../../geo/about.en.html#A35 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141008" title="about: Citrus fruits : Italy" target="_blank">216 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1410xx/141008/about.en.html))
 - A40b Austria [**&nearr;**](../../../geo/i/141731/about.en.html "Austria (all folders)") [**&uarr;**](../../../geo/about.en.html#A40b "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141731" title="about: Citrus fruits : Austria" target="_blank">6 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1417xx/141731/about.en.html))
 - A40d Hungary [**&nearr;**](../../../geo/i/141025/about.en.html "Hungary (all folders)") [**&uarr;**](../../../geo/about.en.html#A40d "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141025" title="about: Citrus fruits : Hungary" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1410xx/141025/about.en.html))
-- A40e Kingdom of Yugoslavia [**&nearr;**](../../../geo/i/141028/about.en.html "Kingdom of Yugoslavia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40e "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141028" title="about: Citrus fruits : Kingdom of Yugoslavia" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1410xx/141028/about.en.html))
+- A40e (Kingdom of) Yugoslavia [**&nearr;**](../../../geo/i/141028/about.en.html "(Kingdom of) Yugoslavia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40e "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141028" title="about: Citrus fruits : (Kingdom of) Yugoslavia" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1410xx/141028/about.en.html))
 - A45 Greece [**&nearr;**](../../../geo/i/141037/about.en.html "Greece (all folders)") [**&uarr;**](../../../geo/about.en.html#A45 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141037" title="about: Citrus fruits : Greece" target="_blank">42 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1410xx/141037/about.en.html))
 - A46 Bulgaria [**&nearr;**](../../../geo/i/141039/about.en.html "Bulgaria (all folders)") [**&uarr;**](../../../geo/about.en.html#A46 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141039" title="about: Citrus fruits : Bulgaria" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1410xx/141039/about.en.html))
 - A47 Romania [**&nearr;**](../../../geo/i/141040/about.en.html "Romania (all folders)") [**&uarr;**](../../../geo/about.en.html#A47 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141040" title="about: Citrus fruits : Romania" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1410xx/141040/about.en.html))
@@ -60,7 +62,6 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - B24 Syria [**&nearr;**](../../../geo/i/141114/about.en.html "Syria (all folders)") [**&uarr;**](../../../geo/about.en.html#B24 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141114" title="about: Citrus fruits : Syria" target="_blank">16 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1411xx/141114/about.en.html))
 - B24a Palestine [**&nearr;**](../../../geo/i/141115/about.en.html "Palestine (all folders)") [**&uarr;**](../../../geo/about.en.html#B24a "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141115" title="about: Citrus fruits : Palestine" target="_blank">254 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1411xx/141115/about.en.html))
 - B24c Lebanon [**&nearr;**](../../../geo/i/141117/about.en.html "Lebanon (all folders)") [**&uarr;**](../../../geo/about.en.html#B24c "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141117" title="about: Citrus fruits : Lebanon" target="_blank">34 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1411xx/141117/about.en.html))
-- B42 Indian Empire [**&nearr;**](../../../geo/i/141189/about.en.html "Indian Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#B42 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141189" title="about: Citrus fruits : Indian Empire" target="_blank">0 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1411xx/141189/about.en.html))
 - B57 Ceylon [**&nearr;**](../../../geo/i/141204/about.en.html "Ceylon (all folders)") [**&uarr;**](../../../geo/about.en.html#B57 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141204" title="about: Citrus fruits : Ceylon" target="_blank">5 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1412xx/141204/about.en.html))
 - B86 Philippines [**&nearr;**](../../../geo/i/141240/about.en.html "Philippines (all folders)") [**&uarr;**](../../../geo/about.en.html#B86 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141240" title="about: Citrus fruits : Philippines" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1412xx/141240/about.en.html))
 - B91 Cochinchina [**&nearr;**](../../../geo/i/141243/about.en.html "Cochinchina (all folders)") [**&uarr;**](../../../geo/about.en.html#B91 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141243" title="about: Citrus fruits : Cochinchina" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1412xx/141243/about.en.html))
@@ -72,7 +73,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - C10 Egypt [**&nearr;**](../../../geo/i/141336/about.en.html "Egypt (all folders)") [**&uarr;**](../../../geo/about.en.html#C10 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141336" title="about: Citrus fruits : Egypt" target="_blank">22 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1413xx/141336/about.en.html))
 - C15 Libya [**&nearr;**](../../../geo/i/141339/about.en.html "Libya (all folders)") [**&uarr;**](../../../geo/about.en.html#C15 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141339" title="about: Citrus fruits : Libya" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1413xx/141339/about.en.html))
 - C18 Tunisia [**&nearr;**](../../../geo/i/141353/about.en.html "Tunisia (all folders)") [**&uarr;**](../../../geo/about.en.html#C18 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141353" title="about: Citrus fruits : Tunisia" target="_blank">9 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1413xx/141353/about.en.html))
-- C19 Algeria [**&nearr;**](../../../geo/i/141354/about.en.html "Algeria (all folders)") [**&uarr;**](../../../geo/about.en.html#C19 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141354" title="about: Citrus fruits : Algeria" target="_blank">52 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1413xx/141354/about.en.html))
+- C19 Algeria [**&nearr;**](../../../geo/i/141354/about.en.html "Algeria (all folders)") [**&uarr;**](../../../geo/about.en.html#C19 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141354" title="about: Citrus fruits : Algeria" target="_blank">53 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1413xx/141354/about.en.html))
 - C25 French protectorate in Morocco [**&nearr;**](../../../geo/i/141358/about.en.html "French protectorate in Morocco (all folders)") [**&uarr;**](../../../geo/about.en.html#C25 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141358" title="about: Citrus fruits : French protectorate in Morocco" target="_blank">5 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1413xx/141358/about.en.html))
 - C30 French West Africa [**&nearr;**](../../../geo/i/141361/about.en.html "French West Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C30 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141361" title="about: Citrus fruits : French West Africa" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1413xx/141361/about.en.html))
 - C36 French Guinea [**&nearr;**](../../../geo/i/141375/about.en.html "French Guinea (all folders)") [**&uarr;**](../../../geo/about.en.html#C36 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141375" title="about: Citrus fruits : French Guinea" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1413xx/141375/about.en.html))
@@ -114,6 +115,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### World
 
 - H World [**&nearr;**](../../../geo/i/141728/about.en.html "World (all folders)") [**&uarr;**](../../../geo/about.en.html#H "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141948,141728" title="about: Citrus fruits : World" target="_blank">79 documents</a>) ([folder](../../../../folder/wa/1419xx/141948/1417xx/141728/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

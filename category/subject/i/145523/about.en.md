@@ -1,6 +1,6 @@
 ---
 title: "n28b Traffic (as a whole) with individual countries"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n28b]{.gray}&#8201; Traffic (as a whole) with individual countries &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428060)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145523`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145523`</div>
 
 
 
@@ -18,17 +18,21 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 10 folders, 32 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 10 folders, 32 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
+
+
+### Europe
 
 - A1 Europe [**&nearr;**](../../../geo/i/140892/about.en.html "Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A1 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145523" title="about: Europe : Traffic (as a whole) with individual countries" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1408xx/140892/1455xx/145523/about.en.html))
 - A4 Western Europe [**&nearr;**](../../../geo/i/140897/about.en.html "Western Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A4 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140897,145523" title="about: Western Europe : Traffic (as a whole) with individual countries" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1408xx/140897/1455xx/145523/about.en.html))
@@ -49,6 +53,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### America
 
 - E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145523" title="about: Argentina : Traffic (as a whole) with individual countries" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1455xx/145523/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "n37 Versicherungswesen"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n37]{.gray}&#8201; Versicherungswesen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428089)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145723`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145723`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 25 Mappen, 304 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 25 Mappen, 308 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -32,7 +33,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - A5 Levante [**&nearr;**](../../../geo/i/140898/about.de.html "Levante (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A5 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140898,145723" title="über: Levante : Versicherungswesen" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140898/1457xx/145723/about.de.html))
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145723" title="über: Südosteuropa : Versicherungswesen" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1457xx/145723/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145723" title="über: Hamburg : Versicherungswesen" target="_blank">30 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1457xx/145723/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145723" title="über: Hamburg : Versicherungswesen" target="_blank">34 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1457xx/145723/about.de.html))
 - A10n(1) Oberschlesien (dt.-poln. Abstimmungsgebiet) [**&nearr;**](../../../geo/i/140948/about.de.html "Oberschlesien (dt.-poln. Abstimmungsgebiet) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10n(1) "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140948,145723" title="über: Oberschlesien (dt.-poln. Abstimmungsgebiet) : Versicherungswesen" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140948/1457xx/145723/about.de.html))
 - A11 Deutsche Kolonien [**&nearr;**](../../../geo/i/140960/about.de.html "Deutsche Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A11 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140960,145723" title="über: Deutsche Kolonien : Versicherungswesen" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140960/1457xx/145723/about.de.html))
 - A39 Liechtenstein [**&nearr;**](../../../geo/i/141016/about.de.html "Liechtenstein (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A39 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141016,145723" title="über: Liechtenstein : Versicherungswesen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141016/1457xx/145723/about.de.html))
@@ -67,6 +68,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - E85 Chile [**&nearr;**](../../../geo/i/141691/about.de.html "Chile (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E85 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141691,145723" title="über: Chile : Versicherungswesen" target="_blank">42 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141691/1457xx/145723/about.de.html))
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145723" title="über: Argentinien : Versicherungswesen" target="_blank">78 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1457xx/145723/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

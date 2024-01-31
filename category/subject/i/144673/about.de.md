@@ -1,6 +1,6 @@
 ---
 title: "h5 Provinzial- und Kommunalverwaltung, Allgemein"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [h5]{.gray}&#8201; Provinzial- und Kommunalverwaltung, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427892)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144673`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144673`</div>
 
 
 
@@ -18,19 +18,20 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 17 Mappen, 410 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 17 Mappen, 428 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
 
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144673" title="über: Hamburg : Provinzial- und Kommunalverwaltung, Allgemein" target="_blank">149 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1446xx/144673/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144673" title="über: Hamburg : Provinzial- und Kommunalverwaltung, Allgemein" target="_blank">167 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1446xx/144673/about.de.html))
 - A11 Deutsche Kolonien [**&nearr;**](../../../geo/i/140960/about.de.html "Deutsche Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A11 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140960,144673" title="über: Deutsche Kolonien : Provinzial- und Kommunalverwaltung, Allgemein" target="_blank">10 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140960/1446xx/144673/about.de.html))
 - A36 Italienische Kolonien [**&nearr;**](../../../geo/i/141012/about.de.html "Italienische Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A36 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141012,144673" title="über: Italienische Kolonien : Provinzial- und Kommunalverwaltung, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141012/1446xx/144673/about.de.html))
 
@@ -59,6 +60,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144673" title="über: Argentinien : Provinzial- und Kommunalverwaltung, Allgemein" target="_blank">70 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1446xx/144673/about.de.html))
 - E102 Britisch-Guayana [**&nearr;**](../../../geo/i/141700/about.de.html "Britisch-Guayana (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E102 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141700,144673" title="über: Britisch-Guayana : Provinzial- und Kommunalverwaltung, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1417xx/141700/1446xx/144673/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

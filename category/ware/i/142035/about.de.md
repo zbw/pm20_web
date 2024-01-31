@@ -1,6 +1,6 @@
 ---
 title: "Bambus"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Bambus &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q670887) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Bambus)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142035`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142035`</div>
 
 
 
@@ -18,12 +18,14 @@ fn-stub: about
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 35 Mappen, 133 Dokumente - Mappen komplett.
+
+
+Insgesamt 35 Mappen, 133 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -76,6 +78,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - E70 Costa Rica [**&nearr;**](../../../geo/i/141683/about.de.html "Costa Rica (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E70 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142035,141683" title="über: Bambus : Costa Rica" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142035/1416xx/141683/about.de.html))
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142035,141692" title="über: Bambus : Argentinien" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142035/1416xx/141692/about.de.html))
 - E102 Britisch-Guayana [**&nearr;**](../../../geo/i/141700/about.de.html "Britisch-Guayana (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E102 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142035,141700" title="über: Bambus : Britisch-Guayana" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142035/1417xx/141700/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

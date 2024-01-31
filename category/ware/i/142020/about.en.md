@@ -1,6 +1,6 @@
 ---
 title: "Gaming and vending machines"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Gaming and vending machines &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q211584) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Vending_machine)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142020`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142020`</div>
 
 
 
@@ -18,13 +18,15 @@ fn-stub: about
 
 
 
-## Commodities/wares archives
+## Commodities/wares archives folders
 
 
 
 
 
-In total 27 folders, 145 documents - folders complete.
+
+
+In total 27 folders, 145 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -71,6 +73,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - E46 Trinidad and Tobago [**&nearr;**](../../../geo/i/141667/about.en.html "Trinidad and Tobago (all folders)") [**&uarr;**](../../../geo/about.en.html#E46 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142020,141667" title="about: Gaming and vending machines : Trinidad and Tobago" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142020/1416xx/141667/about.en.html))
 - E79 Peru [**&nearr;**](../../../geo/i/141689/about.en.html "Peru (all folders)") [**&uarr;**](../../../geo/about.en.html#E79 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142020,141689" title="about: Gaming and vending machines : Peru" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142020/1416xx/141689/about.en.html))
 - E97 Brazil [**&nearr;**](../../../geo/i/141697/about.en.html "Brazil (all folders)") [**&uarr;**](../../../geo/about.en.html#E97 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142020,141697" title="about: Gaming and vending machines : Brazil" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1420xx/142020/1416xx/141697/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

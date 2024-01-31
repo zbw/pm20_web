@@ -1,6 +1,6 @@
 ---
 title: "c Sm50 Landeskunde, Institutionen"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [c Sm50]{.gray}&#8201; Landeskunde, Institutionen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699235)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/182749`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/182749`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 4 Mappen, 9 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 4 Mappen, 9 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -43,6 +44,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Welt
 
 - H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141728,182749" title="über: Welt : Landeskunde, Institutionen" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1417xx/141728/1827xx/182749/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

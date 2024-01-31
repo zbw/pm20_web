@@ -1,6 +1,6 @@
 ---
 title: "n Sm8.III Normung, Standardisierung, von Bodenprodukten"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n Sm8.III]{.gray}&#8201; Normung, Standardisierung, von Bodenprodukten &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700369)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145792`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145792`</div>
 
 
 
@@ -18,22 +18,19 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 5 Mappen, 14 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 4 Mappen, 14 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
 
 
-
-### Europa
-
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145792" title="über: Hamburg : Normung, Standardisierung, von Bodenprodukten" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1457xx/145792/about.de.html))
 
 ### Asien
 
@@ -44,6 +41,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - C65 Kamerun [**&nearr;**](../../../geo/i/141410/about.de.html "Kamerun (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C65 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141410,145792" title="über: Kamerun : Normung, Standardisierung, von Bodenprodukten" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141410/1457xx/145792/about.de.html))
 - C87 Deutsch-Südwestafrika [**&nearr;**](../../../geo/i/141450/about.de.html "Deutsch-Südwestafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C87 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141450,145792" title="über: Deutsch-Südwestafrika : Normung, Standardisierung, von Bodenprodukten" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141450/1457xx/145792/about.de.html))
 - C110 Deutsch-Ostafrika [**&nearr;**](../../../geo/i/141471/about.de.html "Deutsch-Ostafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C110 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141471,145792" title="über: Deutsch-Ostafrika : Normung, Standardisierung, von Bodenprodukten" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141471/1457xx/145792/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

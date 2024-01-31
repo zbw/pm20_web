@@ -1,6 +1,6 @@
 ---
 title: "f2 Sm14 Autonomiebestrebungen, Selbstbestimmungsrecht"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [f2 Sm14]{.gray}&#8201; Autonomiebestrebungen, Selbstbestimmungsrecht &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699322)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/163692`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/163692`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 4 Mappen, 56 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 4 Mappen, 56 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -40,6 +41,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - B23 Irak [**&nearr;**](../../../geo/i/141113/about.de.html "Irak (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B23 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141113,163692" title="über: Irak : Autonomiebestrebungen, Selbstbestimmungsrecht" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1411xx/141113/1636xx/163692/about.de.html))
 - B24 Syrien [**&nearr;**](../../../geo/i/141114/about.de.html "Syrien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B24 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141114,163692" title="über: Syrien : Autonomiebestrebungen, Selbstbestimmungsrecht" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1411xx/141114/1636xx/163692/about.de.html))
 - B99 Mongolei [**&nearr;**](../../../geo/i/141261/about.de.html "Mongolei (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B99 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141261,163692" title="über: Mongolei : Autonomiebestrebungen, Selbstbestimmungsrecht" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141261/1636xx/163692/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

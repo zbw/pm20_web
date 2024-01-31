@@ -1,6 +1,6 @@
 ---
 title: "n4 Sm1 (alt) Ernte"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n4 Sm1 (alt)]{.gray}&#8201; Ernte &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710525)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145049`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145049`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 4 Mappen, 48 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 4 Mappen, 48 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -40,6 +41,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - B21 Türkei (1923 -) [**&nearr;**](../../../geo/i/141111/about.de.html "Türkei (1923 -) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B21 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141111,145049" title="über: Türkei (1923 -) : Ernte" target="_blank">41 Dokumente</a>) ([Mappe](../../../../folder/sh/1411xx/141111/1450xx/145049/about.de.html))
 - B24a Palästina (-1945) [**&nearr;**](../../../geo/i/141115/about.de.html "Palästina (-1945) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B24a "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141115,145049" title="über: Palästina (-1945) : Ernte" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1411xx/141115/1450xx/145049/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

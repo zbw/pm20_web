@@ -1,6 +1,6 @@
 ---
 title: "A40c Tschechoslowakei"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -8,27 +8,120 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A40c]{.gray}&#8201; Tschechoslowakei
+# [A40c]{.gray}&#8201; Tschechoslowakei &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q33946) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Tschechoslowakei)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141022`</div>
-
-
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141022`</div>
 
 
 
 
-
-## Warenarchiv
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
+## Sacharchiv Mappen
 
 
 
-Insgesamt 37 Mappen, 1330 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+Kein als Mappe erschlossenes Material.
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 9188</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0512H/1087" rel="nofollow">Bilder auf Film h1/sh/S0512H/1087</a> | Tschechoslowakei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0513H" rel="nofollow">Bilder auf Film h1/sh/S0513H</a> | Filmanfang: Tschechoslowakei : Bevölkerungsbewegung, Bevölkerungsstatistik [A40c d1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0514H" rel="nofollow">Bilder auf Film h1/sh/S0514H</a> | Filmanfang: Tschechoslowakei : Geschichtliche Vorgänge Sm501 [A40c f2 Sm501]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0515H" rel="nofollow">Bilder auf Film h1/sh/S0515H</a> | Filmanfang: Tschechoslowakei : Außenpolitik und politische Beziehungen zum Ausland, Allgemein [A40c g]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0516H" rel="nofollow">Bilder auf Film h1/sh/S0516H</a> | Filmanfang: Tschechoslowakei : Militärwesen, Allgemein [A40c l]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0517H" rel="nofollow">Bilder auf Film h1/sh/S0517H</a> | Filmanfang: Tschechoslowakei : Berichte über die wirtschaftliche Lage [A40c n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0518H" rel="nofollow">Bilder auf Film h1/sh/S0518H</a> | Filmanfang: Tschechoslowakei : Handel [A40c n18]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0519H" rel="nofollow">Bilder auf Film h1/sh/S0519H</a> | Filmanfang: Tschechoslowakei : Seeschiffahrt [A40c n32]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0520H" rel="nofollow">Bilder auf Film h1/sh/S0520H</a> | Filmanfang: Tschechoslowakei : Minderheiten aus einzelnen Ländern Ungarn [A40c o3 Ungarn]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0520H/0238/R" rel="nofollow">Bilder auf Film h1/sh/S0520H/0238/R</a> | Tschechoslowakei : Huldschiner Ländchenfrage (Hultschiner Ländchen)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0520H/0259/R" rel="nofollow">Bilder auf Film h1/sh/S0520H/0259/R</a> | Tschechoslowakei : Eisenbahnmarkprioritäten
+
+
+:::
+
+
+
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 6390</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2539H/0895" rel="nofollow">Bilder auf Film h2/sh/S2539H/0895</a> | Tschechoslowakei
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2540H" rel="nofollow">Bilder auf Film h2/sh/S2540H</a> | Filmanfang: Tschechoslowakei : Geschichtliche Vorgänge [A40c f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2541H" rel="nofollow">Bilder auf Film h2/sh/S2541H</a> | Filmanfang: Tschechoslowakei : Diplomatische und konsularische Vertretungen in einzelnen Ländern [A40c g2a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2542H" rel="nofollow">Bilder auf Film h2/sh/S2542H</a> | Filmanfang: Tschechoslowakei : l-n Sm [A40c l-n Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2543H" rel="nofollow">Bilder auf Film h2/sh/S2543H</a> | Filmanfang: Tschechoslowakei : Berichte über die wirtschaftliche Lage Sm [A40c n2 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2544H" rel="nofollow">Bilder auf Film h2/sh/S2544H</a> | Filmanfang: Tschechoslowakei : Handel [A40c n18]
+
+
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 37 Mappen (bis 1949), 1330 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

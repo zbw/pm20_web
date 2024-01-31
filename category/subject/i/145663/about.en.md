@@ -1,6 +1,6 @@
 ---
 title: "n34 Sm1 Wireless telegraphy and telephony, radio"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n34 Sm1]{.gray}&#8201; Wireless telegraphy and telephony, radio &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711247)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145663`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145663`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 43 folders, 545 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 43 folders, 546 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -36,7 +37,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A5 Levant [**&nearr;**](../../../geo/i/140898/about.en.html "Levant (all folders)") [**&uarr;**](../../../geo/about.en.html#A5 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140898,145663" title="about: Levant : Wireless telegraphy and telephony, radio" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1408xx/140898/1456xx/145663/about.en.html))
 - A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145663" title="about: Southeastern Europe : Wireless telegraphy and telephony, radio" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1456xx/145663/about.en.html))
 - A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,145663" title="about: Orient : Wireless telegraphy and telephony, radio" target="_blank">4 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1456xx/145663/about.en.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145663" title="about: Hamburg : Wireless telegraphy and telephony, radio" target="_blank">57 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1456xx/145663/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145663" title="about: Hamburg : Wireless telegraphy and telephony, radio" target="_blank">58 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1456xx/145663/about.en.html))
 - A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140960,145663" title="about: German imperial colonies : Wireless telegraphy and telephony, radio" target="_blank">15 documents</a>) ([folder](../../../../folder/sh/1409xx/140960/1456xx/145663/about.en.html))
 - A38 Free State of Fiume [**&nearr;**](../../../geo/i/141014/about.en.html "Free State of Fiume (all folders)") [**&uarr;**](../../../geo/about.en.html#A38 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141014,145663" title="about: Free State of Fiume : Wireless telegraphy and telephony, radio" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1410xx/141014/1456xx/145663/about.en.html))
 - A39 Liechtenstein [**&nearr;**](../../../geo/i/141016/about.en.html "Liechtenstein (all folders)") [**&uarr;**](../../../geo/about.en.html#A39 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141016,145663" title="about: Liechtenstein : Wireless telegraphy and telephony, radio" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1410xx/141016/1456xx/145663/about.en.html))
@@ -91,6 +92,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 - F10 Arctic region [**&nearr;**](../../../geo/i/141702/about.en.html "Arctic region (all folders)") [**&uarr;**](../../../geo/about.en.html#F10 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141702,145663" title="about: Arctic region : Wireless telegraphy and telephony, radio" target="_blank">8 documents</a>) ([folder](../../../../folder/sh/1417xx/141702/1456xx/145663/about.en.html))
 - F11 Antarctica [**&nearr;**](../../../geo/i/141703/about.en.html "Antarctica (all folders)") [**&uarr;**](../../../geo/about.en.html#F11 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141703,145663" title="about: Antarctica : Wireless telegraphy and telephony, radio" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1417xx/141703/1456xx/145663/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

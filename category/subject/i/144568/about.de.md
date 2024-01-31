@@ -1,6 +1,6 @@
 ---
 title: "g6 Sm3 Interessen einzelner Staaten in ..."
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [g6 Sm3]{.gray}&#8201; Interessen einzelner Staaten in ... &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700072)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144568`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144568`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 28 Mappen, 1008 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 28 Mappen, 1009 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -35,7 +36,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - A5 Levante [**&nearr;**](../../../geo/i/140898/about.de.html "Levante (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A5 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140898,144568" title="über: Levante : Interessen einzelner Staaten in ..." target="_blank">24 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140898/1445xx/144568/about.de.html))
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,144568" title="über: Südosteuropa : Interessen einzelner Staaten in ..." target="_blank">50 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1445xx/144568/about.de.html))
-- A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,144568" title="über: Orient : Interessen einzelner Staaten in ..." target="_blank">59 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1445xx/144568/about.de.html))
+- A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,144568" title="über: Orient : Interessen einzelner Staaten in ..." target="_blank">60 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1445xx/144568/about.de.html))
 - A11 Deutsche Kolonien [**&nearr;**](../../../geo/i/140960/about.de.html "Deutsche Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A11 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140960,144568" title="über: Deutsche Kolonien : Interessen einzelner Staaten in ..." target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140960/1445xx/144568/about.de.html))
 
 ### Asien
@@ -76,6 +77,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Polargebiete
 
 - F11 Antarktis [**&nearr;**](../../../geo/i/141703/about.de.html "Antarktis (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#F11 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141703,144568" title="über: Antarktis : Interessen einzelner Staaten in ..." target="_blank">91 Dokumente</a>) ([Mappe](../../../../folder/sh/1417xx/141703/1445xx/144568/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "p7 Binnenwanderungsbewegungen"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [p7]{.gray}&#8201; Binnenwanderungsbewegungen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428205)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145939`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145939`</div>
 
 
 
@@ -18,21 +18,21 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 7 Mappen, 97 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 6 Mappen, 98 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
 
 
 - A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145939" title="über: Europa : Binnenwanderungsbewegungen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1459xx/145939/about.de.html))
-- A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,145939" title="über: Orient : Binnenwanderungsbewegungen" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1459xx/145939/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145939" title="über: Hamburg : Binnenwanderungsbewegungen" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1459xx/145939/about.de.html))
+- A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,145939" title="über: Orient : Binnenwanderungsbewegungen" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1459xx/145939/about.de.html))
 - A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,145939" title="über: Deutschland : Binnenwanderungsbewegungen" target="_blank">76 Dokumente</a>) ([Mappe](../../../../folder/sh/1261xx/126128/1459xx/145939/about.de.html))
 
 ### Asien
@@ -43,6 +43,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145939" title="über: Argentinien : Binnenwanderungsbewegungen" target="_blank">13 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1459xx/145939/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

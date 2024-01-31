@@ -9,12 +9,13 @@ robots: noindex
 
 The primary purpose of the data structures described below is to allow for
 publication of selected articles - technically sections of film images -, after
-their intellectual property status had be checked.
+their intellectual property status had be checked. An [overview
+page](/film/public_section.h1_sh.en.html) of such public sections in the
+countries-subjects archive (first filming) is available.
 
 ## Films
 
-* File `checked.yaml` in a film directory lists sections of the film which can published, because every image had been checked for intellectual property issues
-  * contains (possibly multiple) sections, per section:
+* File `checked.yaml` in a film directory lists sections of the film which can be published, because every image had been checked for intellectual property issues. It contains (possibly multiple) sections, and per section:
   * `title_en`, `title_de`: short title for the section (optional, free format)
   * `start`, `end`: first and last image checked for copyright issues (mandatory)
   * `checked_by`, `checked_date`: who has done the checking, and when (mandatory)
@@ -23,7 +24,7 @@ their intellectual property status had be checked.
 
 ## Film images
 
-* File `{image_name}.locked.txt` indicates that the image contains an article with a named text or image author, who is either not identified, whose death date is unknown, or whose death was less than 70 years ago. _Each page (image) with such an article has to be locked._ The file is created manually, it cannot be replaced automatically.
+* File `{image_name}.locked.txt` (may be empty, e.g., S04151039H.locked.txt)indicates that the image contains an article with a named text or image author, who is either not identified, whose death date is unknown, or whose death was less than 70 years ago. _Each page (image) with such an article has to be locked._ The file is created manually, it cannot be replaced automatically.
 * File `{image_name}.meta.yaml` contains metadata fields about the image
   * `date`: publication date
   * `author`: in case of an identified author, QID of the author's Wikidata item. If the item has a death date, that could be evaluated in order to remove the lock file when the IPR has expired
@@ -53,7 +54,7 @@ their intellectual property status had be checked.
 ```
     cp ../../meta.yaml {image_name}.meta.yaml
 ```
-* Execute `bin/public_film_sections.sh`
+* Execute `bin/public_film_sections.sh`. This also creates the [overview page](/film/public_section.h1_sh.en.html) for public film sections (as markdown page).
 
 ### Massive amounts (draft)
 

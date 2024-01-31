@@ -1,6 +1,6 @@
 ---
 title: "f4 Sm12 Staatsangehörigkeit, Bürgerrecht, Naturalisation"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [f4 Sm12]{.gray}&#8201; Staatsangehörigkeit, Bürgerrecht, Naturalisation &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699640)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144368`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144368`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 17 Mappen, 293 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 17 Mappen, 293 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -62,6 +63,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144368" title="über: Argentinien : Staatsangehörigkeit, Bürgerrecht, Naturalisation" target="_blank">67 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1443xx/144368/about.de.html))
 - E95 Uruguay [**&nearr;**](../../../geo/i/141695/about.de.html "Uruguay (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E95 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141695,144368" title="über: Uruguay : Staatsangehörigkeit, Bürgerrecht, Naturalisation" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141695/1443xx/144368/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

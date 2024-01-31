@@ -1,6 +1,6 @@
 ---
 title: "Basalt"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Basalt &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q43338) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Basalt)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142046`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142046`</div>
 
 
 
@@ -18,12 +18,14 @@ fn-stub: about
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 8 Mappen, 216 Dokumente - Mappen komplett.
+
+
+Insgesamt 8 Mappen, 216 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -43,6 +45,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Australien und Ozeanien
 
 - D30 Australien [**&nearr;**](../../../geo/i/141621/about.de.html "Australien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#D30 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142046,141621" title="über: Basalt : Australien" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142046/1416xx/141621/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

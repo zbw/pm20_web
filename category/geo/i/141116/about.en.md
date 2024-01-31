@@ -1,6 +1,6 @@
 ---
 title: "B24b Jordan (Kingdom)"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,18 +10,21 @@ fn-stub: about
 
 # [B24b]{.gray}&#8201; Jordan (Kingdom) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q810) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Jordan)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141116`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141116`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
+[Subject archives](#subject-archives-folders) &#160; [Commodities/wares archives](#commoditieswares-archives-folders)
 
 
 
 
-## Subject archives
+## Subject archives folders
+
+
+
 
 
 
@@ -83,11 +86,72 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
+<a id="filmsections" />
+
+## Sections of digitized microfilms (1st filming 1908-1949)
+
+<p>For intellectual property law reasons accessible only from the European Union legal area and from the ZBW reading room.</p>
+
+
+
+<p>Total number of images: 115</p>
 
 
 
 
-## Commodities/wares archives
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0674H/0002/L" rel="nofollow">Images on film h1/sh/S0674H/0002/L</a> | Jordanien : Handelspolitische und zollrechtliche Massnahmen aus dem Deutschen Handelsarchiv
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0674H/0014/L" rel="nofollow">Images on film h1/sh/S0674H/0014/L</a> | Jordanien : Verhandlungen und Abmachungen in ...
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0674H/0016/R" rel="nofollow">Images on film h1/sh/S0674H/0016/R</a> | Jordanien : Verwaltung, Allgemein
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0674H/0022/R" rel="nofollow">Images on film h1/sh/S0674H/0022/R</a> | Jordanien : Militärwesen, Allgemein
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0674H/0029/L" rel="nofollow">Images on film h1/sh/S0674H/0029/L</a> | Jordanien : Staatshaushalt
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0674H/0042/L" rel="nofollow">Images on film h1/sh/S0674H/0042/L</a> | Jordanien : Zollwesen, Zolltarife
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0674H/0048/R" rel="nofollow">Images on film h1/sh/S0674H/0048/R</a> | Jordanien : Steuerwesen (Finanzwesen)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0674H/0049/R" rel="nofollow">Images on film h1/sh/S0674H/0049/R</a> | Jordanien : Wirtschaft, Allgemein
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0674H/0056/R" rel="nofollow">Images on film h1/sh/S0674H/0056/R</a> | Jordanien : Wirtschaftspolitik
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0674H/0058/R" rel="nofollow">Images on film h1/sh/S0674H/0058/R</a> | Jordanien : Berichte über die wirtschaftliche Lage
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0674H/0075/L" rel="nofollow">Images on film h1/sh/S0674H/0075/L</a> | Jordanien : Bodenbesitzverhältnisse und Bodenpolitik, Hausbesitz
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0674H/0077/R" rel="nofollow">Images on film h1/sh/S0674H/0077/R</a> | Jordanien : Landwirtschaft
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0674H/0083/R" rel="nofollow">Images on film h1/sh/S0674H/0083/R</a> | Jordanien : Bewässerung, Entwässerung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0674H/0085/L" rel="nofollow">Images on film h1/sh/S0674H/0085/L</a> | Jordanien : Industrie
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0674H/0088/L" rel="nofollow">Images on film h1/sh/S0674H/0088/L</a> | Jordanien : Arbeiterfrage, Arbeitsverhältnisse, Allgemein
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0674H/0089/R" rel="nofollow">Images on film h1/sh/S0674H/0089/R</a> | Jordanien : Handel
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0674H/0093/R" rel="nofollow">Images on film h1/sh/S0674H/0093/R</a> | Jordanien : Kreditwesen und Bankwesen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0674H/0096/L" rel="nofollow">Images on film h1/sh/S0674H/0096/L</a> | Jordanien : Verkehrswesen, Allgemein
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0674H/0100/R" rel="nofollow">Images on film h1/sh/S0674H/0100/R</a> | Jordanien : Eisenbahnwesen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0674H/0107/R" rel="nofollow">Images on film h1/sh/S0674H/0107/R</a> | Jordanien : Fremdstämmige und einzelne Minderheiten, Allgemein
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0674H/0109/L" rel="nofollow">Images on film h1/sh/S0674H/0109/L</a> | Jordanien : Siedlung und Wanderung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0674H/0114/L" rel="nofollow">Images on film h1/sh/S0674H/0114/L</a> | Jordanien : Juden, Judenfeindlichkeit und Antisemitismus bis 1945
+
+
+:::
+
+
+
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 1134</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2610H/0829" rel="nofollow">Images on film h2/sh/S2610H/0829</a> | Jordanien
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2611H" rel="nofollow">Images on film h2/sh/S2611H</a> | Filmanfang: Jordanien : f2-g Sm [B24b f2-g Sm]
+
+
+:::
 
 
 
@@ -97,8 +161,27 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
-In total 1 folders, 1 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_wa.de.html) (in German).
+
+
+
+
+
+## Commodities/wares archives folders
+
+
+
+
+
+
+
+
+
+
+
+In total 1 folders (until 1949), 1 documents
+- folders incomplete.  For material not published as folders, please check the
+digitized micro-films of the [1st filming](/film/h1_wa.de.html) and [2nd
+filming](/film/h2_wa.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 

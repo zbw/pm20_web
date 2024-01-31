@@ -1,6 +1,6 @@
 ---
 title: "n3 Bodenbesitzverhältnisse und Bodenpolitik, Hausbesitz"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n3]{.gray}&#8201; Bodenbesitzverhältnisse und Bodenpolitik, Hausbesitz &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428021)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145027`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145027`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 34 Mappen, 691 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 34 Mappen, 693 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -36,7 +37,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145027" title="über: Europa : Bodenbesitzverhältnisse und Bodenpolitik, Hausbesitz" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1450xx/145027/about.de.html))
 - A3 Osteuropa [**&nearr;**](../../../geo/i/140896/about.de.html "Osteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A3 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140896,145027" title="über: Osteuropa : Bodenbesitzverhältnisse und Bodenpolitik, Hausbesitz" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140896/1450xx/145027/about.de.html))
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145027" title="über: Südosteuropa : Bodenbesitzverhältnisse und Bodenpolitik, Hausbesitz" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1450xx/145027/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145027" title="über: Hamburg : Bodenbesitzverhältnisse und Bodenpolitik, Hausbesitz" target="_blank">83 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1450xx/145027/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145027" title="über: Hamburg : Bodenbesitzverhältnisse und Bodenpolitik, Hausbesitz" target="_blank">85 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1450xx/145027/about.de.html))
 - A11 Deutsche Kolonien [**&nearr;**](../../../geo/i/140960/about.de.html "Deutsche Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A11 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140960,145027" title="über: Deutsche Kolonien : Bodenbesitzverhältnisse und Bodenpolitik, Hausbesitz" target="_blank">11 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140960/1450xx/145027/about.de.html))
 - A36 Italienische Kolonien [**&nearr;**](../../../geo/i/141012/about.de.html "Italienische Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A36 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141012,145027" title="über: Italienische Kolonien : Bodenbesitzverhältnisse und Bodenpolitik, Hausbesitz" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141012/1450xx/145027/about.de.html))
 - A43 Osmanisches Reich (-1923) [**&nearr;**](../../../geo/i/141034/about.de.html "Osmanisches Reich (-1923) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A43 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141034,145027" title="über: Osmanisches Reich (-1923) : Bodenbesitzverhältnisse und Bodenpolitik, Hausbesitz" target="_blank">9 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141034/1450xx/145027/about.de.html))
@@ -79,6 +80,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145027" title="über: Argentinien : Bodenbesitzverhältnisse und Bodenpolitik, Hausbesitz" target="_blank">104 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1450xx/145027/about.de.html))
 - E101 Niederländisch-Guayana [**&nearr;**](../../../geo/i/141699/about.de.html "Niederländisch-Guayana (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E101 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141699,145027" title="über: Niederländisch-Guayana : Bodenbesitzverhältnisse und Bodenpolitik, Hausbesitz" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141699/1450xx/145027/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

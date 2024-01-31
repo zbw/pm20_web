@@ -1,6 +1,6 @@
 ---
 title: "Balsaholz"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Balsaholz &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q27685004)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142033`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142033`</div>
 
 
 
@@ -18,12 +18,14 @@ fn-stub: about
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 12 Mappen, 43 Dokumente - Mappen komplett.
+
+
+Insgesamt 12 Mappen, 43 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -50,6 +52,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - E71 Panama [**&nearr;**](../../../geo/i/141684/about.de.html "Panama (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E71 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142033,141684" title="über: Balsaholz : Panama" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142033/1416xx/141684/about.de.html))
 - E77 Ecuador [**&nearr;**](../../../geo/i/141688/about.de.html "Ecuador (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E77 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142033,141688" title="über: Balsaholz : Ecuador" target="_blank">13 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142033/1416xx/141688/about.de.html))
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142033,141692" title="über: Balsaholz : Argentinien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142033/1416xx/141692/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

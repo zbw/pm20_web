@@ -1,6 +1,6 @@
 ---
 title: "Bast"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Bast &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q1269339) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Bastfaser)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142048`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142048`</div>
 
 
 
@@ -18,12 +18,14 @@ fn-stub: about
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 5 Mappen, 8 Dokumente - Mappen komplett.
+
+
+Insgesamt 5 Mappen, 8 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -37,6 +39,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - A45 Griechenland [**&nearr;**](../../../geo/i/141037/about.de.html "Griechenland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A45 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142048,141037" title="über: Bast : Griechenland" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142048/1410xx/141037/about.de.html))
 - A46 Bulgarien [**&nearr;**](../../../geo/i/141039/about.de.html "Bulgarien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A46 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142048,141039" title="über: Bast : Bulgarien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142048/1410xx/141039/about.de.html))
 - A50 Sowjetunion (1922-1991) [**&nearr;**](../../../geo/i/141043/about.de.html "Sowjetunion (1922-1991) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A50 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142048,141043" title="über: Bast : Sowjetunion (1922-1991)" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142048/1410xx/141043/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

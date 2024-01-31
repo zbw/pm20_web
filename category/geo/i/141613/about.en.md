@@ -1,6 +1,6 @@
 ---
 title: "D13 Caroline Islands"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [D13]{.gray}&#8201; Caroline Islands &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q118350) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Caroline_Islands)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141613`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141613`</div>
 
 
 
@@ -18,7 +18,7 @@ fn-stub: about
 
 
 
-## Subject archives
+## Subject archives folders
 
 
 
@@ -26,7 +26,10 @@ fn-stub: about
 
 
 
-In total 8 folders, 74 documents - folders complete.
+
+
+
+In total 8 folders, 74 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -52,6 +55,14 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 - [g6 Interests of foreign states in ..., general]{.gray}
   - g6 Sm2 Negotiations and agreements between foreign states on ... [**&nearr;**](../../../subject/i/144567/about.en.html "Negotiations and agreements between foreign states on ... (all over the world)") [**&uarr;**](../../../subject/about.en.html#g6_Sm2 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141613,144567" title="about: Caroline Islands : Negotiations and agreements between foreign states on ..." target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1416xx/141613/1445xx/144567/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
 
 
 

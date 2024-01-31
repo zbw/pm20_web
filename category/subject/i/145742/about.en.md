@@ -1,6 +1,6 @@
 ---
 title: "n37a Sm7 (alt) Air damage insurance"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n37a Sm7 (alt)]{.gray}&#8201; Air damage insurance &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711311)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145742`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145742`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 1 folders, 2 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 1 folders, 2 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -34,6 +35,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### Europe
 
 - A5a Mediterranean region [**&nearr;**](../../../geo/i/140899/about.en.html "Mediterranean region (all folders)") [**&uarr;**](../../../geo/about.en.html#A5a "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140899,145742" title="about: Mediterranean region : Air damage insurance" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1408xx/140899/1457xx/145742/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

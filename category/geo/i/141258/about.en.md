@@ -1,6 +1,6 @@
 ---
 title: "B95 Manchuria"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,18 +10,21 @@ fn-stub: about
 
 # [B95]{.gray}&#8201; Manchuria &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q81126) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Manchuria)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141258`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141258`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
+[Subject archives](#subject-archives-folders) &#160; [Commodities/wares archives](#commoditieswares-archives-folders)
 
 
 
 
-## Subject archives
+## Subject archives folders
+
+
+
 
 
 
@@ -43,11 +46,53 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
+<a id="filmsections" />
+
+## Sections of digitized microfilms (1st filming 1908-1949)
+
+<p>For intellectual property law reasons accessible only from the European Union legal area and from the ZBW reading room.</p>
+
+
+
+<p>Total number of images: 4262</p>
 
 
 
 
-## Commodities/wares archives
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0736H/0208" rel="nofollow">Images on film h1/sh/S0736H/0208</a> | Mandschurei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0737H" rel="nofollow">Images on film h1/sh/S0737H</a> | Filmanfang: Mandschurei : Politische Beziehungen zu einzelnen Ländern Ver. St. V. Am. [B95 g1 Ver. St. V. Am.]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0738H" rel="nofollow">Images on film h1/sh/S0738H</a> | Filmanfang: Mandschurei : Berichte über die wirtschaftliche Lage [B95 n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0739H" rel="nofollow">Images on film h1/sh/S0739H</a> | Filmanfang: Mandschurei : Landstrassen, Wege, Brücken (einschl. ihres Verkehrs) [B95 n29]
+
+
+:::
+
+
+
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 52</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2662H/0492" rel="nofollow">Images on film h2/sh/S2662H/0492</a> | Mandschurei
+
+
+:::
 
 
 
@@ -57,8 +102,27 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
-In total 18 folders, 404 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_wa.de.html) (in German).
+
+
+
+
+
+## Commodities/wares archives folders
+
+
+
+
+
+
+
+
+
+
+
+In total 18 folders (until 1949), 404 documents
+- folders incomplete.  For material not published as folders, please check the
+digitized micro-films of the [1st filming](/film/h1_wa.de.html) and [2nd
+filming](/film/h2_wa.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 

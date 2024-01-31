@@ -1,6 +1,6 @@
 ---
 title: "n9 Forestry"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n9]{.gray}&#8201; Forestry &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428027)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145074`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145074`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 36 folders, 402 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 36 folders, 407 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -37,7 +38,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A3 Eastern Europe [**&nearr;**](../../../geo/i/140896/about.en.html "Eastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A3 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140896,145074" title="about: Eastern Europe : Forestry" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1408xx/140896/1450xx/145074/about.en.html))
 - A5a Mediterranean region [**&nearr;**](../../../geo/i/140899/about.en.html "Mediterranean region (all folders)") [**&uarr;**](../../../geo/about.en.html#A5a "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140899,145074" title="about: Mediterranean region : Forestry" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1408xx/140899/1450xx/145074/about.en.html))
 - A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145074" title="about: Southeastern Europe : Forestry" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1450xx/145074/about.en.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145074" title="about: Hamburg : Forestry" target="_blank">25 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1450xx/145074/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145074" title="about: Hamburg : Forestry" target="_blank">30 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1450xx/145074/about.en.html))
 - A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140960,145074" title="about: German imperial colonies : Forestry" target="_blank">10 documents</a>) ([folder](../../../../folder/sh/1409xx/140960/1450xx/145074/about.en.html))
 - A36 Italian Empire [**&nearr;**](../../../geo/i/141012/about.en.html "Italian Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A36 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141012,145074" title="about: Italian Empire : Forestry" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1410xx/141012/1450xx/145074/about.en.html))
 - A43 Ottoman Empire [**&nearr;**](../../../geo/i/141034/about.en.html "Ottoman Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A43 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141034,145074" title="about: Ottoman Empire : Forestry" target="_blank">10 documents</a>) ([folder](../../../../folder/sh/1410xx/141034/1450xx/145074/about.en.html))
@@ -81,6 +82,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145074" title="about: Argentina : Forestry" target="_blank">83 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1450xx/145074/about.en.html))
 - E101 Surinam [**&nearr;**](../../../geo/i/141699/about.en.html "Surinam (all folders)") [**&uarr;**](../../../geo/about.en.html#E101 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141699,145074" title="about: Surinam : Forestry" target="_blank">19 documents</a>) ([folder](../../../../folder/sh/1416xx/141699/1450xx/145074/about.en.html))
 - E102 British Guiana [**&nearr;**](../../../geo/i/141700/about.en.html "British Guiana (all folders)") [**&uarr;**](../../../geo/about.en.html#E102 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141700,145074" title="about: British Guiana : Forestry" target="_blank">6 documents</a>) ([folder](../../../../folder/sh/1417xx/141700/1450xx/145074/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

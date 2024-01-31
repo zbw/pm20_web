@@ -1,6 +1,6 @@
 ---
 title: "g Sm14.I Stimmen und Stellung zu den deutschen Friedensdiktatbestimmungen (Versailles), Allgemein"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [g Sm14.I]{.gray}&#8201; Stimmen und Stellung zu den deutschen Friedensdiktatbestimmungen (Versailles), Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699685)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144585`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144585`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 2 Mappen, 11 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 2 Mappen, 11 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -38,6 +39,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Australien und Ozeanien
 
 - D30 Australien [**&nearr;**](../../../geo/i/141621/about.de.html "Australien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#D30 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141621,144585" title="über: Australien : Stimmen und Stellung zu den deutschen Friedensdiktatbestimmungen (Versailles), Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141621/1445xx/144585/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

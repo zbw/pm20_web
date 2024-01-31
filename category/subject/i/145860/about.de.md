@@ -1,6 +1,6 @@
 ---
 title: "n Sm56 Gefangenenarbeit, Zwangsarbeit"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n Sm56]{.gray}&#8201; Gefangenenarbeit, Zwangsarbeit &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710380)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145860`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145860`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 4 Mappen, 12 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 4 Mappen, 12 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -43,6 +44,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Afrika
 
 - C60 Nigeria, einschl. Kamerun (brit.) [**&nearr;**](../../../geo/i/141409/about.de.html "Nigeria, einschl. Kamerun (brit.) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C60 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141409,145860" title="über: Nigeria, einschl. Kamerun (brit.) : Gefangenenarbeit, Zwangsarbeit" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141409/1458xx/145860/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

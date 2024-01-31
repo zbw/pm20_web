@@ -1,6 +1,6 @@
 ---
 title: "d Bevölkerung und Bevölkerungspolitik"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [d]{.gray}&#8201; Bevölkerung und Bevölkerungspolitik &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427842)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144221`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144221`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 41 Mappen, 898 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 40 Mappen, 898 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -35,7 +36,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144221" title="über: Europa : Bevölkerung und Bevölkerungspolitik" target="_blank">20 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1442xx/144221/about.de.html))
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,144221" title="über: Südosteuropa : Bevölkerung und Bevölkerungspolitik" target="_blank">24 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1442xx/144221/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144221" title="über: Hamburg : Bevölkerung und Bevölkerungspolitik" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1442xx/144221/about.de.html))
 - A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,144221" title="über: Deutschland : Bevölkerung und Bevölkerungspolitik" target="_blank">223 Dokumente</a>) ([Mappe](../../../../folder/sh/1261xx/126128/1442xx/144221/about.de.html))
 - A11 Deutsche Kolonien [**&nearr;**](../../../geo/i/140960/about.de.html "Deutsche Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A11 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140960,144221" title="über: Deutsche Kolonien : Bevölkerung und Bevölkerungspolitik" target="_blank">21 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140960/1442xx/144221/about.de.html))
 - A40 Österreich-Ungarn [**&nearr;**](../../../geo/i/126127/about.de.html "Österreich-Ungarn (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126127,144221" title="über: Österreich-Ungarn : Bevölkerung und Bevölkerungspolitik" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/sh/1261xx/126127/1442xx/144221/about.de.html))
@@ -89,6 +89,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Polargebiete
 
 - F10 Arktis [**&nearr;**](../../../geo/i/141702/about.de.html "Arktis (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#F10 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141702,144221" title="über: Arktis : Bevölkerung und Bevölkerungspolitik" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1417xx/141702/1442xx/144221/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

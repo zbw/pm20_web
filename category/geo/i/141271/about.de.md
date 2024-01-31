@@ -1,6 +1,6 @@
 ---
 title: "B110 Weihaiwei"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [B110]{.gray}&#8201; Weihaiwei &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q15939896)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141271`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141271`</div>
 
 <div class="hint">
 Scope Note: 1898 an England verpachtet, bis 30.9.1930, dann China (B 94),
@@ -20,14 +20,17 @@ Scope Note: 1898 an England verpachtet, bis 30.9.1930, dann China (B 94),
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
 
 
 
 
 
 
-Insgesamt 10 Mappen, 65 Dokumente - Mappen komplett.
+
+
+
+Insgesamt 10 Mappen, 65 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -60,6 +63,14 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - n2 Berichte über die wirtschaftliche Lage [**&nearr;**](../../../subject/i/144972/about.de.html "Berichte über die wirtschaftliche Lage (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n2 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141271,144972" title="über: Weihaiwei : Berichte über die wirtschaftliche Lage" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141271/1449xx/144972/about.de.html))
 - n18 Handel [**&nearr;**](../../../subject/i/145262/about.de.html "Handel (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n18 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141271,145262" title="über: Weihaiwei : Handel" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141271/1452xx/145262/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
 
 
 

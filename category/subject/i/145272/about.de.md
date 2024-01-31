@@ -1,6 +1,6 @@
 ---
 title: "n18 Sm9 Handel, Unlauterer Wettbewerb"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n18 Sm9]{.gray}&#8201; Handel, Unlauterer Wettbewerb &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710931)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145272`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145272`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 2 Mappen, 13 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 2 Mappen, 13 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -38,6 +39,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Asien
 
 - B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141272,145272" title="über: Japan : Handel, Unlauterer Wettbewerb" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141272/1452xx/145272/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

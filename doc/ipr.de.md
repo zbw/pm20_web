@@ -22,6 +22,7 @@ Werke, die vor dem 1.1.1925 veröffentlicht wurden, sind in der Public Domain (d
 
 ### Zusammenfassende Darstellungen Deutschland / Europäische Union
 
+* [Deutsche Digitale Bibliothek: Die Digitalisierung nicht verfügbarer Werke](https://pro.deutsche-digitale-bibliothek.de/daten-liefern/teilnahmekriterien/rechtliches/digitalisierung-noch-urheberrechtlich-geschuetzter-materialien)
 * [David Pachali: Neues Urheberrecht für Bildung und Wissenschaft: Das gilt ab dem 1. März](https://irights.info/artikel/urhwissg-tritt-in-kraft/28994), iRIGHTS info, 1.3.2018
 * [André Schüller-Zwierlein, Barbara Leiwesmeyer (UB Regensburg): Neuerungen im Urheberrecht. Stand und Perspektiven](https://www.uni-regensburg.de/bibliothek/medien/pdf/urheberrecht_neuerungen.pdf) (Foliensatz 2017)
 

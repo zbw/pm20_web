@@ -1,6 +1,6 @@
 ---
 title: "Bamboo"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Bamboo &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q670887) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Bamboo)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142035`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142035`</div>
 
 
 
@@ -18,13 +18,15 @@ fn-stub: about
 
 
 
-## Commodities/wares archives
+## Commodities/wares archives folders
 
 
 
 
 
-In total 35 folders, 133 documents - folders complete.
+
+
+In total 35 folders, 133 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -76,6 +78,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - E70 Costa Rica [**&nearr;**](../../../geo/i/141683/about.en.html "Costa Rica (all folders)") [**&uarr;**](../../../geo/about.en.html#E70 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142035,141683" title="about: Bamboo : Costa Rica" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142035/1416xx/141683/about.en.html))
 - E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142035,141692" title="about: Bamboo : Argentina" target="_blank">5 documents</a>) ([folder](../../../../folder/wa/1420xx/142035/1416xx/141692/about.en.html))
 - E102 British Guiana [**&nearr;**](../../../geo/i/141700/about.en.html "British Guiana (all folders)") [**&uarr;**](../../../geo/about.en.html#E102 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142035,141700" title="about: Bamboo : British Guiana" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142035/1417xx/141700/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

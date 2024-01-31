@@ -1,6 +1,6 @@
 ---
 title: "B64 Java und Madura"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -8,9 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B64]{.gray}&#8201; Java und Madura
+# [B64]{.gray}&#8201; Java und Madura &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q97059002)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141220`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141220`</div>
 
 <div class="hint">
 Scope Note: Indonesischen Inseln. Die langgestreckte Insel Madura verläuft nördlich entlang des östlichen Teils der indonesischen Hauptinsel Java.
@@ -20,7 +20,7 @@ Scope Note: Indonesischen Inseln. Die langgestreckte Insel Madura verläuft nör
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
@@ -29,8 +29,12 @@ Scope Note: Indonesischen Inseln. Die langgestreckte Insel Madura verläuft nör
 
 
 
-Insgesamt 4 Mappen, 10 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+Insgesamt 4 Mappen (bis 1949), 10 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

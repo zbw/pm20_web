@@ -1,6 +1,6 @@
 ---
 title: "A6 Southeastern Europe"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,18 +10,18 @@ fn-stub: about
 
 # [A6]{.gray}&#8201; Southeastern Europe &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q263686) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Southeast_Europe)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140900`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/140900`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
+[Subject archives](#subject-archives-folders) &#160; [Commodities/wares archives](#commoditieswares-archives-folders)
 
 
 
 
-## Subject archives
+## Subject archives folders
 
 
 
@@ -29,7 +29,10 @@ fn-stub: about
 
 
 
-In total 190 folders, 4300 documents - folders complete.
+
+
+
+In total 185 folders, 4300 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -187,7 +190,6 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
   - n5 Sm2.I Livestock disease, general [**&nearr;**](../../../subject/i/145071/about.en.html "Livestock disease, general (all over the world)") [**&uarr;**](../../../subject/about.en.html#n5_Sm2.I "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145071" title="about: Southeastern Europe : Livestock disease, general" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1450xx/145071/about.en.html))
   - n5 Sm20 Livestock farming, conferences [**&nearr;**](../../../subject/i/152137/about.en.html "Livestock farming, conferences (all over the world)") [**&uarr;**](../../../subject/about.en.html#n5_Sm20 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,152137" title="about: Southeastern Europe : Livestock farming, conferences" target="_blank">5 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1521xx/152137/about.en.html))
 - n9 Forestry [**&nearr;**](../../../subject/i/145074/about.en.html "Forestry (all over the world)") [**&uarr;**](../../../subject/about.en.html#n9 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145074" title="about: Southeastern Europe : Forestry" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1450xx/145074/about.en.html))
-- n10 Hunting [**&nearr;**](../../../subject/i/145075/about.en.html "Hunting (all over the world)") [**&uarr;**](../../../subject/about.en.html#n10 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145075" title="about: Southeastern Europe : Hunting" target="_blank">0 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1450xx/145075/about.en.html))
 - n11 Fishery [**&nearr;**](../../../subject/i/145076/about.en.html "Fishery (all over the world)") [**&uarr;**](../../../subject/about.en.html#n11 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145076" title="about: Southeastern Europe : Fishery" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1450xx/145076/about.en.html))
 - n12 Mining [**&nearr;**](../../../subject/i/145083/about.en.html "Mining (all over the world)") [**&uarr;**](../../../subject/about.en.html#n12 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145083" title="about: Southeastern Europe : Mining" target="_blank">7 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1450xx/145083/about.en.html))
   - n12 Sm8.I Foreign rights and equity interests in mining, general [**&nearr;**](../../../subject/i/145091/about.en.html "Foreign rights and equity interests in mining, general (all over the world)") [**&uarr;**](../../../subject/about.en.html#n12_Sm8.I "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145091" title="about: Southeastern Europe : Foreign rights and equity interests in mining, general" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1450xx/145091/about.en.html))
@@ -196,18 +198,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
   - n13 Sm12.II Integration with foreign industry, individual countries [**&nearr;**](../../../subject/i/145112/about.en.html "Integration with foreign industry, individual countries (all over the world)") [**&uarr;**](../../../subject/about.en.html#n13_Sm12.II "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145112" title="about: Southeastern Europe : Integration with foreign industry, individual countries" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1451xx/145112/about.en.html))
 - [n13a Individual branches of industry]{.gray}
   - n13a Sm1 Chemical industry [**&nearr;**](../../../subject/i/145117/about.en.html "Chemical industry (all over the world)") [**&uarr;**](../../../subject/about.en.html#n13a_Sm1 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145117" title="about: Southeastern Europe : Chemical industry" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1451xx/145117/about.en.html))
-  - n13a Sm2 Mining industry [**&nearr;**](../../../subject/i/145118/about.en.html "Mining industry (all over the world)") [**&uarr;**](../../../subject/about.en.html#n13a_Sm2 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145118" title="about: Southeastern Europe : Mining industry" target="_blank">0 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1451xx/145118/about.en.html))
   - n13a Sm3 Textile industry [**&nearr;**](../../../subject/i/145119/about.en.html "Textile industry (all over the world)") [**&uarr;**](../../../subject/about.en.html#n13a_Sm3 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145119" title="about: Southeastern Europe : Textile industry" target="_blank">5 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1451xx/145119/about.en.html))
   - n13a Sm4 Electric power industry [**&nearr;**](../../../subject/i/145120/about.en.html "Electric power industry (all over the world)") [**&uarr;**](../../../subject/about.en.html#n13a_Sm4 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145120" title="about: Southeastern Europe : Electric power industry" target="_blank">12 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1451xx/145120/about.en.html))
   - n13a Sm5 Hydropower industry [**&nearr;**](../../../subject/i/145121/about.en.html "Hydropower industry (all over the world)") [**&uarr;**](../../../subject/about.en.html#n13a_Sm5 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145121" title="about: Southeastern Europe : Hydropower industry" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1451xx/145121/about.en.html))
 - n14 Crafts and trades [**&nearr;**](../../../subject/i/145135/about.en.html "Crafts and trades (all over the world)") [**&uarr;**](../../../subject/about.en.html#n14 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145135" title="about: Southeastern Europe : Crafts and trades" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1451xx/145135/about.en.html))
 - n15 Labor question, labor relations [**&nearr;**](../../../subject/i/145155/about.en.html "Labor question, labor relations (all over the world)") [**&uarr;**](../../../subject/about.en.html#n15 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145155" title="about: Southeastern Europe : Labor question, labor relations" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1451xx/145155/about.en.html))
-  - n15 Sm5 Women workers, general [**&nearr;**](../../../subject/i/145166/about.en.html "Women workers, general (all over the world)") [**&uarr;**](../../../subject/about.en.html#n15_Sm5 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145166" title="about: Southeastern Europe : Women workers, general" target="_blank">0 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1451xx/145166/about.en.html))
   - n15 Sm7.II Labor contracts, wages [**&nearr;**](../../../subject/i/145169/about.en.html "Labor contracts, wages (all over the world)") [**&uarr;**](../../../subject/about.en.html#n15_Sm7.II "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145169" title="about: Southeastern Europe : Labor contracts, wages" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1451xx/145169/about.en.html))
 - n16 Trade unions, workers' organizations, general [**&nearr;**](../../../subject/i/145239/about.en.html "Trade unions, workers' organizations, general (all over the world)") [**&uarr;**](../../../subject/about.en.html#n16 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145239" title="about: Southeastern Europe : Trade unions, workers' organizations, general" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1452xx/145239/about.en.html))
 - n17 Construction and housing [**&nearr;**](../../../subject/i/145250/about.en.html "Construction and housing (all over the world)") [**&uarr;**](../../../subject/about.en.html#n17 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145250" title="about: Southeastern Europe : Construction and housing" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1452xx/145250/about.en.html))
 - n18 Trade and commerce [**&nearr;**](../../../subject/i/145262/about.en.html "Trade and commerce (all over the world)") [**&uarr;**](../../../subject/about.en.html#n18 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145262" title="about: Southeastern Europe : Trade and commerce" target="_blank">48 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1452xx/145262/about.en.html))
-  - n18 Sm4 Sales opportunities in trade [**&nearr;**](../../../subject/i/145266/about.en.html "Sales opportunities in trade (all over the world)") [**&uarr;**](../../../subject/about.en.html#n18_Sm4 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145266" title="about: Southeastern Europe : Sales opportunities in trade" target="_blank">0 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1452xx/145266/about.en.html))
   - n18 Sm6.I Practices and regulations in trade, trading methods, general [**&nearr;**](../../../subject/i/145268/about.en.html "Practices and regulations in trade, trading methods, general (all over the world)") [**&uarr;**](../../../subject/about.en.html#n18_Sm6.I "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145268" title="about: Southeastern Europe : Practices and regulations in trade, trading methods, general" target="_blank">5 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1452xx/145268/about.en.html))
   - n18 Sm12 Business register, general [**&nearr;**](../../../subject/i/145274/about.en.html "Business register, general (all over the world)") [**&uarr;**](../../../subject/about.en.html#n18_Sm12 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145274" title="about: Southeastern Europe : Business register, general" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1452xx/145274/about.en.html))
 - n19 Trade relations with individual countries [**&nearr;**](../../../subject/i/145289/about.en.html "Trade relations with individual countries (all over the world)") [**&uarr;**](../../../subject/about.en.html#n19 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145289" title="about: Southeastern Europe : Trade relations with individual countries" target="_blank">256 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1452xx/145289/about.en.html))
@@ -257,7 +256,6 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - [n37a Individual branches of insurance]{.gray}
   - n37a Sm2.I Social insurance, general [**&nearr;**](../../../subject/i/145733/about.en.html "Social insurance, general (all over the world)") [**&uarr;**](../../../subject/about.en.html#n37a_Sm2.I "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145733" title="about: Southeastern Europe : Social insurance, general" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1457xx/145733/about.en.html))
   - n37a Sm9 Reinsurance [**&nearr;**](../../../subject/i/145744/about.en.html "Reinsurance (all over the world)") [**&uarr;**](../../../subject/about.en.html#n37a_Sm9 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145744" title="about: Southeastern Europe : Reinsurance" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1457xx/145744/about.en.html))
-  - n37a Sm13 Credit insurance [**&nearr;**](../../../subject/i/145748/about.en.html "Credit insurance (all over the world)") [**&uarr;**](../../../subject/about.en.html#n37a_Sm13 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145748" title="about: Southeastern Europe : Credit insurance" target="_blank">0 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1457xx/145748/about.en.html))
 
 ### Foreigners and individual minorities
 
@@ -279,11 +277,28 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
+<a id="filmsections" />
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 497</p>
 
 
 
 
-## Commodities/wares archives
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2025H/1010" rel="nofollow">Images on film h2/sh/S2025H/1010</a> | Südosteuropa
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2026H" rel="nofollow">Images on film h2/sh/S2026H</a> | Filmanfang: Südosteuropa : Politische Beziehungen zu einzelnen Ländern [A6 g1]
+
+
+:::
 
 
 
@@ -293,8 +308,27 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
-In total 5 folders, 32 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_wa.de.html) (in German).
+
+
+
+
+
+## Commodities/wares archives folders
+
+
+
+
+
+
+
+
+
+
+
+In total 5 folders (until 1949), 32 documents
+- folders incomplete.  For material not published as folders, please check the
+digitized micro-films of the [1st filming](/film/h1_wa.de.html) and [2nd
+filming](/film/h2_wa.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 

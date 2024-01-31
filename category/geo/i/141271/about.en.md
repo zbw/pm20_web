@@ -1,6 +1,6 @@
 ---
 title: "B110 Weihaiwei under British rule"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [B110]{.gray}&#8201; Weihaiwei under British rule &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q15939896) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/British_Weihaiwei)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141271`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141271`</div>
 
 
 
@@ -18,7 +18,7 @@ fn-stub: about
 
 
 
-## Subject archives
+## Subject archives folders
 
 
 
@@ -26,7 +26,10 @@ fn-stub: about
 
 
 
-In total 10 folders, 65 documents - folders complete.
+
+
+
+In total 10 folders, 65 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -58,6 +61,14 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 - n2 Report on the economic situation [**&nearr;**](../../../subject/i/144972/about.en.html "Report on the economic situation (all over the world)") [**&uarr;**](../../../subject/about.en.html#n2 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141271,144972" title="about: Weihaiwei under British rule : Report on the economic situation" target="_blank">7 documents</a>) ([folder](../../../../folder/sh/1412xx/141271/1449xx/144972/about.en.html))
 - n18 Trade and commerce [**&nearr;**](../../../subject/i/145262/about.en.html "Trade and commerce (all over the world)") [**&uarr;**](../../../subject/about.en.html#n18 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141271,145262" title="about: Weihaiwei under British rule : Trade and commerce" target="_blank">4 documents</a>) ([folder](../../../../folder/sh/1412xx/141271/1452xx/145262/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
 
 
 

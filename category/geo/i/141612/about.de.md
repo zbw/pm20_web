@@ -1,6 +1,6 @@
 ---
 title: "D12 Kaiser-Wilhelmsland"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [D12]{.gray}&#8201; Kaiser-Wilhelmsland &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q691017) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Kaiser-Wilhelms-Land)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141612`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141612`</div>
 
 <div class="hint">
 Scope Note: nordöstliche Teil der Insel Neuguinea
@@ -20,14 +20,17 @@ Scope Note: nordöstliche Teil der Insel Neuguinea
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
 
 
 
 
 
 
-Insgesamt 21 Mappen, 78 Dokumente - Mappen komplett.
+
+
+
+Insgesamt 21 Mappen, 78 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -79,6 +82,14 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - n12 Bergbau [**&nearr;**](../../../subject/i/145083/about.de.html "Bergbau (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n12 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141612,145083" title="über: Kaiser-Wilhelmsland : Bergbau" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141612/1450xx/145083/about.de.html))
 - n26 Wirtschaftliche Interessenvertretungen, Wirtschaftskammern, Berufsstände [**&nearr;**](../../../subject/i/145491/about.de.html "Wirtschaftliche Interessenvertretungen, Wirtschaftskammern, Berufsstände (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n26 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141612,145491" title="über: Kaiser-Wilhelmsland : Wirtschaftliche Interessenvertretungen, Wirtschaftskammern, Berufsstände" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141612/1454xx/145491/about.de.html))
 - n34 Postwesen, Telegraphenwesen und Fernsprechwesen [**&nearr;**](../../../subject/i/145662/about.de.html "Postwesen, Telegraphenwesen und Fernsprechwesen (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n34 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141612,145662" title="über: Kaiser-Wilhelmsland : Postwesen, Telegraphenwesen und Fernsprechwesen" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141612/1456xx/145662/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
 
 
 

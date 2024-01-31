@@ -30,46 +30,76 @@
   </span>
 </div>
 </header>
-<h1 id="metadata-structures-for-films-and-film-images">Metadata structures for films and film images</h1>
-<p>The primary purpose of the data structures described below is to allow for publication of selected articles - technically sections of film images -, after their intellectual property status had be checked.</p>
+<h1 id="metadata-structures-for-films-and-film-images">Metadata
+structures for films and film images</h1>
+<p>The primary purpose of the data structures described below is to
+allow for publication of selected articles - technically sections of
+film images -, after their intellectual property status had be checked.
+An <a href="/film/public_section.h1_sh.en.html">overview page</a> of
+such public sections in the countries-subjects archive (first filming)
+is available.</p>
 <h2 id="films">Films</h2>
 <ul>
-<li>File <code>checked.yaml</code> in a film directory lists sections of the film which can published, because every image had been checked for intellectual property issues
+<li>File <code>checked.yaml</code> in a film directory lists sections of
+the film which can be published, because every image had been checked
+for intellectual property issues. It contains (possibly multiple)
+sections, and per section:
 <ul>
-<li>contains (possibly multiple) sections, per section:</li>
-<li><code>title_en</code>, <code>title_de</code>: short title for the section (optional, free format)</li>
-<li><code>start</code>, <code>end</code>: first and last image checked for copyright issues (mandatory)</li>
-<li><code>checked_by</code>, <code>checked_date</code>: who has done the checking, and when (mandatory)</li>
+<li><code>title_en</code>, <code>title_de</code>: short title for the
+section (optional, free format)</li>
+<li><code>start</code>, <code>end</code>: first and last image checked
+for copyright issues (mandatory)</li>
+<li><code>checked_by</code>, <code>checked_date</code>: who has done the
+checking, and when (mandatory)</li>
 <li><a href="../../film/h1/sh/S0292H/checked.yaml">example</a></li>
 </ul></li>
-<li>for each article with a named text and/or image author, create lock and/or meta files for each page</li>
+<li>for each article with a named text and/or image author, create lock
+and/or meta files for each page</li>
 </ul>
 <h2 id="film-images">Film images</h2>
 <ul>
-<li>File <code>{image_name}.locked.txt</code> indicates that the image contains an article with a named text or image author, who is either not identified, whose death date is unknown, or whose death was less than 70 years ago. <em>Each page (image) with such an article has to be locked.</em> The file is created manually, it cannot be replaced automatically.</li>
-<li>File <code>{image_name}.meta.yaml</code> contains metadata fields about the image
+<li>File <code>{image_name}.locked.txt</code> (may be empty, e.g.,
+S04151039H.locked.txt)indicates that the image contains an article with
+a named text or image author, who is either not identified, whose death
+date is unknown, or whose death was less than 70 years ago. <em>Each
+page (image) with such an article has to be locked.</em> The file is
+created manually, it cannot be replaced automatically.</li>
+<li>File <code>{image_name}.meta.yaml</code> contains metadata fields
+about the image
 <ul>
 <li><code>date</code>: publication date</li>
-<li><code>author</code>: in case of an identified author, QID of the author’s Wikidata item. If the item has a death date, that could be evaluated in order to remove the lock file when the IPR has expired</li>
+<li><code>author</code>: in case of an identified author, QID of the
+author’s Wikidata item. If the item has a death date, that could be
+evaluated in order to remove the lock file when the IPR has expired</li>
 <li><code>title</code>: title of the article</li>
-<li><code>publication</code>: in case of an identified publication QID of the publication’s Wikidata item</li>
+<li><code>publication</code>: in case of an identified publication QID
+of the publication’s Wikidata item</li>
 <li><code>pos</code>: position on the page L=left, R=right</li>
-<li><a href="../../film/h1/sh/S0292H/S02920681H.meta.yaml">example 1</a> (<a href="../../film/h1/sh/S0292H/0681">image</a>), <a href="../../film/h1/sh/S0449H/S04491187H.meta.yaml">example 2 (locked)</a> (<a href="../../film/h1/sh/S0449H/1187">image</a>)</li>
-<li>the file may describe more than one article, and one article may stretch across multiple pages</li>
-<li>for meta files of follow-up pages of an article, symlinks may be used</li>
-<li>see also structure of <a href="annotation">annotations for <em>articles</em></a></li>
+<li><a href="../../film/h1/sh/S0292H/S02920681H.meta.yaml">example 1</a>
+(<a href="../../film/h1/sh/S0292H/0681">image</a>), <a
+href="../../film/h1/sh/S0449H/S04491187H.meta.yaml">example 2
+(locked)</a> (<a href="../../film/h1/sh/S0449H/1187">image</a>)</li>
+<li>the file may describe more than one article, and one article may
+stretch across multiple pages</li>
+<li>for meta files of follow-up pages of an article, symlinks may be
+used</li>
+<li>see also structure of <a href="annotation">annotations for
+<em>articles</em></a></li>
 </ul></li>
 </ul>
 <h2 id="input-files-and-worksflow">Input files and worksflow</h2>
-<h3 id="small-sections-working-ad-hoc-workflow">Small sections (working ad-hoc workflow)</h3>
+<h3 id="small-sections-working-ad-hoc-workflow">Small sections (working
+ad-hoc workflow)</h3>
 <ul>
 <li>Create or edit a <code>checked.yaml</code> the film directory</li>
 </ul>
 <pre><code>    cd {film_directory}
     cp ../../../checked.yaml .</code></pre>
 <ul>
-<li>Fill in <code>checked.yaml</code> (set title for the section, identify first and last image, etc.)</li>
-<li><a href="../ipr">Check images for intellectual property rights</a> and create a lock file for every dubious image file</li>
+<li>Fill in <code>checked.yaml</code> (set title for the section,
+identify first and last image, etc.)</li>
+<li><a href="../ipr">Check images for intellectual property rights</a>
+and create a lock file for every dubious image file</li>
 </ul>
 <pre><code>    touch {image_name}.locked.txt</code></pre>
 <ul>
@@ -77,21 +107,30 @@
 </ul>
 <pre><code>    cp ../../meta.yaml {image_name}.meta.yaml</code></pre>
 <ul>
-<li>Execute <code>bin/public_film_sections.sh</code></li>
+<li>Execute <code>bin/public_film_sections.sh</code>. This also creates
+the <a href="/film/public_section.h1_sh.en.html">overview page</a> for
+public film sections (as markdown page).</li>
 </ul>
 <h3 id="massive-amounts-draft">Massive amounts (draft)</h3>
 <ul>
 <li>Files
 <ul>
-<li>per film, create a <code>checked_yaml</code> (from csv or yaml template), with fields film_id, section_no, title_de, title_en, checked_by, checked_date</li>
-<li>create a csv file with, for each image of a film_id, image_id (as link), is_locked (defaults true), pos, author, date, publication, title</li>
+<li>per film, create a <code>checked_yaml</code> (from csv or yaml
+template), with fields film_id, section_no, title_de, title_en,
+checked_by, checked_date</li>
+<li>create a csv file with, for each image of a film_id, image_id (as
+link), is_locked (defaults true), pos, author, date, publication,
+title</li>
 </ul></li>
 <li>Workflow
 <ul>
 <li>user sets the fields for checked.yaml</li>
-<li>in csv, user fills in section number(s) and optionally removes all lines not needed for sections (optional)</li>
-<li>user checks the rights status for every image, removes is_locked</li>
-<li>optional: user fills in author and other fields (make pos required in that case)</li>
+<li>in csv, user fills in section number(s) and optionally removes all
+lines not needed for sections (optional)</li>
+<li>user checks the rights status for every image, removes
+is_locked</li>
+<li>optional: user fills in author and other fields (make pos required
+in that case)</li>
 </ul></li>
 <li>Verification
 <ul>
@@ -99,11 +138,12 @@
 <li>matching and ascending section numbers</li>
 <li>pos set for locked and annotated images</li>
 </ul></li>
-<li>Alternatively, set annotations completely with an external software plus custom script.</li>
+<li>Alternatively, set annotations completely with an external software
+plus custom script.</li>
 </ul>
 <footer>
   <p><a href="../about">back to Dokumentation / Documentation</a></p>
-<p><a href="&#109;&#97;ilto&#58;p%72essema%70pe&#50;0&#64;&#37;&#55;Ab%77&#46;eu?subject=Feedback%20about%20PM20%20Metadata structures for films and film images&body=%0D%0A%0D%0A%0D%0A---%0D%0Ahttps://pm20.zbw.eu/doc/tech/film_meta.en.html">Feedback</a> &nbsp;
+<p><a href="&#109;&#97;ilto&#58;pr%&#54;5&#37;73%73%6&#53;&#109;&#97;ppe20&#64;z&#37;62%77-onli%6Ee%&#50;Ee&#117;?subject=Feedback%20about%20PM20%20Metadata structures for films and film images&body=%0D%0A%0D%0A%0D%0A---%0D%0Ahttps://pm20.zbw.eu/doc/tech/film_meta.en.html">Feedback</a> &nbsp;
 <a href="/about-pm20/legal.en.html">Legal</a> &nbsp;
 <a href="https://www.zbw.eu/en/imprint/">Imprint</a> &nbsp; <a href="https://www.zbw.eu/en/data-protection/">Data protection</a> &nbsp;
 All metadata under <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a> license</p>

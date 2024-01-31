@@ -1,6 +1,6 @@
 ---
 title: "n30 Sm3 Railways, tariffs"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n30 Sm3]{.gray}&#8201; Railways, tariffs &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711129)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145534`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145534`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 18 folders, 235 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 18 folders, 236 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -36,7 +37,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A1 Europe [**&nearr;**](../../../geo/i/140892/about.en.html "Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A1 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145534" title="about: Europe : Railways, tariffs" target="_blank">47 documents</a>) ([folder](../../../../folder/sh/1408xx/140892/1455xx/145534/about.en.html))
 - A3 Eastern Europe [**&nearr;**](../../../geo/i/140896/about.en.html "Eastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A3 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140896,145534" title="about: Eastern Europe : Railways, tariffs" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1408xx/140896/1455xx/145534/about.en.html))
 - A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145534" title="about: Southeastern Europe : Railways, tariffs" target="_blank">15 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1455xx/145534/about.en.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145534" title="about: Hamburg : Railways, tariffs" target="_blank">0 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1455xx/145534/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145534" title="about: Hamburg : Railways, tariffs" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1455xx/145534/about.en.html))
 - A10p East Upper Silesia [**&nearr;**](../../../geo/i/140951/about.en.html "East Upper Silesia (all folders)") [**&uarr;**](../../../geo/about.en.html#A10p "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140951,145534" title="about: East Upper Silesia : Railways, tariffs" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1409xx/140951/1455xx/145534/about.en.html))
 
 ### Asia
@@ -60,6 +61,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### America
 
 - E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145534" title="about: Argentina : Railways, tariffs" target="_blank">34 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1455xx/145534/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

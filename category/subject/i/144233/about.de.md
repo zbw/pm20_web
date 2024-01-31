@@ -1,6 +1,6 @@
 ---
 title: "d5 Soziale Zustände, Soziale Lage"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [d5]{.gray}&#8201; Soziale Zustände, Soziale Lage &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427848)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144233`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144233`</div>
 
 
 
@@ -18,19 +18,20 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 31 Mappen, 392 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 31 Mappen, 393 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
 
 
-- A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144233" title="über: Europa : Soziale Zustände, Soziale Lage" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1442xx/144233/about.de.html))
+- A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144233" title="über: Europa : Soziale Zustände, Soziale Lage" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1442xx/144233/about.de.html))
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,144233" title="über: Südosteuropa : Soziale Zustände, Soziale Lage" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1442xx/144233/about.de.html))
 - A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,144233" title="über: Orient : Soziale Zustände, Soziale Lage" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1442xx/144233/about.de.html))
 - A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144233" title="über: Hamburg : Soziale Zustände, Soziale Lage" target="_blank">38 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1442xx/144233/about.de.html))
@@ -73,6 +74,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144233" title="über: Argentinien : Soziale Zustände, Soziale Lage" target="_blank">18 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1442xx/144233/about.de.html))
 - E95 Uruguay [**&nearr;**](../../../geo/i/141695/about.de.html "Uruguay (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E95 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141695,144233" title="über: Uruguay : Soziale Zustände, Soziale Lage" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141695/1442xx/144233/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

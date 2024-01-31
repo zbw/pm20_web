@@ -1,6 +1,6 @@
 ---
 title: "g4 Sm3.I State Business propaganda, general"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [g4 Sm3.I]{.gray}&#8201; State Business propaganda, general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700004)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144482`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144482`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 10 folders, 130 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 10 folders, 134 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -36,7 +37,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A1 Europe [**&nearr;**](../../../geo/i/140892/about.en.html "Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A1 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144482" title="about: Europe : State Business propaganda, general" target="_blank">23 documents</a>) ([folder](../../../../folder/sh/1408xx/140892/1444xx/144482/about.en.html))
 - A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,144482" title="about: Southeastern Europe : State Business propaganda, general" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1444xx/144482/about.en.html))
 - A8 Russian peripheral countries [**&nearr;**](../../../geo/i/140904/about.en.html "Russian peripheral countries (all folders)") [**&uarr;**](../../../geo/about.en.html#A8 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140904,144482" title="about: Russian peripheral countries : State Business propaganda, general" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1409xx/140904/1444xx/144482/about.en.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144482" title="about: Hamburg : State Business propaganda, general" target="_blank">13 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1444xx/144482/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144482" title="about: Hamburg : State Business propaganda, general" target="_blank">17 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1444xx/144482/about.en.html))
 
 ### Asia
 
@@ -52,6 +53,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### Australia and Oceania
 
 - D30 Australia [**&nearr;**](../../../geo/i/141621/about.en.html "Australia (all folders)") [**&uarr;**](../../../geo/about.en.html#D30 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141621,144482" title="about: Australia : State Business propaganda, general" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1416xx/141621/1444xx/144482/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

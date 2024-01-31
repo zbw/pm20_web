@@ -1,6 +1,6 @@
 ---
 title: "c Sm20 Country studies, conferences"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [c Sm20]{.gray}&#8201; Country studies, conferences &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699233)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/182723`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/182723`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 4 folders, 26 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 4 folders, 28 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -33,7 +34,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,182723" title="about: Germany : Country studies, conferences" target="_blank">6 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1827xx/182723/about.en.html))
+- A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,182723" title="about: Germany : Country studies, conferences" target="_blank">8 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1827xx/182723/about.en.html))
 
 ### America
 
@@ -46,6 +47,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### World
 
 - H World [**&nearr;**](../../../geo/i/141728/about.en.html "World (all folders)") [**&uarr;**](../../../geo/about.en.html#H "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141728,182723" title="about: World : Country studies, conferences" target="_blank">5 documents</a>) ([folder](../../../../folder/sh/1417xx/141728/1827xx/182723/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

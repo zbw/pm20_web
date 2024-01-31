@@ -1,6 +1,6 @@
 ---
 title: "A5a Mediterranean region"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [A5a]{.gray}&#8201; Mediterranean region &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q72499) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Mediterranean_Basin)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140899`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/140899`</div>
 
 
 
@@ -18,7 +18,7 @@ fn-stub: about
 
 
 
-## Subject archives
+## Subject archives folders
 
 
 
@@ -26,7 +26,10 @@ fn-stub: about
 
 
 
-In total 28 folders, 180 documents - folders complete.
+
+
+
+In total 28 folders, 180 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -78,6 +81,37 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - [n37a Individual branches of insurance]{.gray}
   - n37a Sm5.II Transport insurance, water transport insurance [**&nearr;**](../../../subject/i/145738/about.en.html "Transport insurance, water transport insurance (all over the world)") [**&uarr;**](../../../subject/about.en.html#n37a_Sm5.II "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140899,145738" title="about: Mediterranean region : Transport insurance, water transport insurance" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1408xx/140899/1457xx/145738/about.en.html))
   - n37a Sm7 (alt) Air damage insurance [**&nearr;**](../../../subject/i/145742/about.en.html "Air damage insurance (all over the world)") [**&uarr;**](../../../subject/about.en.html#n37a_Sm7_(alt) "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140899,145742" title="about: Mediterranean region : Air damage insurance" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1408xx/140899/1457xx/145742/about.en.html))
+
+
+
+<a id="filmsections" />
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 224</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2025H/0786" rel="nofollow">Images on film h2/sh/S2025H/0786</a> | Mittelmeerländer
+
+
+:::
+
+
+
+
+
+
+
 
 
 

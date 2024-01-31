@@ -1,6 +1,6 @@
 ---
 title: "q Sm2 Handel und Versorgung mit Waffen, Munition und sonst. Kriegsmaterial"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [q Sm2]{.gray}&#8201; Handel und Versorgung mit Waffen, Munition und sonst. Kriegsmaterial &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711370)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/160420`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/160420`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 12 Mappen, 75 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 12 Mappen, 75 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -51,6 +52,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - C110 Deutsch-Ostafrika [**&nearr;**](../../../geo/i/141471/about.de.html "Deutsch-Ostafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C110 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141471,160420" title="über: Deutsch-Ostafrika : Handel und Versorgung mit Waffen, Munition und sonst. Kriegsmaterial" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141471/1604xx/160420/about.de.html))
 - C122 Französisch-Somaliland [**&nearr;**](../../../geo/i/141479/about.de.html "Französisch-Somaliland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C122 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141479,160420" title="über: Französisch-Somaliland : Handel und Versorgung mit Waffen, Munition und sonst. Kriegsmaterial" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141479/1604xx/160420/about.de.html))
 - C125 Abessinien [**&nearr;**](../../../geo/i/141482/about.de.html "Abessinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C125 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141482,160420" title="über: Abessinien : Handel und Versorgung mit Waffen, Munition und sonst. Kriegsmaterial" target="_blank">46 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141482/1604xx/160420/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

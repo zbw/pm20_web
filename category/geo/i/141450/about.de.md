@@ -1,6 +1,6 @@
 ---
 title: "C87 Deutsch-Südwestafrika"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,27 +10,30 @@ fn-stub: about
 
 # [C87]{.gray}&#8201; Deutsch-Südwestafrika &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q153665) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Deutsch-S%C3%BCdwestafrika)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141450`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141450`</div>
 
 <div class="hint">
 Scope Note: Deutsch Südwest Afrika (1884-1915), Südwestafrika (britisch, ab 1920 südafrikanisches Mandatsgebiet), Namibia (ab 1990)
 </div>
 
 
-[Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
 
 
 
 
 
 
-Insgesamt 225 Mappen, 6094 Dokumente - Mappen komplett.
+
+
+
+Insgesamt 225 Mappen, 6095 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -286,7 +289,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Fremdstämmige und einzelne Minderheiten
 
 - o1 Deutsche Minderheiten und Deutschtum [**&nearr;**](../../../subject/i/145909/about.de.html "Deutsche Minderheiten und Deutschtum (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#o1 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141450,145909" title="über: Deutsch-Südwestafrika : Deutsche Minderheiten und Deutschtum" target="_blank">30 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141450/1459xx/145909/about.de.html))
-  - o1 Sm500 Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145911/about.de.html "Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#o1_Sm500 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141450,145911" title="über: Deutsch-Südwestafrika : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">651 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141450/1459xx/145911/about.de.html))
+  - o1 Sm500 Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145911/about.de.html "Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum) (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#o1_Sm500 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141450,145911" title="über: Deutsch-Südwestafrika : Deutsche Minderheiten und Deutschtum (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">652 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141450/1459xx/145911/about.de.html))
 - o3 Minderheiten aus einzelnen Ländern [**&nearr;**](../../../subject/i/182220/about.de.html "Minderheiten aus einzelnen Ländern (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#o3 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141450,182220" title="über: Deutsch-Südwestafrika : Minderheiten aus einzelnen Ländern" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141450/1822xx/182220/about.de.html))
 
 ### Siedlung und Wanderung
@@ -314,11 +317,27 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 318</p>
 
 
 
 
-## Warenarchiv
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2714H/0375" rel="nofollow">Bilder auf Film h2/sh/S2714H/0375</a> | Deutsch-Südwestafrika
+
+
+:::
 
 
 
@@ -327,8 +346,27 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
-Insgesamt 8 Mappen, 56 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 8 Mappen (bis 1949), 56 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

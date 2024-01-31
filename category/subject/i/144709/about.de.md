@@ -1,6 +1,6 @@
 ---
 title: "i4 Eingeborenenrecht"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [i4]{.gray}&#8201; Eingeborenenrecht &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427903)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144709`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144709`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 12 Mappen, 109 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 12 Mappen, 109 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -54,6 +55,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Australien und Ozeanien
 
 - D10 Deutsch-Neuguinea [**&nearr;**](../../../geo/i/141601/about.de.html "Deutsch-Neuguinea (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#D10 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141601,144709" title="über: Deutsch-Neuguinea : Eingeborenenrecht" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141601/1447xx/144709/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

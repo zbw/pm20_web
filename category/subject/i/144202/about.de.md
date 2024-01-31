@@ -1,6 +1,6 @@
 ---
 title: "c2 Staatsgrenzen, politische Einteilung"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [c2]{.gray}&#8201; Staatsgrenzen, politische Einteilung &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427831)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144202`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144202`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 33 Mappen, 399 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 33 Mappen, 402 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -36,7 +37,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144202" title="über: Europa : Staatsgrenzen, politische Einteilung" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1442xx/144202/about.de.html))
 - A2 Mitteleuropa [**&nearr;**](../../../geo/i/140895/about.de.html "Mitteleuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A2 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140895,144202" title="über: Mitteleuropa : Staatsgrenzen, politische Einteilung" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140895/1442xx/144202/about.de.html))
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,144202" title="über: Südosteuropa : Staatsgrenzen, politische Einteilung" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1442xx/144202/about.de.html))
-- A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,144202" title="über: Deutschland : Staatsgrenzen, politische Einteilung" target="_blank">202 Dokumente</a>) ([Mappe](../../../../folder/sh/1261xx/126128/1442xx/144202/about.de.html))
+- A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,144202" title="über: Deutschland : Staatsgrenzen, politische Einteilung" target="_blank">205 Dokumente</a>) ([Mappe](../../../../folder/sh/1261xx/126128/1442xx/144202/about.de.html))
 - A11 Deutsche Kolonien [**&nearr;**](../../../geo/i/140960/about.de.html "Deutsche Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A11 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140960,144202" title="über: Deutsche Kolonien : Staatsgrenzen, politische Einteilung" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140960/1442xx/144202/about.de.html))
 - A12 Polen [**&nearr;**](../../../geo/i/140962/about.de.html "Polen (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A12 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140962,144202" title="über: Polen : Staatsgrenzen, politische Einteilung" target="_blank">53 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140962/1442xx/144202/about.de.html))
 
@@ -78,6 +79,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144202" title="über: Argentinien : Staatsgrenzen, politische Einteilung" target="_blank">25 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1442xx/144202/about.de.html))
 - E95 Uruguay [**&nearr;**](../../../geo/i/141695/about.de.html "Uruguay (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E95 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141695,144202" title="über: Uruguay : Staatsgrenzen, politische Einteilung" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141695/1442xx/144202/about.de.html))
 - E102 Britisch-Guayana [**&nearr;**](../../../geo/i/141700/about.de.html "Britisch-Guayana (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E102 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141700,144202" title="über: Britisch-Guayana : Staatsgrenzen, politische Einteilung" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1417xx/141700/1442xx/144202/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

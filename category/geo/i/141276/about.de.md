@@ -1,6 +1,6 @@
 ---
 title: "B115 Korea"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,18 +10,21 @@ fn-stub: about
 
 # [B115]{.gray}&#8201; Korea &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q18097) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Korea)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141276`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141276`</div>
 
 
 
 
-[Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
+
+
+
 
 
 
@@ -73,11 +76,99 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 503</p>
 
 
 
 
-## Warenarchiv
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1" rel="nofollow">Bilder auf Film h1/sh/S0763H_1</a> | Filmanfang: Korea : Geschichtliche Vorgänge [B115 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0002/R" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0002/R</a> | Korea : Geschichtliche Vorgänge 1900-1914
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0011/R" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0011/R</a> | Korea : Geschichtliche Vorgänge 1918-1939
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0100/R" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0100/R</a> | Korea : Geschichtliche Vorgänge 1939-1945 (2. Weltkrieg)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0102/R" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0102/R</a> | Korea : Antibolschewismus und Antikommunismus (-1945)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0114/R" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0114/R</a> | Korea : Parteiwesen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0116/R" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0116/R</a> | Korea : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0123/R" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0123/R</a> | Korea : Wirtschaftspolitische Beziehungen zu einzelnen Ländern. Mandschurei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0132/R" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0132/R</a> | Korea : Verwaltung, Allgemein - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0133/R" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0133/R</a> | Korea : Verwaltung, Allgemein
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0152/L" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0152/L</a> | Korea : Rechtspflege
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0155/R" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0155/R</a> | Korea : Wissenschaft und Bildungswesen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0158/L" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0158/L</a> | Korea : Militärwesen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0165/R" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0165/R</a> | Korea : Finanzwesen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0187/L" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0187/L</a> | Korea : Wirtschaft
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0200/R" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0200/R</a> | Korea : Wirtschaftspolitik
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0211/R" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0211/R</a> | Korea : Berichte über die wirtschaftliche Lage
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0260/R" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0260/R</a> | Korea : Bodenbesitzverhältnisse und Bodenpolitik, Hausbesitz
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0264/R" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0264/R</a> | Korea : Landwirtschaft
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0272/R" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0272/R</a> | Korea : Viehwirtschaft
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0273/L" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0273/L</a> | Korea : Bewässerung, Entwässerung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0274/L" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0274/L</a> | Korea : Forstwirtschaft
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0277/R" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0277/R</a> | Korea : Fischerei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0279/L" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0279/L</a> | Korea : Bergbau
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0299/R" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0299/R</a> | Korea : Industrie
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0322/R" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0322/R</a> | Korea : Einzelne Industriezweige
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0341/R" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0341/R</a> | Korea : Arbeiterfrage, Arbeitsverhältnisse, Allgemein
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0353/R" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0353/R</a> | Korea : Handel
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0396/R" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0396/R</a> | Korea : Kunst und Literatur (Wirtschaftsverhältnisse)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0401/R" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0401/R</a> | Korea : Geld und Währung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0405/R" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0405/R</a> | Korea : Kreditwesen und Bankwesen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0412/L" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0412/L</a> | Korea : Börsenwesen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0413/R" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0413/R</a> | Korea : Verkehrswesen, Allgemein
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0426/R" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0426/R</a> | Korea : Landstrassen, Wege, Brücken (einschl. ihres Verkehrs)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0430/L" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0430/L</a> | Korea : Eisenbahnwesen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0456/R" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0456/R</a> | Korea : Hafenanlagen und deren Verwaltung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0458/R" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0458/R</a> | Korea : Bau, Ausbau, wirtschaftliche Förderung und Verwaltung einzelner Häfen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0480/L" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0480/L</a> | Korea : Seeschiffahrt
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0488/R" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0488/R</a> | Korea : Luftschiffahrt, Flugwesen, Luftverkehr, Allgemein
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0491/L" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0491/L</a> | Korea : Nachrichtenwesen und Pressewesen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0492/R" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0492/R</a> | Korea : Versicherungswesen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0494/R" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0494/R</a> | Korea : Urheberschutz
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0495/L" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0495/L</a> | Korea : Fremdstämmige und einzelne Minderheiten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0497/R" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0497/R</a> | Korea : Siedlung und Wanderung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0503/R" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0503/R</a> | Korea : Gründung und Verlegung von Hauptstädten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0763H_1/0505/L" rel="nofollow">Bilder auf Film h1/sh/S0763H_1/0505/L</a> | Korea : Korruption
+
+
+:::
+
+
+
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 3718</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2675H/0916" rel="nofollow">Bilder auf Film h2/sh/S2675H/0916</a> | Korea
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2676H" rel="nofollow">Bilder auf Film h2/sh/S2676H</a> | Filmanfang: Korea : Geschichtliche Vorgänge [B115 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2677H" rel="nofollow">Bilder auf Film h2/sh/S2677H</a> | Filmanfang: Korea : Geschichtliche Vorgänge [B115 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2678H" rel="nofollow">Bilder auf Film h2/sh/S2678H</a> | Filmanfang: Korea : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten [B115 f2a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2679H" rel="nofollow">Bilder auf Film h2/sh/S2679H</a> | Filmanfang: Korea : n3-q Nr.31II [B115 n3-q Nr.31II]
+
+
+:::
 
 
 
@@ -86,8 +177,27 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
-Insgesamt 8 Mappen, 64 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 8 Mappen (bis 1949), 64 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

@@ -1,6 +1,6 @@
 ---
 title: "D10 Deutsch-Neuguinea"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [D10]{.gray}&#8201; Deutsch-Neuguinea &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q165008) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Deutsch-Neuguinea)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141601`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141601`</div>
 
 <div class="hint">
 Scope Note: Deutsch Ozeanien (ab 1920 austral. Mandat)
@@ -20,14 +20,17 @@ Scope Note: Deutsch Ozeanien (ab 1920 austral. Mandat)
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
 
 
 
 
 
 
-Insgesamt 103 Mappen, 987 Dokumente - Mappen komplett.
+
+
+
+Insgesamt 103 Mappen, 987 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -187,6 +190,14 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - q Sm8 Juden, Judenfeindlichkeit und Antisemitismus bis 1945 [**&nearr;**](../../../subject/i/145952/about.de.html "Juden, Judenfeindlichkeit und Antisemitismus bis 1945 (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#q_Sm8 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141601,145952" title="über: Deutsch-Neuguinea : Juden, Judenfeindlichkeit und Antisemitismus bis 1945" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141601/1459xx/145952/about.de.html))
 - q Sm31 Landesplanung und Städtebau [**&nearr;**](../../../subject/i/145983/about.de.html "Landesplanung und Städtebau (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#q_Sm31 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141601,145983" title="über: Deutsch-Neuguinea : Landesplanung und Städtebau" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141601/1459xx/145983/about.de.html))
 - q Sm32 Gründung und Verlegung von Hauptstädten [**&nearr;**](../../../subject/i/145984/about.de.html "Gründung und Verlegung von Hauptstädten (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#q_Sm32 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141601,145984" title="über: Deutsch-Neuguinea : Gründung und Verlegung von Hauptstädten" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141601/1459xx/145984/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "d1 Sm4.I Nationale Angehörige im Ausland, Allgemein"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [d1 Sm4.I]{.gray}&#8201; Nationale Angehörige im Ausland, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699250)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144223`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144223`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 4 Mappen, 17 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 4 Mappen, 17 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -40,6 +41,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - B22 Armenien (türkisch) [**&nearr;**](../../../geo/i/141112/about.de.html "Armenien (türkisch) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B22 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141112,144223" title="über: Armenien (türkisch) : Nationale Angehörige im Ausland, Allgemein " target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1411xx/141112/1442xx/144223/about.de.html))
 - B24 Syrien [**&nearr;**](../../../geo/i/141114/about.de.html "Syrien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B24 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141114,144223" title="über: Syrien : Nationale Angehörige im Ausland, Allgemein " target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1411xx/141114/1442xx/144223/about.de.html))
 - B111 Japan [**&nearr;**](../../../geo/i/141272/about.de.html "Japan (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B111 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141272,144223" title="über: Japan : Nationale Angehörige im Ausland, Allgemein " target="_blank">11 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141272/1442xx/144223/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "B61 Dutch East Indies"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -8,17 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B61]{.gray}&#8201; Dutch East Indies
+# [B61]{.gray}&#8201; Dutch East Indies &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q188161) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Dutch_East_Indies)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141215`</div>
-
-
-
-
-
-
-
-## Commodities/wares archives
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141215`</div>
 
 
 
@@ -26,10 +18,22 @@ fn-stub: about
 
 
 
+## Commodities/wares archives folders
 
 
-In total 6 folders, 32 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_wa.de.html) (in German).
+
+
+
+
+
+
+
+
+
+In total 6 folders (until 1949), 32 documents
+- folders incomplete.  For material not published as folders, please check the
+digitized micro-films of the [1st filming](/film/h1_wa.de.html) and [2nd
+filming](/film/h2_wa.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 

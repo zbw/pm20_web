@@ -1,6 +1,6 @@
 ---
 title: "B61 Niederländisch-Indien"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -8,17 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [B61]{.gray}&#8201; Niederländisch-Indien
+# [B61]{.gray}&#8201; Niederländisch-Indien &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q188161) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Niederl%C3%A4ndisch-Indien)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141215`</div>
-
-
-
-
-
-
-
-## Warenarchiv
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141215`</div>
 
 
 
@@ -26,9 +18,21 @@ fn-stub: about
 
 
 
+## Warenarchiv Mappen
 
-Insgesamt 6 Mappen, 32 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+
+
+
+
+Insgesamt 6 Mappen (bis 1949), 32 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

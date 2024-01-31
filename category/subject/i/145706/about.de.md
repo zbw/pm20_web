@@ -1,6 +1,6 @@
 ---
 title: "n35b Luftverkehr mit einzelnen Ländern"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n35b]{.gray}&#8201; Luftverkehr mit einzelnen Ländern &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428084)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145706`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145706`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 25 Mappen, 692 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 25 Mappen, 708 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -35,8 +36,8 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - A2 Mitteleuropa [**&nearr;**](../../../geo/i/140895/about.de.html "Mitteleuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A2 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140895,145706" title="über: Mitteleuropa : Luftverkehr mit einzelnen Ländern" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140895/1457xx/145706/about.de.html))
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145706" title="über: Südosteuropa : Luftverkehr mit einzelnen Ländern" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1457xx/145706/about.de.html))
-- A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,145706" title="über: Orient : Luftverkehr mit einzelnen Ländern" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1457xx/145706/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145706" title="über: Hamburg : Luftverkehr mit einzelnen Ländern" target="_blank">22 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1457xx/145706/about.de.html))
+- A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,145706" title="über: Orient : Luftverkehr mit einzelnen Ländern" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1457xx/145706/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145706" title="über: Hamburg : Luftverkehr mit einzelnen Ländern" target="_blank">37 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1457xx/145706/about.de.html))
 
 ### Asien
 
@@ -70,6 +71,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - E85 Chile [**&nearr;**](../../../geo/i/141691/about.de.html "Chile (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E85 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141691,145706" title="über: Chile : Luftverkehr mit einzelnen Ländern" target="_blank">30 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141691/1457xx/145706/about.de.html))
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145706" title="über: Argentinien : Luftverkehr mit einzelnen Ländern" target="_blank">396 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1457xx/145706/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "D11 Salomoninseln und Bismarck-Archipel"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [D11]{.gray}&#8201; Salomoninseln und Bismarck-Archipel &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q97060007)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141610`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141610`</div>
 
 <div class="hint">
 Scope Note: Bismarck Archipel, Neu-Hannover (Lavongai), Neu-Lauenburg, Neu-Pommern, Salomon Inseln i.G.
@@ -20,14 +20,17 @@ Scope Note: Bismarck Archipel, Neu-Hannover (Lavongai), Neu-Lauenburg, Neu-Pomme
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
 
 
 
 
 
 
-Insgesamt 29 Mappen, 93 Dokumente - Mappen komplett.
+
+
+
+Insgesamt 29 Mappen, 93 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -94,6 +97,14 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - n15 Arbeiterfrage, Arbeitsverhältnisse, Allgemein [**&nearr;**](../../../subject/i/145155/about.de.html "Arbeiterfrage, Arbeitsverhältnisse, Allgemein (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n15 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141610,145155" title="über: Salomoninseln und Bismarck-Archipel : Arbeiterfrage, Arbeitsverhältnisse, Allgemein" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141610/1451xx/145155/about.de.html))
 - n29 Landstrassen, Wege, Brücken (einschl. ihres Verkehrs) [**&nearr;**](../../../subject/i/145524/about.de.html "Landstrassen, Wege, Brücken (einschl. ihres Verkehrs) (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n29 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141610,145524" title="über: Salomoninseln und Bismarck-Archipel : Landstrassen, Wege, Brücken (einschl. ihres Verkehrs)" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141610/1455xx/145524/about.de.html))
 - n31 Hafenanlagen und deren Verwaltung [**&nearr;**](../../../subject/i/145563/about.de.html "Hafenanlagen und deren Verwaltung (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n31 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141610,145563" title="über: Salomoninseln und Bismarck-Archipel : Hafenanlagen und deren Verwaltung" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141610/1455xx/145563/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "f4 Constitution, form of government"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [f4]{.gray}&#8201; Constitution, form of government &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427866)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144355`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144355`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 42 folders, 1369 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 42 folders, 1380 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -35,7 +36,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 - A1 Europe [**&nearr;**](../../../geo/i/140892/about.en.html "Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A1 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144355" title="about: Europe : Constitution, form of government" target="_blank">6 documents</a>) ([folder](../../../../folder/sh/1408xx/140892/1443xx/144355/about.en.html))
 - A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,144355" title="about: Southeastern Europe : Constitution, form of government" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1443xx/144355/about.en.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144355" title="about: Hamburg : Constitution, form of government" target="_blank">128 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1443xx/144355/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144355" title="about: Hamburg : Constitution, form of government" target="_blank">139 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1443xx/144355/about.en.html))
 - A10n(1) Upper Silesia (German-Polish border region) [**&nearr;**](../../../geo/i/140948/about.en.html "Upper Silesia (German-Polish border region) (all folders)") [**&uarr;**](../../../geo/about.en.html#A10n(1) "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140948,144355" title="about: Upper Silesia (German-Polish border region) : Constitution, form of government" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1409xx/140948/1443xx/144355/about.en.html))
 - A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140960,144355" title="about: German imperial colonies : Constitution, form of government" target="_blank">23 documents</a>) ([folder](../../../../folder/sh/1409xx/140960/1443xx/144355/about.en.html))
 - A36 Italian Empire [**&nearr;**](../../../geo/i/141012/about.en.html "Italian Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#A36 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141012,144355" title="about: Italian Empire : Constitution, form of government" target="_blank">13 documents</a>) ([folder](../../../../folder/sh/1410xx/141012/1443xx/144355/about.en.html))
@@ -87,6 +88,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - E97 Brazil [**&nearr;**](../../../geo/i/141697/about.en.html "Brazil (all folders)") [**&uarr;**](../../../geo/about.en.html#E97 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141697,144355" title="about: Brazil : Constitution, form of government" target="_blank">58 documents</a>) ([folder](../../../../folder/sh/1416xx/141697/1443xx/144355/about.en.html))
 - E101 Surinam [**&nearr;**](../../../geo/i/141699/about.en.html "Surinam (all folders)") [**&uarr;**](../../../geo/about.en.html#E101 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141699,144355" title="about: Surinam : Constitution, form of government" target="_blank">5 documents</a>) ([folder](../../../../folder/sh/1416xx/141699/1443xx/144355/about.en.html))
 - E102 British Guiana [**&nearr;**](../../../geo/i/141700/about.en.html "British Guiana (all folders)") [**&uarr;**](../../../geo/about.en.html#E102 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141700,144355" title="about: British Guiana : Constitution, form of government" target="_blank">6 documents</a>) ([folder](../../../../folder/sh/1417xx/141700/1443xx/144355/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

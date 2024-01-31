@@ -1,6 +1,6 @@
 ---
 title: "E97 Brasilien"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,18 +10,21 @@ fn-stub: about
 
 # [E97]{.gray}&#8201; Brasilien &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q155) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Brasilien)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141697`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141697`</div>
 
 
 
 
-[Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
+
+
+
 
 
 
@@ -67,11 +70,76 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 18400</p>
 
 
 
 
-## Warenarchiv
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1016H/0529" rel="nofollow">Bilder auf Film h1/sh/S1016H/0529</a> | Brasilien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1017H_1" rel="nofollow">Bilder auf Film h1/sh/S1017H_1</a> | Filmanfang: Brasilien : Expeditionen Dr. Vageler [E97 c1 Dr. Vageler]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1018H_1" rel="nofollow">Bilder auf Film h1/sh/S1018H_1</a> | Filmanfang: Brasilien : Geschichtliche Vorgänge [E97 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1019H_1" rel="nofollow">Bilder auf Film h1/sh/S1019H_1</a> | Filmanfang: Brasilien : Verfassung, Staatsform [E97 f4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1020H_1" rel="nofollow">Bilder auf Film h1/sh/S1020H_1</a> | Filmanfang: Brasilien : Verhandlungen von parlamentarischen und politischen Körperschaften [E97 f6]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1021H" rel="nofollow">Bilder auf Film h1/sh/S1021H</a> | Filmanfang: Brasilien : Politische Beziehungen zu einzelnen Ländern [E97 g1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1022H" rel="nofollow">Bilder auf Film h1/sh/S1022H</a> | Filmanfang: Brasilien : Wirtschaftspolitische Beziehungen zu einzelnen Ländern [E97 g4a]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1023H_1" rel="nofollow">Bilder auf Film h1/sh/S1023H_1</a> | Filmanfang: Brasilien : Provinzial- und Kommunalverwaltung, Allgemein [E97 h5]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1024H" rel="nofollow">Bilder auf Film h1/sh/S1024H</a> | Filmanfang: Brasilien : Flotte [E97 l2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1025H" rel="nofollow">Bilder auf Film h1/sh/S1025H</a> | Filmanfang: Brasilien : Staatshaushalt [E97 m1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1026H" rel="nofollow">Bilder auf Film h1/sh/S1026H</a> | Filmanfang: Brasilien : Einzelne Steuern [E97 m3a]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1027H_1" rel="nofollow">Bilder auf Film h1/sh/S1027H_1</a> | Filmanfang: Brasilien : Wirtschaftspolitik [E97 n1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1028H_1" rel="nofollow">Bilder auf Film h1/sh/S1028H_1</a> | Filmanfang: Brasilien : Berichte über die wirtschaftliche Lage [E97 n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1029H" rel="nofollow">Bilder auf Film h1/sh/S1029H</a> | Filmanfang: Brasilien : Bodenbesitzverhältnisse und Bodenpolitik, Hausbesitz, in einzelnen Regionen [E97 n3a]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1030H_1" rel="nofollow">Bilder auf Film h1/sh/S1030H_1</a> | Filmanfang: Brasilien : Einzelne Industriezweige [E97 n13a]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1031H" rel="nofollow">Bilder auf Film h1/sh/S1031H</a> | Filmanfang: Brasilien : Handel [E97 n18]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1032H" rel="nofollow">Bilder auf Film h1/sh/S1032H</a> | Filmanfang: Brasilien : Geld und Währung [E97 n23]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1033H_1" rel="nofollow">Bilder auf Film h1/sh/S1033H_1</a> | Filmanfang: Brasilien : Landstrassen, Wege, Brücken (einschl. ihres Verkehrs) [E97 n29]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1034H" rel="nofollow">Bilder auf Film h1/sh/S1034H</a> | Filmanfang: Brasilien : Postwesen, Telegraphenwesen und Fernsprechwesen [E97 n34]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S1035H" rel="nofollow">Bilder auf Film h1/sh/S1035H</a> | Filmanfang: Brasilien : Einwanderung und Einwanderungspolitik [E97 p3]
+
+
+:::
+
+
+
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 7273</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2835H/1006" rel="nofollow">Bilder auf Film h2/sh/S2835H/1006</a> | Brasilien
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2836H" rel="nofollow">Bilder auf Film h2/sh/S2836H</a> | Filmanfang: Brasilien : Geschichtliche Vorgänge [E97 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2837H" rel="nofollow">Bilder auf Film h2/sh/S2837H</a> | Filmanfang: Brasilien : Wirtschaftspolitische Beziehungen zu einzelnen Ländern [E97 g4a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2838H" rel="nofollow">Bilder auf Film h2/sh/S2838H</a> | Filmanfang: Brasilien : Wirtschaftspolitische Beziehungen zu einzelnen Ländern Sm [E97 g4a Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2839H" rel="nofollow">Bilder auf Film h2/sh/S2839H</a> | Filmanfang: Brasilien : Zahlungsbilanz, im Verhältnis zu anderen Ländern [E97 n Sm2.II]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2840H" rel="nofollow">Bilder auf Film h2/sh/S2840H</a> | Filmanfang: Brasilien : Berichte über die wirtschaftliche Lage [E97 n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2841H" rel="nofollow">Bilder auf Film h2/sh/S2841H</a> | Filmanfang: Brasilien : Handwerk Sm [E97 n14 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2842H" rel="nofollow">Bilder auf Film h2/sh/S2842H</a> | Filmanfang: Brasilien : Binnenschiffahrt [E97 n33]
+
+
+:::
 
 
 
@@ -80,8 +148,27 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
-Insgesamt 38 Mappen, 2587 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 38 Mappen (bis 1949), 2587 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

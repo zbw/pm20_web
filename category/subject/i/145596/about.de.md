@@ -1,6 +1,6 @@
 ---
 title: "n32 Sm23 Lotsenwesen, Seezeichenwesen"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n32 Sm23]{.gray}&#8201; Lotsenwesen, Seezeichenwesen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711180)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145596`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145596`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 10 Mappen, 292 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 10 Mappen, 302 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -35,7 +36,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145596" title="über: Europa : Lotsenwesen, Seezeichenwesen" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1455xx/145596/about.de.html))
 - A3 Osteuropa [**&nearr;**](../../../geo/i/140896/about.de.html "Osteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A3 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140896,145596" title="über: Osteuropa : Lotsenwesen, Seezeichenwesen" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140896/1455xx/145596/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145596" title="über: Hamburg : Lotsenwesen, Seezeichenwesen" target="_blank">53 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1455xx/145596/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145596" title="über: Hamburg : Lotsenwesen, Seezeichenwesen" target="_blank">63 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1455xx/145596/about.de.html))
 - A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,145596" title="über: Deutschland : Lotsenwesen, Seezeichenwesen" target="_blank">186 Dokumente</a>) ([Mappe](../../../../folder/sh/1261xx/126128/1455xx/145596/about.de.html))
 
 ### Asien
@@ -52,6 +53,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145596" title="über: Argentinien : Lotsenwesen, Seezeichenwesen" target="_blank">22 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1455xx/145596/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

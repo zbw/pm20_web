@@ -1,6 +1,6 @@
 ---
 title: "C119 Italienisch-Ostafrika"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -8,29 +8,108 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C119]{.gray}&#8201; Italienisch-Ostafrika
+# [C119]{.gray}&#8201; Italienisch-Ostafrika &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q328478) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Italienisch-Ostafrika)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141477`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141477`</div>
 
 <div class="hint">
 Scope Note: Italienisch Ostafrika (Eritrea und die äthiopische Provinz Tigre, 1936-1941), britische Verwaltung (1941-1952),Teil Äthipiens (1952- 1991), Eritrea (ab 1991 Übergangregierung, ab 1993 unabhängig)
 </div>
 
 
-
-
-
-## Warenarchiv
-
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
+## Sacharchiv Mappen
 
 
-Insgesamt 11 Mappen, 139 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+
+Kein als Mappe erschlossenes Material.
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 1963</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0838H/0350" rel="nofollow">Bilder auf Film h1/sh/S0838H/0350</a> | Italienisch-Ostafrika
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0839H" rel="nofollow">Bilder auf Film h1/sh/S0839H</a> | Filmanfang: Italienisch-Ostafrika : Wirtschaft, Allgemein [C119 n]
+
+
+:::
+
+
+
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 374</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2724H" rel="nofollow">Bilder auf Film h2/sh/S2724H</a> | Filmanfang: Italienisch-Ostafrika : n2-q Nr.41 [C119 n2-q Nr.41]
+
+
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 11 Mappen (bis 1949), 139 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

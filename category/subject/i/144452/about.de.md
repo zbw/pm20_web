@@ -1,6 +1,6 @@
 ---
 title: "g1 Politische Beziehungen zu einzelnen Ländern"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [g1]{.gray}&#8201; Politische Beziehungen zu einzelnen Ländern &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427873)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144452`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144452`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 29 Mappen, 9104 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 29 Mappen, 9104 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -74,6 +75,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144452" title="über: Argentinien : Politische Beziehungen zu einzelnen Ländern" target="_blank">1169 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1444xx/144452/about.de.html))
 - E95 Uruguay [**&nearr;**](../../../geo/i/141695/about.de.html "Uruguay (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E95 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141695,144452" title="über: Uruguay : Politische Beziehungen zu einzelnen Ländern" target="_blank">24 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141695/1444xx/144452/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

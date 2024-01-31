@@ -1,6 +1,6 @@
 ---
 title: "A60 Estland"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -8,27 +8,110 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A60]{.gray}&#8201; Estland
+# [A60]{.gray}&#8201; Estland &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q191) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Estland)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141052`</div>
-
-
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141052`</div>
 
 
 
 
-
-## Warenarchiv
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
+## Sacharchiv Mappen
 
 
 
-Insgesamt 24 Mappen, 384 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+Kein als Mappe erschlossenes Material.
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 6701</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0637H" rel="nofollow">Bilder auf Film h1/sh/S0637H</a> | Filmanfang: Estland : Parteiwesen [A60 f5]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0638H" rel="nofollow">Bilder auf Film h1/sh/S0638H</a> | Filmanfang: Estland : Zollunionen Lettland [A60 g4a Sm18 Lettland]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0639H" rel="nofollow">Bilder auf Film h1/sh/S0639H</a> | Filmanfang: Estland : Fremdländische Kapitalanlagen, privatwirtschaftliche Interessen II Belgien [A60 n Sm1 II Belgien]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0640H" rel="nofollow">Bilder auf Film h1/sh/S0640H</a> | Filmanfang: Estland : Forstwirtschaft [A60 n9]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0641H" rel="nofollow">Bilder auf Film h1/sh/S0641H</a> | Filmanfang: Estland : Organisation des landwirtschaftlichen Kredits [A60 n24 Sm18]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0642H" rel="nofollow">Bilder auf Film h1/sh/S0642H</a> | Filmanfang: Estland : Versicherungswesen [A60 n37]
+
+
+:::
+
+
+
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 110</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2597H/0963" rel="nofollow">Bilder auf Film h2/sh/S2597H/0963</a> | Estland
+
+
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 24 Mappen (bis 1949), 384 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

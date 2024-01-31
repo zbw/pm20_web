@@ -1,6 +1,6 @@
 ---
 title: "B24 Syrien"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,25 +10,28 @@ fn-stub: about
 
 # [B24]{.gray}&#8201; Syrien &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q858) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Syrien)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141114`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141114`</div>
 
 
 
 
-[Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
-
-
-
-
-
-## Sacharchiv
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
+## Sacharchiv Mappen
 
-Insgesamt 250 Mappen, 4545 Dokumente - Mappen komplett.
+
+
+
+
+
+
+
+
+Insgesamt 250 Mappen, 4545 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -337,11 +340,30 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 3116</p>
 
 
 
 
-## Warenarchiv
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2608H/0303" rel="nofollow">Bilder auf Film h2/sh/S2608H/0303</a> | Syrien
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2609H" rel="nofollow">Bilder auf Film h2/sh/S2609H</a> | Filmanfang: Syrien : m2-m5a Sm [B24 m2-m5a Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2616H" rel="nofollow">Bilder auf Film h2/sh/S2616H</a> | Filmanfang: Syrien : n3-11 Sm [B24 n3-11 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2617H" rel="nofollow">Bilder auf Film h2/sh/S2617H</a> | Filmanfang: Syrien : Einwanderung und Einwanderungspolitik [B24 p3]
+
+
+:::
 
 
 
@@ -350,8 +372,27 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
-Insgesamt 15 Mappen, 176 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 15 Mappen (bis 1949), 176 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

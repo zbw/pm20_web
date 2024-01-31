@@ -1,6 +1,6 @@
 ---
 title: "Carbon (soot)"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Carbon (soot) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q13174856) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Soot)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/143123`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/143123`</div>
 
 
 
@@ -18,13 +18,15 @@ fn-stub: about
 
 
 
-## Commodities/wares archives
+## Commodities/wares archives folders
 
 
 
 
 
-In total 23 folders, 255 documents - folders complete.
+
+
+In total 23 folders, 255 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -42,7 +44,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A40b Austria [**&nearr;**](../../../geo/i/141731/about.en.html "Austria (all folders)") [**&uarr;**](../../../geo/about.en.html#A40b "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143123,141731" title="about: Carbon (soot) : Austria" target="_blank">4 documents</a>) ([folder](../../../../folder/wa/1431xx/143123/1417xx/141731/about.en.html))
 - A40c Czechoslovakia [**&nearr;**](../../../geo/i/141022/about.en.html "Czechoslovakia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40c "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143123,141022" title="about: Carbon (soot) : Czechoslovakia" target="_blank">9 documents</a>) ([folder](../../../../folder/wa/1431xx/143123/1410xx/141022/about.en.html))
 - A40d Hungary [**&nearr;**](../../../geo/i/141025/about.en.html "Hungary (all folders)") [**&uarr;**](../../../geo/about.en.html#A40d "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143123,141025" title="about: Carbon (soot) : Hungary" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1431xx/143123/1410xx/141025/about.en.html))
-- A40e Kingdom of Yugoslavia [**&nearr;**](../../../geo/i/141028/about.en.html "Kingdom of Yugoslavia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40e "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143123,141028" title="about: Carbon (soot) : Kingdom of Yugoslavia" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1431xx/143123/1410xx/141028/about.en.html))
+- A40e (Kingdom of) Yugoslavia [**&nearr;**](../../../geo/i/141028/about.en.html "(Kingdom of) Yugoslavia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40e "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143123,141028" title="about: Carbon (soot) : (Kingdom of) Yugoslavia" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1431xx/143123/1410xx/141028/about.en.html))
 - A46 Bulgaria [**&nearr;**](../../../geo/i/141039/about.en.html "Bulgaria (all folders)") [**&uarr;**](../../../geo/about.en.html#A46 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143123,141039" title="about: Carbon (soot) : Bulgaria" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1431xx/143123/1410xx/141039/about.en.html))
 - A47 Romania [**&nearr;**](../../../geo/i/141040/about.en.html "Romania (all folders)") [**&uarr;**](../../../geo/about.en.html#A47 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143123,141040" title="about: Carbon (soot) : Romania" target="_blank">7 documents</a>) ([folder](../../../../folder/wa/1431xx/143123/1410xx/141040/about.en.html))
 - A50 USSR [**&nearr;**](../../../geo/i/141043/about.en.html "USSR (all folders)") [**&uarr;**](../../../geo/about.en.html#A50 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143123,141043" title="about: Carbon (soot) : USSR" target="_blank">8 documents</a>) ([folder](../../../../folder/wa/1431xx/143123/1410xx/141043/about.en.html))
@@ -64,6 +66,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### World
 
 - H World [**&nearr;**](../../../geo/i/141728/about.en.html "World (all folders)") [**&uarr;**](../../../geo/about.en.html#H "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/143123,141728" title="about: Carbon (soot) : World" target="_blank">47 documents</a>) ([folder](../../../../folder/wa/1431xx/143123/1417xx/141728/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

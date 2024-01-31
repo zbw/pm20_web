@@ -1,6 +1,6 @@
 ---
 title: "D8 Nauru"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [D8]{.gray}&#8201; Nauru &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q697) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Nauru)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141599`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141599`</div>
 
 <div class="hint">
 Scope Note: 1888 von Deutschland annektiert. 1914 von australischen Truppen besetzt. Ab 1920 unter australischem Mandat.
@@ -20,14 +20,17 @@ Scope Note: 1888 von Deutschland annektiert. 1914 von australischen Truppen bese
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
 
 
 
 
 
 
-Insgesamt 11 Mappen, 48 Dokumente - Mappen komplett.
+
+
+
+Insgesamt 11 Mappen, 48 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -63,6 +66,37 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - n34 Postwesen, Telegraphenwesen und Fernsprechwesen [**&nearr;**](../../../subject/i/145662/about.de.html "Postwesen, Telegraphenwesen und Fernsprechwesen (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n34 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141599,145662" title="über: Nauru : Postwesen, Telegraphenwesen und Fernsprechwesen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1415xx/141599/1456xx/145662/about.de.html))
   - n34 Sm1 Drahtlose Telegraphie und Telephonie, Rundfunk [**&nearr;**](../../../subject/i/145663/about.de.html "Drahtlose Telegraphie und Telephonie, Rundfunk (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n34_Sm1 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141599,145663" title="über: Nauru : Drahtlose Telegraphie und Telephonie, Rundfunk" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1415xx/141599/1456xx/145663/about.de.html))
 - n38 Urheberschutz [**&nearr;**](../../../subject/i/145757/about.de.html "Urheberschutz (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#n38 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141599,145757" title="über: Nauru : Urheberschutz " target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1415xx/141599/1457xx/145757/about.de.html))
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 6</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2728H/1024" rel="nofollow">Bilder auf Film h2/sh/S2728H/1024</a> | Nauru
+
+
+:::
+
+
+
+
+
+
+
 
 
 

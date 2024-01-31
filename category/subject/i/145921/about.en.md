@@ -1,6 +1,6 @@
 ---
 title: "p3 Sm500 German immigrants (Forschungsstelle für das Übersee-Deutschtum)"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [p3 Sm500]{.gray}&#8201; German immigrants (Forschungsstelle für das Übersee-Deutschtum) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711353)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145921`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145921`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 36 folders, 653 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 35 folders, 655 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -35,7 +36,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 - B23 Iraq [**&nearr;**](../../../geo/i/141113/about.en.html "Iraq (all folders)") [**&uarr;**](../../../geo/about.en.html#B23 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141113,145921" title="about: Iraq : German immigrants (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1411xx/141113/1459xx/145921/about.en.html))
 - B24a Palestine [**&nearr;**](../../../geo/i/141115/about.en.html "Palestine (all folders)") [**&uarr;**](../../../geo/about.en.html#B24a "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141115,145921" title="about: Palestine : German immigrants (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">20 documents</a>) ([folder](../../../../folder/sh/1411xx/141115/1459xx/145921/about.en.html))
-- B40 Iran [**&nearr;**](../../../geo/i/141186/about.en.html "Iran (all folders)") [**&uarr;**](../../../geo/about.en.html#B40 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141186,145921" title="about: Iran : German immigrants (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">8 documents</a>) ([folder](../../../../folder/sh/1411xx/141186/1459xx/145921/about.en.html))
+- B40 Iran [**&nearr;**](../../../geo/i/141186/about.en.html "Iran (all folders)") [**&uarr;**](../../../geo/about.en.html#B40 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141186,145921" title="about: Iran : German immigrants (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">10 documents</a>) ([folder](../../../../folder/sh/1411xx/141186/1459xx/145921/about.en.html))
 - B42 Indian Empire [**&nearr;**](../../../geo/i/141189/about.en.html "Indian Empire (all folders)") [**&uarr;**](../../../geo/about.en.html#B42 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141189,145921" title="about: Indian Empire : German immigrants (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">4 documents</a>) ([folder](../../../../folder/sh/1411xx/141189/1459xx/145921/about.en.html))
 - B57 Ceylon [**&nearr;**](../../../geo/i/141204/about.en.html "Ceylon (all folders)") [**&uarr;**](../../../geo/about.en.html#B57 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141204,145921" title="about: Ceylon : German immigrants (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1412xx/141204/1459xx/145921/about.en.html))
 - B58 Federated Malay States [**&nearr;**](../../../geo/i/141206/about.en.html "Federated Malay States (all folders)") [**&uarr;**](../../../geo/about.en.html#B58 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141206,145921" title="about: Federated Malay States : German immigrants (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1412xx/141206/1459xx/145921/about.en.html))
@@ -47,7 +48,6 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 - C2a French speaking Africa [**&nearr;**](../../../geo/i/141312/about.en.html "French speaking Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C2a "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141312,145921" title="about: French speaking Africa : German immigrants (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1413xx/141312/1459xx/145921/about.en.html))
 - C10 Egypt [**&nearr;**](../../../geo/i/141336/about.en.html "Egypt (all folders)") [**&uarr;**](../../../geo/about.en.html#C10 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141336,145921" title="about: Egypt : German immigrants (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1413xx/141336/1459xx/145921/about.en.html))
-- C19 Algeria [**&nearr;**](../../../geo/i/141354/about.en.html "Algeria (all folders)") [**&uarr;**](../../../geo/about.en.html#C19 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141354,145921" title="about: Algeria : German immigrants (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">0 documents</a>) ([folder](../../../../folder/sh/1413xx/141354/1459xx/145921/about.en.html))
 - C54 British West Africa [**&nearr;**](../../../geo/i/141402/about.en.html "British West Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C54 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141402,145921" title="about: British West Africa : German immigrants (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1414xx/141402/1459xx/145921/about.en.html))
 - C56 Liberia [**&nearr;**](../../../geo/i/141405/about.en.html "Liberia (all folders)") [**&uarr;**](../../../geo/about.en.html#C56 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141405,145921" title="about: Liberia : German immigrants (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">7 documents</a>) ([folder](../../../../folder/sh/1414xx/141405/1459xx/145921/about.en.html))
 - C60 Colonial Nigeria, incl. British Cameroons [**&nearr;**](../../../geo/i/141409/about.en.html "Colonial Nigeria, incl. British Cameroons (all folders)") [**&uarr;**](../../../geo/about.en.html#C60 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141409,145921" title="about: Colonial Nigeria, incl. British Cameroons : German immigrants (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1414xx/141409/1459xx/145921/about.en.html))
@@ -81,6 +81,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### World
 
 - H World [**&nearr;**](../../../geo/i/141728/about.en.html "World (all folders)") [**&uarr;**](../../../geo/about.en.html#H "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141728,145921" title="about: World : German immigrants (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1417xx/141728/1459xx/145921/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

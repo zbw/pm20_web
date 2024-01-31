@@ -1,6 +1,6 @@
 ---
 title: "Absinth"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Absinth &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q170210) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Absinth)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141943`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/141943`</div>
 
 <div class="hint">
 Scope Note: Absinth (auch: Absinthe, Wermutspirituose) ist ein wermuthaltiges alkoholisches Getränk aus (im historischen Standardrezept) Anis, Fenchel und anderen Kräutern. Der Alkoholgehalt liegt standardmäßig zwischen 45 und 72 Volumen-Prozent und ist demnach dem oberen Bereich der Spirituosen zuzuordnen. Aufgrund der Verwendung bitter schmeckender Kräuter, insbesondere von Wermut, gilt Absinth als Bitterspirituose, obwohl er selbst nicht notwendigerweise bitter schmeckt (www.wikipedia.de).
@@ -20,12 +20,14 @@ Scope Note: Absinth (auch: Absinthe, Wermutspirituose) ist ein wermuthaltiges al
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 13 Mappen, 26 Dokumente - Mappen komplett.
+
+
+Insgesamt 13 Mappen, 26 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -59,6 +61,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141943,141692" title="über: Absinth : Argentinien" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141943/1416xx/141692/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

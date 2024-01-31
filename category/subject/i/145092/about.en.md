@@ -1,6 +1,6 @@
 ---
 title: "n12 Sm8.II Foreign rights and equity investments in mining, in individual countries"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n12 Sm8.II]{.gray}&#8201; Foreign rights and equity investments in mining, in individual countries &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710559)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145092`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145092`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 8 folders, 32 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 8 folders, 32 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -47,6 +48,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### America
 
 - E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145092" title="about: Argentina : Foreign rights and equity investments in mining, in individual countries" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1450xx/145092/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

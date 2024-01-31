@@ -1,6 +1,6 @@
 ---
 title: "Apfel"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Apfel &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q89) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Tafelapfel)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141980`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/141980`</div>
 
 
 
@@ -18,12 +18,14 @@ fn-stub: about
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 55 Mappen, 1005 Dokumente - Mappen komplett.
+
+
+Insgesamt 55 Mappen, 1005 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -51,7 +53,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - A40b(A10) Ostmark (1938-1945) [**&nearr;**](../../../geo/i/163025/about.de.html "Ostmark (1938-1945) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40b(A10) "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141980,163025" title="über: Apfel : Ostmark (1938-1945)" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141980/1630xx/163025/about.de.html))
 - A40c Tschechoslowakei [**&nearr;**](../../../geo/i/141022/about.de.html "Tschechoslowakei (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40c "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141980,141022" title="über: Apfel : Tschechoslowakei" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141980/1410xx/141022/about.de.html))
 - A40d Ungarn [**&nearr;**](../../../geo/i/141025/about.de.html "Ungarn (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40d "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141980,141025" title="über: Apfel : Ungarn" target="_blank">18 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141980/1410xx/141025/about.de.html))
-- A40e Südslawien [**&nearr;**](../../../geo/i/141028/about.de.html "Südslawien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40e "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141980,141028" title="über: Apfel : Südslawien" target="_blank">16 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141980/1410xx/141028/about.de.html))
+- A40e Jugoslawien (bis 1945 Südslawien) [**&nearr;**](../../../geo/i/141028/about.de.html "Jugoslawien (bis 1945 Südslawien) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40e "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141980,141028" title="über: Apfel : Jugoslawien (bis 1945 Südslawien)" target="_blank">16 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141980/1410xx/141028/about.de.html))
 - A45 Griechenland [**&nearr;**](../../../geo/i/141037/about.de.html "Griechenland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A45 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141980,141037" title="über: Apfel : Griechenland" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141980/1410xx/141037/about.de.html))
 - A46 Bulgarien [**&nearr;**](../../../geo/i/141039/about.de.html "Bulgarien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A46 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141980,141039" title="über: Apfel : Bulgarien" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141980/1410xx/141039/about.de.html))
 - A47 Rumänien [**&nearr;**](../../../geo/i/141040/about.de.html "Rumänien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A47 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141980,141040" title="über: Apfel : Rumänien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141980/1410xx/141040/about.de.html))
@@ -102,6 +104,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Welt
 
 - H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141980,141728" title="über: Apfel : Welt" target="_blank">61 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141980/1417xx/141728/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

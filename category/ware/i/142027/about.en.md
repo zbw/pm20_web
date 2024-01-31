@@ -1,6 +1,6 @@
 ---
 title: "Bakery machine"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Bakery machine &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q111974055)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142027`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142027`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Commodities/wares archives
+## Commodities/wares archives folders
 
 
 
 
 
-In total 16 folders, 42 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 16 folders, 42 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -55,6 +56,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - E77 Ecuador [**&nearr;**](../../../geo/i/141688/about.en.html "Ecuador (all folders)") [**&uarr;**](../../../geo/about.en.html#E77 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142027,141688" title="about: Bakery machine : Ecuador" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142027/1416xx/141688/about.en.html))
 - E85 Chile [**&nearr;**](../../../geo/i/141691/about.en.html "Chile (all folders)") [**&uarr;**](../../../geo/about.en.html#E85 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142027,141691" title="about: Bakery machine : Chile" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142027/1416xx/141691/about.en.html))
 - E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142027,141692" title="about: Bakery machine : Argentina" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142027/1416xx/141692/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

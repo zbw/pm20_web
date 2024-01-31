@@ -1,6 +1,6 @@
 ---
 title: "n15 Sm11.II Foreign and colonial workers, nationals of individual countries"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n15 Sm11.II]{.gray}&#8201; Foreign and colonial workers, nationals of individual countries &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710722)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145175`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145175`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 14 folders, 65 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 14 folders, 65 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -59,6 +60,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145175" title="about: Argentina : Foreign and colonial workers, nationals of individual countries" target="_blank">16 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1451xx/145175/about.en.html))
 - E101 Surinam [**&nearr;**](../../../geo/i/141699/about.en.html "Surinam (all folders)") [**&uarr;**](../../../geo/about.en.html#E101 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141699,145175" title="about: Surinam : Foreign and colonial workers, nationals of individual countries" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1416xx/141699/1451xx/145175/about.en.html))
 - E102 British Guiana [**&nearr;**](../../../geo/i/141700/about.en.html "British Guiana (all folders)") [**&uarr;**](../../../geo/about.en.html#E102 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141700,145175" title="about: British Guiana : Foreign and colonial workers, nationals of individual countries" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1417xx/141700/1451xx/145175/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

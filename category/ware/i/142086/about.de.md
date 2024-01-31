@@ -1,6 +1,6 @@
 ---
 title: "Baumaterial"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Baumaterial &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q206615) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Baustoff)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142086`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142086`</div>
 
 
 
@@ -18,12 +18,14 @@ fn-stub: about
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 87 Mappen, 1702 Dokumente - Mappen komplett.
+
+
+Insgesamt 87 Mappen, 1702 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -56,7 +58,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - A40b(A10) Ostmark (1938-1945) [**&nearr;**](../../../geo/i/163025/about.de.html "Ostmark (1938-1945) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40b(A10) "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,163025" title="über: Baumaterial : Ostmark (1938-1945)" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142086/1630xx/163025/about.de.html))
 - A40c Tschechoslowakei [**&nearr;**](../../../geo/i/141022/about.de.html "Tschechoslowakei (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40c "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141022" title="über: Baumaterial : Tschechoslowakei" target="_blank">29 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142086/1410xx/141022/about.de.html))
 - A40d Ungarn [**&nearr;**](../../../geo/i/141025/about.de.html "Ungarn (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40d "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141025" title="über: Baumaterial : Ungarn" target="_blank">30 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142086/1410xx/141025/about.de.html))
-- A40e Südslawien [**&nearr;**](../../../geo/i/141028/about.de.html "Südslawien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40e "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141028" title="über: Baumaterial : Südslawien" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142086/1410xx/141028/about.de.html))
+- A40e Jugoslawien (bis 1945 Südslawien) [**&nearr;**](../../../geo/i/141028/about.de.html "Jugoslawien (bis 1945 Südslawien) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40e "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141028" title="über: Baumaterial : Jugoslawien (bis 1945 Südslawien)" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142086/1410xx/141028/about.de.html))
 - A40g Kroatien [**&nearr;**](../../../geo/i/141030/about.de.html "Kroatien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40g "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141030" title="über: Baumaterial : Kroatien" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142086/1410xx/141030/about.de.html))
 - A45 Griechenland [**&nearr;**](../../../geo/i/141037/about.de.html "Griechenland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A45 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141037" title="über: Baumaterial : Griechenland" target="_blank">16 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142086/1410xx/141037/about.de.html))
 - A46 Bulgarien [**&nearr;**](../../../geo/i/141039/about.de.html "Bulgarien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A46 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141039" title="über: Baumaterial : Bulgarien" target="_blank">16 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142086/1410xx/141039/about.de.html))
@@ -131,6 +133,39 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141692" title="über: Baumaterial : Argentinien" target="_blank">15 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142086/1416xx/141692/about.de.html))
 - E95 Uruguay [**&nearr;**](../../../geo/i/141695/about.de.html "Uruguay (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E95 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141695" title="über: Baumaterial : Uruguay" target="_blank">18 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142086/1416xx/141695/about.de.html))
 - E97 Brasilien [**&nearr;**](../../../geo/i/141697/about.de.html "Brasilien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E97 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142086,141697" title="über: Baumaterial : Brasilien" target="_blank">10 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142086/1416xx/141697/about.de.html))
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 587</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2001H/0983" rel="nofollow">Bilder auf Film h2/wa/W2001H/0983</a> | Baumaterial
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2002H/0002" rel="nofollow">Bilder auf Film h2/wa/W2002H/0002</a> | Baumaterial : Deutschland (Sowjetische Zone/ DDR)
+
+
+:::
+
+
+
+
+
+
+
+
 
 
 

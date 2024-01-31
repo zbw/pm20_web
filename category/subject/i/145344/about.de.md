@@ -1,6 +1,6 @@
 ---
 title: "n24 Sm4.I Realkreditwesen, Allgemein. Hypothekarkreditwesen"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n24 Sm4.I]{.gray}&#8201; Realkreditwesen, Allgemein. Hypothekarkreditwesen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710993)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145344`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145344`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 6 Mappen, 46 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 6 Mappen, 46 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -45,6 +46,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - C65 Kamerun [**&nearr;**](../../../geo/i/141410/about.de.html "Kamerun (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C65 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141410,145344" title="über: Kamerun : Realkreditwesen, Allgemein. Hypothekarkreditwesen" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141410/1453xx/145344/about.de.html))
 - C87 Deutsch-Südwestafrika [**&nearr;**](../../../geo/i/141450/about.de.html "Deutsch-Südwestafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C87 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141450,145344" title="über: Deutsch-Südwestafrika : Realkreditwesen, Allgemein. Hypothekarkreditwesen" target="_blank">24 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141450/1453xx/145344/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

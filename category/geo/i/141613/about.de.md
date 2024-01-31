@@ -1,6 +1,6 @@
 ---
 title: "D13 Karolinen-Inseln"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,25 +10,27 @@ fn-stub: about
 
 # [D13]{.gray}&#8201; Karolinen-Inseln &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q118350) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Karolinen)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141613`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141613`</div>
 
 <div class="hint">
-Scope Note: bis 30.6.1919, dann unter Japanische Mandantsländer in Ozeanien (D 18); 	
-Inselgruppe im westl. Pazifik, gegliedert in Westliche Karolinen (Palauinseln, Yap Islands) u. Östliche Karolinen (Mikronesien <Staat>)
+Scope Note: bis 30.6.1919, dann unter Japanische Mandantsländer in Ozeanien (D 18); 	 Inselgruppe im westl. Pazifik, gegliedert in Westliche Karolinen (Palauinseln, Yap Islands) u. Östliche Karolinen (Mikronesien <Staat>)
 </div>
 
 
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
 
 
 
 
 
 
-Insgesamt 8 Mappen, 74 Dokumente - Mappen komplett.
+
+
+
+Insgesamt 8 Mappen, 74 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -55,6 +57,14 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - [g6 Interessen fremder Staaten in ..., Allgemein]{.gray}
   - g6 Sm2 Verhandlungen und Abmachungen fremder Staaten über ... [**&nearr;**](../../../subject/i/144567/about.de.html "Verhandlungen und Abmachungen fremder Staaten über ... (in der ganzen Welt)") [**&uarr;**](../../../subject/about.de.html#g6_Sm2 "Sachsystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141613,144567" title="über: Karolinen-Inseln : Verhandlungen und Abmachungen fremder Staaten über ..." target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141613/1445xx/144567/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
 
 
 

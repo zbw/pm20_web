@@ -1,6 +1,6 @@
 ---
 title: "g4 Sm1.I Zollpolitik, Allgemein"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [g4 Sm1.I]{.gray}&#8201; Zollpolitik, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699985)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144471`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144471`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 16 Mappen, 159 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 16 Mappen, 162 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -33,7 +34,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 ### Europa
 
-- A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144471" title="über: Europa : Zollpolitik, Allgemein" target="_blank">23 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1444xx/144471/about.de.html))
+- A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144471" title="über: Europa : Zollpolitik, Allgemein" target="_blank">26 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1444xx/144471/about.de.html))
 - A2 Mitteleuropa [**&nearr;**](../../../geo/i/140895/about.de.html "Mitteleuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A2 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140895,144471" title="über: Mitteleuropa : Zollpolitik, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140895/1444xx/144471/about.de.html))
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,144471" title="über: Südosteuropa : Zollpolitik, Allgemein" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1444xx/144471/about.de.html))
 - A8 Russische Randstaaten [**&nearr;**](../../../geo/i/140904/about.de.html "Russische Randstaaten (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A8 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140904,144471" title="über: Russische Randstaaten : Zollpolitik, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140904/1444xx/144471/about.de.html))
@@ -55,6 +56,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - C26 Spanisch-Marokko [**&nearr;**](../../../geo/i/141359/about.de.html "Spanisch-Marokko (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C26 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141359,144471" title="über: Spanisch-Marokko : Zollpolitik, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1413xx/141359/1444xx/144471/about.de.html))
 - C57 Goldküste, einschl. Togo (brit.) [**&nearr;**](../../../geo/i/141406/about.de.html "Goldküste, einschl. Togo (brit.) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C57 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141406,144471" title="über: Goldküste, einschl. Togo (brit.) : Zollpolitik, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141406/1444xx/144471/about.de.html))
 - C70 Spanisch-Guinea [**&nearr;**](../../../geo/i/141412/about.de.html "Spanisch-Guinea (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C70 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141412,144471" title="über: Spanisch-Guinea : Zollpolitik, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141412/1444xx/144471/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

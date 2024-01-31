@@ -1,6 +1,6 @@
 ---
 title: "A28 Frankreich"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -8,27 +8,201 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A28]{.gray}&#8201; Frankreich
+# [A28]{.gray}&#8201; Frankreich &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q142) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Frankreich)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140982`</div>
-
-
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/140982`</div>
 
 
 
 
-
-## Warenarchiv
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
+## Sacharchiv Mappen
 
 
 
-Insgesamt 59 Mappen, 4510 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+Kein als Mappe erschlossenes Material.
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 53571</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0373H/1115" rel="nofollow">Bilder auf Film h1/sh/S0373H/1115</a> | Frankreich
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0374H_1" rel="nofollow">Bilder auf Film h1/sh/S0374H_1</a> | Filmanfang: Frankreich : Land und Leute, Politik und Wirtschaft, Allgemein [A28 b]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0375H" rel="nofollow">Bilder auf Film h1/sh/S0375H</a> | Filmanfang: Frankreich : Medizinalwesen, Hygiene, Sanitäre Einrichtungen [A28 e4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0376H" rel="nofollow">Bilder auf Film h1/sh/S0376H</a> | Filmanfang: Frankreich : Geschichtliche Vorgänge [A28 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0377H" rel="nofollow">Bilder auf Film h1/sh/S0377H</a> | Filmanfang: Frankreich : Geschichtliche Vorgänge [A28 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0378H_1" rel="nofollow">Bilder auf Film h1/sh/S0378H_1</a> | Filmanfang: Frankreich : Geschichtliche Vorgänge [A28 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0379H_1" rel="nofollow">Bilder auf Film h1/sh/S0379H_1</a> | Filmanfang: Frankreich : Autonomiebestrebungen, Selbstbestimmungsrecht [A28 f2 Sm14]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0380H_1" rel="nofollow">Bilder auf Film h1/sh/S0380H_1</a> | Filmanfang: Frankreich : Parteiwesen [A28 f5]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0381H_1" rel="nofollow">Bilder auf Film h1/sh/S0381H_1</a> | Filmanfang: Frankreich : Einzelne Parteien und Parteigruppen Kommunisten [A28 f5a Kommunisten]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0382H_1" rel="nofollow">Bilder auf Film h1/sh/S0382H_1</a> | Filmanfang: Frankreich : Einzelne Parteien und Parteigruppen Sozial. [A28 f5a Sozial.]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0383H_1" rel="nofollow">Bilder auf Film h1/sh/S0383H_1</a> | Filmanfang: Frankreich : Verhandlungen von parlamentarischen und politischen Körperschaften Senat [A28 f6 Senat]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0384H_1" rel="nofollow">Bilder auf Film h1/sh/S0384H_1</a> | Filmanfang: Frankreich : Außenpolitik und politische Beziehungen zum Ausland, Allgemein [A28 g]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0385H_1" rel="nofollow">Bilder auf Film h1/sh/S0385H_1</a> | Filmanfang: Frankreich : Stimmen und Stellung zu den deutschen Friedensdiktatbestimmungen und deren Ausführung (Versailles) II [A28 g Sm14 II]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0386H_1" rel="nofollow">Bilder auf Film h1/sh/S0386H_1</a> | Filmanfang: Frankreich : Politische Beziehungen zu einzelnen Ländern Italien [A28 g1 Italien]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0387H" rel="nofollow">Bilder auf Film h1/sh/S0387H</a> | Filmanfang: Frankreich : Politische Beziehungen zu einzelnen Ländern Rumänien [A28 g1 Rumänien]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0388H" rel="nofollow">Bilder auf Film h1/sh/S0388H</a> | Filmanfang: Frankreich : Politische Beziehungen zu einzelnen Ländern Spanien [A28 g1 Spanien]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0389H" rel="nofollow">Bilder auf Film h1/sh/S0389H</a> | Filmanfang: Frankreich : Politische Beziehungen zu einzelnen Ländern Ver. Sta. v. Amerika [A28 g1 Ver. Sta. v. Amerika]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0390H" rel="nofollow">Bilder auf Film h1/sh/S0390H</a> | Filmanfang: Frankreich : Zollpolitik [A28 g4 Sm1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0391H" rel="nofollow">Bilder auf Film h1/sh/S0391H</a> | Filmanfang: Frankreich : Handelspolitische und zollrechtliche Massnahmen aus dem Deutschen Handelsarchiv [A28 g4 Sm21]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0392H" rel="nofollow">Bilder auf Film h1/sh/S0392H</a> | Filmanfang: Frankreich : Handelspolitische und zollrechtliche Massnahmen aus dem Deutschen Handelsarchiv [A28 g4 Sm21]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0393H" rel="nofollow">Bilder auf Film h1/sh/S0393H</a> | Filmanfang: Frankreich : Wirtschaftspolitische Beziehungen zu einzelnen Ländern Lettland [A28 g4a Lettland]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0394H" rel="nofollow">Bilder auf Film h1/sh/S0394H</a> | Filmanfang: Frankreich : Wirtschaftspolitische Beziehungen zu einzelnen Ländern Schweiz [A28 g4a Schweiz]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0395H" rel="nofollow">Bilder auf Film h1/sh/S0395H</a> | Filmanfang: Frankreich : Wirtschaftspolitische Beziehungen zu einzelnen Ländern Verein. Staaten [A28 g4a Verein. Staaten]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0396H" rel="nofollow">Bilder auf Film h1/sh/S0396H</a> | Filmanfang: Frankreich : Beamtenwesen, Öffentlicher Dienst, Konferenzen [A28 h2 Sm20]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0397H_1" rel="nofollow">Bilder auf Film h1/sh/S0397H_1</a> | Filmanfang: Frankreich : Einzelne Skandale und Prozesse Humanite [A28 i5 Humanite]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0398H_1" rel="nofollow">Bilder auf Film h1/sh/S0398H_1</a> | Filmanfang: Frankreich : Fachschulwesen [A28 k2 Sm4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0399H_1" rel="nofollow">Bilder auf Film h1/sh/S0399H_1</a> | Filmanfang: Frankreich : Landheer, Schutztruppen [A28 l1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0400H_1" rel="nofollow">Bilder auf Film h1/sh/S0400H_1</a> | Filmanfang: Frankreich : Finanzwesen, Allgemein [A28 m]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0401H" rel="nofollow">Bilder auf Film h1/sh/S0401H</a> | Filmanfang: Frankreich : Staatshaushalt [A28 m1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0402H" rel="nofollow">Bilder auf Film h1/sh/S0402H</a> | Filmanfang: Frankreich : Inlandsschulden, insbes. Anleihepolitik in Landeswährung I [A28 m1 Sm4 I]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0403H" rel="nofollow">Bilder auf Film h1/sh/S0403H</a> | Filmanfang: Frankreich : Zolltarif I [A28 m2 Sm1 I]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0404H" rel="nofollow">Bilder auf Film h1/sh/S0404H</a> | Filmanfang: Frankreich : Einzelne Steuern Einkommen [A28 m3a Einkommen]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0405H" rel="nofollow">Bilder auf Film h1/sh/S0405H</a> | Filmanfang: Frankreich : Zeitrechnung [A28 n Sm35]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0406H" rel="nofollow">Bilder auf Film h1/sh/S0406H</a> | Filmanfang: Frankreich : Wirtschaftspolitik [A28 n1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0407H" rel="nofollow">Bilder auf Film h1/sh/S0407H</a> | Filmanfang: Frankreich : Berichte über die wirtschaftliche Lage [A28 n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0408H" rel="nofollow">Bilder auf Film h1/sh/S0408H</a> | Filmanfang: Frankreich : Indexziffern IIIa [A28 n2 Sm9 IIIa]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0409H" rel="nofollow">Bilder auf Film h1/sh/S0409H</a> | Filmanfang: Frankreich : Landwirtschaft [A28 n4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0410H" rel="nofollow">Bilder auf Film h1/sh/S0410H</a> | Filmanfang: Frankreich : Chemische Industrie [A28 n13a Sm1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0411H" rel="nofollow">Bilder auf Film h1/sh/S0411H</a> | Filmanfang: Frankreich : Handwerk, Lehrlingswesen [A28 n14 Sm1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0412H" rel="nofollow">Bilder auf Film h1/sh/S0412H</a> | Filmanfang: Frankreich : Ausländische und koloniale Arbeiter II Franz. Kolonien [A28 n15 Sm11 II Franz. Kolonien]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0413H" rel="nofollow">Bilder auf Film h1/sh/S0413H</a> | Filmanfang: Frankreich : Arbeitnehmerverhältnisse, Metallverarbeitung und Maschinenindustrie [A28 n15a Sm19]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0414H" rel="nofollow">Bilder auf Film h1/sh/S0414H</a> | Filmanfang: Frankreich : Arbeiterwohnungen I [A28 n17 Sm2 I]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0415H" rel="nofollow">Bilder auf Film h1/sh/S0415H</a> | Filmanfang: Frankreich : Handelsbeziehungen zu einzelnen Ländern Kanada [A28 n19 Kanada]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0416H" rel="nofollow">Bilder auf Film h1/sh/S0416H</a> | Filmanfang: Frankreich : Geld und Währung [A28 n23]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0417H" rel="nofollow">Bilder auf Film h1/sh/S0417H</a> | Filmanfang: Frankreich : Kreditwesen und Bankwesen [A28 n24]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0418H" rel="nofollow">Bilder auf Film h1/sh/S0418H</a> | Filmanfang: Frankreich : Wirtschaftliche Interessenvertretungen, Wirtschaftskammern, Berufsstände [A28 n26]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0419H" rel="nofollow">Bilder auf Film h1/sh/S0419H</a> | Filmanfang: Frankreich : Eisenbahnwesen, Finanzielles. Lage und Statistik der Privat-Eisenbahnunternehmungen [A28 n30 Sm1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0420H_1" rel="nofollow">Bilder auf Film h1/sh/S0420H_1</a> | Filmanfang: Frankreich : Bau, Ausbau, wirtschaftliche Förderung und Verwaltung einzelner Häfen Le Havre [A28 n31a Le Havre]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0421H_1" rel="nofollow">Bilder auf Film h1/sh/S0421H_1</a> | Filmanfang: Frankreich : Lage und Statistik der Privatunternehmungen und statistische Übersichten der Handelsflotte [A28 n32 Sm6]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0422H_1" rel="nofollow">Bilder auf Film h1/sh/S0422H_1</a> | Filmanfang: Frankreich : Binnenschiffahrt [A28 n33]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0423H" rel="nofollow">Bilder auf Film h1/sh/S0423H</a> | Filmanfang: Frankreich : Drahtlose Telegraphie und Telephonie, Rundfunk [A28 n34 Sm1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0424H" rel="nofollow">Bilder auf Film h1/sh/S0424H</a> | Filmanfang: Frankreich : Nachrichten- und Pressewesen, Nachrichtendienst, Korrespondezen, Allgemein [A28 n36 Sm5]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0425H" rel="nofollow">Bilder auf Film h1/sh/S0425H</a> | Filmanfang: Frankreich : Minderheiten aus einzelnen Ländern Schweiz [A28 o3 Schweiz]
+
+
+:::
+
+
+
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 50945</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2409H/1158" rel="nofollow">Bilder auf Film h2/sh/S2409H/1158</a> | Frankreich
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2410H" rel="nofollow">Bilder auf Film h2/sh/S2410H</a> | Filmanfang: Frankreich : Landeskunde, Allgemein - c 10 Sm [A28 c - c 10 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2411H" rel="nofollow">Bilder auf Film h2/sh/S2411H</a> | Filmanfang: Frankreich : Geschichtliche Vorgänge [A28 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2412H" rel="nofollow">Bilder auf Film h2/sh/S2412H</a> | Filmanfang: Frankreich : Geschichtliche Vorgänge [A28 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2413H" rel="nofollow">Bilder auf Film h2/sh/S2413H</a> | Filmanfang: Frankreich : Verfassung, Staatsform [A28 f4]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2414H" rel="nofollow">Bilder auf Film h2/sh/S2414H</a> | Filmanfang: Frankreich : Parteiwesen [A28 f5]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2415H" rel="nofollow">Bilder auf Film h2/sh/S2415H</a> | Filmanfang: Frankreich : Einzelne Parteien und Parteigruppen [A28 f5a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2416H" rel="nofollow">Bilder auf Film h2/sh/S2416H</a> | Filmanfang: Frankreich : Verhandlungen von parlamentarischen und politischen Körperschaften [A28 f6]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2417H" rel="nofollow">Bilder auf Film h2/sh/S2417H</a> | Filmanfang: Frankreich : Politische Beziehungen zu einzelnen Ländern f [A28 g1 f]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2418H" rel="nofollow">Bilder auf Film h2/sh/S2418H</a> | Filmanfang: Frankreich : Politische Beziehungen zu einzelnen Ländern f [A28 g1 f]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2419H" rel="nofollow">Bilder auf Film h2/sh/S2419H</a> | Filmanfang: Frankreich : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein [A28 g4]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2420H" rel="nofollow">Bilder auf Film h2/sh/S2420H</a> | Filmanfang: Frankreich : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein Sm [A28 g4 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2421H" rel="nofollow">Bilder auf Film h2/sh/S2421H</a> | Filmanfang: Frankreich : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein Sm [A28 g4 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2422H" rel="nofollow">Bilder auf Film h2/sh/S2422H</a> | Filmanfang: Frankreich : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein F [A28 g4 F]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2423H" rel="nofollow">Bilder auf Film h2/sh/S2423H</a> | Filmanfang: Frankreich : Wirtschaftspolitische Beziehungen zu einzelnen Ländern F [A28 g4a F]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2424H" rel="nofollow">Bilder auf Film h2/sh/S2424H</a> | Filmanfang: Frankreich : Wirtschaftspolitische Beziehungen zu einzelnen Ländern F [A28 g4a F]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2425H" rel="nofollow">Bilder auf Film h2/sh/S2425H</a> | Filmanfang: Frankreich : Wirtschaftspolitische Beziehungen zu einzelnen Ländern F [A28 g4a F]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2426H" rel="nofollow">Bilder auf Film h2/sh/S2426H</a> | Filmanfang: Frankreich : Kolonialpolitik, Allgemein [A28 g5]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2427H" rel="nofollow">Bilder auf Film h2/sh/S2427H</a> | Filmanfang: Frankreich : Hochschulwesen, Forschungsanstalten Allgemein Sm [A28 k1 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2428H" rel="nofollow">Bilder auf Film h2/sh/S2428H</a> | Filmanfang: Frankreich : Flotte [A28 l2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2429H" rel="nofollow">Bilder auf Film h2/sh/S2429H</a> | Filmanfang: Frankreich : Staatshaushalt [A28 m1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2430H" rel="nofollow">Bilder auf Film h2/sh/S2430H</a> | Filmanfang: Frankreich : Zollwesen, Zolltarife Sm [A28 m2 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2431H" rel="nofollow">Bilder auf Film h2/sh/S2431H</a> | Filmanfang: Frankreich : Berichte über die wirtschaftliche Lage [A28 n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2432H" rel="nofollow">Bilder auf Film h2/sh/S2432H</a> | Filmanfang: Frankreich : Einzelne Steuern [A28 m3a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2433H" rel="nofollow">Bilder auf Film h2/sh/S2433H</a> | Filmanfang: Frankreich : Zahlungsbilanz I [A28 n Sm2 I]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2434H" rel="nofollow">Bilder auf Film h2/sh/S2434H</a> | Filmanfang: Frankreich : Energiewirtschaft, Allgemein II a [A28 n Sm46 II a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2435H" rel="nofollow">Bilder auf Film h2/sh/S2435H</a> | Filmanfang: Frankreich : Wirtschaftspolitik [A28 n1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2436H" rel="nofollow">Bilder auf Film h2/sh/S2436H</a> | Filmanfang: Frankreich : Berichte über die wirtschaftliche Lage [A28 n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2437H" rel="nofollow">Bilder auf Film h2/sh/S2437H</a> | Filmanfang: Frankreich : Berichte über die wirtschaftliche Lage Sm [A28 n2 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2438H" rel="nofollow">Bilder auf Film h2/sh/S2438H</a> | Filmanfang: Frankreich : Berichte über die wirtschaftliche Lage Sm [A28 n2 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2439H" rel="nofollow">Bilder auf Film h2/sh/S2439H</a> | Filmanfang: Frankreich : Landwirtschaft [A28 n4]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2440H" rel="nofollow">Bilder auf Film h2/sh/S2440H</a> | Filmanfang: Frankreich : Industrie [A28 n13]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2441H" rel="nofollow">Bilder auf Film h2/sh/S2441H</a> | Filmanfang: Frankreich : Einzelne Industriezweige Sm [A28 n13a Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2442H" rel="nofollow">Bilder auf Film h2/sh/S2442H</a> | Filmanfang: Frankreich : Einzelne Industriezweige Sm [A28 n13a Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2443H" rel="nofollow">Bilder auf Film h2/sh/S2443H</a> | Filmanfang: Frankreich : Arbeiterfrage, Arbeitsverhältnisse, Allgemein Sm [A28 n15 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2444H" rel="nofollow">Bilder auf Film h2/sh/S2444H</a> | Filmanfang: Frankreich : Arbeiterfrage, Arbeitsverhältnisse, Allgemein Sm [A28 n15 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2445H" rel="nofollow">Bilder auf Film h2/sh/S2445H</a> | Filmanfang: Frankreich : Bauwesen und Wohnungswesen Sm [A28 n17 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2446H" rel="nofollow">Bilder auf Film h2/sh/S2446H</a> | Filmanfang: Frankreich : Handelsbeziehungen zu einzelnen Ländern [A28 n19]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2447H" rel="nofollow">Bilder auf Film h2/sh/S2447H</a> | Filmanfang: Frankreich : Geld und Währung [A28 n23]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2448H" rel="nofollow">Bilder auf Film h2/sh/S2448H</a> | Filmanfang: Frankreich : Kreditwesen und Bankwesen Sm [A28 n24 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2449H" rel="nofollow">Bilder auf Film h2/sh/S2449H</a> | Filmanfang: Frankreich : Verkehrswesen, Allgemein Sm [A28 n28 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2450H" rel="nofollow">Bilder auf Film h2/sh/S2450H</a> | Filmanfang: Frankreich : Eisenbahnwesen Sm [A28 n30 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2451H" rel="nofollow">Bilder auf Film h2/sh/S2451H</a> | Filmanfang: Frankreich : Postwesen, Telegraphenwesen und Fernsprechwesen Sm [A28 n34 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2452H" rel="nofollow">Bilder auf Film h2/sh/S2452H</a> | Filmanfang: Frankreich : Einzelne Versicherungszweige Sm [A28 n37a Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2453H" rel="nofollow">Bilder auf Film h2/sh/S2453H</a> | Filmanfang: Frankreich : Minderheiten aus einzelnen Ländern [A28 o3]
+
+
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 59 Mappen (bis 1949), 4510 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

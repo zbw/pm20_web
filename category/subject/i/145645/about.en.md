@@ -1,6 +1,6 @@
 ---
 title: "n32b Shipping traffic with individual countries"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n32b]{.gray}&#8201; Shipping traffic with individual countries &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428074)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145645`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145645`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 36 folders, 1690 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 36 folders, 1714 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -38,8 +39,8 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A3 Eastern Europe [**&nearr;**](../../../geo/i/140896/about.en.html "Eastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A3 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140896,145645" title="about: Eastern Europe : Shipping traffic with individual countries" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1408xx/140896/1456xx/145645/about.en.html))
 - A5 Levant [**&nearr;**](../../../geo/i/140898/about.en.html "Levant (all folders)") [**&uarr;**](../../../geo/about.en.html#A5 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140898,145645" title="about: Levant : Shipping traffic with individual countries" target="_blank">24 documents</a>) ([folder](../../../../folder/sh/1408xx/140898/1456xx/145645/about.en.html))
 - A5a Mediterranean region [**&nearr;**](../../../geo/i/140899/about.en.html "Mediterranean region (all folders)") [**&uarr;**](../../../geo/about.en.html#A5a "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140899,145645" title="about: Mediterranean region : Shipping traffic with individual countries" target="_blank">8 documents</a>) ([folder](../../../../folder/sh/1408xx/140899/1456xx/145645/about.en.html))
-- A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,145645" title="about: Orient : Shipping traffic with individual countries" target="_blank">21 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1456xx/145645/about.en.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145645" title="about: Hamburg : Shipping traffic with individual countries" target="_blank">247 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1456xx/145645/about.en.html))
+- A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,145645" title="about: Orient : Shipping traffic with individual countries" target="_blank">23 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1456xx/145645/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145645" title="about: Hamburg : Shipping traffic with individual countries" target="_blank">269 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1456xx/145645/about.en.html))
 - A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,145645" title="about: Germany : Shipping traffic with individual countries" target="_blank">513 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1456xx/145645/about.en.html))
 - A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140960,145645" title="about: German imperial colonies : Shipping traffic with individual countries" target="_blank">4 documents</a>) ([folder](../../../../folder/sh/1409xx/140960/1456xx/145645/about.en.html))
 - A38 Free State of Fiume [**&nearr;**](../../../geo/i/141014/about.en.html "Free State of Fiume (all folders)") [**&uarr;**](../../../geo/about.en.html#A38 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141014,145645" title="about: Free State of Fiume : Shipping traffic with individual countries" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1410xx/141014/1456xx/145645/about.en.html))
@@ -81,6 +82,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145645" title="about: Argentina : Shipping traffic with individual countries" target="_blank">283 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1456xx/145645/about.en.html))
 - E101 Surinam [**&nearr;**](../../../geo/i/141699/about.en.html "Surinam (all folders)") [**&uarr;**](../../../geo/about.en.html#E101 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141699,145645" title="about: Surinam : Shipping traffic with individual countries" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1416xx/141699/1456xx/145645/about.en.html))
 - E102 British Guiana [**&nearr;**](../../../geo/i/141700/about.en.html "British Guiana (all folders)") [**&uarr;**](../../../geo/about.en.html#E102 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141700,145645" title="about: British Guiana : Shipping traffic with individual countries" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1417xx/141700/1456xx/145645/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "A10 Germany"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,18 +10,18 @@ fn-stub: about
 
 # [A10]{.gray}&#8201; Germany &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q183) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Germany)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/126128`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/126128`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
+[Subject archives](#subject-archives-folders) &#160; [Commodities/wares archives](#commoditieswares-archives-folders)
 
 
 
 
-## Subject archives
+## Subject archives folders
 
 
 
@@ -29,7 +29,10 @@ fn-stub: about
 
 
 
-In total 287 folders, 46198 documents - folders incomplete.
+
+
+
+In total 287 folders, 46255 documents - folders incomplete.
 For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
@@ -43,25 +46,25 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### The country and its people, politics and economy
 
-- b The country and its people, politics and economy, general [**&nearr;**](../../../subject/i/144196/about.en.html "The country and its people, politics and economy, general (all over the world)") [**&uarr;**](../../../subject/about.en.html#b "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,144196" title="about: Germany : The country and its people, politics and economy, general" target="_blank">209 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1441xx/144196/about.en.html))
+- b The country and its people, politics and economy, general [**&nearr;**](../../../subject/i/144196/about.en.html "The country and its people, politics and economy, general (all over the world)") [**&uarr;**](../../../subject/about.en.html#b "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,144196" title="about: Germany : The country and its people, politics and economy, general" target="_blank">214 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1441xx/144196/about.en.html))
 
 ### Country studies
 
 - c Country studies, general [**&nearr;**](../../../subject/i/144199/about.en.html "Country studies, general (all over the world)") [**&uarr;**](../../../subject/about.en.html#c "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,144199" title="about: Germany : Country studies, general" target="_blank">135 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1441xx/144199/about.en.html))
-  - c Sm1 (alt) Nature reserve [**&nearr;**](../../../subject/i/144217/about.en.html "Nature reserve (all over the world)") [**&uarr;**](../../../subject/about.en.html#c_Sm1_(alt) "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,144217" title="about: Germany : Nature reserve" target="_blank">74 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1442xx/144217/about.en.html))
-  - c Sm2 Cartography [**&nearr;**](../../../subject/i/144218/about.en.html "Cartography (all over the world)") [**&uarr;**](../../../subject/about.en.html#c_Sm2 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,144218" title="about: Germany : Cartography" target="_blank">8 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1442xx/144218/about.en.html))
+  - c Sm1 (alt) Nature reserve [**&nearr;**](../../../subject/i/144217/about.en.html "Nature reserve (all over the world)") [**&uarr;**](../../../subject/about.en.html#c_Sm1_(alt) "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,144217" title="about: Germany : Nature reserve" target="_blank">76 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1442xx/144217/about.en.html))
+  - c Sm2 Cartography [**&nearr;**](../../../subject/i/144218/about.en.html "Cartography (all over the world)") [**&uarr;**](../../../subject/about.en.html#c_Sm2 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,144218" title="about: Germany : Cartography" target="_blank">14 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1442xx/144218/about.en.html))
   - c Sm2.I (alt) Cartography, general [**&nearr;**](../../../subject/i/144219/about.en.html "Cartography, general (all over the world)") [**&uarr;**](../../../subject/about.en.html#c_Sm2.I_(alt) "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,144219" title="about: Germany : Cartography, general" target="_blank">42 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1442xx/144219/about.en.html))
   - c Sm2.II (alt) Cartography, aerial photography [**&nearr;**](../../../subject/i/144220/about.en.html "Cartography, aerial photography (all over the world)") [**&uarr;**](../../../subject/about.en.html#c_Sm2.II_(alt) "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,144220" title="about: Germany : Cartography, aerial photography" target="_blank">7 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1442xx/144220/about.en.html))
-  - c Sm20 Country studies, conferences [**&nearr;**](../../../subject/i/182723/about.en.html "Country studies, conferences (all over the world)") [**&uarr;**](../../../subject/about.en.html#c_Sm20 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,182723" title="about: Germany : Country studies, conferences" target="_blank">6 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1827xx/182723/about.en.html))
+  - c Sm20 Country studies, conferences [**&nearr;**](../../../subject/i/182723/about.en.html "Country studies, conferences (all over the world)") [**&uarr;**](../../../subject/about.en.html#c_Sm20 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,182723" title="about: Germany : Country studies, conferences" target="_blank">8 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1827xx/182723/about.en.html))
   - c Sm40 Country studies, professions and training [**&nearr;**](../../../subject/i/182748/about.en.html "Country studies, professions and training (all over the world)") [**&uarr;**](../../../subject/about.en.html#c_Sm40 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,182748" title="about: Germany : Country studies, professions and training" target="_blank">9 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1827xx/182748/about.en.html))
   - c Sm50 Country studies, institutions [**&nearr;**](../../../subject/i/182749/about.en.html "Country studies, institutions (all over the world)") [**&uarr;**](../../../subject/about.en.html#c_Sm50 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,182749" title="about: Germany : Country studies, institutions" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1827xx/182749/about.en.html))
-- c2 State borders, political division [**&nearr;**](../../../subject/i/144202/about.en.html "State borders, political division (all over the world)") [**&uarr;**](../../../subject/about.en.html#c2 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,144202" title="about: Germany : State borders, political division" target="_blank">202 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1442xx/144202/about.en.html))
+- c2 State borders, political division [**&nearr;**](../../../subject/i/144202/about.en.html "State borders, political division (all over the world)") [**&uarr;**](../../../subject/about.en.html#c2 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,144202" title="about: Germany : State borders, political division" target="_blank">205 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1442xx/144202/about.en.html))
 - c2a State borders with individual countries [**&nearr;**](../../../subject/i/144203/about.en.html "State borders with individual countries (all over the world)") [**&uarr;**](../../../subject/about.en.html#c2a "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,144203" title="about: Germany : State borders with individual countries" target="_blank">97 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1442xx/144203/about.en.html))
-- c5 Climate [**&nearr;**](../../../subject/i/144209/about.en.html "Climate (all over the world)") [**&uarr;**](../../../subject/about.en.html#c5 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,144209" title="about: Germany : Climate" target="_blank">77 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1442xx/144209/about.en.html))
+- c5 Climate [**&nearr;**](../../../subject/i/144209/about.en.html "Climate (all over the world)") [**&uarr;**](../../../subject/about.en.html#c5 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,144209" title="about: Germany : Climate" target="_blank">80 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1442xx/144209/about.en.html))
 - c7 Plant kingdom [**&nearr;**](../../../subject/i/144211/about.en.html "Plant kingdom (all over the world)") [**&uarr;**](../../../subject/about.en.html#c7 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,144211" title="about: Germany : Plant kingdom" target="_blank">48 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1442xx/144211/about.en.html))
 - c8 Animal kingdom [**&nearr;**](../../../subject/i/144212/about.en.html "Animal kingdom (all over the world)") [**&uarr;**](../../../subject/about.en.html#c8 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,144212" title="about: Germany : Animal kingdom" target="_blank">74 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1442xx/144212/about.en.html))
-  - c8 Sm1 Animal protection [**&nearr;**](../../../subject/i/144213/about.en.html "Animal protection (all over the world)") [**&uarr;**](../../../subject/about.en.html#c8_Sm1 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,144213" title="about: Germany : Animal protection" target="_blank">81 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1442xx/144213/about.en.html))
-- c9 Landscapes, description of individual places and areas [**&nearr;**](../../../subject/i/144214/about.en.html "Landscapes, description of individual places and areas (all over the world)") [**&uarr;**](../../../subject/about.en.html#c9 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,144214" title="about: Germany : Landscapes, description of individual places and areas" target="_blank">933 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1442xx/144214/about.en.html))
+  - c8 Sm1 Animal protection [**&nearr;**](../../../subject/i/144213/about.en.html "Animal protection (all over the world)") [**&uarr;**](../../../subject/about.en.html#c8_Sm1 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,144213" title="about: Germany : Animal protection" target="_blank">88 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1442xx/144213/about.en.html))
+- c9 Landscapes, description of individual places and areas [**&nearr;**](../../../subject/i/144214/about.en.html "Landscapes, description of individual places and areas (all over the world)") [**&uarr;**](../../../subject/about.en.html#c9 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,144214" title="about: Germany : Landscapes, description of individual places and areas" target="_blank">962 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1442xx/144214/about.en.html))
 - c10 Natural disasters [**&nearr;**](../../../subject/i/144215/about.en.html "Natural disasters (all over the world)") [**&uarr;**](../../../subject/about.en.html#c10 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,144215" title="about: Germany : Natural disasters" target="_blank">113 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1442xx/144215/about.en.html))
   - c10 Sm1 (alt) Geography, earthquakes and volcanic eruptions [**&nearr;**](../../../subject/i/144216/about.en.html "Geography, earthquakes and volcanic eruptions (all over the world)") [**&uarr;**](../../../subject/about.en.html#c10_Sm1_(alt) "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,144216" title="about: Germany : Geography, earthquakes and volcanic eruptions" target="_blank">19 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1442xx/144216/about.en.html))
 
@@ -229,7 +232,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### Economy
 
 - [n24 Credit and banking]{.gray}
-  - n24 Sm48 Ship lending [**&nearr;**](../../../subject/i/145420/about.en.html "Ship lending (all over the world)") [**&uarr;**](../../../subject/about.en.html#n24_Sm48 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,145420" title="about: Germany : Ship lending" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1454xx/145420/about.en.html))
+  - n24 Sm48 Ship mortgage [**&nearr;**](../../../subject/i/145420/about.en.html "Ship mortgage (all over the world)") [**&uarr;**](../../../subject/about.en.html#n24_Sm48 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,145420" title="about: Germany : Ship mortgage" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1454xx/145420/about.en.html))
 - [n30 Railways]{.gray}
   - n30 Sm502 (A10) Delivery of railway material on the basis of the peace treaty [**&nearr;**](../../../subject/i/145549/about.en.html "Delivery of railway material on the basis of the peace treaty (all over the world)") [**&uarr;**](../../../subject/about.en.html#n30_Sm502_(A10) "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,145549" title="about: Germany : Delivery of railway material on the basis of the peace treaty" target="_blank">11 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1455xx/145549/about.en.html))
   - n30 Sm503 (A10) Railway lines prohibited by the Entente [**&nearr;**](../../../subject/i/145551/about.en.html "Railway lines prohibited by the Entente (all over the world)") [**&uarr;**](../../../subject/about.en.html#n30_Sm503_(A10) "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,145551" title="about: Germany : Railway lines prohibited by the Entente" target="_blank">25 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1455xx/145551/about.en.html))
@@ -367,11 +370,1318 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
+<a id="filmsections" />
+
+## Sections of digitized microfilms (1st filming 1908-1949)
+
+<p>For intellectual property law reasons accessible only from the European Union legal area and from the ZBW reading room.</p>
+
+
+
+<p>Total number of images: 166687</p>
 
 
 
 
-## Commodities/wares archives
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_1" rel="nofollow">Images on film h1/sh/S0043H_1</a> | Filmanfang: Deutschland : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten München [A10 f2a München]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_1/0002/L" rel="nofollow">Images on film h1/sh/S0043H_1/0002/L</a> | München : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_1/0046/R" rel="nofollow">Images on film h1/sh/S0043H_1/0046/R</a> | Münster : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_1/0047/R" rel="nofollow">Images on film h1/sh/S0043H_1/0047/R</a> | Nemmersdorf : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_1/0048/L" rel="nofollow">Images on film h1/sh/S0043H_1/0048/L</a> | Nürnberg : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_1/0061/R" rel="nofollow">Images on film h1/sh/S0043H_1/0061/R</a> | Oberschlesien (Pr.) : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_1/0129/L" rel="nofollow">Images on film h1/sh/S0043H_1/0129/L</a> | Oldenburg : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_1/0158/L" rel="nofollow">Images on film h1/sh/S0043H_1/0158/L</a> | Osnabrück : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_1/0158/R" rel="nofollow">Images on film h1/sh/S0043H_1/0158/R</a> | Ostgebiete : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_1/0163/R" rel="nofollow">Images on film h1/sh/S0043H_1/0163/R</a> | Ostmark : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_1/0165/L" rel="nofollow">Images on film h1/sh/S0043H_1/0165/L</a> | Ostpreußen (Pr.) : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_1/0265/L" rel="nofollow">Images on film h1/sh/S0043H_1/0265/L</a> | Pfalz : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_1/0284/R" rel="nofollow">Images on film h1/sh/S0043H_1/0284/R</a> | Pommern (Pr.) : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_1/0292/L" rel="nofollow">Images on film h1/sh/S0043H_1/0292/L</a> | Posen : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_1/0299/L" rel="nofollow">Images on film h1/sh/S0043H_1/0299/L</a> | Preussen : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_1/0556/R" rel="nofollow">Images on film h1/sh/S0043H_1/0556/R</a> | Rostock : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_1/0558/L" rel="nofollow">Images on film h1/sh/S0043H_1/0558/L</a> | Ruhrgebiet : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_1/0559/R" rel="nofollow">Images on film h1/sh/S0043H_1/0559/R</a> | Saarbrücken : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_1/0562/R" rel="nofollow">Images on film h1/sh/S0043H_1/0562/R</a> | Sachsen (Pr.) : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_2/0621/L" rel="nofollow">Images on film h1/sh/S0043H_2/0621/L</a> | Sachsen (Pr.) : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_2/0692/L" rel="nofollow">Images on film h1/sh/S0043H_2/0692/L</a> | Schaumburg-Lippe : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_2/0701/R" rel="nofollow">Images on film h1/sh/S0043H_2/0701/R</a> | Schlesien (Pr.) : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_2/0729/R" rel="nofollow">Images on film h1/sh/S0043H_2/0729/R</a> | Schleswig-Holstein (Pr.) : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_2/0774/L" rel="nofollow">Images on film h1/sh/S0043H_2/0774/L</a> | Schweinfurt : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_2/0775/R" rel="nofollow">Images on film h1/sh/S0043H_2/0775/R</a> | Sigmaringen : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_2/0778/L" rel="nofollow">Images on film h1/sh/S0043H_2/0778/L</a> | Solingen : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_2/0783/R" rel="nofollow">Images on film h1/sh/S0043H_2/0783/R</a> | Speyer : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_2/0784/R" rel="nofollow">Images on film h1/sh/S0043H_2/0784/R</a> | Stade : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_2/0785/R" rel="nofollow">Images on film h1/sh/S0043H_2/0785/R</a> | Stettin : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_2/0786/L" rel="nofollow">Images on film h1/sh/S0043H_2/0786/L</a> | Stolberg : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_2/0786/R" rel="nofollow">Images on film h1/sh/S0043H_2/0786/R</a> | Stralsund : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_2/0787/R" rel="nofollow">Images on film h1/sh/S0043H_2/0787/R</a> | Strassburg : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_2/0790/R" rel="nofollow">Images on film h1/sh/S0043H_2/0790/R</a> | Stuttgart : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_2/0797/R" rel="nofollow">Images on film h1/sh/S0043H_2/0797/R</a> | Sudetenland : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_2/0804/R" rel="nofollow">Images on film h1/sh/S0043H_2/0804/R</a> | Thüringen : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_2/0919/L" rel="nofollow">Images on film h1/sh/S0043H_2/0919/L</a> | Trier : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_2/0933/R" rel="nofollow">Images on film h1/sh/S0043H_2/0933/R</a> | Waldeck : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_2/0948/R" rel="nofollow">Images on film h1/sh/S0043H_2/0948/R</a> | Warthegau : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_2/0961/L" rel="nofollow">Images on film h1/sh/S0043H_2/0961/L</a> | Weimar : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_2/0962/L" rel="nofollow">Images on film h1/sh/S0043H_2/0962/L</a> | Wesermünde : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_2/0967/R" rel="nofollow">Images on film h1/sh/S0043H_2/0967/R</a> | Westdeutschland : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_2/0976/L" rel="nofollow">Images on film h1/sh/S0043H_2/0976/L</a> | Westfalen (Pr.) : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_2/0983/R" rel="nofollow">Images on film h1/sh/S0043H_2/0983/R</a> | Westmark : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_2/0985/R" rel="nofollow">Images on film h1/sh/S0043H_2/0985/R</a> | Westpreussen (Pr.) : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_2/0990/L" rel="nofollow">Images on film h1/sh/S0043H_2/0990/L</a> | Wien : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_2/0993/R" rel="nofollow">Images on film h1/sh/S0043H_2/0993/R</a> | Wiesbaden : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_2/1000/R" rel="nofollow">Images on film h1/sh/S0043H_2/1000/R</a> | Wilhelmshaven : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_2/1003/L" rel="nofollow">Images on film h1/sh/S0043H_2/1003/L</a> | Württemberg : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_2/1034/R" rel="nofollow">Images on film h1/sh/S0043H_2/1034/R</a> | Wuppertal : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_2/1038/R" rel="nofollow">Images on film h1/sh/S0043H_2/1038/R</a> | Deutschland (bis 1945) : Verfassung, Staatsform - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0043H_2/1071/R" rel="nofollow">Images on film h1/sh/S0043H_2/1071/R</a> | Deutschland (bis 1945) : Verfassung, Staatsform
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0044H/0002" rel="nofollow">Images on film h1/sh/S0044H/0002</a> | Deutschland (bis 1945) : Verfassung, Staatsform
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0044H/0188/L" rel="nofollow">Images on film h1/sh/S0044H/0188/L</a> | Deutschland (bis 1945) : Wahlrecht
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0044H/0443/L" rel="nofollow">Images on film h1/sh/S0044H/0443/L</a> | Deutschland (bis 1945) : Frauenwahlrecht
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0044H/0467/R" rel="nofollow">Images on film h1/sh/S0044H/0467/R</a> | Deutschland (bis 1945) : Parlamentarische und politische Körperschaften
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0044H/0562/L" rel="nofollow">Images on film h1/sh/S0044H/0562/L</a> | Deutschland (bis 1945) : Staatsgerichtshof
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0044H/0600/L" rel="nofollow">Images on film h1/sh/S0044H/0600/L</a> | Deutschland (bis 1945) : Gesetzliche Feiertage
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0044H/0663/L" rel="nofollow">Images on film h1/sh/S0044H/0663/L</a> | Deutschland (bis 1945) : Hoheitszeichen, Orden und Titel
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0045H/0002/L" rel="nofollow">Images on film h1/sh/S0045H/0002/L</a> | Deutschland (bis 1945) : Hoheitszeichen, Orden und Titel
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0045H/0067/R" rel="nofollow">Images on film h1/sh/S0045H/0067/R</a> | Deutschland (bis 1945) : Standesvorrechte
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0045H/0101/L" rel="nofollow">Images on film h1/sh/S0045H/0101/L</a> | Deutschland (bis 1945) : Koalitions- und Versammlungsrecht
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0045H/0162/R" rel="nofollow">Images on film h1/sh/S0045H/0162/R</a> | Deutschland (bis 1945) : Stellung und Befugnisse des Staatsoberhauptes, seines Vertreters und der Minister
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0045H/0265/R" rel="nofollow">Images on film h1/sh/S0045H/0265/R</a> | Deutschland (bis 1945) : Innerstaatliche Neugliederung (bei Bundesstaaten)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0045H/0517/L" rel="nofollow">Images on film h1/sh/S0045H/0517/L</a> | Deutschland (bis 1945) : Ermächtigung der Regierung zu Notverordnungen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0045H/0548/L" rel="nofollow">Images on film h1/sh/S0045H/0548/L</a> | Deutschland (bis 1945) : Staatsangehörigkeit, Bürgerrecht, Naturalisation
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0045H/0638/R" rel="nofollow">Images on film h1/sh/S0045H/0638/R</a> | Deutschland (bis 1945) : Befugnis zum Waffentragen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0045H/0666/R" rel="nofollow">Images on film h1/sh/S0045H/0666/R</a> | Deutschland (bis 1945) : Flaggenfrage
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0045H/0769/R" rel="nofollow">Images on film h1/sh/S0045H/0769/R</a> | Deutschland (bis 1945) : Arbeiter- und Wirtschaftsräte
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0045H/0788/R" rel="nofollow">Images on film h1/sh/S0045H/0788/R</a> | Deutschland (bis 1945) : Reichswirtschaftsrat
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0045H/0862/L" rel="nofollow">Images on film h1/sh/S0045H/0862/L</a> | Deutschland (bis 1945) : Bezirkswirtschaftsräte
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0045H/0875/R" rel="nofollow">Images on film h1/sh/S0045H/0875/R</a> | Deutschland (bis 1945) : Beamtenräte
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0045H/0886/R" rel="nofollow">Images on film h1/sh/S0045H/0886/R</a> | Deutschland (bis 1945) : Schutz der Republik
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0045H/0926/L" rel="nofollow">Images on film h1/sh/S0045H/0926/L</a> | Deutschland (bis 1945) : Ausnahmezustand (Art. 48 § 2 der Weimarer Verfassung)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0045H/0948/R" rel="nofollow">Images on film h1/sh/S0045H/0948/R</a> | Deutschland (bis 1945) : Volksentscheid (Art. 73, 74 der Weimarer Verfassung)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0045H/0993/L" rel="nofollow">Images on film h1/sh/S0045H/0993/L</a> | Deutschland (bis 1945) : Einheitsstaat
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0045H/0995/R" rel="nofollow">Images on film h1/sh/S0045H/0995/R</a> | Baden : Verfassung einzelner Bundes- und Vasallenstaaten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0045H/1005/L" rel="nofollow">Images on film h1/sh/S0045H/1005/L</a> | Bayern : Verfassung einzelner Bundes- und Vasallenstaaten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0045H/1063/L" rel="nofollow">Images on film h1/sh/S0045H/1063/L</a> | Braunschweig : Verfassung einzelner Bundes- und Vasallenstaaten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0045H/1068/L" rel="nofollow">Images on film h1/sh/S0045H/1068/L</a> | Elsass : Verfassung einzelner Bundes- und Vasallenstaaten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0045H/1068/R" rel="nofollow">Images on film h1/sh/S0045H/1068/R</a> | Hessen : Verfassung einzelner Bundes- und Vasallenstaaten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0045H/1075/R" rel="nofollow">Images on film h1/sh/S0045H/1075/R</a> | Mecklenburg : Verfassung einzelner Bundes- und Vasallenstaaten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0045H/1091/L" rel="nofollow">Images on film h1/sh/S0045H/1091/L</a> | Memel : Verfassung einzelner Bundes- und Vasallenstaaten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0045H/1137/R" rel="nofollow">Images on film h1/sh/S0045H/1137/R</a> | Preussen : Verfassung einzelner Bundes- und Vasallenstaaten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0046H_1" rel="nofollow">Images on film h1/sh/S0046H_1</a> | Filmanfang: Deutschland : Verfassung einzelner Bundes- und Vasallenstaaten Preußen [A10 f4a Preußen]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0046H_1/0002/L" rel="nofollow">Images on film h1/sh/S0046H_1/0002/L</a> | Preussen : Verfassung einzelner Bundes- und Vasallenstaaten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0046H_1/0142/L" rel="nofollow">Images on film h1/sh/S0046H_1/0142/L</a> | Sachsen : Verfassung einzelner Bundes- und Vasallenstaaten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0046H_1/0152/L" rel="nofollow">Images on film h1/sh/S0046H_1/0152/L</a> | Thüringen : Verfassung einzelner Bundes- und Vasallenstaaten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0046H_1/0160/L" rel="nofollow">Images on film h1/sh/S0046H_1/0160/L</a> | Württemberg : Verfassung einzelner Bundes- und Vasallenstaaten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0046H_1/0175/L" rel="nofollow">Images on film h1/sh/S0046H_1/0175/L</a> | Deutschland (bis 1945) : Parteiwesen - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0046H_1/0179/R" rel="nofollow">Images on film h1/sh/S0046H_1/0179/R</a> | Deutschland (bis 1945) : Parteiwesen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0046H_1/0437/R" rel="nofollow">Images on film h1/sh/S0046H_1/0437/R</a> | Deutschland (bis 1945) : Wahlen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0046H_1/0475/R" rel="nofollow">Images on film h1/sh/S0046H_1/0475/R</a> | Deutschland (bis 1945) : Wahl des Staatsoberhauptes
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0046H_2/0620/L" rel="nofollow">Images on film h1/sh/S0046H_2/0620/L</a> | Deutschland (bis 1945) : Wahl des Staatsoberhauptes
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0046H_2/0633/L" rel="nofollow">Images on film h1/sh/S0046H_2/0633/L</a> | Deutschland (bis 1945) : Wahlen für parlamentarische Körperschaften
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0046H_2/1170/R" rel="nofollow">Images on film h1/sh/S0046H_2/1170/R</a> | Anhalt : Wahlen für parlamentarische Körperschaften
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0046H_2/1172/R" rel="nofollow">Images on film h1/sh/S0046H_2/1172/R</a> | Baden : Wahlen für parlamentarische Körperschaften
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0046H_2/1182/R" rel="nofollow">Images on film h1/sh/S0046H_2/1182/R</a> | Bayern : Wahlen für parlamentarische Körperschaften
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0046H_2/1205/R" rel="nofollow">Images on film h1/sh/S0046H_2/1205/R</a> | Mecklenburg : Wahlen für parlamentarische Körperschaften
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0046H_2/1219/L" rel="nofollow">Images on film h1/sh/S0046H_2/1219/L</a> | Oldenburg : Wahlen für parlamentarische Körperschaften
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0046H_2/1228/R" rel="nofollow">Images on film h1/sh/S0046H_2/1228/R</a> | Preussen : Wahlen für parlamentarische Körperschaften
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0047H_1" rel="nofollow">Images on film h1/sh/S0047H_1</a> | Filmanfang: Deutschland : Wahlen III b [A10 f5 Sm1 III b]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0047H_1/0002/L" rel="nofollow">Images on film h1/sh/S0047H_1/0002/L</a> | Preussen : Wahlen für parlamentarische Körperschaften
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0047H_1/0069/R" rel="nofollow">Images on film h1/sh/S0047H_1/0069/R</a> | Sachsen : Wahlen für parlamentarische Körperschaften
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0047H_1/0082/R" rel="nofollow">Images on film h1/sh/S0047H_1/0082/R</a> | Thüringen : Wahlen für parlamentarische Körperschaften
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0047H_1/0092/L" rel="nofollow">Images on film h1/sh/S0047H_1/0092/L</a> | Württemberg : Wahlen für parlamentarische Körperschaften
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0047H_1/0097/L" rel="nofollow">Images on film h1/sh/S0047H_1/0097/L</a> | Deutschland (bis 1945) : Einzelne politische Strömungen - Demokratie
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0047H_1/0122/R" rel="nofollow">Images on film h1/sh/S0047H_1/0122/R</a> | Deutschland (bis 1945) : Einzelne politische Strömungen - Faschismus
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0047H_1/0128/R" rel="nofollow">Images on film h1/sh/S0047H_1/0128/R</a> | Deutschland (bis 1945) : Einzelne politische Strömungen - Kommunismus
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0047H_1/0132/R" rel="nofollow">Images on film h1/sh/S0047H_1/0132/R</a> | Deutschland (bis 1945) : Einzelne politische Strömungen - Konservatismus
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0047H_1/0133/R" rel="nofollow">Images on film h1/sh/S0047H_1/0133/R</a> | Deutschland (bis 1945) : Einzelne politische Strömungen - Liberalismus
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0047H_1/0145/R" rel="nofollow">Images on film h1/sh/S0047H_1/0145/R</a> | Deutschland (bis 1945) : Einzelne politische Strömungen - Sozialismus
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0047H_1/0169/R" rel="nofollow">Images on film h1/sh/S0047H_1/0169/R</a> | Deutschland (bis 1945) : Einzelne politische Strömungen - Nationalsozialismus
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0047H_1/0208/L" rel="nofollow">Images on film h1/sh/S0047H_1/0208/L</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - Alldeutsche
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0047H_1/0231/L" rel="nofollow">Images on film h1/sh/S0047H_1/0231/L</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - Bayerische Volkspartei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0047H_1/0260/L" rel="nofollow">Images on film h1/sh/S0047H_1/0260/L</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - Christlich-Sozialer Volksdienst
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0047H_1/0261/L" rel="nofollow">Images on film h1/sh/S0047H_1/0261/L</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - Deutsche Demokratische Partei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0047H_1/0352/R" rel="nofollow">Images on film h1/sh/S0047H_1/0352/R</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - Deutsche Staatspartei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0047H_1/0416/R" rel="nofollow">Images on film h1/sh/S0047H_1/0416/R</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - Deutsche Demokratische Partei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0047H_1/0516/L" rel="nofollow">Images on film h1/sh/S0047H_1/0516/L</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - Deutsche Vaterlandspartei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0047H_1/0522/R" rel="nofollow">Images on film h1/sh/S0047H_1/0522/R</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - Deutsche Volkspartei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0047H_2/0624/R" rel="nofollow">Images on film h1/sh/S0047H_2/0624/R</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - Deutsche Volkspartei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0047H_2/0720/R" rel="nofollow">Images on film h1/sh/S0047H_2/0720/R</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - Deutschnationale Volkspartei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0047H_2/0951/R" rel="nofollow">Images on film h1/sh/S0047H_2/0951/R</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - Deutschvölkische Freiheitspartei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0047H_2/0987/L" rel="nofollow">Images on film h1/sh/S0047H_2/0987/L</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - Fortschrittliche Volkspartei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0047H_2/0995/R" rel="nofollow">Images on film h1/sh/S0047H_2/0995/R</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - KPD
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0048H_1" rel="nofollow">Images on film h1/sh/S0048H_1</a> | Filmanfang: Deutschland : f5a.Ik Kommunisten [A10 f5a.Ik Kommunisten]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0048H_1/0002" rel="nofollow">Images on film h1/sh/S0048H_1/0002</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - KPD
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0048H_1/0094/R" rel="nofollow">Images on film h1/sh/S0048H_1/0094/R</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - Nationalliberale Partei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0048H_1/0121/L" rel="nofollow">Images on film h1/sh/S0048H_1/0121/L</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - NSDAP
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0048H_2/0623/L" rel="nofollow">Images on film h1/sh/S0048H_2/0623/L</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - NSDAP
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0049H_1" rel="nofollow">Images on film h1/sh/S0049H_1</a> | Filmanfang: Deutschland : f5a.Ik N.S.D.A.P. [A10 f5a.Ik N.S.D.A.P.]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0049H_1/0002/L" rel="nofollow">Images on film h1/sh/S0049H_1/0002/L</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - NSDAP
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0049H_1/0473/L" rel="nofollow">Images on film h1/sh/S0049H_1/0473/L</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - Radikaldemokraten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0049H_1/0474/R" rel="nofollow">Images on film h1/sh/S0049H_1/0474/R</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - SPD
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0049H_2/0626" rel="nofollow">Images on film h1/sh/S0049H_2/0626</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - SPD
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0049H_2/1121/R" rel="nofollow">Images on film h1/sh/S0049H_2/1121/R</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - Spartakus
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0049H_2/1151" rel="nofollow">Images on film h1/sh/S0049H_2/1151</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - USPD
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0049H_2/1237/L" rel="nofollow">Images on film h1/sh/S0049H_2/1237/L</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - Zentrumspartei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0050H/0002/L" rel="nofollow">Images on film h1/sh/S0050H/0002/L</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - Zentrumspartei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0050H/0327/R" rel="nofollow">Images on film h1/sh/S0050H/0327/R</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - Alldeutsche
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0050H/0346/L" rel="nofollow">Images on film h1/sh/S0050H/0346/L</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - Altsozialisten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0050H/0349/R" rel="nofollow">Images on film h1/sh/S0050H/0349/R</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - Bayerischer Bauernbund
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0050H/0351/R" rel="nofollow">Images on film h1/sh/S0050H/0351/R</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - Bayerische Mittelpartei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0050H/0357/R" rel="nofollow">Images on film h1/sh/S0050H/0357/R</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - Bayerische Königspartei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0050H/0363/R" rel="nofollow">Images on film h1/sh/S0050H/0363/R</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - Christlich-nationale Bauernpartei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0050H/0364/R" rel="nofollow">Images on film h1/sh/S0050H/0364/R</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - Landvolkpartei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0050H/0377/R" rel="nofollow">Images on film h1/sh/S0050H/0377/R</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - Landbund
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0050H/0379" rel="nofollow">Images on film h1/sh/S0050H/0379</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - Christlich-nationale Volkspartei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0050H/0381/L" rel="nofollow">Images on film h1/sh/S0050H/0381/L</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - Christlich-soziale Reichspartei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0050H/0390/R" rel="nofollow">Images on film h1/sh/S0050H/0390/R</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - Christlich-sozialer Volksdienst
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0050H/0396/R" rel="nofollow">Images on film h1/sh/S0050H/0396/R</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - Deutsch Konservative Partei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0050H/0399/R" rel="nofollow">Images on film h1/sh/S0050H/0399/R</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - Republikanische Union
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0050H/0417/R" rel="nofollow">Images on film h1/sh/S0050H/0417/R</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - Sozialistische Arbeiterpartei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0050H/0420/L" rel="nofollow">Images on film h1/sh/S0050H/0420/L</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - Sozialrepublikanische Partei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0050H/0420/R" rel="nofollow">Images on film h1/sh/S0050H/0420/R</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - Volkskonservative Vereinigung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0050H/0425/R" rel="nofollow">Images on film h1/sh/S0050H/0425/R</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - Konservative Volkspartei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0050H/0432/L" rel="nofollow">Images on film h1/sh/S0050H/0432/L</a> | Deutschland (bis 1945): Einzelne Parteien und Parteigruppen - Volksnationale Reichsvereinigung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0050H/0433/R" rel="nofollow">Images on film h1/sh/S0050H/0433/R</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - Welfenfrage
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0050H/0458/L" rel="nofollow">Images on film h1/sh/S0050H/0458/L</a> | Deutschland (bis 1945) : Einzelne Parteien und Parteigruppen - Wirtschaftspartei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0050H/0487/R" rel="nofollow">Images on film h1/sh/S0050H/0487/R</a> | Deutschland (bis 1945) : Verhandlungen von parlamentarischen und politischen Körperschaften
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0050H/1022/R" rel="nofollow">Images on film h1/sh/S0050H/1022/R</a> | Deutschland (bis 1945) : Reichstagsausschüsse
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0051H_1" rel="nofollow">Images on film h1/sh/S0051H_1</a> | Filmanfang: Deutschland : Verhandlungen von parlamentarischen und politischen Körperschaften Sm501 Haushalt [A10 f6 Sm501 Haushalt]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0051H_1/0002/L" rel="nofollow">Images on film h1/sh/S0051H_1/0002/L</a> | Deutschland (bis 1945) : Reichstagsausschüsse
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0051H_1/0420/L" rel="nofollow">Images on film h1/sh/S0051H_1/0420/L</a> | Deutschland (bis 1945) : Reichswirtschaftsausschüsse
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0051H_1/0463/L" rel="nofollow">Images on film h1/sh/S0051H_1/0463/L</a> | Deutschland (bis 1945) : Preussische Landtagsausschüsse
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0051H_2/0626/L" rel="nofollow">Images on film h1/sh/S0051H_2/0626/L</a> | Deutschland (bis 1945) : Preussische Landtagsausschüsse
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0051H_2/0738/L" rel="nofollow">Images on film h1/sh/S0051H_2/0738/L</a> | Bayern : Verhandlungen parlamentarischer Körperschaften einzelner Regionen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0051H_2/0823/L" rel="nofollow">Images on film h1/sh/S0051H_2/0823/L</a> | Lübeck : Verhandlungen parlamentarischer Körperschaften einzelner Regionen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0051H_2/0830/R" rel="nofollow">Images on film h1/sh/S0051H_2/0830/R</a> | Preussen : Verhandlungen parlamentarischer Körperschaften einzelner Regionen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0051H_2/1038/L" rel="nofollow">Images on film h1/sh/S0051H_2/1038/L</a> | Württemberg : Verhandlungen parlamentarischer Körperschaften einzelner Regionen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0051H_2/1039/R" rel="nofollow">Images on film h1/sh/S0051H_2/1039/R</a> | Deutschland (bis 1945) : Außenpolitik und politische Beziehungen zum Ausland - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0051H_2/1089/R" rel="nofollow">Images on film h1/sh/S0051H_2/1089/R</a> | Deutschland (bis 1945) : Außenpolitik und politische Beziehungen zum Ausland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0052H/0002/R" rel="nofollow">Images on film h1/sh/S0052H/0002/R</a> | Deutschland (bis 1945) : Außenpolitik und politische Beziehungen zum Ausland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0053H/0002/R" rel="nofollow">Images on film h1/sh/S0053H/0002/R</a> | Deutschland (bis 1945) : Außenpolitik und politische Beziehungen zum Ausland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0053H/0264/R" rel="nofollow">Images on film h1/sh/S0053H/0264/R</a> | Deutschland (bis 1945) : Neutralität
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0053H/0283/R" rel="nofollow">Images on film h1/sh/S0053H/0283/R</a> | Deutschland (bis 1945) : Vorgeschichte des Ersten Weltkrieges - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0053H/0319/R" rel="nofollow">Images on film h1/sh/S0053H/0319/R</a> | Deutschland (bis 1945) : Vorgeschichte des Ersten Weltkrieges
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0053H/0601/R" rel="nofollow">Images on film h1/sh/S0053H/0601/R</a> | Deutschland (bis 1945) : Vorgeschichte des Ersten Weltkrieges, Kriegsschuld (historische Beiträge) - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0053H/0610/R" rel="nofollow">Images on film h1/sh/S0053H/0610/R</a> | Deutschland (bis 1945) : Vorgeschichte des Ersten Weltkrieges, Kriegsschuld (historische Beiträge)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0053H/0712/R" rel="nofollow">Images on film h1/sh/S0053H/0712/R</a> | Deutschland (bis 1945) : Kriegsziele (Weltkrieg) - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0053H/0716/R" rel="nofollow">Images on film h1/sh/S0053H/0716/R</a> | Deutschland (bis 1945) : Kriegsziele (Weltkrieg)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0053H/1007/L" rel="nofollow">Images on film h1/sh/S0053H/1007/L</a> | Deutschland (bis 1945) : Kriegsziele, Belgien - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0053H/1008/R" rel="nofollow">Images on film h1/sh/S0053H/1008/R</a> | Deutschland (bis 1945) : Kriegsziele, Belgien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0053H/1061/L" rel="nofollow">Images on film h1/sh/S0053H/1061/L</a> | Deutschland (bis 1945) : Friedensbestrebungen ( Weltkrieg) - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0053H/1064/L" rel="nofollow">Images on film h1/sh/S0053H/1064/L</a> | Deutschland (bis 1945) : Friedensbestrebungen ( Weltkrieg)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0054H/0002/L" rel="nofollow">Images on film h1/sh/S0054H/0002/L</a> | Deutschland (bis 1945) : Friedensbestrebungen ( Weltkrieg)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0054H/0173/R" rel="nofollow">Images on film h1/sh/S0054H/0173/R</a> | Deutschland (bis 1945) : Waffenstillstände
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0054H/0279/L" rel="nofollow">Images on film h1/sh/S0054H/0279/L</a> | Deutschland (bis 1945) : Propaganda im Ausland - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0054H/0285/R" rel="nofollow">Images on film h1/sh/S0054H/0285/R</a> | Deutschland (bis 1945) : Propaganda im Ausland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0054H/0369/R" rel="nofollow">Images on film h1/sh/S0054H/0369/R</a> | Deutschland (bis 1945) : Propaganda des Auslandes in ...
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0054H/0398/L" rel="nofollow">Images on film h1/sh/S0054H/0398/L</a> | Deutschland (bis 1945) : Propaganda des Auslandes für oder gegen…
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0054H/0486/R" rel="nofollow">Images on film h1/sh/S0054H/0486/R</a> | Deutschland (bis 1945) : Pazifistische und philanthropische Bestrebungen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0054H/0518/L" rel="nofollow">Images on film h1/sh/S0054H/0518/L</a> | Deutschland (bis 1945) : Islampolitik
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0054H/0535/L" rel="nofollow">Images on film h1/sh/S0054H/0535/L</a> | Deutschland (bis 1945) : Deutsche Friedensdiktatbestimmungen u. deren Ausführung (Versailles) - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0054H/0539/R" rel="nofollow">Images on film h1/sh/S0054H/0539/R</a> | Deutschland (bis 1945) : Deutsche Friedensdiktatbestimmungen u. deren Ausführung (Versailles)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0054H/0728/R" rel="nofollow">Images on film h1/sh/S0054H/0728/R</a> | Deutschland (bis 1945) : Reparationsfrage (incl. Dawes-McKenna-Plan)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0054H/0729/R" rel="nofollow">Images on film h1/sh/S0054H/0729/R</a> | Deutschland (bis 1945) : Sanktionsfrage
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0054H/0771/R" rel="nofollow">Images on film h1/sh/S0054H/0771/R</a> | Deutschland (bis 1945) : Beziehungen zum Völkerbund
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0054H/1058/L" rel="nofollow">Images on film h1/sh/S0054H/1058/L</a> | Deutschland (bis 1945) : Politische Interessen in fremden Staaten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0054H/1077/R" rel="nofollow">Images on film h1/sh/S0054H/1077/R</a> | Deutschland (bis 1945) : Stimmen und Stellung zur Klärung der Kriegsschuldfrage (Weltkrieg) - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0054H/1086/R" rel="nofollow">Images on film h1/sh/S0054H/1086/R</a> | Deutschland (bis 1945) : Stimmen und Stellung zur Klärung der Kriegsschuldfrage (Weltkrieg)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0054H/1132/R" rel="nofollow">Images on film h1/sh/S0054H/1132/R</a> | Deutschland (bis 1945) : Außenpolitik, Institutionen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0054H/1169/L" rel="nofollow">Images on film h1/sh/S0054H/1169/L</a> | Deutschland (bis 1945) : Becken von Briey und Longwy (als Kriegsziel)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0054H/1181/L" rel="nofollow">Images on film h1/sh/S0054H/1181/L</a> | Deutschland (bis 1945) : Lichnowsky Affaire
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0054H/1203/R" rel="nofollow">Images on film h1/sh/S0054H/1203/R</a> | Deutschland (bis 1945) : Friedensverhandlungen mit den Alliierten (Weltkrieg)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0055H_1" rel="nofollow">Images on film h1/sh/S0055H_1</a> | Filmanfang: Deutschland : Außenpolitik und politische Beziehungen zum Ausland, Allgemein Sm503 [A10 g Sm503]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0055H_1/0002/L" rel="nofollow">Images on film h1/sh/S0055H_1/0002/L</a> | Deutschland (bis 1945) : Friedensverhandlungen mit den Alliierten (Erster Weltkrieg)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0055H_1/0446/R" rel="nofollow">Images on film h1/sh/S0055H_1/0446/R</a> | Deutschland (bis 1945) : Friedensvertrag (Erster Weltkrieg) - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0055H_1/0460/L" rel="nofollow">Images on film h1/sh/S0055H_1/0460/L</a> | Deutschland (bis 1945) : Friedensvertrag (Erster Weltkrieg)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0055H_1/0595/R" rel="nofollow">Images on film h1/sh/S0055H_1/0595/R</a> | Deutschland (bis 1945) : Friedensvertrag (Erster Weltkrieg), Notenwechsel
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0055H_2/0623" rel="nofollow">Images on film h1/sh/S0055H_2/0623</a> | Deutschland (bis 1945) : Friedensvertrag (Erster Weltkrieg), Notenwechsel
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0055H_2/0648/R" rel="nofollow">Images on film h1/sh/S0055H_2/0648/R</a> | Deutschland (bis 1945) : Friedensvertrag (Erster Weltkrieg), Berichtigungen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0055H_2/0663/L" rel="nofollow">Images on film h1/sh/S0055H_2/0663/L</a> | Deutschland (bis 1945) : Friedensvertrag (Erster Weltkrieg), Kommissionen, Prüfungsstellen usw.
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0055H_2/0688/R" rel="nofollow">Images on film h1/sh/S0055H_2/0688/R</a> | Deutschland (bis 1945) : Friedensvertrag (Erster Weltkrieg), Sonderverträge
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0055H_2/0696/L" rel="nofollow">Images on film h1/sh/S0055H_2/0696/L</a> | Deutschland (bis 1945) : Friedensvertrag (Erster Weltkrieg), Finanzielle Bestimmungen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0055H_2/0719/L" rel="nofollow">Images on film h1/sh/S0055H_2/0719/L</a> | Deutschland (bis 1945) : Friedensvertrag (Erster Weltkrieg), Bestimmungen betr. Wiedergutmachung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0055H_2/0770/L" rel="nofollow">Images on film h1/sh/S0055H_2/0770/L</a> | Deutschland (bis 1945) : Friedensvertrag (Erster Weltkrieg), Territorialfragen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0055H_2/0804/L" rel="nofollow">Images on film h1/sh/S0055H_2/0804/L</a> | Deutschland (bis 1945) : Friedensvertrag (Erster Weltkrieg), Kriegsverbrecher, Auslieferung Deutscher
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0055H_2/0947/L" rel="nofollow">Images on film h1/sh/S0055H_2/0947/L</a> | Deutschland (bis 1945) : Friedensvertrag (Erster Weltkrieg), Kriegsverbrecher, Auslieferung Deutscher. Listen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0055H_2/0955/R" rel="nofollow">Images on film h1/sh/S0055H_2/0955/R</a> | Deutschland (bis 1945) : Friedensvertrag (Erster Weltkrieg), Kriegsverbrecher, Auslieferung Deutscher. Einzelne Personen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0055H_2/1085/R" rel="nofollow">Images on film h1/sh/S0055H_2/1085/R</a> | Deutschland (bis 1945)  Friedensvertrag (Erster Weltkrieg), Ratifikation
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0055H_2/1114/R" rel="nofollow">Images on film h1/sh/S0055H_2/1114/R</a> | Deutschland (bis 1945) : Friedensvertrag (Erster Weltkrieg), Zusätze zum Friedensvertrag
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0055H_2/1145/R" rel="nofollow">Images on film h1/sh/S0055H_2/1145/R</a> | Deutschland (bis 1945) : Friedensvertrag (Erster Weltkrieg), Inkrafttretung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0055H_2/1156/L" rel="nofollow">Images on film h1/sh/S0055H_2/1156/L</a> | Deutschland (bis 1945) : Friedensvertrag (Erster Weltkrieg), Repressalienklausel
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0055H_2/1164/L" rel="nofollow">Images on film h1/sh/S0055H_2/1164/L</a> | Deutschland (bis 1945) : Friedensvertrag (Erster Weltkrieg), Repressalienklausel, Stellungnahme einzelner Länder
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0055H_2/1164/R" rel="nofollow">Images on film h1/sh/S0055H_2/1164/R</a> | Deutschland (bis 1945) : Die baltische Frage
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0055H_2/1167/R" rel="nofollow">Images on film h1/sh/S0055H_2/1167/R</a> | Deutschland (bis 1945) : Konferenz von Spa (Juli 1920)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0056H_1" rel="nofollow">Images on film h1/sh/S0056H_1</a> | Filmanfang: Deutschland : Außenpolitik und politische Beziehungen zum Ausland, Allgemein Sm506 [A10 g Sm506]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0056H_1/0002/L" rel="nofollow">Images on film h1/sh/S0056H_1/0002/L</a> | Deutschland (bis 1945) : Konferenz von Spa (Juli 1920)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0056H_1/0023" rel="nofollow">Images on film h1/sh/S0056H_1/0023</a> | Deutschland (bis 1945) : Konferenz von Genf (November 1920)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0056H_1/0034/R" rel="nofollow">Images on film h1/sh/S0056H_1/0034/R</a> | Deutschland (bis 1945) : Londoner Konferenz (Juli 1924), Vorgeschichte
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0056H_1/0215/L" rel="nofollow">Images on film h1/sh/S0056H_1/0215/L</a> | Deutschland (bis 1945) : Londoner Konferenz (Juli 1924), Verhandlungen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0056H_1/0259/L" rel="nofollow">Images on film h1/sh/S0056H_1/0259/L</a> | Deutschland (bis 1945) : Londoner Konferenz (Juli 1924), Londoner Protokoll (mit Zusatzabkommen v. 10.-30.08.1924)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0056H_1/0385/L" rel="nofollow">Images on film h1/sh/S0056H_1/0385/L</a> | Deutschland (bis 1945) : Räumung des besetzten Gebietes
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0056H_2/0622/L" rel="nofollow">Images on film h1/sh/S0056H_2/0622/L</a> | Deutschland (bis 1945) : Räumung des besetzten Gebietes
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0056H_2/0725/R" rel="nofollow">Images on film h1/sh/S0056H_2/0725/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu einzelnen Ländern
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0056H_2/0758/L" rel="nofollow">Images on film h1/sh/S0056H_2/0758/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Dominikanische Republik
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0056H_2/0761/L" rel="nofollow">Images on film h1/sh/S0056H_2/0761/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Ecuador
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0056H_2/0768/L" rel="nofollow">Images on film h1/sh/S0056H_2/0768/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu England - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0056H_2/0785/L" rel="nofollow">Images on film h1/sh/S0056H_2/0785/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu England
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0057H_1" rel="nofollow">Images on film h1/sh/S0057H_1</a> | Filmanfang: Deutschland : Politische Beziehungen zu einzelnen Ländern England [A10 g1 England]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0057H_1/0002/L" rel="nofollow">Images on film h1/sh/S0057H_1/0002/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu England
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0057H_2/0624/L" rel="nofollow">Images on film h1/sh/S0057H_2/0624/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu England
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0057H_2/1019/R" rel="nofollow">Images on film h1/sh/S0057H_2/1019/R</a> | Deutschland (bis 1945) : Friedensschlüsse und allgemeine Ausführungsbestimmungen (incl. Kriegsentschädigungsregelung) - England
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0057H_2/1026/R" rel="nofollow">Images on film h1/sh/S0057H_2/1026/R</a> | Deutschland (bis 1945) : Außenpolitik. Historische Rückblicke - England, Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0057H_2/1034/R" rel="nofollow">Images on film h1/sh/S0057H_2/1034/R</a> | Deutschland (bis 1945) : Außenpolitik. Historische Rückblicke - England
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0057H_2/1079/L" rel="nofollow">Images on film h1/sh/S0057H_2/1079/L</a> | Deutschland (bis 1945) : Paßabmachungen mit England
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0057H_2/1086/R" rel="nofollow">Images on film h1/sh/S0057H_2/1086/R</a> | Deutschland (bis 1945) : Abkommen über Auslieferung - England
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0057H_2/1090/R" rel="nofollow">Images on film h1/sh/S0057H_2/1090/R</a> | Deutschland (bis 1945) :	 Außenpolitische und kulturelle Propaganda, England - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0057H_2/1101/L" rel="nofollow">Images on film h1/sh/S0057H_2/1101/L</a> | Deutschland (bis 1945) :	 Außenpolitische und kulturelle Propaganda, England
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0058H_1" rel="nofollow">Images on film h1/sh/S0058H_1</a> | Filmanfang: Deutschland : Politische Beziehungen zu einzelnen Ländern England Sm8 [A10 g1 England Sm8]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0058H_1/0002/L" rel="nofollow">Images on film h1/sh/S0058H_1/0002/L</a> | Deutschland (bis 1945) :	 Außenpolitische und kulturelle Propaganda, England
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0058H_1/0297/L" rel="nofollow">Images on film h1/sh/S0058H_1/0297/L</a> | Deutschland (bis 1945) : Stimmen, Gespräche und Abmachungen über Kolonialgebiete und Interessensphären - England, Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0058H_1/0301/L" rel="nofollow">Images on film h1/sh/S0058H_1/0301/L</a> | Deutschland (bis 1945) : Stimmen, Gespräche und Abmachungen über Kolonialgebiete und Interessensphären - England
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0058H_1/0400/L" rel="nofollow">Images on film h1/sh/S0058H_1/0400/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Finnland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0058H_1/0550/R" rel="nofollow">Images on film h1/sh/S0058H_1/0550/R</a> | Deutschland (bis 1945) : Friedensschlüsse und allgemeine Ausführungsbestimmungen (incl. Kriegsentschädigungsregelung) - Finnland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0058H_1/0553/R" rel="nofollow">Images on film h1/sh/S0058H_1/0553/R</a> | Deutschland (bis 1945) : Paßabmachungen mit anderen Ländern - Finnland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0058H_1/0555/R" rel="nofollow">Images on film h1/sh/S0058H_1/0555/R</a> | Deutschland (bis 1945) : Abkommen über Auslieferung - Finnland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0058H_1/0570/L" rel="nofollow">Images on film h1/sh/S0058H_1/0570/L</a> | Deutschland (bis 1945) : Außenpolitische und kulturelle Propaganda, Finnland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0058H_1/0578/R" rel="nofollow">Images on film h1/sh/S0058H_1/0578/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Frankreich - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0058H_1/0583/R" rel="nofollow">Images on film h1/sh/S0058H_1/0583/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Frankreich
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0058H_2/0624/L" rel="nofollow">Images on film h1/sh/S0058H_2/0624/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Frankreich
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0059H_1" rel="nofollow">Images on film h1/sh/S0059H_1</a> | Filmanfang: Deutschland : Politische Beziehungen zu einzelnen Ländern Frankreich [A10 g1 Frankreich]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0059H_1/0002/R" rel="nofollow">Images on film h1/sh/S0059H_1/0002/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Frankreich
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0059H_2/0622/R" rel="nofollow">Images on film h1/sh/S0059H_2/0622/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Frankreich
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0059H_2/1130/R" rel="nofollow">Images on film h1/sh/S0059H_2/1130/R</a> | Deutschland (bis 1945) : Friedensschlüsse und allgemeine Ausführungsbestimmungen (incl. Kriegsentschädigungsregelung) - Frankreich
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0059H_2/1135/R" rel="nofollow">Images on film h1/sh/S0059H_2/1135/R</a> | Deutschland (bis 1945) : Außenpolitik. Historische Rückblicke - Frankreich, Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0059H_2/1142/R" rel="nofollow">Images on film h1/sh/S0059H_2/1142/R</a> | Deutschland (bis 1945) : Außenpolitik. Historische Rückblicke - Frankreich
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0059H_2/1174/L" rel="nofollow">Images on film h1/sh/S0059H_2/1174/L</a> | Deutschland (bis 1945) : Grenzfragen - Frankreich
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0059H_2/1182/R" rel="nofollow">Images on film h1/sh/S0059H_2/1182/R</a> | Deutschland (bis 1945) : Paßabmachungen mit Frankreich
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0059H_2/1190/L" rel="nofollow">Images on film h1/sh/S0059H_2/1190/L</a> | Deutschland (bis 1945) : Abkommen über Auslieferung - Frankreich
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0059H_2/1196/R" rel="nofollow">Images on film h1/sh/S0059H_2/1196/R</a> | Deutschland (bis 1945) : Außenpolitische und kulturelle Propaganda, Frankreich - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0059H_2/1213/R" rel="nofollow">Images on film h1/sh/S0059H_2/1213/R</a> | Deutschland (bis 1945) : Außenpolitische und kulturelle Propaganda, Frankreich
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0060H/0002/L" rel="nofollow">Images on film h1/sh/S0060H/0002/L</a> | Deutschland (bis 1945) : Außenpolitische und kulturelle Propaganda, Frankreich
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0060H/0196/L" rel="nofollow">Images on film h1/sh/S0060H/0196/L</a> | Deutschland (bis 1945) : Stimmen, Gespräche und Abmachungen über Kolonialgebiete und Interessensphären - Frankreich
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0060H/0239/R" rel="nofollow">Images on film h1/sh/S0060H/0239/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Griechenland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0060H/0286/R" rel="nofollow">Images on film h1/sh/S0060H/0286/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Guatemala
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0060H/0291/R" rel="nofollow">Images on film h1/sh/S0060H/0291/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Haiti
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0060H/0295/R" rel="nofollow">Images on film h1/sh/S0060H/0295/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Holland - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0060H/0297/L" rel="nofollow">Images on film h1/sh/S0060H/0297/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Holland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0060H/0421/R" rel="nofollow">Images on film h1/sh/S0060H/0421/R</a> | Deutschland (bis 1945) : Paßabmachungen mit Holland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0060H/0430/R" rel="nofollow">Images on film h1/sh/S0060H/0430/R</a> | Deutschland (bis 1945) : Außenpolitische und kulturelle Propaganda, Holland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0060H/0454/R" rel="nofollow">Images on film h1/sh/S0060H/0454/R</a> | Deutschland (bis 1945) : Stimmen, Gespräche und Abmachungen über Kolonialgebiete und Interessensphären - Holland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0060H/0457/L" rel="nofollow">Images on film h1/sh/S0060H/0457/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Honduras
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0060H/0460/R" rel="nofollow">Images on film h1/sh/S0060H/0460/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Irak
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0060H/0465/L" rel="nofollow">Images on film h1/sh/S0060H/0465/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Iran
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0060H/0488/R" rel="nofollow">Images on film h1/sh/S0060H/0488/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Irland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0060H/0502/R" rel="nofollow">Images on film h1/sh/S0060H/0502/R</a> | Deutschland (bis 1945) : Außenpolitische und kulturelle Propaganda, Irland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0060H/0505/L" rel="nofollow">Images on film h1/sh/S0060H/0505/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Island
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0060H/0511/L" rel="nofollow">Images on film h1/sh/S0060H/0511/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Jordanien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0060H/0512/L" rel="nofollow">Images on film h1/sh/S0060H/0512/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Italien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/0002/L" rel="nofollow">Images on film h1/sh/S0061H/0002/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Italien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/0369/R" rel="nofollow">Images on film h1/sh/S0061H/0369/R</a> | Deutschland (bis 1945) : Friedensschlüsse und allgemeine Ausführungsbestimmungen (incl. Kriegsentschädigungsregelung) - Italien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/0370/L" rel="nofollow">Images on film h1/sh/S0061H/0370/L</a> | Deutschland (bis 1945) : Außenpolitik. Historische Rückblicke - Italien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/0379/L" rel="nofollow">Images on film h1/sh/S0061H/0379/L</a> | Deutschland (bis 1945) : Grenzfragen - Italien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/0379/R" rel="nofollow">Images on film h1/sh/S0061H/0379/R</a> | Deutschland (bis 1945) : Paßabmachungen mit Italien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/0384/R" rel="nofollow">Images on film h1/sh/S0061H/0384/R</a> | Deutschland (bis 1945) : Abkommen über Auslieferung - Italien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/0394/L" rel="nofollow">Images on film h1/sh/S0061H/0394/L</a> | Deutschland (bis 1945) : Abkommen über Naturalisation - Italien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/0395/L" rel="nofollow">Images on film h1/sh/S0061H/0395/L</a> | Deutschland (bis 1945) : Außenpolitische und kulturelle Propaganda, Italien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/0452/R" rel="nofollow">Images on film h1/sh/S0061H/0452/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Japan - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/0454/R" rel="nofollow">Images on film h1/sh/S0061H/0454/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Japan
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/0678/L" rel="nofollow">Images on film h1/sh/S0061H/0678/L</a> | Deutschland (bis 1945) : Friedensschlüsse und allgemeine Ausführungsbestimmungen (incl. Kriegsentschädigungsregelung) - Japan
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/0678/R" rel="nofollow">Images on film h1/sh/S0061H/0678/R</a> | Deutschland (bis 1945) : Außenpolitik. Historische Rückblicke - Japan
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/0679/R" rel="nofollow">Images on film h1/sh/S0061H/0679/R</a> | Deutschland (bis 1945) : Paßabmachungen mit Japan
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/0681/L" rel="nofollow">Images on film h1/sh/S0061H/0681/L</a> | Deutschland (bis 1945) : Außenpolitische und kulturelle Propaganda, Japan
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/0703/R" rel="nofollow">Images on film h1/sh/S0061H/0703/R</a> | Deutschland (bis 1945) : Stimmen, Gespräche und Abmachungen über Kolonialgebiete und Interessensphären - Japan
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/0706/R" rel="nofollow">Images on film h1/sh/S0061H/0706/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Jugoslawien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/0853/R" rel="nofollow">Images on film h1/sh/S0061H/0853/R</a> | Deutschland (bis 1945) : Paßabmachungen mit Jugoslawien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/0856/L" rel="nofollow">Images on film h1/sh/S0061H/0856/L</a> | Deutschland (bis 1945) : Außenpolitische und kulturelle Propaganda, Jugoslawien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/0870/R" rel="nofollow">Images on film h1/sh/S0061H/0870/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Kanada
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/0883/L" rel="nofollow">Images on film h1/sh/S0061H/0883/L</a> | Deutschland (bis 1945) : Außenpolitische und kulturelle Propaganda, Kanada
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/0887/L" rel="nofollow">Images on film h1/sh/S0061H/0887/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Kolumbien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/0893/L" rel="nofollow">Images on film h1/sh/S0061H/0893/L</a> | Deutschland (bis 1945) : Außenpolitische und kulturelle Propaganda, Kolumbien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/0894/L" rel="nofollow">Images on film h1/sh/S0061H/0894/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Kroatien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/0903/R" rel="nofollow">Images on film h1/sh/S0061H/0903/R</a> | Deutschland (bis 1945) : Grenzfragen - Kroatien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/0906/L" rel="nofollow">Images on film h1/sh/S0061H/0906/L</a> | Deutschland (bis 1945) : Abkommen über Auslieferung - Kroatien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/0914/R" rel="nofollow">Images on film h1/sh/S0061H/0914/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Kuba
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/0920/R" rel="nofollow">Images on film h1/sh/S0061H/0920/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Lateinamerika
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/0955/L" rel="nofollow">Images on film h1/sh/S0061H/0955/L</a> | Deutschland (bis 1945) : Außenpolitische und kulturelle Propaganda, Lateinamerika
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/0959/L" rel="nofollow">Images on film h1/sh/S0061H/0959/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Lettland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/0998/L" rel="nofollow">Images on film h1/sh/S0061H/0998/L</a> | Deutschland (bis 1945) : Paßabmachungen mit Lettland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/1005/R" rel="nofollow">Images on film h1/sh/S0061H/1005/R</a> | Deutschland (bis 1945) : Abkommen über Auslieferung - Lettland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/1006/L" rel="nofollow">Images on film h1/sh/S0061H/1006/L</a> | Deutschland (bis 1945) : Außenpolitische und kulturelle Propaganda, Lettland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/1011/L" rel="nofollow">Images on film h1/sh/S0061H/1011/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Liberia
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/1023/R" rel="nofollow">Images on film h1/sh/S0061H/1023/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Liechtenstein
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/1029/R" rel="nofollow">Images on film h1/sh/S0061H/1029/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Litauen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/1151/R" rel="nofollow">Images on film h1/sh/S0061H/1151/R</a> | Deutschland (bis 1945) : Außenpolitik. Historische Rückblicke - Litauen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/1152/R" rel="nofollow">Images on film h1/sh/S0061H/1152/R</a> | Deutschland (bis 1945) : Grenzfragen - Litauen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/1153/R" rel="nofollow">Images on film h1/sh/S0061H/1153/R</a> | Deutschland (bis 1945) : Paßabmachungen mit Litauen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/1154/R" rel="nofollow">Images on film h1/sh/S0061H/1154/R</a> | Deutschland (bis 1945) : Abkommen über Auslieferung - Litauen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/1155/L" rel="nofollow">Images on film h1/sh/S0061H/1155/L</a> | Deutschland (bis 1945) : Abkommen über Naturalisation - Litauen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/1158/L" rel="nofollow">Images on film h1/sh/S0061H/1158/L</a> | Deutschland (bis 1945) : Außenpolitische und kulturelle Propaganda, Litauen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/1164/L" rel="nofollow">Images on film h1/sh/S0061H/1164/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Luxemburg
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/1174/R" rel="nofollow">Images on film h1/sh/S0061H/1174/R</a> | Deutschland (bis 1945) : Paßabmachungen mit Luxemburg
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/1177/R" rel="nofollow">Images on film h1/sh/S0061H/1177/R</a> | Deutschland (bis 1945) : Abkommen über Auslieferung - Luxemburg
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/1178/R" rel="nofollow">Images on film h1/sh/S0061H/1178/R</a> | Deutschland (bis 1945) : Abkommen über Naturalisation - Luxemburg
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/1180/R" rel="nofollow">Images on film h1/sh/S0061H/1180/R</a> | Deutschland (bis 1945) : Außenpolitische und kulturelle Propaganda, Luxemburg
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/1183/R" rel="nofollow">Images on film h1/sh/S0061H/1183/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Mandschurei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/1199/R" rel="nofollow">Images on film h1/sh/S0061H/1199/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Marokko, frz.
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/1201/L" rel="nofollow">Images on film h1/sh/S0061H/1201/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Marokko, spa.
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/1203/L" rel="nofollow">Images on film h1/sh/S0061H/1203/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Mexiko, Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0061H/1204/L" rel="nofollow">Images on film h1/sh/S0061H/1204/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Mexiko
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0062H/0002/L" rel="nofollow">Images on film h1/sh/S0062H/0002/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Mexiko
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0062H/0028/L" rel="nofollow">Images on film h1/sh/S0062H/0028/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Mittelamerika
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0062H/0029/R" rel="nofollow">Images on film h1/sh/S0062H/0029/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Neuseeland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0062H/0033/L" rel="nofollow">Images on film h1/sh/S0062H/0033/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Nicaragua
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0062H/0037/R" rel="nofollow">Images on film h1/sh/S0062H/0037/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Nordische Länder
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0062H/0136/R" rel="nofollow">Images on film h1/sh/S0062H/0136/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Norwegen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0062H/0204/L" rel="nofollow">Images on film h1/sh/S0062H/0204/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Österreich
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0062H/0744/L" rel="nofollow">Images on film h1/sh/S0062H/0744/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Orient
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0062H/0745/R" rel="nofollow">Images on film h1/sh/S0062H/0745/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Ostasien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0062H/0752/R" rel="nofollow">Images on film h1/sh/S0062H/0752/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Osteuropa / Ostseestaaten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0062H/0782/L" rel="nofollow">Images on film h1/sh/S0062H/0782/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Palästina
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0062H/0786/R" rel="nofollow">Images on film h1/sh/S0062H/0786/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Panama
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0062H/0788/L" rel="nofollow">Images on film h1/sh/S0062H/0788/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Paraguay
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0062H/0790/L" rel="nofollow">Images on film h1/sh/S0062H/0790/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Persien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0062H/0792/R" rel="nofollow">Images on film h1/sh/S0062H/0792/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Peru
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0062H/0810/L" rel="nofollow">Images on film h1/sh/S0062H/0810/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Philippinen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0062H/0813/R" rel="nofollow">Images on film h1/sh/S0062H/0813/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Polen - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0062H/0828/R" rel="nofollow">Images on film h1/sh/S0062H/0828/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Polen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0063H/0002/L" rel="nofollow">Images on film h1/sh/S0063H/0002/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Polen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0063H/0758/R" rel="nofollow">Images on film h1/sh/S0063H/0758/R</a> | Deutschland (bis 1945) : Friedensschlüsse und allgemeine Ausführungsbestimmungen (incl. Kriegsentschädigungsregelung) - Polen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0063H/0760/R" rel="nofollow">Images on film h1/sh/S0063H/0760/R</a> | Deutschland (bis 1945) : Außenpolitik. Historische Rückblicke - Polen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0063H/0767/L" rel="nofollow">Images on film h1/sh/S0063H/0767/L</a> | Deutschland (bis 1945) : Grenzfragen - Polen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0063H/0779/R" rel="nofollow">Images on film h1/sh/S0063H/0779/R</a> | Deutschland (bis 1945) : Paßabmachungen mit Polen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0063H/0792/R" rel="nofollow">Images on film h1/sh/S0063H/0792/R</a> | Deutschland (bis 1945) : Abkommen über Auslieferung - Polen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0063H/0793/L" rel="nofollow">Images on film h1/sh/S0063H/0793/L</a> | Deutschland (bis 1945) : Abkommen über Naturalisation - Polen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0063H/0794/R" rel="nofollow">Images on film h1/sh/S0063H/0794/R</a> | Deutschland (bis 1945) : Außenpolitische und kulturelle Propaganda, Polen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0063H/0867/R" rel="nofollow">Images on film h1/sh/S0063H/0867/R</a> | Deutschland (bis 1945) : Stimmen, Gespräche und Abmachungen über Kolonialgebiete und Interessensphären - Polen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0063H/0868/R" rel="nofollow">Images on film h1/sh/S0063H/0868/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Portugal
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0063H/0907/R" rel="nofollow">Images on film h1/sh/S0063H/0907/R</a> | Deutschland (bis 1945) : Paßabmachungen mit Portugal
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0063H/0911/R" rel="nofollow">Images on film h1/sh/S0063H/0911/R</a> | Deutschland (bis 1945) : Außenpolitische und kulturelle Propaganda, Portugal
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0063H/0922/R" rel="nofollow">Images on film h1/sh/S0063H/0922/R</a> | Deutschland (bis 1945) : Stimmen, Gespräche und Abmachungen über Kolonialgebiete und Interessensphären - Portugal
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0063H/0938/R" rel="nofollow">Images on film h1/sh/S0063H/0938/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Randstaaten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0063H/0941/R" rel="nofollow">Images on film h1/sh/S0063H/0941/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Rumänien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0063H/1072/L" rel="nofollow">Images on film h1/sh/S0063H/1072/L</a> | Deutschland (bis 1945) : Friedensschlüsse und allgemeine Ausführungsbestimmungen (incl. Kriegsentschädigungsregelung) - Rumänien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0063H/1147/L" rel="nofollow">Images on film h1/sh/S0063H/1147/L</a> | Deutschland (bis 1945) : Paßabmachungen mit Rumänien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0063H/1148/R" rel="nofollow">Images on film h1/sh/S0063H/1148/R</a> | Deutschland (bis 1945) : Abkommen über Auslieferung - Rumänien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0063H/1149/R" rel="nofollow">Images on film h1/sh/S0063H/1149/R</a> | Deutschland (bis 1945) : Außenpolitische und kulturelle Propaganda, Rumänien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0063H/1161/R" rel="nofollow">Images on film h1/sh/S0063H/1161/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Russland - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0063H/1167/L" rel="nofollow">Images on film h1/sh/S0063H/1167/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Russland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0064H_1" rel="nofollow">Images on film h1/sh/S0064H_1</a> | Filmanfang: Deutschland : Politische Beziehungen zu einzelnen Ländern Rußland [A10 g1 Rußland]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0064H_1/0003/L" rel="nofollow">Images on film h1/sh/S0064H_1/0003/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Russland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0064H_2/0621/L" rel="nofollow">Images on film h1/sh/S0064H_2/0621/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Russland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0064H_2/1105/R" rel="nofollow">Images on film h1/sh/S0064H_2/1105/R</a> | Deutschland (bis 1945) : Friedensschlüsse und allgemeine Ausführungsbestimmungen (incl. Kriegsentschädigungsregelung) - Russland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/0002/R" rel="nofollow">Images on film h1/sh/S0065H/0002/R</a> | Deutschland (bis 1945) : Friedensschlüsse und allgemeine Ausführungsbestimmungen (incl. Kriegsentschädigungsregelung) - Russland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/0091/R" rel="nofollow">Images on film h1/sh/S0065H/0091/R</a> | Deutschland (bis 1945) : Außenpolitik. Historische Rückblicke - Russland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/0129/L" rel="nofollow">Images on film h1/sh/S0065H/0129/L</a> | Deutschland (bis 1945) : Grenzfragen - Russland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/0151/L" rel="nofollow">Images on film h1/sh/S0065H/0151/L</a> | Deutschland (bis 1945) : Paßabmachungen mit Russland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/0155/R" rel="nofollow">Images on film h1/sh/S0065H/0155/R</a> | Deutschland (bis 1945) : Abkommen über Auslieferung - Russland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/0157/L" rel="nofollow">Images on film h1/sh/S0065H/0157/L</a> | Deutschland (bis 1945) : Außenpolitische und kulturelle Propaganda, Russland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/0213/R" rel="nofollow">Images on film h1/sh/S0065H/0213/R</a> | Deutschland (bis 1945) : Stimmen, Gespräche und Abmachungen über Kolonialgebiete und Interessensphären - Russland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/0215/L" rel="nofollow">Images on film h1/sh/S0065H/0215/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Ukraine
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/0226/R" rel="nofollow">Images on film h1/sh/S0065H/0226/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Salvator
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/0230/R" rel="nofollow">Images on film h1/sh/S0065H/0230/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu San Marino
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/0232/L" rel="nofollow">Images on film h1/sh/S0065H/0232/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Saudi Arabien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/0244/R" rel="nofollow">Images on film h1/sh/S0065H/0244/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Schweden
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/0367/L" rel="nofollow">Images on film h1/sh/S0065H/0367/L</a> | Deutschland (bis 1945) : Paßabmachungen mit Schweden
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/0370/R" rel="nofollow">Images on film h1/sh/S0065H/0370/R</a> | Deutschland (bis 1945) : Außenpolitische und kulturelle Propaganda, Schweden
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/0401/R" rel="nofollow">Images on film h1/sh/S0065H/0401/R</a> | Deutschland (bis 1945) : Stimmen, Gespräche und Abmachungen über Kolonialgebiete und Interessensphären - Schweden
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/0404/L" rel="nofollow">Images on film h1/sh/S0065H/0404/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Schweiz
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/0553/R" rel="nofollow">Images on film h1/sh/S0065H/0553/R</a> | Deutschland (bis 1945) : Außenpolitik. Historische Rückblicke - Schweiz
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/0554/R" rel="nofollow">Images on film h1/sh/S0065H/0554/R</a> | Deutschland (bis 1945) : Grenzfragen - Schweiz
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/0579/R" rel="nofollow">Images on film h1/sh/S0065H/0579/R</a> | Deutschland (bis 1945) : Paßabmachungen mit Schweiz
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/0586/L" rel="nofollow">Images on film h1/sh/S0065H/0586/L</a> | Deutschland (bis 1945) : Abkommen über Auslieferung - Schweiz
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/0589/R" rel="nofollow">Images on film h1/sh/S0065H/0589/R</a> | Deutschland (bis 1945) : Außenpolitische und kulturelle Propaganda, Schweiz
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/0685/R" rel="nofollow">Images on film h1/sh/S0065H/0685/R</a> | Deutschland (bis 1945) : Stimmen, Gespräche und Abmachungen über Kolonialgebiete und Interessensphären - Schweiz
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/0688/R" rel="nofollow">Images on film h1/sh/S0065H/0688/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Serbien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/0690/L" rel="nofollow">Images on film h1/sh/S0065H/0690/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Siam/Thailand
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/0694/L" rel="nofollow">Images on film h1/sh/S0065H/0694/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Slowakei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/0734/L" rel="nofollow">Images on film h1/sh/S0065H/0734/L</a> | Deutschland (bis 1945) : Paßabmachungen mit Slowakei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/0737/R" rel="nofollow">Images on film h1/sh/S0065H/0737/R</a> | Deutschland (bis 1945) : Abkommen über Auslieferung - Slowakei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/0742/R" rel="nofollow">Images on film h1/sh/S0065H/0742/R</a> | Deutschland (bis 1945) : Abkommen über Naturalisation - Slowakei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/0744/R" rel="nofollow">Images on film h1/sh/S0065H/0744/R</a> | Deutschland (bis 1945) : Außenpolitische und kulturelle Propaganda, Slowakei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/0746/L" rel="nofollow">Images on film h1/sh/S0065H/0746/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Spanien - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/0747/L" rel="nofollow">Images on film h1/sh/S0065H/0747/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Spanien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/1035/R" rel="nofollow">Images on film h1/sh/S0065H/1035/R</a> | Deutschland (bis 1945) : Außenpolitik. Historische Rückblicke - Spanien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/1036/R" rel="nofollow">Images on film h1/sh/S0065H/1036/R</a> | Deutschland (bis 1945) : Paßabmachungen mit Spanien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/1043/L" rel="nofollow">Images on film h1/sh/S0065H/1043/L</a> | Deutschland (bis 1945) : Abkommen über Auslieferung - Spanien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/1044/R" rel="nofollow">Images on film h1/sh/S0065H/1044/R</a> | Deutschland (bis 1945) : Außenpolitische und kulturelle Propaganda, Spanien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/1073/R" rel="nofollow">Images on film h1/sh/S0065H/1073/R</a> | Deutschland (bis 1945) : Stimmen, Gespräche und Abmachungen über Kolonialgebiete und Interessensphären - Spanien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/1074/L" rel="nofollow">Images on film h1/sh/S0065H/1074/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Südamerika
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/1091/R" rel="nofollow">Images on film h1/sh/S0065H/1091/R</a> | Deutschland (bis 1945) : Außenpolitische und kulturelle Propaganda, Südamerika
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/1114/L" rel="nofollow">Images on film h1/sh/S0065H/1114/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Südrhodesien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/1115/R" rel="nofollow">Images on film h1/sh/S0065H/1115/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Syrien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/1117/L" rel="nofollow">Images on film h1/sh/S0065H/1117/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Tanganjika
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/1118/L" rel="nofollow">Images on film h1/sh/S0065H/1118/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Thailand/Siam
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/1143/L" rel="nofollow">Images on film h1/sh/S0065H/1143/L</a> | Deutschland (bis 1945) : Paßabmachungen mit Thailand/Siam
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/1145/L" rel="nofollow">Images on film h1/sh/S0065H/1145/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Tschechoslowakei, Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0065H/1147/L" rel="nofollow">Images on film h1/sh/S0065H/1147/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Tschechoslowakei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0066H_1" rel="nofollow">Images on film h1/sh/S0066H_1</a> | Filmanfang: Deutschland : Politische Beziehungen zu einzelnen Ländern Tschechoslowakei [A10 g1 Tschechoslowakei]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0066H_1/0002/R" rel="nofollow">Images on film h1/sh/S0066H_1/0002/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Tschechoslowakei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0066H_1/0305/L" rel="nofollow">Images on film h1/sh/S0066H_1/0305/L</a> | Deutschland (bis 19459 : Außenpolitik. Historische Rückblicke - Tschechoslowakei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0066H_1/0308/L" rel="nofollow">Images on film h1/sh/S0066H_1/0308/L</a> | Deutschland (bis 1945) : Grenzfragen - Tschechoslowakei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0066H_1/0393/L" rel="nofollow">Images on film h1/sh/S0066H_1/0393/L</a> | Deutschland (bis 1945) : Paßabmachungen mit anderen Ländern - Tschechoslowakei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0066H_1/0401/L" rel="nofollow">Images on film h1/sh/S0066H_1/0401/L</a> | Deutschland (bis 1945) : Abkommen über Auslieferung - Tschechoslowakei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0066H_1/0402/L" rel="nofollow">Images on film h1/sh/S0066H_1/0402/L</a> | Deutschland (bis 1945) : Abkommen über Naturalisation - Tschechoslowakei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0066H_1/0410/L" rel="nofollow">Images on film h1/sh/S0066H_1/0410/L</a> | Deutschland (bis 1945) : Außenpolitische und kulturelle Propaganda, Tschechoslowakei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0066H_1/0430/R" rel="nofollow">Images on film h1/sh/S0066H_1/0430/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Türkei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0066H_2/0625/L" rel="nofollow">Images on film h1/sh/S0066H_2/0625/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Türkei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0066H_2/0635/R" rel="nofollow">Images on film h1/sh/S0066H_2/0635/R</a> | Deutschland (bis 19459 : Außenpolitik. Historische Rückblicke - Türkei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0066H_2/0639/R" rel="nofollow">Images on film h1/sh/S0066H_2/0639/R</a> | Deutschland (bis 1945) : Paßabmachungen mit anderen Ländern - Türkei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0066H_2/0641/L" rel="nofollow">Images on film h1/sh/S0066H_2/0641/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Ungarn - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0066H_2/0643/L" rel="nofollow">Images on film h1/sh/S0066H_2/0643/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Ungarn
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0066H_2/0936/R" rel="nofollow">Images on film h1/sh/S0066H_2/0936/R</a> | Deutschland (bis 19459 : Außenpolitik. Historische Rückblicke - Ungarn
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0066H_2/0938/L" rel="nofollow">Images on film h1/sh/S0066H_2/0938/L</a> | Deutschland (bis 1945) : Paßabmachungen mit anderen Ländern - Ungarn
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0066H_2/0942/R" rel="nofollow">Images on film h1/sh/S0066H_2/0942/R</a> | Deutschland (bis 1945) : Abkommen über Auslieferung - Ungarn
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0066H_2/0953/R" rel="nofollow">Images on film h1/sh/S0066H_2/0953/R</a> | Deutschland (bis 1945) : Abkommen über Naturalisation - Ungarn
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0066H_2/0954/R" rel="nofollow">Images on film h1/sh/S0066H_2/0954/R</a> | Deutschland (bis 1945) : Außenpolitische und kulturelle Propaganda, Ungarn
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0066H_2/0973/L" rel="nofollow">Images on film h1/sh/S0066H_2/0973/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Uruguay
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0066H_2/0997/R" rel="nofollow">Images on film h1/sh/S0066H_2/0997/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Vatikanstaat
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0066H_2/1096/R" rel="nofollow">Images on film h1/sh/S0066H_2/1096/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Venezuela
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0066H_2/1118/R" rel="nofollow">Images on film h1/sh/S0066H_2/1118/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Vereinigte Staaten, Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0066H_2/1126/R" rel="nofollow">Images on film h1/sh/S0066H_2/1126/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Vereinigte Staaten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/0002/L" rel="nofollow">Images on film h1/sh/S0067H/0002/L</a> | Deutschland (bis 1945) : Politische Beziehungen zu Vereinigte Staaten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/0452/L" rel="nofollow">Images on film h1/sh/S0067H/0452/L</a> | Deutschland (bis 1945) : Friedensschlüsse und allgemeine Ausführungsbestimmungen (incl. Kriegsentschädigungsregelung) - Vereinigte Staaten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/0493/R" rel="nofollow">Images on film h1/sh/S0067H/0493/R</a> | Deutschland (bis 1945) : Außenpolitik. Historische Rückblicke - Vereinigte Staaten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/0497/R" rel="nofollow">Images on film h1/sh/S0067H/0497/R</a> | Deutschland (bis 1945) : Paßabmachungen mit Vereinigte Staaten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/0503/L" rel="nofollow">Images on film h1/sh/S0067H/0503/L</a> | Deutschland (bis 1945) : Abkommen über Auslieferung - Vereinigte Staaten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/0509/L" rel="nofollow">Images on film h1/sh/S0067H/0509/L</a> | Deutschland (bis 1945) : Außenpolitische und kulturelle Propaganda, Vereinigte Staaten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/0632/R" rel="nofollow">Images on film h1/sh/S0067H/0632/R</a> | Deutschland (bis 1945) : Stimmen, Gespräche und Abmachungen über Kolonialgebiete und Interessensphären - Vereinigte Staaten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/0636/R" rel="nofollow">Images on film h1/sh/S0067H/0636/R</a> | Deutschland (bis 1945) : Außenpolitische und kulturelle Propaganda, Westeuropa
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/0648/R" rel="nofollow">Images on film h1/sh/S0067H/0648/R</a> | Deutschland (bis 1945) : Politische Beziehungen zu Yemen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/0649/R" rel="nofollow">Images on film h1/sh/S0067H/0649/R</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/0782/L" rel="nofollow">Images on film h1/sh/S0067H/0782/L</a> | Deutschland (bis 1945) : Handelsattaches
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/0792/R" rel="nofollow">Images on film h1/sh/S0067H/0792/R</a> | Deutschland (bis 1945) : Konsulatsgebühr
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/0798/R" rel="nofollow">Images on film h1/sh/S0067H/0798/R</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen, Beruf und Ausbildung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/0822/R" rel="nofollow">Images on film h1/sh/S0067H/0822/R</a> | Deutschland (bis 1945) : Diplomatische Vertretung der Länder
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/0865/R" rel="nofollow">Images on film h1/sh/S0067H/0865/R</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Dominikanische Republik
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/0870/R" rel="nofollow">Images on film h1/sh/S0067H/0870/R</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Ecuador
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/0874/L" rel="nofollow">Images on film h1/sh/S0067H/0874/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - England
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/0942/L" rel="nofollow">Images on film h1/sh/S0067H/0942/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Finnland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/0955/L" rel="nofollow">Images on film h1/sh/S0067H/0955/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Fiume
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/0955/R" rel="nofollow">Images on film h1/sh/S0067H/0955/R</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Frankreich
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/1034/L" rel="nofollow">Images on film h1/sh/S0067H/1034/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Griechenland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/1045/L" rel="nofollow">Images on film h1/sh/S0067H/1045/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Guatemala
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/1051/L" rel="nofollow">Images on film h1/sh/S0067H/1051/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Haiti
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/1054/L" rel="nofollow">Images on film h1/sh/S0067H/1054/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Holland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/1066/R" rel="nofollow">Images on film h1/sh/S0067H/1066/R</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Honduras
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/1071/L" rel="nofollow">Images on film h1/sh/S0067H/1071/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Indochina
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/1072/L" rel="nofollow">Images on film h1/sh/S0067H/1072/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Indonesien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/1077/L" rel="nofollow">Images on film h1/sh/S0067H/1077/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Irak
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/1079/L" rel="nofollow">Images on film h1/sh/S0067H/1079/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Iran
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/1085/L" rel="nofollow">Images on film h1/sh/S0067H/1085/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Irland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/1093/L" rel="nofollow">Images on film h1/sh/S0067H/1093/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Island
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/1097/L" rel="nofollow">Images on film h1/sh/S0067H/1097/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Italien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/1145/R" rel="nofollow">Images on film h1/sh/S0067H/1145/R</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Italien-Ostafrika/Abessinien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/1149/L" rel="nofollow">Images on film h1/sh/S0067H/1149/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Jamaica
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/1150/R" rel="nofollow">Images on film h1/sh/S0067H/1150/R</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Japan
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/1190/L" rel="nofollow">Images on film h1/sh/S0067H/1190/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Jugoslawien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/1203/R" rel="nofollow">Images on film h1/sh/S0067H/1203/R</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Kanada
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/1206/R" rel="nofollow">Images on film h1/sh/S0067H/1206/R</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Kolumbien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/1221/L" rel="nofollow">Images on film h1/sh/S0067H/1221/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Kroatien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/1230/R" rel="nofollow">Images on film h1/sh/S0067H/1230/R</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Kuba
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/1236/L" rel="nofollow">Images on film h1/sh/S0067H/1236/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Lateinamerika
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/1238/L" rel="nofollow">Images on film h1/sh/S0067H/1238/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Lettland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0002/L" rel="nofollow">Images on film h1/sh/S0068H/0002/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Lettland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0003/L" rel="nofollow">Images on film h1/sh/S0068H/0003/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Liberia
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0006/L" rel="nofollow">Images on film h1/sh/S0068H/0006/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Libia Italiana
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0007/L" rel="nofollow">Images on film h1/sh/S0068H/0007/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Litauen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0020/R" rel="nofollow">Images on film h1/sh/S0068H/0020/R</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Luxemburg
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0026/L" rel="nofollow">Images on film h1/sh/S0068H/0026/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Mandschukuo
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0034/R" rel="nofollow">Images on film h1/sh/S0068H/0034/R</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Marokko
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0036/R" rel="nofollow">Images on film h1/sh/S0068H/0036/R</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Memel
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0039/L" rel="nofollow">Images on film h1/sh/S0068H/0039/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Mexiko
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0063/R" rel="nofollow">Images on film h1/sh/S0068H/0063/R</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Mittelamerika
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0065/R" rel="nofollow">Images on film h1/sh/S0068H/0065/R</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Mosambik
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0069/L" rel="nofollow">Images on film h1/sh/S0068H/0069/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Neuseeland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0070/L" rel="nofollow">Images on film h1/sh/S0068H/0070/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Nicaragua
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0071/L" rel="nofollow">Images on film h1/sh/S0068H/0071/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Nigeria
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0072/R" rel="nofollow">Images on film h1/sh/S0068H/0072/R</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Norwegen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0083/L" rel="nofollow">Images on film h1/sh/S0068H/0083/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Ostasien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0085/L" rel="nofollow">Images on film h1/sh/S0068H/0085/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Ostseestaaten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0087/L" rel="nofollow">Images on film h1/sh/S0068H/0087/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Palästina
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0090/L" rel="nofollow">Images on film h1/sh/S0068H/0090/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Panama
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0092/R" rel="nofollow">Images on film h1/sh/S0068H/0092/R</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Paraguay
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0104/L" rel="nofollow">Images on film h1/sh/S0068H/0104/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Peru
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0112/L" rel="nofollow">Images on film h1/sh/S0068H/0112/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Polen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0148/R" rel="nofollow">Images on film h1/sh/S0068H/0148/R</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Portugal
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0168/L" rel="nofollow">Images on film h1/sh/S0068H/0168/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Portugiesisch-Westafrika
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0171/R" rel="nofollow">Images on film h1/sh/S0068H/0171/R</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Rumänien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0193/R" rel="nofollow">Images on film h1/sh/S0068H/0193/R</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Russland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0308/R" rel="nofollow">Images on film h1/sh/S0068H/0308/R</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Salvador
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0311/R" rel="nofollow">Images on film h1/sh/S0068H/0311/R</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Saudi Arabien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0316/R" rel="nofollow">Images on film h1/sh/S0068H/0316/R</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Schweden
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0340/L" rel="nofollow">Images on film h1/sh/S0068H/0340/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Schweiz
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0358/L" rel="nofollow">Images on film h1/sh/S0068H/0358/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Serbien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0359/L" rel="nofollow">Images on film h1/sh/S0068H/0359/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Slowakei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0365/L" rel="nofollow">Images on film h1/sh/S0068H/0365/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Spanien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0407/L" rel="nofollow">Images on film h1/sh/S0068H/0407/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Straits Settlements
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0408/R" rel="nofollow">Images on film h1/sh/S0068H/0408/R</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Südamerika
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0416/R" rel="nofollow">Images on film h1/sh/S0068H/0416/R</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Südwestafrika
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0421/R" rel="nofollow">Images on film h1/sh/S0068H/0421/R</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Syrien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0423/R" rel="nofollow">Images on film h1/sh/S0068H/0423/R</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Tanganjika
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0426/L" rel="nofollow">Images on film h1/sh/S0068H/0426/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Tanger
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0429/L" rel="nofollow">Images on film h1/sh/S0068H/0429/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Thailand/Siam
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0436/R" rel="nofollow">Images on film h1/sh/S0068H/0436/R</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Tschechoslowakei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0453/L" rel="nofollow">Images on film h1/sh/S0068H/0453/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Türkei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0488/R" rel="nofollow">Images on film h1/sh/S0068H/0488/R</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Tunis
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0492/L" rel="nofollow">Images on film h1/sh/S0068H/0492/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Ungarn
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0518/L" rel="nofollow">Images on film h1/sh/S0068H/0518/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Uruguay
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0528/L" rel="nofollow">Images on film h1/sh/S0068H/0528/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Vatikanstaat
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0536/L" rel="nofollow">Images on film h1/sh/S0068H/0536/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Venezuela
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0538/L" rel="nofollow">Images on film h1/sh/S0068H/0538/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen - Vereinigte Staaten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0608/L" rel="nofollow">Images on film h1/sh/S0068H/0608/L</a> | Deutschland (bis 1945) : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0068H/0630/L" rel="nofollow">Images on film h1/sh/S0068H/0630/L</a> | Deutschland (bis 1945) : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0069H/0002/L" rel="nofollow">Images on film h1/sh/S0069H/0002/L</a> | Deutschland (bis 1945) : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0069H/0715/R" rel="nofollow">Images on film h1/sh/S0069H/0715/R</a> | Deutschland (bis 1945) : Zollpolitik, Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0069H/0719/R" rel="nofollow">Images on film h1/sh/S0069H/0719/R</a> | Deutschland (bis 1945) : Zollpolitik
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0069H/1231/R" rel="nofollow">Images on film h1/sh/S0069H/1231/R</a> | Deutschland (bis 1945) : Zollpolitik, Meistbegünstigung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0069H/1248/L" rel="nofollow">Images on film h1/sh/S0069H/1248/L</a> | Deutschland (bis 1945) : Zollpolitik, Einfuhrkontingentierung, Ein-, Aus- und Durchfuhrverbote, Allgemein - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0070H_1" rel="nofollow">Images on film h1/sh/S0070H_1</a> | Filmanfang: Deutschland : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein [A10 g4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0070H_1/0002/R" rel="nofollow">Images on film h1/sh/S0070H_1/0002/R</a> | Deutschland (bis 1945) : Zollpolitik, Einfuhrkontingentierung, Ein-, Aus- und Durchfuhrverbote, Allgemein
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0070H_1/0215/L" rel="nofollow">Images on film h1/sh/S0070H_1/0215/L</a> | Deutschland (bis 1945) : Wirtschaftskrieg
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0070H_1/0236/R" rel="nofollow">Images on film h1/sh/S0070H_1/0236/R</a> | Deutschland (bis 1945) : Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung und Liquidation
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0070H_1/0279/R" rel="nofollow">Images on film h1/sh/S0070H_1/0279/R</a> | Deutschland (bis 1945): Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen Elsaß-Lothringen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0070H_1/0280/L" rel="nofollow">Images on film h1/sh/S0070H_1/0280/L</a> | Deutschland (bis 1945): Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen England
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0070H_1/0300/L" rel="nofollow">Images on film h1/sh/S0070H_1/0300/L</a> | Deutschland (bis 1945): Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen Finnland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0070H_1/0300/R" rel="nofollow">Images on film h1/sh/S0070H_1/0300/R</a> | Deutschland (bis 1945): Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen Frankreich
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0070H_1/0320/R" rel="nofollow">Images on film h1/sh/S0070H_1/0320/R</a> | Deutschland (bis 1945): Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen Italien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0073H_2/0626/L" rel="nofollow">Images on film h1/sh/S0073H_2/0626/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Frankreich
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0073H_2/1169/R" rel="nofollow">Images on film h1/sh/S0073H_2/1169/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Frankreich Wirtschaftliche Kompensationen, Warenaustausch
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0073H_2/1172/L" rel="nofollow">Images on film h1/sh/S0073H_2/1172/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Frankreich Handelskredite
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0073H_2/1173/L" rel="nofollow">Images on film h1/sh/S0073H_2/1173/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Frankreich Reparationsabgabe
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0073H_2/1205/R" rel="nofollow">Images on film h1/sh/S0073H_2/1205/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Frankreich Urheberschutz
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0073H_2/1210/L" rel="nofollow">Images on film h1/sh/S0073H_2/1210/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Frankreich Fischereiverträge
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0073H_2/1211/L" rel="nofollow">Images on film h1/sh/S0073H_2/1211/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Frankreich Luftverkehrsverträge
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0073H_2/1221/L" rel="nofollow">Images on film h1/sh/S0073H_2/1221/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Frankreich Kraftfahrzeugverkehr
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0073H_2/1222/L" rel="nofollow">Images on film h1/sh/S0073H_2/1222/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Frankreich Versicherungswesen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0073H_2/1228/L" rel="nofollow">Images on film h1/sh/S0073H_2/1228/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Frankreich Kaufmännische Schiedsgerichte
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0073H_2/1229/L" rel="nofollow">Images on film h1/sh/S0073H_2/1229/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Frankreich Steuerwesen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0073H_2/1238/R" rel="nofollow">Images on film h1/sh/S0073H_2/1238/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Frankreich Eisenbahnverkehr
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0074H_1" rel="nofollow">Images on film h1/sh/S0074H_1</a> | Filmanfang: Deutschland : Wirtschaftspolitische Beziehungen zu einzelnen Ländern Frankreich Sm13 [A10 g4a Frankreich Sm13]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0074H_1/0002/L" rel="nofollow">Images on film h1/sh/S0074H_1/0002/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Frankreich Eisenbahnverkehr
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0074H_1/0017/L" rel="nofollow">Images on film h1/sh/S0074H_1/0017/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Frankreich Schiffahrt
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0074H_1/0031/L" rel="nofollow">Images on film h1/sh/S0074H_1/0031/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Frankreich Post-, Telegraph- und Fernsprechwesen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0074H_1/0035/L" rel="nofollow">Images on film h1/sh/S0074H_1/0035/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Frankreich Rechtspflege, Rechtsangleichung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0074H_1/0045/R" rel="nofollow">Images on film h1/sh/S0074H_1/0045/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Frankreich Aufwertung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0074H_1/0054/R" rel="nofollow">Images on film h1/sh/S0074H_1/0054/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Frankreich Zollunionen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0074H_1/0061/L" rel="nofollow">Images on film h1/sh/S0074H_1/0061/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Frankreich Sachverständigen- und Facharbeiteraustausch, Studienkommissionen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0074H_1/0070/R" rel="nofollow">Images on film h1/sh/S0074H_1/0070/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Frankreich Handelspolitische Abmachungen mit einz. Ländern aus dem "Deutschen Handelsarchiv"
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0074H_1/0264/L" rel="nofollow">Images on film h1/sh/S0074H_1/0264/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Frankreich Wasserwirtschaft, Wasserkraft
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0074H_1/0268/R" rel="nofollow">Images on film h1/sh/S0074H_1/0268/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Frankreich Ausgleich laufender Aussenhandelsforderungen u. -schulden
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0074H_1/0505/R" rel="nofollow">Images on film h1/sh/S0074H_1/0505/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Frankreich Niederlassung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0074H_1/0507/L" rel="nofollow">Images on film h1/sh/S0074H_1/0507/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Frankreich Reiseverkehr
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0074H_1/0509/R" rel="nofollow">Images on film h1/sh/S0074H_1/0509/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Französische Kolonien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0074H_1/0530/L" rel="nofollow">Images on film h1/sh/S0074H_1/0530/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Griechenland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0074H_2/0621/L" rel="nofollow">Images on film h1/sh/S0074H_2/0621/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Griechenland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0074H_2/0790/L" rel="nofollow">Images on film h1/sh/S0074H_2/0790/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Guatemala
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0074H_2/0812/L" rel="nofollow">Images on film h1/sh/S0074H_2/0812/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Haiti
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0074H_2/0827/R" rel="nofollow">Images on film h1/sh/S0074H_2/0827/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Holland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_1" rel="nofollow">Images on film h1/sh/S0075H_1</a> | Filmanfang: Deutschland : Wirtschaftspolitische Beziehungen zu einzelnen Ländern Holland Sm13 [A10 g4a Holland Sm13]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_1/0002/L" rel="nofollow">Images on film h1/sh/S0075H_1/0002/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Holland. Eisenbahnverkehr, Transit
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_1/0026/L" rel="nofollow">Images on film h1/sh/S0075H_1/0026/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Holland. Schiffahrt (Wirtschaftspolitische Beziehungen zu einzelnen Ländern)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_1/0038/R" rel="nofollow">Images on film h1/sh/S0075H_1/0038/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Holland. Post-, Telegraph- und Fernsprechwesen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_1/0041/R" rel="nofollow">Images on film h1/sh/S0075H_1/0041/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Holland. Rechtspflege, Rechtsangleichung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_1/0047/R" rel="nofollow">Images on film h1/sh/S0075H_1/0047/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Holland. Aufwertung in Bezug auf einzelne Länder
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_1/0051/R" rel="nofollow">Images on film h1/sh/S0075H_1/0051/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Holland. Zollunionen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_1/0053/R" rel="nofollow">Images on film h1/sh/S0075H_1/0053/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Holland. Sachverständigen- und Facharbeiteraustausch, Studienkommissionen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_1/0063/R" rel="nofollow">Images on film h1/sh/S0075H_1/0063/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Holland. Handelspolitische Abmachungen mit einz. Ländern aus dem Deutschen Handelsarchiv
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_1/0125" rel="nofollow">Images on film h1/sh/S0075H_1/0125</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Holland. Wasserwirtschaft, Wasserkraft
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_1/0131/R" rel="nofollow">Images on film h1/sh/S0075H_1/0131/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Holland. Schmuggelverhütung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_1/0133/R" rel="nofollow">Images on film h1/sh/S0075H_1/0133/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Holland. Ausgleich laufender Aussenhandelsforderungen und -schulden, Einzelne Länder
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0070H_1/0323/L" rel="nofollow">Images on film h1/sh/S0070H_1/0323/L</a> | Deutschland (bis 1945): Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen Japan
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0070H_1/0323/R" rel="nofollow">Images on film h1/sh/S0070H_1/0323/R</a> | Deutschland (bis 1945): Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen Kanada
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0070H_1/0324/R" rel="nofollow">Images on film h1/sh/S0070H_1/0324/R</a> | Deutschland (bis 1945): Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen Polen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0070H_1/0350/R" rel="nofollow">Images on film h1/sh/S0070H_1/0350/R</a> | Deutschland (bis 1945): Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen Portugal
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0070H_1/0351/R" rel="nofollow">Images on film h1/sh/S0070H_1/0351/R</a> | Deutschland (bis 1945): Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen Rumänien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0070H_1/0352/L" rel="nofollow">Images on film h1/sh/S0070H_1/0352/L</a> | Deutschland (bis 1945): Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen Russland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0070H_1/0357/L" rel="nofollow">Images on film h1/sh/S0070H_1/0357/L</a> | Deutschland (bis 1945): Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen Vereinigte Staaten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0070H_1/0366/L" rel="nofollow">Images on film h1/sh/S0070H_1/0366/L</a> | Deutschland (bis 1945) : Wirtschaftskrieg, Schwarze Listen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0070H_1/0367/R" rel="nofollow">Images on film h1/sh/S0070H_1/0367/R</a> | Deutschland (bis 1945) : Wirtschaftskrieg, Zahlungsverbote und Aufhebung von Lieferungsverträgen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0070H_1/0369/L" rel="nofollow">Images on film h1/sh/S0070H_1/0369/L</a> | Deutschland (bis 1945) : Staatliche Wirtschaftspropaganda
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0070H_1/0542/L" rel="nofollow">Images on film h1/sh/S0070H_1/0542/L</a> | Deutschland (bis 1945) : Staatliche Wirtschaftspropaganda, Ausstellungen und Messen, Allgemein
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0070H_2/0623/L" rel="nofollow">Images on film h1/sh/S0070H_2/0623/L</a> | Deutschland (bis 1945) : Staatliche Wirtschaftspropaganda, Ausstellungen und Messen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0070H_2/1008/R" rel="nofollow">Images on film h1/sh/S0070H_2/1008/R</a> | Deutschland (bis 1945) : Staatliche Wirtschaftspropaganda, Ausstellungen und Messen - Breslau
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0070H_2/1024/R" rel="nofollow">Images on film h1/sh/S0070H_2/1024/R</a> | Deutschland (bis 1945) : Staatliche Wirtschaftspropaganda, Ausstellungen und Messen - Köln
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0070H_2/1042/L" rel="nofollow">Images on film h1/sh/S0070H_2/1042/L</a> | Deutschland (bis 1945) : Staatliche Wirtschaftspropaganda, Ausstellungen und Messen - Königsberg
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0070H_2/1089/R" rel="nofollow">Images on film h1/sh/S0070H_2/1089/R</a> | Deutschland (bis 1945) : Staatliche Wirtschaftspropaganda, Ausstellungen und Messen - Kolonialausstellung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0070H_2/1091/R" rel="nofollow">Images on film h1/sh/S0070H_2/1091/R</a> | Deutschland (bis 1945) : Staatliche Wirtschaftspropaganda, Ausstellungen und Messen - Leipzig
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0070H_2/1208/R" rel="nofollow">Images on film h1/sh/S0070H_2/1208/R</a> | Deutschland (bis 1945) : Staatliche Wirtschaftspropaganda, Ausstellungen und Messen - Straßburg
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0070H_2/1211/L" rel="nofollow">Images on film h1/sh/S0070H_2/1211/L</a> | Deutschland (bis 1945) : Staatliche Wirtschaftspropaganda, Ausstellungen und Messen - Wien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0071H_1" rel="nofollow">Images on film h1/sh/S0071H_1</a> | Filmanfang: Deutschland : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein Wien Sm2 [A10 g4 Wien Sm2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0071H_1/0002/L" rel="nofollow">Images on film h1/sh/S0071H_1/0002/L</a> | Deutschland (bis 1945) : Staatliche Wirtschaftspropaganda, Ausstellungen und Messen, Wien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0071H_1/0030/R" rel="nofollow">Images on film h1/sh/S0071H_1/0030/R</a> | Deutschland (Bis 1945) : Wirtschaftliche Kompensationen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0071H_1/0053/L" rel="nofollow">Images on film h1/sh/S0071H_1/0053/L</a> | Deutschland (bis 1945) : Freihäfen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0071H_1/0059/L" rel="nofollow">Images on film h1/sh/S0071H_1/0059/L</a> | Deutschland (bIs 1945) : Freihäfen, einzelne Freihafenprojekte
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0071H_1/0080/L" rel="nofollow">Images on film h1/sh/S0071H_1/0080/L</a> | Deutschland (bis 1945) : Beschränkung des freien Handels
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0071H_1/0235/L" rel="nofollow">Images on film h1/sh/S0071H_1/0235/L</a> | Deutschland (bis 1945) : Staatliche Handelskredite, Garantieübernahme, Subventionierung, Förderung des Aussenhandelsfinanzierg.
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0071H_1/0290/L" rel="nofollow">Images on film h1/sh/S0071H_1/0290/L</a> | Deutschland (bis 1945) : Vorzugsbehandlung der Kolonien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0071H_1/0312/R" rel="nofollow">Images on film h1/sh/S0071H_1/0312/R</a> | Deutschland (Bis 1945) : Warenabzeichen zum Schutze der nationalen Industrie
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0071H_1/0327/L" rel="nofollow">Images on film h1/sh/S0071H_1/0327/L</a> | Deutschland (bis 1945) : Ausfuhrförderung im "Dreiecksverfahren" (Import - Fabrik - Export)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0071H_1/0343/L" rel="nofollow">Images on film h1/sh/S0071H_1/0343/L</a> | Deutschland (bis 1945) : Entsendung und Heranziehung von Sachverständigen und Spezialarbeitern
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0071H_1/0350/L" rel="nofollow">Images on film h1/sh/S0071H_1/0350/L</a> | Deutschland (bis 1945) : Handelspolitik u. allg. Wirtschaftspolitik, Konferenzen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0071H_1/0379/R" rel="nofollow">Images on film h1/sh/S0071H_1/0379/R</a> | Deutschland (bis 1945) : Handelspolitische und zollrechtliche Massnahmen aus dem Deutschen Handelsarchiv
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0071H_1/0420/R" rel="nofollow">Images on film h1/sh/S0071H_1/0420/R</a> | Deutschland (bis 1945) : Ausgleich laufender Aussenhandelsforderungen und -schulden
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0071H_1/0529/R" rel="nofollow">Images on film h1/sh/S0071H_1/0529/R</a> | Deutschland (bis 1945) : Niederlassungsverträge
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0071H_1/0532/R" rel="nofollow">Images on film h1/sh/S0071H_1/0532/R</a> | Deutschland (bis 1945) : Handelspolitik, Institutionen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0071H_1/0572/L" rel="nofollow">Images on film h1/sh/S0071H_1/0572/L</a> | Deutschland (bis 1945) : Deutscher Zollverein
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0071H_1/0582/R" rel="nofollow">Images on film h1/sh/S0071H_1/0582/R</a> | Deutschland (bis 1945) : Seegrenzschlachthöfe
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0071H_1/0589/R" rel="nofollow">Images on film h1/sh/S0071H_1/0589/R</a> | Deutschland (bis 1945) : Seegrenzschlachthöfe, in Hamburg
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0071H_1/0609/L" rel="nofollow">Images on film h1/sh/S0071H_1/0609/L</a> | Deutschland (bis 1945) : Drosselung des Reiseverkehrs nach dem Ausland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0071H_2/0630/L" rel="nofollow">Images on film h1/sh/S0071H_2/0630/L</a> | Deutschland (bis 1945) : Werberat der Deutschen Wirtschaft
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0071H_2/0708/L" rel="nofollow">Images on film h1/sh/S0071H_2/0708/L</a> | Deutschland (bis 1945) : Exportförderung durch Valutaausgleich
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0071H_2/0770/R" rel="nofollow">Images on film h1/sh/S0071H_2/0770/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Dominikanische Republik
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0071H_2/0776/L" rel="nofollow">Images on film h1/sh/S0071H_2/0776/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Ecuador
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0071H_2/0793/L" rel="nofollow">Images on film h1/sh/S0071H_2/0793/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Estland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0071H_2/0941/R" rel="nofollow">Images on film h1/sh/S0071H_2/0941/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu England
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0072H_1" rel="nofollow">Images on film h1/sh/S0072H_1</a> | Filmanfang: Deutschland : Wirtschaftspolitische Beziehungen zu einzelnen Ländern England [A10 g4a England]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0072H_1/0002/R" rel="nofollow">Images on film h1/sh/S0072H_1/0002/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu England
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0072H_1/0077/R" rel="nofollow">Images on film h1/sh/S0072H_1/0077/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu England. Wirtschaftliche Kompensationen, Warenaustausch
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0072H_1/0083/L" rel="nofollow">Images on film h1/sh/S0072H_1/0083/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu England. Handelkredite
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0072H_1/0090/L" rel="nofollow">Images on film h1/sh/S0072H_1/0090/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu England. Reparationsabgabe
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0072H_1/0187/L" rel="nofollow">Images on film h1/sh/S0072H_1/0187/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu England. Urheberschutz
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0072H_1/0199/R" rel="nofollow">Images on film h1/sh/S0072H_1/0199/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu England. Fischereiverträge
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0072H_1/0204/R" rel="nofollow">Images on film h1/sh/S0072H_1/0204/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu England. Luftverkehrsverträge
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0072H_1/0217/R" rel="nofollow">Images on film h1/sh/S0072H_1/0217/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu England. Versicherungswesen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0072H_1/0219/R" rel="nofollow">Images on film h1/sh/S0072H_1/0219/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu England. Kaufmännische Schiedsgerichte
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0072H_1/0220/R" rel="nofollow">Images on film h1/sh/S0072H_1/0220/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu England. Steuerwesen (Aussenpolitik)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0072H_1/0223/R" rel="nofollow">Images on film h1/sh/S0072H_1/0223/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu England. Eisenbahnverkehr, Transit
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0072H_1/0228/R" rel="nofollow">Images on film h1/sh/S0072H_1/0228/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu England. Schiffahrt
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0072H_1/0266/R" rel="nofollow">Images on film h1/sh/S0072H_1/0266/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu England. Post-, Telegraph- und Fernsprechwesen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0072H_1/0269/R" rel="nofollow">Images on film h1/sh/S0072H_1/0269/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu England.  Rechtspflege, Rechtsangleichung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0072H_1/0276/R" rel="nofollow">Images on film h1/sh/S0072H_1/0276/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu England.  Aufwertung in Bezug auf einzelne Länder
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0072H_1/0277/L" rel="nofollow">Images on film h1/sh/S0072H_1/0277/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu England. Sachverständigen- und Facharbeiteraustausch, Studienkommissionen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0072H_1/0306/L" rel="nofollow">Images on film h1/sh/S0072H_1/0306/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu England. Handelspolitische Abmachungen mit einz. Ländern aus dem Deutschen Handelsarchiv
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0072H_1/0326/R" rel="nofollow">Images on film h1/sh/S0072H_1/0326/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu England. Handelsreisende und Muster
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0072H_1/0327/R" rel="nofollow">Images on film h1/sh/S0072H_1/0327/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu England. Ausgleich laufender Aussenhandelsforderungen und -schulden
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0072H_1/0407/L" rel="nofollow">Images on film h1/sh/S0072H_1/0407/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu England. Reiseverkehr
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0072H_1/0408/R" rel="nofollow">Images on film h1/sh/S0072H_1/0408/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu englische Kolonien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0072H_1/0430/R" rel="nofollow">Images on film h1/sh/S0072H_1/0430/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Finnland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0072H_2/0626/L" rel="nofollow">Images on film h1/sh/S0072H_2/0626/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Finnland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0072H_2/0688/R" rel="nofollow">Images on film h1/sh/S0072H_2/0688/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Finnland. Wirtschaftliche Kompensationen, Warenaustausch
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0072H_2/0691/L" rel="nofollow">Images on film h1/sh/S0072H_2/0691/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Finnland. Handelskredite
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0072H_2/0692/L" rel="nofollow">Images on film h1/sh/S0072H_2/0692/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Finnland. Versicherungswesen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0072H_2/0694/R" rel="nofollow">Images on film h1/sh/S0072H_2/0694/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Finnland. Steuerwesen (Aussenpolitik)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0072H_2/0705/R" rel="nofollow">Images on film h1/sh/S0072H_2/0705/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Finnland. Eisenbahnverkehr, Transit
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0072H_2/0707/L" rel="nofollow">Images on film h1/sh/S0072H_2/0707/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Finnland. Schiffahrt
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0072H_2/0713/R" rel="nofollow">Images on film h1/sh/S0072H_2/0713/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Finnland. Post-, Telegraph- und Fernsprechwesen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0072H_2/0714/L" rel="nofollow">Images on film h1/sh/S0072H_2/0714/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Finnland. Rechtspflege, Rechtsangleichung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0072H_2/0715/R" rel="nofollow">Images on film h1/sh/S0072H_2/0715/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Finnland. Sachverständigen- und Facharbeiteraustausch, Studienkommissionen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0072H_2/0719/R" rel="nofollow">Images on film h1/sh/S0072H_2/0719/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Finnland. Handelspolitische Abmachungen mit einz. Ländern aus dem Deutschen Handelsarchiv
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0072H_2/0755/R" rel="nofollow">Images on film h1/sh/S0072H_2/0755/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Finnland. Ausgleich laufender Aussenhandelsforderungen und -schulden
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0072H_2/0787/R" rel="nofollow">Images on film h1/sh/S0072H_2/0787/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Frankreich. Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0072H_2/0791/L" rel="nofollow">Images on film h1/sh/S0072H_2/0791/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Frankreich
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0073H_1" rel="nofollow">Images on film h1/sh/S0073H_1</a> | Filmanfang: Deutschland : Wirtschaftspolitische Beziehungen zu einzelnen Ländern Frankreich [A10 g4a Frankreich]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0073H_1/0002/R" rel="nofollow">Images on film h1/sh/S0073H_1/0002/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Frankreich
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_2/1142/R" rel="nofollow">Images on film h1/sh/S0076H_2/1142/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Lettland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_2/1203/R" rel="nofollow">Images on film h1/sh/S0076H_2/1203/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Lettland. Handelskredite
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_2/1209/R" rel="nofollow">Images on film h1/sh/S0076H_2/1209/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Lettland. Eisenbahnverkehr, Transit
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_2/1210/R" rel="nofollow">Images on film h1/sh/S0076H_2/1210/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Lettland. Schiffahrt
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_2/1212/R" rel="nofollow">Images on film h1/sh/S0076H_2/1212/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Lettland. Rechtspflege, Rechtsangleichung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_2/1215/L" rel="nofollow">Images on film h1/sh/S0076H_2/1215/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Lettland. Sachverständigen- und Facharbeiteraustausch, Studienkommissionen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_2/1221/R" rel="nofollow">Images on film h1/sh/S0076H_2/1221/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Lettland. Handelspolitische Abmachungen mit einz. Ländern aus dem Deutschen Handelsarchiv
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_2/1230/L" rel="nofollow">Images on film h1/sh/S0076H_2/1230/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Lettland. Ausgleich laufender Aussenhandelsforderungen und -schulden, Einzelne Länder
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_2/1242/L" rel="nofollow">Images on film h1/sh/S0076H_2/1242/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Liberia
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_1" rel="nofollow">Images on film h1/sh/S0077H_1</a> | Filmanfang: Deutschland : Wirtschaftspolitische Beziehungen zu einzelnen Ländern Liberia [A10 g4a Liberia]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_1/0006/R" rel="nofollow">Images on film h1/sh/S0077H_1/0006/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Libya Italiana
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_1/0008/R" rel="nofollow">Images on film h1/sh/S0077H_1/0008/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Liechtenstein
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_1/0015/L" rel="nofollow">Images on film h1/sh/S0077H_1/0015/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Litauen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_1/0166/L" rel="nofollow">Images on film h1/sh/S0077H_1/0166/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Litauen. Wirtschaftliche Kompensationen, Warenaustausch
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_1/0167/R" rel="nofollow">Images on film h1/sh/S0077H_1/0167/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Litauen. Urheberschutz
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_1/0168/R" rel="nofollow">Images on film h1/sh/S0077H_1/0168/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Litauen. Fischereiverträge
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_1/0199/L" rel="nofollow">Images on film h1/sh/S0077H_1/0199/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Litauen. Versicherungswesen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_1/0200/R" rel="nofollow">Images on film h1/sh/S0077H_1/0200/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Litauen. Eisenbahnverkehr, Transit
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_1/0206/L" rel="nofollow">Images on film h1/sh/S0077H_1/0206/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Litauen. Schiffahrt
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_1/0208/R" rel="nofollow">Images on film h1/sh/S0077H_1/0208/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Litauen. Rechtspflege, Rechtsangleichung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_1/0225/R" rel="nofollow">Images on film h1/sh/S0077H_1/0225/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Litauen. Sachverständigen- und Facharbeiteraustausch, Studienkommissionen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_1/0227/R" rel="nofollow">Images on film h1/sh/S0077H_1/0227/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Litauen. Handelspolitische Abmachungen mit einz. Ländern aus dem Deutschen Handelsarchiv
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_1/0256/R" rel="nofollow">Images on film h1/sh/S0077H_1/0256/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Litauen. Ausgleich laufender Aussenhandelsforderungen und -schulden
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_1/0297/R" rel="nofollow">Images on film h1/sh/S0077H_1/0297/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Litauen. Freihäfen, Freizonen, Zollniederlagen, Allgemein
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_1/0317/L" rel="nofollow">Images on film h1/sh/S0077H_1/0317/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Luxemburg
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_1/0383/R" rel="nofollow">Images on film h1/sh/S0077H_1/0383/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Madagaskar
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_1/0388/R" rel="nofollow">Images on film h1/sh/S0077H_1/0388/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Malayische Schutzstaaten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_1/0390/L" rel="nofollow">Images on film h1/sh/S0077H_1/0390/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Malta
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_1/0391/L" rel="nofollow">Images on film h1/sh/S0077H_1/0391/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Mandschurei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_1/0481/R" rel="nofollow">Images on film h1/sh/S0077H_1/0481/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Mandschurei. Wirtschaftliche Kompensationen, Warenaustausch
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_1/0484/L" rel="nofollow">Images on film h1/sh/S0077H_1/0484/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Mandschurei. Handelskredite
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_1/0486/L" rel="nofollow">Images on film h1/sh/S0077H_1/0486/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Mandschurei. Post-, Telegraph- und Fernsprechwesen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_1/0487/L" rel="nofollow">Images on film h1/sh/S0077H_1/0487/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Mandschurei. Sachverständigen- und Facharbeiteraustausch, Studienkommissionen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_1/0491/R" rel="nofollow">Images on film h1/sh/S0077H_1/0491/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Mandschurei. Handelspolitische Abmachungen mit einz. Ländern aus dem Deutschen Handelsarchiv
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_1/0497/L" rel="nofollow">Images on film h1/sh/S0077H_1/0497/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Mandschurei. Ausgleich laufender Aussenhandelsforderungen und -schulden
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_1/0516/R" rel="nofollow">Images on film h1/sh/S0077H_1/0516/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Marokko
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_1/0535/R" rel="nofollow">Images on film h1/sh/S0077H_1/0535/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Martinique
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_1/0536/R" rel="nofollow">Images on film h1/sh/S0077H_1/0536/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Memel
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_1/0540/R" rel="nofollow">Images on film h1/sh/S0077H_1/0540/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Mexiko
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_1/0584/R" rel="nofollow">Images on film h1/sh/S0077H_1/0584/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Mexiko. Wirtschaftliche Kompensationen, Warenaustausch
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_1/0597/R" rel="nofollow">Images on film h1/sh/S0077H_1/0597/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Mexiko. Sachverständigen- und Facharbeiteraustausch, Studienkommissionen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_1/0606/R" rel="nofollow">Images on film h1/sh/S0077H_1/0606/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Mexiko. Handelspolitische Abmachungen mit einz. Ländern aus dem Deutschen Handelsarchiv
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_1/0265/R" rel="nofollow">Images on film h1/sh/S0075H_1/0265/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Holland. Niederlassung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_1/0266/R" rel="nofollow">Images on film h1/sh/S0075H_1/0266/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Holland.  Reiseverkehr
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_1/0267/L" rel="nofollow">Images on film h1/sh/S0075H_1/0267/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Holländisch Guyana
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_1/0268/L" rel="nofollow">Images on film h1/sh/S0075H_1/0268/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Honduras
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_1/0275/R" rel="nofollow">Images on film h1/sh/S0075H_1/0275/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Indochina
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_1/0285/L" rel="nofollow">Images on film h1/sh/S0075H_1/0285/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Indonesien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_1/0316" rel="nofollow">Images on film h1/sh/S0075H_1/0316</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Irak
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_1/0332/R" rel="nofollow">Images on film h1/sh/S0075H_1/0332/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Iran
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_1/0370/R" rel="nofollow">Images on film h1/sh/S0075H_1/0370/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Iran. Urheberschutz (Wirtschaftspolitische Beziehungen zu einzelnen Ländern)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_1/0377/L" rel="nofollow">Images on film h1/sh/S0075H_1/0377/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Iran. Eisenbahnverkehr, Transit
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_1/0378/R" rel="nofollow">Images on film h1/sh/S0075H_1/0378/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Iran. Schiffahrt
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_1/0379/L" rel="nofollow">Images on film h1/sh/S0075H_1/0379/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Iran. Sachverständigen- und Facharbeiteraustausch, Studienkommissionen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_1/0383/L" rel="nofollow">Images on film h1/sh/S0075H_1/0383/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Iran. Handelspolitische Abmachungen mit einz. Ländern aus dem Deutschen Handelsarchiv
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_1/0391/R" rel="nofollow">Images on film h1/sh/S0075H_1/0391/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Iran. Ausgleich laufender Aussenhandelsforderungen und -schulden
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_1/0406/R" rel="nofollow">Images on film h1/sh/S0075H_1/0406/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Iran. Niederlassung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_1/0408/R" rel="nofollow">Images on film h1/sh/S0075H_1/0408/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Iran. Filmwirtschaft
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_1/0409/L" rel="nofollow">Images on film h1/sh/S0075H_1/0409/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Irland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_1/0410/L" rel="nofollow">Images on film h1/sh/S0075H_1/0410/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Irischer Freistaat
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_1/0436/R" rel="nofollow">Images on film h1/sh/S0075H_1/0436/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Irischer Freistaat. Wirtschaftliche Kompensationen, Warenaustausch
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_1/0439/L" rel="nofollow">Images on film h1/sh/S0075H_1/0439/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Irischer Freistaat. Reparationsabgabe
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_1/0440/R" rel="nofollow">Images on film h1/sh/S0075H_1/0440/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Irischer Freistaat. Post-, Telegraph- und Fernsprechwesen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_1/0442/R" rel="nofollow">Images on film h1/sh/S0075H_1/0442/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Irischer Freistaat. Handelspolitische Abmachungen mit einz. Ländern aus dem Deutschen Handelsarchiv
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_1/0448/L" rel="nofollow">Images on film h1/sh/S0075H_1/0448/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Island
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_1/0453/L" rel="nofollow">Images on film h1/sh/S0075H_1/0453/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Island. Urheberschutz
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_1/0453/R" rel="nofollow">Images on film h1/sh/S0075H_1/0453/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Island. Fischereiverträge
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_1/0457/R" rel="nofollow">Images on film h1/sh/S0075H_1/0457/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Island. Luftverkehrsverträge
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_1/0458/R" rel="nofollow">Images on film h1/sh/S0075H_1/0458/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Italien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_2/0951/L" rel="nofollow">Images on film h1/sh/S0075H_2/0951/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Italien. Wirtschaftliche Kompensationen, Warenaustausch
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_2/0952/L" rel="nofollow">Images on film h1/sh/S0075H_2/0952/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Italien. Handelkredite
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_2/0952/R" rel="nofollow">Images on film h1/sh/S0075H_2/0952/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Italien. Reparationsabgabe
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_2/0956/L" rel="nofollow">Images on film h1/sh/S0075H_2/0956/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Italien. Urheberschutz
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_2/0958/R" rel="nofollow">Images on film h1/sh/S0075H_2/0958/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Italien. Luftverkehrsverträge
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_2/0971/L" rel="nofollow">Images on film h1/sh/S0075H_2/0971/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Italien. Versicherungswesen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_2/1000/R" rel="nofollow">Images on film h1/sh/S0075H_2/1000/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Italien. Steuerwesen (Aussenpolitik)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_2/1014/L" rel="nofollow">Images on film h1/sh/S0075H_2/1014/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Italien. Eisenbahnverkehr, Transit
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_2/1081/R" rel="nofollow">Images on film h1/sh/S0075H_2/1081/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Italien. Schiffahrt
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_2/1092/L" rel="nofollow">Images on film h1/sh/S0075H_2/1092/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Italien. Post-, Telegraph- und Fernsprechwesen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_2/1097/R" rel="nofollow">Images on film h1/sh/S0075H_2/1097/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Italien. Rechtspflege, Rechtsangleichung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_2/1128/L" rel="nofollow">Images on film h1/sh/S0075H_2/1128/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Italien. Aufwertung in Bezug auf einzelne Länder
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_2/1131/L" rel="nofollow">Images on film h1/sh/S0075H_2/1131/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Italien. Sachverständigen- und Facharbeiteraustausch, Studienkommissionen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_2/1171/L" rel="nofollow">Images on film h1/sh/S0075H_2/1171/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Italien. Handelspolitische Abmachungen mit einz. Ländern aus dem Deutschen Handelsarchiv
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_2/1203/L" rel="nofollow">Images on film h1/sh/S0075H_2/1203/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Italien. Schmuggelverhütung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0075H_2/1205/L" rel="nofollow">Images on film h1/sh/S0075H_2/1205/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Italien. Ausgleich laufender Aussenhandelsforderungen und -schulden
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_1" rel="nofollow">Images on film h1/sh/S0076H_1</a> | Filmanfang: Deutschland : Wirtschaftspolitische Beziehungen zu einzelnen Ländern Italien Sm25 [A10 g4a Italien Sm25]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_1/0057/L" rel="nofollow">Images on film h1/sh/S0076H_1/0057/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Italien. Reiseverkehr
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_1/0060/L" rel="nofollow">Images on film h1/sh/S0076H_1/0060/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Italien. Freihäfen, Freizonen, Zollniederlagen, Allgemein
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_1/0063/L" rel="nofollow">Images on film h1/sh/S0076H_1/0063/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Italienischen Kolonien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_1/0065/R" rel="nofollow">Images on film h1/sh/S0076H_1/0065/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Italienisch Ostafrika
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_1/0068/R" rel="nofollow">Images on film h1/sh/S0076H_1/0068/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Japan
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_1/0287/L" rel="nofollow">Images on film h1/sh/S0076H_1/0287/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Japan. Wirtschaftliche Kompensationen, Warenaustausch
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_1/0289/R" rel="nofollow">Images on film h1/sh/S0076H_1/0289/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Japan. Reparationsabgabe
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_1/0291/R" rel="nofollow">Images on film h1/sh/S0076H_1/0291/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Japan. Urheberschutz
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_1/0294/L" rel="nofollow">Images on film h1/sh/S0076H_1/0294/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Japan. Steuerwesen (Aussenpolitik)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_1/0296/R" rel="nofollow">Images on film h1/sh/S0076H_1/0296/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Japan. Schiffahrt
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_1/0298/R" rel="nofollow">Images on film h1/sh/S0076H_1/0298/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Japan. Rechtspflege, Rechtsangleichung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_1/0301/R" rel="nofollow">Images on film h1/sh/S0076H_1/0301/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Japan. Sachverständigen- und Facharbeiteraustausch, Studienkommissionen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_1/0308/R" rel="nofollow">Images on film h1/sh/S0076H_1/0308/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Japan. Handelspolitische Abmachungen mit einz. Ländern aus dem Deutschen Handelsarchiv
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_1/0317/L" rel="nofollow">Images on film h1/sh/S0076H_1/0317/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Japan. Ausgleich laufender Aussenhandelsforderungen und -schulden
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_1/0325/L" rel="nofollow">Images on film h1/sh/S0076H_1/0325/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Japan. Reiseverkehr
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_1/0326/R" rel="nofollow">Images on film h1/sh/S0076H_1/0326/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Jugoslawien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_2/0628/R" rel="nofollow">Images on film h1/sh/S0076H_2/0628/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Jugoslawien. Wirtschaftliche Kompensationen, Warenaustausch
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_2/0633/R" rel="nofollow">Images on film h1/sh/S0076H_2/0633/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Jugoslawien. Reparationsabgabe
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_2/0638/L" rel="nofollow">Images on film h1/sh/S0076H_2/0638/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Jugoslawien. Luftverkehrsverträge
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_2/0646/L" rel="nofollow">Images on film h1/sh/S0076H_2/0646/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Jugoslawien. Versicherungswesen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_2/0655/L" rel="nofollow">Images on film h1/sh/S0076H_2/0655/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Jugoslawien. Eisenbahnverkehr, Transit
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_2/0666/L" rel="nofollow">Images on film h1/sh/S0076H_2/0666/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Jugoslawien. Rechtspflege, Rechtsangleichung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_2/0675/L" rel="nofollow">Images on film h1/sh/S0076H_2/0675/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Jugoslawien.  Sachverständigen- und Facharbeiteraustausch, Studienkommissionen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_2/0685/R" rel="nofollow">Images on film h1/sh/S0076H_2/0685/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Jugoslawien.  Handelspolitische Abmachungen mit einz. Ländern aus dem Deutschen Handelsarchiv
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_2/0734/R" rel="nofollow">Images on film h1/sh/S0076H_2/0734/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Jugoslawien.  Ausgleich laufender Aussenhandelsforderungen und -schulden
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_2/0800/R" rel="nofollow">Images on film h1/sh/S0076H_2/0800/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Jugoslawien.  Niederlassung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_2/0802/R" rel="nofollow">Images on film h1/sh/S0076H_2/0802/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Jugoslawien.  Reiseverkehr
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_2/0803/R" rel="nofollow">Images on film h1/sh/S0076H_2/0803/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Kamerun
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_2/0806/R" rel="nofollow">Images on film h1/sh/S0076H_2/0806/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Kanada
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_2/0887/L" rel="nofollow">Images on film h1/sh/S0076H_2/0887/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Kanarische Inseln
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_2/0889/L" rel="nofollow">Images on film h1/sh/S0076H_2/0889/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Kolumbien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_2/0917/R" rel="nofollow">Images on film h1/sh/S0076H_2/0917/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Kroatien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_2/1030/R" rel="nofollow">Images on film h1/sh/S0076H_2/1030/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Kroatien. Eisenbahnverkehr, Transit
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_2/1047/R" rel="nofollow">Images on film h1/sh/S0076H_2/1047/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Kroatien. Post-, Telegraph- und Fernsprechwesen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_2/1049/L" rel="nofollow">Images on film h1/sh/S0076H_2/1049/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Kroatien. Rechtspflege, Rechtsangleichung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_2/1065/R" rel="nofollow">Images on film h1/sh/S0076H_2/1065/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Kroatien. Sachverständigen- und Facharbeiteraustausch, Studienkommissionen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_2/1066/R" rel="nofollow">Images on film h1/sh/S0076H_2/1066/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Kroatien. Handelspolitische Abmachungen mit einz. Ländern aus dem Deutschen Handelsarchiv
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_2/1111/L" rel="nofollow">Images on film h1/sh/S0076H_2/1111/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Kroatien. Ausgleich laufender Aussenhandelsforderungen und -schulden
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_2/1129/L" rel="nofollow">Images on film h1/sh/S0076H_2/1129/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Kuba
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0076H_2/1134/R" rel="nofollow">Images on film h1/sh/S0076H_2/1134/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Lateinamerika
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0115H" rel="nofollow">Images on film h1/sh/S0115H</a> | Filmanfang: Deutschland : Steuerwesen (Finanzwesen) Sm504 [A10 m3 Sm504]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0116H" rel="nofollow">Images on film h1/sh/S0116H</a> | Filmanfang: Deutschland : Einzelne Steuern Einkommen [A10 m3a Einkommen]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0117H_1" rel="nofollow">Images on film h1/sh/S0117H_1</a> | Filmanfang: Deutschland : Einzelne Steuern [A10 m3a]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0118H" rel="nofollow">Images on film h1/sh/S0118H</a> | Filmanfang: Deutschland : Einzelne Steuern [A10 m3a]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0119H" rel="nofollow">Images on film h1/sh/S0119H</a> | Filmanfang: Deutschland : Kommunales Finanzwesen, Allgemein [A10 m5]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0120H_1" rel="nofollow">Images on film h1/sh/S0120H_1</a> | Filmanfang: Deutschland : Einzelne inländische Anleihen (Kommunales Finanzwesen) einz. Städte Köln [A10 m5a Sm4 Köln]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0121H" rel="nofollow">Images on film h1/sh/S0121H</a> | Filmanfang: Deutschland : Fremdländische Kapitalanlagen, privatwirtschaftliche Interessen I [A10 n Sm1 I]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0122H" rel="nofollow">Images on film h1/sh/S0122H</a> | Filmanfang: Deutschland : Berufe I [A10 n Sm5 I]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0123H" rel="nofollow">Images on film h1/sh/S0123H</a> | Filmanfang: Deutschland : Kartell-, Syndikat und Trustwesen I [A10 n Sm7 I]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0124H" rel="nofollow">Images on film h1/sh/S0124H</a> | Filmanfang: Deutschland : Unternehmertum und Betriebsführung [A10 n Sm14]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0125H_1" rel="nofollow">Images on film h1/sh/S0125H_1</a> | Filmanfang: Deutschland : Private Kriegsschäden I [A10 n Sm25 I]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0126H" rel="nofollow">Images on film h1/sh/S0126H</a> | Filmanfang: Deutschland : Wasserwirtschaft (incl. Wasserrecht) I [A10 n Sm32 I]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0127H" rel="nofollow">Images on film h1/sh/S0127H</a> | Filmanfang: Deutschland : Wärmewirtschaft II a [A10 n Sm36 II a]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0128H" rel="nofollow">Images on film h1/sh/S0128H</a> | Filmanfang: Deutschland : Erwerbsgesellschaften IIa [A10 n Sm39 IIa]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0129H" rel="nofollow">Images on film h1/sh/S0129H</a> | Filmanfang: Deutschland : Wirtschaft, Institutionen [A10 n Sm50]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0130H" rel="nofollow">Images on film h1/sh/S0130H</a> | Filmanfang: Deutschland : Wirtschaft, Allgemein Sm504 III [A10 n Sm504 III]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0131H" rel="nofollow">Images on film h1/sh/S0131H</a> | Filmanfang: Deutschland : Wirtschaftspolitik [A10 n1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0132H_1" rel="nofollow">Images on film h1/sh/S0132H_1</a> | Filmanfang: Deutschland : Wirtschaftspolitik [A10 n1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0133H" rel="nofollow">Images on film h1/sh/S0133H</a> | Filmanfang: Deutschland : Sozialisierung, Allgemein [A10 n1 Sm3]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0134H_1" rel="nofollow">Images on film h1/sh/S0134H_1</a> | Filmanfang: Deutschland : Sozialpolitik, Allgemein [A10 n1 Sm11]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0135H" rel="nofollow">Images on film h1/sh/S0135H</a> | Filmanfang: Deutschland : Preisregelung II N. 10 [A10 n1 Sm12 II N. 10]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0136H" rel="nofollow">Images on film h1/sh/S0136H</a> | Filmanfang: Deutschland : Sicherung und Überwachung der Volksernährung [A10 n1 Sm19]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0137H_1" rel="nofollow">Images on film h1/sh/S0137H_1</a> | Filmanfang: Deutschland : Berichte über die wirtschaftliche Lage [A10 n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0138H" rel="nofollow">Images on film h1/sh/S0138H</a> | Filmanfang: Deutschland : Berichte über die wirtschaftliche Lage [A10 n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0139H" rel="nofollow">Images on film h1/sh/S0139H</a> | Filmanfang: Deutschland : Arbeitsmarkt, Erwerbslosenstatistik [A10 n2 Sm4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0140H" rel="nofollow">Images on film h1/sh/S0140H</a> | Filmanfang: Deutschland : Kapitalmarktübersichten, Neugründungen und Kapitalerhöhungen [A10 n2 Sm7]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0141H_1" rel="nofollow">Images on film h1/sh/S0141H_1</a> | Filmanfang: Deutschland : Übersichten der Preisentwicklung III [A10 n2 Sm11 III]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0142H_1" rel="nofollow">Images on film h1/sh/S0142H_1</a> | Filmanfang: Deutschland : Berichte über die wirtschaftliche Lage in einzelnen Bundesstaaten, Provinzen und Städten Ostgebiete [A10 n2a Ostgebiete]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0143H" rel="nofollow">Images on film h1/sh/S0143H</a> | Filmanfang: Deutschland : Bodenbesitzverhältnisse und Bodenpolitik, Hausbesitz [A10 n3]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0144H" rel="nofollow">Images on film h1/sh/S0144H</a> | Filmanfang: Deutschland : Landwirtschaft [A10 n4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0145H" rel="nofollow">Images on film h1/sh/S0145H</a> | Filmanfang: Deutschland : Landwirtschaft [A10 n4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0146H" rel="nofollow">Images on film h1/sh/S0146H</a> | Filmanfang: Deutschland : Verschuldung der Landwirtschaft [A10 n4 Sm7]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0147H" rel="nofollow">Images on film h1/sh/S0147H</a> | Filmanfang: Deutschland : Landwirtschaft in einzelnen Bundesstaaten, Provinzen etc. Kärnten [A10 n4a Kärnten]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0148H" rel="nofollow">Images on film h1/sh/S0148H</a> | Filmanfang: Deutschland : Forstwirtschaft [A10 n9]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0149H" rel="nofollow">Images on film h1/sh/S0149H</a> | Filmanfang: Deutschland : Bergbau [A10 n12]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0150H" rel="nofollow">Images on film h1/sh/S0150H</a> | Filmanfang: Deutschland : Industrie [A10 n13]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0151H" rel="nofollow">Images on film h1/sh/S0151H</a> | Filmanfang: Deutschland : Industrie Sm501 [A10 n13 Sm501]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0152H" rel="nofollow">Images on film h1/sh/S0152H</a> | Filmanfang: Deutschland : Textilindustrie [A10 n13a Sm3]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0153H" rel="nofollow">Images on film h1/sh/S0153H</a> | Filmanfang: Deutschland : Schiffbau II [A10 n13a Sm6 II]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0154H" rel="nofollow">Images on film h1/sh/S0154H</a> | Filmanfang: Deutschland : Handwerk [A10 n14]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0155H" rel="nofollow">Images on film h1/sh/S0155H</a> | Filmanfang: Deutschland : Streiks, Vereinbarungen zwischen Arbeitgebern und Arbeitnehmern III [A10 n15 Sm2 III]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0156H" rel="nofollow">Images on film h1/sh/S0156H</a> | Filmanfang: Deutschland : Regelung der Arbeitszeit, Löhne II [A10 n15 Sm7 II]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_1/0608/R" rel="nofollow">Images on film h1/sh/S0077H_1/0608/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Mittelamerika
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_2/0621/L" rel="nofollow">Images on film h1/sh/S0077H_2/0621/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Mittelamerika
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_2/0622/R" rel="nofollow">Images on film h1/sh/S0077H_2/0622/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Mozambique
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_2/0623/L" rel="nofollow">Images on film h1/sh/S0077H_2/0623/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Neufundland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_2/0624/L" rel="nofollow">Images on film h1/sh/S0077H_2/0624/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Neukaledonien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_2/0626/R" rel="nofollow">Images on film h1/sh/S0077H_2/0626/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Neuseeland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_2/0650/L" rel="nofollow">Images on film h1/sh/S0077H_2/0650/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Nicaragua
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_2/0658/L" rel="nofollow">Images on film h1/sh/S0077H_2/0658/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Nigeria
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_2/0660/R" rel="nofollow">Images on film h1/sh/S0077H_2/0660/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Nordische Länder
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_2/0702/L" rel="nofollow">Images on film h1/sh/S0077H_2/0702/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Nordische Länder. Wirtschaftliche Kompensationen, Warenaustausch
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_2/0703/R" rel="nofollow">Images on film h1/sh/S0077H_2/0703/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Nordische Länder. Handelkredite
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_2/0705/L" rel="nofollow">Images on film h1/sh/S0077H_2/0705/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Nordische Länder. Verträge über Kraftfahrzeugverkehr
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_2/0706/R" rel="nofollow">Images on film h1/sh/S0077H_2/0706/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Nordische Länder. Kaufmännische Schiedsgerichte
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_2/0707/L" rel="nofollow">Images on film h1/sh/S0077H_2/0707/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Nordische Länder. Eisenbahnverkehr, Transit
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_2/0727/L" rel="nofollow">Images on film h1/sh/S0077H_2/0727/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Nordische Länder. Sachverständigen- und Facharbeiteraustausch, Studienkommissionen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_2/0728/L" rel="nofollow">Images on film h1/sh/S0077H_2/0728/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Nordische Länder. Schiffahrt
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_2/0729/R" rel="nofollow">Images on film h1/sh/S0077H_2/0729/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Nordische Länder. Handelspolitische Abmachungen mit einz. Ländern aus dem Deutschen Handelsarchiv
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_2/0730/R" rel="nofollow">Images on film h1/sh/S0077H_2/0730/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Nordische Länder. Schmuggelverhütung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_2/0731/R" rel="nofollow">Images on film h1/sh/S0077H_2/0731/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Nordische Länder. Ausgleich laufender Aussenhandelsforderungen und -schulden, Einzelne Länder
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_2/0732/R" rel="nofollow">Images on film h1/sh/S0077H_2/0732/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Norwegen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_2/0787/L" rel="nofollow">Images on film h1/sh/S0077H_2/0787/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Norwegen. Wirtschaftliche Kompensationen, Warenaustausch
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_2/0788/R" rel="nofollow">Images on film h1/sh/S0077H_2/0788/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Norwegen. Handelskredite
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_2/0789/R" rel="nofollow">Images on film h1/sh/S0077H_2/0789/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Norwegen. Urheberschutz
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_2/0791/R" rel="nofollow">Images on film h1/sh/S0077H_2/0791/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Norwegen. Fischereiverträge
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_2/0792/R" rel="nofollow">Images on film h1/sh/S0077H_2/0792/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Norwegen. Luftverkehrsverträge
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_2/0799/R" rel="nofollow">Images on film h1/sh/S0077H_2/0799/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Norwegen. Eisenbahnverkehr, Transit
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_2/0803/L" rel="nofollow">Images on film h1/sh/S0077H_2/0803/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Norwegen. Schiffahrt
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_2/0805/L" rel="nofollow">Images on film h1/sh/S0077H_2/0805/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Norwegen. Rechtspflege, Rechtsangleichung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_2/0806/R" rel="nofollow">Images on film h1/sh/S0077H_2/0806/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Norwegen. Sachverständigen- und Facharbeiteraustausch, Studienkommissionen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_2/0811/L" rel="nofollow">Images on film h1/sh/S0077H_2/0811/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Norwegen. Handelspolitische Abmachungen mit einz. Ländern aus dem Deutschen Handelsarchiv
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_2/0829/R" rel="nofollow">Images on film h1/sh/S0077H_2/0829/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Norwegen. Wasserwirtschaft, Wasserkraft
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_2/0832/R" rel="nofollow">Images on film h1/sh/S0077H_2/0832/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Norwegen. Ausgleich laufender Aussenhandelsforderungen und -schulden
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_2/0859/R" rel="nofollow">Images on film h1/sh/S0077H_2/0859/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Nyasaland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_2/0860/L" rel="nofollow">Images on film h1/sh/S0077H_2/0860/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Österreich - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0077H_2/0861/R" rel="nofollow">Images on film h1/sh/S0077H_2/0861/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Österreich
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0078H_1" rel="nofollow">Images on film h1/sh/S0078H_1</a> | Filmanfang: Deutschland : Wirtschaftspolitische Beziehungen zu einzelnen Ländern Deutsch-Österreich [A10 g4a Deutsch-Österreich]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0078H_1/0002/L" rel="nofollow">Images on film h1/sh/S0078H_1/0002/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu Österreich
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0078H_1/0492/L" rel="nofollow">Images on film h1/sh/S0078H_1/0492/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Orient
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0078H_1/0498/R" rel="nofollow">Images on film h1/sh/S0078H_1/0498/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Ostasien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0078H_1/0523/R" rel="nofollow">Images on film h1/sh/S0078H_1/0523/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Osteuropa
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0078H_1/0549/L" rel="nofollow">Images on film h1/sh/S0078H_1/0549/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Ostseestaaten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0078H_1/0583/R" rel="nofollow">Images on film h1/sh/S0078H_1/0583/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Palästina
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0078H_1/0601/R" rel="nofollow">Images on film h1/sh/S0078H_1/0601/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Panama
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0078H_1/0610/R" rel="nofollow">Images on film h1/sh/S0078H_1/0610/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Paraguay
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0078H_1/0621/R" rel="nofollow">Images on film h1/sh/S0078H_1/0621/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Peru
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0078H_2/0623/L" rel="nofollow">Images on film h1/sh/S0078H_2/0623/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Peru
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0078H_2/0630/R" rel="nofollow">Images on film h1/sh/S0078H_2/0630/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Philippinen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0078H_2/0635/L" rel="nofollow">Images on film h1/sh/S0078H_2/0635/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Polen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0079H_1" rel="nofollow">Images on film h1/sh/S0079H_1</a> | Filmanfang: Deutschland : Wirtschaftspolitische Beziehungen zu einzelnen Ländern Polen [A10 g4a Polen]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0079H_1/0002/L" rel="nofollow">Images on film h1/sh/S0079H_1/0002/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Polen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0079H_2/0614/R" rel="nofollow">Images on film h1/sh/S0079H_2/0614/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Polen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0079H_2/0753/R" rel="nofollow">Images on film h1/sh/S0079H_2/0753/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Polen-Oberschlesien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0079H_2/0756/R" rel="nofollow">Images on film h1/sh/S0079H_2/0756/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Portugal
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0079H_2/0865/R" rel="nofollow">Images on film h1/sh/S0079H_2/0865/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Reunion
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0079H_2/0867/R" rel="nofollow">Images on film h1/sh/S0079H_2/0867/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Rumänien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0080H/0002/L" rel="nofollow">Images on film h1/sh/S0080H/0002/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Rumänien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0080H/0269/R" rel="nofollow">Images on film h1/sh/S0080H/0269/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Sowjetunion (Lit)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0080H/0280/R" rel="nofollow">Images on film h1/sh/S0080H/0280/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Sowjetunion
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0081H/0002/L" rel="nofollow">Images on film h1/sh/S0081H/0002/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Sowjetunion
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0081H/0106/L" rel="nofollow">Images on film h1/sh/S0081H/0106/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Saargebiet
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0081H/0265/R" rel="nofollow">Images on film h1/sh/S0081H/0265/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Salvador
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0081H/0275/R" rel="nofollow">Images on film h1/sh/S0081H/0275/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Samoa
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0081H/0277/R" rel="nofollow">Images on film h1/sh/S0081H/0277/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Sansibar
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0081H/0279/R" rel="nofollow">Images on film h1/sh/S0081H/0279/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Saudi-Arabien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0081H/0283/R" rel="nofollow">Images on film h1/sh/S0081H/0283/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Schweden
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0081H/0677/L" rel="nofollow">Images on film h1/sh/S0081H/0677/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Schweiz (Lit)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0081H/0682/R" rel="nofollow">Images on film h1/sh/S0081H/0682/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Schweiz
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0082H/0002/L" rel="nofollow">Images on film h1/sh/S0082H/0002/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Schweiz
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0082H/0335/R" rel="nofollow">Images on film h1/sh/S0082H/0335/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Serbien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0082H/0346/R" rel="nofollow">Images on film h1/sh/S0082H/0346/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Sibirien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0082H/0347/R" rel="nofollow">Images on film h1/sh/S0082H/0347/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Slowakei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0082H/0705/L" rel="nofollow">Images on film h1/sh/S0082H/0705/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Spanien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0082H/0964/L" rel="nofollow">Images on film h1/sh/S0082H/0964/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Spanische Kolonien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0082H/0966/R" rel="nofollow">Images on film h1/sh/S0082H/0966/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Sudan
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0082H/0967/R" rel="nofollow">Images on film h1/sh/S0082H/0967/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Südamerika
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0082H/1015/R" rel="nofollow">Images on film h1/sh/S0082H/1015/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Jugoslawien (bis 1945 Südslawien)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0082H/1017/R" rel="nofollow">Images on film h1/sh/S0082H/1017/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Südosteuropa
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0082H/1031/R" rel="nofollow">Images on film h1/sh/S0082H/1031/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Südrhodesien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0082H/1035/L" rel="nofollow">Images on film h1/sh/S0082H/1035/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Südsee
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0082H/1036/L" rel="nofollow">Images on film h1/sh/S0082H/1036/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Südwestafrika
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0082H/1037/R" rel="nofollow">Images on film h1/sh/S0082H/1037/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Syrien
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0082H/1064/R" rel="nofollow">Images on film h1/sh/S0082H/1064/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Ostafrika
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0082H/1065/R" rel="nofollow">Images on film h1/sh/S0082H/1065/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Tanger
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0082H/1067/L" rel="nofollow">Images on film h1/sh/S0082H/1067/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Thailand
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0082H/1121/R" rel="nofollow">Images on film h1/sh/S0082H/1121/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Togo
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0082H/1124/L" rel="nofollow">Images on film h1/sh/S0082H/1124/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Tschechoslowakei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0083H/0002/L" rel="nofollow">Images on film h1/sh/S0083H/0002/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Tschechoslowakei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0083H/0305/L" rel="nofollow">Images on film h1/sh/S0083H/0305/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Tunis
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0083H/0325/R" rel="nofollow">Images on film h1/sh/S0083H/0325/R</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Türkei
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0083H/0846/L" rel="nofollow">Images on film h1/sh/S0083H/0846/L</a> | Deutschland (bis 1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern - Ungarn
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0087H/0002/L" rel="nofollow">Images on film h1/sh/S0087H/0002/L</a> | Deutschland (bis 1945) : Beamtenwesen, Öffentlicher Dienst
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0087H/0735/R" rel="nofollow">Images on film h1/sh/S0087H/0735/R</a> | Deutschland (bis 1945) : Besoldung, Tarifverträge
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0088H/0002" rel="nofollow">Images on film h1/sh/S0088H/0002</a> | Deutschland (bis 1945) : Besoldung, Tarifverträge
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0088H/0575/R" rel="nofollow">Images on film h1/sh/S0088H/0575/R</a> | Deutschland (bis 1945) : Disciplinarwesen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0088H/0687/R" rel="nofollow">Images on film h1/sh/S0088H/0687/R</a> | Deutschland (bis 1945) : Beamtenabbau
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0088H/0749/R" rel="nofollow">Images on film h1/sh/S0088H/0749/R</a> | Deutschland (bis 1945) : Beamtenwesen, Öffentlicher Dienst, Konferenzen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0088H/0761/L" rel="nofollow">Images on film h1/sh/S0088H/0761/L</a> | Deutschland (bis 1945) : Beamtenwesen, Öffentlicher Dienst, Beruf und Ausbildung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0088H/0791/L" rel="nofollow">Images on film h1/sh/S0088H/0791/L</a> | Deutschland (bis 1945) : Verwaltungsbezirke - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0088H/0792/R" rel="nofollow">Images on film h1/sh/S0088H/0792/R</a> | Deutschland (bis 1945) : Verwaltungsbezirke
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0088H/0861/L" rel="nofollow">Images on film h1/sh/S0088H/0861/L</a> | Deutschland (bis 1945) : Polizeiwesen - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0088H/0869/R" rel="nofollow">Images on film h1/sh/S0088H/0869/R</a> | Deutschland (bis 1945) : Polizeiwesen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0089H" rel="nofollow">Images on film h1/sh/S0089H</a> | Filmanfang: Deutschland : Polizeiwesen [A10 h4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0090H" rel="nofollow">Images on film h1/sh/S0090H</a> | Filmanfang: Deutschland : Verwaltung, einzelne Bundesstaaten, Provinzen und Kommunen [A10 h5a]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0091H" rel="nofollow">Images on film h1/sh/S0091H</a> | Filmanfang: Deutschland : Armenwesen [A10 h7 Sm7]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0092H" rel="nofollow">Images on film h1/sh/S0092H</a> | Filmanfang: Deutschland : Gerichtsverfassung [A10 i1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0093H" rel="nofollow">Images on film h1/sh/S0093H</a> | Filmanfang: Deutschland : Zivilrecht [A10 i2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0094H_1" rel="nofollow">Images on film h1/sh/S0094H_1</a> | Filmanfang: Deutschland : Einzelne Skandale und Prozesse [A10 i5]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0095H" rel="nofollow">Images on film h1/sh/S0095H</a> | Filmanfang: Deutschland : Einzelne Skandale und Prozesse [A10 i5]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0096H_1" rel="nofollow">Images on film h1/sh/S0096H_1</a> | Filmanfang: Deutschland : Politische und weltanschauliche Schulung [A10 k Sm5]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0097H_1" rel="nofollow">Images on film h1/sh/S0097H_1</a> | Filmanfang: Deutschland : Studentenwesen VI [A10 k1 Sm2 VI]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0098H_1" rel="nofollow">Images on film h1/sh/S0098H_1</a> | Filmanfang: Deutschland : Hochschulwesen, Forschungsanstalten Allgemein h [A10 k1 h]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0099H_1" rel="nofollow">Images on film h1/sh/S0099H_1</a> | Filmanfang: Deutschland : Schulwesen [A10 k2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0100H_1" rel="nofollow">Images on film h1/sh/S0100H_1</a> | Filmanfang: Deutschland : Fachschulwesen [A10 k2 Sm4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0101H_1" rel="nofollow">Images on film h1/sh/S0101H_1</a> | Filmanfang: Deutschland : Militärwesen, Allgemein [A10 l]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0102H" rel="nofollow">Images on film h1/sh/S0102H</a> | Filmanfang: Deutschland : Militärstrafrecht, Militärgerichtsbarkeit [A10 l Sm11]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0103H_1" rel="nofollow">Images on film h1/sh/S0103H_1</a> | Filmanfang: Deutschland : Landheer, Schutztruppen [A10 l1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0104H" rel="nofollow">Images on film h1/sh/S0104H</a> | Filmanfang: Deutschland : Flugwesen [A10 l4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0105H" rel="nofollow">Images on film h1/sh/S0105H</a> | Filmanfang: Deutschland : Heeresbedarf [A10 l6]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0106H" rel="nofollow">Images on film h1/sh/S0106H</a> | Filmanfang: Deutschland : Finanzwesen, Allgemein [A10 m]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0107H_1" rel="nofollow">Images on film h1/sh/S0107H_1</a> | Filmanfang: Deutschland : Finanzwesen der Bundesstaaten und Provinzen [A10 m Sm9]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0108H" rel="nofollow">Images on film h1/sh/S0108H</a> | Filmanfang: Deutschland : Staatshaushalt [A10 m1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0109H" rel="nofollow">Images on film h1/sh/S0109H</a> | Filmanfang: Deutschland : Staatshaushalt [A10 m1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0110H_1" rel="nofollow">Images on film h1/sh/S0110H_1</a> | Filmanfang: Deutschland : Inlandsschulden, insbes. Anleihepolitik in Landeswährung II [A10 m1 Sm4 II]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0111H" rel="nofollow">Images on film h1/sh/S0111H</a> | Filmanfang: Deutschland : Finanzwesen einzelner Bundesstaaten oder Provinzen Bremen Sm5 II [A10 m1a Bremen Sm5 II]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0112H_1" rel="nofollow">Images on film h1/sh/S0112H_1</a> | Filmanfang: Deutschland : Zollwesen, Zolltarife [A10 m2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0113H_1" rel="nofollow">Images on film h1/sh/S0113H_1</a> | Filmanfang: Deutschland : Steuerwesen (Finanzwesen) [A10 m3]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0114H_1" rel="nofollow">Images on film h1/sh/S0114H_1</a> | Filmanfang: Deutschland : Steuerwesen (Finanzwesen) [A10 m3]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0157H" rel="nofollow">Images on film h1/sh/S0157H</a> | Filmanfang: Deutschland : Ausländische und koloniale Arbeiter II Frankreich [A10 n15 Sm11 II Frankreich]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0158H" rel="nofollow">Images on film h1/sh/S0158H</a> | Filmanfang: Deutschland : Angestelltenfrage [A10 n15 Sm24]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0159H_1" rel="nofollow">Images on film h1/sh/S0159H_1</a> | Filmanfang: Deutschland : Arbeitnehmerverhältnisse, Bergbau und bergbauliche Betriebe [A10 n15a Sm4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0160H" rel="nofollow">Images on film h1/sh/S0160H</a> | Filmanfang: Deutschland : Arbeitnehmerverhältnisse, Metallverarbeitung und Maschinenindustrie [A10 n15a Sm19]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0161H" rel="nofollow">Images on film h1/sh/S0161H</a> | Filmanfang: Deutschland : Gewerkschaftswesen, Arbeiterorganisationen Allgemein [A10 n16]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0162H" rel="nofollow">Images on film h1/sh/S0162H</a> | Filmanfang: Deutschland : Miete und Mieterfragen I [A10 n17 Sm1 I]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0163H" rel="nofollow">Images on film h1/sh/S0163H</a> | Filmanfang: Deutschland : Bauwesen und Wohnungswesen einzelner Bundesstaaten, Provinzen und Städte Stuttgart [A10 n17a Stuttgart]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0164H" rel="nofollow">Images on film h1/sh/S0164H</a> | Filmanfang: Deutschland : Handel [A10 n18]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0165H_1" rel="nofollow">Images on film h1/sh/S0165H_1</a> | Filmanfang: Deutschland : Handelsbeziehungen zu einzelnen Ländern England [A10 n19 England]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0166H" rel="nofollow">Images on film h1/sh/S0166H</a> | Filmanfang: Deutschland : Handelsbeziehungen zu einzelnen Ländern Polen [A10 n19 Polen]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0167H" rel="nofollow">Images on film h1/sh/S0167H</a> | Filmanfang: Deutschland : Kleinhandel [A10 n20]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0168H" rel="nofollow">Images on film h1/sh/S0168H</a> | Filmanfang: Deutschland : Theater und Musik [A10 n21 Sm1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0169H" rel="nofollow">Images on film h1/sh/S0169H</a> | Filmanfang: Deutschland : Geld und Währung [A10 n23]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0170H" rel="nofollow">Images on film h1/sh/S0170H</a> | Filmanfang: Deutschland : Kursentwicklung der Landeswährung, Bildung mehrfacher Kurse für die Währungseinheit II b [A10 n23 Sm2 II b]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0171H" rel="nofollow">Images on film h1/sh/S0171H</a> | Filmanfang: Deutschland : Gesetzliche Wertberechnung auf Feingold lautender Ansprüche [A10 n23 Sm9]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0172H" rel="nofollow">Images on film h1/sh/S0172H</a> | Filmanfang: Deutschland : Kreditwesen und Bankwesen [A10 n24]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0173H" rel="nofollow">Images on film h1/sh/S0173H</a> | Filmanfang: Deutschland : Sparkassenwesen, Spareinrichtungen, Allgemein [A10 n24 Sm3]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0174H" rel="nofollow">Images on film h1/sh/S0174H</a> | Filmanfang: Deutschland : Wertpapierhandel (ausser Börsenhandel), Beeinflussung privater Kapitalanlagen [A10 n24 Sm5]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0175H" rel="nofollow">Images on film h1/sh/S0175H</a> | Filmanfang: Deutschland : Bankwesen, Technik des ... II e [A10 n24 Sm21 II e]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0176H" rel="nofollow">Images on film h1/sh/S0176H</a> | Filmanfang: Deutschland : Bankwesen, Private Kreditaufnahme im Ausland I [A10 n24 Sm34 I]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0177H" rel="nofollow">Images on film h1/sh/S0177H</a> | Filmanfang: Deutschland : Lage des Bankgewerbes [A10 n24 Sm35]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0178H_1" rel="nofollow">Images on film h1/sh/S0178H_1</a> | Filmanfang: Deutschland : Kreditwesen und Bankwesen Sm502 II a [A10 n24 Sm502 II a]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0179H" rel="nofollow">Images on film h1/sh/S0179H</a> | Filmanfang: Deutschland : Arbeitskammern, Allgemein [A10 n26 Sm5]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0180H" rel="nofollow">Images on film h1/sh/S0180H</a> | Filmanfang: Deutschland : Verkehrswesen, Allgemein [A10 n28]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0181H" rel="nofollow">Images on film h1/sh/S0181H</a> | Filmanfang: Deutschland : Kraftfahrzeugverkehr, Allgemein [A10 n28 Sm4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0182H_1" rel="nofollow">Images on film h1/sh/S0182H_1</a> | Filmanfang: Deutschland : Landstrassen, Wege, Brücken (einschl. ihres Verkehrs) [A10 n29]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0183H_1" rel="nofollow">Images on film h1/sh/S0183H_1</a> | Filmanfang: Deutschland : Eisenbahnwesen [A10 n30]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0191H" rel="nofollow">Images on film h1/sh/S0191H</a> | Filmanfang: Deutschland : Postwesen, Telegraphenwesen und Fernsprechwesen [A10 n34]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0192H" rel="nofollow">Images on film h1/sh/S0192H</a> | Filmanfang: Deutschland : Fernsehen [A10 n34 Sm7]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0193H" rel="nofollow">Images on film h1/sh/S0193H</a> | Filmanfang: Deutschland : Lufthafen I [A10 n35 Sm2 I]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0194H_1" rel="nofollow">Images on film h1/sh/S0194H_1</a> | Filmanfang: Deutschland : Einzelne Luftverkehrslinien Russland [A10 n35a Russland]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0195H_1" rel="nofollow">Images on film h1/sh/S0195H_1</a> | Filmanfang: Deutschland : Versicherungswesen [A10 n37]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0196H" rel="nofollow">Images on film h1/sh/S0196H</a> | Filmanfang: Deutschland : Sozialversicherung I [A10 n37a Sm2 I]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0197H_1" rel="nofollow">Images on film h1/sh/S0197H_1</a> | Filmanfang: Deutschland : Sozialversicherung II [A10 n37a Sm2 II]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0198H_1" rel="nofollow">Images on film h1/sh/S0198H_1</a> | Filmanfang: Deutschland : Kraftfahrzeugversicherung (kombinierte). Kraftwagenversicherung [A10 n37a Sm18]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0202H/0002/R" rel="nofollow">Images on film h1/sh/S0202H/0002/R</a> | Deutschland (bis 1945) : Marokko-Kongo Abkommen 1911
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0202H/0214/R" rel="nofollow">Images on film h1/sh/S0202H/0214/R</a> | Deutschland (bis 1945) : Abtretungsgebiete und Abstimmungsggebiete i.G. (lt. Friedensvertrag von Versailles) - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0202H/0215/L" rel="nofollow">Images on film h1/sh/S0202H/0215/L</a> | Deutschland (bis 1945) : Abtretungsgebiete und Abstimmungsggebiete i.G. (lt. Friedensvertrag von Versailles)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0202H/0226/L" rel="nofollow">Images on film h1/sh/S0202H/0226/L</a> | Deutschland (bis 1945) : Neutrale Zone
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0202H/0234/L" rel="nofollow">Images on film h1/sh/S0202H/0234/L</a> | Deutschland (bis 1945) : Reparationsproblem (incl. Dawes-Mc Kenna und Young Plan) - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0202H/0257/L" rel="nofollow">Images on film h1/sh/S0202H/0257/L</a> | Deutschland (bis 1945) : Reparationsproblem (incl. Dawes-Mc Kenna und Young Plan)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0203H/0002" rel="nofollow">Images on film h1/sh/S0203H/0002</a> | Deutschland (bis 1945) : Reparationsproblem (incl. Dawes-Mc Kenna und Young Plan)
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0203H/0962/L" rel="nofollow">Images on film h1/sh/S0203H/0962/L</a> | Deutschland (bis 1945) : Reparationskommission, Tätigkeit - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0203H/0963/L" rel="nofollow">Images on film h1/sh/S0203H/0963/L</a> | Deutschland (bis 1945) : Reparationskommission, Tätigkeit
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0203H/1183/R" rel="nofollow">Images on film h1/sh/S0203H/1183/R</a> | Deutschland (bis 1945) : Reparationskommission, Tätigkeit der Garantiekommission
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0203H/1212/R" rel="nofollow">Images on film h1/sh/S0203H/1212/R</a> | Deutschland (bis 1945) : Reparationskommission, Tätigkeit, Sachverständigenkonferenz Jan.-Apr. 1924 - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0203H/1214/L" rel="nofollow">Images on film h1/sh/S0203H/1214/L</a> | Deutschland (bis 1945) : Reparationskommission, Tätigkeit, Sachverständigenkonferenz Jan.-Apr. 1924
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0204H/0002/L" rel="nofollow">Images on film h1/sh/S0204H/0002/L</a> | Deutschland (bis 1945) : Reparationskommission, Tätigkeit, Sachverständigenkonferenz Jan.-Apr. 1924
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0204H/0389/R" rel="nofollow">Images on film h1/sh/S0204H/0389/R</a> | Deutschland (bis 1945) : Reparationskommission, Tätigkeit der Generalagenten für Reparationszahlungen und der Kommissare und Treuhänder - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0204H/0391/L" rel="nofollow">Images on film h1/sh/S0204H/0391/L</a> | Deutschland (bis 1945) : Reparationskommission, Tätigkeit der Generalagenten für Reparationszahlungen und der Kommissare und Treuhänder
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0204H/0495/R" rel="nofollow">Images on film h1/sh/S0204H/0495/R</a> | Deutschland (bis 1945) : Auslandsstimmen zum Reparationsproblem (incl. Dawes-Ms Kenna Plan), Übersichten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0204H/0509/R" rel="nofollow">Images on film h1/sh/S0204H/0509/R</a> | Deutschland (bis 1945) : Reparationsschiedsgericht
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0204H/0517/R" rel="nofollow">Images on film h1/sh/S0204H/0517/R</a> | Deutschland (bis 1945) : Reparationsproblem, Sonderabkommen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0204H/0581/R" rel="nofollow">Images on film h1/sh/S0204H/0581/R</a> | Deutschland (bis 1945) : Reparationsproblem, Sonderforderungen, Deutsches Papiergeld
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0204H/0618/R" rel="nofollow">Images on film h1/sh/S0204H/0618/R</a> | Deutschland (bis 1945) : Reparationsabkommen, Haager Konferenz
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0204H/0876/R" rel="nofollow">Images on film h1/sh/S0204H/0876/R</a> | Deutschland (bis 1945) : Reparationsabkommen, deutsch-belgisches Markabkommen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0204H/0906/R" rel="nofollow">Images on film h1/sh/S0204H/0906/R</a> | Deutschland (bis 1945) : Reparationsabkommen, Beschlagnahme, Liquidation deutschen Vermögens im Ausland - Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0204H/0907/L" rel="nofollow">Images on film h1/sh/S0204H/0907/L</a> | Deutschland (bis 1945) : Reparationsabkommen, Beschlagnahme, Liquidation deutschen Vermögens im Ausland
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0204H/0951" rel="nofollow">Images on film h1/sh/S0204H/0951</a> | Deutschland (bis 1945) : Sanktionen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0204H/1019/R" rel="nofollow">Images on film h1/sh/S0204H/1019/R</a> | Deutschland (bis 1945) : Ausländische Stimmen zur Sanktionsfrage, Übersichten
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0204H/1051/R" rel="nofollow">Images on film h1/sh/S0204H/1051/R</a> | Deutschland (bis 1945) : Sicherung der Reichsgrenzen
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0204H/1080/R" rel="nofollow">Images on film h1/sh/S0204H/1080/R</a> | Deutschland (bis 1945) : Wendenfrage
+
+
+:::
+
+
+
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 261997</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2042H/0002" rel="nofollow">Images on film h2/sh/S2042H/0002</a> | Deutschland : Landeskunde, Landschaften, Beschreibung einzelner Orte und Gegenden
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2043H" rel="nofollow">Images on film h2/sh/S2043H</a> | Filmanfang: Deutschland : Soziale Zustände, Soziale Lage Sm [A10 d5 SM]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2044H" rel="nofollow">Images on film h2/sh/S2044H</a> | Filmanfang: Deutschland : Einzelne Krankheiten und deren Bekämpfung [A10 e1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2045H" rel="nofollow">Images on film h2/sh/S2045H</a> | Filmanfang: Deutschland : Lufthygiene und Lüftungswesen [A10 e4 Sm8]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2046H" rel="nofollow">Images on film h2/sh/S2046H</a> | Filmanfang: Deutschland : Geschichtliche Vorgänge [A10 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2047H" rel="nofollow">Images on film h2/sh/S2047H</a> | Filmanfang: Deutschland : Hochverrat und Spionage in..., Allgemein. (Ab 1945 auch): Widerstand [A10 f2 Sm16]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2048H" rel="nofollow">Images on film h2/sh/S2048H</a> | Filmanfang: Deutschland : Gesetzgebung II [A10 f2 Sm19 II]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2049H" rel="nofollow">Images on film h2/sh/S2049H</a> | Filmanfang: Deutschland : Geschichtliche Vorgänge Sm [A10 f2 SM]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2050H" rel="nofollow">Images on film h2/sh/S2050H</a> | Filmanfang: Deutschland : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten [A10 f2a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2051H" rel="nofollow">Images on film h2/sh/S2051H</a> | Filmanfang: Deutschland : Verfassung, Staatsform [A10 f4]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2052H" rel="nofollow">Images on film h2/sh/S2052H</a> | Filmanfang: Deutschland : Parlamentarische und politische Körperschaften, Allgemein [A10 f4 Sm2.I]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2053H" rel="nofollow">Images on film h2/sh/S2053H</a> | Filmanfang: Deutschland : Verfassung, Staatsform Sm [A10 f4 SM]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2054H" rel="nofollow">Images on film h2/sh/S2054H</a> | Filmanfang: Deutschland : Parteiwesen [A10 f5]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2055H" rel="nofollow">Images on film h2/sh/S2055H</a> | Filmanfang: Deutschland : Vorgeschichte [A10 f Sm1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2056H" rel="nofollow">Images on film h2/sh/S2056H</a> | Filmanfang: Deutschland : Einzelne Parteien und Parteigruppen [A10 f5a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2057H" rel="nofollow">Images on film h2/sh/S2057H</a> | Filmanfang: Deutschland : Einzelne Parteien und Parteigruppen [A10 f5a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2058H" rel="nofollow">Images on film h2/sh/S2058H</a> | Filmanfang: Deutschland : Einzelne Parteien und Parteigruppen [A10 f5a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2059H" rel="nofollow">Images on film h2/sh/S2059H</a> | Filmanfang: Deutschland : Einzelne Parteien und Parteigruppen [A10 f5a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2060H" rel="nofollow">Images on film h2/sh/S2060H</a> | Filmanfang: Deutschland : Verhandlungen von parlamentarischen und politischen Körperschaften [A10 f6]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2061H" rel="nofollow">Images on film h2/sh/S2061H</a> | Filmanfang: Deutschland : Verhandlungen von parlamentarischen und politischen Körperschaften [A10 f6]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2062H" rel="nofollow">Images on film h2/sh/S2062H</a> | Filmanfang: Deutschland : Außenpolitik und politische Beziehungen zum Ausland, Allgemein [A10 g]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2063H" rel="nofollow">Images on film h2/sh/S2063H</a> | Filmanfang: Deutschland : Außenpolitik und politische Beziehungen zum Ausland, Allgemein [A10 g]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2064H" rel="nofollow">Images on film h2/sh/S2064H</a> | Filmanfang: Deutschland : Außenpolitik und politische Beziehungen zum Ausland, Allgemein Sm [A10 g SM]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2065H" rel="nofollow">Images on film h2/sh/S2065H</a> | Filmanfang: Deutschland : Politische Beziehungen zu einzelnen Ländern [A10 g1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2066H" rel="nofollow">Images on film h2/sh/S2066H</a> | Filmanfang: Deutschland : Politische Beziehungen zu einzelnen Ländern [A10 g1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2067H" rel="nofollow">Images on film h2/sh/S2067H</a> | Filmanfang: Deutschland : Politische Beziehungen zu einzelnen Ländern [A10 g1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2068H" rel="nofollow">Images on film h2/sh/S2068H</a> | Filmanfang: Deutschland : Politische Beziehungen zu einzelnen Ländern [A10 g1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2069H" rel="nofollow">Images on film h2/sh/S2069H</a> | Filmanfang: Deutschland : Politische Beziehungen zu einzelnen Ländern Sm [A10 g1 SM]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2070H" rel="nofollow">Images on film h2/sh/S2070H</a> | Filmanfang: Deutschland : Diplomatische und konsularische Vertretungen [A10 g2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2071H" rel="nofollow">Images on film h2/sh/S2071H</a> | Filmanfang: Deutschland : Diplomatische und konsularische Vertretungen in einzelnen Ländern [A10 g2a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2072H" rel="nofollow">Images on film h2/sh/S2072H</a> | Filmanfang: Deutschland : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein [A10 g4]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2073H" rel="nofollow">Images on film h2/sh/S2073H</a> | Filmanfang: Deutschland : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein [A10 g4]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2074H" rel="nofollow">Images on film h2/sh/S2074H</a> | Filmanfang: Deutschland : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein Sm [A10 g4 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2075H" rel="nofollow">Images on film h2/sh/S2075H</a> | Filmanfang: Deutschland : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein Sm [A10 g4 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2076H" rel="nofollow">Images on film h2/sh/S2076H</a> | Filmanfang: Deutschland : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein Sm [A10 g4 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2077H" rel="nofollow">Images on film h2/sh/S2077H</a> | Filmanfang: Deutschland : Staatliche Handelskredite, Garantieübernahme, Subventionierung, Förderung des Aussenhandels [A10 g4 Sm6]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2078H" rel="nofollow">Images on film h2/sh/S2078H</a> | Filmanfang: Deutschland : Ausgleich laufender Aussenhandelsforderungen und -schulden [A10 g4 Sm25]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2079H" rel="nofollow">Images on film h2/sh/S2079H</a> | Filmanfang: Deutschland : Handelspolitik, Institutionen [A10 g4 Sm50]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2080H" rel="nofollow">Images on film h2/sh/S2080H</a> | Filmanfang: Deutschland : Wirtschaftspolitische Beziehungen zu einzelnen Ländern Sm [A10 g4a Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2081H" rel="nofollow">Images on film h2/sh/S2081H</a> | Filmanfang: Deutschland : Wirtschaftspolitische Beziehungen zu einzelnen Ländern Sm27 [A10 g4a Sm27]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2082H" rel="nofollow">Images on film h2/sh/S2082H</a> | Filmanfang: Deutschland : Wirtschaftliche Kompensationen, Warenaustausch [A10 g4a Sm1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2083H" rel="nofollow">Images on film h2/sh/S2083H</a> | Filmanfang: Deutschland : Wirtschaftspolitische Beziehungen zu einzelnen Ländern Sm27 [A10 g4a Sm27]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2084H" rel="nofollow">Images on film h2/sh/S2084H</a> | Filmanfang: Deutschland : Wirtschaftspolitische Beziehungen zu einzelnen Ländern [A10 g4a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2085H" rel="nofollow">Images on film h2/sh/S2085H</a> | Filmanfang: Deutschland : Wirtschaftspolitische Beziehungen zu einzelnen Ländern [A10 g4a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2086H" rel="nofollow">Images on film h2/sh/S2086H</a> | Filmanfang: Deutschland : Reparationsabgabe [A10 g4a Sm4]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2087H" rel="nofollow">Images on film h2/sh/S2087H</a> | Filmanfang: Deutschland : Schiffahrt (Wirtschaftspolitische Beziehungen zu einzelnen Ländern) [A10 g4a Sm14]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2088H" rel="nofollow">Images on film h2/sh/S2088H</a> | Filmanfang: Deutschland : Handelkredite [A10 g4a Sm2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2089H" rel="nofollow">Images on film h2/sh/S2089H</a> | Filmanfang: Deutschland : Wirtschaftspolitische Beziehungen zu einzelnen Ländern [A10 g4a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2090H" rel="nofollow">Images on film h2/sh/S2090H</a> | Filmanfang: Deutschland : Wirtschaftspolitische Beziehungen zu einzelnen Ländern [A10 g4a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2091H" rel="nofollow">Images on film h2/sh/S2091H</a> | Filmanfang: Deutschland : Wirtschaftspolitische Beziehungen zu einzelnen Ländern [A10 g4a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2092H" rel="nofollow">Images on film h2/sh/S2092H</a> | Filmanfang: Deutschland : Wirtschaftspolitische Beziehungen zu einzelnen Ländern [A10 g4a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2093H" rel="nofollow">Images on film h2/sh/S2093H</a> | Filmanfang: Deutschland : Wirtschaftliche Kompensationen, Warenaustausch [A10 g4a Sm1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2094H" rel="nofollow">Images on film h2/sh/S2094H</a> | Filmanfang: Deutschland : Wirtschaftspolitische Beziehungen zu einzelnen Ländern [A10 g4a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2095H" rel="nofollow">Images on film h2/sh/S2095H</a> | Filmanfang: Deutschland : Wirtschaftspolitische Beziehungen zu einzelnen Ländern [A10 g4a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2096H" rel="nofollow">Images on film h2/sh/S2096H</a> | Filmanfang: Deutschland : Wirtschaftspolitische Beziehungen zu einzelnen Ländern [A10 g4a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2097H" rel="nofollow">Images on film h2/sh/S2097H</a> | Filmanfang: Deutschland : Verwaltung, Allgemein Sm [A10 h Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2098H" rel="nofollow">Images on film h2/sh/S2098H</a> | Filmanfang: Deutschland : Beamtenwesen, Öffentlicher Dienst [A10 h2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2099H" rel="nofollow">Images on film h2/sh/S2099H</a> | Filmanfang: Deutschland : Verwaltungsbezirke [A10 h3]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2100H" rel="nofollow">Images on film h2/sh/S2100H</a> | Filmanfang: Deutschland : Verwaltung, einzelne Bundesstaaten, Provinzen und Kommunen [A10 h5a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2101H" rel="nofollow">Images on film h2/sh/S2101H</a> | Filmanfang: Deutschland : Fürsorge für kinderreiche Familien [A10 h7 Sm8]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2102H" rel="nofollow">Images on film h2/sh/S2102H</a> | Filmanfang: Deutschland : Zivilrecht [A10 i2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2103H" rel="nofollow">Images on film h2/sh/S2103H</a> | Filmanfang: Deutschland : Einzelne Skandale und Prozesse [A10 i5]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2104H" rel="nofollow">Images on film h2/sh/S2104H</a> | Filmanfang: Deutschland : K Sm4 [A10 K Sm4]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2105H" rel="nofollow">Images on film h2/sh/S2105H</a> | Filmanfang: Deutschland : K 1 [A10 K 1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2106H" rel="nofollow">Images on film h2/sh/S2106H</a> | Filmanfang: Deutschland : K 1 Sm7 [A10 K 1 Sm7]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2107H" rel="nofollow">Images on film h2/sh/S2107H</a> | Filmanfang: Deutschland : K1 a [A10 K1 a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2108H" rel="nofollow">Images on film h2/sh/S2108H</a> | Filmanfang: Deutschland : K 2 [A10 K 2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2109H" rel="nofollow">Images on film h2/sh/S2109H</a> | Filmanfang: Deutschland : Militärwesen, Allgemein [A10 l]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2110H" rel="nofollow">Images on film h2/sh/S2110H</a> | Filmanfang: Deutschland : Militärwesen, Allgemein [A10 l]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2111H" rel="nofollow">Images on film h2/sh/S2111H</a> | Filmanfang: Deutschland : Militärwesen, Allgemein [A10 l]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2112H" rel="nofollow">Images on film h2/sh/S2112H</a> | Filmanfang: Deutschland : Militärwesen, Allgemein Sm [A10 l Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2113H" rel="nofollow">Images on film h2/sh/S2113H</a> | Filmanfang: Deutschland : Sanitätswesen [A10 l5]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2114H" rel="nofollow">Images on film h2/sh/S2114H</a> | Filmanfang: Deutschland : Finanzwesen, Allgemein Sm [A10 m Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2115H" rel="nofollow">Images on film h2/sh/S2115H</a> | Filmanfang: Deutschland : Submissionswesen [A10 m Sm12]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2116H" rel="nofollow">Images on film h2/sh/S2116H</a> | Filmanfang: Deutschland : Staatshaushalt [A10 m1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2117H" rel="nofollow">Images on film h2/sh/S2117H</a> | Filmanfang: Deutschland : Äußere Schuld [A10 m1 Sm5]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2118H" rel="nofollow">Images on film h2/sh/S2118H</a> | Filmanfang: Deutschland : Staatshaushalt Sm [A10 m1 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2119H" rel="nofollow">Images on film h2/sh/S2119H</a> | Filmanfang: Deutschland : Zollwesen, Zolltarife [A10 m2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2120H" rel="nofollow">Images on film h2/sh/S2120H</a> | Filmanfang: Deutschland : Zollwesen, Zolltarife Sm [A10 m2 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2121H" rel="nofollow">Images on film h2/sh/S2121H</a> | Filmanfang: Deutschland : Steuerwesen (Finanzwesen) [A10 m3]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2122H" rel="nofollow">Images on film h2/sh/S2122H</a> | Filmanfang: Deutschland : Steuerwesen (Finanzwesen) [A10 m3]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2123H" rel="nofollow">Images on film h2/sh/S2123H</a> | Filmanfang: Deutschland : Einzelne Steuern [A10 m3a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2124H" rel="nofollow">Images on film h2/sh/S2124H</a> | Filmanfang: Deutschland : Einzelne Steuern [A10 m3a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2125H" rel="nofollow">Images on film h2/sh/S2125H</a> | Filmanfang: Deutschland : Einzelne Steuern [A10 m3a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2126H" rel="nofollow">Images on film h2/sh/S2126H</a> | Filmanfang: Deutschland : Einzelne Steuern [A10 m3a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2127H" rel="nofollow">Images on film h2/sh/S2127H</a> | Filmanfang: Deutschland : Einzelne Steuern [A10 m3a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2128H" rel="nofollow">Images on film h2/sh/S2128H</a> | Filmanfang: Deutschland : Fremdländische Kapitalanlagen, privatwirtschaftliche Interessen [A10 n Sm1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2129H" rel="nofollow">Images on film h2/sh/S2129H</a> | Filmanfang: Deutschland : Wirtschaftsstatistik [A10 n Sm3]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2130H" rel="nofollow">Images on film h2/sh/S2130H</a> | Filmanfang: Deutschland : Nationale Kapitalanlagen [A10 n Sm6]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2131H" rel="nofollow">Images on film h2/sh/S2131H</a> | Filmanfang: Deutschland : Kartell-, Syndikat und Trustwesen [A10 n Sm7]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2132H" rel="nofollow">Images on film h2/sh/S2132H</a> | Filmanfang: Deutschland : Normung, Standardisierung [A10 n Sm8]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2133H" rel="nofollow">Images on film h2/sh/S2133H</a> | Filmanfang: Deutschland : Buchführung und Bilanzierung, Allgemein [A10 n Sm15]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2134H" rel="nofollow">Images on film h2/sh/S2134H</a> | Filmanfang: Deutschland : Private Aufruhrschäden (später: Durch politische Umwälzung entstandene private Schäden) [A10 n Sm24]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2135H" rel="nofollow">Images on film h2/sh/S2135H</a> | Filmanfang: Deutschland : Gewerbewesen [A10 n Sm31]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2136H" rel="nofollow">Images on film h2/sh/S2136H</a> | Filmanfang: Deutschland : Betriebsorganisation, Rationalisierung [A10 n Sm33]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2137H" rel="nofollow">Images on film h2/sh/S2137H</a> | Filmanfang: Deutschland : Urheberschutz - stillgelegt [A10 n Sm38]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2138H" rel="nofollow">Images on film h2/sh/S2138H</a> | Filmanfang: Deutschland : Erwerbsgesellschaften [A10 n Sm39]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2139H" rel="nofollow">Images on film h2/sh/S2139H</a> | Filmanfang: Deutschland : Versorgungswirtschaft [A10 n Sm45]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2140H" rel="nofollow">Images on film h2/sh/S2140H</a> | Filmanfang: Deutschland : Energiewirtschaft, Allgemein [A10 n Sm46]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2141H" rel="nofollow">Images on film h2/sh/S2141H</a> | Filmanfang: Deutschland : Wirtschaftspolitik [A10 n1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2142H" rel="nofollow">Images on film h2/sh/S2142H</a> | Filmanfang: Deutschland : Wirtschaftspolitik [A10 n1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2143H" rel="nofollow">Images on film h2/sh/S2143H</a> | Filmanfang: Deutschland : Sozialpolitik, Allgemein [A10 n1 Sm11]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2144H" rel="nofollow">Images on film h2/sh/S2144H</a> | Filmanfang: Deutschland : Preisregelung I [A10 n1 Sm12 I]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2145H" rel="nofollow">Images on film h2/sh/S2145H</a> | Filmanfang: Deutschland : Staatliche Reglementierung des Kapitalmarktes [A10 n1 Sm14]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2146H" rel="nofollow">Images on film h2/sh/S2146H</a> | Filmanfang: Deutschland : Massnahmen zur Erhaltung der Betriebe und Vermehrung der Arbeitsgelegenheit, Allgemein [A10 n1 Sm16]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2147H" rel="nofollow">Images on film h2/sh/S2147H</a> | Filmanfang: Deutschland : Sicherung und Überwachung der Volksernährung [A10 n1 Sm19]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2148H" rel="nofollow">Images on film h2/sh/S2148H</a> | Filmanfang: Deutschland : Berichte über die wirtschaftliche Lage [A10 n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2149H" rel="nofollow">Images on film h2/sh/S2149H</a> | Filmanfang: Deutschland : Berichte über die wirtschaftliche Lage [A10 n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2150H" rel="nofollow">Images on film h2/sh/S2150H</a> | Filmanfang: Deutschland : Arbeitsmarkt, Erwerbslosenstatistik [A10 n2 Sm4]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2151H" rel="nofollow">Images on film h2/sh/S2151H</a> | Filmanfang: Deutschland : Kapitalmarktübersichten, Neugründungen und Kapitalerhöhungen [A10 n2 Sm7]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2152H" rel="nofollow">Images on film h2/sh/S2152H</a> | Filmanfang: Deutschland : Übersichten der Preisentwicklung, Allgemein [A10 n2 Sm11.I]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2153H" rel="nofollow">Images on film h2/sh/S2153H</a> | Filmanfang: Deutschland : Berichte über die wirtschaftliche Lage in einzelnen Bundesstaaten, Provinzen und Städten [A10 n2a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2154H" rel="nofollow">Images on film h2/sh/S2154H</a> | Filmanfang: Deutschland : Berichte über die wirtschaftliche Lage in einzelnen Bundesstaaten, Provinzen und Städten [A10 n2a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2155H" rel="nofollow">Images on film h2/sh/S2155H</a> | Filmanfang: Deutschland : Berichte über die wirtschaftliche Lage in einzelnen Bundesstaaten, Provinzen und Städten [A10 n2a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2156H" rel="nofollow">Images on film h2/sh/S2156H</a> | Filmanfang: Deutschland : Berichte über die wirtschaftliche Lage in einzelnen Bundesstaaten, Provinzen und Städten [A10 n2a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2157H" rel="nofollow">Images on film h2/sh/S2157H</a> | Filmanfang: Deutschland : Landwirtschaft [A10 n4]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2158H" rel="nofollow">Images on film h2/sh/S2158H</a> | Filmanfang: Deutschland : Landwirtschaft [A10 n4]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2159H" rel="nofollow">Images on film h2/sh/S2159H</a> | Filmanfang: Deutschland : Gartenbau [A10 n4 Sm3]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2160H" rel="nofollow">Images on film h2/sh/S2160H</a> | Filmanfang: Deutschland : Organisation des Absatzes [A10 n4 Sm9]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2161H" rel="nofollow">Images on film h2/sh/S2161H</a> | Filmanfang: Deutschland : Landwirtschaft Sm [A10 n4 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2162H" rel="nofollow">Images on film h2/sh/S2162H</a> | Filmanfang: Deutschland : Landwirtschaft in einzelnen Bundesstaaten, Provinzen etc. [A10 n4a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2163H" rel="nofollow">Images on film h2/sh/S2163H</a> | Filmanfang: Deutschland : Jagd [A10 n10]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2164H" rel="nofollow">Images on film h2/sh/S2164H</a> | Filmanfang: Deutschland : Bergbau [A10 n12]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2165H" rel="nofollow">Images on film h2/sh/S2165H</a> | Filmanfang: Deutschland : Handelsbeziehungen zu einzelnen Ländern [A10 n19]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2166H" rel="nofollow">Images on film h2/sh/S2166H</a> | Filmanfang: Deutschland : Industrie [A10 n13]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2167H" rel="nofollow">Images on film h2/sh/S2167H</a> | Filmanfang: Deutschland : Demontage [A10 n13 Sm13]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2168H" rel="nofollow">Images on film h2/sh/S2168H</a> | Filmanfang: Deutschland : Industrie [A10 n13]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2169H" rel="nofollow">Images on film h2/sh/S2169H</a> | Filmanfang: Deutschland : Montanindustrie [A10 n13a Sm2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2170H" rel="nofollow">Images on film h2/sh/S2170H</a> | Filmanfang: Deutschland : Textilindustrie [A10 n13a Sm3]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2171H" rel="nofollow">Images on film h2/sh/S2171H</a> | Filmanfang: Deutschland : Elektrizitätsindustrie [A10 n13a Sm4]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2172H" rel="nofollow">Images on film h2/sh/S2172H</a> | Filmanfang: Deutschland : n19a Sm6 [A10 n19a Sm6]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2173H" rel="nofollow">Images on film h2/sh/S2173H</a> | Filmanfang: Deutschland : Schiffbau [A10 n13a Sm6]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2174H" rel="nofollow">Images on film h2/sh/S2174H</a> | Filmanfang: Deutschland : n19a Sm7 [A10 n19a Sm7]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2175H" rel="nofollow">Images on film h2/sh/S2175H</a> | Filmanfang: Deutschland : Handwerk [A10 n14]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2176H" rel="nofollow">Images on film h2/sh/S2176H</a> | Filmanfang: Deutschland : Arbeiterfrage, Arbeitsverhältnisse, Allgemein [A10 n15]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2177H" rel="nofollow">Images on film h2/sh/S2177H</a> | Filmanfang: Deutschland : Regelung der Arbeitszeit, Löhne [A10 n15 Sm7]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2178H" rel="nofollow">Images on film h2/sh/S2178H</a> | Filmanfang: Deutschland : Regelung der Arbeitszeit, Löhne [A10 n15 Sm7]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2179H" rel="nofollow">Images on film h2/sh/S2179H</a> | Filmanfang: Deutschland : Betriebskontrolle und Gewinnbeteiligung der Arbeiter [A10 n15 Sm9]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2180H" rel="nofollow">Images on film h2/sh/S2180H</a> | Filmanfang: Deutschland : Ausländische und koloniale Arbeiter [A10 n15 Sm11]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2181H" rel="nofollow">Images on film h2/sh/S2181H</a> | Filmanfang: Deutschland : Warenverkauf durch Betriebsangehörige durch die Betriebsleitung [A10 n15 Sm25]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2182H" rel="nofollow">Images on film h2/sh/S2182H</a> | Filmanfang: Deutschland : Arbeitnehmerverhältnisse, Bergbau und bergbauliche Betriebe [A10 n15a Sm4]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2183H" rel="nofollow">Images on film h2/sh/S2183H</a> | Filmanfang: Deutschland : Arbeitnehmerverhältnisse, Graphisches Gewerbe, Zeitungsgewerbe [A10 n15a Sm12]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2184H" rel="nofollow">Images on film h2/sh/S2184H</a> | Filmanfang: Deutschland : Arbeiterfrage, Arbeitsverhältnisse, Allgemein n Sm19 [A10 n15 n Sm19]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2185H" rel="nofollow">Images on film h2/sh/S2185H</a> | Filmanfang: Deutschland : Arbeitnehmerverhältnisse, Schiffahrt und Hafenbetrieb IV [A10 n15a Sm24 IV]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2186H" rel="nofollow">Images on film h2/sh/S2186H</a> | Filmanfang: Deutschland : Gewerkschaftswesen, Arbeiterorganisationen Allgemein [A10 n16]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2187H" rel="nofollow">Images on film h2/sh/S2187H</a> | Filmanfang: Deutschland : Gewerkschaftswesen, Konferenzen [A10 n16 Sm20]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2188H" rel="nofollow">Images on film h2/sh/S2188H</a> | Filmanfang: Deutschland : Bauwesen und Wohnungswesen [A10 n17]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2189H" rel="nofollow">Images on film h2/sh/S2189H</a> | Filmanfang: Deutschland : Miete und Mieterfragen [A10 n17 Sm1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2190H" rel="nofollow">Images on film h2/sh/S2190H</a> | Filmanfang: Deutschland : Bauwesen und Wohnungswesen, Kapitalbeschaffung [A10 n17 Sm70]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2191H" rel="nofollow">Images on film h2/sh/S2191H</a> | Filmanfang: Deutschland : Handel [A10 n18]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2192H" rel="nofollow">Images on film h2/sh/S2192H</a> | Filmanfang: Deutschland : Private Förderung des Handels, Reklame, Reklamegewerbe [A10 n18 Sm7]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2193H" rel="nofollow">Images on film h2/sh/S2193H</a> | Filmanfang: Deutschland : Handel einzelner Bundesstaaten, Provinzen, Kommunen [A10 n18a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2194H" rel="nofollow">Images on film h2/sh/S2194H</a> | Filmanfang: Deutschland : Handelsbeziehungen zu einzelnen Ländern K-L [A10 n19 K-L]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2195H" rel="nofollow">Images on film h2/sh/S2195H</a> | Filmanfang: Deutschland : Handelsbeziehungen zu einzelnen Ländern [A10 n19]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2196H" rel="nofollow">Images on film h2/sh/S2196H</a> | Filmanfang: Deutschland : Kleinhandel [A10 n20]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2197H" rel="nofollow">Images on film h2/sh/S2197H</a> | Filmanfang: Deutschland : Kleinhandel [A10 n20]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2198H" rel="nofollow">Images on film h2/sh/S2198H</a> | Filmanfang: Deutschland : Lichtspielwesen [A10 n21 Sm8]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2199H" rel="nofollow">Images on film h2/sh/S2199H</a> | Filmanfang: Deutschland : Geld und Währung [A10 n23]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2200H" rel="nofollow">Images on film h2/sh/S2200H</a> | Filmanfang: Deutschland : Kursentwicklung der Landeswährung, Bildung mehrfacher Kurse für die Währungseinheit [A10 n23 Sm2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2201H" rel="nofollow">Images on film h2/sh/S2201H</a> | Filmanfang: Deutschland : Kaufkraft der Währungseinheit [A10 n23 Sm8]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2202H" rel="nofollow">Images on film h2/sh/S2202H</a> | Filmanfang: Deutschland : Geld und Währung Sm508.I [A10 n23 Sm508.I]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2203H" rel="nofollow">Images on film h2/sh/S2203H</a> | Filmanfang: Deutschland : Kreditwesen und Bankwesen [A10 n24]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2204H" rel="nofollow">Images on film h2/sh/S2204H</a> | Filmanfang: Deutschland : Private Auslandsforderungen, Schuldenausgleich, Einzelne Länder [A10 n24 Sm2.II]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2205H" rel="nofollow">Images on film h2/sh/S2205H</a> | Filmanfang: Deutschland : Sparkassenwesen, Spareinrichtungen, Allgemein [A10 n24 Sm3]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2206H" rel="nofollow">Images on film h2/sh/S2206H</a> | Filmanfang: Deutschland : Wertpapierhandel (ausser Börsenhandel), Beeinflussung privater Kapitalanlagen [A10 n24 Sm5]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2207H" rel="nofollow">Images on film h2/sh/S2207H</a> | Filmanfang: Deutschland : Notenbankwesen, Allgemein [A10 n24 Sm15.I]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2208H" rel="nofollow">Images on film h2/sh/S2208H</a> | Filmanfang: Deutschland : Bankwesen, Technik des ... [A10 n24 Sm21]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2209H" rel="nofollow">Images on film h2/sh/S2209H</a> | Filmanfang: Deutschland : Bankwesen, Filialsystem [A10 n24 Sm36]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2210H" rel="nofollow">Images on film h2/sh/S2210H</a> | Filmanfang: Deutschland : Effekten-Clearing, Effektensammeldepots [A10 n25 Sm2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2211H" rel="nofollow">Images on film h2/sh/S2211H</a> | Filmanfang: Deutschland : Landwirtschaftskammern und Forstwirtschaftskammern, Allgemein [A10 n26 Sm3]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2212H" rel="nofollow">Images on film h2/sh/S2212H</a> | Filmanfang: Deutschland : Verkehrswesen, Allgemein [A10 n28]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2213H" rel="nofollow">Images on film h2/sh/S2213H</a> | Filmanfang: Deutschland : Reiseverkehr, Fremdenverkehr, Allgemein [A10 n28 Sm2.I]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2214H" rel="nofollow">Images on film h2/sh/S2214H</a> | Filmanfang: Deutschland : Reiseverkehr, von und nach einzelnen Ländern [A10 n28 Sm2.II]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2215H" rel="nofollow">Images on film h2/sh/S2215H</a> | Filmanfang: Deutschland : Kraftfahrzeugverkehr, Allgemein [A10 n28 Sm4]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2216H" rel="nofollow">Images on film h2/sh/S2216H</a> | Filmanfang: Deutschland : Autohöfe für den Güterfernverkehr [A10 n28 Sm6]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2217H" rel="nofollow">Images on film h2/sh/S2217H</a> | Filmanfang: Deutschland : Sicherheitsvorkehrungen und Sicherheitsvorschriften im Straßen- und Überlandverkehr [A10 n28 Sm26]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2218H" rel="nofollow">Images on film h2/sh/S2218H</a> | Filmanfang: Deutschland : Landstrassen, Wege, Brücken (einschl. ihres Verkehrs) [A10 n29]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2219H" rel="nofollow">Images on film h2/sh/S2219H</a> | Filmanfang: Deutschland : Landstrassen, Wege, Brücken (einschl. ihres Verkehrs), Kapitalbeschaffung [A10 n29 Sm70]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2220H" rel="nofollow">Images on film h2/sh/S2220H</a> | Filmanfang: Deutschland : Eisenbahnwesen [A10 n30]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2221H" rel="nofollow">Images on film h2/sh/S2221H</a> | Filmanfang: Deutschland : Eisenbahnwesen, Tarife [A10 n30 Sm3]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2222H" rel="nofollow">Images on film h2/sh/S2222H</a> | Filmanfang: Deutschland : Eisenbahnwesen Sm07 [A10 n30 Sm07]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2223H" rel="nofollow">Images on film h2/sh/S2223H</a> | Filmanfang: Deutschland : Hafenanlagen und deren Verwaltung [A10 n31]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2224H" rel="nofollow">Images on film h2/sh/S2224H</a> | Filmanfang: Deutschland : Seeschiffahrt [A10 n32]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2225H" rel="nofollow">Images on film h2/sh/S2225H</a> | Filmanfang: Deutschland : Seeschiffahrt, Berufe und Ausbildung [A10 n32 Sm40]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2226H" rel="nofollow">Images on film h2/sh/S2226H</a> | Filmanfang: Deutschland : Seeschiffahrt [A10 n32]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2227H" rel="nofollow">Images on film h2/sh/S2227H</a> | Filmanfang: Deutschland : Binnenschiffahrt, Subventionierung, Staatliche Kredite [A10 n33 Sm9]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2228H" rel="nofollow">Images on film h2/sh/S2228H</a> | Filmanfang: Deutschland : Einzelne Binnenschiffahrtsstrassen und Seekanäle [A10 n33a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2229H" rel="nofollow">Images on film h2/sh/S2229H</a> | Filmanfang: Deutschland : Drahtlose Telegraphie und Telephonie, Rundfunk [A10 n34 Sm1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2230H" rel="nofollow">Images on film h2/sh/S2230H</a> | Filmanfang: Deutschland : Fernsehen [A10 n34 Sm7]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2231H" rel="nofollow">Images on film h2/sh/S2231H</a> | Filmanfang: Deutschland : Luftschiffahrt, Flugwesen, Luftverkehr, Allgemein [A10 n35]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2232H" rel="nofollow">Images on film h2/sh/S2232H</a> | Filmanfang: Deutschland : Lufthafen [A10 n35 Sm2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2233H" rel="nofollow">Images on film h2/sh/S2233H</a> | Filmanfang: Deutschland : Nachrichtenwesen und Pressewesen [A10 n36]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2234H" rel="nofollow">Images on film h2/sh/S2234H</a> | Filmanfang: Deutschland : Fremdländische Versicherungsgesellschaften [A10 n37 Sm1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2235H" rel="nofollow">Images on film h2/sh/S2235H</a> | Filmanfang: Deutschland : Sozialversicherung [A10 n37a Sm2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2236H" rel="nofollow">Images on film h2/sh/S2236H</a> | Filmanfang: Deutschland : Sozialversicherung [A10 n37a Sm2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2237H" rel="nofollow">Images on film h2/sh/S2237H</a> | Filmanfang: Deutschland : Luftverkehrsversicherung [A10 n37a Sm6]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2238H" rel="nofollow">Images on film h2/sh/S2238H</a> | Filmanfang: Deutschland : Landstrassen, Wege, Brücken (einschl. ihres Verkehrs) Sm2 [A10 n29 Sm2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2239H" rel="nofollow">Images on film h2/sh/S2239H</a> | Filmanfang: Deutschland : Flüchtlingssiedlungen [A10 p6 Sm5]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2240H" rel="nofollow">Images on film h2/sh/S2240H</a> | Filmanfang: Deutschland : Binnenwanderungsbewegungen [A10 p7]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2241H" rel="nofollow">Images on film h2/sh/S2241H</a> | Filmanfang: Deutschland : Einzelfragen politischer und wirtschaftlicher Natur [A10 q]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2242H" rel="nofollow">Images on film h2/sh/S2242H</a> | Filmanfang: Deutschland : Einzelfragen politischer und wirtschaftlicher Natur [A10 q]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2244H" rel="nofollow">Images on film h2/sh/S2244H</a> | Filmanfang: Deutschland : Geschichtliche Vorgänge [A10 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2245H" rel="nofollow">Images on film h2/sh/S2245H</a> | Filmanfang: Deutschland : Parteiwesen [A10 f5]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2246H" rel="nofollow">Images on film h2/sh/S2246H</a> | Filmanfang: Deutschland : Politische Beziehungen zu einzelnen Ländern [A10 g1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2247H" rel="nofollow">Images on film h2/sh/S2247H</a> | Filmanfang: Deutschland : Staatliche Wirtschaftspropaganda II [A10 g4 Sm3 II]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2248H" rel="nofollow">Images on film h2/sh/S2248H</a> | Filmanfang: Deutschland : Ausgleich laufender Aussenhandelsforderungen und -schulden, Einzelne Länder [A10 g4a Sm25]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2249H" rel="nofollow">Images on film h2/sh/S2249H</a> | Filmanfang: Deutschland : Hochschulwesen, Forschungsanstalten Allgemein [A10 k1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2250H" rel="nofollow">Images on film h2/sh/S2250H</a> | Filmanfang: Deutschland : Wirtschaft, Allgemein Sm [A10 n Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2251H" rel="nofollow">Images on film h2/sh/S2251H</a> | Filmanfang: Deutschland : Regionale Wirtschaftsgruppierung oder Wirtschaftsgliederung [A10 n1 Sm9]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2252H" rel="nofollow">Images on film h2/sh/S2252H</a> | Filmanfang: Deutschland : Übersichten der Preisentwicklung, Allgemein [A10 n2 Sm11.I]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2253H" rel="nofollow">Images on film h2/sh/S2253H</a> | Filmanfang: Deutschland : Industrie [A10 n13]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2254H" rel="nofollow">Images on film h2/sh/S2254H</a> | Filmanfang: Deutschland : Arbeiterfrage, Arbeitsverhältnisse, Allgemein Sm8-501 [A10 n15 Sm8-501]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2255H" rel="nofollow">Images on film h2/sh/S2255H</a> | Filmanfang: Deutschland : Zahlungsmittel (Ausgabe, Beschreibung, Fälschung) [A10 n23 Sm4]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2256H" rel="nofollow">Images on film h2/sh/S2256H</a> | Filmanfang: Deutschland : Seeschiffahrt [A10 n32]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2257H" rel="nofollow">Images on film h2/sh/S2257H</a> | Filmanfang: Deutschland : Landeskunde, Landschaften, Beschreibung einzelner Orte und Gegenden [A10 c9]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2258H" rel="nofollow">Images on film h2/sh/S2258H</a> | Filmanfang: Deutschland : Geschichtliche Vorgänge [A10 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2259H" rel="nofollow">Images on film h2/sh/S2259H</a> | Filmanfang: Deutschland : Einzelne Parteien und Parteigruppen [A10 f5a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2260H" rel="nofollow">Images on film h2/sh/S2260H</a> | Filmanfang: Deutschland : Verwaltung, Allgemein [A10 h]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2261H" rel="nofollow">Images on film h2/sh/S2261H</a> | Filmanfang: Deutschland : Staatshaushalt [A10 m1]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2262H" rel="nofollow">Images on film h2/sh/S2262H</a> | Filmanfang: Deutschland : Berichte über die wirtschaftliche Lage [A10 n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2263H" rel="nofollow">Images on film h2/sh/S2263H</a> | Filmanfang: Deutschland : Berichte über die wirtschaftliche Lage Sm6-11 [A10 n2 Sm6-11]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2264H" rel="nofollow">Images on film h2/sh/S2264H</a> | Filmanfang: Deutschland : Bauwesen und Wohnungswesen Sm1-70 [A10 n17 Sm1-70]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2265H" rel="nofollow">Images on film h2/sh/S2265H</a> | Filmanfang: Deutschland : Landwirtschaftskammern und Forstwirtschaftskammern, Allgemein [A10 n26 Sm3]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2266H" rel="nofollow">Images on film h2/sh/S2266H</a> | Filmanfang: Deutschland : Hotelgewerbe, Gaststätten- und Vergnügungsgewerbe, Schaustellergewerbe Sm [A10 n39 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2267H" rel="nofollow">Images on film h2/sh/S2267H</a> | Filmanfang: Deutschland : Geschichtliche Vorgänge [A10 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2268H" rel="nofollow">Images on film h2/sh/S2268H</a> | Filmanfang: Deutschland : Literatur, Allgemein F 2 [A10 a F 2]
+
+
+:::
 
 
 
@@ -381,8 +1691,27 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
-In total 76 folders, 11462 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_wa.de.html) (in German).
+
+
+
+
+
+## Commodities/wares archives folders
+
+
+
+
+
+
+
+
+
+
+
+In total 76 folders (until 1949), 11465 documents
+- folders incomplete.  For material not published as folders, please check the
+digitized micro-films of the [1st filming](/film/h1_wa.de.html) and [2nd
+filming](/film/h2_wa.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -459,7 +1788,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### E
 
-- Eel [**&nearr;**](../../../ware/i/141941/about.en.html "Eel (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW07-Mt01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141941,126128" title="about: Eel : Germany" target="_blank">28 documents</a>) ([folder](../../../../folder/wa/1419xx/141941/1261xx/126128/about.en.html))
+- Eel [**&nearr;**](../../../ware/i/141941/about.en.html "Eel (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PLW07-Mt01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141941,126128" title="about: Eel : Germany" target="_blank">31 documents</a>) ([folder](../../../../folder/wa/1419xx/141941/1261xx/126128/about.en.html))
 - Ethyl alcohol [**&nearr;**](../../../ware/i/141946/about.en.html "Ethyl alcohol (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID13.02-Ks01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141946,126128" title="about: Ethyl alcohol : Germany" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1419xx/141946/1261xx/126128/about.en.html))
 - Excavator [**&nearr;**](../../../ware/i/142028/about.en.html "Excavator (xXX all over the world)") [**&uarr;**](../../../ware/about.en.html#PID09.02-Nf01 "Ware category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142028,126128" title="about: Excavator : Germany" target="_blank">82 documents</a>) ([folder](../../../../folder/wa/1420xx/142028/1261xx/126128/about.en.html))
 

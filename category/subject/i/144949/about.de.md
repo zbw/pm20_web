@@ -1,6 +1,6 @@
 ---
 title: "n1 Sm16 Massnahmen zur Erhaltung der Betriebe und Vermehrung der Arbeitsgelegenheit, Allgemein"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n1 Sm16]{.gray}&#8201; Massnahmen zur Erhaltung der Betriebe und Vermehrung der Arbeitsgelegenheit, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710404)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144949`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144949`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 9 Mappen, 239 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 9 Mappen, 275 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -35,7 +36,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144949" title="über: Europa : Massnahmen zur Erhaltung der Betriebe und Vermehrung der Arbeitsgelegenheit, Allgemein" target="_blank">16 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1449xx/144949/about.de.html))
 - A4 Westeuropa [**&nearr;**](../../../geo/i/140897/about.de.html "Westeuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A4 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140897,144949" title="über: Westeuropa : Massnahmen zur Erhaltung der Betriebe und Vermehrung der Arbeitsgelegenheit, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140897/1449xx/144949/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144949" title="über: Hamburg : Massnahmen zur Erhaltung der Betriebe und Vermehrung der Arbeitsgelegenheit, Allgemein" target="_blank">128 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1449xx/144949/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144949" title="über: Hamburg : Massnahmen zur Erhaltung der Betriebe und Vermehrung der Arbeitsgelegenheit, Allgemein" target="_blank">164 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1449xx/144949/about.de.html))
 
 ### Asien
 
@@ -48,6 +49,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144949" title="über: Argentinien : Massnahmen zur Erhaltung der Betriebe und Vermehrung der Arbeitsgelegenheit, Allgemein" target="_blank">38 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1449xx/144949/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

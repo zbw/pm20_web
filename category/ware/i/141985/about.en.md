@@ -1,6 +1,6 @@
 ---
 title: "Appliances and instruments"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Appliances and instruments &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q113376048)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141985`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/141985`</div>
 
 
 
@@ -18,13 +18,15 @@ fn-stub: about
 
 
 
-## Commodities/wares archives
+## Commodities/wares archives folders
 
 
 
 
 
-In total 42 folders, 404 documents - folders complete.
+
+
+In total 42 folders, 404 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -89,6 +91,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### World
 
 - H World [**&nearr;**](../../../geo/i/141728/about.en.html "World (all folders)") [**&uarr;**](../../../geo/about.en.html#H "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141985,141728" title="about: Appliances and instruments : World" target="_blank">97 documents</a>) ([folder](../../../../folder/wa/1419xx/141985/1417xx/141728/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

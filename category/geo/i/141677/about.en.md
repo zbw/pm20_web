@@ -1,6 +1,6 @@
 ---
 title: "E61 West Indies"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,44 +10,18 @@ fn-stub: about
 
 # [E61]{.gray}&#8201; West Indies &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q669037) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/West_Indies)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141677`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141677`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
+[Subject archives](#subject-archives-folders) &#160; [Commodities/wares archives](#commoditieswares-archives-folders)
 
 
 
 
-## Subject archives
-
-
-
-
-
-
-
-In total 1 folders, 0 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
-
-_For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
-
-
-
-### Foreigners and individual minorities
-
-- [o1 German minorities and Germanness]{.gray}
-  - o1 Sm500 German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145911/about.en.html "German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum) (all over the world)") [**&uarr;**](../../../subject/about.en.html#o1_Sm500 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141677,145911" title="about: West Indies : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">0 documents</a>) ([folder](../../../../folder/sh/1416xx/141677/1459xx/145911/about.en.html))
-
-
-
-
-
-
-
-## Commodities/wares archives
+## Subject archives folders
 
 
 
@@ -56,9 +30,61 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
+No material prepared as folder.
 
-In total 2 folders, 2 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_wa.de.html) (in German).
+
+
+<a id="filmsections" />
+
+## Sections of digitized microfilms (1st filming 1908-1949)
+
+<p>For intellectual property law reasons accessible only from the European Union legal area and from the ZBW reading room.</p>
+
+
+
+<p>Total number of images: 41</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0966H/0136" rel="nofollow">Images on film h1/sh/S0966H/0136</a> | Westindien
+
+
+:::
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Commodities/wares archives folders
+
+
+
+
+
+
+
+
+
+
+
+In total 2 folders (until 1949), 2 documents
+- folders incomplete.  For material not published as folders, please check the
+digitized micro-films of the [1st filming](/film/h1_wa.de.html) and [2nd
+filming](/film/h2_wa.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 

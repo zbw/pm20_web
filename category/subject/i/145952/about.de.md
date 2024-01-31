@@ -1,6 +1,6 @@
 ---
 title: "q Sm8 Juden, Judenfeindlichkeit und Antisemitismus bis 1945"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [q Sm8]{.gray}&#8201; Juden, Judenfeindlichkeit und Antisemitismus bis 1945 &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711378)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145952`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145952`</div>
 
 <div class="hint">
 Scope Note: In der alten Hamburger Systemarik bis 1945 unter "Judenfrage"
@@ -20,13 +20,14 @@ Scope Note: In der alten Hamburger Systemarik bis 1945 unter "Judenfrage"
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 27 Mappen, 1640 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 27 Mappen, 1651 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -39,8 +40,8 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - A2 Mitteleuropa [**&nearr;**](../../../geo/i/140895/about.de.html "Mitteleuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A2 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140895,145952" title="über: Mitteleuropa : Juden, Judenfeindlichkeit und Antisemitismus bis 1945" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140895/1459xx/145952/about.de.html))
 - A3 Osteuropa [**&nearr;**](../../../geo/i/140896/about.de.html "Osteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A3 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140896,145952" title="über: Osteuropa : Juden, Judenfeindlichkeit und Antisemitismus bis 1945" target="_blank">11 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140896/1459xx/145952/about.de.html))
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145952" title="über: Südosteuropa : Juden, Judenfeindlichkeit und Antisemitismus bis 1945" target="_blank">13 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1459xx/145952/about.de.html))
-- A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,145952" title="über: Orient : Juden, Judenfeindlichkeit und Antisemitismus bis 1945" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1459xx/145952/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145952" title="über: Hamburg : Juden, Judenfeindlichkeit und Antisemitismus bis 1945" target="_blank">75 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1459xx/145952/about.de.html))
+- A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,145952" title="über: Orient : Juden, Judenfeindlichkeit und Antisemitismus bis 1945" target="_blank">9 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1459xx/145952/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145952" title="über: Hamburg : Juden, Judenfeindlichkeit und Antisemitismus bis 1945" target="_blank">84 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1459xx/145952/about.de.html))
 - A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,145952" title="über: Deutschland : Juden, Judenfeindlichkeit und Antisemitismus bis 1945" target="_blank">1232 Dokumente</a>) ([Mappe](../../../../folder/sh/1261xx/126128/1459xx/145952/about.de.html))
 - A10p Polnisch-Schlesien [**&nearr;**](../../../geo/i/140951/about.de.html "Polnisch-Schlesien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10p "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140951,145952" title="über: Polnisch-Schlesien : Juden, Judenfeindlichkeit und Antisemitismus bis 1945" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140951/1459xx/145952/about.de.html))
 - A43 Osmanisches Reich (-1923) [**&nearr;**](../../../geo/i/141034/about.de.html "Osmanisches Reich (-1923) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A43 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141034,145952" title="über: Osmanisches Reich (-1923) : Juden, Judenfeindlichkeit und Antisemitismus bis 1945" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141034/1459xx/145952/about.de.html))
@@ -74,6 +75,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - E85 Chile [**&nearr;**](../../../geo/i/141691/about.de.html "Chile (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E85 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141691,145952" title="über: Chile : Juden, Judenfeindlichkeit und Antisemitismus bis 1945" target="_blank">13 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141691/1459xx/145952/about.de.html))
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145952" title="über: Argentinien : Juden, Judenfeindlichkeit und Antisemitismus bis 1945" target="_blank">54 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1459xx/145952/about.de.html))
 - E101 Niederländisch-Guayana [**&nearr;**](../../../geo/i/141699/about.de.html "Niederländisch-Guayana (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E101 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141699,145952" title="über: Niederländisch-Guayana : Juden, Judenfeindlichkeit und Antisemitismus bis 1945" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141699/1459xx/145952/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

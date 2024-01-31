@@ -1,6 +1,6 @@
 ---
 title: "a1 Kartenliteratur"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [a1]{.gray}&#8201; Kartenliteratur &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427627)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144193`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144193`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 7 Mappen, 23 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 7 Mappen, 23 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -49,6 +50,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Welt
 
 - H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141728,144193" title="über: Welt : Kartenliteratur" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1417xx/141728/1441xx/144193/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

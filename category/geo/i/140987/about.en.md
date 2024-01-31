@@ -1,6 +1,6 @@
 ---
 title: "A32 Portugal"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,18 +10,21 @@ fn-stub: about
 
 # [A32]{.gray}&#8201; Portugal &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q45) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Portugal)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140987`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/140987`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
+[Subject archives](#subject-archives-folders) &#160; [Commodities/wares archives](#commoditieswares-archives-folders)
 
 
 
 
-## Subject archives
+## Subject archives folders
+
+
+
 
 
 
@@ -43,11 +46,57 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
+<a id="filmsections" />
+
+## Sections of digitized microfilms (1st filming 1908-1949)
+
+<p>For intellectual property law reasons accessible only from the European Union legal area and from the ZBW reading room.</p>
+
+
+
+<p>Total number of images: 7107</p>
 
 
 
 
-## Commodities/wares archives
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0443H/0155" rel="nofollow">Images on film h1/sh/S0443H/0155</a> | Portugal
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0444H" rel="nofollow">Images on film h1/sh/S0444H</a> | Filmanfang: Portugal : Geschichtliche Vorgänge [A32 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0445H" rel="nofollow">Images on film h1/sh/S0445H</a> | Filmanfang: Portugal : Kolonialpolitik, Allgemein [A32 g5]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0446H" rel="nofollow">Images on film h1/sh/S0446H</a> | Filmanfang: Portugal : Konsulatsgebühren auf Fakturen [A32 m2 Sm3]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0447H" rel="nofollow">Images on film h1/sh/S0447H</a> | Filmanfang: Portugal : Elektrizitätsindustrie [A32 n13a Sm4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0448H" rel="nofollow">Images on film h1/sh/S0448H</a> | Filmanfang: Portugal : Hafenanlagen und deren Verwaltung [A32 n31]
+
+
+:::
+
+
+
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 2473</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2461H/0716" rel="nofollow">Images on film h2/sh/S2461H/0716</a> | Portugal
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2462H" rel="nofollow">Images on film h2/sh/S2462H</a> | Filmanfang: Portugal : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein Sm [A32 g4 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2463H" rel="nofollow">Images on film h2/sh/S2463H</a> | Filmanfang: Portugal : Berichte über die wirtschaftliche Lage [A32 n2]
+
+
+:::
 
 
 
@@ -57,8 +106,27 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
-In total 30 folders, 375 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_wa.de.html) (in German).
+
+
+
+
+
+## Commodities/wares archives folders
+
+
+
+
+
+
+
+
+
+
+
+In total 30 folders (until 1949), 375 documents
+- folders incomplete.  For material not published as folders, please check the
+digitized micro-films of the [1st filming](/film/h1_wa.de.html) and [2nd
+filming](/film/h2_wa.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 

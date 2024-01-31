@@ -1,6 +1,6 @@
 ---
 title: "n2 Sm11.IV Übersichten der Preisentwicklung, Großhandelspreise"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n2 Sm11.IV]{.gray}&#8201; Übersichten der Preisentwicklung, Großhandelspreise &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710500)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145005`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145005`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 8 Mappen, 81 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 8 Mappen, 87 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -34,7 +35,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Europa
 
 - A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145005" title="über: Europa : Übersichten der Preisentwicklung, Großhandelspreise" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1450xx/145005/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145005" title="über: Hamburg : Übersichten der Preisentwicklung, Großhandelspreise" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1450xx/145005/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145005" title="über: Hamburg : Übersichten der Preisentwicklung, Großhandelspreise" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1450xx/145005/about.de.html))
 
 ### Asien
 
@@ -50,6 +51,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145005" title="über: Argentinien : Übersichten der Preisentwicklung, Großhandelspreise" target="_blank">27 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1450xx/145005/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

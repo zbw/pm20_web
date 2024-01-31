@@ -1,6 +1,6 @@
 ---
 title: "E75 Venezuela"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,18 +10,21 @@ fn-stub: about
 
 # [E75]{.gray}&#8201; Venezuela &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q717) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Venezuela)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141686`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141686`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
+[Subject archives](#subject-archives-folders) &#160; [Commodities/wares archives](#commoditieswares-archives-folders)
 
 
 
 
-## Subject archives
+## Subject archives folders
+
+
+
 
 
 
@@ -43,11 +46,53 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
+<a id="filmsections" />
+
+## Sections of digitized microfilms (1st filming 1908-1949)
+
+<p>For intellectual property law reasons accessible only from the European Union legal area and from the ZBW reading room.</p>
+
+
+
+<p>Total number of images: 1748</p>
 
 
 
 
-## Commodities/wares archives
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0971H_2/0721" rel="nofollow">Images on film h1/sh/S0971H_2/0721</a> | Venezuela
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0972H" rel="nofollow">Images on film h1/sh/S0972H</a> | Filmanfang: Venezuela : Handelspolitische und zollrechtliche Massnahmen aus dem Deutschen Handelsarchiv [E75 g4 Sm21]
+
+
+:::
+
+
+
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 2457</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2812H/0158" rel="nofollow">Images on film h2/sh/S2812H/0158</a> | Venezuela
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2813H" rel="nofollow">Images on film h2/sh/S2813H</a> | Filmanfang: Venezuela : Berichte über die wirtschaftliche Lage [E75 n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2814H" rel="nofollow">Images on film h2/sh/S2814H</a> | Filmanfang: Venezuela : n19-30 Sm [E75 n19-30 Sm]
+
+
+:::
 
 
 
@@ -57,8 +102,27 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
-In total 14 folders, 121 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_wa.de.html) (in German).
+
+
+
+
+
+## Commodities/wares archives folders
+
+
+
+
+
+
+
+
+
+
+
+In total 14 folders (until 1949), 121 documents
+- folders incomplete.  For material not published as folders, please check the
+digitized micro-films of the [1st filming](/film/h1_wa.de.html) and [2nd
+filming](/film/h2_wa.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 

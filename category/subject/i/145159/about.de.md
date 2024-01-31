@@ -1,6 +1,6 @@
 ---
 title: "n15 Sm2.I Streiks, Vereinbarungen zwischen Arbeitgebern und Arbeitnehmern, Allgemein"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n15 Sm2.I]{.gray}&#8201; Streiks, Vereinbarungen zwischen Arbeitgebern und Arbeitnehmern, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710702)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145159`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145159`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 6 Mappen, 70 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 6 Mappen, 71 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -33,7 +34,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 ### Europa
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145159" title="über: Hamburg : Streiks, Vereinbarungen zwischen Arbeitgebern und Arbeitnehmern, Allgemein" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1451xx/145159/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145159" title="über: Hamburg : Streiks, Vereinbarungen zwischen Arbeitgebern und Arbeitnehmern, Allgemein" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1451xx/145159/about.de.html))
 - A38 Fiume [**&nearr;**](../../../geo/i/141014/about.de.html "Fiume (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A38 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141014,145159" title="über: Fiume : Streiks, Vereinbarungen zwischen Arbeitgebern und Arbeitnehmern, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141014/1451xx/145159/about.de.html))
 
 ### Asien
@@ -48,6 +49,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145159" title="über: Argentinien : Streiks, Vereinbarungen zwischen Arbeitgebern und Arbeitnehmern, Allgemein" target="_blank">32 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1451xx/145159/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "p3 Einwanderung und Einwanderungspolitik"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [p3]{.gray}&#8201; Einwanderung und Einwanderungspolitik &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428101)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145917`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145917`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 38 Mappen, 878 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 38 Mappen, 878 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -83,6 +84,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145917" title="über: Argentinien : Einwanderung und Einwanderungspolitik" target="_blank">255 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1459xx/145917/about.de.html))
 - E101 Niederländisch-Guayana [**&nearr;**](../../../geo/i/141699/about.de.html "Niederländisch-Guayana (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E101 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141699,145917" title="über: Niederländisch-Guayana : Einwanderung und Einwanderungspolitik" target="_blank">10 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141699/1459xx/145917/about.de.html))
 - E102 Britisch-Guayana [**&nearr;**](../../../geo/i/141700/about.de.html "Britisch-Guayana (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E102 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141700,145917" title="über: Britisch-Guayana : Einwanderung und Einwanderungspolitik" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1417xx/141700/1459xx/145917/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

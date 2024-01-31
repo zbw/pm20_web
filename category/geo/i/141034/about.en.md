@@ -1,6 +1,6 @@
 ---
 title: "A43 Ottoman Empire"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,18 +10,18 @@ fn-stub: about
 
 # [A43]{.gray}&#8201; Ottoman Empire &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q12560) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Ottoman_Empire)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141034`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141034`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
+[Subject archives](#subject-archives-folders) &#160; [Commodities/wares archives](#commoditieswares-archives-folders)
 
 
 
 
-## Subject archives
+## Subject archives folders
 
 
 
@@ -29,7 +29,10 @@ fn-stub: about
 
 
 
-In total 135 folders, 2692 documents - folders complete.
+
+
+
+In total 135 folders, 2692 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -222,11 +225,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
-
-
-
-
-## Commodities/wares archives
+<a id="filmsections" />
 
 
 
@@ -236,8 +235,24 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
-In total 9 folders, 73 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_wa.de.html) (in German).
+
+
+## Commodities/wares archives folders
+
+
+
+
+
+
+
+
+
+
+
+In total 9 folders (until 1949), 73 documents
+- folders incomplete.  For material not published as folders, please check the
+digitized micro-films of the [1st filming](/film/h1_wa.de.html) and [2nd
+filming](/film/h2_wa.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 

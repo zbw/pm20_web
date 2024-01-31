@@ -1,6 +1,6 @@
 ---
 title: "n Sm38.III Urheberschutz, Schutz des gewerblichen Eigentums"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n Sm38.III]{.gray}&#8201; Urheberschutz, Schutz des gewerblichen Eigentums &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710358)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145839`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145839`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 11 Mappen, 44 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 10 Mappen, 44 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -35,7 +36,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145839" title="über: Europa : Urheberschutz, Schutz des gewerblichen Eigentums" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1458xx/145839/about.de.html))
 - A1a Ostseeländer [**&nearr;**](../../../geo/i/140894/about.de.html "Ostseeländer (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1a "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140894,145839" title="über: Ostseeländer : Urheberschutz, Schutz des gewerblichen Eigentums" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140894/1458xx/145839/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145839" title="über: Hamburg : Urheberschutz, Schutz des gewerblichen Eigentums" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1458xx/145839/about.de.html))
 
 ### Asien
 
@@ -50,6 +50,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145839" title="über: Argentinien : Urheberschutz, Schutz des gewerblichen Eigentums" target="_blank">10 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1458xx/145839/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

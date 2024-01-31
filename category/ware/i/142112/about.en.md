@@ -1,6 +1,6 @@
 ---
 title: "Mining machine"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Mining machine &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q12099206)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142112`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142112`</div>
 
 
 
@@ -18,13 +18,15 @@ fn-stub: about
 
 
 
-## Commodities/wares archives
+## Commodities/wares archives folders
 
 
 
 
 
-In total 33 folders, 257 documents - folders complete.
+
+
+In total 33 folders, 257 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -40,7 +42,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A28 France [**&nearr;**](../../../geo/i/140982/about.en.html "France (all folders)") [**&uarr;**](../../../geo/about.en.html#A28 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142112,140982" title="about: Mining machine : France" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1421xx/142112/1409xx/140982/about.en.html))
 - A30 Spain [**&nearr;**](../../../geo/i/140984/about.en.html "Spain (all folders)") [**&uarr;**](../../../geo/about.en.html#A30 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142112,140984" title="about: Mining machine : Spain" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1421xx/142112/1409xx/140984/about.en.html))
 - A40b Austria [**&nearr;**](../../../geo/i/141731/about.en.html "Austria (all folders)") [**&uarr;**](../../../geo/about.en.html#A40b "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142112,141731" title="about: Mining machine : Austria" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1421xx/142112/1417xx/141731/about.en.html))
-- A40e Kingdom of Yugoslavia [**&nearr;**](../../../geo/i/141028/about.en.html "Kingdom of Yugoslavia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40e "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142112,141028" title="about: Mining machine : Kingdom of Yugoslavia" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1421xx/142112/1410xx/141028/about.en.html))
+- A40e (Kingdom of) Yugoslavia [**&nearr;**](../../../geo/i/141028/about.en.html "(Kingdom of) Yugoslavia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40e "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142112,141028" title="about: Mining machine : (Kingdom of) Yugoslavia" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1421xx/142112/1410xx/141028/about.en.html))
 - A40g Croatia [**&nearr;**](../../../geo/i/141030/about.en.html "Croatia (all folders)") [**&uarr;**](../../../geo/about.en.html#A40g "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142112,141030" title="about: Mining machine : Croatia" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1421xx/142112/1410xx/141030/about.en.html))
 - A46 Bulgaria [**&nearr;**](../../../geo/i/141039/about.en.html "Bulgaria (all folders)") [**&uarr;**](../../../geo/about.en.html#A46 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142112,141039" title="about: Mining machine : Bulgaria" target="_blank">3 documents</a>) ([folder](../../../../folder/wa/1421xx/142112/1410xx/141039/about.en.html))
 - A47 Romania [**&nearr;**](../../../geo/i/141040/about.en.html "Romania (all folders)") [**&uarr;**](../../../geo/about.en.html#A47 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142112,141040" title="about: Mining machine : Romania" target="_blank">5 documents</a>) ([folder](../../../../folder/wa/1421xx/142112/1410xx/141040/about.en.html))
@@ -80,6 +82,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### World
 
 - H World [**&nearr;**](../../../geo/i/141728/about.en.html "World (all folders)") [**&uarr;**](../../../geo/about.en.html#H "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142112,141728" title="about: Mining machine : World" target="_blank">78 documents</a>) ([folder](../../../../folder/wa/1421xx/142112/1417xx/141728/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

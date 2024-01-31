@@ -1,6 +1,6 @@
 ---
 title: "Bergbaumaschine"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Bergbaumaschine &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q12099206)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142112`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142112`</div>
 
 
 
@@ -18,12 +18,14 @@ fn-stub: about
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 33 Mappen, 257 Dokumente - Mappen komplett.
+
+
+Insgesamt 33 Mappen, 257 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -40,7 +42,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - A28 Frankreich [**&nearr;**](../../../geo/i/140982/about.de.html "Frankreich (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A28 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142112,140982" title="über: Bergbaumaschine : Frankreich" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142112/1409xx/140982/about.de.html))
 - A30 Spanien [**&nearr;**](../../../geo/i/140984/about.de.html "Spanien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A30 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142112,140984" title="über: Bergbaumaschine : Spanien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142112/1409xx/140984/about.de.html))
 - A40b Österreich [**&nearr;**](../../../geo/i/141731/about.de.html "Österreich (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40b "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142112,141731" title="über: Bergbaumaschine : Österreich" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142112/1417xx/141731/about.de.html))
-- A40e Südslawien [**&nearr;**](../../../geo/i/141028/about.de.html "Südslawien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40e "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142112,141028" title="über: Bergbaumaschine : Südslawien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142112/1410xx/141028/about.de.html))
+- A40e Jugoslawien (bis 1945 Südslawien) [**&nearr;**](../../../geo/i/141028/about.de.html "Jugoslawien (bis 1945 Südslawien) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40e "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142112,141028" title="über: Bergbaumaschine : Jugoslawien (bis 1945 Südslawien)" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142112/1410xx/141028/about.de.html))
 - A40g Kroatien [**&nearr;**](../../../geo/i/141030/about.de.html "Kroatien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40g "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142112,141030" title="über: Bergbaumaschine : Kroatien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142112/1410xx/141030/about.de.html))
 - A46 Bulgarien [**&nearr;**](../../../geo/i/141039/about.de.html "Bulgarien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A46 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142112,141039" title="über: Bergbaumaschine : Bulgarien" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142112/1410xx/141039/about.de.html))
 - A47 Rumänien [**&nearr;**](../../../geo/i/141040/about.de.html "Rumänien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A47 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142112,141040" title="über: Bergbaumaschine : Rumänien" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142112/1410xx/141040/about.de.html))
@@ -80,6 +82,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Welt
 
 - H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142112,141728" title="über: Bergbaumaschine : Welt" target="_blank">78 Dokumente</a>) ([Mappe](../../../../folder/wa/1421xx/142112/1417xx/141728/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

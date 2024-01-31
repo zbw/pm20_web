@@ -1,6 +1,6 @@
 ---
 title: "D12 Kaiser-Wilhelmsland"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [D12]{.gray}&#8201; Kaiser-Wilhelmsland &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q691017) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Kaiser-Wilhelmsland)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141612`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141612`</div>
 
 
 
@@ -18,7 +18,7 @@ fn-stub: about
 
 
 
-## Subject archives
+## Subject archives folders
 
 
 
@@ -26,7 +26,10 @@ fn-stub: about
 
 
 
-In total 21 folders, 78 documents - folders complete.
+
+
+
+In total 21 folders, 78 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -77,6 +80,14 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - n12 Mining [**&nearr;**](../../../subject/i/145083/about.en.html "Mining (all over the world)") [**&uarr;**](../../../subject/about.en.html#n12 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141612,145083" title="about: Kaiser-Wilhelmsland : Mining" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1416xx/141612/1450xx/145083/about.en.html))
 - n26 Representation of economic interests (lobbying), business associations, professional organization [**&nearr;**](../../../subject/i/145491/about.en.html "Representation of economic interests (lobbying), business associations, professional organization (all over the world)") [**&uarr;**](../../../subject/about.en.html#n26 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141612,145491" title="about: Kaiser-Wilhelmsland : Representation of economic interests (lobbying), business associations, professional organization" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1416xx/141612/1454xx/145491/about.en.html))
 - n34 Postal services, telegraphy and telephony [**&nearr;**](../../../subject/i/145662/about.en.html "Postal services, telegraphy and telephony (all over the world)") [**&uarr;**](../../../subject/about.en.html#n34 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141612,145662" title="about: Kaiser-Wilhelmsland : Postal services, telegraphy and telephony" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1416xx/141612/1456xx/145662/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
 
 
 

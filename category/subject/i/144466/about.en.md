@@ -1,6 +1,6 @@
 ---
 title: "g2a Diplomatic and consular representations in individual countries"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [g2a]{.gray}&#8201; Diplomatic and consular representations in individual countries &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427876)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144466`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144466`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 24 folders, 1524 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 24 folders, 1534 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -36,7 +37,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - A6 Southeastern Europe [**&nearr;**](../../../geo/i/140900/about.en.html "Southeastern Europe (all folders)") [**&uarr;**](../../../geo/about.en.html#A6 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,144466" title="about: Southeastern Europe : Diplomatic and consular representations in individual countries" target="_blank">5 documents</a>) ([folder](../../../../folder/sh/1409xx/140900/1444xx/144466/about.en.html))
 - A7 Orient [**&nearr;**](../../../geo/i/140902/about.en.html "Orient (all folders)") [**&uarr;**](../../../geo/about.en.html#A7 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,144466" title="about: Orient : Diplomatic and consular representations in individual countries" target="_blank">5 documents</a>) ([folder](../../../../folder/sh/1409xx/140902/1444xx/144466/about.en.html))
 - A8 Russian peripheral countries [**&nearr;**](../../../geo/i/140904/about.en.html "Russian peripheral countries (all folders)") [**&uarr;**](../../../geo/about.en.html#A8 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140904,144466" title="about: Russian peripheral countries : Diplomatic and consular representations in individual countries" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1409xx/140904/1444xx/144466/about.en.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144466" title="about: Hamburg : Diplomatic and consular representations in individual countries" target="_blank">372 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1444xx/144466/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144466" title="about: Hamburg : Diplomatic and consular representations in individual countries" target="_blank">382 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1444xx/144466/about.en.html))
 - A38 Free State of Fiume [**&nearr;**](../../../geo/i/141014/about.en.html "Free State of Fiume (all folders)") [**&uarr;**](../../../geo/about.en.html#A38 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141014,144466" title="about: Free State of Fiume : Diplomatic and consular representations in individual countries" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1410xx/141014/1444xx/144466/about.en.html))
 
 ### Asia
@@ -69,6 +70,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 - E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144466" title="about: Argentina : Diplomatic and consular representations in individual countries" target="_blank">532 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1444xx/144466/about.en.html))
 - E102 British Guiana [**&nearr;**](../../../geo/i/141700/about.en.html "British Guiana (all folders)") [**&uarr;**](../../../geo/about.en.html#E102 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141700,144466" title="about: British Guiana : Diplomatic and consular representations in individual countries" target="_blank">3 documents</a>) ([folder](../../../../folder/sh/1417xx/141700/1444xx/144466/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

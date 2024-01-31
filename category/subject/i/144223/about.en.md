@@ -1,6 +1,6 @@
 ---
 title: "d1 Sm4.I Nationals abroad, general"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [d1 Sm4.I]{.gray}&#8201; Nationals abroad, general &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699250)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144223`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144223`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 4 folders, 17 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 4 folders, 17 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -40,6 +41,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - B22 Armenians in Turkey [**&nearr;**](../../../geo/i/141112/about.en.html "Armenians in Turkey (all folders)") [**&uarr;**](../../../geo/about.en.html#B22 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141112,144223" title="about: Armenians in Turkey : Nationals abroad, general" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1411xx/141112/1442xx/144223/about.en.html))
 - B24 Syria [**&nearr;**](../../../geo/i/141114/about.en.html "Syria (all folders)") [**&uarr;**](../../../geo/about.en.html#B24 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141114,144223" title="about: Syria : Nationals abroad, general" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1411xx/141114/1442xx/144223/about.en.html))
 - B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141272,144223" title="about: Japan : Nationals abroad, general" target="_blank">11 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1442xx/144223/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

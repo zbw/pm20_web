@@ -1,6 +1,6 @@
 ---
 title: "A36 Italienische Kolonien"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,20 +10,23 @@ fn-stub: about
 
 # [A36]{.gray}&#8201; Italienische Kolonien &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q926295) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Italienische_Kolonien)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141012`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141012`</div>
 
 <div class="hint">
 Scope Note: (einschl.: Imperium Romanum)
 </div>
 
 
-[Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
+
+
+
 
 
 
@@ -174,11 +177,57 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 87</p>
 
 
 
 
-## Warenarchiv
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0493H/1164/R" rel="nofollow">Bilder auf Film h1/sh/S0493H/1164/R</a> | Italienische Kolonien : Literatur
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0493H/1211/R" rel="nofollow">Bilder auf Film h1/sh/S0493H/1211/R</a> | Italienische Kolonien : Land und Leute, Politik und Wirtschaft, Allgemein
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0493H/1215/R" rel="nofollow">Bilder auf Film h1/sh/S0493H/1215/R</a> | Italienische Kolonien : Landeskunde, Allgemein
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0493H/1219/R" rel="nofollow">Bilder auf Film h1/sh/S0493H/1219/R</a> | Italienische Kolonien : Staatsgrenzen, politische Einteilung
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0493H/1221" rel="nofollow">Bilder auf Film h1/sh/S0493H/1221</a> | Italienische Kolonien : Landeskunde, Klima
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0493H/1226/R" rel="nofollow">Bilder auf Film h1/sh/S0493H/1226/R</a> | Italienische Kolonien : Landeskunde, Pflanzenreich
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0493H/1237/L" rel="nofollow">Bilder auf Film h1/sh/S0493H/1237/L</a> | Italienische Kolonien : Bevölkerung und Bevölkerungspolitik
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0493H/1243/L" rel="nofollow">Bilder auf Film h1/sh/S0493H/1243/L</a> | Italienische Kolonien : Rassismus, Eugenik, NS-Rassenhygiene (-1945)
+
+
+:::
+
+
+
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 343</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2527H/0625" rel="nofollow">Bilder auf Film h2/sh/S2527H/0625</a> | Italienische Kolonien
+
+
+:::
 
 
 
@@ -187,8 +236,27 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
-Insgesamt 2 Mappen, 7 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 2 Mappen (bis 1949), 7 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

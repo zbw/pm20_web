@@ -1,6 +1,6 @@
 ---
 title: "C80 Belgisch-Kongo"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -8,22 +8,25 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [C80]{.gray}&#8201; Belgisch-Kongo &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q213510)
+# [C80]{.gray}&#8201; Belgisch-Kongo &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q213510) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Belgisch-Kongo)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141444`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141444`</div>
 
 <div class="hint">
 Scope Note: Belgisch-Kongo (1907-1960), Demokratische Republik Kongo (1960-1971; 1997-), Zaire (1971-1997)
 </div>
 
 
-[Sacharchiv](#sacharchiv) &#160; [Warenarchiv](#warenarchiv)
+[Sacharchiv](#sacharchiv-mappen) &#160; [Warenarchiv](#warenarchiv-mappen)
 
 
 
 
 
-## Sacharchiv
+## Sacharchiv Mappen
+
+
+
 
 
 
@@ -50,11 +53,58 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (1. Verfilmung 1908-1949)
+
+<p>Aus urheberrechtlichen Gründen nur aus dem EU-Rechtsraum und im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 6332</p>
 
 
 
 
-## Warenarchiv
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0800H/0137" rel="nofollow">Bilder auf Film h1/sh/S0800H/0137</a> | Belgisch-Kongo
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0801H" rel="nofollow">Bilder auf Film h1/sh/S0801H</a> | Filmanfang: Belgisch-Kongo : Geschichte, Politik, Allgemein [C80 f]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0802H" rel="nofollow">Bilder auf Film h1/sh/S0802H</a> | Filmanfang: Belgisch-Kongo : Strafrecht [C80 i3]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0803H" rel="nofollow">Bilder auf Film h1/sh/S0803H</a> | Filmanfang: Belgisch-Kongo : Berichte über die wirtschaftliche Lage [C80 n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0804H" rel="nofollow">Bilder auf Film h1/sh/S0804H</a> | Filmanfang: Belgisch-Kongo : Handel [C80 n18]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0805H" rel="nofollow">Bilder auf Film h1/sh/S0805H</a> | Filmanfang: Belgisch-Kongo : Siedlungsmöglichkeiten und Einwanderungsmöglichkeiten [C80 p1]
+
+
+:::
+
+
+
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 3455</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2710H/0537" rel="nofollow">Bilder auf Film h2/sh/S2710H/0537</a> | Belgisch-Kongo
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2711H" rel="nofollow">Bilder auf Film h2/sh/S2711H</a> | Filmanfang: Belgisch-Kongo : Geschichtliche Vorgänge [C80 f2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2712H" rel="nofollow">Bilder auf Film h2/sh/S2712H</a> | Filmanfang: Belgisch-Kongo : m-n Sm [C80 m-n Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2713H" rel="nofollow">Bilder auf Film h2/sh/S2713H</a> | Filmanfang: Belgisch-Kongo : n3-13e [C80 n3-13e]
+
+
+:::
 
 
 
@@ -63,8 +113,27 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 
 
-Insgesamt 15 Mappen, 337 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_wa.de.html).
+
+
+
+
+
+
+## Warenarchiv Mappen
+
+
+
+
+
+
+
+
+
+
+Insgesamt 15 Mappen (bis 1949), 337 Dokumente
+- Mappen unvollständig.  Nicht als Mappe aufbereitetes Material finden Sie
+unter den digitalisierten Microfilmen der [1. Verfilmung](/film/h1_wa.de.html)
+und der [2. Verfilmung](/film/h2_wa.de.html).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 

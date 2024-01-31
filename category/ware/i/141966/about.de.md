@@ -1,6 +1,6 @@
 ---
 title: "Alkohol"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Alkohol &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q154) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Alkoholisches_Getr%C3%A4nk)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141966`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/141966`</div>
 
 <div class="hint">
 Scope Note: (einschl.: Brantweinmonopol; Alkoholtrust; Alkoholverbot; Spiritus; Alkoholschmuggel; Industriealkohol, Alkoholbrennerei)
@@ -20,12 +20,14 @@ Scope Note: (einschl.: Brantweinmonopol; Alkoholtrust; Alkoholverbot; Spiritus; 
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 168 Mappen, 8094 Dokumente - Mappen komplett.
+
+
+Insgesamt 168 Mappen, 8094 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -71,7 +73,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - A40c Tschechoslowakei [**&nearr;**](../../../geo/i/141022/about.de.html "Tschechoslowakei (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40c "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141022" title="über: Alkohol : Tschechoslowakei" target="_blank">201 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1410xx/141022/about.de.html))
 - A40c(A10) Sudetendeutsches Gebiet [**&nearr;**](../../../geo/i/141023/about.de.html "Sudetendeutsches Gebiet (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40c(A10) "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141023" title="über: Alkohol : Sudetendeutsches Gebiet" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1410xx/141023/about.de.html))
 - A40d Ungarn [**&nearr;**](../../../geo/i/141025/about.de.html "Ungarn (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40d "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141025" title="über: Alkohol : Ungarn" target="_blank">175 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1410xx/141025/about.de.html))
-- A40e Südslawien [**&nearr;**](../../../geo/i/141028/about.de.html "Südslawien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40e "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141028" title="über: Alkohol : Südslawien" target="_blank">51 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1410xx/141028/about.de.html))
+- A40e Jugoslawien (bis 1945 Südslawien) [**&nearr;**](../../../geo/i/141028/about.de.html "Jugoslawien (bis 1945 Südslawien) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40e "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141028" title="über: Alkohol : Jugoslawien (bis 1945 Südslawien)" target="_blank">51 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1410xx/141028/about.de.html))
 - A40f Slowakei [**&nearr;**](../../../geo/i/141029/about.de.html "Slowakei (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40f "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141029" title="über: Alkohol : Slowakei" target="_blank">31 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1410xx/141029/about.de.html))
 - A40g Kroatien [**&nearr;**](../../../geo/i/141030/about.de.html "Kroatien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40g "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141030" title="über: Alkohol : Kroatien" target="_blank">28 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1410xx/141030/about.de.html))
 - A41 Serbien [**&nearr;**](../../../geo/i/141032/about.de.html "Serbien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A41 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141032" title="über: Alkohol : Serbien" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1410xx/141032/about.de.html))
@@ -217,6 +219,38 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Welt
 
 - H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141966,141728" title="über: Alkohol : Welt" target="_blank">286 Dokumente</a>) ([Mappe](../../../../folder/wa/1419xx/141966/1417xx/141728/about.de.html))
+
+
+
+<a id="filmsections" />
+
+## Abschnitte von digitalisierten Mikrofilmen (2. Verfilmung 1950-1960)
+
+<p>Aus urheberrechtlichen Gründen nur im ZBW-Lesesaal zugänglich.</p>
+
+
+<p>Gesamtzahl der Mikrofilmaufnahmen: 804</p>
+
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/wa/W2001H/0136" rel="nofollow">Bilder auf Film h2/wa/W2001H/0136</a> | Alkohol
+
+
+:::
+
+
+
+
+
+
+
+
 
 
 

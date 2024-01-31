@@ -1,6 +1,6 @@
 ---
 title: "Anise"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Anise &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q28692) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Anise)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/141976`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/141976`</div>
 
 
 
@@ -18,13 +18,15 @@ fn-stub: about
 
 
 
-## Commodities/wares archives
+## Commodities/wares archives folders
 
 
 
 
 
-In total 10 folders, 32 documents - folders complete.
+
+
+In total 10 folders, 32 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -48,6 +50,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### Africa
 
 - C34 French Sudan [**&nearr;**](../../../geo/i/141370/about.en.html "French Sudan (all folders)") [**&uarr;**](../../../geo/about.en.html#C34 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/141976,141370" title="about: Anise : French Sudan" target="_blank">2 documents</a>) ([folder](../../../../folder/wa/1419xx/141976/1413xx/141370/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

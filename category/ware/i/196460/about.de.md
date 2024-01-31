@@ -1,6 +1,6 @@
 ---
 title: "Baumwollgarn"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Baumwollgarn &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q111973116)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/196460`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/196460`</div>
 
 
 
@@ -18,12 +18,14 @@ fn-stub: about
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 48 Mappen, 893 Dokumente - Mappen komplett.
+
+
+Insgesamt 48 Mappen, 893 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -41,7 +43,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - A40b Österreich [**&nearr;**](../../../geo/i/141731/about.de.html "Österreich (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40b "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/196460,141731" title="über: Baumwollgarn : Österreich" target="_blank">79 Dokumente</a>) ([Mappe](../../../../folder/wa/1964xx/196460/1417xx/141731/about.de.html))
 - A40c Tschechoslowakei [**&nearr;**](../../../geo/i/141022/about.de.html "Tschechoslowakei (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40c "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/196460,141022" title="über: Baumwollgarn : Tschechoslowakei" target="_blank">27 Dokumente</a>) ([Mappe](../../../../folder/wa/1964xx/196460/1410xx/141022/about.de.html))
 - A40d Ungarn [**&nearr;**](../../../geo/i/141025/about.de.html "Ungarn (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40d "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/196460,141025" title="über: Baumwollgarn : Ungarn" target="_blank">18 Dokumente</a>) ([Mappe](../../../../folder/wa/1964xx/196460/1410xx/141025/about.de.html))
-- A40e Südslawien [**&nearr;**](../../../geo/i/141028/about.de.html "Südslawien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40e "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/196460,141028" title="über: Baumwollgarn : Südslawien" target="_blank">15 Dokumente</a>) ([Mappe](../../../../folder/wa/1964xx/196460/1410xx/141028/about.de.html))
+- A40e Jugoslawien (bis 1945 Südslawien) [**&nearr;**](../../../geo/i/141028/about.de.html "Jugoslawien (bis 1945 Südslawien) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40e "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/196460,141028" title="über: Baumwollgarn : Jugoslawien (bis 1945 Südslawien)" target="_blank">15 Dokumente</a>) ([Mappe](../../../../folder/wa/1964xx/196460/1410xx/141028/about.de.html))
 - A40f Slowakei [**&nearr;**](../../../geo/i/141029/about.de.html "Slowakei (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A40f "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/196460,141029" title="über: Baumwollgarn : Slowakei" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1964xx/196460/1410xx/141029/about.de.html))
 - A45 Griechenland [**&nearr;**](../../../geo/i/141037/about.de.html "Griechenland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A45 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/196460,141037" title="über: Baumwollgarn : Griechenland" target="_blank">24 Dokumente</a>) ([Mappe](../../../../folder/wa/1964xx/196460/1410xx/141037/about.de.html))
 - A46 Bulgarien [**&nearr;**](../../../geo/i/141039/about.de.html "Bulgarien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A46 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/196460,141039" title="über: Baumwollgarn : Bulgarien" target="_blank">22 Dokumente</a>) ([Mappe](../../../../folder/wa/1964xx/196460/1410xx/141039/about.de.html))
@@ -92,6 +94,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/196460,141692" title="über: Baumwollgarn : Argentinien" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/wa/1964xx/196460/1416xx/141692/about.de.html))
 - E96 Paraguay [**&nearr;**](../../../geo/i/141696/about.de.html "Paraguay (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E96 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/196460,141696" title="über: Baumwollgarn : Paraguay" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1964xx/196460/1416xx/141696/about.de.html))
 - E97 Brasilien [**&nearr;**](../../../geo/i/141697/about.de.html "Brasilien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E97 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/196460,141697" title="über: Baumwollgarn : Brasilien" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/wa/1964xx/196460/1416xx/141697/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

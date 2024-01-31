@@ -1,6 +1,6 @@
 ---
 title: "b1 Land und Leute, Reiseschilderungen"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [b1]{.gray}&#8201; Land und Leute, Reiseschilderungen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427827)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144197`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144197`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 24 Mappen, 447 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 24 Mappen, 447 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -72,6 +73,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Polargebiete
 
 - F11 Antarktis [**&nearr;**](../../../geo/i/141703/about.de.html "Antarktis (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#F11 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141703,144197" title="über: Antarktis : Land und Leute, Reiseschilderungen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1417xx/141703/1441xx/144197/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

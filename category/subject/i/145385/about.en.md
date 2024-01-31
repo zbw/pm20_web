@@ -1,6 +1,6 @@
 ---
 title: "n24 Sm21.IIb Terms and conditions (in banking), interest, commission issues"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n24 Sm21.IIb]{.gray}&#8201; Terms and conditions (in banking), interest, commission issues &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711039)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145385`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145385`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 2 folders, 28 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 2 folders, 28 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -38,6 +39,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### Asia
 
 - B111 Japan [**&nearr;**](../../../geo/i/141272/about.en.html "Japan (all folders)") [**&uarr;**](../../../geo/about.en.html#B111 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141272,145385" title="about: Japan : Terms and conditions (in banking), interest, commission issues" target="_blank">23 documents</a>) ([folder](../../../../folder/sh/1412xx/141272/1453xx/145385/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

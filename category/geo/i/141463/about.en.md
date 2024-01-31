@@ -1,6 +1,6 @@
 ---
 title: "C100 Portuguese Mozambique"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,18 +10,21 @@ fn-stub: about
 
 # [C100]{.gray}&#8201; Portuguese Mozambique &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q1029) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Mozambique)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141463`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141463`</div>
 
 
 
 
 
-[Subject archives](#subject-archives) &#160; [Commodities/wares archives](#commoditieswares-archives)
+[Subject archives](#subject-archives-folders) &#160; [Commodities/wares archives](#commoditieswares-archives-folders)
 
 
 
 
-## Subject archives
+## Subject archives folders
+
+
+
 
 
 
@@ -48,11 +51,52 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
+<a id="filmsections" />
+
+## Sections of digitized microfilms (1st filming 1908-1949)
+
+<p>For intellectual property law reasons accessible only from the European Union legal area and from the ZBW reading room.</p>
+
+
+
+<p>Total number of images: 2455</p>
 
 
 
 
-## Commodities/wares archives
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0825H/0201" rel="nofollow">Images on film h1/sh/S0825H/0201</a> | Portugiesisch-Ostafrika
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0826H" rel="nofollow">Images on film h1/sh/S0826H</a> | Filmanfang: Portugiesisch-Ostafrika : Berichte über die wirtschaftliche Lage [C100 n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0827H" rel="nofollow">Images on film h1/sh/S0827H</a> | Filmanfang: Portugiesisch-Ostafrika : Luftschiffahrt, Flugwesen, Luftverkehr, Allgemein [C100 n35]
+
+
+:::
+
+
+
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 392</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2722H/0689" rel="nofollow">Images on film h2/sh/S2722H/0689</a> | Portugiesisch Ostafrika
+
+
+:::
 
 
 
@@ -62,8 +106,27 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 
 
-In total 12 folders, 250 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_wa.de.html) (in German).
+
+
+
+
+
+## Commodities/wares archives folders
+
+
+
+
+
+
+
+
+
+
+
+In total 12 folders (until 1949), 250 documents
+- folders incomplete.  For material not published as folders, please check the
+digitized micro-films of the [1st filming](/film/h1_wa.de.html) and [2nd
+filming](/film/h2_wa.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 

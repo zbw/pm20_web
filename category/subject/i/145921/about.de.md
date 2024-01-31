@@ -1,6 +1,6 @@
 ---
 title: "p3 Sm500 Deutsche Einwanderer (Forschungsstelle für das Übersee-Deutschtum)"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [p3 Sm500]{.gray}&#8201; Deutsche Einwanderer (Forschungsstelle für das Übersee-Deutschtum) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711353)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145921`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145921`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 36 Mappen, 653 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 35 Mappen, 655 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -35,7 +36,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - B23 Irak [**&nearr;**](../../../geo/i/141113/about.de.html "Irak (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B23 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141113,145921" title="über: Irak : Deutsche Einwanderer (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1411xx/141113/1459xx/145921/about.de.html))
 - B24a Palästina (-1945) [**&nearr;**](../../../geo/i/141115/about.de.html "Palästina (-1945) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B24a "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141115,145921" title="über: Palästina (-1945) : Deutsche Einwanderer (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">20 Dokumente</a>) ([Mappe](../../../../folder/sh/1411xx/141115/1459xx/145921/about.de.html))
-- B40 Iran [**&nearr;**](../../../geo/i/141186/about.de.html "Iran (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B40 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141186,145921" title="über: Iran : Deutsche Einwanderer (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/sh/1411xx/141186/1459xx/145921/about.de.html))
+- B40 Iran [**&nearr;**](../../../geo/i/141186/about.de.html "Iran (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B40 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141186,145921" title="über: Iran : Deutsche Einwanderer (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">10 Dokumente</a>) ([Mappe](../../../../folder/sh/1411xx/141186/1459xx/145921/about.de.html))
 - B42 Britisch-Indien [**&nearr;**](../../../geo/i/141189/about.de.html "Britisch-Indien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B42 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141189,145921" title="über: Britisch-Indien : Deutsche Einwanderer (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1411xx/141189/1459xx/145921/about.de.html))
 - B57 Ceylon [**&nearr;**](../../../geo/i/141204/about.de.html "Ceylon (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B57 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141204,145921" title="über: Ceylon : Deutsche Einwanderer (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141204/1459xx/145921/about.de.html))
 - B58 Malayische Schutzstaaten [**&nearr;**](../../../geo/i/141206/about.de.html "Malayische Schutzstaaten (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B58 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141206,145921" title="über: Malayische Schutzstaaten : Deutsche Einwanderer (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1412xx/141206/1459xx/145921/about.de.html))
@@ -47,7 +48,6 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - C2a Frankophones Afrika [**&nearr;**](../../../geo/i/141312/about.de.html "Frankophones Afrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C2a "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141312,145921" title="über: Frankophones Afrika : Deutsche Einwanderer (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1413xx/141312/1459xx/145921/about.de.html))
 - C10 Ägypten [**&nearr;**](../../../geo/i/141336/about.de.html "Ägypten (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C10 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141336,145921" title="über: Ägypten : Deutsche Einwanderer (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1413xx/141336/1459xx/145921/about.de.html))
-- C19 Algerien [**&nearr;**](../../../geo/i/141354/about.de.html "Algerien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C19 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141354,145921" title="über: Algerien : Deutsche Einwanderer (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1413xx/141354/1459xx/145921/about.de.html))
 - C54 Britisch-Westafrika [**&nearr;**](../../../geo/i/141402/about.de.html "Britisch-Westafrika (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C54 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141402,145921" title="über: Britisch-Westafrika : Deutsche Einwanderer (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141402/1459xx/145921/about.de.html))
 - C56 Liberia [**&nearr;**](../../../geo/i/141405/about.de.html "Liberia (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C56 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141405,145921" title="über: Liberia : Deutsche Einwanderer (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141405/1459xx/145921/about.de.html))
 - C60 Nigeria, einschl. Kamerun (brit.) [**&nearr;**](../../../geo/i/141409/about.de.html "Nigeria, einschl. Kamerun (brit.) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#C60 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141409,145921" title="über: Nigeria, einschl. Kamerun (brit.) : Deutsche Einwanderer (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1414xx/141409/1459xx/145921/about.de.html))
@@ -81,6 +81,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Welt
 
 - H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141728,145921" title="über: Welt : Deutsche Einwanderer (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1417xx/141728/1459xx/145921/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "A5 Levant"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [A5]{.gray}&#8201; Levant &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q81483) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Levant)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140898`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/140898`</div>
 
 
 
@@ -18,7 +18,7 @@ fn-stub: about
 
 
 
-## Subject archives
+## Subject archives folders
 
 
 
@@ -26,7 +26,10 @@ fn-stub: about
 
 
 
-In total 46 folders, 250 documents - folders complete.
+
+
+
+In total 46 folders, 250 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -105,6 +108,14 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
   - o1 Sm500 German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum) [**&nearr;**](../../../subject/i/145911/about.en.html "German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum) (all over the world)") [**&uarr;**](../../../subject/about.en.html#o1_Sm500 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140898,145911" title="about: Levant : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">4 documents</a>) ([folder](../../../../folder/sh/1408xx/140898/1459xx/145911/about.en.html))
 - [o3 Minorities from individual countries]{.gray}
   - o3 Sm1 (alt) Churches, schools and associations ... of minorities, general [**&nearr;**](../../../subject/i/145912/about.en.html "Churches, schools and associations ... of minorities, general (all over the world)") [**&uarr;**](../../../subject/about.en.html#o3_Sm1_(alt) "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140898,145912" title="about: Levant : Churches, schools and associations ... of minorities, general" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1408xx/140898/1459xx/145912/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
 
 
 

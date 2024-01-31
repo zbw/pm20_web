@@ -1,6 +1,6 @@
 ---
 title: "n5 Viehwirtschaft"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -8,9 +8,9 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [n5]{.gray}&#8201; Viehwirtschaft &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428025)
+# [n5]{.gray}&#8201; Viehwirtschaft &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q2523206)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145069`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145069`</div>
 
 <div class="hint">
 Scope Note: Veterenärwesen
@@ -20,13 +20,14 @@ Scope Note: Veterenärwesen
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 27 Mappen, 550 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 27 Mappen, 550 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -74,6 +75,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145069" title="über: Argentinien : Viehwirtschaft" target="_blank">235 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1450xx/145069/about.de.html))
 - E102 Britisch-Guayana [**&nearr;**](../../../geo/i/141700/about.de.html "Britisch-Guayana (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E102 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141700,145069" title="über: Britisch-Guayana : Viehwirtschaft" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1417xx/141700/1450xx/145069/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Backpulver"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Backpulver &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q29476) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://de.wikipedia.org/wiki/Backpulver)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142024`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142024`</div>
 
 
 
@@ -18,12 +18,14 @@ fn-stub: about
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 14 Mappen, 34 Dokumente - Mappen komplett.
+
+
+Insgesamt 14 Mappen, 34 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -55,6 +57,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - E24 Kuba [**&nearr;**](../../../geo/i/141659/about.de.html "Kuba (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E24 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142024,141659" title="über: Backpulver : Kuba" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142024/1416xx/141659/about.de.html))
 - E70 Costa Rica [**&nearr;**](../../../geo/i/141683/about.de.html "Costa Rica (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E70 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142024,141683" title="über: Backpulver : Costa Rica" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142024/1416xx/141683/about.de.html))
 - E97 Brasilien [**&nearr;**](../../../geo/i/141697/about.de.html "Brasilien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E97 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142024,141697" title="über: Backpulver : Brasilien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142024/1416xx/141697/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

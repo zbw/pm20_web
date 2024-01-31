@@ -1,6 +1,6 @@
 ---
 title: "i Rechtspflege, Allgemein"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [i]{.gray}&#8201; Rechtspflege, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99427896)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144694`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144694`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 27 Mappen, 225 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 26 Mappen, 226 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -35,8 +36,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144694" title="über: Europa : Rechtspflege, Allgemein" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1446xx/144694/about.de.html))
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,144694" title="über: Südosteuropa : Rechtspflege, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1446xx/144694/about.de.html))
-- A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,144694" title="über: Orient : Rechtspflege, Allgemein" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1446xx/144694/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144694" title="über: Hamburg : Rechtspflege, Allgemein" target="_blank">9 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1446xx/144694/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144694" title="über: Hamburg : Rechtspflege, Allgemein" target="_blank">10 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1446xx/144694/about.de.html))
 - A11 Deutsche Kolonien [**&nearr;**](../../../geo/i/140960/about.de.html "Deutsche Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A11 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140960,144694" title="über: Deutsche Kolonien : Rechtspflege, Allgemein" target="_blank">17 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140960/1446xx/144694/about.de.html))
 - A36 Italienische Kolonien [**&nearr;**](../../../geo/i/141012/about.de.html "Italienische Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A36 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141012,144694" title="über: Italienische Kolonien : Rechtspflege, Allgemein" target="_blank">7 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141012/1446xx/144694/about.de.html))
 - A43 Osmanisches Reich (-1923) [**&nearr;**](../../../geo/i/141034/about.de.html "Osmanisches Reich (-1923) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A43 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141034,144694" title="über: Osmanisches Reich (-1923) : Rechtspflege, Allgemein" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/sh/1410xx/141034/1446xx/144694/about.de.html))
@@ -72,6 +72,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144694" title="über: Argentinien : Rechtspflege, Allgemein" target="_blank">52 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1446xx/144694/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

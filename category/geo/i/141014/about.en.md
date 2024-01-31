@@ -1,6 +1,6 @@
 ---
 title: "A38 Free State of Fiume"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [A38]{.gray}&#8201; Free State of Fiume &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q1647) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Rijeka)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141014`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141014`</div>
 
 
 
@@ -18,7 +18,7 @@ fn-stub: about
 
 
 
-## Subject archives
+## Subject archives folders
 
 
 
@@ -26,7 +26,10 @@ fn-stub: about
 
 
 
-In total 25 folders, 146 documents - folders complete.
+
+
+
+In total 25 folders, 146 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -72,6 +75,14 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - n32b Shipping traffic with individual countries [**&nearr;**](../../../subject/i/145645/about.en.html "Shipping traffic with individual countries (all over the world)") [**&uarr;**](../../../subject/about.en.html#n32b "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141014,145645" title="about: Free State of Fiume : Shipping traffic with individual countries" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1410xx/141014/1456xx/145645/about.en.html))
 - [n34 Postal services, telegraphy and telephony]{.gray}
   - n34 Sm1 Wireless telegraphy and telephony, radio [**&nearr;**](../../../subject/i/145663/about.en.html "Wireless telegraphy and telephony, radio (all over the world)") [**&uarr;**](../../../subject/about.en.html#n34_Sm1 "Subject category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141014,145663" title="about: Free State of Fiume : Wireless telegraphy and telephony, radio" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1410xx/141014/1456xx/145663/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "n1 Sm15 Bekämpfung von Mißständen im Gründungswesen"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n1 Sm15]{.gray}&#8201; Bekämpfung von Mißständen im Gründungswesen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104710403)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144948`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144948`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 2 Mappen, 2 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 2 Mappen, 2 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -38,6 +39,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Asien
 
 - B24 Syrien [**&nearr;**](../../../geo/i/141114/about.de.html "Syrien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#B24 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141114,144948" title="über: Syrien : Bekämpfung von Mißständen im Gründungswesen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1411xx/141114/1449xx/144948/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

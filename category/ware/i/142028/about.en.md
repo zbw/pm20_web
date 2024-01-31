@@ -1,6 +1,6 @@
 ---
 title: "Excavator"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Excavator &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q182661) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Excavator)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142028`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142028`</div>
 
 
 
@@ -18,13 +18,15 @@ fn-stub: about
 
 
 
-## Commodities/wares archives
+## Commodities/wares archives folders
 
 
 
 
 
-In total 23 folders, 193 documents - folders complete.
+
+
+In total 23 folders, 193 documents - folders complete until 1949.
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -64,6 +66,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - E20 Mexico [**&nearr;**](../../../geo/i/141657/about.en.html "Mexico (all folders)") [**&uarr;**](../../../geo/about.en.html#E20 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142028,141657" title="about: Excavator : Mexico" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142028/1416xx/141657/about.en.html))
 - E76 Colombia [**&nearr;**](../../../geo/i/141687/about.en.html "Colombia (all folders)") [**&uarr;**](../../../geo/about.en.html#E76 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142028,141687" title="about: Excavator : Colombia" target="_blank">1 documents</a>) ([folder](../../../../folder/wa/1420xx/142028/1416xx/141687/about.en.html))
 - E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142028,141692" title="about: Excavator : Argentina" target="_blank">5 documents</a>) ([folder](../../../../folder/wa/1420xx/142028/1416xx/141692/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

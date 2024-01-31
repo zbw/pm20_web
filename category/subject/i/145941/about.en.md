@@ -1,6 +1,6 @@
 ---
 title: "q Sm1 Alcoholism and its combating"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [q Sm1]{.gray}&#8201; Alcoholism and its combating &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711369)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145941`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145941`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 21 folders, 314 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 21 folders, 315 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -33,7 +34,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145941" title="about: Hamburg : Alcoholism and its combating" target="_blank">9 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1459xx/145941/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145941" title="about: Hamburg : Alcoholism and its combating" target="_blank">10 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1459xx/145941/about.en.html))
 - A10 Germany [**&nearr;**](../../../geo/i/126128/about.en.html "Germany (all folders)") [**&uarr;**](../../../geo/about.en.html#A10 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,145941" title="about: Germany : Alcoholism and its combating" target="_blank">83 documents</a>) ([folder](../../../../folder/sh/1261xx/126128/1459xx/145941/about.en.html))
 - A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140960,145941" title="about: German imperial colonies : Alcoholism and its combating" target="_blank">5 documents</a>) ([folder](../../../../folder/sh/1409xx/140960/1459xx/145941/about.en.html))
 
@@ -66,6 +67,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 - E85 Chile [**&nearr;**](../../../geo/i/141691/about.en.html "Chile (all folders)") [**&uarr;**](../../../geo/about.en.html#E85 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141691,145941" title="about: Chile : Alcoholism and its combating" target="_blank">45 documents</a>) ([folder](../../../../folder/sh/1416xx/141691/1459xx/145941/about.en.html))
 - E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145941" title="about: Argentina : Alcoholism and its combating" target="_blank">37 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1459xx/145941/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

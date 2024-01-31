@@ -1,6 +1,6 @@
 ---
 title: "Avocatbirne"
-modified: 2022-07-17
+modified: 2024-01-19
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # Avocatbirne &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q961769)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/ware/i/142021`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/ware/i/142021`</div>
 
 
 
@@ -18,12 +18,14 @@ fn-stub: about
 
 
 
-## Warenarchiv
+## Warenarchiv Mappen
 
 
 
 
-Insgesamt 14 Mappen, 31 Dokumente - Mappen komplett.
+
+
+Insgesamt 14 Mappen, 31 Dokumente - Mappen bis 1949 komplett.
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -51,10 +53,19 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - E20 Mexiko [**&nearr;**](../../../geo/i/141657/about.de.html "Mexiko (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E20 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142021,141657" title="über: Avocatbirne : Mexiko" target="_blank">4 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142021/1416xx/141657/about.de.html))
 - E24 Kuba [**&nearr;**](../../../geo/i/141659/about.de.html "Kuba (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E24 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142021,141659" title="über: Avocatbirne : Kuba" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142021/1416xx/141659/about.de.html))
 - E27 Britisch-Westindien [**&nearr;**](../../../geo/i/141663/about.de.html "Britisch-Westindien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E27 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142021,141663" title="über: Avocatbirne : Britisch-Westindien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142021/1416xx/141663/about.de.html))
-- E48 Windward islands [**&nearr;**](../../../geo/i/141669/about.de.html "Windward islands (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E48 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142021,141669" title="über: Avocatbirne : Windward islands" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142021/1416xx/141669/about.de.html))
+- E48 Windward Islands [**&nearr;**](../../../geo/i/141669/about.de.html "Windward Islands (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E48 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142021,141669" title="über: Avocatbirne : Windward Islands" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142021/1416xx/141669/about.de.html))
 - E76 Kolumbien [**&nearr;**](../../../geo/i/141687/about.de.html "Kolumbien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E76 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142021,141687" title="über: Avocatbirne : Kolumbien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142021/1416xx/141687/about.de.html))
 - E79 Peru [**&nearr;**](../../../geo/i/141689/about.de.html "Peru (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E79 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142021,141689" title="über: Avocatbirne : Peru" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142021/1416xx/141689/about.de.html))
 - E97 Brasilien [**&nearr;**](../../../geo/i/141697/about.de.html "Brasilien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E97 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/wa/142021,141697" title="über: Avocatbirne : Brasilien" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/wa/1420xx/142021/1416xx/141697/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

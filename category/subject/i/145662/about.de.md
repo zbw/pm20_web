@@ -1,6 +1,6 @@
 ---
 title: "n34 Postwesen, Telegraphenwesen und Fernsprechwesen"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n34]{.gray}&#8201; Postwesen, Telegraphenwesen und Fernsprechwesen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428078)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145662`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145662`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 48 Mappen, 1418 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 47 Mappen, 1419 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -33,8 +34,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - A3 Osteuropa [**&nearr;**](../../../geo/i/140896/about.de.html "Osteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A3 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140896,145662" title="über: Osteuropa : Postwesen, Telegraphenwesen und Fernsprechwesen" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140896/1456xx/145662/about.de.html))
 - A5 Levante [**&nearr;**](../../../geo/i/140898/about.de.html "Levante (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A5 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140898,145662" title="über: Levante : Postwesen, Telegraphenwesen und Fernsprechwesen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140898/1456xx/145662/about.de.html))
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,145662" title="über: Südosteuropa : Postwesen, Telegraphenwesen und Fernsprechwesen" target="_blank">16 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1456xx/145662/about.de.html))
-- A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,145662" title="über: Orient : Postwesen, Telegraphenwesen und Fernsprechwesen" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1456xx/145662/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145662" title="über: Hamburg : Postwesen, Telegraphenwesen und Fernsprechwesen" target="_blank">73 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1456xx/145662/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145662" title="über: Hamburg : Postwesen, Telegraphenwesen und Fernsprechwesen" target="_blank">74 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1456xx/145662/about.de.html))
 - A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,145662" title="über: Deutschland : Postwesen, Telegraphenwesen und Fernsprechwesen" target="_blank">538 Dokumente</a>) ([Mappe](../../../../folder/sh/1261xx/126128/1456xx/145662/about.de.html))
 - A10n(1) Oberschlesien (dt.-poln. Abstimmungsgebiet) [**&nearr;**](../../../geo/i/140948/about.de.html "Oberschlesien (dt.-poln. Abstimmungsgebiet) (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10n(1) "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140948,145662" title="über: Oberschlesien (dt.-poln. Abstimmungsgebiet) : Postwesen, Telegraphenwesen und Fernsprechwesen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140948/1456xx/145662/about.de.html))
 - A10p Polnisch-Schlesien [**&nearr;**](../../../geo/i/140951/about.de.html "Polnisch-Schlesien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10p "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140951,145662" title="über: Polnisch-Schlesien : Postwesen, Telegraphenwesen und Fernsprechwesen" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140951/1456xx/145662/about.de.html))
@@ -90,6 +90,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145662" title="über: Argentinien : Postwesen, Telegraphenwesen und Fernsprechwesen" target="_blank">143 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1456xx/145662/about.de.html))
 - E101 Niederländisch-Guayana [**&nearr;**](../../../geo/i/141699/about.de.html "Niederländisch-Guayana (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E101 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141699,145662" title="über: Niederländisch-Guayana : Postwesen, Telegraphenwesen und Fernsprechwesen" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141699/1456xx/145662/about.de.html))
 - E102 Britisch-Guayana [**&nearr;**](../../../geo/i/141700/about.de.html "Britisch-Guayana (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E102 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141700,145662" title="über: Britisch-Guayana : Postwesen, Telegraphenwesen und Fernsprechwesen" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1417xx/141700/1456xx/145662/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

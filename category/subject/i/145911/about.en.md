@@ -1,6 +1,6 @@
 ---
 title: "o1 Sm500 German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [o1 Sm500]{.gray}&#8201; German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum) &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711343)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145911`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145911`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 68 folders, 5456 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 66 folders, 5461 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -40,7 +41,6 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Asia
 
-- B1 Asia [**&nearr;**](../../../geo/i/141056/about.en.html "Asia (all folders)") [**&uarr;**](../../../geo/about.en.html#B1 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141056,145911" title="about: Asia : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">0 documents</a>) ([folder](../../../../folder/sh/1410xx/141056/1459xx/145911/about.en.html))
 - B6 East Asia [**&nearr;**](../../../geo/i/141062/about.en.html "East Asia (all folders)") [**&uarr;**](../../../geo/about.en.html#B6 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141062,145911" title="about: East Asia : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">40 documents</a>) ([folder](../../../../folder/sh/1410xx/141062/1459xx/145911/about.en.html))
 - B23 Iraq [**&nearr;**](../../../geo/i/141113/about.en.html "Iraq (all folders)") [**&uarr;**](../../../geo/about.en.html#B23 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141113,145911" title="about: Iraq : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">6 documents</a>) ([folder](../../../../folder/sh/1411xx/141113/1459xx/145911/about.en.html))
 - B24 Syria [**&nearr;**](../../../geo/i/141114/about.en.html "Syria (all folders)") [**&uarr;**](../../../geo/about.en.html#B24 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141114,145911" title="about: Syria : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">29 documents</a>) ([folder](../../../../folder/sh/1411xx/141114/1459xx/145911/about.en.html))
@@ -54,7 +54,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - B80c Sabah [**&nearr;**](../../../geo/i/141234/about.en.html "Sabah (all folders)") [**&uarr;**](../../../geo/about.en.html#B80c "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141234,145911" title="about: Sabah : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">10 documents</a>) ([folder](../../../../folder/sh/1412xx/141234/1459xx/145911/about.en.html))
 - B86 Philippines [**&nearr;**](../../../geo/i/141240/about.en.html "Philippines (all folders)") [**&uarr;**](../../../geo/about.en.html#B86 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141240,145911" title="about: Philippines : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">20 documents</a>) ([folder](../../../../folder/sh/1412xx/141240/1459xx/145911/about.en.html))
 - B90 Siam [**&nearr;**](../../../geo/i/141242/about.en.html "Siam (all folders)") [**&uarr;**](../../../geo/about.en.html#B90 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141242,145911" title="about: Siam : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">27 documents</a>) ([folder](../../../../folder/sh/1412xx/141242/1459xx/145911/about.en.html))
-- B94 China [**&nearr;**](../../../geo/i/141253/about.en.html "China (all folders)") [**&uarr;**](../../../geo/about.en.html#B94 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141253,145911" title="about: China : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">724 documents</a>) ([folder](../../../../folder/sh/1412xx/141253/1459xx/145911/about.en.html))
+- B94 China [**&nearr;**](../../../geo/i/141253/about.en.html "China (all folders)") [**&uarr;**](../../../geo/about.en.html#B94 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141253,145911" title="about: China : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">726 documents</a>) ([folder](../../../../folder/sh/1412xx/141253/1459xx/145911/about.en.html))
 - B95 Manchuria [**&nearr;**](../../../geo/i/141258/about.en.html "Manchuria (all folders)") [**&uarr;**](../../../geo/about.en.html#B95 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141258,145911" title="about: Manchuria : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">29 documents</a>) ([folder](../../../../folder/sh/1412xx/141258/1459xx/145911/about.en.html))
 - B99 Mongolia [**&nearr;**](../../../geo/i/141261/about.en.html "Mongolia (all folders)") [**&uarr;**](../../../geo/about.en.html#B99 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141261,145911" title="about: Mongolia : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1412xx/141261/1459xx/145911/about.en.html))
 - B102 Hong Kong [**&nearr;**](../../../geo/i/141268/about.en.html "Hong Kong (all folders)") [**&uarr;**](../../../geo/about.en.html#B102 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141268,145911" title="about: Hong Kong : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">18 documents</a>) ([folder](../../../../folder/sh/1412xx/141268/1459xx/145911/about.en.html))
@@ -78,7 +78,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 - C70 Spanish Guinea [**&nearr;**](../../../geo/i/141412/about.en.html "Spanish Guinea (all folders)") [**&uarr;**](../../../geo/about.en.html#C70 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141412,145911" title="about: Spanish Guinea : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">10 documents</a>) ([folder](../../../../folder/sh/1414xx/141412/1459xx/145911/about.en.html))
 - C80 Belgian Congo [**&nearr;**](../../../geo/i/141444/about.en.html "Belgian Congo (all folders)") [**&uarr;**](../../../geo/about.en.html#C80 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141444,145911" title="about: Belgian Congo : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">2 documents</a>) ([folder](../../../../folder/sh/1414xx/141444/1459xx/145911/about.en.html))
 - C85 Portuguese Angola [**&nearr;**](../../../geo/i/141449/about.en.html "Portuguese Angola (all folders)") [**&uarr;**](../../../geo/about.en.html#C85 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141449,145911" title="about: Portuguese Angola : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">18 documents</a>) ([folder](../../../../folder/sh/1414xx/141449/1459xx/145911/about.en.html))
-- C87 German South-West Africa [**&nearr;**](../../../geo/i/141450/about.en.html "German South-West Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C87 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141450,145911" title="about: German South-West Africa : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">651 documents</a>) ([folder](../../../../folder/sh/1414xx/141450/1459xx/145911/about.en.html))
+- C87 German South-West Africa [**&nearr;**](../../../geo/i/141450/about.en.html "German South-West Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C87 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141450,145911" title="about: German South-West Africa : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">652 documents</a>) ([folder](../../../../folder/sh/1414xx/141450/1459xx/145911/about.en.html))
 - C93 Union of South Africa [**&nearr;**](../../../geo/i/141454/about.en.html "Union of South Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C93 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141454,145911" title="about: Union of South Africa : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">232 documents</a>) ([folder](../../../../folder/sh/1414xx/141454/1459xx/145911/about.en.html))
 - C100 Portuguese Mozambique [**&nearr;**](../../../geo/i/141463/about.en.html "Portuguese Mozambique (all folders)") [**&uarr;**](../../../geo/about.en.html#C100 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141463,145911" title="about: Portuguese Mozambique : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">6 documents</a>) ([folder](../../../../folder/sh/1414xx/141463/1459xx/145911/about.en.html))
 - C102 Madagascar [**&nearr;**](../../../geo/i/141464/about.en.html "Madagascar (all folders)") [**&uarr;**](../../../geo/about.en.html#C102 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141464,145911" title="about: Madagascar : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1414xx/141464/1459xx/145911/about.en.html))
@@ -100,8 +100,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### America
 
 - E8 Canada [**&nearr;**](../../../geo/i/141644/about.en.html "Canada (all folders)") [**&uarr;**](../../../geo/about.en.html#E8 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141644,145911" title="about: Canada : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">103 documents</a>) ([folder](../../../../folder/sh/1416xx/141644/1459xx/145911/about.en.html))
-- E15 United States [**&nearr;**](../../../geo/i/141653/about.en.html "United States (all folders)") [**&uarr;**](../../../geo/about.en.html#E15 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141653,145911" title="about: United States : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">344 documents</a>) ([folder](../../../../folder/sh/1416xx/141653/1459xx/145911/about.en.html))
-- E61 West Indies [**&nearr;**](../../../geo/i/141677/about.en.html "West Indies (all folders)") [**&uarr;**](../../../geo/about.en.html#E61 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141677,145911" title="about: West Indies : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">0 documents</a>) ([folder](../../../../folder/sh/1416xx/141677/1459xx/145911/about.en.html))
+- E15 United States [**&nearr;**](../../../geo/i/141653/about.en.html "United States (all folders)") [**&uarr;**](../../../geo/about.en.html#E15 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141653,145911" title="about: United States : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">346 documents</a>) ([folder](../../../../folder/sh/1416xx/141653/1459xx/145911/about.en.html))
 - E75 Venezuela [**&nearr;**](../../../geo/i/141686/about.en.html "Venezuela (all folders)") [**&uarr;**](../../../geo/about.en.html#E75 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141686,145911" title="about: Venezuela : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">5 documents</a>) ([folder](../../../../folder/sh/1416xx/141686/1459xx/145911/about.en.html))
 - E76 Colombia [**&nearr;**](../../../geo/i/141687/about.en.html "Colombia (all folders)") [**&uarr;**](../../../geo/about.en.html#E76 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141687,145911" title="about: Colombia : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">21 documents</a>) ([folder](../../../../folder/sh/1416xx/141687/1459xx/145911/about.en.html))
 - E77 Ecuador [**&nearr;**](../../../geo/i/141688/about.en.html "Ecuador (all folders)") [**&uarr;**](../../../geo/about.en.html#E77 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141688,145911" title="about: Ecuador : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">9 documents</a>) ([folder](../../../../folder/sh/1416xx/141688/1459xx/145911/about.en.html))
@@ -119,6 +118,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### World
 
 - H World [**&nearr;**](../../../geo/i/141728/about.en.html "World (all folders)") [**&uarr;**](../../../geo/about.en.html#H "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141728,145911" title="about: World : German minorities and Germanness (Forschungsstelle für das Übersee-Deutschtum)" target="_blank">572 documents</a>) ([folder](../../../../folder/sh/1417xx/141728/1459xx/145911/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

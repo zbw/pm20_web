@@ -1,6 +1,6 @@
 ---
 title: "n28 Sm5 Konkurrenz und Zusammenarbeit der verschiedenartigen Verkehrsmittel"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n28 Sm5]{.gray}&#8201; Konkurrenz und Zusammenarbeit der verschiedenartigen Verkehrsmittel &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711095)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145516`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145516`</div>
 
 
 
@@ -18,20 +18,20 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 13 Mappen, 126 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 12 Mappen, 126 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
 
 
 - A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145516" title="über: Europa : Konkurrenz und Zusammenarbeit der verschiedenartigen Verkehrsmittel" target="_blank">13 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1455xx/145516/about.de.html))
-- A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,145516" title="über: Orient : Konkurrenz und Zusammenarbeit der verschiedenartigen Verkehrsmittel" target="_blank">0 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1455xx/145516/about.de.html))
 - A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145516" title="über: Hamburg : Konkurrenz und Zusammenarbeit der verschiedenartigen Verkehrsmittel" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1455xx/145516/about.de.html))
 - A11 Deutsche Kolonien [**&nearr;**](../../../geo/i/140960/about.de.html "Deutsche Kolonien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A11 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140960,145516" title="über: Deutsche Kolonien : Konkurrenz und Zusammenarbeit der verschiedenartigen Verkehrsmittel" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140960/1455xx/145516/about.de.html))
 
@@ -52,6 +52,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145516" title="über: Argentinien : Konkurrenz und Zusammenarbeit der verschiedenartigen Verkehrsmittel" target="_blank">66 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1455xx/145516/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: "c Sm20 Landeskunde, Konferenzen"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [c Sm20]{.gray}&#8201; Landeskunde, Konferenzen &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104699233)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/182723`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/182723`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 4 Mappen, 26 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 4 Mappen, 28 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -33,7 +34,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 ### Europa
 
-- A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,182723" title="über: Deutschland : Landeskunde, Konferenzen" target="_blank">6 Dokumente</a>) ([Mappe](../../../../folder/sh/1261xx/126128/1827xx/182723/about.de.html))
+- A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,182723" title="über: Deutschland : Landeskunde, Konferenzen" target="_blank">8 Dokumente</a>) ([Mappe](../../../../folder/sh/1261xx/126128/1827xx/182723/about.de.html))
 
 ### Amerika
 
@@ -46,6 +47,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Welt
 
 - H Welt [**&nearr;**](../../../geo/i/141728/about.de.html "Welt (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#H "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141728,182723" title="über: Welt : Landeskunde, Konferenzen" target="_blank">5 Dokumente</a>) ([Mappe](../../../../folder/sh/1417xx/141728/1827xx/182723/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

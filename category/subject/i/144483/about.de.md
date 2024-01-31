@@ -1,6 +1,6 @@
 ---
 title: "g4 Sm3.II Staatliche Wirtschaftspropaganda, Ausstellungen und Messen, Allgemein"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [g4 Sm3.II]{.gray}&#8201; Staatliche Wirtschaftspropaganda, Ausstellungen und Messen, Allgemein &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700005)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144483`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144483`</div>
 
 
 
@@ -18,13 +18,14 @@ fn-stub: about
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 12 Mappen, 508 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 12 Mappen, 536 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -36,7 +37,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 - A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,144483" title="über: Europa : Staatliche Wirtschaftspropaganda, Ausstellungen und Messen, Allgemein" target="_blank">2 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1444xx/144483/about.de.html))
 - A5 Levante [**&nearr;**](../../../geo/i/140898/about.de.html "Levante (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A5 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140898,144483" title="über: Levante : Staatliche Wirtschaftspropaganda, Ausstellungen und Messen, Allgemein" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140898/1444xx/144483/about.de.html))
 - A6 Südosteuropa [**&nearr;**](../../../geo/i/140900/about.de.html "Südosteuropa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A6 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140900,144483" title="über: Südosteuropa : Staatliche Wirtschaftspropaganda, Ausstellungen und Messen, Allgemein" target="_blank">3 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140900/1444xx/144483/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144483" title="über: Hamburg : Staatliche Wirtschaftspropaganda, Ausstellungen und Messen, Allgemein" target="_blank">310 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1444xx/144483/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144483" title="über: Hamburg : Staatliche Wirtschaftspropaganda, Ausstellungen und Messen, Allgemein" target="_blank">338 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1444xx/144483/about.de.html))
 
 ### Asien
 
@@ -57,6 +58,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 ### Amerika
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144483" title="über: Argentinien : Staatliche Wirtschaftspropaganda, Ausstellungen und Messen, Allgemein" target="_blank">31 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1444xx/144483/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

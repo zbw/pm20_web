@@ -1,6 +1,6 @@
 ---
 title: "k2 Sm1 Elementary schools"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -8,24 +8,25 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [k2 Sm1]{.gray}&#8201; Elementary schools &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104700192)
+# [k2 Sm1]{.gray}&#8201; Elementary schools &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q1327798)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/144740`</div>
-
-
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/144740`</div>
 
 
 
 
 
-## Countries-subject archives
+
+
+## Countries-subject archives folders
 
 
 
 
 
-In total 6 folders, 149 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 6 folders, 155 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -33,7 +34,7 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 ### Europe
 
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144740" title="about: Hamburg : Elementary schools" target="_blank">88 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1447xx/144740/about.en.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.en.html "Hamburg (all folders)") [**&uarr;**](../../../geo/about.en.html#A9 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,144740" title="about: Hamburg : Elementary schools" target="_blank">94 documents</a>) ([folder](../../../../folder/sh/1409xx/140905/1447xx/144740/about.en.html))
 - A11 German imperial colonies [**&nearr;**](../../../geo/i/140960/about.en.html "German imperial colonies (all folders)") [**&uarr;**](../../../geo/about.en.html#A11 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140960,144740" title="about: German imperial colonies : Elementary schools" target="_blank">10 documents</a>) ([folder](../../../../folder/sh/1409xx/140960/1447xx/144740/about.en.html))
 
 ### Asia
@@ -45,6 +46,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 ### America
 
 - E86 Argentina [**&nearr;**](../../../geo/i/141692/about.en.html "Argentina (all folders)") [**&uarr;**](../../../geo/about.en.html#E86 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,144740" title="about: Argentina : Elementary schools" target="_blank">30 documents</a>) ([folder](../../../../folder/sh/1416xx/141692/1447xx/144740/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

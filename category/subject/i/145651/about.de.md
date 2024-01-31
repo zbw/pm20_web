@@ -1,6 +1,6 @@
 ---
 title: "n33a Einzelne Binnenschiffahrtsstrassen und Seekanäle"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.de.html
 backlink-title: "Systematik-Übersicht"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n33a]{.gray}&#8201; Einzelne Binnenschiffahrtsstrassen und Seekanäle &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q99428076)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/145651`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/145651`</div>
 
 <div class="hint">
 Scope Note: einschl. Wasserwirtschaftliches und Schiffahrt
@@ -20,13 +20,14 @@ Scope Note: einschl. Wasserwirtschaftliches und Schiffahrt
 
 
 
-## Länder-Sacharchiv
+## Länder-Sacharchiv Mappen
 
 
 
 
-Insgesamt 17 Mappen, 1898 Dokumente - Mappen unvollständig.
-Nicht als Mappe aufbereitetes Material finden Sie unter [digitalisierte Microfilme](/film/h1_sh.de.html).
+
+
+Insgesamt 17 Mappen, 1900 Dokumente - Mappen unvollständig. Weiteres Material auf digitalisiertem Mikrofilm [siehe unten](#filmsections).
 
 _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" für Mappeninformation._
 
@@ -34,7 +35,7 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - A1 Europa [**&nearr;**](../../../geo/i/140892/about.de.html "Europa (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A1 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140892,145651" title="über: Europa : Einzelne Binnenschiffahrtsstrassen und Seekanäle" target="_blank">46 Dokumente</a>) ([Mappe](../../../../folder/sh/1408xx/140892/1456xx/145651/about.de.html))
 - A7 Orient [**&nearr;**](../../../geo/i/140902/about.de.html "Orient (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A7 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140902,145651" title="über: Orient : Einzelne Binnenschiffahrtsstrassen und Seekanäle" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140902/1456xx/145651/about.de.html))
-- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145651" title="über: Hamburg : Einzelne Binnenschiffahrtsstrassen und Seekanäle" target="_blank">47 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1456xx/145651/about.de.html))
+- A9 Hamburg [**&nearr;**](../../../geo/i/140905/about.de.html "Hamburg (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A9 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/140905,145651" title="über: Hamburg : Einzelne Binnenschiffahrtsstrassen und Seekanäle" target="_blank">49 Dokumente</a>) ([Mappe](../../../../folder/sh/1409xx/140905/1456xx/145651/about.de.html))
 - A10 Deutschland [**&nearr;**](../../../geo/i/126128/about.de.html "Deutschland (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#A10 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/126128,145651" title="über: Deutschland : Einzelne Binnenschiffahrtsstrassen und Seekanäle" target="_blank">1625 Dokumente</a>) ([Mappe](../../../../folder/sh/1261xx/126128/1456xx/145651/about.de.html))
 
 ### Asien
@@ -58,6 +59,15 @@ _Klicken Sie "(xy Dokumente)" für die Dokumentanzeige im Viewer und "(Mappe)" f
 
 - E86 Argentinien [**&nearr;**](../../../geo/i/141692/about.de.html "Argentinien (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E86 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141692,145651" title="über: Argentinien : Einzelne Binnenschiffahrtsstrassen und Seekanäle" target="_blank">100 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141692/1456xx/145651/about.de.html))
 - E101 Niederländisch-Guayana [**&nearr;**](../../../geo/i/141699/about.de.html "Niederländisch-Guayana (alle Mappen)") [**&uarr;**](../../../geo/about.de.html#E101 "Ländersystematik") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141699,145651" title="über: Niederländisch-Guayana : Einzelne Binnenschiffahrtsstrassen und Seekanäle" target="_blank">1 Dokumente</a>) ([Mappe](../../../../folder/sh/1416xx/141699/1456xx/145651/about.de.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

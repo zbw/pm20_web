@@ -1,6 +1,6 @@
 ---
 title: "n24 Sm11 Postal check transactions, postal savings banks"
-modified: 2021-03-13
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 
 # [n24 Sm11]{.gray}&#8201; Postal check transactions, postal savings banks &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q104711006)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/subject/i/161744`</div>
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/subject/i/161744`</div>
 
 
 
@@ -18,14 +18,15 @@ fn-stub: about
 
 
 
-## Countries-subject archives
+## Countries-subject archives folders
 
 
 
 
 
-In total 6 folders, 14 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_sh.de.html) (in German).
+
+
+In total 6 folders, 14 documents - folders incomplete. Further material on digitized microfilm [see below](#filmsections).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
@@ -45,6 +46,15 @@ _For direct access to the documents, click the "(xy documents)" link, for folder
 
 - C25 French protectorate in Morocco [**&nearr;**](../../../geo/i/141358/about.en.html "French protectorate in Morocco (all folders)") [**&uarr;**](../../../geo/about.en.html#C25 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141358,161744" title="about: French protectorate in Morocco : Postal check transactions, postal savings banks" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1413xx/141358/1617xx/161744/about.en.html))
 - C87 German South-West Africa [**&nearr;**](../../../geo/i/141450/about.en.html "German South-West Africa (all folders)") [**&uarr;**](../../../geo/about.en.html#C87 "Country category system") (<a href="https://pm20.zbw.eu/iiifview/folder/sh/141450,161744" title="about: German South-West Africa : Postal check transactions, postal savings banks" target="_blank">1 documents</a>) ([folder](../../../../folder/sh/1414xx/141450/1617xx/161744/about.en.html))
+
+
+
+<a id="filmsections" />
+
+
+
+
+
 
 
 

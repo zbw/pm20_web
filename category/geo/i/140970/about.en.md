@@ -1,6 +1,6 @@
 ---
 title: "A19 Netherlands"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -8,17 +8,107 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A19]{.gray}&#8201; Netherlands
+# [A19]{.gray}&#8201; Netherlands &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q55) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Netherlands)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/140970`</div>
-
-
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/140970`</div>
 
 
 
 
 
-## Commodities/wares archives
+[Subject archives](#subject-archives-folders) &#160; [Commodities/wares archives](#commoditieswares-archives-folders)
+
+
+
+
+## Subject archives folders
+
+
+
+
+
+
+
+
+No material prepared as folder.
+
+
+
+<a id="filmsections" />
+
+## Sections of digitized microfilms (1st filming 1908-1949)
+
+<p>For intellectual property law reasons accessible only from the European Union legal area and from the ZBW reading room.</p>
+
+
+
+<p>Total number of images: 11075</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0067H/0852/L" rel="nofollow">Images on film h1/sh/S0067H/0852/L</a> | Deutschland (bis 1945) : Diplomatische und konsularische Vertretungen in einzelnen Ländern
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0070H_1/0266/R" rel="nofollow">Images on film h1/sh/S0070H_1/0266/R</a> | Deutschland (bis 1945): Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen Belgiens
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0070H_1/0278/R" rel="nofollow">Images on film h1/sh/S0070H_1/0278/R</a> | Deutschland (bis 1945): Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen Chinas
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0258H/0749" rel="nofollow">Images on film h1/sh/S0258H/0749</a> | Niederlande
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0259H_1" rel="nofollow">Images on film h1/sh/S0259H_1</a> | Filmanfang: Niederlande : Medizinalwesen, Hygiene, Sanitäre Einrichtungen l 40 [A19 e4 l 40]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0260H_1" rel="nofollow">Images on film h1/sh/S0260H_1</a> | Filmanfang: Niederlande : Neutralität [A19 g Sm1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0261H" rel="nofollow">Images on film h1/sh/S0261H</a> | Filmanfang: Niederlande : Handelspolitische und zollrechtliche Massnahmen aus dem Deutschen Handelsarchiv [A19 g4 Sm21]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0262H" rel="nofollow">Images on film h1/sh/S0262H</a> | Filmanfang: Niederlande : Wirtschaftspolitische Beziehungen zu einzelnen Ländern Siam [A19 g4a Siam]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0263H_1" rel="nofollow">Images on film h1/sh/S0263H_1</a> | Filmanfang: Niederlande : Schutz gegen Luftangriffe [A19 l4 Sm2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0264H_1" rel="nofollow">Images on film h1/sh/S0264H_1</a> | Filmanfang: Niederlande : Wirtschaft, Allgemein [A19 n]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0265H_1" rel="nofollow">Images on film h1/sh/S0265H_1</a> | Filmanfang: Niederlande : Berichte über die wirtschaftliche Lage [A19 n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0266H_1" rel="nofollow">Images on film h1/sh/S0266H_1</a> | Filmanfang: Niederlande : Bodenbesitzverhältnisse und Bodenpolitik, Hausbesitz [A19 n3]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0267H_1" rel="nofollow">Images on film h1/sh/S0267H_1</a> | Filmanfang: Niederlande : Industrie [A19 n13]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0268H_1" rel="nofollow">Images on film h1/sh/S0268H_1</a> | Filmanfang: Niederlande : Bauwesen und Wohnungswesen [A19 n17]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0269H" rel="nofollow">Images on film h1/sh/S0269H</a> | Filmanfang: Niederlande : Kunst und Literatur (Wirtschaftsverhältnisse) L50 [A19 n21 L50]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0270H_1" rel="nofollow">Images on film h1/sh/S0270H_1</a> | Filmanfang: Niederlande : Kommunales Verkehrswesen [A19 n28 Sm3]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0271H" rel="nofollow">Images on film h1/sh/S0271H</a> | Filmanfang: Niederlande : Seeschiffahrt Rotterdam Sm27 [A19 n32 Rotterdam Sm27]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0272H_1" rel="nofollow">Images on film h1/sh/S0272H_1</a> | Filmanfang: Niederlande : Sozialversicherung II [A19 n37a Sm2 II]
+
+
+:::
+
+
+
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 15601</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2306H/1128" rel="nofollow">Images on film h2/sh/S2306H/1128</a> | Niederlande
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2307H" rel="nofollow">Images on film h2/sh/S2307H</a> | Filmanfang: Niederlande : Land und Leute, Politik und Wirtschaft, Allgemein [A19 b]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2308H" rel="nofollow">Images on film h2/sh/S2308H</a> | Filmanfang: Niederlande : Politische Beziehungen zu einzelnen Ländern Sm [A19 g1 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2309H" rel="nofollow">Images on film h2/sh/S2309H</a> | Filmanfang: Niederlande : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein Sm5-50 [A19 g4 Sm5-50]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2310H" rel="nofollow">Images on film h2/sh/S2310H</a> | Filmanfang: Niederlande : Wirtschaftspolitische Beziehungen zu einzelnen Ländern [A19 g4a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2311H" rel="nofollow">Images on film h2/sh/S2311H</a> | Filmanfang: Niederlande : Besoldung, Pensionen, Kriegsunterstützungen, Versorgung ehemaliger Soldaten [A19 l7]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2312H" rel="nofollow">Images on film h2/sh/S2312H</a> | Filmanfang: Niederlande : Zahlungsbilanz [A19 n Sm2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2313H" rel="nofollow">Images on film h2/sh/S2313H</a> | Filmanfang: Niederlande : Berichte über die wirtschaftliche Lage [A19 n2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2314H" rel="nofollow">Images on film h2/sh/S2314H</a> | Filmanfang: Niederlande : Übersichten der Preisentwicklung [A19 n2 Sm11]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2315H" rel="nofollow">Images on film h2/sh/S2315H</a> | Filmanfang: Niederlande : Ödland und Moorkultur [A19 n4 Sm2]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2316H" rel="nofollow">Images on film h2/sh/S2316H</a> | Filmanfang: Niederlande : Industrie [A19 n13]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2317H" rel="nofollow">Images on film h2/sh/S2317H</a> | Filmanfang: Niederlande : Handel [A19 n18]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2318H" rel="nofollow">Images on film h2/sh/S2318H</a> | Filmanfang: Niederlande : Geld und Währung [A19 n23]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2319H" rel="nofollow">Images on film h2/sh/S2319H</a> | Filmanfang: Niederlande : Bau, Ausbau, wirtschaftliche Förderung und Verwaltung einzelner Häfen [A19 n31a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2320H" rel="nofollow">Images on film h2/sh/S2320H</a> | Filmanfang: Niederlande : Binnenschiffahrt [A19 n33]
+
+
+:::
 
 
 
@@ -28,8 +118,27 @@ fn-stub: about
 
 
 
-In total 41 folders, 1388 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_wa.de.html) (in German).
+
+
+
+
+
+## Commodities/wares archives folders
+
+
+
+
+
+
+
+
+
+
+
+In total 41 folders (until 1949), 1388 documents
+- folders incomplete.  For material not published as folders, please check the
+digitized micro-films of the [1st filming](/film/h1_wa.de.html) and [2nd
+filming](/film/h2_wa.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 

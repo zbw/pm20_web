@@ -1,6 +1,6 @@
 ---
 title: "A34 Switzerland"
-modified: 2022-07-17
+modified: 2024-01-13
 backlink: ../../about.en.html
 backlink-title: "Category Overview"
 fn-stub: about
@@ -8,17 +8,110 @@ fn-stub: about
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
 
-# [A34]{.gray}&#8201; Switzerland
+# [A34]{.gray}&#8201; Switzerland &#160; [![Wikidata](/images/Wikidata-logo.svg "Wikidata"){.inline-icon}](http://www.wikidata.org/entity/Q39) [![Wikipedia](/images/Wikipedia-W.svg "Wikipedia"){.inline-icon}](https://en.wikipedia.org/wiki/Switzerland)
 
-<div class="hint">Persistent Identifier: `http://purl.org/pressemappe20/category/geo/i/141007`</div>
-
-
+<div class="hint">Persistent Identifier: `https://pm20.zbw.eu/category/geo/i/141007`</div>
 
 
 
 
 
-## Commodities/wares archives
+[Subject archives](#subject-archives-folders) &#160; [Commodities/wares archives](#commoditieswares-archives-folders)
+
+
+
+
+## Subject archives folders
+
+
+
+
+
+
+
+
+No material prepared as folder.
+
+
+
+<a id="filmsections" />
+
+## Sections of digitized microfilms (1st filming 1908-1949)
+
+<p>For intellectual property law reasons accessible only from the European Union legal area and from the ZBW reading room.</p>
+
+
+
+<p>Total number of images: 19236</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0449H/0634" rel="nofollow">Images on film h1/sh/S0449H/0634</a> | Schweiz
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0450H" rel="nofollow">Images on film h1/sh/S0450H</a> | Filmanfang: Schweiz : Medizinalwesen, Hygiene, Sanitäre Einrichtungen [A34 e4]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0451H" rel="nofollow">Images on film h1/sh/S0451H</a> | Filmanfang: Schweiz : Parteiwesen [A34 f5]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0452H" rel="nofollow">Images on film h1/sh/S0452H</a> | Filmanfang: Schweiz : Verhandlungen von parlamentarischen und politischen Körperschaften Ständerat [A34 f6 Ständerat]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0453H" rel="nofollow">Images on film h1/sh/S0453H</a> | Filmanfang: Schweiz : Staatliche Wirtschaftspropaganda II [A34 g4 Sm3 II]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0454H" rel="nofollow">Images on film h1/sh/S0454H</a> | Filmanfang: Schweiz : Zivilrecht [A34 i2]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0455H" rel="nofollow">Images on film h1/sh/S0455H</a> | Filmanfang: Schweiz : Staatshaushalt [A34 m1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0456H" rel="nofollow">Images on film h1/sh/S0456H</a> | Filmanfang: Schweiz : Nationale Kapitalanlagen I [A34 n Sm6 I]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0457H" rel="nofollow">Images on film h1/sh/S0457H</a> | Filmanfang: Schweiz : Sicherung und Überwachung der Volksernährung [A34 n1 Sm19]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0458H" rel="nofollow">Images on film h1/sh/S0458H</a> | Filmanfang: Schweiz : Indexziffern IIId [A34 n2 Sm9 IIId]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0459H" rel="nofollow">Images on film h1/sh/S0459H</a> | Filmanfang: Schweiz : Industrie [A34 n13]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0460H" rel="nofollow">Images on film h1/sh/S0460H</a> | Filmanfang: Schweiz : Regelung der Arbeitszeit, Löhne II [A34 n15 Sm7 II]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0461H" rel="nofollow">Images on film h1/sh/S0461H</a> | Filmanfang: Schweiz : Grossbetriebe im Kleinhandel [A34 n20 Sm3]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0462H" rel="nofollow">Images on film h1/sh/S0462H</a> | Filmanfang: Schweiz : Verkehrswesen, Allgemein [A34 n28]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0463H" rel="nofollow">Images on film h1/sh/S0463H</a> | Filmanfang: Schweiz : Eisenbahnwesen, Finanzielles. Lage und Statistik der Privat-Eisenbahnunternehmungen [A34 n30 Sm1]
+<a class="btn" href="https://pm20.zbw.eu/film/h1/sh/S0464H" rel="nofollow">Images on film h1/sh/S0464H</a> | Filmanfang: Schweiz : Lufthafen II Zürich [A34 n35 Sm2 II Zürich]
+
+
+:::
+
+
+
+
+## Sections of digitized microfilms (2nd filming 1950-1960)
+
+<p>For intellectual property law reasons accessible only from ZBW reading room.</p>
+
+
+
+<p>Total number of images: 21850</p>
+
+
+
+
+::: {.sectiontable}
+
+ | 
+----|-------
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2464H/0125" rel="nofollow">Images on film h2/sh/S2464H/0125</a> | Schweiz
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2465H" rel="nofollow">Images on film h2/sh/S2465H</a> | Filmanfang: Schweiz : Geschichtliche Vorgänge Sm- f 2 a [A34 f2 Sm - f 2 a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2466H" rel="nofollow">Images on film h2/sh/S2466H</a> | Filmanfang: Schweiz : Verhandlungen von parlamentarischen und politischen Körperschaften - g Sm [A34 f6 - g Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2467H" rel="nofollow">Images on film h2/sh/S2467H</a> | Filmanfang: Schweiz : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein Sm4-50 [A34 g4 Sm4-50]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2468H" rel="nofollow">Images on film h2/sh/S2468H</a> | Filmanfang: Schweiz : h-k 5 a [A34 h-k 5 a]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2469H" rel="nofollow">Images on film h2/sh/S2469H</a> | Filmanfang: Schweiz : k-k1 Sm5 [A34 k-k1 Sm5]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2470H" rel="nofollow">Images on film h2/sh/S2470H</a> | Filmanfang: Schweiz : Finanzwesen, Allgemein [A34 m]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2471H" rel="nofollow">Images on film h2/sh/S2471H</a> | Filmanfang: Schweiz : Zollwesen, Zolltarife + Sm [A34 m2 + Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2472H" rel="nofollow">Images on film h2/sh/S2472H</a> | Filmanfang: Schweiz : Zahlungsbilanz, Allgemein [A34 n Sm2.I]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2473H" rel="nofollow">Images on film h2/sh/S2473H</a> | Filmanfang: Schweiz : Wirtschaftspolitik Sm [A34 n1 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2474H" rel="nofollow">Images on film h2/sh/S2474H</a> | Filmanfang: Schweiz : Berichte über die wirtschaftliche Lage Sm [A34 n2 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2475H" rel="nofollow">Images on film h2/sh/S2475H</a> | Filmanfang: Schweiz : Landwirtschaft [A34 n4]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2476H" rel="nofollow">Images on film h2/sh/S2476H</a> | Filmanfang: Schweiz : Einzelne Industriezweige Sm [A34 n13a Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2477H" rel="nofollow">Images on film h2/sh/S2477H</a> | Filmanfang: Schweiz : Arbeiterfrage, Arbeitsverhältnisse, Allgemein Sm [A34 n15 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2478H" rel="nofollow">Images on film h2/sh/S2478H</a> | Filmanfang: Schweiz : Handel [A34 n18]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2479H" rel="nofollow">Images on film h2/sh/S2479H</a> | Filmanfang: Schweiz : Kreditwesen und Bankwesen Sm [A34 n24 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2480H" rel="nofollow">Images on film h2/sh/S2480H</a> | Filmanfang: Schweiz : Verkehrswesen, Allgemein Sm [A34 n28 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2481H" rel="nofollow">Images on film h2/sh/S2481H</a> | Filmanfang: Schweiz : Eisenbahnwesen Sm [A34 n30 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2482H" rel="nofollow">Images on film h2/sh/S2482H</a> | Filmanfang: Schweiz : Luftschiffahrt, Flugwesen, Luftverkehr, Allgemein Sm [A34 n35 Sm]
+<a class="btn" href="https://pm20.zbw.eu/film/h2/sh/S2483H" rel="nofollow">Images on film h2/sh/S2483H</a> | Filmanfang: Schweiz : Einzelfragen politischer und wirtschaftlicher Natur Nr. 1 [A34 q Nr. 1]
+
+
+:::
 
 
 
@@ -28,8 +121,27 @@ fn-stub: about
 
 
 
-In total 40 folders, 1320 documents - folders incomplete.
-For material not published as folders, please check the [digitized micro-films](/film/h1_wa.de.html) (in German).
+
+
+
+
+
+## Commodities/wares archives folders
+
+
+
+
+
+
+
+
+
+
+
+In total 40 folders (until 1949), 1320 documents
+- folders incomplete.  For material not published as folders, please check the
+digitized micro-films of the [1st filming](/film/h1_wa.de.html) and [2nd
+filming](/film/h2_wa.de.html) (in German).
 
 _For direct access to the documents, click the "(xy documents)" link, for folder information use the "(folder)" link._
 
