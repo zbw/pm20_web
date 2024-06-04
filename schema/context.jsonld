@@ -17,6 +17,10 @@
     "PersonFolder" : "zbwext:PersonFolder",
     "SubjectFolder" : "zbwext:SubjectFolder",
     "WareFolder" : "zbwext:WareFolder",
+    "Pm20FilmSet" : "zbwext:Pm20FilmSet",
+    "Pm20FilmSubset" : "zbwext:Pm20FilmSubset",
+    "Pm20Film" : "zbwext:Pm20Film",
+    "Pm20FilmItem" : "zbwext:Pm20FilmItem",
     "viewUrl" : {
       "@id" : "zbwext:viewUrl",
       "@type":"@id"
@@ -41,19 +45,10 @@
       "@id" : "schema:industry",
       "@container" : "@set"
     },
-    "altLabel" : {
-      "@id" : "skos:altLabel",
-      "@container" : "@set"
-    },
     "temporal" : {
       "@id" : "dct:temporal",
       "@container" : "@set"
     },
-    "note" : {
-      "@id" : "skos:note",
-      "@container" : "@set"
-    },
-    "prefLabel" : "skos:prefLabel",
     "organizationType" : "dc:type",
     "identifier" : "dct:identifier",
     "modified" : "dct:modified",
@@ -117,31 +112,92 @@
       "@id" : "gn:locatedIn",
       "@container" : "@set"
     },
+    "wikipediaArticle" : {
+      "@id" : "gn:wikipediaArticle",
+      "@container" : "@set"
+    },
     "hasNACECode" : {
       "@id" : "esco:hasNACECode",
+      "@container" : "@set"
+    },
+    "ConceptScheme" : {
+      "@id" : "skos:ConceptScheme",
+      "@container" : "@set"
+    },
+    "Concept" : {
+      "@id" : "skos:Concept",
+      "@container" : "@set"
+    },
+    "hasTopConcept" : {
+      "@id" : "skos:hasTopConcept",
+      "@container" : "@set"
+    },
+    "topConceptOf" : {
+      "@id" : "skos:topConceptOf",
+      "@container" : "@set"
+    },
+    "prefLabel" : "skos:prefLabel",
+    "altLabel" : {
+      "@id" : "skos:altLabel",
+      "@container" : "@set"
+    },
+    "notation" : "skos:notation",
+    "broader" : {
+      "@id" : "skos:broader",
+      "@container" : "@set"
+    },
+    "narrower" : {
+      "@id" : "skos:narrower",
       "@container" : "@set"
     },
     "exactMatch" : {
       "@id" : "skos:exactMatch",
       "@container" : "@set"
     },
-
-    "label" : "rdfs:label",
-    "fromTo" : "zbwext:fromTo",
-    "totalDocCount" : "zbwext:totalDocCount",
-    "freeDocCount" : "zbwext:freeDocCount",
-    "reportCount" : "zbwext:reportCount",
+    "note" : {
+      "@id" : "skos:note",
+      "@container" : "@set"
+    },
+    "definition" : {
+      "@id" : "skos:definition",
+      "@container" : "@set"
+    },
+    "scopeNote" : {
+      "@id" : "skos:scopeNote",
+      "@container" : "@set"
+    },
     "editorialNote" : {
       "@id" : "skos:editorialNote",
       "@container" : "@set"
     },
-    "notation" : "skos:notation",
+    "inScheme" : {
+      "@id" : "skos:inScheme",
+      "@container" : "@set"
+    },
+
+    "label" : "rdfs:label",
+    "fromTo" : "zbwext:fromTo",
+    "notationLong" : "zbwext:notationLong",
+    "folderCount" : "zbwext:folderCount",
+    "shFolderCount" : "zbwext:shFolderCount",
+    "waFolderCount" : "zbwext:waFolderCount",
+    "foldersComplete" : "zbwext:foldersComplete",
+    "geoCategoryType" : "zbwext:geoCategoryType",
+    "totalDocCount" : "zbwext:totalDocCount",
+    "freeDocCount" : "zbwext:freeDocCount",
+    "reportCount" : "zbwext:reportCount",
+    "totalImageCount" : "zbwext:totalImageCount",
     "country" : "zbwext:country",
     "subject" : "zbwext:subject",
     "ware" : "zbwext:ware",
     "adjustedLabel" : "zbwext:adjustedLabel",
     "adjustedAltLabel" : "zbwext:adjustedAltLabel",
     "wpLinkOrig" : "zbwext:wpLinkOrig",
+    "startDate" : "schema:startDate",
+    "provenance" : "dct:provenance",
+    "source" : "dct:source",
+    "title" : "dct:title",
+    "available" : "dct:available",
     "hasCountryCode" : "frapo:hasCountryCode"
   }
 }
