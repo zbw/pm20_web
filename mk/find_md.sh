@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 # nbt, 16.11.2021
 
 # find markdown files in  all or portions of the web directory tree
