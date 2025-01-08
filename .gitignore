@@ -41,3 +41,6 @@ folder/??/*.html.gz
 # rdf download files
 download/
 
+category/geo/i
+category/subject/i
+category/ware/i
