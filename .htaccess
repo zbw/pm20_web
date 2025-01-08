@@ -123,6 +123,9 @@ SetEnvIf GEOIP_COUNTRY_CODE IS PM20_EU=1
 SetEnvIf GEOIP_COUNTRY_CODE LI PM20_EU=1
 SetEnvIf GEOIP_COUNTRY_CODE NO PM20_EU=1
 
+# allow EU test access from local network
+SetEnvIf Remote_Addr "^192.168." PM20_EU=1
+
 
 #### Redirects
 
@@ -159,7 +162,7 @@ RewriteRule .* - [R=403,L]
 RewriteRule ^film/([hk][12])_(sh|wa|co)$ /film/$1_$2.de.html
 RewriteRule ^film/([hk][12])_(sh|wa|co)\.de$ /film/$1_$2.de.html
 
-# filmlist with public and internal versions
+# filmlist with public and internal versions (the later used for EU, too)
 RewriteCond "%{ENV:PM20_INTERNAL}" ^$
 RewriteCond "%{ENV:PM20_EU}" ^$
 RewriteRule "^film/([hk][12]_(co|sh|wa)\.de\.html)$" "/film/public.$1" [R]
@@ -168,11 +171,11 @@ RewriteCond "%{ENV:PM20_EU}" "1"
 RewriteRule "^film/([hk][12]_(co|sh|wa)\.de\.html)$" "/film/intern.$1" [R]
 
 # Redirect logical image URI to filmviewer (drop Left or Right page indicator)
-RewriteRule ^film/([hk][12])/(sh|wa|co)/([A-Z0-9_]+)/([0-9]{4})(/[LR])?$ /film/filmviewer.php?set=$1&collection=$2&film=$3&img=$4 [PT,L]
+RewriteRule ^film/([hk][12])/(sh|wa|co)/([A-Z0-9_a]+)/([0-9]{4})(/[LR])?$ /film/filmviewer.php?set=$1&collection=$2&film=$3&img=$4 [PT,L]
 
 # Redirct film index to filmviewer
 RewriteCond %{DOCUMENT_ROOT}/%{REQUEST_URI} -d
-RewriteRule ^film/([hk][12])/(sh|wa|co)/([A-Z0-9_]+)/$ /film/filmviewer.php?set=$1&collection=$2&film=$3 [QSA,PT,L]
+RewriteRule ^film/([hk][12])/(sh|wa|co)/([A-Z0-9_a]+)/$ /film/filmviewer.php?set=$1&collection=$2&film=$3 [QSA,PT,L]
 
 
 # DFG Viewer for folders with public and internal versions
