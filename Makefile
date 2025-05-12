@@ -1,7 +1,7 @@
 # Makefile
 # nbt, 14.11.2019
 
-# Convert all markdown files in the web.(public|intern) diretory recursively to
+# Convert all markdown files in the web diretory recursively to
 # html
 #
 # has to be called with
@@ -16,8 +16,6 @@
 
 
 # binaries
-##PANDOC=/usr/local/bin/pandoc
-##PANDOC=/home/nbt/bin/pandoc-2.14.2
 PANDOC=/usr/bin/pandoc-bin
 
 # auxiliary
