@@ -52,12 +52,9 @@ set: $(EXPORTED_FRAG) $(EXPORTED_DOCS)
 include $(wildcard mk/*.mk)
 
 # standalone HTML pages
-# treat index pages (about.(de|en).md) specially, in suppressing them in
-# template output
 %.html: %.md $(source_frag) $(TEMPLATE)
 	@echo $@
-	@if [ "$(bsname)" = "about" ]; then export about_opt="--variable is_about:1"; fi ;\
-	$(PANDOC) $(PANDOC_OPTS) $(lang_opts) $(path_opts) $$about_opt $(TMPL_OPTS) $(EXT_OPTS) -o $@ $<
+	$(PANDOC) $(PANDOC_OPTS) $(lang_opts) $(path_opts) $(TMPL_OPTS) $(EXT_OPTS) -o $@ $<
 
 # HTML fragments (for inclusion)
 %.html.frag: %.md.frag
