@@ -1,5 +1,5 @@
 ---
-title: "Persons folders without digitized documents"
+title: "Persons folders with metadata only"
 modified: 
 backlink: about.en.html
 backlink-title: "Persons folders"
@@ -8,11 +8,23 @@ robots: noindex,nofollow
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# Persons folders without digitized documents
+# Persons folders with metadata only
 
 
 
-_Only metadata for these folders, no digitized documents or microfiches._
+
+
+
+
+
+
+
+
+
+
+_Only metadata for these 11079 folders, no digitized documents or microfiches._
+
+
 
 <div class="spacer">&#160;</div>
 

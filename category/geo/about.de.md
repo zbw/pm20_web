@@ -1,6 +1,6 @@
 ---
 title: "Mappen nach Ländersystematik"
-modified: 2024-01-13
+modified: 2025-04-19
 backlink: ../about.de.html
 backlink-title: "Mappen nach Systematik"
 fn-stub: about
@@ -10,7 +10,7 @@ fn-stub: about
 # Mappen nach Ländersystematik
 
 
-Insgesamt 368 Systematikstellen, 9201 Sach-Mappen (bis 1949), 4225044 Aufnahmen zu Länder-Sach-Themen auf digitalisierten
+Insgesamt 369 Systematikstellen, 9201 Sach-Mappen (bis 1949), 4425978 Aufnahmen zu Länder-Sach-Themen auf digitalisierten
 Mikrofilmen sowie 2891 Waren-Mappen (bis
 1949).
 
@@ -71,8 +71,8 @@ ist online verfügbar.
 - [A10 Deutschland](i/126128/about.de.html) A [(287 Sach-Mappen, 76 Waren-Mappen)]{.hint}<a name='A10'></a>
 - [A10(1) Bremen](i/140906/about.de.html) [(0 Sach-Mappen, 0 Waren-Mappen)]{.hint}<a name='A10(1)'></a>
 - [A10(18) Sudetenland](i/140930/about.de.html) [(0 Sach-Mappen, 0 Waren-Mappen)]{.hint}<a name='A10(18)'></a>
-- [A10(19) Böhmen und Mähren (Reichsprotektorat)](i/140098/about.de.html) [(1 Sach-Mappen, 7 Waren-Mappen)]{.hint}<a name='A10(19)'></a>
-- [A10(A50) Deutschland (Sowjetische Zone/ DDR)](i/140932/about.de.html) [(0 Sach-Mappen, 0 Waren-Mappen)]{.hint}<a name='A10(A50)'></a>
+- [A10(19) Böhmen und Mähren (Protektorat)](i/140098/about.de.html) [(1 Sach-Mappen, 7 Waren-Mappen)]{.hint}<a name='A10(19)'></a>
+- [A10(A50) Deutschland (Sowjetische Zone / DDR)](i/140932/about.de.html) [(0 Sach-Mappen, 0 Waren-Mappen)]{.hint}<a name='A10(A50)'></a>
 - [A10(Bln) Berlin (bis 1945)](i/140933/about.de.html) [(0 Sach-Mappen, 2 Waren-Mappen)]{.hint}<a name='A10(Bln)'></a>
 - [A10(t1) Deutschland (unter alliierter Besetzung)](i/187230/about.de.html) [(5 Sach-Mappen, 0 Waren-Mappen)]{.hint}<a name='A10(t1)'></a>
 - [A10(t2) Deutschland (Bundesrepublik)](i/187232/about.de.html) [(7 Sach-Mappen, 0 Waren-Mappen)]{.hint}<a name='A10(t2)'></a>
@@ -134,6 +134,7 @@ ist online verfügbar.
 - [A40c Tschechoslowakei](i/141022/about.de.html) [(0 Sach-Mappen, 37 Waren-Mappen)]{.hint}<a name='A40c'></a>
 - [A40c(A10) Sudetendeutsches Gebiet](i/141023/about.de.html) [(0 Sach-Mappen, 1 Waren-Mappen)]{.hint}<a name='A40c(A10)'></a>
 - [A40c(A12) Olsa-Schlesien](i/141024/about.de.html) [(0 Sach-Mappen, 0 Waren-Mappen)]{.hint}<a name='A40c(A12)'></a>
+- [A40c(A40d) Oberungarn (1938-1940)](i/231280/about.de.html) [(0 Sach-Mappen, 0 Waren-Mappen)]{.hint}<a name='A40c(A40d)'></a>
 - [A40d Ungarn](i/141025/about.de.html) [(0 Sach-Mappen, 39 Waren-Mappen)]{.hint}<a name='A40d'></a>
 - [A40e Jugoslawien (bis 1945 Südslawien)](i/141028/about.de.html) [(0 Sach-Mappen, 22 Waren-Mappen)]{.hint}<a name='A40e'></a>
 - [A40f Slowakei](i/141029/about.de.html) [(0 Sach-Mappen, 11 Waren-Mappen)]{.hint}<a name='A40f'></a>
@@ -258,7 +259,7 @@ ist online verfügbar.
 - [C2a Frankophones Afrika](i/141312/about.de.html) [(2 Sach-Mappen, 1 Waren-Mappen)]{.hint}<a name='C2a'></a>
 - [C3 Westafrika](i/141313/about.de.html) [(0 Sach-Mappen, 0 Waren-Mappen)]{.hint}<a name='C3'></a>
 - [C4 Zentralafrika](i/141314/about.de.html) [(0 Sach-Mappen, 1 Waren-Mappen)]{.hint}<a name='C4'></a>
-- [C5 Südafrika](i/141316/about.de.html) [(0 Sach-Mappen, 0 Waren-Mappen)]{.hint}<a name='C5'></a>
+- [C5 Südliches Afrika](i/141316/about.de.html) [(0 Sach-Mappen, 0 Waren-Mappen)]{.hint}<a name='C5'></a>
 - [C5a Zentralafrikanische Staaten](i/141335/about.de.html) [(0 Sach-Mappen, 0 Waren-Mappen)]{.hint}<a name='C5a'></a>
 - [C6 Ostafrika](i/141746/about.de.html) [(0 Sach-Mappen, 0 Waren-Mappen)]{.hint}<a name='C6'></a>
 - [C7 Europäische Kolonien in Afrika](i/141747/about.de.html) [(0 Sach-Mappen, 1 Waren-Mappen)]{.hint}<a name='C7'></a>

@@ -928,21 +928,21 @@ A9 | f5 Sm1.III | [Hamburg : Elections for parliamentary bodies and other politi
 A9 | f5 Sm1.IIIa | [Hamburg : Elections for parliamentary bodies and other general political elections](https://pm20.zbw.eu/folder/sh/1409xx/140905/1443xx/144398/about.en.html ) | 19 | A 009 | f 05 SM 001.03a
 A9 | f5 Sm1.IIIb | [Hamburg : Elections for parliamentary bodies and other political elections in individual states](https://pm20.zbw.eu/folder/sh/1409xx/140905/1443xx/144399/about.en.html ) | 25 | A 009 | f 05 SM 001.03b
 A9 | f5a | [Hamburg : Individual parties and party groups](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144420/about.en.html ) | 521 | A 009 | f 05a
-A9 | f5a.1 | [Hamburg : The party as a whole, including in a judgment abroad](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144421/about.en.html ) | 1 | A 009 | f 05a.01
-A9 | f5a.1a | [Hamburg : The party as a whole, historical reviews](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144422/about.en.html ) | 48 | A 009 | f 05a.01a
-A9 | f5a.1b | [Hamburg : The party as a whole, organization](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144423/about.en.html ) | 36 | A 009 | f 05a.01b
-A9 | f5a.1c | [Hamburg : The party as a whole, program](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144424/about.en.html ) | 11 | A 009 | f 05a.01c
-A9 | f5a.1d (alt) | [Hamburg : The party as a whole, agitation + tactics (e.g. May Day celebrations, rallies, propaganda, leaflets)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144425/about.en.html ) | 27 | A 009 | f 05a.01d (alt)
-A9 | f5a.1e | [Hamburg : The party as a whole, press, general](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144426/about.en.html ) | 1 | A 009 | f 05a.01e
-A9 | f5a.1f | [Hamburg : The party as a whole, activity of the party](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144427/about.en.html ) | 195 | A 009 | f 05a.01f
-A9 | f5a.1g (alt) | [Hamburg : The party as a whole, division in the party](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144428/about.en.html ) | 4 | A 009 | f 05a.01g (alt)
-A9 | f5a.1h (alt) | [Hamburg : The party as a whole, relationship with other parties](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144429/about.en.html ) | 9 | A 009 | f 05a.01h (alt)
-A9 | f5a.1k | [Hamburg : The party as a whole, party meetings](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144431/about.en.html ) | 17 | A 009 | f 05a.01k
-A9 | f5a.1l | [Hamburg : The party as a whole, youth organizations](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144432/about.en.html ) | 80 | A 009 | f 05a.01l
-A9 | f5a.1m | [Hamburg : The party as a whole, women's organizations](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144434/about.en.html ) | 36 | A 009 | f 05a.01m
-A9 | f5a.1o | [Hamburg : The party as a whole, foreign organizations](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144436/about.en.html ) | 3 | A 009 | f 05a.01o
-A9 | f5a.3 | [Hamburg : Leading personalities (individual parties)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144438/about.en.html ) | 3 | A 009 | f 05a.03
-A9 | f5a.4 | [Hamburg : Opposition to the party](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144439/about.en.html ) | 6 | A 009 | f 05a.04
+A9 | f5a.I | [Hamburg : The party as a whole, including in a judgment abroad](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144421/about.en.html ) | 1 | A 009 | f 05a.01
+A9 | f5a.Ia | [Hamburg : The party as a whole, historical reviews](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144422/about.en.html ) | 48 | A 009 | f 05a.01a
+A9 | f5a.Ib | [Hamburg : The party as a whole, organization](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144423/about.en.html ) | 36 | A 009 | f 05a.01b
+A9 | f5a.Ic | [Hamburg : The party as a whole, program](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144424/about.en.html ) | 11 | A 009 | f 05a.01c
+A9 | f5a.Id (alt) | [Hamburg : The party as a whole, agitation + tactics (e.g. May Day celebrations, rallies, propaganda, leaflets)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144425/about.en.html ) | 27 | A 009 | f 05a.01d (alt)
+A9 | f5a.Ie | [Hamburg : The party as a whole, press, general](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144426/about.en.html ) | 1 | A 009 | f 05a.01e
+A9 | f5a.If | [Hamburg : The party as a whole, activity of the party](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144427/about.en.html ) | 195 | A 009 | f 05a.01f
+A9 | f5a.Ig (alt) | [Hamburg : The party as a whole, division in the party](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144428/about.en.html ) | 4 | A 009 | f 05a.01g (alt)
+A9 | f5a.Ih (alt) | [Hamburg : The party as a whole, relationship with other parties](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144429/about.en.html ) | 9 | A 009 | f 05a.01h (alt)
+A9 | f5a.Ik | [Hamburg : The party as a whole, party meetings](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144431/about.en.html ) | 17 | A 009 | f 05a.01k
+A9 | f5a.Il | [Hamburg : The party as a whole, youth organizations](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144432/about.en.html ) | 80 | A 009 | f 05a.01l
+A9 | f5a.Im | [Hamburg : The party as a whole, women's organizations](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144434/about.en.html ) | 36 | A 009 | f 05a.01m
+A9 | f5a.Io | [Hamburg : The party as a whole, foreign organizations](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144436/about.en.html ) | 3 | A 009 | f 05a.01o
+A9 | f5a.III | [Hamburg : Leading personalities (individual parties)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144438/about.en.html ) | 3 | A 009 | f 05a.03
+A9 | f5a.IV | [Hamburg : Opposition to the party](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144439/about.en.html ) | 6 | A 009 | f 05a.04
 A9 | f6 | [Hamburg : Negotiations of parliamentary and political bodies](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144440/about.en.html ) | 256 | A 009 | f 06
 A9 | g Sm9 | [Hamburg : Pacifist and philanthropic aspirations](https://pm20.zbw.eu/folder/sh/1409xx/140905/1445xx/144581/about.en.html ) | 7 | A 009 | g 00 SM 009
 A9 | g1 | [Hamburg : Political relations with individual countries](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144452/about.en.html ) | 4 | A 009 | g 01
@@ -4965,7 +4965,7 @@ B111 | n13 | [Japan : Industries](https://pm20.zbw.eu/folder/sh/1412xx/141272/14
 B111 | n13 Sm2 | [Japan : Industry, concentration movement](https://pm20.zbw.eu/folder/sh/1412xx/141272/1451xx/145100/about.en.html ) | 23 | B 111 | n 13 SM 002
 B111 | n13 Sm3 | [Japan : Industry, public loans and subsidies](https://pm20.zbw.eu/folder/sh/1412xx/141272/1451xx/145101/about.en.html ) | 34 | B 111 | n 13 SM 003
 B111 | n13 Sm4.I | [Japan : Industrial exploitation of natural forces, general](https://pm20.zbw.eu/folder/sh/1412xx/141272/1451xx/145102/about.en.html ) | 3 | B 111 | n 13 SM 004.01
-B111 | n13 Sm5 | [Japan : Industry: competition on the world market](https://pm20.zbw.eu/folder/sh/1412xx/141272/1451xx/145104/about.en.html ) | 30 | B 111 | n 13 SM 005
+B111 | n13 Sm5 | [Japan : Industrial competition on the world market](https://pm20.zbw.eu/folder/sh/1412xx/141272/1451xx/145104/about.en.html ) | 30 | B 111 | n 13 SM 005
 B111 | n13 Sm6 | [Japan : Communication between labor and management](https://pm20.zbw.eu/folder/sh/1412xx/141272/1451xx/145105/about.en.html ) | 2 | B 111 | n 13 SM 006
 B111 | n13 Sm7 | [Japan : Firm location choise, rental factories, general](https://pm20.zbw.eu/folder/sh/1412xx/141272/1451xx/145106/about.en.html ) | 12 | B 111 | n 13 SM 007
 B111 | n13 Sm9 | [Japan : Industrial research, general](https://pm20.zbw.eu/folder/sh/1412xx/141272/1451xx/145109/about.en.html ) | 10 | B 111 | n 13 SM 009

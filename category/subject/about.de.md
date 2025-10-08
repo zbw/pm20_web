@@ -1,6 +1,6 @@
 ---
 title: "Mappen nach Sachsystematik"
-modified: 2024-01-13
+modified: 2025-04-19
 backlink: ../about.de.html
 backlink-title: "Mappen nach Systematik"
 fn-stub: about
@@ -262,21 +262,21 @@ ist online verfügbar.
   - [f5 Sm1.IIIb Wahlen für parlamentarische Körperschaften und sonstige politische Wahlen einz. Bundesstaaten.](i/144399/about.de.html) [(2  Sach-Mappen)]{.hint}<a name='f5_Sm1.IIIb'></a>
   - [f5 Sm2 Einzelne politische Strömungen](i/144400/about.de.html) [(3  Sach-Mappen)]{.hint}<a name='f5_Sm2'></a>
 - [f5a Einzelne Parteien und Parteigruppen](i/144420/about.de.html) [(19  Sach-Mappen)]{.hint}<a name='f5a'></a>
-- [f5a.1 Die Partei im Ganzen, auch im Urteil des Auslandes](i/144421/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='f5a.1'></a>
-- [f5a.1a Die Partei im Ganzen, geschichtliche Rückblicke](i/144422/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='f5a.1a'></a>
-- [f5a.1b Die Partei im Ganzen, Organisation](i/144423/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='f5a.1b'></a>
-- [f5a.1c Die Partei im Ganzen, Programm](i/144424/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='f5a.1c'></a>
-- [f5a.1d (alt) Die Partei im Ganzen, Agitation und Taktik (z.B. Maifeier, Kundgebungen, Propaganda, Flugblätter)](i/144425/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='f5a.1d_(alt)'></a>
-- [f5a.1e Die Partei im Ganzen, Presse, Allgemein](i/144426/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='f5a.1e'></a>
-- [f5a.1f Die Partei im Ganzen, Tätigkeit der Partei](i/144427/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='f5a.1f'></a>
-- [f5a.1g (alt) Die Partei im Ganzen, Spaltung in der Partei](i/144428/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='f5a.1g_(alt)'></a>
-- [f5a.1h (alt) Die Partei im Ganzen, Verhältniss zu anderen Parteien](i/144429/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='f5a.1h_(alt)'></a>
-- [f5a.1k Die Partei im Ganzen, Parteitagungen](i/144431/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='f5a.1k'></a>
-- [f5a.1l Die Partei im Ganzen, Jugendorganisationen](i/144432/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='f5a.1l'></a>
-- [f5a.1m Die Partei im Ganzen, Frauenorganisationen](i/144434/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='f5a.1m'></a>
-- [f5a.1o Die Partei im Ganzen, Auslandsorganisationen](i/144436/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='f5a.1o'></a>
-- [f5a.3 Führende Persönlichkeiten (einzelner Parteien)](i/144438/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='f5a.3'></a>
-- [f5a.4 Bekämpfung der Partei](i/144439/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='f5a.4'></a>
+- [f5a.I Die Partei im Ganzen, auch im Urteil des Auslandes](i/144421/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='f5a.I'></a>
+- [f5a.Ia Die Partei im Ganzen, geschichtliche Rückblicke](i/144422/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='f5a.Ia'></a>
+- [f5a.Ib Die Partei im Ganzen, Organisation](i/144423/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='f5a.Ib'></a>
+- [f5a.Ic Die Partei im Ganzen, Programm](i/144424/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='f5a.Ic'></a>
+- [f5a.Id (alt) Die Partei im Ganzen, Agitation und Taktik (z.B. Maifeier, Kundgebungen, Propaganda, Flugblätter)](i/144425/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='f5a.Id_(alt)'></a>
+- [f5a.Ie Die Partei im Ganzen, Presse, Allgemein](i/144426/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='f5a.Ie'></a>
+- [f5a.If Die Partei im Ganzen, Tätigkeit der Partei](i/144427/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='f5a.If'></a>
+- [f5a.Ig (alt) Die Partei im Ganzen, Spaltung in der Partei](i/144428/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='f5a.Ig_(alt)'></a>
+- [f5a.Ih (alt) Die Partei im Ganzen, Verhältniss zu anderen Parteien](i/144429/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='f5a.Ih_(alt)'></a>
+- [f5a.Ik Die Partei im Ganzen, Parteitagungen](i/144431/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='f5a.Ik'></a>
+- [f5a.Il Die Partei im Ganzen, Jugendorganisationen](i/144432/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='f5a.Il'></a>
+- [f5a.Im Die Partei im Ganzen, Frauenorganisationen](i/144434/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='f5a.Im'></a>
+- [f5a.Io Die Partei im Ganzen, Auslandsorganisationen](i/144436/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='f5a.Io'></a>
+- [f5a.III Führende Persönlichkeiten (einzelner Parteien)](i/144438/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='f5a.III'></a>
+- [f5a.IV Bekämpfung der Partei](i/144439/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='f5a.IV'></a>
 - [f6 Verhandlungen von parlamentarischen und politischen Körperschaften](i/144440/about.de.html) [(10  Sach-Mappen)]{.hint}<a name='f6'></a>
 - [f6a Verhandlungen parlamentarischer Körperschaften einzelner Staaten, Provinzen und Städte](i/144446/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='f6a'></a>
 
@@ -309,7 +309,7 @@ ist online verfügbar.
   - [g Sm19 Stimmen und Stellung zur Klärung der Kriegsschuldfrage (Weltkrieg)](i/144593/about.de.html) [(2  Sach-Mappen)]{.hint}<a name='g_Sm19'></a>
   - [g Sm20 Außenpolitik, Konferenzen](i/153593/about.de.html) [(3  Sach-Mappen)]{.hint}<a name='g_Sm20'></a>
   - [g Sm50 Außenpolitik, Institutionen](i/150784/about.de.html) [(4  Sach-Mappen)]{.hint}<a name='g_Sm50'></a>
-  - [g Sm501 (A43) Friedensvertrag von Sevres (Weltkrieg)](i/163569/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='g_Sm501_(A43)'></a>
+  - [g Sm501 (A43) Friedensvertrag von Sevres (Erster Weltkrieg)](i/163569/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='g_Sm501_(A43)'></a>
   - [g Sm501 (B111) Japanisches Hilfsheer und japanische Leistungen im Weltkrieg](i/144605/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='g_Sm501_(B111)'></a>
   - [g Sm501 (C125) Abessinien-Konflikt und seine Auswirkungen](i/144606/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='g_Sm501_(C125)'></a>
   - [g Sm501.II (A43) Friedensvertrag von Sevres (Weltkrieg), Stimmen und Stellung](i/144610/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='g_Sm501.II_(A43)'></a>
@@ -341,7 +341,7 @@ ist online verfügbar.
   - [g4 Sm2.II Wirtschaftskrieg, Gesetze und Verordnungen](i/144475/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='g4_Sm2.II'></a>
   - [g4 Sm2.III Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung und Liquidation](i/163411/about.de.html) [(4  Sach-Mappen)]{.hint}<a name='g4_Sm2.III'></a>
   - [g4 Sm2.IIIa Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung u. Liquidation, Allg.](i/144476/about.de.html) [(14  Sach-Mappen)]{.hint}<a name='g4_Sm2.IIIa'></a>
-  - [g4 Sm2.IIIb Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen einz. Länder](i/144477/about.de.html) [(23  Sach-Mappen)]{.hint}<a name='g4_Sm2.IIIb'></a>
+  - [g4 Sm2.IIIb Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung und Liquidation von Eigentum der Angehörigen einzelner Länder](i/144477/about.de.html) [(23  Sach-Mappen)]{.hint}<a name='g4_Sm2.IIIb'></a>
   - [g4 Sm2.V Wirtschaftskrieg, Schwarze Listen](i/144478/about.de.html) [(5  Sach-Mappen)]{.hint}<a name='g4_Sm2.V'></a>
   - [g4 Sm2.VI Wirtschaftskrieg, Zahlungsverbote und Aufhebung von Lieferungsverträgen](i/163408/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='g4_Sm2.VI'></a>
   - [g4 Sm2.VIb Wirtschaftskrieg, Zahlungsverbote u. Aufhebg. v. Lieferungsvertr. ggü. Angehör. einz. Länder](i/144480/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='g4_Sm2.VIb'></a>
@@ -366,7 +366,7 @@ ist online verfügbar.
   - [g4 Sm502 (A1) Interessengemeinschaft der nordeuropäischen Staaten](i/144504/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='g4_Sm502_(A1)'></a>
 - [g4a Wirtschaftspolitische Beziehungen zu einzelnen Ländern](i/144531/about.de.html) [(43  Sach-Mappen)]{.hint}<a name='g4a'></a>
   - [g4a Sm1 Wirtschaftliche Kompensationen, Warenaustausch](i/144532/about.de.html) [(9  Sach-Mappen)]{.hint}<a name='g4a_Sm1'></a>
-  - [g4a Sm2 Handelkredite](i/144533/about.de.html) [(9  Sach-Mappen)]{.hint}<a name='g4a_Sm2'></a>
+  - [g4a Sm2 Handelskredite](i/144533/about.de.html) [(9  Sach-Mappen)]{.hint}<a name='g4a_Sm2'></a>
   - [g4a Sm3 Veredelungskredite, Veredelungsverkehr](i/144534/about.de.html) [(2  Sach-Mappen)]{.hint}<a name='g4a_Sm3'></a>
   - [g4a Sm5 Urheberschutz (Wirtschaftspolitische Beziehungen zu einzelnen Ländern)](i/144536/about.de.html) [(5  Sach-Mappen)]{.hint}<a name='g4a_Sm5'></a>
   - [g4a Sm6 Fischereiverträge](i/144537/about.de.html) [(2  Sach-Mappen)]{.hint}<a name='g4a_Sm6'></a>
@@ -869,7 +869,7 @@ ist online verfügbar.
   - [n13 Sm4 Industrielle Verwertung von Naturkräften](i/161882/about.de.html) [(2  Sach-Mappen)]{.hint}<a name='n13_Sm4'></a>
   - [n13 Sm4.I Industrielle Verwertung von Naturkräften, Allgemein](i/145102/about.de.html) [(2  Sach-Mappen)]{.hint}<a name='n13_Sm4.I'></a>
   - [n13 Sm4.II Industrielle Verwertung von Naturkräften, Einzelne](i/145103/about.de.html) [(7  Sach-Mappen)]{.hint}<a name='n13_Sm4.II'></a>
-  - [n13 Sm5 Industrie: Konkurrenz auf dem Weltmarkt](i/145104/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='n13_Sm5'></a>
+  - [n13 Sm5 Industrielle Konkurrenz auf dem Weltmarkt](i/145104/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='n13_Sm5'></a>
   - [n13 Sm6 Verständigungsaktionen zwischen Arbeitgebern und Arbeitnehmern](i/145105/about.de.html) [(3  Sach-Mappen)]{.hint}<a name='n13_Sm6'></a>
   - [n13 Sm7 An- und Umsiedlung von Industrien, Standortsverlegung, Errichtung von Mietfabriken, Allgemein](i/145106/about.de.html) [(4  Sach-Mappen)]{.hint}<a name='n13_Sm7'></a>
   - [n13 Sm9 Forschungswesen der Industrie, Allgemein](i/145109/about.de.html) [(2  Sach-Mappen)]{.hint}<a name='n13_Sm9'></a>
@@ -1137,7 +1137,7 @@ ist online verfügbar.
   - [n24 Sm21.IIb Geschäftsbedingungen (im Bankverkehr), Zinsen, Provisionsfragen](i/145385/about.de.html) [(2  Sach-Mappen)]{.hint}<a name='n24_Sm21.IIb'></a>
   - [n24 Sm21.IIf Geschäftsbedingungen (im Bankverkehr), Effektenbeleihung und Wechselbeleihung](i/145388/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='n24_Sm21.IIf'></a>
   - [n24 Sm22 Bankwesen, Staatliche Aufsicht (Kontrolle), Publizitätspflicht](i/145390/about.de.html) [(4  Sach-Mappen)]{.hint}<a name='n24_Sm22'></a>
-  - [n24 Sm23 Misstände im Bankgewerbe und Kreditwesen](i/145391/about.de.html) [(2  Sach-Mappen)]{.hint}<a name='n24_Sm23'></a>
+  - [n24 Sm23 Missstände im Bankgewerbe und Kreditwesen](i/145391/about.de.html) [(2  Sach-Mappen)]{.hint}<a name='n24_Sm23'></a>
   - [n24 Sm24 Bankwesen, Arbeitsstundenwert als Rechnungseinheit](i/145392/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='n24_Sm24'></a>
   - [n24 Sm25 Arbeiterbanken und Beamtenbanken](i/145393/about.de.html) [(2  Sach-Mappen)]{.hint}<a name='n24_Sm25'></a>
   - [n24 Sm26 Bankgeheimnis](i/145394/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='n24_Sm26'></a>
@@ -1263,7 +1263,7 @@ ist online verfügbar.
   - [n32 Sm12.I Schiffahrt, Ölfeuerung und Motorschiffahrt, Allgemein](i/145581/about.de.html) [(1  Sach-Mappen)]{.hint}<a name='n32_Sm12.I'></a>
   - [n32 Sm12.II Schiffahrt, Ölfeuerung](i/145582/about.de.html) [(2  Sach-Mappen)]{.hint}<a name='n32_Sm12.II'></a>
   - [n32 Sm12.III Motorschiffahrt](i/145583/about.de.html) [(4  Sach-Mappen)]{.hint}<a name='n32_Sm12.III'></a>
-  - [n32 Sm13 Trampschifffahrt](i/145584/about.de.html) [(4  Sach-Mappen)]{.hint}<a name='n32_Sm13'></a>
+  - [n32 Sm13 Trampschiffahrt](i/145584/about.de.html) [(4  Sach-Mappen)]{.hint}<a name='n32_Sm13'></a>
   - [n32 Sm14 Küstenschiffahrt, kombinierte Fluss-Seeschiffahrt](i/145585/about.de.html) [(11  Sach-Mappen)]{.hint}<a name='n32_Sm14'></a>
   - [n32 Sm15 Bedeutung und Entwicklung der Segelschiffahrt](i/145586/about.de.html) [(4  Sach-Mappen)]{.hint}<a name='n32_Sm15'></a>
   - [n32 Sm16 Seeschiffahrt, Passagierraten, Allgemein](i/145587/about.de.html) [(4  Sach-Mappen)]{.hint}<a name='n32_Sm16'></a>

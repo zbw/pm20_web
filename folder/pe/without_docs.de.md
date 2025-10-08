@@ -1,5 +1,5 @@
 ---
-title: "Personen Mappen ohne digitalisierte Dokumente"
+title: "Personen Mappen nur mit Metadaten"
 modified: 
 backlink: about.de.html
 backlink-title: "Personen Mappen"
@@ -8,11 +8,23 @@ robots: noindex,nofollow
 ---
 
 ### Hamburgisches Welt-Wirtschafts-Archiv (HWWA)
-# Personen Mappen ohne digitalisierte Dokumente
+# Personen Mappen nur mit Metadaten
 
 
 
-_Für alle hier aufgeführten Mappen gibt es nur Metadaten, keine digitalisierten Dokumente oder Mikrofiches._
+
+
+
+
+
+
+
+
+_Für alle hier aufgeführten 11079 Mappen gibt es nur Metadaten, keine digitalisierten Dokumente oder Mikrofiches._
+
+
+
+
 
 <div class="spacer">&#160;</div>
 

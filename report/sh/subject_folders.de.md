@@ -298,7 +298,7 @@ A3 | g1 | [Osteuropa : Politische Beziehungen zu einzelnen Ländern](https://pm2
 A3 | g4 | [Osteuropa : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein](https://pm20.zbw.eu/folder/sh/1408xx/140896/1444xx/144470/about.de.html ) | 2 | A 003 | g 04
 A3 | g4 Sm3 | [Osteuropa : Staatliche Wirtschaftspropaganda](https://pm20.zbw.eu/folder/sh/1408xx/140896/1633xx/163381/about.de.html ) | 1 | A 003 | g 04 SM 003
 A3 | g4a | [Osteuropa : Wirtschaftspolitische Beziehungen zu einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1408xx/140896/1445xx/144531/about.de.html ) | 6 | A 003 | g 04a
-A3 | g4a Sm2 | [Osteuropa : Handelkredite](https://pm20.zbw.eu/folder/sh/1408xx/140896/1445xx/144533/about.de.html ) | 1 | A 003 | g 04a SM 002
+A3 | g4a Sm2 | [Osteuropa : Handelskredite](https://pm20.zbw.eu/folder/sh/1408xx/140896/1445xx/144533/about.de.html ) | 1 | A 003 | g 04a SM 002
 A3 | g4a Sm13 | [Osteuropa : Eisenbahnverkehr, Transit](https://pm20.zbw.eu/folder/sh/1408xx/140896/1445xx/144543/about.de.html ) | 1 | A 003 | g 04a SM 013
 A3 | g4a Sm16 | [Osteuropa : Rechtspflege, Rechtsangleichung](https://pm20.zbw.eu/folder/sh/1408xx/140896/1445xx/144546/about.de.html ) | 1 | A 003 | g 04a SM 016
 A3 | l | [Osteuropa : Militärwesen, Allgemein](https://pm20.zbw.eu/folder/sh/1408xx/140896/1447xx/144762/about.de.html ) | 3 | A 003 | l
@@ -355,10 +355,10 @@ A4 | g1 | [Westeuropa : Politische Beziehungen zu einzelnen Ländern](https://pm
 A4 | g1 Sm8 | [Westeuropa : Außenpolitische und kulturelle Propaganda, Einzelne Länder](https://pm20.zbw.eu/folder/sh/1408xx/140897/1444xx/144459/about.de.html ) | 3 | A 004 | g 01 SM 008
 A4 | g4 | [Westeuropa : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein](https://pm20.zbw.eu/folder/sh/1408xx/140897/1444xx/144470/about.de.html ) | 8 | A 004 | g 04
 A4 | g4 Sm2.I | [Westeuropa : Wirtschaftskrieg, Allgemein](https://pm20.zbw.eu/folder/sh/1408xx/140897/1444xx/144474/about.de.html ) | 12 | A 004 | g 04 SM 002.01
-A4 | g4 Sm2.IIIb | [Westeuropa : Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen einz. Länder](https://pm20.zbw.eu/folder/sh/1408xx/140897/1444xx/144477/about.de.html ) | 1 | A 004 | g 04 SM 002.03b
+A4 | g4 Sm2.IIIb | [Westeuropa : Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung und Liquidation von Eigentum der Angehörigen einzelner Länder](https://pm20.zbw.eu/folder/sh/1408xx/140897/1444xx/144477/about.de.html ) | 1 | A 004 | g 04 SM 002.03b
 A4 | g4 Sm5 | [Westeuropa : Beschränkung des freien Handels](https://pm20.zbw.eu/folder/sh/1408xx/140897/1444xx/144486/about.de.html ) | 1 | A 004 | g 04 SM 005
 A4 | g4a | [Westeuropa : Wirtschaftspolitische Beziehungen zu einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1408xx/140897/1445xx/144531/about.de.html ) | 10 | A 004 | g 04a
-A4 | g4a Sm2 | [Westeuropa : Handelkredite](https://pm20.zbw.eu/folder/sh/1408xx/140897/1445xx/144533/about.de.html ) | 1 | A 004 | g 04a SM 002
+A4 | g4a Sm2 | [Westeuropa : Handelskredite](https://pm20.zbw.eu/folder/sh/1408xx/140897/1445xx/144533/about.de.html ) | 1 | A 004 | g 04a SM 002
 A4 | g4a Sm14 | [Westeuropa : Schiffahrt (Wirtschaftspolitische Beziehungen zu einzelnen Ländern)](https://pm20.zbw.eu/folder/sh/1408xx/140897/1445xx/144544/about.de.html ) | 2 | A 004 | g 04a SM 014
 A4 | g4a Sm19 | [Westeuropa : Sachverständigen- und Facharbeiteraustausch, Studienkommissionen](https://pm20.zbw.eu/folder/sh/1408xx/140897/1445xx/144549/about.de.html ) | 1 | A 004 | g 04a SM 019
 A4 | g5 | [Westeuropa : Kolonialpolitik, Allgemein](https://pm20.zbw.eu/folder/sh/1408xx/140897/1445xx/144558/about.de.html ) | 16 | A 004 | g 05
@@ -533,7 +533,7 @@ A6 | g4 Sm25 | [Südosteuropa : Ausgleich laufender Aussenhandelsforderungen und
 A6 | g4 Sm501 (A1) | [Südosteuropa : Interessengemeinschaft der Agrarstaaten](https://pm20.zbw.eu/folder/sh/1409xx/140900/1444xx/144495/about.de.html ) | 2 | A 006 | g 04 SM 501 (A 001)
 A6 | g4a | [Südosteuropa : Wirtschaftspolitische Beziehungen zu einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140900/1445xx/144531/about.de.html ) | 678 | A 006 | g 04a
 A6 | g4a Sm1 | [Südosteuropa : Wirtschaftliche Kompensationen, Warenaustausch](https://pm20.zbw.eu/folder/sh/1409xx/140900/1445xx/144532/about.de.html ) | 5 | A 006 | g 04a SM 001
-A6 | g4a Sm2 | [Südosteuropa : Handelkredite](https://pm20.zbw.eu/folder/sh/1409xx/140900/1445xx/144533/about.de.html ) | 10 | A 006 | g 04a SM 002
+A6 | g4a Sm2 | [Südosteuropa : Handelskredite](https://pm20.zbw.eu/folder/sh/1409xx/140900/1445xx/144533/about.de.html ) | 10 | A 006 | g 04a SM 002
 A6 | g4a Sm5 | [Südosteuropa : Urheberschutz (Wirtschaftspolitische Beziehungen zu einzelnen Ländern)](https://pm20.zbw.eu/folder/sh/1409xx/140900/1445xx/144536/about.de.html ) | 1 | A 006 | g 04a SM 005
 A6 | g4a Sm9 | [Südosteuropa : Versicherungswesen, Beziehungen zu einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140900/1445xx/144540/about.de.html ) | 1 | A 006 | g 04a SM 009
 A6 | g4a Sm13 | [Südosteuropa : Eisenbahnverkehr, Transit](https://pm20.zbw.eu/folder/sh/1409xx/140900/1445xx/144543/about.de.html ) | 84 | A 006 | g 04a SM 013
@@ -928,21 +928,21 @@ A9 | f5 Sm1.III | [Hamburg : Wahlen für parlamentarische Körperschaften und so
 A9 | f5 Sm1.IIIa | [Hamburg : Wahlen für parlamentarische Körperschaften und sonstige politische Wahlen des Gesamtstaates](https://pm20.zbw.eu/folder/sh/1409xx/140905/1443xx/144398/about.de.html ) | 19 | A 009 | f 05 SM 001.03a
 A9 | f5 Sm1.IIIb | [Hamburg : Wahlen für parlamentarische Körperschaften und sonstige politische Wahlen einz. Bundesstaaten.](https://pm20.zbw.eu/folder/sh/1409xx/140905/1443xx/144399/about.de.html ) | 25 | A 009 | f 05 SM 001.03b
 A9 | f5a | [Hamburg : Einzelne Parteien und Parteigruppen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144420/about.de.html ) | 521 | A 009 | f 05a
-A9 | f5a.1 | [Hamburg : Die Partei im Ganzen, auch im Urteil des Auslandes](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144421/about.de.html ) | 1 | A 009 | f 05a.01
-A9 | f5a.1a | [Hamburg : Die Partei im Ganzen, geschichtliche Rückblicke](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144422/about.de.html ) | 48 | A 009 | f 05a.01a
-A9 | f5a.1b | [Hamburg : Die Partei im Ganzen, Organisation](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144423/about.de.html ) | 36 | A 009 | f 05a.01b
-A9 | f5a.1c | [Hamburg : Die Partei im Ganzen, Programm](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144424/about.de.html ) | 11 | A 009 | f 05a.01c
-A9 | f5a.1d (alt) | [Hamburg : Die Partei im Ganzen, Agitation und Taktik (z.B. Maifeier, Kundgebungen, Propaganda, Flugblätter)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144425/about.de.html ) | 27 | A 009 | f 05a.01d (alt)
-A9 | f5a.1e | [Hamburg : Die Partei im Ganzen, Presse, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144426/about.de.html ) | 1 | A 009 | f 05a.01e
-A9 | f5a.1f | [Hamburg : Die Partei im Ganzen, Tätigkeit der Partei](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144427/about.de.html ) | 195 | A 009 | f 05a.01f
-A9 | f5a.1g (alt) | [Hamburg : Die Partei im Ganzen, Spaltung in der Partei](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144428/about.de.html ) | 4 | A 009 | f 05a.01g (alt)
-A9 | f5a.1h (alt) | [Hamburg : Die Partei im Ganzen, Verhältniss zu anderen Parteien](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144429/about.de.html ) | 9 | A 009 | f 05a.01h (alt)
-A9 | f5a.1k | [Hamburg : Die Partei im Ganzen, Parteitagungen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144431/about.de.html ) | 17 | A 009 | f 05a.01k
-A9 | f5a.1l | [Hamburg : Die Partei im Ganzen, Jugendorganisationen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144432/about.de.html ) | 80 | A 009 | f 05a.01l
-A9 | f5a.1m | [Hamburg : Die Partei im Ganzen, Frauenorganisationen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144434/about.de.html ) | 36 | A 009 | f 05a.01m
-A9 | f5a.1o | [Hamburg : Die Partei im Ganzen, Auslandsorganisationen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144436/about.de.html ) | 3 | A 009 | f 05a.01o
-A9 | f5a.3 | [Hamburg : Führende Persönlichkeiten (einzelner Parteien)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144438/about.de.html ) | 3 | A 009 | f 05a.03
-A9 | f5a.4 | [Hamburg : Bekämpfung der Partei](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144439/about.de.html ) | 6 | A 009 | f 05a.04
+A9 | f5a.I | [Hamburg : Die Partei im Ganzen, auch im Urteil des Auslandes](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144421/about.de.html ) | 1 | A 009 | f 05a.01
+A9 | f5a.Ia | [Hamburg : Die Partei im Ganzen, geschichtliche Rückblicke](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144422/about.de.html ) | 48 | A 009 | f 05a.01a
+A9 | f5a.Ib | [Hamburg : Die Partei im Ganzen, Organisation](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144423/about.de.html ) | 36 | A 009 | f 05a.01b
+A9 | f5a.Ic | [Hamburg : Die Partei im Ganzen, Programm](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144424/about.de.html ) | 11 | A 009 | f 05a.01c
+A9 | f5a.Id (alt) | [Hamburg : Die Partei im Ganzen, Agitation und Taktik (z.B. Maifeier, Kundgebungen, Propaganda, Flugblätter)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144425/about.de.html ) | 27 | A 009 | f 05a.01d (alt)
+A9 | f5a.Ie | [Hamburg : Die Partei im Ganzen, Presse, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144426/about.de.html ) | 1 | A 009 | f 05a.01e
+A9 | f5a.If | [Hamburg : Die Partei im Ganzen, Tätigkeit der Partei](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144427/about.de.html ) | 195 | A 009 | f 05a.01f
+A9 | f5a.Ig (alt) | [Hamburg : Die Partei im Ganzen, Spaltung in der Partei](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144428/about.de.html ) | 4 | A 009 | f 05a.01g (alt)
+A9 | f5a.Ih (alt) | [Hamburg : Die Partei im Ganzen, Verhältniss zu anderen Parteien](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144429/about.de.html ) | 9 | A 009 | f 05a.01h (alt)
+A9 | f5a.Ik | [Hamburg : Die Partei im Ganzen, Parteitagungen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144431/about.de.html ) | 17 | A 009 | f 05a.01k
+A9 | f5a.Il | [Hamburg : Die Partei im Ganzen, Jugendorganisationen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144432/about.de.html ) | 80 | A 009 | f 05a.01l
+A9 | f5a.Im | [Hamburg : Die Partei im Ganzen, Frauenorganisationen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144434/about.de.html ) | 36 | A 009 | f 05a.01m
+A9 | f5a.Io | [Hamburg : Die Partei im Ganzen, Auslandsorganisationen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144436/about.de.html ) | 3 | A 009 | f 05a.01o
+A9 | f5a.III | [Hamburg : Führende Persönlichkeiten (einzelner Parteien)](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144438/about.de.html ) | 3 | A 009 | f 05a.03
+A9 | f5a.IV | [Hamburg : Bekämpfung der Partei](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144439/about.de.html ) | 6 | A 009 | f 05a.04
 A9 | f6 | [Hamburg : Verhandlungen von parlamentarischen und politischen Körperschaften](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144440/about.de.html ) | 256 | A 009 | f 06
 A9 | g Sm9 | [Hamburg : Pazifistische und philantropische Bestrebungen](https://pm20.zbw.eu/folder/sh/1409xx/140905/1445xx/144581/about.de.html ) | 7 | A 009 | g 00 SM 009
 A9 | g1 | [Hamburg : Politische Beziehungen zu einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140905/1444xx/144452/about.de.html ) | 4 | A 009 | g 01
@@ -1774,7 +1774,7 @@ A10 | f2.4 | [Deutschland : Geschichtliche Vorgänge 1939-1945 (2. Weltkrieg)](h
 A10 | f2a | [Deutschland : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten](https://pm20.zbw.eu/folder/sh/1261xx/126128/1443xx/144354/about.de.html ) | 2837 | A 010 | f 02a
 A10 | g4a | [Deutschland : Wirtschaftspolitische Beziehungen zu einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1261xx/126128/1445xx/144531/about.de.html ) | 554 | A 010 | g 04a
 A10 | g4a Sm1 | [Deutschland : Wirtschaftliche Kompensationen, Warenaustausch](https://pm20.zbw.eu/folder/sh/1261xx/126128/1445xx/144532/about.de.html ) | 35 | A 010 | g 04a SM 001
-A10 | g4a Sm2 | [Deutschland : Handelkredite](https://pm20.zbw.eu/folder/sh/1261xx/126128/1445xx/144533/about.de.html ) | 93 | A 010 | g 04a SM 002
+A10 | g4a Sm2 | [Deutschland : Handelskredite](https://pm20.zbw.eu/folder/sh/1261xx/126128/1445xx/144533/about.de.html ) | 93 | A 010 | g 04a SM 002
 A10 | g4a Sm3 | [Deutschland : Veredelungskredite, Veredelungsverkehr](https://pm20.zbw.eu/folder/sh/1261xx/126128/1445xx/144534/about.de.html ) | 3 | A 010 | g 04a SM 003
 A10 | g4a Sm5 | [Deutschland : Urheberschutz (Wirtschaftspolitische Beziehungen zu einzelnen Ländern)](https://pm20.zbw.eu/folder/sh/1261xx/126128/1445xx/144536/about.de.html ) | 33 | A 010 | g 04a SM 005
 A10 | g4a Sm7 | [Deutschland : Luftverkehrsverträge](https://pm20.zbw.eu/folder/sh/1261xx/126128/1445xx/144538/about.de.html ) | 8 | A 010 | g 04a SM 007
@@ -1835,7 +1835,7 @@ A10 | n32 Sm11 | [Deutschland : Seeschiffahrt, Bergungswesen](https://pm20.zbw.e
 A10 | n32 Sm12.I | [Deutschland : Schiffahrt, Ölfeuerung und Motorschiffahrt, Allgemein](https://pm20.zbw.eu/folder/sh/1261xx/126128/1455xx/145581/about.de.html ) | 10 | A 010 | n 32 SM 012.01
 A10 | n32 Sm12.II | [Deutschland : Schiffahrt, Ölfeuerung](https://pm20.zbw.eu/folder/sh/1261xx/126128/1455xx/145582/about.de.html ) | 12 | A 010 | n 32 SM 012.02
 A10 | n32 Sm12.III | [Deutschland : Motorschiffahrt](https://pm20.zbw.eu/folder/sh/1261xx/126128/1455xx/145583/about.de.html ) | 30 | A 010 | n 32 SM 012.03
-A10 | n32 Sm13 | [Deutschland : Trampschifffahrt](https://pm20.zbw.eu/folder/sh/1261xx/126128/1455xx/145584/about.de.html ) | 38 | A 010 | n 32 SM 013
+A10 | n32 Sm13 | [Deutschland : Trampschiffahrt](https://pm20.zbw.eu/folder/sh/1261xx/126128/1455xx/145584/about.de.html ) | 38 | A 010 | n 32 SM 013
 A10 | n32 Sm14 | [Deutschland : Küstenschiffahrt, kombinierte Fluss-Seeschiffahrt](https://pm20.zbw.eu/folder/sh/1261xx/126128/1455xx/145585/about.de.html ) | 108 | A 010 | n 32 SM 014
 A10 | n32 Sm15 | [Deutschland : Bedeutung und Entwicklung der Segelschiffahrt](https://pm20.zbw.eu/folder/sh/1261xx/126128/1455xx/145586/about.de.html ) | 48 | A 010 | n 32 SM 015
 A10 | n32 Sm16 | [Deutschland : Seeschiffahrt, Passagierraten, Allgemein](https://pm20.zbw.eu/folder/sh/1261xx/126128/1455xx/145587/about.de.html ) | 16 | A 010 | n 32 SM 016
@@ -1937,7 +1937,7 @@ A10 | q Sm37 | [Deutschland : Mormonen](https://pm20.zbw.eu/folder/sh/1261xx/126
 A10 | q Sm38 | [Deutschland : Rotarybewegung](https://pm20.zbw.eu/folder/sh/1261xx/126128/1459xx/145990/about.de.html ) | 12 | A 010 | q SM 038
 A10 | q Sm41 | [Deutschland : Korruption](https://pm20.zbw.eu/folder/sh/1261xx/126128/1459xx/145992/about.de.html ) | 87 | A 010 | q SM 041
 A10 | q Sm501 (A10) | [Deutschland : Marokko-Kongo Abkommen 1911](https://pm20.zbw.eu/folder/sh/1261xx/126128/1459xx/145997/about.de.html ) | 199 | A 010 | q SM 501 (A 010)
-A10(19) | n19 | [Böhmen und Mähren (Reichsprotektorat) : Handelsbeziehungen zu einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1400xx/140098/1452xx/145289/about.de.html ) | 1 | A 010 (19) | n 19
+A10(19) | n19 | [Böhmen und Mähren (Protektorat) : Handelsbeziehungen zu einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1400xx/140098/1452xx/145289/about.de.html ) | 1 | A 010 (19) | n 19
 A10(t1) | d1 | [Deutschland (unter alliierter Besetzung) : Bevölkerungsbewegung, Bevölkerungsstatistik](https://pm20.zbw.eu/folder/sh/1872xx/187230/1442xx/144222/about.de.html ) | 1 | A 010(t1) | d 01
 A10(t1) | h | [Deutschland (unter alliierter Besetzung) : Verwaltung, Allgemein](https://pm20.zbw.eu/folder/sh/1872xx/187230/1446xx/144659/about.de.html ) | 1 | A 010(t1) | h
 A10(t1) | h Sm501 (A10) | [Deutschland (unter alliierter Besetzung) : Besatzungsmächte (Verwaltung)](https://pm20.zbw.eu/folder/sh/1872xx/187230/2057xx/205741/about.de.html ) | 50 | A 010(t1) | h 00 SM 501 (A 10)
@@ -2071,7 +2071,7 @@ A11 | f4 | [Deutsche Kolonien : Verfassung, Staatsform](https://pm20.zbw.eu/fold
 A11 | f4 Sm12 | [Deutsche Kolonien : Staatsangehörigkeit, Bürgerrecht, Naturalisation](https://pm20.zbw.eu/folder/sh/1409xx/140960/1443xx/144368/about.de.html ) | 6 | A 011 | f 04 SM 012
 A11 | f5a | [Deutsche Kolonien : Einzelne Parteien und Parteigruppen](https://pm20.zbw.eu/folder/sh/1409xx/140960/1444xx/144420/about.de.html ) | 1 | A 011 | f 05a
 A11 | g4 Sm2.IIIa | [Deutsche Kolonien : Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung u. Liquidation, Allg.](https://pm20.zbw.eu/folder/sh/1409xx/140960/1444xx/144476/about.de.html ) | 6 | A 011 | g 04 SM 002.03a
-A11 | g4 Sm2.IIIb | [Deutsche Kolonien : Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen einz. Länder](https://pm20.zbw.eu/folder/sh/1409xx/140960/1444xx/144477/about.de.html ) | 9 | A 011 | g 04 SM 002.03b
+A11 | g4 Sm2.IIIb | [Deutsche Kolonien : Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung und Liquidation von Eigentum der Angehörigen einzelner Länder](https://pm20.zbw.eu/folder/sh/1409xx/140960/1444xx/144477/about.de.html ) | 9 | A 011 | g 04 SM 002.03b
 A11 | g4a | [Deutsche Kolonien : Wirtschaftspolitische Beziehungen zu einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1409xx/140960/1445xx/144531/about.de.html ) | 2 | A 011 | g 04a
 A11 | g5 | [Deutsche Kolonien : Kolonialpolitik, Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140960/1445xx/144558/about.de.html ) | 57 | A 011 | g 05
 A11 | g6 | [Deutsche Kolonien : Interessen fremder Staaten in ..., Allgemein](https://pm20.zbw.eu/folder/sh/1409xx/140960/1445xx/144565/about.de.html ) | 3 | A 011 | g 06
@@ -2376,13 +2376,13 @@ A43 | g Sm6 | [Osmanisches Reich (-1923) : Friedensbestrebungen (Weltkrieg)](htt
 A43 | g Sm7 | [Osmanisches Reich (-1923) : Waffenstillstand](https://pm20.zbw.eu/folder/sh/1410xx/141034/1445xx/144578/about.de.html ) | 52 | A 043 (alt) | g 00 SM 007
 A43 | g Sm17 (alt) | [Osmanisches Reich (-1923) : Stimmen und Stellung zum türkischen Friedensvertrag (Sevres)](https://pm20.zbw.eu/folder/sh/1410xx/141034/1445xx/144591/about.de.html ) | 98 | A 043 (alt) | g 00 SM 017 (alt)
 A43 | g Sm19 | [Osmanisches Reich (-1923) : Stimmen und Stellung zur Klärung der Kriegsschuldfrage (Weltkrieg)](https://pm20.zbw.eu/folder/sh/1410xx/141034/1445xx/144593/about.de.html ) | 1 | A 043 (alt) | g 00 SM 019
-A43 | g Sm501 (A43) | [Osmanisches Reich (-1923) : Friedensvertrag von Sevres (Weltkrieg)](https://pm20.zbw.eu/folder/sh/1410xx/141034/1635xx/163569/about.de.html ) | 121 | A 043 (alt) | g 00 SM 501 (A 043)
+A43 | g Sm501 (A43) | [Osmanisches Reich (-1923) : Friedensvertrag von Sevres (Erster Weltkrieg)](https://pm20.zbw.eu/folder/sh/1410xx/141034/1635xx/163569/about.de.html ) | 121 | A 043 (alt) | g 00 SM 501 (A 043)
 A43 | g Sm501.II (A43) | [Osmanisches Reich (-1923) : Friedensvertrag von Sevres (Weltkrieg), Stimmen und Stellung](https://pm20.zbw.eu/folder/sh/1410xx/141034/1446xx/144610/about.de.html ) | 2 | A 043 (alt) | g 00 SM 501.02 (A 043)
 A43 | g1 | [Osmanisches Reich (-1923) : Politische Beziehungen zu einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1410xx/141034/1444xx/144452/about.de.html ) | 19 | A 043 (alt) | g 01
 A43 | g4 | [Osmanisches Reich (-1923) : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein](https://pm20.zbw.eu/folder/sh/1410xx/141034/1444xx/144470/about.de.html ) | 4 | A 043 (alt) | g 04
 A43 | g4 Sm2.I | [Osmanisches Reich (-1923) : Wirtschaftskrieg, Allgemein](https://pm20.zbw.eu/folder/sh/1410xx/141034/1444xx/144474/about.de.html ) | 1 | A 043 (alt) | g 04 SM 002.01
 A43 | g4 Sm2.III | [Osmanisches Reich (-1923) : Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung und Liquidation](https://pm20.zbw.eu/folder/sh/1410xx/141034/1634xx/163411/about.de.html ) | 1 | A 043 (alt) | g 04 SM 002.03
-A43 | g4 Sm2.IIIb | [Osmanisches Reich (-1923) : Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen einz. Länder](https://pm20.zbw.eu/folder/sh/1410xx/141034/1444xx/144477/about.de.html ) | 1 | A 043 (alt) | g 04 SM 002.03b
+A43 | g4 Sm2.IIIb | [Osmanisches Reich (-1923) : Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung und Liquidation von Eigentum der Angehörigen einzelner Länder](https://pm20.zbw.eu/folder/sh/1410xx/141034/1444xx/144477/about.de.html ) | 1 | A 043 (alt) | g 04 SM 002.03b
 A43 | g4 Sm2.VI | [Osmanisches Reich (-1923) : Wirtschaftskrieg, Zahlungsverbote und Aufhebung von Lieferungsverträgen](https://pm20.zbw.eu/folder/sh/1410xx/141034/1634xx/163408/about.de.html ) | 10 | A 043 (alt) | g 04 SM 002.06
 A43 | g4 Sm4.II (alt) | [Osmanisches Reich (-1923) : Freihäfen, Einzelne Freihafenprojekte](https://pm20.zbw.eu/folder/sh/1410xx/141034/1444xx/144485/about.de.html ) | 2 | A 043 (alt) | g 04 SM 004.02 (alt)
 A43 | g4 Sm6 | [Osmanisches Reich (-1923) : Staatliche Handelskredite, Garantieübernahme, Subventionierung, Förderung des Aussenhandels](https://pm20.zbw.eu/folder/sh/1410xx/141034/1444xx/144487/about.de.html ) | 24 | A 043 (alt) | g 04 SM 006
@@ -2696,7 +2696,7 @@ B21 | g4 | [Türkei (1923 -) : Handelspolitik, Auswärtige Wirtschaftspolitik, A
 B21 | g4 Sm1.I | [Türkei (1923 -) : Zollpolitik, Allgemein](https://pm20.zbw.eu/folder/sh/1411xx/141111/1444xx/144471/about.de.html ) | 15 | B 021 | g 04 SM 001.01
 B21 | g4 Sm1.III | [Türkei (1923 -) : Zollpolitik, Einfuhrkontingentierung, Ein-, Aus- und Durchfuhrverbote, Allgemein](https://pm20.zbw.eu/folder/sh/1411xx/141111/1444xx/144473/about.de.html ) | 177 | B 021 | g 04 SM 001.03
 B21 | g4 Sm2.III | [Türkei (1923 -) : Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung und Liquidation](https://pm20.zbw.eu/folder/sh/1411xx/141111/1634xx/163411/about.de.html ) | 5 | B 021 | g 04 SM 002.03
-B21 | g4 Sm2.IIIb | [Türkei (1923 -) : Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen einz. Länder](https://pm20.zbw.eu/folder/sh/1411xx/141111/1444xx/144477/about.de.html ) | 1 | B 021 | g 04 SM 002.03b
+B21 | g4 Sm2.IIIb | [Türkei (1923 -) : Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung und Liquidation von Eigentum der Angehörigen einzelner Länder](https://pm20.zbw.eu/folder/sh/1411xx/141111/1444xx/144477/about.de.html ) | 1 | B 021 | g 04 SM 002.03b
 B21 | g4 Sm3 | [Türkei (1923 -) : Staatliche Wirtschaftspropaganda](https://pm20.zbw.eu/folder/sh/1411xx/141111/1633xx/163381/about.de.html ) | 28 | B 021 | g 04 SM 003
 B21 | g4 Sm3.I | [Türkei (1923 -) : Staatliche Wirtschaftspropaganda, Allgemein](https://pm20.zbw.eu/folder/sh/1411xx/141111/1444xx/144482/about.de.html ) | 25 | B 021 | g 04 SM 003.01
 B21 | g4 Sm3.II | [Türkei (1923 -) : Staatliche Wirtschaftspropaganda, Ausstellungen und Messen, Allgemein](https://pm20.zbw.eu/folder/sh/1411xx/141111/1444xx/144483/about.de.html ) | 112 | B 021 | g 04 SM 003.02
@@ -2711,7 +2711,7 @@ B21 | g4 Sm25 | [Türkei (1923 -) : Ausgleich laufender Aussenhandelsforderungen
 B21 | g4 Sm50 | [Türkei (1923 -) : Handelspolitik, Institutionen](https://pm20.zbw.eu/folder/sh/1411xx/141111/1865xx/186580/about.de.html ) | 34 | B 021 | g 04 SM 050
 B21 | g4a | [Türkei (1923 -) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1411xx/141111/1445xx/144531/about.de.html ) | 257 | B 021 | g 04a
 B21 | g4a Sm1 | [Türkei (1923 -) : Wirtschaftliche Kompensationen, Warenaustausch](https://pm20.zbw.eu/folder/sh/1411xx/141111/1445xx/144532/about.de.html ) | 26 | B 021 | g 04a SM 001
-B21 | g4a Sm2 | [Türkei (1923 -) : Handelkredite](https://pm20.zbw.eu/folder/sh/1411xx/141111/1445xx/144533/about.de.html ) | 5 | B 021 | g 04a SM 002
+B21 | g4a Sm2 | [Türkei (1923 -) : Handelskredite](https://pm20.zbw.eu/folder/sh/1411xx/141111/1445xx/144533/about.de.html ) | 5 | B 021 | g 04a SM 002
 B21 | g4a Sm13 | [Türkei (1923 -) : Eisenbahnverkehr, Transit](https://pm20.zbw.eu/folder/sh/1411xx/141111/1445xx/144543/about.de.html ) | 5 | B 021 | g 04a SM 013
 B21 | g4a Sm14 | [Türkei (1923 -) : Schiffahrt (Wirtschaftspolitische Beziehungen zu einzelnen Ländern)](https://pm20.zbw.eu/folder/sh/1411xx/141111/1445xx/144544/about.de.html ) | 4 | B 021 | g 04a SM 014
 B21 | g4a Sm16 | [Türkei (1923 -) : Rechtspflege, Rechtsangleichung](https://pm20.zbw.eu/folder/sh/1411xx/141111/1445xx/144546/about.de.html ) | 2 | B 021 | g 04a SM 016
@@ -3121,7 +3121,7 @@ B21 | n32 Sm9 | [Türkei (1923 -) : Seeschiffahrt, Öffentliche Kredite und Subv
 B21 | n32 Sm11 | [Türkei (1923 -) : Seeschiffahrt, Bergungswesen](https://pm20.zbw.eu/folder/sh/1411xx/141111/1455xx/145580/about.de.html ) | 29 | B 021 | n 32 SM 011
 B21 | n32 Sm12.II | [Türkei (1923 -) : Schiffahrt, Ölfeuerung](https://pm20.zbw.eu/folder/sh/1411xx/141111/1455xx/145582/about.de.html ) | 1 | B 021 | n 32 SM 012.02
 B21 | n32 Sm12.III | [Türkei (1923 -) : Motorschiffahrt](https://pm20.zbw.eu/folder/sh/1411xx/141111/1455xx/145583/about.de.html ) | 1 | B 021 | n 32 SM 012.03
-B21 | n32 Sm13 | [Türkei (1923 -) : Trampschifffahrt](https://pm20.zbw.eu/folder/sh/1411xx/141111/1455xx/145584/about.de.html ) | 2 | B 021 | n 32 SM 013
+B21 | n32 Sm13 | [Türkei (1923 -) : Trampschiffahrt](https://pm20.zbw.eu/folder/sh/1411xx/141111/1455xx/145584/about.de.html ) | 2 | B 021 | n 32 SM 013
 B21 | n32 Sm14 | [Türkei (1923 -) : Küstenschiffahrt, kombinierte Fluss-Seeschiffahrt](https://pm20.zbw.eu/folder/sh/1411xx/141111/1455xx/145585/about.de.html ) | 41 | B 021 | n 32 SM 014
 B21 | n32 Sm15 | [Türkei (1923 -) : Bedeutung und Entwicklung der Segelschiffahrt](https://pm20.zbw.eu/folder/sh/1411xx/141111/1455xx/145586/about.de.html ) | 2 | B 021 | n 32 SM 015
 B21 | n32 Sm17 | [Türkei (1923 -) : Seerecht](https://pm20.zbw.eu/folder/sh/1411xx/141111/1615xx/161598/about.de.html ) | 8 | B 021 | n 32 SM 017
@@ -3552,7 +3552,7 @@ B24 | g4 Sm1 | [Syrien : Zollpolitik](https://pm20.zbw.eu/folder/sh/1411xx/14111
 B24 | g4 Sm1.I | [Syrien : Zollpolitik, Allgemein](https://pm20.zbw.eu/folder/sh/1411xx/141114/1444xx/144471/about.de.html ) | 8 | B 024 | g 04 SM 001.01
 B24 | g4 Sm1.III | [Syrien : Zollpolitik, Einfuhrkontingentierung, Ein-, Aus- und Durchfuhrverbote, Allgemein](https://pm20.zbw.eu/folder/sh/1411xx/141114/1444xx/144473/about.de.html ) | 18 | B 024 | g 04 SM 001.03
 B24 | g4 Sm2.IIIa | [Syrien : Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung u. Liquidation, Allg.](https://pm20.zbw.eu/folder/sh/1411xx/141114/1444xx/144476/about.de.html ) | 1 | B 024 | g 04 SM 002.03a
-B24 | g4 Sm2.IIIb | [Syrien : Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen einz. Länder](https://pm20.zbw.eu/folder/sh/1411xx/141114/1444xx/144477/about.de.html ) | 1 | B 024 | g 04 SM 002.03b
+B24 | g4 Sm2.IIIb | [Syrien : Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung und Liquidation von Eigentum der Angehörigen einzelner Länder](https://pm20.zbw.eu/folder/sh/1411xx/141114/1444xx/144477/about.de.html ) | 1 | B 024 | g 04 SM 002.03b
 B24 | g4 Sm2.V | [Syrien : Wirtschaftskrieg, Schwarze Listen](https://pm20.zbw.eu/folder/sh/1411xx/141114/1444xx/144478/about.de.html ) | 1 | B 024 | g 04 SM 002.05
 B24 | g4 Sm3 | [Syrien : Staatliche Wirtschaftspropaganda](https://pm20.zbw.eu/folder/sh/1411xx/141114/1633xx/163381/about.de.html ) | 4 | B 024 | g 04 SM 003
 B24 | g4 Sm4.I (alt) | [Syrien : Freihäfen, Allgemein](https://pm20.zbw.eu/folder/sh/1411xx/141114/1444xx/144484/about.de.html ) | 6 | B 024 | g 04 SM 004.01 (alt)
@@ -3794,7 +3794,7 @@ B24a | g2a | [Palästina (-1945) : Diplomatische und konsularische Vertretungen 
 B24a | g4 | [Palästina (-1945) : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein](https://pm20.zbw.eu/folder/sh/1411xx/141115/1444xx/144470/about.de.html ) | 24 | B 024a | g 04
 B24a | g4 Sm1 | [Palästina (-1945) : Zollpolitik](https://pm20.zbw.eu/folder/sh/1411xx/141115/1634xx/163419/about.de.html ) | 8 | B 024a | g 04 SM 001
 B24a | g4 Sm1.III | [Palästina (-1945) : Zollpolitik, Einfuhrkontingentierung, Ein-, Aus- und Durchfuhrverbote, Allgemein](https://pm20.zbw.eu/folder/sh/1411xx/141115/1444xx/144473/about.de.html ) | 24 | B 024a | g 04 SM 001.03
-B24a | g4 Sm2.IIIb | [Palästina (-1945) : Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen einz. Länder](https://pm20.zbw.eu/folder/sh/1411xx/141115/1444xx/144477/about.de.html ) | 3 | B 024a | g 04 SM 002.03b
+B24a | g4 Sm2.IIIb | [Palästina (-1945) : Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung und Liquidation von Eigentum der Angehörigen einzelner Länder](https://pm20.zbw.eu/folder/sh/1411xx/141115/1444xx/144477/about.de.html ) | 3 | B 024a | g 04 SM 002.03b
 B24a | g4 Sm3 | [Palästina (-1945) : Staatliche Wirtschaftspropaganda](https://pm20.zbw.eu/folder/sh/1411xx/141115/1633xx/163381/about.de.html ) | 36 | B 024a | g 04 SM 003
 B24a | g4 Sm4.II (alt) | [Palästina (-1945) : Freihäfen, Einzelne Freihafenprojekte](https://pm20.zbw.eu/folder/sh/1411xx/141115/1444xx/144485/about.de.html ) | 2 | B 024a | g 04 SM 004.02 (alt)
 B24a | g4 Sm5 | [Palästina (-1945) : Beschränkung des freien Handels](https://pm20.zbw.eu/folder/sh/1411xx/141115/1444xx/144486/about.de.html ) | 3 | B 024a | g 04 SM 005
@@ -3803,7 +3803,7 @@ B24a | g4 Sm21 | [Palästina (-1945) : Handelspolitische und zollrechtliche Mass
 B24a | g4 Sm25 | [Palästina (-1945) : Ausgleich laufender Aussenhandelsforderungen und -schulden](https://pm20.zbw.eu/folder/sh/1411xx/141115/1444xx/144493/about.de.html ) | 1 | B 024a | g 04 SM 025
 B24a | g4a | [Palästina (-1945) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1411xx/141115/1445xx/144531/about.de.html ) | 181 | B 024a | g 04a
 B24a | g4a Sm1 | [Palästina (-1945) : Wirtschaftliche Kompensationen, Warenaustausch](https://pm20.zbw.eu/folder/sh/1411xx/141115/1445xx/144532/about.de.html ) | 4 | B 024a | g 04a SM 001
-B24a | g4a Sm2 | [Palästina (-1945) : Handelkredite](https://pm20.zbw.eu/folder/sh/1411xx/141115/1445xx/144533/about.de.html ) | 3 | B 024a | g 04a SM 002
+B24a | g4a Sm2 | [Palästina (-1945) : Handelskredite](https://pm20.zbw.eu/folder/sh/1411xx/141115/1445xx/144533/about.de.html ) | 3 | B 024a | g 04a SM 002
 B24a | g4a Sm5 | [Palästina (-1945) : Urheberschutz (Wirtschaftspolitische Beziehungen zu einzelnen Ländern)](https://pm20.zbw.eu/folder/sh/1411xx/141115/1445xx/144536/about.de.html ) | 1 | B 024a | g 04a SM 005
 B24a | g4a Sm8 | [Palästina (-1945) : Verträge über Kraftfahrzeugverkehr](https://pm20.zbw.eu/folder/sh/1411xx/141115/1445xx/144539/about.de.html ) | 2 | B 024a | g 04a SM 008
 B24a | g4a Sm13 | [Palästina (-1945) : Eisenbahnverkehr, Transit](https://pm20.zbw.eu/folder/sh/1411xx/141115/1445xx/144543/about.de.html ) | 1 | B 024a | g 04a SM 013
@@ -4222,7 +4222,7 @@ B99a | g | [Innere Mongolei : Außenpolitik und politische Beziehungen zum Ausla
 B99a | g1 | [Innere Mongolei : Politische Beziehungen zu einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1412xx/141264/1444xx/144452/about.de.html ) | 1 | B 099a | g 01
 B99a | g2 | [Innere Mongolei : Diplomatische und konsularische Vertretungen](https://pm20.zbw.eu/folder/sh/1412xx/141264/1444xx/144461/about.de.html ) | 1 | B 099a | g 02
 B99a | g4 | [Innere Mongolei : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein](https://pm20.zbw.eu/folder/sh/1412xx/141264/1444xx/144470/about.de.html ) | 1 | B 099a | g 04
-B99a | g4a Sm2 | [Innere Mongolei : Handelkredite](https://pm20.zbw.eu/folder/sh/1412xx/141264/1445xx/144533/about.de.html ) | 1 | B 099a | g 04a SM 002
+B99a | g4a Sm2 | [Innere Mongolei : Handelskredite](https://pm20.zbw.eu/folder/sh/1412xx/141264/1445xx/144533/about.de.html ) | 1 | B 099a | g 04a SM 002
 B99a | h | [Innere Mongolei : Verwaltung, Allgemein](https://pm20.zbw.eu/folder/sh/1412xx/141264/1446xx/144659/about.de.html ) | 2 | B 099a | h
 B99a | m1 | [Innere Mongolei : Staatshaushalt](https://pm20.zbw.eu/folder/sh/1412xx/141264/1448xx/144810/about.de.html ) | 6 | B 099a | m 01
 B99a | m1 Sm5.II | [Innere Mongolei : Äußere Schuld, Gegenüber einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1412xx/141264/1448xx/144819/about.de.html ) | 3 | B 099a | m 01 SM 005.02
@@ -4365,7 +4365,7 @@ B102 | g4 | [Hongkong : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemei
 B102 | g4 Sm1.III | [Hongkong : Zollpolitik, Einfuhrkontingentierung, Ein-, Aus- und Durchfuhrverbote, Allgemein](https://pm20.zbw.eu/folder/sh/1412xx/141268/1444xx/144473/about.de.html ) | 8 | B 102 | g 04 SM 001.03
 B102 | g4 Sm2.I | [Hongkong : Wirtschaftskrieg, Allgemein](https://pm20.zbw.eu/folder/sh/1412xx/141268/1444xx/144474/about.de.html ) | 9 | B 102 | g 04 SM 002.01
 B102 | g4 Sm2.IIIa | [Hongkong : Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung u. Liquidation, Allg.](https://pm20.zbw.eu/folder/sh/1412xx/141268/1444xx/144476/about.de.html ) | 4 | B 102 | g 04 SM 002.03a
-B102 | g4 Sm2.IIIb | [Hongkong : Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen einz. Länder](https://pm20.zbw.eu/folder/sh/1412xx/141268/1444xx/144477/about.de.html ) | 10 | B 102 | g 04 SM 002.03b
+B102 | g4 Sm2.IIIb | [Hongkong : Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung und Liquidation von Eigentum der Angehörigen einzelner Länder](https://pm20.zbw.eu/folder/sh/1412xx/141268/1444xx/144477/about.de.html ) | 10 | B 102 | g 04 SM 002.03b
 B102 | g4 Sm2.V | [Hongkong : Wirtschaftskrieg, Schwarze Listen](https://pm20.zbw.eu/folder/sh/1412xx/141268/1444xx/144478/about.de.html ) | 1 | B 102 | g 04 SM 002.05
 B102 | g4 Sm3.II | [Hongkong : Staatliche Wirtschaftspropaganda, Ausstellungen und Messen, Allgemein](https://pm20.zbw.eu/folder/sh/1412xx/141268/1444xx/144483/about.de.html ) | 3 | B 102 | g 04 SM 003.02
 B102 | g4 Sm21 | [Hongkong : Handelspolitische und zollrechtliche Massnahmen aus dem Deutschen Handelsarchiv](https://pm20.zbw.eu/folder/sh/1412xx/141268/1444xx/144492/about.de.html ) | 49 | B 102 | g 04 SM 021
@@ -4496,7 +4496,7 @@ B103 | f2 | [Kiautschou : Geschichtliche Vorgänge](https://pm20.zbw.eu/folder/s
 B103 | f2.1 | [Kiautschou : Geschichtliche Vorgänge 1900-1914](https://pm20.zbw.eu/folder/sh/1261xx/126163/1813xx/181392/about.de.html ) | 14 | B 103 | f 02.01
 B103 | f2.2 | [Kiautschou : Geschichtliche Vorgänge 1914-1918 (1. Weltkrieg)](https://pm20.zbw.eu/folder/sh/1261xx/126163/1813xx/181360/about.de.html ) | 55 | B 103 | f 02.02
 B103 | f2.3 | [Kiautschou : Geschichtliche Vorgänge 1918-1939](https://pm20.zbw.eu/folder/sh/1261xx/126163/1813xx/181391/about.de.html ) | 32 | B 103 | f 02.03
-B103 | g4 Sm2.IIIb | [Kiautschou : Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen einz. Länder](https://pm20.zbw.eu/folder/sh/1261xx/126163/1444xx/144477/about.de.html ) | 4 | B 103 | g 04 SM 002.03b
+B103 | g4 Sm2.IIIb | [Kiautschou : Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung und Liquidation von Eigentum der Angehörigen einzelner Länder](https://pm20.zbw.eu/folder/sh/1261xx/126163/1444xx/144477/about.de.html ) | 4 | B 103 | g 04 SM 002.03b
 B103 | h | [Kiautschou : Verwaltung, Allgemein](https://pm20.zbw.eu/folder/sh/1261xx/126163/1446xx/144659/about.de.html ) | 9 | B 103 | h
 B103 | h2 | [Kiautschou : Beamtenwesen, Öffentlicher Dienst](https://pm20.zbw.eu/folder/sh/1261xx/126163/1446xx/144661/about.de.html ) | 2 | B 103 | h 02
 B103 | h4 | [Kiautschou : Polizeiwesen](https://pm20.zbw.eu/folder/sh/1261xx/126163/1446xx/144666/about.de.html ) | 2 | B 103 | h 04
@@ -4693,7 +4693,7 @@ B111 | g4 Sm1.III | [Japan : Zollpolitik, Einfuhrkontingentierung, Ein-, Aus- un
 B111 | g4 Sm2.I | [Japan : Wirtschaftskrieg, Allgemein](https://pm20.zbw.eu/folder/sh/1412xx/141272/1444xx/144474/about.de.html ) | 16 | B 111 | g 04 SM 002.01
 B111 | g4 Sm2.II | [Japan : Wirtschaftskrieg, Gesetze und Verordnungen](https://pm20.zbw.eu/folder/sh/1412xx/141272/1444xx/144475/about.de.html ) | 6 | B 111 | g 04 SM 002.02
 B111 | g4 Sm2.IIIa | [Japan : Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung u. Liquidation, Allg.](https://pm20.zbw.eu/folder/sh/1412xx/141272/1444xx/144476/about.de.html ) | 15 | B 111 | g 04 SM 002.03a
-B111 | g4 Sm2.IIIb | [Japan : Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen einz. Länder](https://pm20.zbw.eu/folder/sh/1412xx/141272/1444xx/144477/about.de.html ) | 37 | B 111 | g 04 SM 002.03b
+B111 | g4 Sm2.IIIb | [Japan : Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung und Liquidation von Eigentum der Angehörigen einzelner Länder](https://pm20.zbw.eu/folder/sh/1412xx/141272/1444xx/144477/about.de.html ) | 37 | B 111 | g 04 SM 002.03b
 B111 | g4 Sm2.V | [Japan : Wirtschaftskrieg, Schwarze Listen](https://pm20.zbw.eu/folder/sh/1412xx/141272/1444xx/144478/about.de.html ) | 3 | B 111 | g 04 SM 002.05
 B111 | g4 Sm3 | [Japan : Staatliche Wirtschaftspropaganda](https://pm20.zbw.eu/folder/sh/1412xx/141272/1633xx/163381/about.de.html ) | 59 | B 111 | g 04 SM 003
 B111 | g4 Sm3.I | [Japan : Staatliche Wirtschaftspropaganda, Allgemein](https://pm20.zbw.eu/folder/sh/1412xx/141272/1444xx/144482/about.de.html ) | 57 | B 111 | g 04 SM 003.01
@@ -4709,7 +4709,7 @@ B111 | g4 Sm25 | [Japan : Ausgleich laufender Aussenhandelsforderungen und -schu
 B111 | g4 Sm50 | [Japan : Handelspolitik, Institutionen](https://pm20.zbw.eu/folder/sh/1412xx/141272/1865xx/186580/about.de.html ) | 48 | B 111 | g 04 SM 050
 B111 | g4a | [Japan : Wirtschaftspolitische Beziehungen zu einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1412xx/141272/1445xx/144531/about.de.html ) | 1781 | B 111 | g 04a
 B111 | g4a Sm1 | [Japan : Wirtschaftliche Kompensationen, Warenaustausch](https://pm20.zbw.eu/folder/sh/1412xx/141272/1445xx/144532/about.de.html ) | 22 | B 111 | g 04a SM 001
-B111 | g4a Sm2 | [Japan : Handelkredite](https://pm20.zbw.eu/folder/sh/1412xx/141272/1445xx/144533/about.de.html ) | 32 | B 111 | g 04a SM 002
+B111 | g4a Sm2 | [Japan : Handelskredite](https://pm20.zbw.eu/folder/sh/1412xx/141272/1445xx/144533/about.de.html ) | 32 | B 111 | g 04a SM 002
 B111 | g4a Sm5 | [Japan : Urheberschutz (Wirtschaftspolitische Beziehungen zu einzelnen Ländern)](https://pm20.zbw.eu/folder/sh/1412xx/141272/1445xx/144536/about.de.html ) | 1 | B 111 | g 04a SM 005
 B111 | g4a Sm6 | [Japan : Fischereiverträge](https://pm20.zbw.eu/folder/sh/1412xx/141272/1445xx/144537/about.de.html ) | 249 | B 111 | g 04a SM 006
 B111 | g4a Sm7 | [Japan : Luftverkehrsverträge](https://pm20.zbw.eu/folder/sh/1412xx/141272/1445xx/144538/about.de.html ) | 8 | B 111 | g 04a SM 007
@@ -4965,7 +4965,7 @@ B111 | n13 | [Japan : Industrie](https://pm20.zbw.eu/folder/sh/1412xx/141272/145
 B111 | n13 Sm2 | [Japan : Industrie, Konzentrationsbewegung](https://pm20.zbw.eu/folder/sh/1412xx/141272/1451xx/145100/about.de.html ) | 23 | B 111 | n 13 SM 002
 B111 | n13 Sm3 | [Japan : Industrie, Öffentliche Kredite und Subventionen](https://pm20.zbw.eu/folder/sh/1412xx/141272/1451xx/145101/about.de.html ) | 34 | B 111 | n 13 SM 003
 B111 | n13 Sm4.I | [Japan : Industrielle Verwertung von Naturkräften, Allgemein](https://pm20.zbw.eu/folder/sh/1412xx/141272/1451xx/145102/about.de.html ) | 3 | B 111 | n 13 SM 004.01
-B111 | n13 Sm5 | [Japan : Industrie: Konkurrenz auf dem Weltmarkt](https://pm20.zbw.eu/folder/sh/1412xx/141272/1451xx/145104/about.de.html ) | 30 | B 111 | n 13 SM 005
+B111 | n13 Sm5 | [Japan : Industrielle Konkurrenz auf dem Weltmarkt](https://pm20.zbw.eu/folder/sh/1412xx/141272/1451xx/145104/about.de.html ) | 30 | B 111 | n 13 SM 005
 B111 | n13 Sm6 | [Japan : Verständigungsaktionen zwischen Arbeitgebern und Arbeitnehmern](https://pm20.zbw.eu/folder/sh/1412xx/141272/1451xx/145105/about.de.html ) | 2 | B 111 | n 13 SM 006
 B111 | n13 Sm7 | [Japan : An- und Umsiedlung von Industrien, Standortsverlegung, Errichtung von Mietfabriken, Allgemein](https://pm20.zbw.eu/folder/sh/1412xx/141272/1451xx/145106/about.de.html ) | 12 | B 111 | n 13 SM 007
 B111 | n13 Sm9 | [Japan : Forschungswesen der Industrie, Allgemein](https://pm20.zbw.eu/folder/sh/1412xx/141272/1451xx/145109/about.de.html ) | 10 | B 111 | n 13 SM 009
@@ -5109,7 +5109,7 @@ B111 | n24 Sm18 | [Japan : Organisation des landwirtschaftlichen Kredits](https:
 B111 | n24 Sm21.I | [Japan : Bankwesen, Technik des ..., Allgemein](https://pm20.zbw.eu/folder/sh/1412xx/141272/1453xx/145383/about.de.html ) | 9 | B 111 | n 24 SM 021.01
 B111 | n24 Sm21.IIb | [Japan : Geschäftsbedingungen (im Bankverkehr), Zinsen, Provisionsfragen](https://pm20.zbw.eu/folder/sh/1412xx/141272/1453xx/145385/about.de.html ) | 23 | B 111 | n 24 SM 021.02b
 B111 | n24 Sm22 | [Japan : Bankwesen, Staatliche Aufsicht (Kontrolle), Publizitätspflicht](https://pm20.zbw.eu/folder/sh/1412xx/141272/1453xx/145390/about.de.html ) | 13 | B 111 | n 24 SM 022
-B111 | n24 Sm23 | [Japan : Misstände im Bankgewerbe und Kreditwesen](https://pm20.zbw.eu/folder/sh/1412xx/141272/1453xx/145391/about.de.html ) | 2 | B 111 | n 24 SM 023
+B111 | n24 Sm23 | [Japan : Missstände im Bankgewerbe und Kreditwesen](https://pm20.zbw.eu/folder/sh/1412xx/141272/1453xx/145391/about.de.html ) | 2 | B 111 | n 24 SM 023
 B111 | n24 Sm25 | [Japan : Arbeiterbanken und Beamtenbanken](https://pm20.zbw.eu/folder/sh/1412xx/141272/1453xx/145393/about.de.html ) | 1 | B 111 | n 24 SM 025
 B111 | n24 Sm27.I | [Japan : Bankwesen, Depots und Depositen, Allgemein](https://pm20.zbw.eu/folder/sh/1412xx/141272/1453xx/145395/about.de.html ) | 16 | B 111 | n 24 SM 027.01
 B111 | n24 Sm27.IIIa | [Japan : Bankwesen, Depositen, Allgemein](https://pm20.zbw.eu/folder/sh/1412xx/141272/1453xx/145397/about.de.html ) | 8 | B 111 | n 24 SM 027.03a
@@ -5177,7 +5177,7 @@ B111 | n32 Sm9 | [Japan : Seeschiffahrt, Öffentliche Kredite und Subventionieru
 B111 | n32 Sm11 | [Japan : Seeschiffahrt, Bergungswesen](https://pm20.zbw.eu/folder/sh/1412xx/141272/1455xx/145580/about.de.html ) | 20 | B 111 | n 32 SM 011
 B111 | n32 Sm12 | [Japan : Schiffahrt, Ölfeuerung und Motorschiffahrt](https://pm20.zbw.eu/folder/sh/1412xx/141272/1616xx/161602/about.de.html ) | 21 | B 111 | n 32 SM 012
 B111 | n32 Sm12.III | [Japan : Motorschiffahrt](https://pm20.zbw.eu/folder/sh/1412xx/141272/1455xx/145583/about.de.html ) | 2 | B 111 | n 32 SM 012.03
-B111 | n32 Sm13 | [Japan : Trampschifffahrt](https://pm20.zbw.eu/folder/sh/1412xx/141272/1455xx/145584/about.de.html ) | 39 | B 111 | n 32 SM 013
+B111 | n32 Sm13 | [Japan : Trampschiffahrt](https://pm20.zbw.eu/folder/sh/1412xx/141272/1455xx/145584/about.de.html ) | 39 | B 111 | n 32 SM 013
 B111 | n32 Sm14 | [Japan : Küstenschiffahrt, kombinierte Fluss-Seeschiffahrt](https://pm20.zbw.eu/folder/sh/1412xx/141272/1455xx/145585/about.de.html ) | 15 | B 111 | n 32 SM 014
 B111 | n32 Sm15 | [Japan : Bedeutung und Entwicklung der Segelschiffahrt](https://pm20.zbw.eu/folder/sh/1412xx/141272/1455xx/145586/about.de.html ) | 7 | B 111 | n 32 SM 015
 B111 | n32 Sm16 | [Japan : Seeschiffahrt, Passagierraten, Allgemein](https://pm20.zbw.eu/folder/sh/1412xx/141272/1455xx/145587/about.de.html ) | 1 | B 111 | n 32 SM 016
@@ -5309,7 +5309,7 @@ B112 | g | [Japanische Kolonien : Außenpolitik und politische Beziehungen zum A
 B112 | g4 | [Japanische Kolonien : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein](https://pm20.zbw.eu/folder/sh/1412xx/141273/1444xx/144470/about.de.html ) | 14 | B 112 | g 04
 B112 | g4 Sm1.III | [Japanische Kolonien : Zollpolitik, Einfuhrkontingentierung, Ein-, Aus- und Durchfuhrverbote, Allgemein](https://pm20.zbw.eu/folder/sh/1412xx/141273/1444xx/144473/about.de.html ) | 1 | B 112 | g 04 SM 001.03
 B112 | g4 Sm2.IIIa | [Japanische Kolonien : Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung u. Liquidation, Allg.](https://pm20.zbw.eu/folder/sh/1412xx/141273/1444xx/144476/about.de.html ) | 1 | B 112 | g 04 SM 002.03a
-B112 | g4 Sm2.IIIb | [Japanische Kolonien : Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen einz. Länder](https://pm20.zbw.eu/folder/sh/1412xx/141273/1444xx/144477/about.de.html ) | 1 | B 112 | g 04 SM 002.03b
+B112 | g4 Sm2.IIIb | [Japanische Kolonien : Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung und Liquidation von Eigentum der Angehörigen einzelner Länder](https://pm20.zbw.eu/folder/sh/1412xx/141273/1444xx/144477/about.de.html ) | 1 | B 112 | g 04 SM 002.03b
 B112 | g4 Sm5 | [Japanische Kolonien : Beschränkung des freien Handels](https://pm20.zbw.eu/folder/sh/1412xx/141273/1444xx/144486/about.de.html ) | 2 | B 112 | g 04 SM 005
 B112 | g4 Sm21 | [Japanische Kolonien : Handelspolitische und zollrechtliche Massnahmen aus dem Deutschen Handelsarchiv](https://pm20.zbw.eu/folder/sh/1412xx/141273/1444xx/144492/about.de.html ) | 1 | B 112 | g 04 SM 021
 B112 | g4 Sm25 | [Japanische Kolonien : Ausgleich laufender Aussenhandelsforderungen und -schulden](https://pm20.zbw.eu/folder/sh/1412xx/141273/1444xx/144493/about.de.html ) | 5 | B 112 | g 04 SM 025
@@ -5723,7 +5723,7 @@ C25 | g4 Sm1.I | [Französisch-Marokko : Zollpolitik, Allgemein](https://pm20.zb
 C25 | g4 Sm1.III | [Französisch-Marokko : Zollpolitik, Einfuhrkontingentierung, Ein-, Aus- und Durchfuhrverbote, Allgemein](https://pm20.zbw.eu/folder/sh/1413xx/141358/1444xx/144473/about.de.html ) | 20 | C 025 | g 04 SM 001.03
 C25 | g4 Sm2.I | [Französisch-Marokko : Wirtschaftskrieg, Allgemein](https://pm20.zbw.eu/folder/sh/1413xx/141358/1444xx/144474/about.de.html ) | 1 | C 025 | g 04 SM 002.01
 C25 | g4 Sm2.IIIa | [Französisch-Marokko : Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung u. Liquidation, Allg.](https://pm20.zbw.eu/folder/sh/1413xx/141358/1444xx/144476/about.de.html ) | 5 | C 025 | g 04 SM 002.03a
-C25 | g4 Sm2.IIIb | [Französisch-Marokko : Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen einz. Länder](https://pm20.zbw.eu/folder/sh/1413xx/141358/1444xx/144477/about.de.html ) | 19 | C 025 | g 04 SM 002.03b
+C25 | g4 Sm2.IIIb | [Französisch-Marokko : Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung und Liquidation von Eigentum der Angehörigen einzelner Länder](https://pm20.zbw.eu/folder/sh/1413xx/141358/1444xx/144477/about.de.html ) | 19 | C 025 | g 04 SM 002.03b
 C25 | g4 Sm2.V | [Französisch-Marokko : Wirtschaftskrieg, Schwarze Listen](https://pm20.zbw.eu/folder/sh/1413xx/141358/1444xx/144478/about.de.html ) | 1 | C 025 | g 04 SM 002.05
 C25 | g4 Sm3.I | [Französisch-Marokko : Staatliche Wirtschaftspropaganda, Allgemein](https://pm20.zbw.eu/folder/sh/1413xx/141358/1444xx/144482/about.de.html ) | 3 | C 025 | g 04 SM 003.01
 C25 | g4 Sm3.II | [Französisch-Marokko : Staatliche Wirtschaftspropaganda, Ausstellungen und Messen, Allgemein](https://pm20.zbw.eu/folder/sh/1413xx/141358/1444xx/144483/about.de.html ) | 5 | C 025 | g 04 SM 003.02
@@ -6187,7 +6187,7 @@ C56 | g1 Sm4 | [Liberia : Paßabmachungen mit anderen Ländern](https://pm20.zbw
 C56 | g2a | [Liberia : Diplomatische und konsularische Vertretungen in einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1414xx/141405/1444xx/144466/about.de.html ) | 10 | C 056 | g 02a
 C56 | g4 | [Liberia : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein](https://pm20.zbw.eu/folder/sh/1414xx/141405/1444xx/144470/about.de.html ) | 2 | C 056 | g 04
 C56 | g4 Sm2.I | [Liberia : Wirtschaftskrieg, Allgemein](https://pm20.zbw.eu/folder/sh/1414xx/141405/1444xx/144474/about.de.html ) | 1 | C 056 | g 04 SM 002.01
-C56 | g4 Sm2.IIIb | [Liberia : Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen einz. Länder](https://pm20.zbw.eu/folder/sh/1414xx/141405/1444xx/144477/about.de.html ) | 3 | C 056 | g 04 SM 002.03b
+C56 | g4 Sm2.IIIb | [Liberia : Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung und Liquidation von Eigentum der Angehörigen einzelner Länder](https://pm20.zbw.eu/folder/sh/1414xx/141405/1444xx/144477/about.de.html ) | 3 | C 056 | g 04 SM 002.03b
 C56 | g4 Sm21 | [Liberia : Handelspolitische und zollrechtliche Massnahmen aus dem Deutschen Handelsarchiv](https://pm20.zbw.eu/folder/sh/1414xx/141405/1444xx/144492/about.de.html ) | 9 | C 056 | g 04 SM 021
 C56 | g4a | [Liberia : Wirtschaftspolitische Beziehungen zu einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1414xx/141405/1445xx/144531/about.de.html ) | 23 | C 056 | g 04a
 C56 | g4a Sm7 | [Liberia : Luftverkehrsverträge](https://pm20.zbw.eu/folder/sh/1414xx/141405/1445xx/144538/about.de.html ) | 2 | C 056 | g 04a SM 007
@@ -6277,7 +6277,7 @@ C57 | g4 | [Goldküste, einschl. Togo (brit.) : Handelspolitik, Auswärtige Wirt
 C57 | g4 Sm1.I | [Goldküste, einschl. Togo (brit.) : Zollpolitik, Allgemein](https://pm20.zbw.eu/folder/sh/1414xx/141406/1444xx/144471/about.de.html ) | 2 | C 057 | g 04 SM 001.01
 C57 | g4 Sm1.III | [Goldküste, einschl. Togo (brit.) : Zollpolitik, Einfuhrkontingentierung, Ein-, Aus- und Durchfuhrverbote, Allgemein](https://pm20.zbw.eu/folder/sh/1414xx/141406/1444xx/144473/about.de.html ) | 2 | C 057 | g 04 SM 001.03
 C57 | g4 Sm2.IIIa | [Goldküste, einschl. Togo (brit.) : Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung u. Liquidation, Allg.](https://pm20.zbw.eu/folder/sh/1414xx/141406/1444xx/144476/about.de.html ) | 3 | C 057 | g 04 SM 002.03a
-C57 | g4 Sm2.IIIb | [Goldküste, einschl. Togo (brit.) : Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen einz. Länder](https://pm20.zbw.eu/folder/sh/1414xx/141406/1444xx/144477/about.de.html ) | 3 | C 057 | g 04 SM 002.03b
+C57 | g4 Sm2.IIIb | [Goldküste, einschl. Togo (brit.) : Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung und Liquidation von Eigentum der Angehörigen einzelner Länder](https://pm20.zbw.eu/folder/sh/1414xx/141406/1444xx/144477/about.de.html ) | 3 | C 057 | g 04 SM 002.03b
 C57 | g4 Sm3 | [Goldküste, einschl. Togo (brit.) : Staatliche Wirtschaftspropaganda](https://pm20.zbw.eu/folder/sh/1414xx/141406/1633xx/163381/about.de.html ) | 18 | C 057 | g 04 SM 003
 C57 | g4 Sm5 | [Goldküste, einschl. Togo (brit.) : Beschränkung des freien Handels](https://pm20.zbw.eu/folder/sh/1414xx/141406/1444xx/144486/about.de.html ) | 1 | C 057 | g 04 SM 005
 C57 | g4a | [Goldküste, einschl. Togo (brit.) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1414xx/141406/1445xx/144531/about.de.html ) | 4 | C 057 | g 04a
@@ -6384,7 +6384,7 @@ C58 | f2.2 | [Togo : Geschichtliche Vorgänge 1914-1918 (1. Weltkrieg)](https://
 C58 | f2.3 | [Togo : Geschichtliche Vorgänge 1918-1939](https://pm20.zbw.eu/folder/sh/1414xx/141408/1813xx/181391/about.de.html ) | 51 | C 058 | f 02.03
 C58 | g4 | [Togo : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein](https://pm20.zbw.eu/folder/sh/1414xx/141408/1444xx/144470/about.de.html ) | 4 | C 058 | g 04
 C58 | g4 Sm2.IIIa | [Togo : Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung u. Liquidation, Allg.](https://pm20.zbw.eu/folder/sh/1414xx/141408/1444xx/144476/about.de.html ) | 20 | C 058 | g 04 SM 002.03a
-C58 | g4 Sm2.IIIb | [Togo : Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen einz. Länder](https://pm20.zbw.eu/folder/sh/1414xx/141408/1444xx/144477/about.de.html ) | 18 | C 058 | g 04 SM 002.03b
+C58 | g4 Sm2.IIIb | [Togo : Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung und Liquidation von Eigentum der Angehörigen einzelner Länder](https://pm20.zbw.eu/folder/sh/1414xx/141408/1444xx/144477/about.de.html ) | 18 | C 058 | g 04 SM 002.03b
 C58 | g6 | [Togo : Interessen fremder Staaten in ..., Allgemein](https://pm20.zbw.eu/folder/sh/1414xx/141408/1445xx/144565/about.de.html ) | 3 | C 058 | g 06
 C58 | h | [Togo : Verwaltung, Allgemein](https://pm20.zbw.eu/folder/sh/1414xx/141408/1446xx/144659/about.de.html ) | 18 | C 058 | h
 C58 | h2 | [Togo : Beamtenwesen, Öffentlicher Dienst](https://pm20.zbw.eu/folder/sh/1414xx/141408/1446xx/144661/about.de.html ) | 1 | C 058 | h 02
@@ -6496,7 +6496,7 @@ C60 | g2a | [Nigeria, einschl. Kamerun (brit.) : Diplomatische und konsularische
 C60 | g4 | [Nigeria, einschl. Kamerun (brit.) : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein](https://pm20.zbw.eu/folder/sh/1414xx/141409/1444xx/144470/about.de.html ) | 9 | C 060 | g 04
 C60 | g4 Sm1 | [Nigeria, einschl. Kamerun (brit.) : Zollpolitik](https://pm20.zbw.eu/folder/sh/1414xx/141409/1634xx/163419/about.de.html ) | 5 | C 060 | g 04 SM 001
 C60 | g4 Sm1.III | [Nigeria, einschl. Kamerun (brit.) : Zollpolitik, Einfuhrkontingentierung, Ein-, Aus- und Durchfuhrverbote, Allgemein](https://pm20.zbw.eu/folder/sh/1414xx/141409/1444xx/144473/about.de.html ) | 6 | C 060 | g 04 SM 001.03
-C60 | g4 Sm2.IIIb | [Nigeria, einschl. Kamerun (brit.) : Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen einz. Länder](https://pm20.zbw.eu/folder/sh/1414xx/141409/1444xx/144477/about.de.html ) | 88 | C 060 | g 04 SM 002.03b
+C60 | g4 Sm2.IIIb | [Nigeria, einschl. Kamerun (brit.) : Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung und Liquidation von Eigentum der Angehörigen einzelner Länder](https://pm20.zbw.eu/folder/sh/1414xx/141409/1444xx/144477/about.de.html ) | 88 | C 060 | g 04 SM 002.03b
 C60 | g4 Sm5 | [Nigeria, einschl. Kamerun (brit.) : Beschränkung des freien Handels](https://pm20.zbw.eu/folder/sh/1414xx/141409/1444xx/144486/about.de.html ) | 1 | C 060 | g 04 SM 005
 C60 | g4a | [Nigeria, einschl. Kamerun (brit.) : Wirtschaftspolitische Beziehungen zu einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1414xx/141409/1445xx/144531/about.de.html ) | 1 | C 060 | g 04a
 C60 | h | [Nigeria, einschl. Kamerun (brit.) : Verwaltung, Allgemein](https://pm20.zbw.eu/folder/sh/1414xx/141409/1446xx/144659/about.de.html ) | 13 | C 060 | h
@@ -6857,7 +6857,7 @@ C87 | g1 Sm3 | [Deutsch-Südwestafrika : Grenzfragen](https://pm20.zbw.eu/folder
 C87 | g4 | [Deutsch-Südwestafrika : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein](https://pm20.zbw.eu/folder/sh/1414xx/141450/1444xx/144470/about.de.html ) | 2 | C 087 | g 04
 C87 | g4 Sm1 | [Deutsch-Südwestafrika : Zollpolitik](https://pm20.zbw.eu/folder/sh/1414xx/141450/1634xx/163419/about.de.html ) | 5 | C 087 | g 04 SM 001
 C87 | g4 Sm2.IIIa | [Deutsch-Südwestafrika : Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung u. Liquidation, Allg.](https://pm20.zbw.eu/folder/sh/1414xx/141450/1444xx/144476/about.de.html ) | 4 | C 087 | g 04 SM 002.03a
-C87 | g4 Sm2.IIIb | [Deutsch-Südwestafrika : Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen einz. Länder](https://pm20.zbw.eu/folder/sh/1414xx/141450/1444xx/144477/about.de.html ) | 25 | C 087 | g 04 SM 002.03b
+C87 | g4 Sm2.IIIb | [Deutsch-Südwestafrika : Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung und Liquidation von Eigentum der Angehörigen einzelner Länder](https://pm20.zbw.eu/folder/sh/1414xx/141450/1444xx/144477/about.de.html ) | 25 | C 087 | g 04 SM 002.03b
 C87 | g4 Sm3 | [Deutsch-Südwestafrika : Staatliche Wirtschaftspropaganda](https://pm20.zbw.eu/folder/sh/1414xx/141450/1633xx/163381/about.de.html ) | 5 | C 087 | g 04 SM 003
 C87 | g4 Sm4.II (alt) | [Deutsch-Südwestafrika : Freihäfen, Einzelne Freihafenprojekte](https://pm20.zbw.eu/folder/sh/1414xx/141450/1444xx/144485/about.de.html ) | 2 | C 087 | g 04 SM 004.02 (alt)
 C87 | g4 Sm6 | [Deutsch-Südwestafrika : Staatliche Handelskredite, Garantieübernahme, Subventionierung, Förderung des Aussenhandels](https://pm20.zbw.eu/folder/sh/1414xx/141450/1444xx/144487/about.de.html ) | 4 | C 087 | g 04 SM 006
@@ -7664,7 +7664,7 @@ D5 | f4 Sm12 | [Hawaii : Staatsangehörigkeit, Bürgerrecht, Naturalisation](htt
 D5 | f5 | [Hawaii : Parteiwesen](https://pm20.zbw.eu/folder/sh/1415xx/141595/1443xx/144395/about.de.html ) | 1 | D 005 | f 05
 D5 | g2a | [Hawaii : Diplomatische und konsularische Vertretungen in einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1415xx/141595/1444xx/144466/about.de.html ) | 2 | D 005 | g 02a
 D5 | g4 Sm2.IIIa | [Hawaii : Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung u. Liquidation, Allg.](https://pm20.zbw.eu/folder/sh/1415xx/141595/1444xx/144476/about.de.html ) | 3 | D 005 | g 04 SM 002.03a
-D5 | g4 Sm2.IIIb | [Hawaii : Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen einz. Länder](https://pm20.zbw.eu/folder/sh/1415xx/141595/1444xx/144477/about.de.html ) | 3 | D 005 | g 04 SM 002.03b
+D5 | g4 Sm2.IIIb | [Hawaii : Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung und Liquidation von Eigentum der Angehörigen einzelner Länder](https://pm20.zbw.eu/folder/sh/1415xx/141595/1444xx/144477/about.de.html ) | 3 | D 005 | g 04 SM 002.03b
 D5 | g4 Sm21 | [Hawaii : Handelspolitische und zollrechtliche Massnahmen aus dem Deutschen Handelsarchiv](https://pm20.zbw.eu/folder/sh/1415xx/141595/1444xx/144492/about.de.html ) | 2 | D 005 | g 04 SM 021
 D5 | g6 | [Hawaii : Interessen fremder Staaten in ..., Allgemein](https://pm20.zbw.eu/folder/sh/1415xx/141595/1445xx/144565/about.de.html ) | 2 | D 005 | g 06
 D5 | g6 Sm3 | [Hawaii : Interessen einzelner Staaten in ...](https://pm20.zbw.eu/folder/sh/1415xx/141595/1445xx/144568/about.de.html ) | 9 | D 005 | g 06 SM 003
@@ -7801,7 +7801,7 @@ D10 | f2.3 | [Deutsch-Neuguinea : Geschichtliche Vorgänge 1918-1939](https://pm
 D10 | f2.4 | [Deutsch-Neuguinea : Geschichtliche Vorgänge 1939-1945 (2. Weltkrieg)](https://pm20.zbw.eu/folder/sh/1416xx/141601/1813xx/181361/about.de.html ) | 1 | D 010 | f 02.04
 D10 | f4 | [Deutsch-Neuguinea : Verfassung, Staatsform](https://pm20.zbw.eu/folder/sh/1416xx/141601/1443xx/144355/about.de.html ) | 5 | D 010 | f 04
 D10 | g4 | [Deutsch-Neuguinea : Handelspolitik, Auswärtige Wirtschaftspolitik, Allgemein](https://pm20.zbw.eu/folder/sh/1416xx/141601/1444xx/144470/about.de.html ) | 3 | D 010 | g 04
-D10 | g4 Sm2.IIIb | [Deutsch-Neuguinea : Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen einz. Länder](https://pm20.zbw.eu/folder/sh/1416xx/141601/1444xx/144477/about.de.html ) | 69 | D 010 | g 04 SM 002.03b
+D10 | g4 Sm2.IIIb | [Deutsch-Neuguinea : Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung und Liquidation von Eigentum der Angehörigen einzelner Länder](https://pm20.zbw.eu/folder/sh/1416xx/141601/1444xx/144477/about.de.html ) | 69 | D 010 | g 04 SM 002.03b
 D10 | g4 Sm21 | [Deutsch-Neuguinea : Handelspolitische und zollrechtliche Massnahmen aus dem Deutschen Handelsarchiv](https://pm20.zbw.eu/folder/sh/1416xx/141601/1444xx/144492/about.de.html ) | 22 | D 010 | g 04 SM 021
 D10 | g6 Sm3 | [Deutsch-Neuguinea : Interessen einzelner Staaten in ...](https://pm20.zbw.eu/folder/sh/1416xx/141601/1445xx/144568/about.de.html ) | 1 | D 010 | g 06 SM 003
 D10 | h | [Deutsch-Neuguinea : Verwaltung, Allgemein](https://pm20.zbw.eu/folder/sh/1416xx/141601/1446xx/144659/about.de.html ) | 40 | D 010 | h
@@ -7892,7 +7892,7 @@ D11 | f | [Salomoninseln und Bismarck-Archipel : Geschichte, Politik, Allgemein]
 D11 | f2.1 | [Salomoninseln und Bismarck-Archipel : Geschichtliche Vorgänge 1900-1914](https://pm20.zbw.eu/folder/sh/1416xx/141610/1813xx/181392/about.de.html ) | 7 | D 011 | f 02.01
 D11 | f2.2 | [Salomoninseln und Bismarck-Archipel : Geschichtliche Vorgänge 1914-1918 (1. Weltkrieg)](https://pm20.zbw.eu/folder/sh/1416xx/141610/1813xx/181360/about.de.html ) | 2 | D 011 | f 02.02
 D11 | f2.3 | [Salomoninseln und Bismarck-Archipel : Geschichtliche Vorgänge 1918-1939](https://pm20.zbw.eu/folder/sh/1416xx/141610/1813xx/181391/about.de.html ) | 4 | D 011 | f 02.03
-D11 | g4 Sm2.IIIb | [Salomoninseln und Bismarck-Archipel : Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen einz. Länder](https://pm20.zbw.eu/folder/sh/1416xx/141610/1444xx/144477/about.de.html ) | 1 | D 011 | g 04 SM 002.03b
+D11 | g4 Sm2.IIIb | [Salomoninseln und Bismarck-Archipel : Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung und Liquidation von Eigentum der Angehörigen einzelner Länder](https://pm20.zbw.eu/folder/sh/1416xx/141610/1444xx/144477/about.de.html ) | 1 | D 011 | g 04 SM 002.03b
 D11 | h | [Salomoninseln und Bismarck-Archipel : Verwaltung, Allgemein](https://pm20.zbw.eu/folder/sh/1416xx/141610/1446xx/144659/about.de.html ) | 1 | D 011 | h
 D11 | h3 | [Salomoninseln und Bismarck-Archipel : Verwaltungsbezirke](https://pm20.zbw.eu/folder/sh/1416xx/141610/1446xx/144665/about.de.html ) | 1 | D 011 | h 03
 D11 | h8 | [Salomoninseln und Bismarck-Archipel : Eingeborenenpolitik](https://pm20.zbw.eu/folder/sh/1416xx/141610/1446xx/144692/about.de.html ) | 1 | D 011 | h 08
@@ -7916,7 +7916,7 @@ D12 | d | [Kaiser-Wilhelmsland : Bevölkerung und Bevölkerungspolitik](https://
 D12 | d4 | [Kaiser-Wilhelmsland : Volkscharakter, Sport, Sitten und Gebräuche](https://pm20.zbw.eu/folder/sh/1416xx/141612/1442xx/144228/about.de.html ) | 2 | D 012 | d 04
 D12 | f2.1 | [Kaiser-Wilhelmsland : Geschichtliche Vorgänge 1900-1914](https://pm20.zbw.eu/folder/sh/1416xx/141612/1813xx/181392/about.de.html ) | 5 | D 012 | f 02.01
 D12 | f2.3 | [Kaiser-Wilhelmsland : Geschichtliche Vorgänge 1918-1939](https://pm20.zbw.eu/folder/sh/1416xx/141612/1813xx/181391/about.de.html ) | 5 | D 012 | f 02.03
-D12 | g4 Sm2.IIIb | [Kaiser-Wilhelmsland : Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen einz. Länder](https://pm20.zbw.eu/folder/sh/1416xx/141612/1444xx/144477/about.de.html ) | 4 | D 012 | g 04 SM 002.03b
+D12 | g4 Sm2.IIIb | [Kaiser-Wilhelmsland : Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung und Liquidation von Eigentum der Angehörigen einzelner Länder](https://pm20.zbw.eu/folder/sh/1416xx/141612/1444xx/144477/about.de.html ) | 4 | D 012 | g 04 SM 002.03b
 D12 | h8 | [Kaiser-Wilhelmsland : Eingeborenenpolitik](https://pm20.zbw.eu/folder/sh/1416xx/141612/1446xx/144692/about.de.html ) | 1 | D 012 | h 08
 D12 | m3 | [Kaiser-Wilhelmsland : Steuerwesen (Finanzwesen)](https://pm20.zbw.eu/folder/sh/1416xx/141612/1448xx/144868/about.de.html ) | 1 | D 012 | m 03
 D12 | n | [Kaiser-Wilhelmsland : Wirtschaft, Allgemein](https://pm20.zbw.eu/folder/sh/1416xx/141612/1449xx/144930/about.de.html ) | 2 | D 012 | n
@@ -7964,7 +7964,7 @@ D18 | f2.1 | [Japanische Mandatländer in Ozeanien : Geschichtliche Vorgänge 19
 D18 | f2.3 | [Japanische Mandatländer in Ozeanien : Geschichtliche Vorgänge 1918-1939](https://pm20.zbw.eu/folder/sh/1416xx/141618/1813xx/181391/about.de.html ) | 66 | D 018 | f 02.03
 D18 | f2a | [Japanische Mandatländer in Ozeanien : Geschichtliche Vorgänge in einzelnen Staaten, Provinzen und Städten](https://pm20.zbw.eu/folder/sh/1416xx/141618/1443xx/144354/about.de.html ) | 1 | D 018 | f 02a
 D18 | f4 | [Japanische Mandatländer in Ozeanien : Verfassung, Staatsform](https://pm20.zbw.eu/folder/sh/1416xx/141618/1443xx/144355/about.de.html ) | 1 | D 018 | f 04
-D18 | g4 Sm2.IIIb | [Japanische Mandatländer in Ozeanien : Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen einz. Länder](https://pm20.zbw.eu/folder/sh/1416xx/141618/1444xx/144477/about.de.html ) | 3 | D 018 | g 04 SM 002.03b
+D18 | g4 Sm2.IIIb | [Japanische Mandatländer in Ozeanien : Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung und Liquidation von Eigentum der Angehörigen einzelner Länder](https://pm20.zbw.eu/folder/sh/1416xx/141618/1444xx/144477/about.de.html ) | 3 | D 018 | g 04 SM 002.03b
 D18 | g4 Sm21 | [Japanische Mandatländer in Ozeanien : Handelspolitische und zollrechtliche Massnahmen aus dem Deutschen Handelsarchiv](https://pm20.zbw.eu/folder/sh/1416xx/141618/1444xx/144492/about.de.html ) | 2 | D 018 | g 04 SM 021
 D18 | g6 | [Japanische Mandatländer in Ozeanien : Interessen fremder Staaten in ..., Allgemein](https://pm20.zbw.eu/folder/sh/1416xx/141618/1445xx/144565/about.de.html ) | 2 | D 018 | g 06
 D18 | h | [Japanische Mandatländer in Ozeanien : Verwaltung, Allgemein](https://pm20.zbw.eu/folder/sh/1416xx/141618/1446xx/144659/about.de.html ) | 17 | D 018 | h
@@ -8139,7 +8139,7 @@ D30 | g4 Sm1.III | [Australien : Zollpolitik, Einfuhrkontingentierung, Ein-, Aus
 D30 | g4 Sm2 | [Australien : Wirtschaftskrieg](https://pm20.zbw.eu/folder/sh/1416xx/141621/1634xx/163414/about.de.html ) | 50 | D 030 | g 04 SM 002
 D30 | g4 Sm2.I | [Australien : Wirtschaftskrieg, Allgemein](https://pm20.zbw.eu/folder/sh/1416xx/141621/1444xx/144474/about.de.html ) | 1 | D 030 | g 04 SM 002.01
 D30 | g4 Sm2.III | [Australien : Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung und Liquidation](https://pm20.zbw.eu/folder/sh/1416xx/141621/1634xx/163411/about.de.html ) | 1 | D 030 | g 04 SM 002.03
-D30 | g4 Sm2.IIIb | [Australien : Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen einz. Länder](https://pm20.zbw.eu/folder/sh/1416xx/141621/1444xx/144477/about.de.html ) | 28 | D 030 | g 04 SM 002.03b
+D30 | g4 Sm2.IIIb | [Australien : Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung und Liquidation von Eigentum der Angehörigen einzelner Länder](https://pm20.zbw.eu/folder/sh/1416xx/141621/1444xx/144477/about.de.html ) | 28 | D 030 | g 04 SM 002.03b
 D30 | g4 Sm3 | [Australien : Staatliche Wirtschaftspropaganda](https://pm20.zbw.eu/folder/sh/1416xx/141621/1633xx/163381/about.de.html ) | 49 | D 030 | g 04 SM 003
 D30 | g4 Sm3.I | [Australien : Staatliche Wirtschaftspropaganda, Allgemein](https://pm20.zbw.eu/folder/sh/1416xx/141621/1444xx/144482/about.de.html ) | 2 | D 030 | g 04 SM 003.01
 D30 | g4 Sm3.II | [Australien : Staatliche Wirtschaftspropaganda, Ausstellungen und Messen, Allgemein](https://pm20.zbw.eu/folder/sh/1416xx/141621/1444xx/144483/about.de.html ) | 1 | D 030 | g 04 SM 003.02
@@ -8344,7 +8344,7 @@ E86 | g4 Sm1 | [Argentinien : Zollpolitik](https://pm20.zbw.eu/folder/sh/1416xx/
 E86 | g4 Sm1.II | [Argentinien : Zollpolitik, Meistbegünstigung](https://pm20.zbw.eu/folder/sh/1416xx/141692/1444xx/144472/about.de.html ) | 6 | E 086 | g 04 SM 001.02
 E86 | g4 Sm1.III | [Argentinien : Zollpolitik, Einfuhrkontingentierung, Ein-, Aus- und Durchfuhrverbote, Allgemein](https://pm20.zbw.eu/folder/sh/1416xx/141692/1444xx/144473/about.de.html ) | 46 | E 086 | g 04 SM 001.03
 E86 | g4 Sm2.IIIa | [Argentinien : Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung u. Liquidation, Allg.](https://pm20.zbw.eu/folder/sh/1416xx/141692/1444xx/144476/about.de.html ) | 6 | E 086 | g 04 SM 002.03a
-E86 | g4 Sm2.IIIb | [Argentinien : Wirtschaftskrieg, Beschlagn., Zwangsverw. u. Liquidat., v. Eigentum d. Angehörigen einz. Länder](https://pm20.zbw.eu/folder/sh/1416xx/141692/1444xx/144477/about.de.html ) | 6 | E 086 | g 04 SM 002.03b
+E86 | g4 Sm2.IIIb | [Argentinien : Wirtschaftskrieg, Beschlagnahme, Zwangsverwaltung und Liquidation von Eigentum der Angehörigen einzelner Länder](https://pm20.zbw.eu/folder/sh/1416xx/141692/1444xx/144477/about.de.html ) | 6 | E 086 | g 04 SM 002.03b
 E86 | g4 Sm2.V | [Argentinien : Wirtschaftskrieg, Schwarze Listen](https://pm20.zbw.eu/folder/sh/1416xx/141692/1444xx/144478/about.de.html ) | 3 | E 086 | g 04 SM 002.05
 E86 | g4 Sm2.VII | [Argentinien : Wirtschaftskrieg, Rechtsfragen und Prozesse](https://pm20.zbw.eu/folder/sh/1416xx/141692/1444xx/144481/about.de.html ) | 1 | E 086 | g 04 SM 002.07
 E86 | g4 Sm3 | [Argentinien : Staatliche Wirtschaftspropaganda](https://pm20.zbw.eu/folder/sh/1416xx/141692/1633xx/163381/about.de.html ) | 27 | E 086 | g 04 SM 003
@@ -8359,7 +8359,7 @@ E86 | g4 Sm25 | [Argentinien : Ausgleich laufender Aussenhandelsforderungen und 
 E86 | g4 Sm50 | [Argentinien : Handelspolitik, Institutionen](https://pm20.zbw.eu/folder/sh/1416xx/141692/1865xx/186580/about.de.html ) | 13 | E 086 | g 04 SM 050
 E86 | g4a | [Argentinien : Wirtschaftspolitische Beziehungen zu einzelnen Ländern](https://pm20.zbw.eu/folder/sh/1416xx/141692/1445xx/144531/about.de.html ) | 2530 | E 086 | g 04a
 E86 | g4a Sm1 | [Argentinien : Wirtschaftliche Kompensationen, Warenaustausch](https://pm20.zbw.eu/folder/sh/1416xx/141692/1445xx/144532/about.de.html ) | 114 | E 086 | g 04a SM 001
-E86 | g4a Sm2 | [Argentinien : Handelkredite](https://pm20.zbw.eu/folder/sh/1416xx/141692/1445xx/144533/about.de.html ) | 73 | E 086 | g 04a SM 002
+E86 | g4a Sm2 | [Argentinien : Handelskredite](https://pm20.zbw.eu/folder/sh/1416xx/141692/1445xx/144533/about.de.html ) | 73 | E 086 | g 04a SM 002
 E86 | g4a Sm3 | [Argentinien : Veredelungskredite, Veredelungsverkehr](https://pm20.zbw.eu/folder/sh/1416xx/141692/1445xx/144534/about.de.html ) | 1 | E 086 | g 04a SM 003
 E86 | g4a Sm5 | [Argentinien : Urheberschutz (Wirtschaftspolitische Beziehungen zu einzelnen Ländern)](https://pm20.zbw.eu/folder/sh/1416xx/141692/1445xx/144536/about.de.html ) | 23 | E 086 | g 04a SM 005
 E86 | g4a Sm6 | [Argentinien : Fischereiverträge](https://pm20.zbw.eu/folder/sh/1416xx/141692/1445xx/144537/about.de.html ) | 2 | E 086 | g 04a SM 006
@@ -8777,7 +8777,7 @@ E86 | n24 Sm18 | [Argentinien : Organisation des landwirtschaftlichen Kredits](h
 E86 | n24 Sm21.I | [Argentinien : Bankwesen, Technik des ..., Allgemein](https://pm20.zbw.eu/folder/sh/1416xx/141692/1453xx/145383/about.de.html ) | 9 | E 086 | n 24 SM 021.01
 E86 | n24 Sm21.II | [Argentinien : Geschäftsbedingungen (im Bankverkehr)](https://pm20.zbw.eu/folder/sh/1416xx/141692/1617xx/161717/about.de.html ) | 1 | E 086 | n 24 SM 021.02
 E86 | n24 Sm22 | [Argentinien : Bankwesen, Staatliche Aufsicht (Kontrolle), Publizitätspflicht](https://pm20.zbw.eu/folder/sh/1416xx/141692/1453xx/145390/about.de.html ) | 1 | E 086 | n 24 SM 022
-E86 | n24 Sm23 | [Argentinien : Misstände im Bankgewerbe und Kreditwesen](https://pm20.zbw.eu/folder/sh/1416xx/141692/1453xx/145391/about.de.html ) | 5 | E 086 | n 24 SM 023
+E86 | n24 Sm23 | [Argentinien : Missstände im Bankgewerbe und Kreditwesen](https://pm20.zbw.eu/folder/sh/1416xx/141692/1453xx/145391/about.de.html ) | 5 | E 086 | n 24 SM 023
 E86 | n24 Sm26 | [Argentinien : Bankgeheimnis](https://pm20.zbw.eu/folder/sh/1416xx/141692/1453xx/145394/about.de.html ) | 1 | E 086 | n 24 SM 026
 E86 | n24 Sm27.I | [Argentinien : Bankwesen, Depots und Depositen, Allgemein](https://pm20.zbw.eu/folder/sh/1416xx/141692/1453xx/145395/about.de.html ) | 9 | E 086 | n 24 SM 027.01
 E86 | n24 Sm27.IIIb | [Argentinien : Bankwesen, Depositen, Statistik, Spareinlagen](https://pm20.zbw.eu/folder/sh/1416xx/141692/1453xx/145398/about.de.html ) | 5 | E 086 | n 24 SM 027.03b
@@ -8843,7 +8843,7 @@ E86 | n32 Sm9 | [Argentinien : Seeschiffahrt, Öffentliche Kredite und Subventio
 E86 | n32 Sm11 | [Argentinien : Seeschiffahrt, Bergungswesen](https://pm20.zbw.eu/folder/sh/1416xx/141692/1455xx/145580/about.de.html ) | 1 | E 086 | n 32 SM 011
 E86 | n32 Sm12 | [Argentinien : Schiffahrt, Ölfeuerung und Motorschiffahrt](https://pm20.zbw.eu/folder/sh/1416xx/141692/1616xx/161602/about.de.html ) | 3 | E 086 | n 32 SM 012
 E86 | n32 Sm12.III | [Argentinien : Motorschiffahrt](https://pm20.zbw.eu/folder/sh/1416xx/141692/1455xx/145583/about.de.html ) | 1 | E 086 | n 32 SM 012.03
-E86 | n32 Sm13 | [Argentinien : Trampschifffahrt](https://pm20.zbw.eu/folder/sh/1416xx/141692/1455xx/145584/about.de.html ) | 5 | E 086 | n 32 SM 013
+E86 | n32 Sm13 | [Argentinien : Trampschiffahrt](https://pm20.zbw.eu/folder/sh/1416xx/141692/1455xx/145584/about.de.html ) | 5 | E 086 | n 32 SM 013
 E86 | n32 Sm14 | [Argentinien : Küstenschiffahrt, kombinierte Fluss-Seeschiffahrt](https://pm20.zbw.eu/folder/sh/1416xx/141692/1455xx/145585/about.de.html ) | 64 | E 086 | n 32 SM 014
 E86 | n32 Sm17 | [Argentinien : Seerecht](https://pm20.zbw.eu/folder/sh/1416xx/141692/1615xx/161598/about.de.html ) | 9 | E 086 | n 32 SM 017
 E86 | n32 Sm17.II | [Argentinien : Seerecht, Seetransportregeln, Konnossemente](https://pm20.zbw.eu/folder/sh/1416xx/141692/1455xx/145589/about.de.html ) | 21 | E 086 | n 32 SM 017.02

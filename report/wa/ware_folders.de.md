@@ -116,13 +116,13 @@ A10 | PID04-Dr05 | [Koka, Kokain : Deutschland](https://pm20.zbw.eu/folder/wa/14
 A10 | PID19-Nf11 | [Kokosfaser : Deutschland](https://pm20.zbw.eu/folder/wa/1431xx/143125/1261xx/126128/about.de.html ) | 3 | A 010
 A10 | PID13-Ko01 | [Äther : Deutschland](https://pm20.zbw.eu/folder/wa/1419xx/141945/1261xx/126128/about.de.html ) | 1 | A 010
 A10 | PID13.02-Ks01 | [Äthylbenzin : Deutschland](https://pm20.zbw.eu/folder/wa/1419xx/141946/1261xx/126128/about.de.html ) | 1 | A 010
-A10(19) | PRB01-01 | [Abfälle und Altmaterial : Böhmen und Mähren (Reichsprotektorat)](https://pm20.zbw.eu/folder/wa/1419xx/141942/1400xx/140098/about.de.html ) | 1 | A 010 (19)
-A10(19) | PID20.02-Sp | [Alkohol : Böhmen und Mähren (Reichsprotektorat)](https://pm20.zbw.eu/folder/wa/1419xx/141966/1400xx/140098/about.de.html ) | 19 | A 010 (19)
-A10(19) | PID08-Ar | [Armatur : Böhmen und Mähren (Reichsprotektorat)](https://pm20.zbw.eu/folder/wa/1420xx/142004/1400xx/140098/about.de.html ) | 1 | A 010 (19)
-A10(19) | PID22-Bs | [Baumaterial : Böhmen und Mähren (Reichsprotektorat)](https://pm20.zbw.eu/folder/wa/1420xx/142086/1400xx/140098/about.de.html ) | 8 | A 010 (19)
-A10(19) | PID19-Bw01 | [Baumwollindustrie : Böhmen und Mähren (Reichsprotektorat)](https://pm20.zbw.eu/folder/wa/1420xx/142091/1400xx/140098/about.de.html ) | 3 | A 010 (19)
-A10(19) | PID19-Bk | [Bekleidung : Böhmen und Mähren (Reichsprotektorat)](https://pm20.zbw.eu/folder/wa/1421xx/142106/1400xx/140098/about.de.html ) | 7 | A 010 (19)
-A10(19) | PRB02.01 | [Kohle : Böhmen und Mähren (Reichsprotektorat)](https://pm20.zbw.eu/folder/wa/1431xx/143120/1400xx/140098/about.de.html ) | 36 | A 010 (19)
+A10(19) | PRB01-01 | [Abfälle und Altmaterial : Böhmen und Mähren (Protektorat)](https://pm20.zbw.eu/folder/wa/1419xx/141942/1400xx/140098/about.de.html ) | 1 | A 010 (19)
+A10(19) | PID20.02-Sp | [Alkohol : Böhmen und Mähren (Protektorat)](https://pm20.zbw.eu/folder/wa/1419xx/141966/1400xx/140098/about.de.html ) | 19 | A 010 (19)
+A10(19) | PID08-Ar | [Armatur : Böhmen und Mähren (Protektorat)](https://pm20.zbw.eu/folder/wa/1420xx/142004/1400xx/140098/about.de.html ) | 1 | A 010 (19)
+A10(19) | PID22-Bs | [Baumaterial : Böhmen und Mähren (Protektorat)](https://pm20.zbw.eu/folder/wa/1420xx/142086/1400xx/140098/about.de.html ) | 8 | A 010 (19)
+A10(19) | PID19-Bw01 | [Baumwollindustrie : Böhmen und Mähren (Protektorat)](https://pm20.zbw.eu/folder/wa/1420xx/142091/1400xx/140098/about.de.html ) | 3 | A 010 (19)
+A10(19) | PID19-Bk | [Bekleidung : Böhmen und Mähren (Protektorat)](https://pm20.zbw.eu/folder/wa/1421xx/142106/1400xx/140098/about.de.html ) | 7 | A 010 (19)
+A10(19) | PRB02.01 | [Kohle : Böhmen und Mähren (Protektorat)](https://pm20.zbw.eu/folder/wa/1431xx/143120/1400xx/140098/about.de.html ) | 36 | A 010 (19)
 A10(Bln) | PID22-Bd01 | [Asphalt : Berlin (bis 1945)](https://pm20.zbw.eu/folder/wa/1420xx/142016/1409xx/140933/about.de.html ) | 35 | A 010 (Bln)
 A10(Bln) | PLW04-Bn | [Banane : Berlin (bis 1945)](https://pm20.zbw.eu/folder/wa/1420xx/142038/1409xx/140933/about.de.html ) | 1 | A 010 (Bln)
 A10b | PID20.02-Sp | [Alkohol : Französisches Okkupationsgebiet auf dem linken Rheinufer](https://pm20.zbw.eu/folder/wa/1419xx/141966/1409xx/140934/about.de.html ) | 3 | A 010b

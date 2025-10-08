@@ -1,6 +1,6 @@
 ---
 title: "Folders by Subject Category System"
-modified: 2024-01-13
+modified: 2025-04-19
 backlink: ../about.en.html
 backlink-title: "Folders by Category system"
 fn-stub: about
@@ -261,21 +261,21 @@ is available online.
   - [f5 Sm1.IIIb Elections for parliamentary bodies and other political elections in individual states](i/144399/about.en.html) [(2  subject folders)]{.hint}<a name='f5_Sm1.IIIb'></a>
   - [f5 Sm2 Individual political movements](i/144400/about.en.html) [(3  subject folders)]{.hint}<a name='f5_Sm2'></a>
 - [f5a Individual parties and party groups](i/144420/about.en.html) [(19  subject folders)]{.hint}<a name='f5a'></a>
-- [f5a.1 The party as a whole, including in a judgment abroad](i/144421/about.en.html) [(1  subject folders)]{.hint}<a name='f5a.1'></a>
-- [f5a.1a The party as a whole, historical reviews](i/144422/about.en.html) [(1  subject folders)]{.hint}<a name='f5a.1a'></a>
-- [f5a.1b The party as a whole, organization](i/144423/about.en.html) [(1  subject folders)]{.hint}<a name='f5a.1b'></a>
-- [f5a.1c The party as a whole, program](i/144424/about.en.html) [(1  subject folders)]{.hint}<a name='f5a.1c'></a>
-- [f5a.1d (alt) The party as a whole, agitation + tactics (e.g. May Day celebrations, rallies, propaganda, leaflets)](i/144425/about.en.html) [(1  subject folders)]{.hint}<a name='f5a.1d_(alt)'></a>
-- [f5a.1e The party as a whole, press, general](i/144426/about.en.html) [(1  subject folders)]{.hint}<a name='f5a.1e'></a>
-- [f5a.1f The party as a whole, activity of the party](i/144427/about.en.html) [(1  subject folders)]{.hint}<a name='f5a.1f'></a>
-- [f5a.1g (alt) The party as a whole, division in the party](i/144428/about.en.html) [(1  subject folders)]{.hint}<a name='f5a.1g_(alt)'></a>
-- [f5a.1h (alt) The party as a whole, relationship with other parties](i/144429/about.en.html) [(1  subject folders)]{.hint}<a name='f5a.1h_(alt)'></a>
-- [f5a.1k The party as a whole, party meetings](i/144431/about.en.html) [(1  subject folders)]{.hint}<a name='f5a.1k'></a>
-- [f5a.1l The party as a whole, youth organizations](i/144432/about.en.html) [(1  subject folders)]{.hint}<a name='f5a.1l'></a>
-- [f5a.1m The party as a whole, women's organizations](i/144434/about.en.html) [(1  subject folders)]{.hint}<a name='f5a.1m'></a>
-- [f5a.1o The party as a whole, foreign organizations](i/144436/about.en.html) [(1  subject folders)]{.hint}<a name='f5a.1o'></a>
-- [f5a.3 Leading personalities (individual parties)](i/144438/about.en.html) [(1  subject folders)]{.hint}<a name='f5a.3'></a>
-- [f5a.4 Opposition to the party](i/144439/about.en.html) [(1  subject folders)]{.hint}<a name='f5a.4'></a>
+- [f5a.I The party as a whole, including in a judgment abroad](i/144421/about.en.html) [(1  subject folders)]{.hint}<a name='f5a.I'></a>
+- [f5a.Ia The party as a whole, historical reviews](i/144422/about.en.html) [(1  subject folders)]{.hint}<a name='f5a.Ia'></a>
+- [f5a.Ib The party as a whole, organization](i/144423/about.en.html) [(1  subject folders)]{.hint}<a name='f5a.Ib'></a>
+- [f5a.Ic The party as a whole, program](i/144424/about.en.html) [(1  subject folders)]{.hint}<a name='f5a.Ic'></a>
+- [f5a.Id (alt) The party as a whole, agitation + tactics (e.g. May Day celebrations, rallies, propaganda, leaflets)](i/144425/about.en.html) [(1  subject folders)]{.hint}<a name='f5a.Id_(alt)'></a>
+- [f5a.Ie The party as a whole, press, general](i/144426/about.en.html) [(1  subject folders)]{.hint}<a name='f5a.Ie'></a>
+- [f5a.If The party as a whole, activity of the party](i/144427/about.en.html) [(1  subject folders)]{.hint}<a name='f5a.If'></a>
+- [f5a.Ig (alt) The party as a whole, division in the party](i/144428/about.en.html) [(1  subject folders)]{.hint}<a name='f5a.Ig_(alt)'></a>
+- [f5a.Ih (alt) The party as a whole, relationship with other parties](i/144429/about.en.html) [(1  subject folders)]{.hint}<a name='f5a.Ih_(alt)'></a>
+- [f5a.Ik The party as a whole, party meetings](i/144431/about.en.html) [(1  subject folders)]{.hint}<a name='f5a.Ik'></a>
+- [f5a.Il The party as a whole, youth organizations](i/144432/about.en.html) [(1  subject folders)]{.hint}<a name='f5a.Il'></a>
+- [f5a.Im The party as a whole, women's organizations](i/144434/about.en.html) [(1  subject folders)]{.hint}<a name='f5a.Im'></a>
+- [f5a.Io The party as a whole, foreign organizations](i/144436/about.en.html) [(1  subject folders)]{.hint}<a name='f5a.Io'></a>
+- [f5a.III Leading personalities (individual parties)](i/144438/about.en.html) [(1  subject folders)]{.hint}<a name='f5a.III'></a>
+- [f5a.IV Opposition to the party](i/144439/about.en.html) [(1  subject folders)]{.hint}<a name='f5a.IV'></a>
 - [f6 Negotiations of parliamentary and political bodies](i/144440/about.en.html) [(10  subject folders)]{.hint}<a name='f6'></a>
 - [f6a Negotiations of parliamentary bodies from individual states, provinces and cities](i/144446/about.en.html) [(1  subject folders)]{.hint}<a name='f6a'></a>
 
@@ -868,7 +868,7 @@ is available online.
   - [n13 Sm4 Industrial exploitation of natural forces](i/161882/about.en.html) [(2  subject folders)]{.hint}<a name='n13_Sm4'></a>
   - [n13 Sm4.I Industrial exploitation of natural forces, general](i/145102/about.en.html) [(2  subject folders)]{.hint}<a name='n13_Sm4.I'></a>
   - [n13 Sm4.II Industrial exploitation of individual natural forces](i/145103/about.en.html) [(7  subject folders)]{.hint}<a name='n13_Sm4.II'></a>
-  - [n13 Sm5 Industry: competition on the world market](i/145104/about.en.html) [(1  subject folders)]{.hint}<a name='n13_Sm5'></a>
+  - [n13 Sm5 Industrial competition on the world market](i/145104/about.en.html) [(1  subject folders)]{.hint}<a name='n13_Sm5'></a>
   - [n13 Sm6 Communication between labor and management](i/145105/about.en.html) [(3  subject folders)]{.hint}<a name='n13_Sm6'></a>
   - [n13 Sm7 Firm location choise, rental factories, general](i/145106/about.en.html) [(4  subject folders)]{.hint}<a name='n13_Sm7'></a>
   - [n13 Sm9 Industrial research, general](i/145109/about.en.html) [(2  subject folders)]{.hint}<a name='n13_Sm9'></a>

@@ -1629,7 +1629,7 @@ pm20 | life | nationalities | activities | locations | doc
 [Gilbert, Seymour Parker](https://pm20.zbw.eu/folder/pe/0061xx/006104/about.de.html ) | 1892-1938 | USA | Wirtschaft | USA | [29](https://pm20.zbw.eu/dfgview/pe/006104 )
 [Giolitti, Giovanni](https://pm20.zbw.eu/folder/pe/0061xx/006124/about.de.html ) | 1842-1928 | Italien | Politik | Italien | [50](https://pm20.zbw.eu/dfgview/pe/006124 )
 [Giono, Jean](https://pm20.zbw.eu/folder/pe/0061xx/006125/about.de.html ) | 1895-1970 | Frankreich | Kultur | Frankreich | [2](https://pm20.zbw.eu/dfgview/pe/006125 )
-[Gladstone, Herbert John](https://pm20.zbw.eu/folder/pe/0061xx/006155/about.de.html ) | 1854-1930 | Großbritannien | Politik; Öffentliche Verwaltung | Großbritannien; Südafrika | [12](https://pm20.zbw.eu/dfgview/pe/006155 )
+[Gladstone, Herbert John](https://pm20.zbw.eu/folder/pe/0061xx/006155/about.de.html ) | 1854-1930 | Großbritannien | Politik; Öffentliche Verwaltung | Großbritannien; Südliches Afrika | [12](https://pm20.zbw.eu/dfgview/pe/006155 )
 [Gladstone, William Ewart](https://pm20.zbw.eu/folder/pe/0061xx/006156/about.de.html ) | 1809-1898 | Großbritannien | Politik | Großbritannien | [47](https://pm20.zbw.eu/dfgview/pe/006156 )
 [Glaoui, Thami el-](https://pm20.zbw.eu/folder/pe/0061xx/006161/about.de.html ) | 1870-1956 | Marokko | Politik | Marokko | [2](https://pm20.zbw.eu/dfgview/pe/006161 )
 [Glasenapp, Otto von](https://pm20.zbw.eu/folder/pe/0061xx/006163/about.de.html ) | 1853-1928 | Deutschland | Politik; Wirtschaft | Deutschland | [4](https://pm20.zbw.eu/dfgview/pe/006163 )

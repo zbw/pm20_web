@@ -54,8 +54,8 @@ A10 | PID04-Sc01 | [Amber : Germany](https://pm20.zbw.eu/folder/wa/1421xx/142111
 A10 | PID13-Du01 | [Ammonia : Germany](https://pm20.zbw.eu/folder/wa/1659xx/165930/1261xx/126128/about.en.html ) | 58 | A 010
 A10 | PLW05-Wo01 | [Angora rabbit wool : Germany](https://pm20.zbw.eu/folder/wa/1419xx/141972/1261xx/126128/about.en.html ) | 27 | A 010
 A10 | PID07.01-Hm01 | [Antimony : Germany](https://pm20.zbw.eu/folder/wa/1419xx/141977/1261xx/126128/about.en.html ) | 15 | A 010
+A10 | PID08-Ap | [Apparatus and instruments : Germany](https://pm20.zbw.eu/folder/wa/1419xx/141985/1261xx/126128/about.en.html ) | 108 | A 010
 A10 | PLW04-Ob01 | [Apple : Germany](https://pm20.zbw.eu/folder/wa/1419xx/141980/1261xx/126128/about.en.html ) | 63 | A 010
-A10 | PID08-Ap | [Appliances and instruments : Germany](https://pm20.zbw.eu/folder/wa/1419xx/141985/1261xx/126128/about.en.html ) | 108 | A 010
 A10 | PLW04-Zs02 | [Apricot : Germany](https://pm20.zbw.eu/folder/wa/1420xx/142001/1261xx/126128/about.en.html ) | 1 | A 010
 A10 | PLW04-Kf01 | [Arrowroot : Germany](https://pm20.zbw.eu/folder/wa/1420xx/142005/1261xx/126128/about.en.html ) | 3 | A 010
 A10 | PID07.01-Hm02 | [Arsenic : Germany](https://pm20.zbw.eu/folder/wa/1420xx/142006/1261xx/126128/about.en.html ) | 17 | A 010
@@ -160,8 +160,8 @@ A12 | PLW07-Mp01 | [Algae and seaweed : Poland](https://pm20.zbw.eu/folder/wa/14
 A12 | PID07.01-Lm01 | [Aluminium : Poland](https://pm20.zbw.eu/folder/wa/1419xx/141969/1409xx/140962/about.en.html ) | 21 | A 012
 A12 | PID04-Sc01 | [Amber : Poland](https://pm20.zbw.eu/folder/wa/1421xx/142111/1409xx/140962/about.en.html ) | 6 | A 012
 A12 | PID13-Du01 | [Ammonia : Poland](https://pm20.zbw.eu/folder/wa/1659xx/165930/1409xx/140962/about.en.html ) | 8 | A 012
+A12 | PID08-Ap | [Apparatus and instruments : Poland](https://pm20.zbw.eu/folder/wa/1419xx/141985/1409xx/140962/about.en.html ) | 3 | A 012
 A12 | PLW04-Ob01 | [Apple : Poland](https://pm20.zbw.eu/folder/wa/1419xx/141980/1409xx/140962/about.en.html ) | 23 | A 012
-A12 | PID08-Ap | [Appliances and instruments : Poland](https://pm20.zbw.eu/folder/wa/1419xx/141985/1409xx/140962/about.en.html ) | 3 | A 012
 A12 | PLW04-Zs02 | [Apricot : Poland](https://pm20.zbw.eu/folder/wa/1420xx/142001/1409xx/140962/about.en.html ) | 6 | A 012
 A12 | PID07.01-Hm02 | [Arsenic : Poland](https://pm20.zbw.eu/folder/wa/1420xx/142006/1409xx/140962/about.en.html ) | 1 | A 012
 A12 | PID23-As | [Asbestos : Poland](https://pm20.zbw.eu/folder/wa/1420xx/142014/1409xx/140962/about.en.html ) | 1 | A 012
@@ -228,7 +228,7 @@ A15 | PLW07-Mt02 | [Oyster : Denmark](https://pm20.zbw.eu/folder/wa/1420xx/14201
 A15 | PID13.02-Ks02 | [Petrol : Denmark](https://pm20.zbw.eu/folder/wa/1421xx/142108/1417xx/141739/about.en.html ) | 52 | A 015
 A16 | PID20.02-Sp | [Alcoholic beverage : Iceland](https://pm20.zbw.eu/folder/wa/1419xx/141966/1409xx/140967/about.en.html ) | 14 | A 016
 A16 | PID07.01-Lm01 | [Aluminium : Iceland](https://pm20.zbw.eu/folder/wa/1419xx/141969/1409xx/140967/about.en.html ) | 1 | A 016
-A16 | PID08-Ap | [Appliances and instruments : Iceland](https://pm20.zbw.eu/folder/wa/1419xx/141985/1409xx/140967/about.en.html ) | 1 | A 016
+A16 | PID08-Ap | [Apparatus and instruments : Iceland](https://pm20.zbw.eu/folder/wa/1419xx/141985/1409xx/140967/about.en.html ) | 1 | A 016
 A16 | PRB02.01 | [Coal : Iceland](https://pm20.zbw.eu/folder/wa/1431xx/143120/1409xx/140967/about.en.html ) | 34 | A 016
 A17 | PID13-Ko03 | [Acetone : Sweden](https://pm20.zbw.eu/folder/wa/1420xx/142022/1409xx/140968/about.en.html ) | 2 | A 017
 A17 | PID13-Ko02 | [Alcohol : Sweden](https://pm20.zbw.eu/folder/wa/1634xx/163481/1409xx/140968/about.en.html ) | 2 | A 017
@@ -237,8 +237,8 @@ A17 | PLW07-Mp01 | [Algae and seaweed : Sweden](https://pm20.zbw.eu/folder/wa/14
 A17 | PID07.01-Lm01 | [Aluminium : Sweden](https://pm20.zbw.eu/folder/wa/1419xx/141969/1409xx/140968/about.en.html ) | 72 | A 017
 A17 | PID13-Du01 | [Ammonia : Sweden](https://pm20.zbw.eu/folder/wa/1659xx/165930/1409xx/140968/about.en.html ) | 1 | A 017
 A17 | PLW05-Wo01 | [Angora rabbit wool : Sweden](https://pm20.zbw.eu/folder/wa/1419xx/141972/1409xx/140968/about.en.html ) | 1 | A 017
+A17 | PID08-Ap | [Apparatus and instruments : Sweden](https://pm20.zbw.eu/folder/wa/1419xx/141985/1409xx/140968/about.en.html ) | 7 | A 017
 A17 | PLW04-Ob01 | [Apple : Sweden](https://pm20.zbw.eu/folder/wa/1419xx/141980/1409xx/140968/about.en.html ) | 13 | A 017
-A17 | PID08-Ap | [Appliances and instruments : Sweden](https://pm20.zbw.eu/folder/wa/1419xx/141985/1409xx/140968/about.en.html ) | 7 | A 017
 A17 | PID07.01-Hm02 | [Arsenic : Sweden](https://pm20.zbw.eu/folder/wa/1420xx/142006/1409xx/140968/about.en.html ) | 20 | A 017
 A17 | PID23-As | [Asbestos : Sweden](https://pm20.zbw.eu/folder/wa/1420xx/142014/1409xx/140968/about.en.html ) | 2 | A 017
 A17 | PID22-Bd01 | [Asphalt : Sweden](https://pm20.zbw.eu/folder/wa/1420xx/142016/1409xx/140968/about.en.html ) | 4 | A 017
@@ -305,8 +305,8 @@ A19 | PID20.02-Sp | [Alcoholic beverage : Netherlands](https://pm20.zbw.eu/folde
 A19 | PLW07-Mp01 | [Algae and seaweed : Netherlands](https://pm20.zbw.eu/folder/wa/1419xx/141959/1409xx/140970/about.en.html ) | 3 | A 019
 A19 | PID07.01-Lm01 | [Aluminium : Netherlands](https://pm20.zbw.eu/folder/wa/1419xx/141969/1409xx/140970/about.en.html ) | 66 | A 019
 A19 | PID13-Du01 | [Ammonia : Netherlands](https://pm20.zbw.eu/folder/wa/1659xx/165930/1409xx/140970/about.en.html ) | 11 | A 019
+A19 | PID08-Ap | [Apparatus and instruments : Netherlands](https://pm20.zbw.eu/folder/wa/1419xx/141985/1409xx/140970/about.en.html ) | 1 | A 019
 A19 | PLW04-Ob01 | [Apple : Netherlands](https://pm20.zbw.eu/folder/wa/1419xx/141980/1409xx/140970/about.en.html ) | 19 | A 019
-A19 | PID08-Ap | [Appliances and instruments : Netherlands](https://pm20.zbw.eu/folder/wa/1419xx/141985/1409xx/140970/about.en.html ) | 1 | A 019
 A19 | PID07.01-Hm02 | [Arsenic : Netherlands](https://pm20.zbw.eu/folder/wa/1420xx/142006/1409xx/140970/about.en.html ) | 1 | A 019
 A19 | PID23-As | [Asbestos : Netherlands](https://pm20.zbw.eu/folder/wa/1420xx/142014/1409xx/140970/about.en.html ) | 1 | A 019
 A19 | PID22-Bd01 | [Asphalt : Netherlands](https://pm20.zbw.eu/folder/wa/1420xx/142016/1409xx/140970/about.en.html ) | 3 | A 019
@@ -345,8 +345,8 @@ A21 | PID13-Ko02 | [Alcohol : Belgium](https://pm20.zbw.eu/folder/wa/1634xx/1634
 A21 | PID20.02-Sp | [Alcoholic beverage : Belgium](https://pm20.zbw.eu/folder/wa/1419xx/141966/1409xx/140972/about.en.html ) | 96 | A 021
 A21 | PID07.01-Lm01 | [Aluminium : Belgium](https://pm20.zbw.eu/folder/wa/1419xx/141969/1409xx/140972/about.en.html ) | 7 | A 021
 A21 | PID13-Du01 | [Ammonia : Belgium](https://pm20.zbw.eu/folder/wa/1659xx/165930/1409xx/140972/about.en.html ) | 8 | A 021
+A21 | PID08-Ap | [Apparatus and instruments : Belgium](https://pm20.zbw.eu/folder/wa/1419xx/141985/1409xx/140972/about.en.html ) | 3 | A 021
 A21 | PLW04-Ob01 | [Apple : Belgium](https://pm20.zbw.eu/folder/wa/1419xx/141980/1409xx/140972/about.en.html ) | 10 | A 021
-A21 | PID08-Ap | [Appliances and instruments : Belgium](https://pm20.zbw.eu/folder/wa/1419xx/141985/1409xx/140972/about.en.html ) | 3 | A 021
 A21 | PID07.01-Hm02 | [Arsenic : Belgium](https://pm20.zbw.eu/folder/wa/1420xx/142006/1409xx/140972/about.en.html ) | 1 | A 021
 A21 | PID23-As | [Asbestos : Belgium](https://pm20.zbw.eu/folder/wa/1420xx/142014/1409xx/140972/about.en.html ) | 2 | A 021
 A21 | PID22-Bd01 | [Asphalt : Belgium](https://pm20.zbw.eu/folder/wa/1420xx/142016/1409xx/140972/about.en.html ) | 3 | A 021
@@ -383,8 +383,8 @@ A22 | PID07.01-Lm01 | [Aluminium : United Kingdom](https://pm20.zbw.eu/folder/wa
 A22 | PID13-Du01 | [Ammonia : United Kingdom](https://pm20.zbw.eu/folder/wa/1659xx/165930/1409xx/140974/about.en.html ) | 28 | A 022
 A22 | PLW05-Wo01 | [Angora rabbit wool : United Kingdom](https://pm20.zbw.eu/folder/wa/1419xx/141972/1409xx/140974/about.en.html ) | 6 | A 022
 A22 | PID07.01-Hm01 | [Antimony : United Kingdom](https://pm20.zbw.eu/folder/wa/1419xx/141977/1409xx/140974/about.en.html ) | 13 | A 022
+A22 | PID08-Ap | [Apparatus and instruments : United Kingdom](https://pm20.zbw.eu/folder/wa/1419xx/141985/1409xx/140974/about.en.html ) | 35 | A 022
 A22 | PLW04-Ob01 | [Apple : United Kingdom](https://pm20.zbw.eu/folder/wa/1419xx/141980/1409xx/140974/about.en.html ) | 48 | A 022
-A22 | PID08-Ap | [Appliances and instruments : United Kingdom](https://pm20.zbw.eu/folder/wa/1419xx/141985/1409xx/140974/about.en.html ) | 35 | A 022
 A22 | PLW04-Zs02 | [Apricot : United Kingdom](https://pm20.zbw.eu/folder/wa/1420xx/142001/1409xx/140974/about.en.html ) | 1 | A 022
 A22 | PID07.01-Hm02 | [Arsenic : United Kingdom](https://pm20.zbw.eu/folder/wa/1420xx/142006/1409xx/140974/about.en.html ) | 7 | A 022
 A22 | PID23-As | [Asbestos : United Kingdom](https://pm20.zbw.eu/folder/wa/1420xx/142014/1409xx/140974/about.en.html ) | 33 | A 022
@@ -445,8 +445,8 @@ A22b | PID13-Ko01 | [Aether : Republic of Ireland](https://pm20.zbw.eu/folder/wa
 A22b | PID20.02-Sp | [Alcoholic beverage : Republic of Ireland](https://pm20.zbw.eu/folder/wa/1419xx/141966/1409xx/140976/about.en.html ) | 26 | A 022b
 A22b | PLW07-Mp01 | [Algae and seaweed : Republic of Ireland](https://pm20.zbw.eu/folder/wa/1419xx/141959/1409xx/140976/about.en.html ) | 2 | A 022b
 A22b | PID07.01-Lm01 | [Aluminium : Republic of Ireland](https://pm20.zbw.eu/folder/wa/1419xx/141969/1409xx/140976/about.en.html ) | 1 | A 022b
+A22b | PID08-Ap | [Apparatus and instruments : Republic of Ireland](https://pm20.zbw.eu/folder/wa/1419xx/141985/1409xx/140976/about.en.html ) | 2 | A 022b
 A22b | PLW04-Ob01 | [Apple : Republic of Ireland](https://pm20.zbw.eu/folder/wa/1419xx/141980/1409xx/140976/about.en.html ) | 12 | A 022b
-A22b | PID08-Ap | [Appliances and instruments : Republic of Ireland](https://pm20.zbw.eu/folder/wa/1419xx/141985/1409xx/140976/about.en.html ) | 2 | A 022b
 A22b | PID23-As | [Asbestos : Republic of Ireland](https://pm20.zbw.eu/folder/wa/1420xx/142014/1409xx/140976/about.en.html ) | 1 | A 022b
 A22b | PID14-Ha01 | [Bakelit : Republic of Ireland](https://pm20.zbw.eu/folder/wa/1420xx/142029/1409xx/140976/about.en.html ) | 1 | A 022b
 A22b | PID20-Ba | [Bakery product : Republic of Ireland](https://pm20.zbw.eu/folder/wa/1420xx/142026/1409xx/140976/about.en.html ) | 2 | A 022b
@@ -469,7 +469,7 @@ A22b | PID13.02-Ks02 | [Petrol : Republic of Ireland](https://pm20.zbw.eu/folder
 A22b | PRB01-01 | [Waste and scrap : Republic of Ireland](https://pm20.zbw.eu/folder/wa/1419xx/141942/1409xx/140976/about.en.html ) | 2 | A 022b
 A23 | PID20.02-Sp | [Alcoholic beverage : British Empire](https://pm20.zbw.eu/folder/wa/1419xx/141966/1409xx/140978/about.en.html ) | 5 | A 023
 A23 | PID07.01-Lm01 | [Aluminium : British Empire](https://pm20.zbw.eu/folder/wa/1419xx/141969/1409xx/140978/about.en.html ) | 1 | A 023
-A23 | PID08-Ap | [Appliances and instruments : British Empire](https://pm20.zbw.eu/folder/wa/1419xx/141985/1409xx/140978/about.en.html ) | 1 | A 023
+A23 | PID08-Ap | [Apparatus and instruments : British Empire](https://pm20.zbw.eu/folder/wa/1419xx/141985/1409xx/140978/about.en.html ) | 1 | A 023
 A23 | PLW04-Kf01 | [Arrowroot : British Empire](https://pm20.zbw.eu/folder/wa/1420xx/142005/1409xx/140978/about.en.html ) | 1 | A 023
 A23 | PID23-As | [Asbestos : British Empire](https://pm20.zbw.eu/folder/wa/1420xx/142014/1409xx/140978/about.en.html ) | 1 | A 023
 A23 | PLW04-Bn | [Banana : British Empire](https://pm20.zbw.eu/folder/wa/1420xx/142038/1409xx/140978/about.en.html ) | 4 | A 023
@@ -510,8 +510,8 @@ A28 | PID13-Du01 | [Ammonia : France](https://pm20.zbw.eu/folder/wa/1659xx/16593
 A28 | PLW05-Wo01 | [Angora rabbit wool : France](https://pm20.zbw.eu/folder/wa/1419xx/141972/1409xx/140982/about.en.html ) | 5 | A 028
 A28 | PID20-Gw01 | [Anise : France](https://pm20.zbw.eu/folder/wa/1419xx/141976/1409xx/140982/about.en.html ) | 1 | A 028
 A28 | PID07.01-Hm01 | [Antimony : France](https://pm20.zbw.eu/folder/wa/1419xx/141977/1409xx/140982/about.en.html ) | 9 | A 028
+A28 | PID08-Ap | [Apparatus and instruments : France](https://pm20.zbw.eu/folder/wa/1419xx/141985/1409xx/140982/about.en.html ) | 13 | A 028
 A28 | PLW04-Ob01 | [Apple : France](https://pm20.zbw.eu/folder/wa/1419xx/141980/1409xx/140982/about.en.html ) | 54 | A 028
-A28 | PID08-Ap | [Appliances and instruments : France](https://pm20.zbw.eu/folder/wa/1419xx/141985/1409xx/140982/about.en.html ) | 13 | A 028
 A28 | PLW04-Kf01 | [Arrowroot : France](https://pm20.zbw.eu/folder/wa/1420xx/142005/1409xx/140982/about.en.html ) | 1 | A 028
 A28 | PID07.01-Hm02 | [Arsenic : France](https://pm20.zbw.eu/folder/wa/1420xx/142006/1409xx/140982/about.en.html ) | 9 | A 028
 A28 | PID23-As | [Asbestos : France](https://pm20.zbw.eu/folder/wa/1420xx/142014/1409xx/140982/about.en.html ) | 14 | A 028
@@ -577,8 +577,8 @@ A30 | PLW07-Mp01 | [Algae and seaweed : Spain](https://pm20.zbw.eu/folder/wa/141
 A30 | PID07.01-Lm01 | [Aluminium : Spain](https://pm20.zbw.eu/folder/wa/1419xx/141969/1409xx/140984/about.en.html ) | 68 | A 030
 A30 | PID13-Du01 | [Ammonia : Spain](https://pm20.zbw.eu/folder/wa/1659xx/165930/1409xx/140984/about.en.html ) | 18 | A 030
 A30 | PID07.01-Hm01 | [Antimony : Spain](https://pm20.zbw.eu/folder/wa/1419xx/141977/1409xx/140984/about.en.html ) | 4 | A 030
+A30 | PID08-Ap | [Apparatus and instruments : Spain](https://pm20.zbw.eu/folder/wa/1419xx/141985/1409xx/140984/about.en.html ) | 9 | A 030
 A30 | PLW04-Ob01 | [Apple : Spain](https://pm20.zbw.eu/folder/wa/1419xx/141980/1409xx/140984/about.en.html ) | 3 | A 030
-A30 | PID08-Ap | [Appliances and instruments : Spain](https://pm20.zbw.eu/folder/wa/1419xx/141985/1409xx/140984/about.en.html ) | 9 | A 030
 A30 | PLW04-Zs02 | [Apricot : Spain](https://pm20.zbw.eu/folder/wa/1420xx/142001/1409xx/140984/about.en.html ) | 6 | A 030
 A30 | PID07.01-Hm02 | [Arsenic : Spain](https://pm20.zbw.eu/folder/wa/1420xx/142006/1409xx/140984/about.en.html ) | 2 | A 030
 A30 | PLW04-Gm01 | [Artichokes : Spain](https://pm20.zbw.eu/folder/wa/1420xx/142012/1409xx/140984/about.en.html ) | 2 | A 030
@@ -624,8 +624,8 @@ A32 | PID07.01-Lm01 | [Aluminium : Portugal](https://pm20.zbw.eu/folder/wa/1419x
 A32 | PID04-Sc01 | [Amber : Portugal](https://pm20.zbw.eu/folder/wa/1421xx/142111/1409xx/140987/about.en.html ) | 1 | A 032
 A32 | PID13-Du01 | [Ammonia : Portugal](https://pm20.zbw.eu/folder/wa/1659xx/165930/1409xx/140987/about.en.html ) | 9 | A 032
 A32 | PID07.01-Hm01 | [Antimony : Portugal](https://pm20.zbw.eu/folder/wa/1419xx/141977/1409xx/140987/about.en.html ) | 1 | A 032
+A32 | PID08-Ap | [Apparatus and instruments : Portugal](https://pm20.zbw.eu/folder/wa/1419xx/141985/1409xx/140987/about.en.html ) | 1 | A 032
 A32 | PLW04-Ob01 | [Apple : Portugal](https://pm20.zbw.eu/folder/wa/1419xx/141980/1409xx/140987/about.en.html ) | 1 | A 032
-A32 | PID08-Ap | [Appliances and instruments : Portugal](https://pm20.zbw.eu/folder/wa/1419xx/141985/1409xx/140987/about.en.html ) | 1 | A 032
 A32 | PID07.01-Hm02 | [Arsenic : Portugal](https://pm20.zbw.eu/folder/wa/1420xx/142006/1409xx/140987/about.en.html ) | 1 | A 032
 A32 | PID23-As | [Asbestos : Portugal](https://pm20.zbw.eu/folder/wa/1420xx/142014/1409xx/140987/about.en.html ) | 2 | A 032
 A32 | PID22-Bd01 | [Asphalt : Portugal](https://pm20.zbw.eu/folder/wa/1420xx/142016/1409xx/140987/about.en.html ) | 4 | A 032
@@ -658,8 +658,8 @@ A34 | PID13-Ko01 | [Aether : Switzerland](https://pm20.zbw.eu/folder/wa/1419xx/1
 A34 | PID13-Ko02 | [Alcohol : Switzerland](https://pm20.zbw.eu/folder/wa/1634xx/163481/1410xx/141007/about.en.html ) | 4 | A 034
 A34 | PID20.02-Sp | [Alcoholic beverage : Switzerland](https://pm20.zbw.eu/folder/wa/1419xx/141966/1410xx/141007/about.en.html ) | 259 | A 034
 A34 | PID07.01-Lm01 | [Aluminium : Switzerland](https://pm20.zbw.eu/folder/wa/1419xx/141969/1410xx/141007/about.en.html ) | 94 | A 034
+A34 | PID08-Ap | [Apparatus and instruments : Switzerland](https://pm20.zbw.eu/folder/wa/1419xx/141985/1410xx/141007/about.en.html ) | 10 | A 034
 A34 | PLW04-Ob01 | [Apple : Switzerland](https://pm20.zbw.eu/folder/wa/1419xx/141980/1410xx/141007/about.en.html ) | 11 | A 034
-A34 | PID08-Ap | [Appliances and instruments : Switzerland](https://pm20.zbw.eu/folder/wa/1419xx/141985/1410xx/141007/about.en.html ) | 10 | A 034
 A34 | PLW04-Zs02 | [Apricot : Switzerland](https://pm20.zbw.eu/folder/wa/1420xx/142001/1410xx/141007/about.en.html ) | 15 | A 034
 A34 | PID07.01-Hm02 | [Arsenic : Switzerland](https://pm20.zbw.eu/folder/wa/1420xx/142006/1410xx/141007/about.en.html ) | 2 | A 034
 A34 | PID23-As | [Asbestos : Switzerland](https://pm20.zbw.eu/folder/wa/1420xx/142014/1410xx/141007/about.en.html ) | 1 | A 034
@@ -704,8 +704,8 @@ A35 | PID04-Sc01 | [Amber : Italy](https://pm20.zbw.eu/folder/wa/1421xx/142111/1
 A35 | PID13-Du01 | [Ammonia : Italy](https://pm20.zbw.eu/folder/wa/1659xx/165930/1410xx/141008/about.en.html ) | 3 | A 035
 A35 | PLW05-Wo01 | [Angora rabbit wool : Italy](https://pm20.zbw.eu/folder/wa/1419xx/141972/1410xx/141008/about.en.html ) | 6 | A 035
 A35 | PID07.01-Hm01 | [Antimony : Italy](https://pm20.zbw.eu/folder/wa/1419xx/141977/1410xx/141008/about.en.html ) | 5 | A 035
+A35 | PID08-Ap | [Apparatus and instruments : Italy](https://pm20.zbw.eu/folder/wa/1419xx/141985/1410xx/141008/about.en.html ) | 4 | A 035
 A35 | PLW04-Ob01 | [Apple : Italy](https://pm20.zbw.eu/folder/wa/1419xx/141980/1410xx/141008/about.en.html ) | 2 | A 035
-A35 | PID08-Ap | [Appliances and instruments : Italy](https://pm20.zbw.eu/folder/wa/1419xx/141985/1410xx/141008/about.en.html ) | 4 | A 035
 A35 | PLW04-Zs02 | [Apricot : Italy](https://pm20.zbw.eu/folder/wa/1420xx/142001/1410xx/141008/about.en.html ) | 7 | A 035
 A35 | PID07.01-Hm02 | [Arsenic : Italy](https://pm20.zbw.eu/folder/wa/1420xx/142006/1410xx/141008/about.en.html ) | 1 | A 035
 A35 | PLW04-Gm01 | [Artichokes : Italy](https://pm20.zbw.eu/folder/wa/1420xx/142012/1410xx/141008/about.en.html ) | 1 | A 035
@@ -812,8 +812,8 @@ A40c | PID07.01-Lm01 | [Aluminium : Czechoslovakia](https://pm20.zbw.eu/folder/w
 A40c | PID13-Du01 | [Ammonia : Czechoslovakia](https://pm20.zbw.eu/folder/wa/1659xx/165930/1410xx/141022/about.en.html ) | 10 | A 040c
 A40c | PLW05-Wo01 | [Angora rabbit wool : Czechoslovakia](https://pm20.zbw.eu/folder/wa/1419xx/141972/1410xx/141022/about.en.html ) | 1 | A 040c
 A40c | PID07.01-Hm01 | [Antimony : Czechoslovakia](https://pm20.zbw.eu/folder/wa/1419xx/141977/1410xx/141022/about.en.html ) | 10 | A 040c
+A40c | PID08-Ap | [Apparatus and instruments : Czechoslovakia](https://pm20.zbw.eu/folder/wa/1419xx/141985/1410xx/141022/about.en.html ) | 3 | A 040c
 A40c | PLW04-Ob01 | [Apple : Czechoslovakia](https://pm20.zbw.eu/folder/wa/1419xx/141980/1410xx/141022/about.en.html ) | 5 | A 040c
-A40c | PID08-Ap | [Appliances and instruments : Czechoslovakia](https://pm20.zbw.eu/folder/wa/1419xx/141985/1410xx/141022/about.en.html ) | 3 | A 040c
 A40c | PLW04-Zs02 | [Apricot : Czechoslovakia](https://pm20.zbw.eu/folder/wa/1420xx/142001/1410xx/141022/about.en.html ) | 1 | A 040c
 A40c | PID07.01-Hm02 | [Arsenic : Czechoslovakia](https://pm20.zbw.eu/folder/wa/1420xx/142006/1410xx/141022/about.en.html ) | 1 | A 040c
 A40c | PID23-As | [Asbestos : Czechoslovakia](https://pm20.zbw.eu/folder/wa/1420xx/142014/1410xx/141022/about.en.html ) | 12 | A 040c
@@ -853,8 +853,8 @@ A40d | PID07.01-Lm01 | [Aluminium : Hungary](https://pm20.zbw.eu/folder/wa/1419x
 A40d | PID13-Du01 | [Ammonia : Hungary](https://pm20.zbw.eu/folder/wa/1659xx/165930/1410xx/141025/about.en.html ) | 2 | A 040d
 A40d | PLW05-Wo01 | [Angora rabbit wool : Hungary](https://pm20.zbw.eu/folder/wa/1419xx/141972/1410xx/141025/about.en.html ) | 7 | A 040d
 A40d | PID07.01-Hm01 | [Antimony : Hungary](https://pm20.zbw.eu/folder/wa/1419xx/141977/1410xx/141025/about.en.html ) | 10 | A 040d
+A40d | PID08-Ap | [Apparatus and instruments : Hungary](https://pm20.zbw.eu/folder/wa/1419xx/141985/1410xx/141025/about.en.html ) | 1 | A 040d
 A40d | PLW04-Ob01 | [Apple : Hungary](https://pm20.zbw.eu/folder/wa/1419xx/141980/1410xx/141025/about.en.html ) | 18 | A 040d
-A40d | PID08-Ap | [Appliances and instruments : Hungary](https://pm20.zbw.eu/folder/wa/1419xx/141985/1410xx/141025/about.en.html ) | 1 | A 040d
 A40d | PLW04-Zs02 | [Apricot : Hungary](https://pm20.zbw.eu/folder/wa/1420xx/142001/1410xx/141025/about.en.html ) | 12 | A 040d
 A40d | PID07.01-Hm02 | [Arsenic : Hungary](https://pm20.zbw.eu/folder/wa/1420xx/142006/1410xx/141025/about.en.html ) | 3 | A 040d
 A40d | PID23-As | [Asbestos : Hungary](https://pm20.zbw.eu/folder/wa/1420xx/142014/1410xx/141025/about.en.html ) | 2 | A 040d
@@ -933,13 +933,13 @@ A40g | PLW07-Mt02 | [Oyster : Croatia](https://pm20.zbw.eu/folder/wa/1420xx/1420
 A40g | PID13.02-Ks02 | [Petrol : Croatia](https://pm20.zbw.eu/folder/wa/1421xx/142108/1410xx/141030/about.en.html ) | 11 | A 040g
 A41 | PID20.02-Sp | [Alcoholic beverage : Serbia](https://pm20.zbw.eu/folder/wa/1419xx/141966/1410xx/141032/about.en.html ) | 8 | A 041
 A41 | PID07.01-Hm01 | [Antimony : Serbia](https://pm20.zbw.eu/folder/wa/1419xx/141977/1410xx/141032/about.en.html ) | 5 | A 041
-A41 | PID08-Ap | [Appliances and instruments : Serbia](https://pm20.zbw.eu/folder/wa/1419xx/141985/1410xx/141032/about.en.html ) | 1 | A 041
+A41 | PID08-Ap | [Apparatus and instruments : Serbia](https://pm20.zbw.eu/folder/wa/1419xx/141985/1410xx/141032/about.en.html ) | 1 | A 041
 A41 | PID23-As | [Asbestos : Serbia](https://pm20.zbw.eu/folder/wa/1420xx/142014/1410xx/141032/about.en.html ) | 1 | A 041
 A41 | PID19-Bk | [Clothing : Serbia](https://pm20.zbw.eu/folder/wa/1421xx/142106/1410xx/141032/about.en.html ) | 1 | A 041
 A41 | PRB02.01 | [Coal : Serbia](https://pm20.zbw.eu/folder/wa/1431xx/143120/1410xx/141032/about.en.html ) | 24 | A 041
 A41 | PID08-Ar | [Fittings (Armature) : Serbia](https://pm20.zbw.eu/folder/wa/1420xx/142004/1410xx/141032/about.en.html ) | 1 | A 041
 A43 | PID20.02-Sp | [Alcoholic beverage : Ottoman Empire](https://pm20.zbw.eu/folder/wa/1419xx/141966/1410xx/141034/about.en.html ) | 12 | A 043 (alt)
-A43 | PID08-Ap | [Appliances and instruments : Ottoman Empire](https://pm20.zbw.eu/folder/wa/1419xx/141985/1410xx/141034/about.en.html ) | 2 | A 043 (alt)
+A43 | PID08-Ap | [Apparatus and instruments : Ottoman Empire](https://pm20.zbw.eu/folder/wa/1419xx/141985/1410xx/141034/about.en.html ) | 2 | A 043 (alt)
 A43 | PID08-Nm01 | [Bakery machine : Ottoman Empire](https://pm20.zbw.eu/folder/wa/1420xx/142027/1410xx/141034/about.en.html ) | 2 | A 043 (alt)
 A43 | PID20-Ba | [Bakery product : Ottoman Empire](https://pm20.zbw.eu/folder/wa/1420xx/142026/1410xx/141034/about.en.html ) | 2 | A 043 (alt)
 A43 | PRB02.01 | [Coal : Ottoman Empire](https://pm20.zbw.eu/folder/wa/1431xx/143120/1410xx/141034/about.en.html ) | 30 | A 043 (alt)
@@ -954,8 +954,8 @@ A45 | PID07.01-Lm01 | [Aluminium : Greece](https://pm20.zbw.eu/folder/wa/1419xx/
 A45 | PID04-Sc01 | [Amber : Greece](https://pm20.zbw.eu/folder/wa/1421xx/142111/1410xx/141037/about.en.html ) | 1 | A 045
 A45 | PID13-Du01 | [Ammonia : Greece](https://pm20.zbw.eu/folder/wa/1659xx/165930/1410xx/141037/about.en.html ) | 6 | A 045
 A45 | PID20-Gw01 | [Anise : Greece](https://pm20.zbw.eu/folder/wa/1419xx/141976/1410xx/141037/about.en.html ) | 1 | A 045
+A45 | PID08-Ap | [Apparatus and instruments : Greece](https://pm20.zbw.eu/folder/wa/1419xx/141985/1410xx/141037/about.en.html ) | 1 | A 045
 A45 | PLW04-Ob01 | [Apple : Greece](https://pm20.zbw.eu/folder/wa/1419xx/141980/1410xx/141037/about.en.html ) | 1 | A 045
-A45 | PID08-Ap | [Appliances and instruments : Greece](https://pm20.zbw.eu/folder/wa/1419xx/141985/1410xx/141037/about.en.html ) | 1 | A 045
 A45 | PLW04-Zs02 | [Apricot : Greece](https://pm20.zbw.eu/folder/wa/1420xx/142001/1410xx/141037/about.en.html ) | 1 | A 045
 A45 | PID23-As | [Asbestos : Greece](https://pm20.zbw.eu/folder/wa/1420xx/142014/1410xx/141037/about.en.html ) | 3 | A 045
 A45 | PID22-Bd01 | [Asphalt : Greece](https://pm20.zbw.eu/folder/wa/1420xx/142016/1410xx/141037/about.en.html ) | 7 | A 045
@@ -984,8 +984,8 @@ A46 | PID07.01-Lm01 | [Aluminium : Bulgaria](https://pm20.zbw.eu/folder/wa/1419x
 A46 | PLW05-Wo01 | [Angora rabbit wool : Bulgaria](https://pm20.zbw.eu/folder/wa/1419xx/141972/1410xx/141039/about.en.html ) | 2 | A 046
 A46 | PID20-Gw01 | [Anise : Bulgaria](https://pm20.zbw.eu/folder/wa/1419xx/141976/1410xx/141039/about.en.html ) | 5 | A 046
 A46 | PID07.01-Hm01 | [Antimony : Bulgaria](https://pm20.zbw.eu/folder/wa/1419xx/141977/1410xx/141039/about.en.html ) | 1 | A 046
+A46 | PID08-Ap | [Apparatus and instruments : Bulgaria](https://pm20.zbw.eu/folder/wa/1419xx/141985/1410xx/141039/about.en.html ) | 4 | A 046
 A46 | PLW04-Ob01 | [Apple : Bulgaria](https://pm20.zbw.eu/folder/wa/1419xx/141980/1410xx/141039/about.en.html ) | 7 | A 046
-A46 | PID08-Ap | [Appliances and instruments : Bulgaria](https://pm20.zbw.eu/folder/wa/1419xx/141985/1410xx/141039/about.en.html ) | 4 | A 046
 A46 | PLW04-Zs02 | [Apricot : Bulgaria](https://pm20.zbw.eu/folder/wa/1420xx/142001/1410xx/141039/about.en.html ) | 7 | A 046
 A46 | PID22-Bd01 | [Asphalt : Bulgaria](https://pm20.zbw.eu/folder/wa/1420xx/142016/1410xx/141039/about.en.html ) | 2 | A 046
 A46 | PID07.03-Wz01 | [Axe, hatchet, hammer : Bulgaria](https://pm20.zbw.eu/folder/wa/1419xx/141947/1410xx/141039/about.en.html ) | 1 | A 046
@@ -1028,8 +1028,8 @@ A47 | PID04-Sc01 | [Amber : Romania](https://pm20.zbw.eu/folder/wa/1421xx/142111
 A47 | PID13-Du01 | [Ammonia : Romania](https://pm20.zbw.eu/folder/wa/1659xx/165930/1410xx/141040/about.en.html ) | 2 | A 047
 A47 | PLW05-Wo01 | [Angora rabbit wool : Romania](https://pm20.zbw.eu/folder/wa/1419xx/141972/1410xx/141040/about.en.html ) | 1 | A 047
 A47 | PID07.01-Hm01 | [Antimony : Romania](https://pm20.zbw.eu/folder/wa/1419xx/141977/1410xx/141040/about.en.html ) | 1 | A 047
+A47 | PID08-Ap | [Apparatus and instruments : Romania](https://pm20.zbw.eu/folder/wa/1419xx/141985/1410xx/141040/about.en.html ) | 2 | A 047
 A47 | PLW04-Ob01 | [Apple : Romania](https://pm20.zbw.eu/folder/wa/1419xx/141980/1410xx/141040/about.en.html ) | 1 | A 047
-A47 | PID08-Ap | [Appliances and instruments : Romania](https://pm20.zbw.eu/folder/wa/1419xx/141985/1410xx/141040/about.en.html ) | 2 | A 047
 A47 | PID23-As | [Asbestos : Romania](https://pm20.zbw.eu/folder/wa/1420xx/142014/1410xx/141040/about.en.html ) | 5 | A 047
 A47 | PID22-Bd01 | [Asphalt : Romania](https://pm20.zbw.eu/folder/wa/1420xx/142016/1410xx/141040/about.en.html ) | 6 | A 047
 A47 | PID20-Ba | [Bakery product : Romania](https://pm20.zbw.eu/folder/wa/1420xx/142026/1410xx/141040/about.en.html ) | 2 | A 047
@@ -1072,8 +1072,8 @@ A50 | PID04-Sc01 | [Amber : USSR](https://pm20.zbw.eu/folder/wa/1421xx/142111/14
 A50 | PID13-Du01 | [Ammonia : USSR](https://pm20.zbw.eu/folder/wa/1659xx/165930/1410xx/141043/about.en.html ) | 9 | A 050
 A50 | PID20-Gw01 | [Anise : USSR](https://pm20.zbw.eu/folder/wa/1419xx/141976/1410xx/141043/about.en.html ) | 1 | A 050
 A50 | PID07.01-Hm01 | [Antimony : USSR](https://pm20.zbw.eu/folder/wa/1419xx/141977/1410xx/141043/about.en.html ) | 27 | A 050
+A50 | PID08-Ap | [Apparatus and instruments : USSR](https://pm20.zbw.eu/folder/wa/1419xx/141985/1410xx/141043/about.en.html ) | 25 | A 050
 A50 | PLW04-Ob01 | [Apple : USSR](https://pm20.zbw.eu/folder/wa/1419xx/141980/1410xx/141043/about.en.html ) | 6 | A 050
-A50 | PID08-Ap | [Appliances and instruments : USSR](https://pm20.zbw.eu/folder/wa/1419xx/141985/1410xx/141043/about.en.html ) | 25 | A 050
 A50 | PLW04-Zs02 | [Apricot : USSR](https://pm20.zbw.eu/folder/wa/1420xx/142001/1410xx/141043/about.en.html ) | 1 | A 050
 A50 | PID07.01-Hm02 | [Arsenic : USSR](https://pm20.zbw.eu/folder/wa/1420xx/142006/1410xx/141043/about.en.html ) | 8 | A 050
 A50 | PID23-As | [Asbestos : USSR](https://pm20.zbw.eu/folder/wa/1420xx/142014/1410xx/141043/about.en.html ) | 143 | A 050
@@ -1182,8 +1182,8 @@ A60 | PID13-Ko02 | [Alcohol : Estonia](https://pm20.zbw.eu/folder/wa/1634xx/1634
 A60 | PID20.02-Sp | [Alcoholic beverage : Estonia](https://pm20.zbw.eu/folder/wa/1419xx/141966/1410xx/141052/about.en.html ) | 167 | A 060
 A60 | PLW07-Mp01 | [Algae and seaweed : Estonia](https://pm20.zbw.eu/folder/wa/1419xx/141959/1410xx/141052/about.en.html ) | 4 | A 060
 A60 | PID07.01-Lm01 | [Aluminium : Estonia](https://pm20.zbw.eu/folder/wa/1419xx/141969/1410xx/141052/about.en.html ) | 9 | A 060
+A60 | PID08-Ap | [Apparatus and instruments : Estonia](https://pm20.zbw.eu/folder/wa/1419xx/141985/1410xx/141052/about.en.html ) | 2 | A 060
 A60 | PLW04-Ob01 | [Apple : Estonia](https://pm20.zbw.eu/folder/wa/1419xx/141980/1410xx/141052/about.en.html ) | 17 | A 060
-A60 | PID08-Ap | [Appliances and instruments : Estonia](https://pm20.zbw.eu/folder/wa/1419xx/141985/1410xx/141052/about.en.html ) | 2 | A 060
 A60 | PID22-Bd01 | [Asphalt : Estonia](https://pm20.zbw.eu/folder/wa/1420xx/142016/1410xx/141052/about.en.html ) | 10 | A 060
 A60 | PID14-Ha01 | [Bakelit : Estonia](https://pm20.zbw.eu/folder/wa/1420xx/142029/1410xx/141052/about.en.html ) | 4 | A 060
 A60 | PID20-Ba | [Bakery product : Estonia](https://pm20.zbw.eu/folder/wa/1420xx/142026/1410xx/141052/about.en.html ) | 1 | A 060
@@ -1320,7 +1320,7 @@ B24a | PID13.02-Ks02 | [Petrol : Palestine](https://pm20.zbw.eu/folder/wa/1421xx
 B24a | PID09.02-Kf | [Trailer : Palestine](https://pm20.zbw.eu/folder/wa/1419xx/141974/1411xx/141115/about.en.html ) | 1 | B 024a
 B24b | PID13.02-Ks02 | [Petrol : Jordan (Kingdom)](https://pm20.zbw.eu/folder/wa/1421xx/142108/1411xx/141116/about.en.html ) | 1 | B 024b
 B24c | PID20.02-Sp | [Alcoholic beverage : Lebanon](https://pm20.zbw.eu/folder/wa/1419xx/141966/1411xx/141117/about.en.html ) | 6 | B 024c
-B24c | PID08-Ap | [Appliances and instruments : Lebanon](https://pm20.zbw.eu/folder/wa/1419xx/141985/1411xx/141117/about.en.html ) | 3 | B 024c
+B24c | PID08-Ap | [Apparatus and instruments : Lebanon](https://pm20.zbw.eu/folder/wa/1419xx/141985/1411xx/141117/about.en.html ) | 3 | B 024c
 B24c | PID22-Bd01 | [Asphalt : Lebanon](https://pm20.zbw.eu/folder/wa/1420xx/142016/1411xx/141117/about.en.html ) | 1 | B 024c
 B24c | PID20-Ba | [Bakery product : Lebanon](https://pm20.zbw.eu/folder/wa/1420xx/142026/1411xx/141117/about.en.html ) | 2 | B 024c
 B24c | PLW04-Bn | [Banana : Lebanon](https://pm20.zbw.eu/folder/wa/1420xx/142038/1411xx/141117/about.en.html ) | 4 | B 024c
@@ -1365,8 +1365,8 @@ B42 | PID20.02-Sp | [Alcoholic beverage : Indian Empire](https://pm20.zbw.eu/fol
 B42 | PID07.01-Lm01 | [Aluminium : Indian Empire](https://pm20.zbw.eu/folder/wa/1419xx/141969/1411xx/141189/about.en.html ) | 35 | B 042
 B42 | PID13-Du01 | [Ammonia : Indian Empire](https://pm20.zbw.eu/folder/wa/1659xx/165930/1411xx/141189/about.en.html ) | 6 | B 042
 B42 | PID07.01-Hm01 | [Antimony : Indian Empire](https://pm20.zbw.eu/folder/wa/1419xx/141977/1411xx/141189/about.en.html ) | 3 | B 042
+B42 | PID08-Ap | [Apparatus and instruments : Indian Empire](https://pm20.zbw.eu/folder/wa/1419xx/141985/1411xx/141189/about.en.html ) | 3 | B 042
 B42 | PLW04-Ob01 | [Apple : Indian Empire](https://pm20.zbw.eu/folder/wa/1419xx/141980/1411xx/141189/about.en.html ) | 1 | B 042
-B42 | PID08-Ap | [Appliances and instruments : Indian Empire](https://pm20.zbw.eu/folder/wa/1419xx/141985/1411xx/141189/about.en.html ) | 3 | B 042
 B42 | PID23-As | [Asbestos : Indian Empire](https://pm20.zbw.eu/folder/wa/1420xx/142014/1411xx/141189/about.en.html ) | 1 | B 042
 B42 | PID07.03-Wz01 | [Axe, hatchet, hammer : Indian Empire](https://pm20.zbw.eu/folder/wa/1419xx/141947/1411xx/141189/about.en.html ) | 1 | B 042
 B42 | PID20-Ba | [Bakery product : Indian Empire](https://pm20.zbw.eu/folder/wa/1420xx/142026/1411xx/141189/about.en.html ) | 1 | B 042
@@ -1395,7 +1395,7 @@ B42 | PLW04-Zs01 | [Orange : Indian Empire](https://pm20.zbw.eu/folder/wa/1419xx
 B42 | PLW07-Mt02 | [Oyster : Indian Empire](https://pm20.zbw.eu/folder/wa/1420xx/142019/1411xx/141189/about.en.html ) | 1 | B 042
 B42 | PID13.02-Ks02 | [Petrol : Indian Empire](https://pm20.zbw.eu/folder/wa/1421xx/142108/1411xx/141189/about.en.html ) | 11 | B 042
 B43 | PID07.01-Lm01 | [Aluminium : Burma](https://pm20.zbw.eu/folder/wa/1419xx/141969/1411xx/141195/about.en.html ) | 1 | B 043
-B43 | PID08-Ap | [Appliances and instruments : Burma](https://pm20.zbw.eu/folder/wa/1419xx/141985/1411xx/141195/about.en.html ) | 1 | B 043
+B43 | PID08-Ap | [Apparatus and instruments : Burma](https://pm20.zbw.eu/folder/wa/1419xx/141985/1411xx/141195/about.en.html ) | 1 | B 043
 B43 | PLW04-Bw | [Cotton : Burma](https://pm20.zbw.eu/folder/wa/1420xx/142089/1411xx/141195/about.en.html ) | 11 | B 043
 B54 | PID20.02-Sp | [Alcoholic beverage : French India](https://pm20.zbw.eu/folder/wa/1419xx/141966/1412xx/141200/about.en.html ) | 7 | B 054
 B54 | PLW04-Bw | [Cotton : French India](https://pm20.zbw.eu/folder/wa/1420xx/142089/1412xx/141200/about.en.html ) | 6 | B 054
@@ -1506,7 +1506,7 @@ B86 | PID13.02-Ks02 | [Petrol : Philippines](https://pm20.zbw.eu/folder/wa/1421x
 B86 | PLW04-Tr01 | [Pineapple : Philippines](https://pm20.zbw.eu/folder/wa/1419xx/141970/1412xx/141240/about.en.html ) | 9 | B 086
 B90 | PID13-Ko02 | [Alcohol : Siam](https://pm20.zbw.eu/folder/wa/1634xx/163481/1412xx/141242/about.en.html ) | 2 | B 090
 B90 | PID20.02-Sp | [Alcoholic beverage : Siam](https://pm20.zbw.eu/folder/wa/1419xx/141966/1412xx/141242/about.en.html ) | 4 | B 090
-B90 | PID08-Ap | [Appliances and instruments : Siam](https://pm20.zbw.eu/folder/wa/1419xx/141985/1412xx/141242/about.en.html ) | 8 | B 090
+B90 | PID08-Ap | [Apparatus and instruments : Siam](https://pm20.zbw.eu/folder/wa/1419xx/141985/1412xx/141242/about.en.html ) | 8 | B 090
 B90 | PID20-Ba | [Bakery product : Siam](https://pm20.zbw.eu/folder/wa/1420xx/142026/1412xx/141242/about.en.html ) | 1 | B 090
 B90 | PLW04-Gr02 | [Bamboo : Siam](https://pm20.zbw.eu/folder/wa/1420xx/142035/1412xx/141242/about.en.html ) | 1 | B 090
 B90 | PLW04-Bn | [Banana : Siam](https://pm20.zbw.eu/folder/wa/1420xx/142038/1412xx/141242/about.en.html ) | 1 | B 090
@@ -1536,7 +1536,7 @@ B94 | PID20.02-Sp | [Alcoholic beverage : China](https://pm20.zbw.eu/folder/wa/1
 B94 | PID07.01-Lm01 | [Aluminium : China](https://pm20.zbw.eu/folder/wa/1419xx/141969/1412xx/141253/about.en.html ) | 22 | B 094
 B94 | PID13-Du01 | [Ammonia : China](https://pm20.zbw.eu/folder/wa/1659xx/165930/1412xx/141253/about.en.html ) | 14 | B 094
 B94 | PID07.01-Hm01 | [Antimony : China](https://pm20.zbw.eu/folder/wa/1419xx/141977/1412xx/141253/about.en.html ) | 111 | B 094
-B94 | PID08-Ap | [Appliances and instruments : China](https://pm20.zbw.eu/folder/wa/1419xx/141985/1412xx/141253/about.en.html ) | 2 | B 094
+B94 | PID08-Ap | [Apparatus and instruments : China](https://pm20.zbw.eu/folder/wa/1419xx/141985/1412xx/141253/about.en.html ) | 2 | B 094
 B94 | PLW04-Zs02 | [Apricot : China](https://pm20.zbw.eu/folder/wa/1420xx/142001/1412xx/141253/about.en.html ) | 1 | B 094
 B94 | PLW04-Kf01 | [Arrowroot : China](https://pm20.zbw.eu/folder/wa/1420xx/142005/1412xx/141253/about.en.html ) | 1 | B 094
 B94 | PID07.01-Hm02 | [Arsenic : China](https://pm20.zbw.eu/folder/wa/1420xx/142006/1412xx/141253/about.en.html ) | 1 | B 094
@@ -1597,8 +1597,8 @@ B102 | PID20.02-Sp | [Alcoholic beverage : Hong Kong](https://pm20.zbw.eu/folder
 B102 | PID07.01-Lm01 | [Aluminium : Hong Kong](https://pm20.zbw.eu/folder/wa/1419xx/141969/1412xx/141268/about.en.html ) | 1 | B 102
 B102 | PID20-Gw01 | [Anise : Hong Kong](https://pm20.zbw.eu/folder/wa/1419xx/141976/1412xx/141268/about.en.html ) | 1 | B 102
 B102 | PID07.01-Hm01 | [Antimony : Hong Kong](https://pm20.zbw.eu/folder/wa/1419xx/141977/1412xx/141268/about.en.html ) | 1 | B 102
+B102 | PID08-Ap | [Apparatus and instruments : Hong Kong](https://pm20.zbw.eu/folder/wa/1419xx/141985/1412xx/141268/about.en.html ) | 1 | B 102
 B102 | PLW04-Ob01 | [Apple : Hong Kong](https://pm20.zbw.eu/folder/wa/1419xx/141980/1412xx/141268/about.en.html ) | 2 | B 102
-B102 | PID08-Ap | [Appliances and instruments : Hong Kong](https://pm20.zbw.eu/folder/wa/1419xx/141985/1412xx/141268/about.en.html ) | 1 | B 102
 B102 | PID20-Ba | [Bakery product : Hong Kong](https://pm20.zbw.eu/folder/wa/1420xx/142026/1412xx/141268/about.en.html ) | 3 | B 102
 B102 | PLW04-Gr02 | [Bamboo : Hong Kong](https://pm20.zbw.eu/folder/wa/1420xx/142035/1412xx/141268/about.en.html ) | 1 | B 102
 B102 | PID19-Bk | [Clothing : Hong Kong](https://pm20.zbw.eu/folder/wa/1421xx/142106/1412xx/141268/about.en.html ) | 2 | B 102
@@ -1620,8 +1620,8 @@ B111 | PID07.01-Lm01 | [Aluminium : Japan](https://pm20.zbw.eu/folder/wa/1419xx/
 B111 | PID13-Du01 | [Ammonia : Japan](https://pm20.zbw.eu/folder/wa/1659xx/165930/1412xx/141272/about.en.html ) | 201 | B 111
 B111 | PLW05-Wo01 | [Angora rabbit wool : Japan](https://pm20.zbw.eu/folder/wa/1419xx/141972/1412xx/141272/about.en.html ) | 3 | B 111
 B111 | PID07.01-Hm01 | [Antimony : Japan](https://pm20.zbw.eu/folder/wa/1419xx/141977/1412xx/141272/about.en.html ) | 6 | B 111
+B111 | PID08-Ap | [Apparatus and instruments : Japan](https://pm20.zbw.eu/folder/wa/1419xx/141985/1412xx/141272/about.en.html ) | 10 | B 111
 B111 | PLW04-Ob01 | [Apple : Japan](https://pm20.zbw.eu/folder/wa/1419xx/141980/1412xx/141272/about.en.html ) | 2 | B 111
-B111 | PID08-Ap | [Appliances and instruments : Japan](https://pm20.zbw.eu/folder/wa/1419xx/141985/1412xx/141272/about.en.html ) | 10 | B 111
 B111 | PID07.01-Hm02 | [Arsenic : Japan](https://pm20.zbw.eu/folder/wa/1420xx/142006/1412xx/141272/about.en.html ) | 4 | B 111
 B111 | PID23-As | [Asbestos : Japan](https://pm20.zbw.eu/folder/wa/1420xx/142014/1412xx/141272/about.en.html ) | 9 | B 111
 B111 | PID22-Bd01 | [Asphalt : Japan](https://pm20.zbw.eu/folder/wa/1420xx/142016/1412xx/141272/about.en.html ) | 2 | B 111
@@ -1683,8 +1683,8 @@ C10 | PID20.02-Sp01 | [Absinth : Egypt](https://pm20.zbw.eu/folder/wa/1419xx/141
 C10 | PID13-Ko02 | [Alcohol : Egypt](https://pm20.zbw.eu/folder/wa/1634xx/163481/1413xx/141336/about.en.html ) | 1 | C 010
 C10 | PID20.02-Sp | [Alcoholic beverage : Egypt](https://pm20.zbw.eu/folder/wa/1419xx/141966/1413xx/141336/about.en.html ) | 51 | C 010
 C10 | PID07.01-Lm01 | [Aluminium : Egypt](https://pm20.zbw.eu/folder/wa/1419xx/141969/1413xx/141336/about.en.html ) | 2 | C 010
+C10 | PID08-Ap | [Apparatus and instruments : Egypt](https://pm20.zbw.eu/folder/wa/1419xx/141985/1413xx/141336/about.en.html ) | 2 | C 010
 C10 | PLW04-Ob01 | [Apple : Egypt](https://pm20.zbw.eu/folder/wa/1419xx/141980/1413xx/141336/about.en.html ) | 3 | C 010
-C10 | PID08-Ap | [Appliances and instruments : Egypt](https://pm20.zbw.eu/folder/wa/1419xx/141985/1413xx/141336/about.en.html ) | 2 | C 010
 C10 | PID22-Bd01 | [Asphalt : Egypt](https://pm20.zbw.eu/folder/wa/1420xx/142016/1413xx/141336/about.en.html ) | 5 | C 010
 C10 | PID20-Ba | [Bakery product : Egypt](https://pm20.zbw.eu/folder/wa/1420xx/142026/1413xx/141336/about.en.html ) | 2 | C 010
 C10 | PLW04-Bn | [Banana : Egypt](https://pm20.zbw.eu/folder/wa/1420xx/142038/1413xx/141336/about.en.html ) | 2 | C 010
@@ -1942,8 +1942,8 @@ C93 | PID07.01-Lm01 | [Aluminium : Union of South Africa](https://pm20.zbw.eu/fo
 C93 | PID13-Du01 | [Ammonia : Union of South Africa](https://pm20.zbw.eu/folder/wa/1659xx/165930/1414xx/141454/about.en.html ) | 6 | C 093
 C93 | PLW05-Wo01 | [Angora rabbit wool : Union of South Africa](https://pm20.zbw.eu/folder/wa/1419xx/141972/1414xx/141454/about.en.html ) | 2 | C 093
 C93 | PID07.01-Hm01 | [Antimony : Union of South Africa](https://pm20.zbw.eu/folder/wa/1419xx/141977/1414xx/141454/about.en.html ) | 16 | C 093
+C93 | PID08-Ap | [Apparatus and instruments : Union of South Africa](https://pm20.zbw.eu/folder/wa/1419xx/141985/1414xx/141454/about.en.html ) | 1 | C 093
 C93 | PLW04-Ob01 | [Apple : Union of South Africa](https://pm20.zbw.eu/folder/wa/1419xx/141980/1414xx/141454/about.en.html ) | 8 | C 093
-C93 | PID08-Ap | [Appliances and instruments : Union of South Africa](https://pm20.zbw.eu/folder/wa/1419xx/141985/1414xx/141454/about.en.html ) | 1 | C 093
 C93 | PLW04-Zs02 | [Apricot : Union of South Africa](https://pm20.zbw.eu/folder/wa/1420xx/142001/1414xx/141454/about.en.html ) | 5 | C 093
 C93 | PID07.01-Hm02 | [Arsenic : Union of South Africa](https://pm20.zbw.eu/folder/wa/1420xx/142006/1414xx/141454/about.en.html ) | 3 | C 093
 C93 | PID23-As | [Asbestos : Union of South Africa](https://pm20.zbw.eu/folder/wa/1420xx/142014/1414xx/141454/about.en.html ) | 57 | C 093
@@ -2129,8 +2129,8 @@ D30 | PLW07-Mp01 | [Algae and seaweed : Australia](https://pm20.zbw.eu/folder/wa
 D30 | PID07.01-Lm01 | [Aluminium : Australia](https://pm20.zbw.eu/folder/wa/1419xx/141969/1416xx/141621/about.en.html ) | 87 | D 030
 D30 | PID13-Du01 | [Ammonia : Australia](https://pm20.zbw.eu/folder/wa/1659xx/165930/1416xx/141621/about.en.html ) | 1 | D 030
 D30 | PID07.01-Hm01 | [Antimony : Australia](https://pm20.zbw.eu/folder/wa/1419xx/141977/1416xx/141621/about.en.html ) | 4 | D 030
+D30 | PID08-Ap | [Apparatus and instruments : Australia](https://pm20.zbw.eu/folder/wa/1419xx/141985/1416xx/141621/about.en.html ) | 1 | D 030
 D30 | PLW04-Ob01 | [Apple : Australia](https://pm20.zbw.eu/folder/wa/1419xx/141980/1416xx/141621/about.en.html ) | 50 | D 030
-D30 | PID08-Ap | [Appliances and instruments : Australia](https://pm20.zbw.eu/folder/wa/1419xx/141985/1416xx/141621/about.en.html ) | 1 | D 030
 D30 | PID07.01-Hm02 | [Arsenic : Australia](https://pm20.zbw.eu/folder/wa/1420xx/142006/1416xx/141621/about.en.html ) | 9 | D 030
 D30 | PID23-As | [Asbestos : Australia](https://pm20.zbw.eu/folder/wa/1420xx/142014/1416xx/141621/about.en.html ) | 19 | D 030
 D30 | PID22-Bd01 | [Asphalt : Australia](https://pm20.zbw.eu/folder/wa/1420xx/142016/1416xx/141621/about.en.html ) | 2 | D 030
@@ -2226,8 +2226,8 @@ E8 | PID07.01-Lm01 | [Aluminium : Canada](https://pm20.zbw.eu/folder/wa/1419xx/1
 E8 | PID04-Sc01 | [Amber : Canada](https://pm20.zbw.eu/folder/wa/1421xx/142111/1416xx/141644/about.en.html ) | 6 | E 008
 E8 | PID13-Du01 | [Ammonia : Canada](https://pm20.zbw.eu/folder/wa/1659xx/165930/1416xx/141644/about.en.html ) | 6 | E 008
 E8 | PID07.01-Hm01 | [Antimony : Canada](https://pm20.zbw.eu/folder/wa/1419xx/141977/1416xx/141644/about.en.html ) | 18 | E 008
+E8 | PID08-Ap | [Apparatus and instruments : Canada](https://pm20.zbw.eu/folder/wa/1419xx/141985/1416xx/141644/about.en.html ) | 5 | E 008
 E8 | PLW04-Ob01 | [Apple : Canada](https://pm20.zbw.eu/folder/wa/1419xx/141980/1416xx/141644/about.en.html ) | 176 | E 008
-E8 | PID08-Ap | [Appliances and instruments : Canada](https://pm20.zbw.eu/folder/wa/1419xx/141985/1416xx/141644/about.en.html ) | 5 | E 008
 E8 | PLW04-Zs02 | [Apricot : Canada](https://pm20.zbw.eu/folder/wa/1420xx/142001/1416xx/141644/about.en.html ) | 2 | E 008
 E8 | PID07.01-Hm02 | [Arsenic : Canada](https://pm20.zbw.eu/folder/wa/1420xx/142006/1416xx/141644/about.en.html ) | 19 | E 008
 E8 | PID23-As | [Asbestos : Canada](https://pm20.zbw.eu/folder/wa/1420xx/142014/1416xx/141644/about.en.html ) | 187 | E 008
@@ -2289,8 +2289,8 @@ E15 | PID04-Sc01 | [Amber : United States](https://pm20.zbw.eu/folder/wa/1421xx/
 E15 | PID13-Du01 | [Ammonia : United States](https://pm20.zbw.eu/folder/wa/1659xx/165930/1416xx/141653/about.en.html ) | 56 | E 015
 E15 | PLW05-Wo01 | [Angora rabbit wool : United States](https://pm20.zbw.eu/folder/wa/1419xx/141972/1416xx/141653/about.en.html ) | 2 | E 015
 E15 | PID07.01-Hm01 | [Antimony : United States](https://pm20.zbw.eu/folder/wa/1419xx/141977/1416xx/141653/about.en.html ) | 48 | E 015
+E15 | PID08-Ap | [Apparatus and instruments : United States](https://pm20.zbw.eu/folder/wa/1419xx/141985/1416xx/141653/about.en.html ) | 15 | E 015
 E15 | PLW04-Ob01 | [Apple : United States](https://pm20.zbw.eu/folder/wa/1419xx/141980/1416xx/141653/about.en.html ) | 100 | E 015
-E15 | PID08-Ap | [Appliances and instruments : United States](https://pm20.zbw.eu/folder/wa/1419xx/141985/1416xx/141653/about.en.html ) | 15 | E 015
 E15 | PLW04-Zs02 | [Apricot : United States](https://pm20.zbw.eu/folder/wa/1420xx/142001/1416xx/141653/about.en.html ) | 4 | E 015
 E15 | PID07.01-Hm02 | [Arsenic : United States](https://pm20.zbw.eu/folder/wa/1420xx/142006/1416xx/141653/about.en.html ) | 48 | E 015
 E15 | PLW04-Gm01 | [Artichokes : United States](https://pm20.zbw.eu/folder/wa/1420xx/142012/1416xx/141653/about.en.html ) | 4 | E 015
@@ -2359,8 +2359,8 @@ E20 | PLW07-Mp01 | [Algae and seaweed : Mexico](https://pm20.zbw.eu/folder/wa/14
 E20 | PID07.01-Lm01 | [Aluminium : Mexico](https://pm20.zbw.eu/folder/wa/1419xx/141969/1416xx/141657/about.en.html ) | 10 | E 020
 E20 | PID13-Du01 | [Ammonia : Mexico](https://pm20.zbw.eu/folder/wa/1659xx/165930/1416xx/141657/about.en.html ) | 1 | E 020
 E20 | PID07.01-Hm01 | [Antimony : Mexico](https://pm20.zbw.eu/folder/wa/1419xx/141977/1416xx/141657/about.en.html ) | 12 | E 020
+E20 | PID08-Ap | [Apparatus and instruments : Mexico](https://pm20.zbw.eu/folder/wa/1419xx/141985/1416xx/141657/about.en.html ) | 3 | E 020
 E20 | PLW04-Ob01 | [Apple : Mexico](https://pm20.zbw.eu/folder/wa/1419xx/141980/1416xx/141657/about.en.html ) | 1 | E 020
-E20 | PID08-Ap | [Appliances and instruments : Mexico](https://pm20.zbw.eu/folder/wa/1419xx/141985/1416xx/141657/about.en.html ) | 3 | E 020
 E20 | PID07.01-Hm02 | [Arsenic : Mexico](https://pm20.zbw.eu/folder/wa/1420xx/142006/1416xx/141657/about.en.html ) | 8 | E 020
 E20 | PID23-As | [Asbestos : Mexico](https://pm20.zbw.eu/folder/wa/1420xx/142014/1416xx/141657/about.en.html ) | 4 | E 020
 E20 | PID22-Bd01 | [Asphalt : Mexico](https://pm20.zbw.eu/folder/wa/1420xx/142016/1416xx/141657/about.en.html ) | 6 | E 020
@@ -2514,7 +2514,7 @@ E60 | PLW04-Bw | [Cotton : Virgin Islands (USA)](https://pm20.zbw.eu/folder/wa/1
 E61 | PID20.02-Sp | [Alcoholic beverage : West Indies](https://pm20.zbw.eu/folder/wa/1419xx/141966/1416xx/141677/about.en.html ) | 1 | E 061
 E61 | PLW04-Bn | [Banana : West Indies](https://pm20.zbw.eu/folder/wa/1420xx/142038/1416xx/141677/about.en.html ) | 1 | E 061
 E65 | PID20.02-Sp | [Alcoholic beverage : Guatemala](https://pm20.zbw.eu/folder/wa/1419xx/141966/1416xx/141678/about.en.html ) | 6 | E 065
-E65 | PID08-Ap | [Appliances and instruments : Guatemala](https://pm20.zbw.eu/folder/wa/1419xx/141985/1416xx/141678/about.en.html ) | 2 | E 065
+E65 | PID08-Ap | [Apparatus and instruments : Guatemala](https://pm20.zbw.eu/folder/wa/1419xx/141985/1416xx/141678/about.en.html ) | 2 | E 065
 E65 | PID23-As | [Asbestos : Guatemala](https://pm20.zbw.eu/folder/wa/1420xx/142014/1416xx/141678/about.en.html ) | 2 | E 065
 E65 | PLW04-Bn | [Banana : Guatemala](https://pm20.zbw.eu/folder/wa/1420xx/142038/1416xx/141678/about.en.html ) | 49 | E 065
 E65 | PID22-Bs | [Building material : Guatemala](https://pm20.zbw.eu/folder/wa/1420xx/142086/1416xx/141678/about.en.html ) | 2 | E 065
@@ -2636,7 +2636,7 @@ E79 | PID20.02-Sp | [Alcoholic beverage : Peru](https://pm20.zbw.eu/folder/wa/14
 E79 | PID07.01-Lm01 | [Aluminium : Peru](https://pm20.zbw.eu/folder/wa/1419xx/141969/1416xx/141689/about.en.html ) | 12 | E 079
 E79 | PID13-Du01 | [Ammonia : Peru](https://pm20.zbw.eu/folder/wa/1659xx/165930/1416xx/141689/about.en.html ) | 1 | E 079
 E79 | PID07.01-Hm01 | [Antimony : Peru](https://pm20.zbw.eu/folder/wa/1419xx/141977/1416xx/141689/about.en.html ) | 6 | E 079
-E79 | PID08-Ap | [Appliances and instruments : Peru](https://pm20.zbw.eu/folder/wa/1419xx/141985/1416xx/141689/about.en.html ) | 1 | E 079
+E79 | PID08-Ap | [Apparatus and instruments : Peru](https://pm20.zbw.eu/folder/wa/1419xx/141985/1416xx/141689/about.en.html ) | 1 | E 079
 E79 | PID23-As | [Asbestos : Peru](https://pm20.zbw.eu/folder/wa/1420xx/142014/1416xx/141689/about.en.html ) | 1 | E 079
 E79 | PLW04-Ob02 | [Avocate pear : Peru](https://pm20.zbw.eu/folder/wa/1420xx/142021/1416xx/141689/about.en.html ) | 3 | E 079
 E79 | PID20-Ba | [Bakery product : Peru](https://pm20.zbw.eu/folder/wa/1420xx/142026/1416xx/141689/about.en.html ) | 1 | E 079
@@ -2708,8 +2708,8 @@ E86 | PID13-Ko02 | [Alcohol : Argentina](https://pm20.zbw.eu/folder/wa/1634xx/16
 E86 | PID20.02-Sp | [Alcoholic beverage : Argentina](https://pm20.zbw.eu/folder/wa/1419xx/141966/1416xx/141692/about.en.html ) | 181 | E 086
 E86 | PID07.01-Lm01 | [Aluminium : Argentina](https://pm20.zbw.eu/folder/wa/1419xx/141969/1416xx/141692/about.en.html ) | 21 | E 086
 E86 | PID07.01-Hm01 | [Antimony : Argentina](https://pm20.zbw.eu/folder/wa/1419xx/141977/1416xx/141692/about.en.html ) | 2 | E 086
+E86 | PID08-Ap | [Apparatus and instruments : Argentina](https://pm20.zbw.eu/folder/wa/1419xx/141985/1416xx/141692/about.en.html ) | 2 | E 086
 E86 | PLW04-Ob01 | [Apple : Argentina](https://pm20.zbw.eu/folder/wa/1419xx/141980/1416xx/141692/about.en.html ) | 27 | E 086
-E86 | PID08-Ap | [Appliances and instruments : Argentina](https://pm20.zbw.eu/folder/wa/1419xx/141985/1416xx/141692/about.en.html ) | 2 | E 086
 E86 | PLW04-Zs02 | [Apricot : Argentina](https://pm20.zbw.eu/folder/wa/1420xx/142001/1416xx/141692/about.en.html ) | 1 | E 086
 E86 | PLW06-Hz01 | [Araucaria : Argentina](https://pm20.zbw.eu/folder/wa/1420xx/142002/1416xx/141692/about.en.html ) | 1 | E 086
 E86 | PID07.01-Hm02 | [Arsenic : Argentina](https://pm20.zbw.eu/folder/wa/1420xx/142006/1416xx/141692/about.en.html ) | 1 | E 086
@@ -2746,7 +2746,7 @@ E90 | PID20.02-Sp | [Alcoholic beverage : Falkland Islands](https://pm20.zbw.eu/
 E95 | PID20.02-Sp | [Alcoholic beverage : Uruguay](https://pm20.zbw.eu/folder/wa/1419xx/141966/1416xx/141695/about.en.html ) | 42 | E 095
 E95 | PLW07-Mp01 | [Algae and seaweed : Uruguay](https://pm20.zbw.eu/folder/wa/1419xx/141959/1416xx/141695/about.en.html ) | 1 | E 095
 E95 | PID07.01-Lm01 | [Aluminium : Uruguay](https://pm20.zbw.eu/folder/wa/1419xx/141969/1416xx/141695/about.en.html ) | 3 | E 095
-E95 | PID08-Ap | [Appliances and instruments : Uruguay](https://pm20.zbw.eu/folder/wa/1419xx/141985/1416xx/141695/about.en.html ) | 6 | E 095
+E95 | PID08-Ap | [Apparatus and instruments : Uruguay](https://pm20.zbw.eu/folder/wa/1419xx/141985/1416xx/141695/about.en.html ) | 6 | E 095
 E95 | PLW06-Hz01 | [Araucaria : Uruguay](https://pm20.zbw.eu/folder/wa/1420xx/142002/1416xx/141695/about.en.html ) | 1 | E 095
 E95 | PID23-As | [Asbestos : Uruguay](https://pm20.zbw.eu/folder/wa/1420xx/142014/1416xx/141695/about.en.html ) | 3 | E 095
 E95 | PID14-Ha01 | [Bakelit : Uruguay](https://pm20.zbw.eu/folder/wa/1420xx/142029/1416xx/141695/about.en.html ) | 1 | E 095
@@ -2782,8 +2782,8 @@ E97 | PLW06-Fp01 | [Acacia bark : Brazil](https://pm20.zbw.eu/folder/wa/1419xx/1
 E97 | PID13-Pm02 | [Alaun : Brazil](https://pm20.zbw.eu/folder/wa/1419xx/141956/1416xx/141697/about.en.html ) | 2 | E 097
 E97 | PID20.02-Sp | [Alcoholic beverage : Brazil](https://pm20.zbw.eu/folder/wa/1419xx/141966/1416xx/141697/about.en.html ) | 110 | E 097
 E97 | PID07.01-Lm01 | [Aluminium : Brazil](https://pm20.zbw.eu/folder/wa/1419xx/141969/1416xx/141697/about.en.html ) | 93 | E 097
+E97 | PID08-Ap | [Apparatus and instruments : Brazil](https://pm20.zbw.eu/folder/wa/1419xx/141985/1416xx/141697/about.en.html ) | 2 | E 097
 E97 | PLW04-Ob01 | [Apple : Brazil](https://pm20.zbw.eu/folder/wa/1419xx/141980/1416xx/141697/about.en.html ) | 3 | E 097
-E97 | PID08-Ap | [Appliances and instruments : Brazil](https://pm20.zbw.eu/folder/wa/1419xx/141985/1416xx/141697/about.en.html ) | 2 | E 097
 E97 | PLW06-Hz01 | [Araucaria : Brazil](https://pm20.zbw.eu/folder/wa/1420xx/142002/1416xx/141697/about.en.html ) | 8 | E 097
 E97 | PID07.01-Hm02 | [Arsenic : Brazil](https://pm20.zbw.eu/folder/wa/1420xx/142006/1416xx/141697/about.en.html ) | 10 | E 097
 E97 | PID23-As | [Asbestos : Brazil](https://pm20.zbw.eu/folder/wa/1420xx/142014/1416xx/141697/about.en.html ) | 9 | E 097
@@ -2853,8 +2853,8 @@ H | PID04-Sc01 | [Amber : World](https://pm20.zbw.eu/folder/wa/1421xx/142111/141
 H | PID13-Du01 | [Ammonia : World](https://pm20.zbw.eu/folder/wa/1659xx/165930/1417xx/141728/about.en.html ) | 66 | H
 H | PLW05-Wo01 | [Angora rabbit wool : World](https://pm20.zbw.eu/folder/wa/1419xx/141972/1417xx/141728/about.en.html ) | 7 | H
 H | PID07.01-Hm01 | [Antimony : World](https://pm20.zbw.eu/folder/wa/1419xx/141977/1417xx/141728/about.en.html ) | 94 | H
+H | PID08-Ap | [Apparatus and instruments : World](https://pm20.zbw.eu/folder/wa/1419xx/141985/1417xx/141728/about.en.html ) | 97 | H
 H | PLW04-Ob01 | [Apple : World](https://pm20.zbw.eu/folder/wa/1419xx/141980/1417xx/141728/about.en.html ) | 61 | H
-H | PID08-Ap | [Appliances and instruments : World](https://pm20.zbw.eu/folder/wa/1419xx/141985/1417xx/141728/about.en.html ) | 97 | H
 H | PLW04-Zs02 | [Apricot : World](https://pm20.zbw.eu/folder/wa/1420xx/142001/1417xx/141728/about.en.html ) | 5 | H
 H | PID07.01-Hm02 | [Arsenic : World](https://pm20.zbw.eu/folder/wa/1420xx/142006/1417xx/141728/about.en.html ) | 7 | H
 H | PID23-As | [Asbestos : World](https://pm20.zbw.eu/folder/wa/1420xx/142014/1417xx/141728/about.en.html ) | 118 | H

@@ -1,6 +1,6 @@
 ---
 title: "Folders by Country Category System"
-modified: 2024-01-13
+modified: 2025-04-19
 backlink: ../about.en.html
 backlink-title: "Folders by Category system"
 fn-stub: about
@@ -12,7 +12,7 @@ fn-stub: about
 
 
 
-In total 368 categories, 9201 subject folders (until 1949), 4225044 images from digitized microfilms about
+In total 369 categories, 9201 subject folders (until 1949), 4425978 images from digitized microfilms about
 country-subject topics, and 2891 ware folders
 (until 1949).
 
@@ -133,6 +133,7 @@ is available online.
 - [A40c Czechoslovakia](i/141022/about.en.html) [(0 subject folders, 37 ware folders)]{.hint}<a name='A40c'></a>
 - [A40c(A10) Sudeten Germans](i/141023/about.en.html) [(0 subject folders, 1 ware folders)]{.hint}<a name='A40c(A10)'></a>
 - [A40c(A12) Cieszyn Silesia](i/141024/about.en.html) [(0 subject folders, 0 ware folders)]{.hint}<a name='A40c(A12)'></a>
+- [A40c(A40d) Upper Hungary (1938-1940)](i/231280/about.en.html) [(0 subject folders, 0 ware folders)]{.hint}<a name='A40c(A40d)'></a>
 - [A40d Hungary](i/141025/about.en.html) [(0 subject folders, 39 ware folders)]{.hint}<a name='A40d'></a>
 - [A40e (Kingdom of) Yugoslavia](i/141028/about.en.html) [(0 subject folders, 22 ware folders)]{.hint}<a name='A40e'></a>
 - [A40f Slovakia](i/141029/about.en.html) [(0 subject folders, 11 ware folders)]{.hint}<a name='A40f'></a>

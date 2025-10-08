@@ -565,7 +565,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Arnold, Henry Harley](https://pm20.zbw.eu/folder/pe/0006xx/000645/about.en.html ) | 1886-1950 | United States | Amerikan. General, Luftwaffe | [7](https://pm20.zbw.eu/dfgview/pe/000645 ) | 1941-1943 | [118833987](https://d-nb.info/gnd/118833987 ) | [Q436102](http://www.wikidata.org/entity/Q436102 )
 [Arnold, Karl](https://pm20.zbw.eu/folder/pe/0006xx/000646/about.en.html ) | 1901-1958 | Germany | Politiker, Gewerkschafter | [163](https://pm20.zbw.eu/dfgview/pe/000646 ) | 1947-2001 | [118650394](https://d-nb.info/gnd/118650394 ) | [Q75808](http://www.wikidata.org/entity/Q75808 )
 [Arnold, Pierre](https://pm20.zbw.eu/folder/pe/0006xx/000648/about.en.html ) | 1921- | Switzerland | Präsident der Verwaltung des Migros-Genossenschafts-Bundes (1984-1991) |   | 1980- |   | [Q120622](http://www.wikidata.org/entity/Q120622 )
-[Arns, Paulo Evaristo](https://pm20.zbw.eu/folder/pe/0006xx/000651/about.en.html ) | 1921- | Brazil | Erzbischof von Sßao paulo (1970-96) |   | 1977- |   |  
+[Arns, Paulo Evaristo](https://pm20.zbw.eu/folder/pe/0006xx/000651/about.en.html ) | 1921- | Brazil | Erzbischof von Sßao paulo (1970-96) |   | 1977- |   | [Q665962](http://www.wikidata.org/entity/Q665962 )
 [Aron, Raymond Claude Ferdinand](https://pm20.zbw.eu/folder/pe/0006xx/000653/about.en.html ) | 1905-1983 | France | Soziologe, Philosoph, Journalist |   | 1962- |   | [Q160640](http://www.wikidata.org/entity/Q160640 )
 [Arosemena, Juan Demostenes](https://pm20.zbw.eu/folder/pe/0006xx/000655/about.en.html ) | 1879-1939 | Panama | Präsident von Panama 1936-39, Politiker, Journalist | [3](https://pm20.zbw.eu/dfgview/pe/000655 ) | 1936-1939 |   | [Q708308](http://www.wikidata.org/entity/Q708308 )
 [Arp, Hans](https://pm20.zbw.eu/folder/pe/0006xx/000656/about.en.html ) | 1887-1966 | Germany | Bildhauer, Maler und Schriftsteller |   | 1965- |   | [Q153739](http://www.wikidata.org/entity/Q153739 )
@@ -607,7 +607,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Ashkenazy, Wladimir](https://pm20.zbw.eu/folder/pe/0006xx/000695/about.en.html ) | 1937- | Russia | Pianist u. Dirigent |   | 1987- |   | [Q157785](http://www.wikidata.org/entity/Q157785 )
 [Ashrawi, Hanan](https://pm20.zbw.eu/folder/pe/0006xx/000696/about.en.html ) | 1946- | Palestine | Literaturwissenschaftlerin, Politikerin |   | 1991- |   |  
 [Askew, Reubin O'Donovan](https://pm20.zbw.eu/folder/pe/0006xx/000698/about.en.html ) | 1929- | United States | Politiker |   | 1972- |   |  
-[Asmodi, Herbert](https://pm20.zbw.eu/folder/pe/0006xx/000699/about.en.html ) | 1923- | Germany | Fernsehautor, Schriftsteller |   | 1983- |   |  
+[Asmodi, Herbert](https://pm20.zbw.eu/folder/pe/0006xx/000699/about.en.html ) | 1923- | Germany | Fernsehautor, Schriftsteller |   | 1983- |   | [Q102148](http://www.wikidata.org/entity/Q102148 )
 [Asmussen, Hans Christian](https://pm20.zbw.eu/folder/pe/0007xx/000700/about.en.html ) | 1898-1968 | Germany | Theologe | [13](https://pm20.zbw.eu/dfgview/pe/000700 ) | 1949-1968 | [118650696](https://d-nb.info/gnd/118650696 ) | [Q102283](http://www.wikidata.org/entity/Q102283 )
 [Aspin, Les](https://pm20.zbw.eu/folder/pe/0007xx/000701/about.en.html ) | 1938-1995 | United States | Politiker |   | 1985- |   | [Q1820456](http://www.wikidata.org/entity/Q1820456 )
 [Asquith, Herbert Henry](https://pm20.zbw.eu/folder/pe/0007xx/000702/about.en.html ) | 1852-1928 | United Kingdom | Politiker | [117](https://pm20.zbw.eu/dfgview/pe/000702 ) | 1914- | [117666890](https://d-nb.info/gnd/117666890 ) | [Q166714](http://www.wikidata.org/entity/Q166714 )
@@ -721,7 +721,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Babic, Milan](https://pm20.zbw.eu/folder/pe/0008xx/000823/about.en.html ) | 1956- | Serbia and Montenegro, Yugoslavia | Politiker |   | 1992- |   |  
 [Babiuch, Edward](https://pm20.zbw.eu/folder/pe/0008xx/000824/about.en.html ) | 1927- | Poland | Politiker |   | 1976- |   |  
 [Babson, Roger Ward](https://pm20.zbw.eu/folder/pe/0008xx/000825/about.en.html ) | 1875-1967 | United States | Wirtschaftswissenschaftler | [9](https://pm20.zbw.eu/dfgview/pe/000825 ) | 1929- |   | [Q2161599](http://www.wikidata.org/entity/Q2161599 )
-[Baccouche, Hedi](https://pm20.zbw.eu/folder/pe/0008xx/000826/about.en.html ) | 1930- | Tunisia | Politiker, Diplomat |   | 1987- |   |  
+[Baccouche, Hedi](https://pm20.zbw.eu/folder/pe/0008xx/000826/about.en.html ) | 1930- | Tunisia | Politiker, Diplomat |   | 1987- |   | [Q1363916](http://www.wikidata.org/entity/Q1363916 )
 [Bach, Erich von dem](https://pm20.zbw.eu/folder/pe/0008xx/000828/about.en.html ) | 1899-1972 | Germany | SS-Obergruppenführer |   | 1958- |   | [Q57267](http://www.wikidata.org/entity/Q57267 )
 [Bach, Otto Friedrich](https://pm20.zbw.eu/folder/pe/0008xx/000829/about.en.html ) | 1899-1981 | Germany | Politiker |   | 1954- |   | [Q2038783](http://www.wikidata.org/entity/Q2038783 )
 [Bach, Thomas](https://pm20.zbw.eu/folder/pe/0008xx/000831/about.en.html ) | 1953- | Germany | Jurist, Sportfunktionär. Präsident des IOC |   | 1992- |   | [Q72245](http://www.wikidata.org/entity/Q72245 )
@@ -741,7 +741,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Baden, Max Markgraf von](https://pm20.zbw.eu/folder/pe/0008xx/000850/about.en.html ) | 1933- | Germany | Chef des Hauses Baden |   | 1989- |   |  
 [Baden-Powell, Robert](https://pm20.zbw.eu/folder/pe/0008xx/000851/about.en.html ) | 1857-1941 | United Kingdom | brit. Offizier | [30](https://pm20.zbw.eu/dfgview/pe/000851 ) | 1926- | [118505718](https://d-nb.info/gnd/118505718 ) | [Q12665](http://www.wikidata.org/entity/Q12665 )
 [Bader, Karl Siegfried](https://pm20.zbw.eu/folder/pe/0008xx/000852/about.en.html ) | 1905- | Germany | Jurist, Rechtshistoriker |   | 1962- |   | [Q1733010](http://www.wikidata.org/entity/Q1733010 )
-[Badinter, Robert](https://pm20.zbw.eu/folder/pe/0008xx/000853/about.en.html ) | 1928- | France | Politiker |   | 1980- |   |  
+[Badinter, Robert](https://pm20.zbw.eu/folder/pe/0008xx/000853/about.en.html ) | 1928- | France | Politiker |   | 1980- |   | [Q336046](http://www.wikidata.org/entity/Q336046 )
 [Badoglio, Pietro](https://pm20.zbw.eu/folder/pe/0008xx/000854/about.en.html ) | 1871-1956 | Italy | Marschall | [111](https://pm20.zbw.eu/dfgview/pe/000854 ) | 1935- |   | [Q200085](http://www.wikidata.org/entity/Q200085 )
 [Badran, Mudran](https://pm20.zbw.eu/folder/pe/0008xx/000855/about.en.html ) | 1934- | Jordan (Kingdom) | Politiker |   | 1977- |   |  
 [Baeck, Leo](https://pm20.zbw.eu/folder/pe/0008xx/000858/about.en.html ) | 1873-1956 | Germany | Rabbiner, Gelehrter |   | 1953- |   | [Q704954](http://www.wikidata.org/entity/Q704954 )
@@ -1338,7 +1338,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Berlin, Isaiah](https://pm20.zbw.eu/folder/pe/0015xx/001562/about.en.html ) | 1909-1997 | United Kingdom | Philosoph |   | 1983- |   | [Q205162](http://www.wikidata.org/entity/Q205162 )
 [Berliner, Wilhelm](https://pm20.zbw.eu/folder/pe/0015xx/001563/about.en.html ) | 1881-1936 | Austria | Versicherungsunternehmer | [4](https://pm20.zbw.eu/dfgview/pe/001563 ) | 1936-1936 | [126190186](https://d-nb.info/gnd/126190186 ) | [Q2571943](http://www.wikidata.org/entity/Q2571943 )
 [Berlinguer, Enrico](https://pm20.zbw.eu/folder/pe/0015xx/001564/about.en.html ) | 1922-1984 | Italy | Politiker |   | 1969- |   | [Q164995](http://www.wikidata.org/entity/Q164995 )
-[Berlitz, Charles F.](https://pm20.zbw.eu/folder/pe/0015xx/001565/about.en.html ) | 1913- | United States | Verleger, Pädagoge |   | 1974- |   |  
+[Berlitz, Charles F.](https://pm20.zbw.eu/folder/pe/0015xx/001565/about.en.html ) | 1913- | United States | Verleger, Pädagoge |   | 1974- |   | [Q472147](http://www.wikidata.org/entity/Q472147 )
 [Berlusconi, Paolo](https://pm20.zbw.eu/folder/pe/0015xx/001566/about.en.html ) | ? | Italy | Immobilienhändler |   | 1993- |   |  
 [Berlusconi, Silvio](https://pm20.zbw.eu/folder/pe/0015xx/001567/about.en.html ) | 1936- | Italy | Medienunternehmer; Ministerpräsident (1994). - Gründer der Fininvest AG |   | 1985- |   | [Q11860](http://www.wikidata.org/entity/Q11860 )
 [Bermann-Fischer, Gottfried](https://pm20.zbw.eu/folder/pe/0015xx/001570/about.en.html ) | 1897-1995 | Germany | Verleger |   | 1957 |   | [Q97753](http://www.wikidata.org/entity/Q97753 )
@@ -1897,7 +1897,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Bouteflika, Abdelaziz](https://pm20.zbw.eu/folder/pe/0022xx/002281/about.en.html ) | 1937- | Algeria | Staatspräsident |   | 1963- |   | [Q57308](http://www.wikidata.org/entity/Q57308 )
 [Bouteiller, Michael](https://pm20.zbw.eu/folder/pe/0022xx/002282/about.en.html ) | 1945- | Germany | Bürgermeister von Lübeck |   | 1996- |   |  
 [Boutemy, Andre](https://pm20.zbw.eu/folder/pe/0022xx/002283/about.en.html ) | 1905-1959 | France | Gesundheitsminister |   | 1953- |   | [Q2847367](http://www.wikidata.org/entity/Q2847367 )
-[Bouterse, Desire Delano](https://pm20.zbw.eu/folder/pe/0022xx/002284/about.en.html ) | 1945- | Suriname | Militärdiktator |   | 1983- |   |  
+[Bouterse, Desire Delano](https://pm20.zbw.eu/folder/pe/0022xx/002284/about.en.html ) | 1945- | Suriname | Militärdiktator |   | 1983- |   | [Q57667](http://www.wikidata.org/entity/Q57667 )
 [Bouthillier, Yves](https://pm20.zbw.eu/folder/pe/0022xx/002285/about.en.html ) | 1901-1977 | France | Finanzminister (1940-42) | [8](https://pm20.zbw.eu/dfgview/pe/002285 ) | 1936-1941 |   | [Q2669405](http://www.wikidata.org/entity/Q2669405 )
 [Boutros Ghali, Boutros](https://pm20.zbw.eu/folder/pe/0022xx/002286/about.en.html ) | 1922- | Egypt | Politikwissenschaftler; UNO-Generalsekretär (1992-1996) |   | 1977- |   |  
 [Bouygues, Francis Georges](https://pm20.zbw.eu/folder/pe/0022xx/002288/about.en.html ) | 1922-1993 | France | Unternehmer |   | 1982- |   | [Q579773](http://www.wikidata.org/entity/Q579773 )
@@ -2190,7 +2190,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Brück, Wolfram](https://pm20.zbw.eu/folder/pe/0025xx/002583/about.en.html ) | 1937- | Germany | Oberbürgermeister von Frankfurt/M. (1986-1989) |   | 1987- |   | [Q2592018](http://www.wikidata.org/entity/Q2592018 )
 [Brückner, Peter](https://pm20.zbw.eu/folder/pe/0025xx/002584/about.en.html ) | 1922-1982 | Germany | Psychologe |   | 1973- |   | [Q98440](http://www.wikidata.org/entity/Q98440 )
 [Brückner, Wilhelm](https://pm20.zbw.eu/folder/pe/0025xx/002585/about.en.html ) | 1884-1954 | Germany | Soldat, Chefadjutant Hitlers | [10](https://pm20.zbw.eu/dfgview/pe/002585 ) | 1933- | [124531237](https://d-nb.info/gnd/124531237 ) | [Q64836](http://www.wikidata.org/entity/Q64836 )
-[Brüderle, Rainer](https://pm20.zbw.eu/folder/pe/0025xx/002586/about.en.html ) | 1945- | Germany | Ministerpräsident von Rheinland-Pfalz (1988-1998) |   | 1983- |   |  
+[Brüderle, Rainer](https://pm20.zbw.eu/folder/pe/0025xx/002586/about.en.html ) | 1945- | Germany | Ministerpräsident von Rheinland-Pfalz (1988-1998) |   | 1983- |   | [Q495084](http://www.wikidata.org/entity/Q495084 )
 [Brüning, Anton Paul](https://pm20.zbw.eu/folder/pe/0025xx/002591/about.en.html ) | 1881-? | Germany | Bankier | [24](https://pm20.zbw.eu/dfgview/pe/002591 ) | 1934- | [126239509](https://d-nb.info/gnd/126239509 ) | [Q18810094](http://www.wikidata.org/entity/Q18810094 )
 [Brüning, Heinrich](https://pm20.zbw.eu/folder/pe/0025xx/002590/about.en.html ) | 1885-1970 | Germany | Zentrums-Politiker, Reichskanzler | [196](https://pm20.zbw.eu/dfgview/pe/002590 ) | 1929- | [118515969](https://d-nb.info/gnd/118515969 ) | [Q155398](http://www.wikidata.org/entity/Q155398 )
 [Brüsewitz, Oskar](https://pm20.zbw.eu/folder/pe/0025xx/002592/about.en.html ) | 1929-1976 | German Democratic Republic | Theologe |   | 1993- |   | [Q531086](http://www.wikidata.org/entity/Q531086 )
@@ -2318,7 +2318,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Buskühl, Ernst](https://pm20.zbw.eu/folder/pe/0028xx/002819/about.en.html ) | 1880-1945 | Germany | Bergassessor | [8](https://pm20.zbw.eu/dfgview/pe/002819 ) | 1937-1940 | [133303438](https://d-nb.info/gnd/133303438 ) | [Q55847432](http://www.wikidata.org/entity/Q55847432 )
 [Busley, Carl](https://pm20.zbw.eu/folder/pe/0028xx/002820/about.en.html ) | 1850-1928 | Germany | Unternehmer, Maschinenbauer, Flottenpolitiker | [6](https://pm20.zbw.eu/dfgview/pe/002820 ) | 1925- | [117183318](https://d-nb.info/gnd/117183318 ) | [Q99555](http://www.wikidata.org/entity/Q99555 )
 [Busoni, Ferruccio](https://pm20.zbw.eu/folder/pe/0028xx/002821/about.en.html ) | 1866-1924 | Italy | Pianist, Komponist | [9](https://pm20.zbw.eu/dfgview/pe/002821 ) | 1924- | [118518011](https://d-nb.info/gnd/118518011 ) | [Q219551](http://www.wikidata.org/entity/Q219551 )
-[Busquin, Philippe](https://pm20.zbw.eu/folder/pe/0028xx/002822/about.en.html ) | 1941- | Belgium | Politiker |   | 1999- |   |  
+[Busquin, Philippe](https://pm20.zbw.eu/folder/pe/0028xx/002822/about.en.html ) | 1941- | Belgium | Politiker |   | 1999- |   | [Q717058](http://www.wikidata.org/entity/Q717058 )
 [Bussche-Streithorst, Axel von dem](https://pm20.zbw.eu/folder/pe/0028xx/002823/about.en.html ) | 1919-1993 | Germany | Diplomat |   | 1981- |   | [Q62741](http://www.wikidata.org/entity/Q62741 )
 [Busse, Erich W.O.](https://pm20.zbw.eu/folder/pe/0028xx/002824/about.en.html ) | 1899- | Germany | Vorstandsmitglied bei Kraus-Maffei AG |   | 1959- |   |  
 [Busse, Hans](https://pm20.zbw.eu/folder/pe/0028xx/002825/about.en.html ) | 1857-1937 | Germany | Generalmajor | [5](https://pm20.zbw.eu/dfgview/pe/002825 ) | 1930- |   | [Q64589859](http://www.wikidata.org/entity/Q64589859 )
@@ -2545,7 +2545,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Cardenas, Lazaro](https://pm20.zbw.eu/folder/pe/0029xx/002975/about.en.html ) | 1895-1971 | Mexico | Staatspräsident (1934-1940) | [26](https://pm20.zbw.eu/dfgview/pe/002975 ) | 1934- | [11866834X](https://d-nb.info/gnd/11866834X ) | [Q296718](http://www.wikidata.org/entity/Q296718 )
 [Cardin, Pierre](https://pm20.zbw.eu/folder/pe/0029xx/002976/about.en.html ) | 1922- | France | Couturier, Unternehmer |   | 1973- |   | [Q299211](http://www.wikidata.org/entity/Q299211 )
 [Cardoso de Mello, Zelia](https://pm20.zbw.eu/folder/pe/0029xx/002977/about.en.html ) | 1953- | Brazil | Ökonomin, Wirtschaftsministerin |   | 1990- |   |  
-[Cardoso, Fernando Henrique](https://pm20.zbw.eu/folder/pe/0029xx/002978/about.en.html ) | 18.06.1931- | Brazil | Staatschef, Soziologe |   | 1985- |   |  
+[Cardoso, Fernando Henrique](https://pm20.zbw.eu/folder/pe/0029xx/002978/about.en.html ) | 18.06.1931- | Brazil | Staatschef, Soziologe |   | 1985- |   | [Q230578](http://www.wikidata.org/entity/Q230578 )
 [Carell, Paul](https://pm20.zbw.eu/folder/pe/0156xx/015679/about.en.html ) | 1911-1997 | Germany | Diplomat, Journalist | [8](https://pm20.zbw.eu/dfgview/pe/015679 ) | 1940-1959 | [105091820](https://d-nb.info/gnd/105091820 ) | [Q63893](http://www.wikidata.org/entity/Q63893 )
 [Carey, George Leonard](https://pm20.zbw.eu/folder/pe/0029xx/002980/about.en.html ) | 13.11.1935- | United Kingdom | Erzbischof, Oberhaupt der Angelikanischen Kirche(1991-) |   | 1990- |   |  
 [Carignon, Alain](https://pm20.zbw.eu/folder/pe/0029xx/002981/about.en.html ) | 1949- | France | Minister |   | 1994- |   |  
@@ -2902,7 +2902,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Connally, John Bowden](https://pm20.zbw.eu/folder/pe/0034xx/003420/about.en.html ) | 1917-1993 | United States | Politiker |   | 1961- |   | [Q311293](http://www.wikidata.org/entity/Q311293 )
 [Connally, Thomas Terry](https://pm20.zbw.eu/folder/pe/0034xx/003421/about.en.html ) | 1877-1963 | United States | Politiker, Senator für Texas (1929-53) | [29](https://pm20.zbw.eu/dfgview/pe/003421 ) | 1943-1963 |   | [Q912806](http://www.wikidata.org/entity/Q912806 )
 [Connolly, Bernhard](https://pm20.zbw.eu/folder/pe/0034xx/003423/about.en.html ) | 1949- | United Kingdom | Politiker, Schriftsteller |   | 1995- |   |  
-[Conombo, Joseph](https://pm20.zbw.eu/folder/pe/0034xx/003424/about.en.html ) | 09.02.1917- | Burkina Faso | Ministerpräsident (1978-1980) |   | 1978- |   |  
+[Conombo, Joseph](https://pm20.zbw.eu/folder/pe/0034xx/003424/about.en.html ) | 09.02.1917- | Burkina Faso | Ministerpräsident (1978-1980) |   | 1978- |   | [Q619468](http://www.wikidata.org/entity/Q619468 )
 [Conrad von Hötzendorf, Franz](https://pm20.zbw.eu/folder/pe/0034xx/003428/about.en.html ) | 1852-1925 | Austria | Österr.-ungar. Feldmarschall | [73](https://pm20.zbw.eu/dfgview/pe/003428 ) | 1911- | [118676768](https://d-nb.info/gnd/118676768 ) | [Q78521](http://www.wikidata.org/entity/Q78521 )
 [Conrad, Joseph](https://pm20.zbw.eu/folder/pe/0034xx/003425/about.en.html ) | 1857-1924 | United Kingdom | Schriftsteller | [31](https://pm20.zbw.eu/dfgview/pe/003425 ) | 1924- | [118521861](https://d-nb.info/gnd/118521861 ) | [Q82925](http://www.wikidata.org/entity/Q82925 )
 [Conrad, Marc](https://pm20.zbw.eu/folder/pe/0034xx/003426/about.en.html ) | 1960- | Germany | Medienmanager |   | 1994- |   |  
@@ -3149,7 +3149,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Dassault, Marcel](https://pm20.zbw.eu/folder/pe/0037xx/003710/about.en.html ) | 1892-1986 | France | Industrieller |   | 1960- |   | [Q160802](http://www.wikidata.org/entity/Q160802 )
 [Dassault, Serge](https://pm20.zbw.eu/folder/pe/0037xx/003711/about.en.html ) | 1925- | France | Unternehmer und Industriemanager |   | 1985- |   |  
 [Dassel, Hermann O. von](https://pm20.zbw.eu/folder/pe/0037xx/003712/about.en.html ) | 1860-1936 | Germany; Hamburg | Richter in Hamburg | [9](https://pm20.zbw.eu/dfgview/pe/003712 ) | 1929- | [101445834X](https://d-nb.info/gnd/101445834X ) | [Q1613192](http://www.wikidata.org/entity/Q1613192 )
-[Dassler, Horst](https://pm20.zbw.eu/folder/pe/0037xx/003713/about.en.html ) | 12.03.1936-09.04.1978 | Germany | Unternehmer |   | 1985- |   |  
+[Dassler, Horst](https://pm20.zbw.eu/folder/pe/0037xx/003713/about.en.html ) | 12.03.1936-09.04.1978 | Germany | Unternehmer |   | 1985- |   | [Q73470](http://www.wikidata.org/entity/Q73470 )
 [Dato e Iradier, Eduardo](https://pm20.zbw.eu/folder/pe/0037xx/003715/about.en.html ) | 1856-1921 | Spain | Ministerpräsident | [6](https://pm20.zbw.eu/dfgview/pe/003715 ) | 1921- | [119278111](https://d-nb.info/gnd/119278111 ) | [Q365162](http://www.wikidata.org/entity/Q365162 )
 [Dattel, Dany](https://pm20.zbw.eu/folder/pe/0037xx/003716/about.en.html ) | 1939- | Germany | Devisenhändler |   | 1974- |   |  
 [Dau, Herbert](https://pm20.zbw.eu/folder/pe/0037xx/003717/about.en.html ) | 08.12.1911-07.07.2000 | Germany | Versicherungsmanager; Präsident der Hamburgischen Bürgerschaft (1960-1978). - Mitbegründer der Deutschen Angestellten-Gewerkschaft; Vorstandsvorsitzender des Verbandes der Lebensversicherungsunternehmen (1972-1974) |   | 1960- |   | [Q1260202](http://www.wikidata.org/entity/Q1260202 )
@@ -4117,7 +4117,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Estorff <Familie>](https://pm20.zbw.eu/folder/pe/0048xx/004853/about.en.html ) | 1911- | Germany | preussische Offiziersfamilie | [6](https://pm20.zbw.eu/dfgview/pe/004853 ) | 1911- |   | [Q1370439](http://www.wikidata.org/entity/Q1370439 )
 [Estournelles de Constant, Paul Henry Benjamin d'](https://pm20.zbw.eu/folder/pe/0039xx/003921/about.en.html ) | 1852-1924 | France | Politiker | [8](https://pm20.zbw.eu/dfgview/pe/003921 ) | 1915- | [126537739](https://d-nb.info/gnd/126537739 ) | [Q238731](http://www.wikidata.org/entity/Q238731 )
 [Estrada, Joseph Ejercito](https://pm20.zbw.eu/folder/pe/0048xx/004854/about.en.html ) | 19.04.1937- | Philippines | Staatspräsident |   | 1998- |   | [Q212733](http://www.wikidata.org/entity/Q212733 )
-[Etchegaray, Roger Marie Elie](https://pm20.zbw.eu/folder/pe/0048xx/004856/about.en.html ) | 25.09.1922- | France | Kurienkardinal |   | 1979- |   |  
+[Etchegaray, Roger Marie Elie](https://pm20.zbw.eu/folder/pe/0048xx/004856/about.en.html ) | 25.09.1922- | France | Kurienkardinal |   | 1979- |   | [Q44726](http://www.wikidata.org/entity/Q44726 )
 [Ete, Muhlis](https://pm20.zbw.eu/folder/pe/0048xx/004857/about.en.html ) | 1904-1975 | Turkey | Minister für Handel und Wirtschaft im 2. Kabinett Menderes (1951) | [14](https://pm20.zbw.eu/dfgview/pe/004857 ) | 1943-1951 | [105499072](https://d-nb.info/gnd/105499072 ) | [Q6054832](http://www.wikidata.org/entity/Q6054832 )
 [Eteki Mboumona, William-Aurelien](https://pm20.zbw.eu/folder/pe/0048xx/004858/about.en.html ) | 1933- | Cameroon | OAU-Generalsekretär |   | 1974- |   |  
 [Etienne, Eugene](https://pm20.zbw.eu/folder/pe/0048xx/004859/about.en.html ) | 1844-1921 | France | Kriegsminister (1905-06, 1913), Innenminister (1905) | [14](https://pm20.zbw.eu/dfgview/pe/004859 ) | 1913- |   | [Q2612305](http://www.wikidata.org/entity/Q2612305 )
@@ -4197,7 +4197,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Falkenhorst, Nikolaus von](https://pm20.zbw.eu/folder/pe/0049xx/004954/about.en.html ) | 1885-1968 | Germany | Generaloberst | [10](https://pm20.zbw.eu/dfgview/pe/004954 ) | 1940-1953 | [123489059](https://d-nb.info/gnd/123489059 ) | [Q57233](http://www.wikidata.org/entity/Q57233 )
 [Falkenstein, Lorent](https://pm20.zbw.eu/folder/pe/0049xx/004955/about.en.html ) | 07.05.1914- | Germany | Präsident des Deutschen Raiffeisenverbandes |   | 1973- |   |  
 [Fall, Ibrahima](https://pm20.zbw.eu/folder/pe/0049xx/004958/about.en.html ) | 1942- | Senegal | Politiker. - Generalsekretär der OAU, Vizepräsident der Weltbank |   | 1993- |   | [Q3147533](http://www.wikidata.org/entity/Q3147533 )
-[Fallaci, Oriana](https://pm20.zbw.eu/folder/pe/0049xx/004959/about.en.html ) | 1930- | Italy | Schriftstellerin |   | 1978- |   |  
+[Fallaci, Oriana](https://pm20.zbw.eu/folder/pe/0049xx/004959/about.en.html ) | 1930- | Italy | Schriftstellerin |   | 1978- |   | [Q153700](http://www.wikidata.org/entity/Q153700 )
 [Fallada, Hans](https://pm20.zbw.eu/folder/pe/0049xx/004960/about.en.html ) | 1893-1947 | Germany | Schriftsteller, auch Kinderbücher und Übersetzungen | [18](https://pm20.zbw.eu/dfgview/pe/004960 ) | 1936-1997 | [118531905](https://d-nb.info/gnd/118531905 ) | [Q76539](http://www.wikidata.org/entity/Q76539 )
 [Falls, Cyril](https://pm20.zbw.eu/folder/pe/0049xx/004961/about.en.html ) | 1888-1971 | United Kingdom | Journalist, Militärhistoriker | [14](https://pm20.zbw.eu/dfgview/pe/004961 ) | 1940-1964 |   | [Q5200713](http://www.wikidata.org/entity/Q5200713 )
 [Faltermeier, Hans](https://pm20.zbw.eu/folder/pe/0049xx/004962/about.en.html ) | 1922-1992 | Germany | Gewerkschafter |   | 1974- |   |  
@@ -4814,7 +4814,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Funke, Rainer](https://pm20.zbw.eu/folder/pe/0057xx/005734/about.en.html ) | 18.11.1940- | Germany | Politiker |   | 1980- |   |  
 [Funston, Keith](https://pm20.zbw.eu/folder/pe/0057xx/005735/about.en.html ) | 12.10.1910- | United States | Präsident d. New York Stock Exchange. - Präsident der New Yorker Effektenbörse |   | 1951- |   |  
 [Furchgott, Robert F.](https://pm20.zbw.eu/folder/pe/0057xx/005737/about.en.html ) | 04.06.1916- | United States | Pharmakologe |   | 1999- |   |  
-[Furet, Francois](https://pm20.zbw.eu/folder/pe/0057xx/005738/about.en.html ) | 27.03.1927-12.07.1997 | France | Historiker |   | 1995- |   |  
+[Furet, Francois](https://pm20.zbw.eu/folder/pe/0057xx/005738/about.en.html ) | 27.03.1927-12.07.1997 | France | Historiker |   | 1995- |   | [Q318667](http://www.wikidata.org/entity/Q318667 )
 [Furgler, Kurt](https://pm20.zbw.eu/folder/pe/0057xx/005739/about.en.html ) | 24.6.1924- | Switzerland | Bunderpräsident |   | 1971 |   |  
 [Furler, Hans](https://pm20.zbw.eu/folder/pe/0057xx/005740/about.en.html ) | 05.06.1904-29.06.1975 | Germany | Politiker |   | 1956- |   | [Q65657](http://www.wikidata.org/entity/Q65657 )
 [Furrer, Reinhard](https://pm20.zbw.eu/folder/pe/0057xx/005741/about.en.html ) | 25.11.1940-09.09.1995 | Germany | Astronaut, Physiker |   | 1985- |   | [Q215131](http://www.wikidata.org/entity/Q215131 )
@@ -4837,7 +4837,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Fünfgeld, Hermann](https://pm20.zbw.eu/folder/pe/0056xx/005691/about.en.html ) | 02.01.1931- | Germany | Diplom-Volkswirt und Intendant des Süddeutschen Rundfunk (SDR) |   | 1989- |   | [Q2717092](http://www.wikidata.org/entity/Q2717092 )
 [Für, Lajos](https://pm20.zbw.eu/folder/pe/0056xx/005695/about.en.html ) | 21.12.1930- | Hungary | Verteidigungsminister |   | 1990- |   |  
 [Fürst, Gerhard](https://pm20.zbw.eu/folder/pe/0056xx/005696/about.en.html ) | 1897-1988 | Germany | Statistiker | [54](https://pm20.zbw.eu/dfgview/pe/005696 ) | 1953-1988 (HWWA); 1948-1988 (WiA/IfW) | [124483852](https://d-nb.info/gnd/124483852 ) | [Q1303338](http://www.wikidata.org/entity/Q1303338 )
-[Fürst, Walther](https://pm20.zbw.eu/folder/pe/0056xx/005697/about.en.html ) | 10.02.1912- | Germany | Präsident des Bundesverwaltungsgerichts |   | 1977- |   |  
+[Fürst, Walther](https://pm20.zbw.eu/folder/pe/0056xx/005697/about.en.html ) | 10.02.1912- | Germany | Präsident des Bundesverwaltungsgerichts |   | 1977- |   | [Q107154](http://www.wikidata.org/entity/Q107154 )
 [Fürstenberg, Carl](https://pm20.zbw.eu/folder/pe/0056xx/005698/about.en.html ) | 1850-1933 | Germany | Bankier | [53](https://pm20.zbw.eu/dfgview/pe/005698 ) | 1920- | [118694111](https://d-nb.info/gnd/118694111 ) | [Q121442](http://www.wikidata.org/entity/Q121442 )
 [Fürstenberg, Hans](https://pm20.zbw.eu/folder/pe/0057xx/005701/about.en.html ) | 1890-1982 | Germany | Bankier |   | 1970- |   | [Q15078948](http://www.wikidata.org/entity/Q15078948 )
 [Fürstenberg, Joachim Egon](https://pm20.zbw.eu/folder/pe/0057xx/005702/about.en.html ) | 1923-2002 | Germany | Unternehmer |   | 1987- |   | [Q1690046](http://www.wikidata.org/entity/Q1690046 )
@@ -4861,7 +4861,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Gailani, Raschid al-](https://pm20.zbw.eu/folder/pe/0057xx/005771/about.en.html ) | 1893-1965 | Iraq | Ministerpräsident | [26](https://pm20.zbw.eu/dfgview/pe/005771 ) | 1941-1965 | [118958496](https://d-nb.info/gnd/118958496 ) | [Q369936](http://www.wikidata.org/entity/Q369936 )
 [Gailis, Maris](https://pm20.zbw.eu/folder/pe/0057xx/005772/about.en.html ) | 1951- | Latvia | Premierminister |   | 1995- |   |  
 [Gaillard, Felix](https://pm20.zbw.eu/folder/pe/0057xx/005773/about.en.html ) | 1920-1970 | France | Premierminister |   | 1957- |   |  
-[Gaillot, Jacques](https://pm20.zbw.eu/folder/pe/0057xx/005774/about.en.html ) | 11.09.1935- | France | Theologe, Bischof |   | 1995- |   |  
+[Gaillot, Jacques](https://pm20.zbw.eu/folder/pe/0057xx/005774/about.en.html ) | 11.09.1935- | France | Theologe, Bischof |   | 1995- |   | [Q1346731](http://www.wikidata.org/entity/Q1346731 )
 [Gainza Paz, Alberto](https://pm20.zbw.eu/folder/pe/0057xx/005775/about.en.html ) | 1899-1977 | Argentina | Publizist |   | 1951- |   | [Q1790450](http://www.wikidata.org/entity/Q1790450 )
 [Gairy, Eric Matthew](https://pm20.zbw.eu/folder/pe/0057xx/005777/about.en.html ) | 18.02.1922-23.08.1997 | Grenada | Politiker |   | 1962- |   | [Q203046](http://www.wikidata.org/entity/Q203046 )
 [Gaitskell, Hugh](https://pm20.zbw.eu/folder/pe/0057xx/005779/about.en.html ) | 1906-1963 | United Kingdom | Politiker | [595](https://pm20.zbw.eu/dfgview/pe/005779 ) | 1948-2003 |   | [Q337380](http://www.wikidata.org/entity/Q337380 )
@@ -4943,7 +4943,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Garner, John N.](https://pm20.zbw.eu/folder/pe/0058xx/005865/about.en.html ) | 1868-1967 | United States | 32. Vizepräsident unter Franklin D. Roosevelt. | [4](https://pm20.zbw.eu/dfgview/pe/005865 ) | 1937-1967 |   | [Q298991](http://www.wikidata.org/entity/Q298991 )
 [Garner, Robert L.](https://pm20.zbw.eu/folder/pe/0058xx/005866/about.en.html ) | 1894-1975 | United States | Manager | [12](https://pm20.zbw.eu/dfgview/pe/005866 ) | 1948-1961 |   | [Q64013328](http://www.wikidata.org/entity/Q64013328 )
 [Garnett, James Clerk Maxwell](https://pm20.zbw.eu/folder/pe/0058xx/005867/about.en.html ) | 1880-1958 | United Kingdom | Jurist | [3](https://pm20.zbw.eu/dfgview/pe/005867 ) | 1938-1958 |   | [Q17626668](http://www.wikidata.org/entity/Q17626668 )
-[Garrastazu Medici, Emilio](https://pm20.zbw.eu/folder/pe/0058xx/005869/about.en.html ) | 04.12.1905-09.10.1985 | Brazil | Staatspräsident 1969-1974 |   | 1969- |   |  
+[Garrastazu Medici, Emilio](https://pm20.zbw.eu/folder/pe/0058xx/005869/about.en.html ) | 04.12.1905-09.10.1985 | Brazil | Staatspräsident 1969-1974 |   | 1969- |   | [Q299165](http://www.wikidata.org/entity/Q299165 )
 [Garretta, Michel](https://pm20.zbw.eu/folder/pe/0058xx/005871/about.en.html ) | ? | France | Chef des Blutspendedienstes |   | 1992- |   |  
 [Garrison, Jim](https://pm20.zbw.eu/folder/pe/0058xx/005872/about.en.html ) | 1922- | United States | Staatsanwalt |   | 1967- |   |  
 [Garski, Dietrich](https://pm20.zbw.eu/folder/pe/0058xx/005873/about.en.html ) | 1931- | Germany | Bauunternehmer |   | 1980- |   | [Q1223742](http://www.wikidata.org/entity/Q1223742 )
@@ -4966,7 +4966,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Gauck, Joachim](https://pm20.zbw.eu/folder/pe/0058xx/005894/about.en.html ) | 1940- | Germany | Bundesbeauftragter für die Unterlagen des Staatssicherheitsdienstes der ehemaligen DDR |   | 1990- |   | [Q2538](http://www.wikidata.org/entity/Q2538 )
 [Gaul, Gerhard](https://pm20.zbw.eu/folder/pe/0058xx/005896/about.en.html ) | 09.08.1909-17.12.1982 | Germany | Politiker |   | 1978- |   | [Q1511614](http://www.wikidata.org/entity/Q1511614 )
 [Gaulle, Charles de](https://pm20.zbw.eu/folder/pe/0058xx/005897/about.en.html ) | 1890-1970 | France | General und Politiker, Staatspräsident | [3273](https://pm20.zbw.eu/dfgview/pe/005897 ) | 1940-2000 | [118537849](https://d-nb.info/gnd/118537849 ) | [Q2042](http://www.wikidata.org/entity/Q2042 )
-[Gaulle, Philippe de](https://pm20.zbw.eu/folder/pe/0058xx/005898/about.en.html ) | 1921- | France | Admiral |   | 1980- |   |  
+[Gaulle, Philippe de](https://pm20.zbw.eu/folder/pe/0058xx/005898/about.en.html ) | 1921- | France | Admiral |   | 1980- |   | [Q1281308](http://www.wikidata.org/entity/Q1281308 )
 [Gaulle, Pierre de](https://pm20.zbw.eu/folder/pe/0603xx/060381/about.en.html ) | 1897-1959 | France | Politiker | [18](https://pm20.zbw.eu/dfgview/pe/060381 ) | 1949-1953 | [136749119](https://d-nb.info/gnd/136749119 ) | [Q3387553](http://www.wikidata.org/entity/Q3387553 )
 [Gaultier, Jean-Paul](https://pm20.zbw.eu/folder/pe/0058xx/005899/about.en.html ) | 1952- | France | Unternehmer und Modeschöpfer |   | 1994- |   | [Q242868](http://www.wikidata.org/entity/Q242868 )
 [Gaus, Günter](https://pm20.zbw.eu/folder/pe/0059xx/005900/about.en.html ) | 1929-2004 | Germany | Publizist, Diplomat |   | 1972- |   | [Q98114](http://www.wikidata.org/entity/Q98114 )
@@ -5011,7 +5011,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Geijer, Arne Karl](https://pm20.zbw.eu/folder/pe/0059xx/005944/about.en.html ) | 1910-1979 | Sweden | Gewerkschaftspolitiker |   | 1962- |   | [Q4794565](http://www.wikidata.org/entity/Q4794565 )
 [Geil, Rudolf "Rudi"](https://pm20.zbw.eu/folder/pe/0059xx/005945/about.en.html ) | 25.04.1937- | Germany | Politiker |   | 1981- |   |  
 [Geiler, Karl](https://pm20.zbw.eu/folder/pe/0059xx/005946/about.en.html ) | 1878-1953 | Germany; Hesse | Politiker u. Jurist, Hochschullehrer, Ministerpräsident | [6](https://pm20.zbw.eu/dfgview/pe/005946 ) | 1946-1953 | [102038015](https://d-nb.info/gnd/102038015 ) | [Q74236](http://www.wikidata.org/entity/Q74236 )
-[Geingob, Hage Gottfried](https://pm20.zbw.eu/folder/pe/0059xx/005947/about.en.html ) | 1941- | Namibia | Ministerpräsident |   | 1990- |   |  
+[Geingob, Hage Gottfried](https://pm20.zbw.eu/folder/pe/0059xx/005947/about.en.html ) | 1941- | Namibia | Ministerpräsident |   | 1990- |   | [Q1568274](http://www.wikidata.org/entity/Q1568274 )
 [Geisel, Ernesto](https://pm20.zbw.eu/folder/pe/0059xx/005948/about.en.html ) | 03.08.1908-12.09.1996 | Brazil | Staatspräsident 1974-1978 |   | 1973- |   |  
 [Geiselberger, Siegmar](https://pm20.zbw.eu/folder/pe/0059xx/005949/about.en.html ) | ? | Germany | Landespolitiker in Bayern |   | 1973- |   |  
 [Geisler, Hans](https://pm20.zbw.eu/folder/pe/0059xx/005950/about.en.html ) | 1940- | Germany | Politiker |   | 1992- |   |  
@@ -5389,7 +5389,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Graf, Ferdinand](https://pm20.zbw.eu/folder/pe/0064xx/006419/about.en.html ) | 15.06.1907-1969 | Austria | Verteidigungsminister |   | 1956- |   |  
 [Graf, Oskar Maria](https://pm20.zbw.eu/folder/pe/0064xx/006420/about.en.html ) | 22.07.1894-28.06.1967 | Germany | Schriftsteller |   | 1964- |   | [Q44540](http://www.wikidata.org/entity/Q44540 )
 [Graf, Peter](https://pm20.zbw.eu/folder/pe/0064xx/006421/about.en.html ) | 1936- | Germany | Manager |   | 1993- |   |  
-[Graf, Steffi](https://pm20.zbw.eu/folder/pe/0064xx/006423/about.en.html ) | 14.06.1969- | Germany | Tennisspielerin, Unternehmerin |   | 1993- |   |  
+[Graf, Steffi](https://pm20.zbw.eu/folder/pe/0064xx/006423/about.en.html ) | 14.06.1969- | Germany | Tennisspielerin, Unternehmerin |   | 1993- |   | [Q11662](http://www.wikidata.org/entity/Q11662 )
 [Graf, Ulrich](https://pm20.zbw.eu/folder/pe/0064xx/006424/about.en.html ) | 1878-1950 | Germany | Parteifunktionär, Reichstagsmitglied; SS-Brigadeführer | [7](https://pm20.zbw.eu/dfgview/pe/006424 ) | 1934- | [124360874](https://d-nb.info/gnd/124360874 ) | [Q84398](http://www.wikidata.org/entity/Q84398 )
 [Graham, Billy](https://pm20.zbw.eu/folder/pe/0064xx/006425/about.en.html ) | 1918- | United States | Prediger |   | 1954- |   |  
 [Graham, Frank Porter](https://pm20.zbw.eu/folder/pe/0064xx/006428/about.en.html ) | 1886-1972 | United States | US-Senator, UN-Diplomat | [14](https://pm20.zbw.eu/dfgview/pe/006428 ) | 1949- |   | [Q5489054](http://www.wikidata.org/entity/Q5489054 )
@@ -5518,7 +5518,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Grosse, Berthold](https://pm20.zbw.eu/folder/pe/0065xx/006583/about.en.html ) | 1863-1927 | Hamburg | Tischler, Politiker (SPD), Gewerkschaftler, Senator in Hamburg | [4](https://pm20.zbw.eu/dfgview/pe/006583 ) | 1927- |   | [Q827894](http://www.wikidata.org/entity/Q827894 )
 [Grosse, Franz](https://pm20.zbw.eu/folder/pe/0065xx/006584/about.en.html ) | 30.05.1903-? | Germany | Gewerkschaftsfunktionär |   | 1951- |   |  
 [Grosse, Karl](https://pm20.zbw.eu/folder/pe/0065xx/006585/about.en.html ) | 1873-1963 | Germany | Unternehmer | [8](https://pm20.zbw.eu/dfgview/pe/006585 ) | 1943-1963 | [136141161](https://d-nb.info/gnd/136141161 ) | [Q1433778](http://www.wikidata.org/entity/Q1433778 )
-[Grosser, Alfred](https://pm20.zbw.eu/folder/pe/0065xx/006588/about.en.html ) | 1925- | France | Politologe, Publizist |   | 1953- |   |  
+[Grosser, Alfred](https://pm20.zbw.eu/folder/pe/0065xx/006588/about.en.html ) | 1925- | France | Politologe, Publizist |   | 1953- |   | [Q76395](http://www.wikidata.org/entity/Q76395 )
 [Grossman, David](https://pm20.zbw.eu/folder/pe/0065xx/006590/about.en.html ) | 25.01.1954- | Israel | Schriftsteller und Journalist |   | 1991- |   |  
 [Grossmann, Eugen](https://pm20.zbw.eu/folder/pe/0065xx/006591/about.en.html ) | 1879-1963 | Switzerland | Wirtschaftwissenschaftler (Finanzpolitik) | [5](https://pm20.zbw.eu/dfgview/pe/006591 ) | 1939-1963 | [121430731](https://d-nb.info/gnd/121430731 ) | [Q60400662](http://www.wikidata.org/entity/Q60400662 )
 [Grossmann, Rudolf](https://pm20.zbw.eu/folder/pe/0065xx/006594/about.en.html ) | 1892-1980 | Germany | Philologe, Hispanist | [26](https://pm20.zbw.eu/dfgview/pe/006594 ) | 1934- | [118698192](https://d-nb.info/gnd/118698192 ) | [Q1554972](http://www.wikidata.org/entity/Q1554972 )
@@ -5613,7 +5613,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Guggisberg, Frederick Gordon](https://pm20.zbw.eu/folder/pe/0067xx/006712/about.en.html ) | 1869-1930 | United Kingdom; British Guiana; Gold Coast incl. British Togoland | Kolonialadministrator | [6](https://pm20.zbw.eu/dfgview/pe/006712 ) | 1930- |   | [Q3752733](http://www.wikidata.org/entity/Q3752733 )
 [Guichard, Olivier Marie Maurice](https://pm20.zbw.eu/folder/pe/0067xx/006714/about.en.html ) | 1920-2004 | France | Politiker |   | 1963- |   | [Q766194](http://www.wikidata.org/entity/Q766194 )
 [Guido, Jose Maria](https://pm20.zbw.eu/folder/pe/0067xx/006715/about.en.html ) | 1911- | Argentina | Regierungschef |   | 1962- |   |  
-[Guiga, Driss](https://pm20.zbw.eu/folder/pe/0067xx/006716/about.en.html ) | 21.08.1924- | Tunisia | Politiker |   | 1980- |   |  
+[Guiga, Driss](https://pm20.zbw.eu/folder/pe/0067xx/006716/about.en.html ) | 21.08.1924- | Tunisia | Politiker |   | 1980- |   | [Q3039490](http://www.wikidata.org/entity/Q3039490 )
 [Guigou, Elisabeth](https://pm20.zbw.eu/folder/pe/0067xx/006717/about.en.html ) | 06.08.1946- | France | Justizministerin |   | 1990- |   |  
 [Guilhaume, Philippe](https://pm20.zbw.eu/folder/pe/0067xx/006718/about.en.html ) | 30.05.1942- | France | Journalist, Fernsehintendant |   | 1989- |   |  
 [Guillaumat, Pierre](https://pm20.zbw.eu/folder/pe/0067xx/006719/about.en.html ) | 05.08.1909-1991 | France | Verteidigungsminister, Manager |   | 1958- |   |  
@@ -6630,7 +6630,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Hintze, Otto](https://pm20.zbw.eu/folder/pe/0078xx/007877/about.en.html ) | 1861-1940 | Germany | Historiker | [3](https://pm20.zbw.eu/dfgview/pe/007877 ) | 1940-1964 | [118551329](https://d-nb.info/gnd/118551329 ) | [Q86120](http://www.wikidata.org/entity/Q86120 )
 [Hintze, Paul von](https://pm20.zbw.eu/folder/pe/0078xx/007878/about.en.html ) | 1864-1941 | Germany | Dt. Marineoffizier (Konteradmiral), Diplomat, Staatssekretär | [11](https://pm20.zbw.eu/dfgview/pe/007878 ) | 1911- | [120532956](https://d-nb.info/gnd/120532956 ) | [Q215821](http://www.wikidata.org/entity/Q215821 )
 [Hintze, Peter Paul Wolfgang](https://pm20.zbw.eu/folder/pe/0078xx/007879/about.en.html ) | 1950- | Germany | Politiker |   | 1983- |   |  
-[Hipp, Claus](https://pm20.zbw.eu/folder/pe/0078xx/007882/about.en.html ) | 1938- | Germany | Unternehmer |   | 1994- |   |  
+[Hipp, Claus](https://pm20.zbw.eu/folder/pe/0078xx/007882/about.en.html ) | 1938- | Germany | Unternehmer |   | 1994- |   | [Q1098570](http://www.wikidata.org/entity/Q1098570 )
 [Hipp, Wolfgang](https://pm20.zbw.eu/folder/pe/0078xx/007883/about.en.html ) | 18.05.1909- | Germany | Industriemanager |   | 1956- |   |  
 [Hippe, Werner](https://pm20.zbw.eu/folder/pe/0078xx/007885/about.en.html ) | 21.01.1925- | Germany | Verleger |   | 1988- |   |  
 [Hippel, Walter von](https://pm20.zbw.eu/folder/pe/0078xx/007886/about.en.html ) | 1872-1936 | Germany | Grundbesitzer, ostpreussischer Generallandschaftsdirektor | [48](https://pm20.zbw.eu/dfgview/pe/007886 ) | 1933- | [127994017](https://d-nb.info/gnd/127994017 ) | [Q15433336](http://www.wikidata.org/entity/Q15433336 )
@@ -6726,7 +6726,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Hoffmann, Hilmar](https://pm20.zbw.eu/folder/pe/0080xx/008019/about.en.html ) | 1925- | Germany | Kulturpolitiker. - Präsident des Goethe-Instituts |   | 1975- | [116939176](https://d-nb.info/gnd/116939176 ) | [Q108619](http://www.wikidata.org/entity/Q108619 )
 [Hoffmann, Johannes](https://pm20.zbw.eu/folder/pe/0080xx/008020/about.en.html ) | 1890-1967 | Germany; Saarland | Politiker, Ministerpräsident im Saarland (1947-1955) | [96](https://pm20.zbw.eu/dfgview/pe/008020 ) | 1948-1997 | [118944959](https://d-nb.info/gnd/118944959 ) | [Q74242](http://www.wikidata.org/entity/Q74242 )
 [Hoffmann, Josef](https://pm20.zbw.eu/folder/pe/0080xx/008021/about.en.html ) | 1901- | Germany | Hauptgeschäftsführer des Deutschen Sparkassen- und Giroverbandes |   | 1961- |   |  
-[Hoffmann, Karl-Heinz [Mathematiker]](https://pm20.zbw.eu/folder/pe/0080xx/008022/about.en.html ) | 1939- | Germany | Mathematiker. - Vorsitzender des Wissenschaftsrates |   | 1994- |   |  
+[Hoffmann, Karl-Heinz [Mathematiker]](https://pm20.zbw.eu/folder/pe/0080xx/008022/about.en.html ) | 1939- | Germany | Mathematiker. - Vorsitzender des Wissenschaftsrates |   | 1994- |   | [Q123136](http://www.wikidata.org/entity/Q123136 )
 [Hoffmann, Karl-Heinz [Rechtsextremist]](https://pm20.zbw.eu/folder/pe/0080xx/008023/about.en.html ) | 1937- | Germany | Gründer einer extremistischen Untergrundbewegung |   | 1980- | [124419879](https://d-nb.info/gnd/124419879 ) | [Q1729873](http://www.wikidata.org/entity/Q1729873 )
 [Hoffmann, Ludwig](https://pm20.zbw.eu/folder/pe/0080xx/008025/about.en.html ) | 1852-1932 | Germany | Architekt | [4](https://pm20.zbw.eu/dfgview/pe/008025 ) | 1922- | [118705911](https://d-nb.info/gnd/118705911 ) | [Q71886](http://www.wikidata.org/entity/Q71886 )
 [Hoffmann, Lutz](https://pm20.zbw.eu/folder/pe/0080xx/008026/about.en.html ) | 1934- | Germany | Präsident des Deutschen Instituts für Wirtschaftsforschung (DIW), Berlin Direktor des Osteueropa-Instituts München |   | 1989- |   |  
@@ -6986,7 +6986,6 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Hummel, Otto](https://pm20.zbw.eu/folder/pe/0615xx/061588/about.en.html ) | 1892-1980 | Germany | Betriebswirt | [8](https://pm20.zbw.eu/dfgview/pe/061588 ) | 1941-1967 (WiA/IfW) |   | [Q15550047](http://www.wikidata.org/entity/Q15550047 )
 [Humperdinck, Engelbert](https://pm20.zbw.eu/folder/pe/0083xx/008357/about.en.html ) | 1854-1921 | Germany | Komponist | [5](https://pm20.zbw.eu/dfgview/pe/008357 ) | 1921- | [11855476X](https://d-nb.info/gnd/11855476X ) | [Q55010](http://www.wikidata.org/entity/Q55010 )
 [Humphrey, George M.](https://pm20.zbw.eu/folder/pe/0083xx/008359/about.en.html ) | 1890-1970 | United States | Politiker | [50](https://pm20.zbw.eu/dfgview/pe/008359 ) | 1948-1970 |   | [Q1371329](http://www.wikidata.org/entity/Q1371329 )
-[Humphrey, Hubert](https://pm20.zbw.eu/folder/pe/0083xx/008361/about.en.html ) | 1942- | United States | Politiker |   | 1997- |   | [Q5927352](http://www.wikidata.org/entity/Q5927352 )
 [Humphrey, Hubert](https://pm20.zbw.eu/folder/pe/0083xx/008361/about.en.html ) | 1942- | United States | Politiker |   | 1997- |   | [Q7535685](http://www.wikidata.org/entity/Q7535685 )
 [Humphrey, Hubert Horatio](https://pm20.zbw.eu/folder/pe/0083xx/008360/about.en.html ) | 27.05.1911-13.01.1978 | United States | Politiker |   | 1951- |   | [Q209989](http://www.wikidata.org/entity/Q209989 )
 [Hums, Franz](https://pm20.zbw.eu/folder/pe/0083xx/008364/about.en.html ) | 08.09.1937- | Austria | Politiker |   | 1995- |   |  
@@ -7986,7 +7985,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Khemisti, Mohammed](https://pm20.zbw.eu/folder/pe/0094xx/009490/about.en.html ) | 1930-1963 | Algeria | Außenminister |   | 1962- |   |  
 [Khene, Abderrahmane](https://pm20.zbw.eu/folder/pe/0094xx/009491/about.en.html ) | 1931- | Algeria | Wirtschaftspolitiker. - Generalsekretär der OPEC |   | 1974- |   |  
 [Khider, Mohammed](https://pm20.zbw.eu/folder/pe/0094xx/009492/about.en.html ) | 1913-1967 | Algeria | Politiker |   | 1961- |   |  
-[Khiem, Tran Thien](https://pm20.zbw.eu/folder/pe/0094xx/009493/about.en.html ) | 15.12.1925- | Viet Nam | General |   | 1964- |   |  
+[Khiem, Tran Thien](https://pm20.zbw.eu/folder/pe/0094xx/009493/about.en.html ) | 15.12.1925- | Viet Nam | General |   | 1964- |   | [Q1937110](http://www.wikidata.org/entity/Q1937110 )
 [Khoman, Thanat](https://pm20.zbw.eu/folder/pe/0094xx/009495/about.en.html ) | 09.05.1914- | Thailand | Diplomat |   | 1959- |   |  
 [Khomeini, Ahmad](https://pm20.zbw.eu/folder/pe/0094xx/009496/about.en.html ) | 1943-1995 | Iran | Geistlicher; Politiker |   | 1988- |   |  
 [Khoo, Teck Puat](https://pm20.zbw.eu/folder/pe/0094xx/009497/about.en.html ) | 1916- | Malaysia | Bankmanager |   | 1986- |   |  
@@ -8152,7 +8151,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Klant, Joseph](https://pm20.zbw.eu/folder/pe/0096xx/009690/about.en.html ) | ca. 1869-1927 | Germany | Gauleiter in Hamburg (1925-26) | [3](https://pm20.zbw.eu/dfgview/pe/009690 ) | 1934- |   | [Q1707408](http://www.wikidata.org/entity/Q1707408 )
 [Klapproth, Willy](https://pm20.zbw.eu/folder/pe/0096xx/009691/about.en.html ) | 1892-? | Germany | Polizeipräsident von Frankfurt |   | 1951- |   |  
 [Klar, Christian](https://pm20.zbw.eu/folder/pe/0096xx/009692/about.en.html ) | 1952- | Germany | Terrorist |   | 1992- |   |  
-[Klare, Hermann](https://pm20.zbw.eu/folder/pe/0096xx/009693/about.en.html ) | 13.05.1909- | German Democratic Republic | Präsident der Akademie der Wissenschaften der DDR |   | 1984- |   |  
+[Klare, Hermann](https://pm20.zbw.eu/folder/pe/0096xx/009693/about.en.html ) | 13.05.1909- | German Democratic Republic | Präsident der Akademie der Wissenschaften der DDR |   | 1984- |   | [Q981269](http://www.wikidata.org/entity/Q981269 )
 [Klarmann,Johann](https://pm20.zbw.eu/folder/pe/0096xx/009694/about.en.html ) | 1939- | Germany | Politiker in Hamburg |   | 1987- |   |  
 [Klarsfeld, Arno](https://pm20.zbw.eu/folder/pe/0096xx/009695/about.en.html ) | 1967- | France | Jurist |   | 1994- |   |  
 [Klarsfeld, Beate](https://pm20.zbw.eu/folder/pe/0096xx/009696/about.en.html ) | 1939- | Germany | Journalistin |   | 1969- |   | [Q65113](http://www.wikidata.org/entity/Q65113 )
@@ -8234,7 +8233,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Klingenfuss, Karl](https://pm20.zbw.eu/folder/pe/0097xx/009788/about.en.html ) | 1901-1990 | Germany | Diplomat | [8](https://pm20.zbw.eu/dfgview/pe/009788 ) | 1936-1971 |   | [Q1731940](http://www.wikidata.org/entity/Q1731940 )
 [Klingenheben, August](https://pm20.zbw.eu/folder/pe/0097xx/009789/about.en.html ) | 1886-1967 | Germany; Hamburg | Afrikanist, Orientalist | [5](https://pm20.zbw.eu/dfgview/pe/009789 ) | 1930- | [12318231X](https://d-nb.info/gnd/12318231X ) | [Q97879](http://www.wikidata.org/entity/Q97879 )
 [Klingner, Klaus](https://pm20.zbw.eu/folder/pe/0097xx/009790/about.en.html ) | 14.12.1935- | Germany | Landespolitiker in Mecklenburg-Vorpommern |   | 1988- |   |  
-[Klinkmann, Horst](https://pm20.zbw.eu/folder/pe/0097xx/009791/about.en.html ) | 07.05.1935- | German Democratic Republic | Hochschullehrer. - letzter Präsident der Akademie der Wissenschaften der DDR |   | 1979- |   |  
+[Klinkmann, Horst](https://pm20.zbw.eu/folder/pe/0097xx/009791/about.en.html ) | 07.05.1935- | German Democratic Republic | Hochschullehrer. - letzter Präsident der Akademie der Wissenschaften der DDR |   | 1979- |   | [Q1629576](http://www.wikidata.org/entity/Q1629576 )
 [Kliszko, Zenon](https://pm20.zbw.eu/folder/pe/0097xx/009792/about.en.html ) | 1909- | Poland | Politiker |   | 1957- |   |  
 [Klitzing, Klaus von](https://pm20.zbw.eu/folder/pe/0097xx/009793/about.en.html ) | 1943- | Germany | Physiker |   | 1985- |   |  
 [Klitzsch, W. Ludwig](https://pm20.zbw.eu/folder/pe/0097xx/009794/about.en.html ) | 1882-1954 | Germany | Verleger, Generaldirektor des Scherl-Verlages und der UFA | [3](https://pm20.zbw.eu/dfgview/pe/009794 ) | 1938-1954 |   | [Q1874666](http://www.wikidata.org/entity/Q1874666 )
@@ -8558,7 +8557,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Kornilov, Lavr G.](https://pm20.zbw.eu/folder/pe/0102xx/010225/about.en.html ) | 1870-1918 | Russia | General | [3](https://pm20.zbw.eu/dfgview/pe/010225 ) | 1917- | [119342367](https://d-nb.info/gnd/119342367 ) | [Q276193](http://www.wikidata.org/entity/Q276193 )
 [Korolev, Sergej P.](https://pm20.zbw.eu/folder/pe/0102xx/010227/about.en.html ) | 30.12.1906-01.1966 | USSR | Konstrukteur für Raumfahrzeuge |   | 1966- |   |  
 [Korom, Mihaly](https://pm20.zbw.eu/folder/pe/0102xx/010228/about.en.html ) | 09.10.1927- | Hungary | Politiker |   | 1980- |   |  
-[Koroma, Sorie Ibrahim](https://pm20.zbw.eu/folder/pe/0102xx/010229/about.en.html ) | 1930- | Sierra Leone | Politiker |   | 1974- |   |  
+[Koroma, Sorie Ibrahim](https://pm20.zbw.eu/folder/pe/0102xx/010229/about.en.html ) | 1930- | Sierra Leone | Politiker |   | 1974- |   | [Q7563483](http://www.wikidata.org/entity/Q7563483 )
 [Koropp, Walter](https://pm20.zbw.eu/folder/pe/0102xx/010230/about.en.html ) | 24.01.1898- | Germany | Präsident der Postdirektion in Hamburg |   | 1954- |   |  
 [Korosec, Anton](https://pm20.zbw.eu/folder/pe/0102xx/010231/about.en.html ) | 1872-1940 | Serbia and Montenegro, Yugoslavia | Theologe, Politiker, Minister | [5](https://pm20.zbw.eu/dfgview/pe/010231 ) | 1940-1940 | [119081032](https://d-nb.info/gnd/119081032 ) | [Q515684](http://www.wikidata.org/entity/Q515684 )
 [Korotitsch, Witalij](https://pm20.zbw.eu/folder/pe/0102xx/010232/about.en.html ) | 26.05.1936- | Russia | Journalist |   | 1990- |   |  
@@ -9014,7 +9013,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Köhn, Jutta](https://pm20.zbw.eu/folder/pe/0099xx/009992/about.en.html ) | 1951- | Germany | Senatsdirektorin in Hamburg |   | 1994- |   |  
 [Köhn, Ulrich](https://pm20.zbw.eu/folder/pe/0099xx/009993/about.en.html ) | ? | Hamburg | Politiker, Journalist, Unternehmer | [5](https://pm20.zbw.eu/dfgview/pe/009993 ) | 1933-1953 |   | [Q64589752](http://www.wikidata.org/entity/Q64589752 )
 [Köhnlechner, Manfred](https://pm20.zbw.eu/folder/pe/0099xx/009994/about.en.html ) | 01.12.1925-10.04.2002 | Germany | Manager, Naturheilpraktiker, Publizist |   | 1972- |   |  
-[Kölbel, Herbert](https://pm20.zbw.eu/folder/pe/0099xx/009996/about.en.html ) | 30.08.1908- | Germany | Chemiker, Hochschullehrer |   | 1951- |   |  
+[Kölbel, Herbert](https://pm20.zbw.eu/folder/pe/0099xx/009996/about.en.html ) | 30.08.1908- | Germany | Chemiker, Hochschullehrer |   | 1951- |   | [Q1228572](http://www.wikidata.org/entity/Q1228572 )
 [Köller, Jürgen von](https://pm20.zbw.eu/folder/pe/0099xx/009998/about.en.html ) | 28.12.1909- | Germany | Bankier |   | 1974- |   |  
 [Köllhofer, Dietrich](https://pm20.zbw.eu/folder/pe/0099xx/009999/about.en.html ) | 13.06.1935-06.1995 | Germany | Bankier. - Vorstandsmitglied der Bayerischen Vereinsbank AG München |   | 1995- |   |  
 [Könecke, Fritz](https://pm20.zbw.eu/folder/pe/0100xx/010003/about.en.html ) | 1899-1979 | Germany | Industriemanager. - Vorsitzender der Daimler-Benz-AG in Stuttgart | [33](https://pm20.zbw.eu/dfgview/pe/010003 ) | 1938-1979 | [106103725](https://d-nb.info/gnd/106103725 ) | [Q1385513](http://www.wikidata.org/entity/Q1385513 )
@@ -9102,7 +9101,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Laermann, Karl-Hans](https://pm20.zbw.eu/folder/pe/0107xx/010795/about.en.html ) | 26.12.1929- | Germany | Politiker |   | 1974- |   |  
 [Laffer, Arthur B.](https://pm20.zbw.eu/folder/pe/0107xx/010797/about.en.html ) | 1940- | United States | Wirtschaftswissenschaftler |   | 1979- |   | [Q708520](http://www.wikidata.org/entity/Q708520 )
 [Laffont, Jean-Jacques](https://pm20.zbw.eu/folder/pe/0107xx/010798/about.en.html ) | 1947-. - 13.04.1947- | France | Prof., Forschungsdirektor am dortigen EHESS; Französ. Wirtschaftswissenschaftler m |   | 1993- | [11006061X](https://d-nb.info/gnd/11006061X ) | [Q1005479](http://www.wikidata.org/entity/Q1005479 )
-[Lafontaine, Oskar](https://pm20.zbw.eu/folder/pe/0108xx/010802/about.en.html ) | 1943- | Germany | Politiker |   | 1971- |   |  
+[Lafontaine, Oskar](https://pm20.zbw.eu/folder/pe/0108xx/010802/about.en.html ) | 1943- | Germany | Politiker |   | 1971- |   | [Q110719](http://www.wikidata.org/entity/Q110719 )
 [Lagaillarde, Pierre](https://pm20.zbw.eu/folder/pe/0108xx/010804/about.en.html ) | 15.03.1931- | France | Abgeordneter |   | 1959- |   |  
 [Lagarde, Paul de](https://pm20.zbw.eu/folder/pe/0108xx/010805/about.en.html ) | 1827-1891 | Germany | Orientalist; Kulturphilosoph | [6](https://pm20.zbw.eu/dfgview/pe/010805 ) | 1912- | [118725971](https://d-nb.info/gnd/118725971 ) | [Q61310](http://www.wikidata.org/entity/Q61310 )
 [Lagardere, Arnaud](https://pm20.zbw.eu/folder/pe/0108xx/010803/about.en.html ) | 1961- | France | Unternehmer |   | 1996- |   |  
@@ -9379,7 +9378,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Lefaucheux, Pierre](https://pm20.zbw.eu/folder/pe/0111xx/011128/about.en.html ) | 1898-1955 | France | Generaldirektor der Renault-Werke | [4](https://pm20.zbw.eu/dfgview/pe/011128 ) | 1944-1955 | [139444785](https://d-nb.info/gnd/139444785 ) | [Q833121](http://www.wikidata.org/entity/Q833121 )
 [Lefebvre, Henri](https://pm20.zbw.eu/folder/pe/0111xx/011129/about.en.html ) | 16.06.1905-29.06.1991 | France | Philosoph, Soziologe |   | 1991- |   | [Q162597](http://www.wikidata.org/entity/Q162597 )
 [Lefebvre, Marcel](https://pm20.zbw.eu/folder/pe/0111xx/011130/about.en.html ) | 29.11.1905-25.03.1991 | France | Erzbischof |   | 1976- |   | [Q312675](http://www.wikidata.org/entity/Q312675 )
-[Lefevre, Theodore](https://pm20.zbw.eu/folder/pe/0111xx/011131/about.en.html ) | 17.01.1914-18.09.1973 | Belgium | Politiker |   | 1961- |   |  
+[Lefevre, Theodore](https://pm20.zbw.eu/folder/pe/0111xx/011131/about.en.html ) | 17.01.1914-18.09.1973 | Belgium | Politiker |   | 1961- |   | [Q221781](http://www.wikidata.org/entity/Q221781 )
 [Legasov, Valerij](https://pm20.zbw.eu/folder/pe/0111xx/011133/about.en.html ) | 1937-27.04.1988 | USSR | Reaktor-Forscher |   | 1988- |   |  
 [Leger, Paul-Emile](https://pm20.zbw.eu/folder/pe/0111xx/011134/about.en.html ) | 26.04.1904-13.11.1991 | Canada | Kardinal |   | 1968- |   | [Q1369497](http://www.wikidata.org/entity/Q1369497 )
 [Legge-Bourke, Harry](https://pm20.zbw.eu/folder/pe/0111xx/011136/about.en.html ) | ? | United Kingdom | Politiker |   | 1954- |   |  
@@ -9534,7 +9533,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Lettow-Vorbeck, Paul von](https://pm20.zbw.eu/folder/pe/0113xx/011321/about.en.html ) | 1870-1964 | German East Africa; Germany | General, Schutztruppenkommandeur in Deutsch-Ostafrika | [224](https://pm20.zbw.eu/dfgview/pe/011321 ) | 1916- | [118779737](https://d-nb.info/gnd/118779737 ) | [Q57203](http://www.wikidata.org/entity/Q57203 )
 [Leubuscher, Charlotte](https://pm20.zbw.eu/folder/pe/0477xx/047787/about.en.html ) | 1888-1961 | Germany; United Kingdom | Wirtschaftswissenschaftlerin | [5](https://pm20.zbw.eu/dfgview/pe/047787 ) | 1929-1961 (WiA/IfW Kiel) | [116957689](https://d-nb.info/gnd/116957689 ) | [Q1067254](http://www.wikidata.org/entity/Q1067254 )
 [Leuckfeld, Gottfried](https://pm20.zbw.eu/folder/pe/0113xx/011323/about.en.html ) | 1874-1944 | Germany | Hauptgeschäftsführer der IHK-Hamburg | [9](https://pm20.zbw.eu/dfgview/pe/011323 ) | 1907- | [10777769X](https://d-nb.info/gnd/10777769X ) | [Q64590049](http://www.wikidata.org/entity/Q64590049 )
-[Leuenberger, Moritz](https://pm20.zbw.eu/folder/pe/0113xx/011324/about.en.html ) | 21.09.1946- | Switzerland | Bundespräsident |   | 1995- |   |  
+[Leuenberger, Moritz](https://pm20.zbw.eu/folder/pe/0113xx/011324/about.en.html ) | 21.09.1946- | Switzerland | Bundespräsident |   | 1995- |   | [Q115520](http://www.wikidata.org/entity/Q115520 )
 [Leuschner, Bruno](https://pm20.zbw.eu/folder/pe/0113xx/011325/about.en.html ) | 1910-1965 | German Democratic Republic | Politker | [41](https://pm20.zbw.eu/dfgview/pe/011325 ) | 1950-1985 (HWWA), 1948-1965 (WiA/IfW) | [118572229](https://d-nb.info/gnd/118572229 ) | [Q993479](http://www.wikidata.org/entity/Q993479 )
 [Leuschner, Wilhelm](https://pm20.zbw.eu/folder/pe/0113xx/011326/about.en.html ) | 1890-1944  | Germany | Gewerkschaftspolitiker, Widerstandskämpfer | [6](https://pm20.zbw.eu/dfgview/pe/011326 ) | 1933- | [118572245](https://d-nb.info/gnd/118572245 ) | [Q213868](http://www.wikidata.org/entity/Q213868 )
 [Leussink, Hans](https://pm20.zbw.eu/folder/pe/0113xx/011327/about.en.html ) | 02.02.1912- | Germany | Bildungsminister |   | 1969- |   |  
@@ -9620,7 +9619,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Liebknecht, Karl](https://pm20.zbw.eu/folder/pe/0114xx/011420/about.en.html ) | 1871-1919 | Germany | Politiker | [92](https://pm20.zbw.eu/dfgview/pe/011420 ) | 1915- | [11857275X](https://d-nb.info/gnd/11857275X ) | [Q75886](http://www.wikidata.org/entity/Q75886 )
 [Liebknecht, Wilhelm](https://pm20.zbw.eu/folder/pe/0114xx/011421/about.en.html ) | 1826-1900 | Germany | Journalist, Politiker |   | 1966- |   | [Q20127](http://www.wikidata.org/entity/Q20127 )
 [Liebscher, Dierck H.](https://pm20.zbw.eu/folder/pe/0114xx/011425/about.en.html ) | 1945- | Germany | Mediziner, Biologe |   | 1992- |   |  
-[Liebscher, Klaus](https://pm20.zbw.eu/folder/pe/0114xx/011426/about.en.html ) | 1939- | Austria | Bankmanager. - Präsident der Oesterreichischen Nationalbank |   | 1995- |   |  
+[Liebscher, Klaus](https://pm20.zbw.eu/folder/pe/0114xx/011426/about.en.html ) | 1939- | Austria | Bankmanager. - Präsident der Oesterreichischen Nationalbank |   | 1995- |   | [Q1745396](http://www.wikidata.org/entity/Q1745396 )
 [Liefmann-Keil, Elisabeth](https://pm20.zbw.eu/folder/pe/0114xx/011428/about.en.html ) | ? | Germany | Nationalökonomin |   | 1956- |   |  
 [Lieftinck, Pieter](https://pm20.zbw.eu/folder/pe/0114xx/011429/about.en.html ) | 1902-1989 | Netherlands | Finanzpolitiker | [6](https://pm20.zbw.eu/dfgview/pe/011429 ) | 1948-1963 |   | [Q2714270](http://www.wikidata.org/entity/Q2714270 )
 [Liem, Sioe Liong](https://pm20.zbw.eu/folder/pe/0114xx/011430/about.en.html ) | ? | Indonesia | Unternehmer |   | 1983- |   |  
@@ -9995,8 +9994,8 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Lütke-Bornefeld, Peter](https://pm20.zbw.eu/folder/pe/0190xx/019011/about.en.html ) | 1946- | Germany | Versicherungsmanager |   | 1990- |   |  
 [Lütkens, Gerhard](https://pm20.zbw.eu/folder/pe/0190xx/019012/about.en.html ) | 05.01.1893-11.1955 | Germany | Politiker |   | 1951- |   |  
 [Lüttwitz, Walther von](https://pm20.zbw.eu/folder/pe/0190xx/019013/about.en.html ) | 1858-1942 | Germany | General | [8](https://pm20.zbw.eu/dfgview/pe/019013 ) | 1919- | [118891499](https://d-nb.info/gnd/118891499 ) | [Q63103](http://www.wikidata.org/entity/Q63103 )
-[Lützeler, Heinrich](https://pm20.zbw.eu/folder/pe/0190xx/019014/about.en.html ) | 27.01.1902-06.1988 | Germany | Kunsthistoriker |   | 1962- |   |  
-[M'Bow, Amadou-Mahtar](https://pm20.zbw.eu/folder/pe/0191xx/019104/about.en.html ) | 1921- | Senegal | UNESCO-Generalsekretär 1974-1987 |   | 1985- |   |  
+[Lützeler, Heinrich](https://pm20.zbw.eu/folder/pe/0190xx/019014/about.en.html ) | 27.01.1902-06.1988 | Germany | Kunsthistoriker |   | 1962- |   | [Q102347](http://www.wikidata.org/entity/Q102347 )
+[M'Bow, Amadou-Mahtar](https://pm20.zbw.eu/folder/pe/0191xx/019104/about.en.html ) | 1921- | Senegal | UNESCO-Generalsekretär 1974-1987 |   | 1985- |   | [Q740168](http://www.wikidata.org/entity/Q740168 )
 [M'hammedi, Driss](https://pm20.zbw.eu/folder/pe/0121xx/012180/about.en.html ) | 1912-1969 | Morocco | Außenminister |   | 1969- |   | [Q3039500](http://www.wikidata.org/entity/Q3039500 )
 [Maas, Heiko](https://pm20.zbw.eu/folder/pe/0117xx/011780/about.en.html ) | 1966- | Germany | Politiker |   | 2000- |   |  
 [Maassen, Hermann](https://pm20.zbw.eu/folder/pe/0190xx/019036/about.en.html ) | 12.10.1915- | Germany | Staatssekretär |   | 1969- |   |  
@@ -10474,14 +10473,14 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Mayhew, Christopher](https://pm20.zbw.eu/folder/pe/0195xx/019559/about.en.html ) | 1915-1997 | United Kingdom | Soldat, Politiker (Labour) | [18](https://pm20.zbw.eu/dfgview/pe/019559 ) | 1948-1965 | [131739255](https://d-nb.info/gnd/131739255 ) | [Q5112833](http://www.wikidata.org/entity/Q5112833 )
 [Mayhew, Patrick Barnabas Burke](https://pm20.zbw.eu/folder/pe/0120xx/012023/about.en.html ) | 1929- | United Kingdom | Politiker |   | 1992- |   | [Q334163](http://www.wikidata.org/entity/Q334163 )
 [Mayor Oreja, Jaime](https://pm20.zbw.eu/folder/pe/0120xx/012025/about.en.html ) | 12.06.1951- | Spain | Politiker |   | 1997- |   |  
-[Mayor Zaragoza, Federico](https://pm20.zbw.eu/folder/pe/0120xx/012026/about.en.html ) | 27.01.1934- | Spain | Biologe, Politiker. - Generaldirektor der UNESCO (1987-1999) |   | 1987- |   |  
+[Mayor Zaragoza, Federico](https://pm20.zbw.eu/folder/pe/0120xx/012026/about.en.html ) | 27.01.1934- | Spain | Biologe, Politiker. - Generaldirektor der UNESCO (1987-1999) |   | 1987- |   | [Q457158](http://www.wikidata.org/entity/Q457158 )
 [Mayr, Ernst](https://pm20.zbw.eu/folder/pe/0195xx/019560/about.en.html ) | 1904-2005 | Germany | Zoologe, Evolutionstheoretiker |   | 1996- |   | [Q5354](http://www.wikidata.org/entity/Q5354 )
 [Mayr, Hans](https://pm20.zbw.eu/folder/pe/0120xx/012028/about.en.html ) | 13.12.1921- | Germany | Gewerkschaftler. - Vorsitzender der IG Metall (1983-86) |   | 1975- |   |  
 [Mayr, Hans (Politiker)](https://pm20.zbw.eu/folder/pe/0120xx/012027/about.en.html ) | 27.06.1928- | Austria | Politiker |   | 1988- |   |  
 [Mayrhuber, Wolfgang](https://pm20.zbw.eu/folder/pe/0196xx/019641/about.en.html ) | 1947- | Germany | Vorstandsvorsitzender der Lufthansa |   | 2002- |   |  
 [Mayrisch, Emil](https://pm20.zbw.eu/folder/pe/0195xx/019561/about.en.html ) | 1862-1928 | Luxembourg | Wirtschaftsfunktionär | [18](https://pm20.zbw.eu/dfgview/pe/019561 ) | 1928- | [122680553](https://d-nb.info/gnd/122680553 ) | [Q463694](http://www.wikidata.org/entity/Q463694 )
 [Mayröcker, Friederike](https://pm20.zbw.eu/folder/pe/0120xx/012029/about.en.html ) | 1924- | Austria | Schriftstellerin, Büchnerpreisträgerin 2001 |   | 1994- |   | [Q93614](http://www.wikidata.org/entity/Q93614 )
-[Maystadt, Philippe](https://pm20.zbw.eu/folder/pe/0195xx/019562/about.en.html ) | ? | Belgium | Finanzminister, Bank-Manager |   | 1993- |   |  
+[Maystadt, Philippe](https://pm20.zbw.eu/folder/pe/0195xx/019562/about.en.html ) | ? | Belgium | Finanzminister, Bank-Manager |   | 1993- |   | [Q725611](http://www.wikidata.org/entity/Q725611 )
 [Mazkevic, Vladimir Vladimirovic](https://pm20.zbw.eu/folder/pe/0195xx/019563/about.en.html ) | 14.12.1909- | USSR | Landwirtschaftsminister |   | 1955- |   |  
 [Mazowiecki, Tadeusz](https://pm20.zbw.eu/folder/pe/0120xx/012030/about.en.html ) | 1927- | Poland | Ministerpräsident (1989/90) |   | 1981- |   |  
 [Mazzini, Giuseppe](https://pm20.zbw.eu/folder/pe/0195xx/019564/about.en.html ) | 1805-1872 | Italy | Freiheitskämpfer | [9](https://pm20.zbw.eu/dfgview/pe/019564 ) | 1922-1972 | [118579754](https://d-nb.info/gnd/118579754 ) | [Q187336](http://www.wikidata.org/entity/Q187336 )
@@ -10548,7 +10547,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Meister, Edgar](https://pm20.zbw.eu/folder/pe/0197xx/019774/about.en.html ) | 1940- | EU countries | Politiker, Bankier |   | 1991- |   |  
 [Meitmann, Karl](https://pm20.zbw.eu/folder/pe/0197xx/019780/about.en.html ) | 1891-1971 | Hamburg | Politiker (SPD) | [9](https://pm20.zbw.eu/dfgview/pe/019780 ) | 1945-1961 |   | [Q1732349](http://www.wikidata.org/entity/Q1732349 )
 [Meitner, Lise](https://pm20.zbw.eu/folder/pe/0197xx/019766/about.en.html ) | 1878-1968 | Germany; Sweden | Physikerin | [32](https://pm20.zbw.eu/dfgview/pe/019766 ) | 1945-1996 | [118580477](https://d-nb.info/gnd/118580477 ) | [Q56189](http://www.wikidata.org/entity/Q56189 )
-[Meißner, Herbert](https://pm20.zbw.eu/folder/pe/0197xx/019773/about.en.html ) | 1927- | Germany | Wirtschaftswissenschaftler |   | 1986- |   |  
+[Meißner, Herbert](https://pm20.zbw.eu/folder/pe/0197xx/019773/about.en.html ) | 1927- | Germany | Wirtschaftswissenschaftler |   | 1986- |   | [Q1608791](http://www.wikidata.org/entity/Q1608791 )
 [Mejdani, Rexhep Kemal](https://pm20.zbw.eu/folder/pe/0120xx/012073/about.en.html ) | 17.08.1944- | Albania | Staatspräsident |   | 1997- |   |  
 [Mejia, Hipolito](https://pm20.zbw.eu/folder/pe/0120xx/012074/about.en.html ) | 22.02.1941- | Dominican Republic | Staatspräsident |   | 2000- |   | [Q653611](http://www.wikidata.org/entity/Q653611 )
 [Meksi, Aleksander](https://pm20.zbw.eu/folder/pe/0120xx/012075/about.en.html ) | 1939- | Albania | Politiker |   | 1992- |   |  
@@ -10563,7 +10562,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Melo Neto, Joßao Cabral de](https://pm20.zbw.eu/folder/pe/0120xx/012080/about.en.html ) | 09.01.1920- | Brazil | Lyriker |   | 1988- |   |  
 [Melsheimer, Ernst](https://pm20.zbw.eu/folder/pe/0197xx/019727/about.en.html ) | 1897-1960 | German Democratic Republic | Generalstaatsanwalt der DDR |   | 1951- |   | [Q1359477](http://www.wikidata.org/entity/Q1359477 )
 [Meltzer, Allan Harold](https://pm20.zbw.eu/folder/pe/0120xx/012081/about.en.html ) | 1928-. - 06.02.1928- | United States | Tätig als Dir. des Centro Gailliot de Políticas Públicas de la Univ. Carnegie Mellon und Prof. visitante am American Enterprise Inst.; Amerikan. Wirtschaftswissenschaftler m Carnegie Mellon Univ. and American Enterprise Inst. (1996) and Inst. for Monetary and Economic Studies, Bank of Japan (1997) |   | 1994- | [118855603](https://d-nb.info/gnd/118855603 ) | [Q212706](http://www.wikidata.org/entity/Q212706 )
-[Men'sikov, Michail A.](https://pm20.zbw.eu/folder/pe/0220xx/022053/about.en.html ) | 1902-1976 | USSR | Politiker, Diplomat | [17](https://pm20.zbw.eu/dfgview/pe/022053 ) | 1949-1976 | [119459019](https://d-nb.info/gnd/119459019 ) | [Q64589780](http://www.wikidata.org/entity/Q64589780 )
+[Men'sikov, Michail A.](https://pm20.zbw.eu/folder/pe/0220xx/022053/about.en.html ) | 1902-1976 | USSR | Politiker, Diplomat | [17](https://pm20.zbw.eu/dfgview/pe/022053 ) | 1949-1976 | [119459019](https://d-nb.info/gnd/119459019 ) | [Q4290649](http://www.wikidata.org/entity/Q4290649 )
 [Menchu, Rigoberta](https://pm20.zbw.eu/folder/pe/0120xx/012085/about.en.html ) | 1959- | Guatemala | Bürgerrechtskämpferin |   | 1992- |   | [Q188620](http://www.wikidata.org/entity/Q188620 )
 [Menck, Karl Wolfgang](https://pm20.zbw.eu/folder/pe/0198xx/019880/about.en.html ) | 1942- | Germany | Wirtschaftswissenschaftler Dr., Lateinamerika-Inst. FU Berlin, HWWA |   | 1976- | [123653096](https://d-nb.info/gnd/123653096 ) |  
 [Mencken, Henry Louis](https://pm20.zbw.eu/folder/pe/0197xx/019734/about.en.html ) | 1880-1956 | United States | Literaturkritiker |   | 1955- |   | [Q439204](http://www.wikidata.org/entity/Q439204 )
@@ -10740,7 +10739,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Mikojan, Anastas I.](https://pm20.zbw.eu/folder/pe/0122xx/012238/about.en.html ) | 1895-1978 | USSR | Politiker | [355](https://pm20.zbw.eu/dfgview/pe/012238 ) | 1926- | [118865986](https://d-nb.info/gnd/118865986 ) | [Q152738](http://www.wikidata.org/entity/Q152738 )
 [Mikolajczyk, Stanislaw](https://pm20.zbw.eu/folder/pe/0122xx/012239/about.en.html ) | 1901-1966 | Poland | Ministerpräsident. - Präsident der Bauernpartei | [62](https://pm20.zbw.eu/dfgview/pe/012239 ) | 1944-1966 | [118830228](https://d-nb.info/gnd/118830228 ) | [Q527012](http://www.wikidata.org/entity/Q527012 )
 [Miksch, Leonhard](https://pm20.zbw.eu/folder/pe/0122xx/012240/about.en.html ) | 1901-1950 | Germany | Nationalökonom | [13](https://pm20.zbw.eu/dfgview/pe/012240 ) | 1948-2000 |   | [Q104648](http://www.wikidata.org/entity/Q104648 )
-[Mikulic, Branko](https://pm20.zbw.eu/folder/pe/0122xx/012241/about.en.html ) | 1928- | Serbia and Montenegro, Yugoslavia | Regierungschef (1986-88) |   | 1977- |   |  
+[Mikulic, Branko](https://pm20.zbw.eu/folder/pe/0122xx/012241/about.en.html ) | 1928- | Serbia and Montenegro, Yugoslavia | Regierungschef (1986-88) |   | 1977- |   | [Q898698](http://www.wikidata.org/entity/Q898698 )
 [Milazzo, Silvio](https://pm20.zbw.eu/folder/pe/0122xx/012243/about.en.html ) | 1903-1982 | Italy | Regionalpolitiker in Sizilien |   | 1959- |   | [Q3960910](http://www.wikidata.org/entity/Q3960910 )
 [Milberg, Joachim](https://pm20.zbw.eu/folder/pe/0122xx/012244/about.en.html ) | 1943- | Germany | Industriemanager. - Vorstandsvorsitzender der BMW AG |   | 1999- |   |  
 [Milbradt, Georg](https://pm20.zbw.eu/folder/pe/0122xx/012245/about.en.html ) | 1945- | Germany | Politiker |   | 1991- |   |  
@@ -11071,7 +11070,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Möller, Erwin Karl](https://pm20.zbw.eu/folder/pe/0123xx/012347/about.en.html ) | 23.01.1939- | Germany | Industriemanager |   | 1990- |   |  
 [Möller, Gerald](https://pm20.zbw.eu/folder/pe/0123xx/012348/about.en.html ) | 9.12.1943- | Germany | Industriemanager |   | 1997- |   |  
 [Möller, Hans](https://pm20.zbw.eu/folder/pe/0123xx/012349/about.en.html ) | 1915-1996 | Germany | Volkswirt, Professor für politische Ökonomie in Frankfurt am Main, Berater der Wirtschaftsverwaltung bei der Währungsreform (1947), Leiter der Währungsabteilung der Bank deutscher Länder (1948) | [24](https://pm20.zbw.eu/dfgview/pe/012349 ) | Kein Material vorhanden (HWWA), 1946-1996 (WiA/IfW) | [118583069](https://d-nb.info/gnd/118583069 ) | [Q1581427](http://www.wikidata.org/entity/Q1581427 )
-[Möller, Irmgard](https://pm20.zbw.eu/folder/pe/0123xx/012351/about.en.html ) | 13.05.1947- | Germany | RAF-Terroristin |   | 1977- |   |  
+[Möller, Irmgard](https://pm20.zbw.eu/folder/pe/0123xx/012351/about.en.html ) | 13.05.1947- | Germany | RAF-Terroristin |   | 1977- |   | [Q62058](http://www.wikidata.org/entity/Q62058 )
 [Möller, Klaus-Peter](https://pm20.zbw.eu/folder/pe/0223xx/022311/about.en.html ) | 1937- | Hesse | Landespolitiker |   | 1988- |   |  
 [Möller, Walter](https://pm20.zbw.eu/folder/pe/0123xx/012355/about.en.html ) | 1920-11.1971 | Germany | Oberbürgermeister von Frankfurt |   | 1970- |   | [Q1440251](http://www.wikidata.org/entity/Q1440251 )
 [Mönckeberg, Johann Georg](https://pm20.zbw.eu/folder/pe/0123xx/012356/about.en.html ) | 1839-1908 | Hamburg | Jurist; Senator, Bürgermeister von Hamburg (1890-1908) | [13](https://pm20.zbw.eu/dfgview/pe/012356 ) | 1919- | [119025477](https://d-nb.info/gnd/119025477 ) | [Q115277](http://www.wikidata.org/entity/Q115277 )
@@ -12035,7 +12034,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Peres, Shimon](https://pm20.zbw.eu/folder/pe/0134xx/013420/about.en.html ) | 1923- | Israel | Politiker |   | 1958- |   | [Q57410](http://www.wikidata.org/entity/Q57410 )
 [Perez Balladares, Ernesto](https://pm20.zbw.eu/folder/pe/0134xx/013421/about.en.html ) | 1946- | Panama | Staatspräsident (1994-99) |   | 1994- |   |  
 [Perez Casado, Ricardo](https://pm20.zbw.eu/folder/pe/0134xx/013423/about.en.html ) | 1945- | Spain | EU-Beauftragter in Bosnien |   | 1996- |   |  
-[Perez Esquivel, Adolfo](https://pm20.zbw.eu/folder/pe/0134xx/013425/about.en.html ) | 1931- | Argentina | Bürgerrechtler |   | 1980- |   |  
+[Perez Esquivel, Adolfo](https://pm20.zbw.eu/folder/pe/0134xx/013425/about.en.html ) | 1931- | Argentina | Bürgerrechtler |   | 1980- |   | [Q206505](http://www.wikidata.org/entity/Q206505 )
 [Perez Guerrero, Manuel](https://pm20.zbw.eu/folder/pe/0134xx/013426/about.en.html ) | 1911-1985 | Venezuela | Politiker |   | 1975- |   | [Q1891669](http://www.wikidata.org/entity/Q1891669 )
 [Perez Jimenez, Marcos](https://pm20.zbw.eu/folder/pe/0134xx/013427/about.en.html ) | 25.04.1914- | Venezuela | Politiker |   | 1952- |   |  
 [Perez de Cuellar, Javier](https://pm20.zbw.eu/folder/pe/0134xx/013424/about.en.html ) | 1920- | Peru | UNO-Generalsekretär (1982-1991) |   | 1981- |   |  
@@ -12249,7 +12248,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Piétri, François](https://pm20.zbw.eu/folder/pe/0136xx/013625/about.en.html ) | 1882-1966 | France | Politiker | [5](https://pm20.zbw.eu/dfgview/pe/013625 ) | 1933- | [119466341](https://d-nb.info/gnd/119466341 ) | [Q3085590](http://www.wikidata.org/entity/Q3085590 )
 [Plambeck, Helmut](https://pm20.zbw.eu/folder/pe/0136xx/013673/about.en.html ) | ? | Germany | oberster Richter in Hamburg |   | 1985- |   |  
 [Planck, Max](https://pm20.zbw.eu/folder/pe/0136xx/013674/about.en.html ) | 1858-1947 | Germany | Physiker | [74](https://pm20.zbw.eu/dfgview/pe/013674 ) | 1927-,1997 | [118594818](https://d-nb.info/gnd/118594818 ) | [Q9021](http://www.wikidata.org/entity/Q9021 )
-[Planinc, Milka](https://pm20.zbw.eu/folder/pe/0136xx/013675/about.en.html ) | 21.11.1924- | Serbia and Montenegro, Yugoslavia | Politikerin, Regierungschefin (1982-1986) |   | 1975- |   |  
+[Planinc, Milka](https://pm20.zbw.eu/folder/pe/0136xx/013675/about.en.html ) | 21.11.1924- | Serbia and Montenegro, Yugoslavia | Politikerin, Regierungschefin (1982-1986) |   | 1975- |   | [Q236899](http://www.wikidata.org/entity/Q236899 )
 [Plank, Rudolf](https://pm20.zbw.eu/folder/pe/0136xx/013676/about.en.html ) | 22.02.1886-? | Ukraine | Ingenieur |   | 1951- |   |  
 [Planta, Alfred von](https://pm20.zbw.eu/folder/pe/0136xx/013677/about.en.html ) | 1857-1922 | Switzerland | Minister, Diplomat, Jurist | [11](https://pm20.zbw.eu/dfgview/pe/013677 ) | 1922- | [124996701](https://d-nb.info/gnd/124996701 ) | [Q2646250](http://www.wikidata.org/entity/Q2646250 )
 [Plassmann, Clemens](https://pm20.zbw.eu/folder/pe/0136xx/013678/about.en.html ) | 1894-1970 | Germany | Generaldirektor (Deutschen Bank AG), Jurist | [19](https://pm20.zbw.eu/dfgview/pe/013678 ) | 1953-1969 (HWWA), 1940-1970 (WiA/IfW) | [11922383X](https://d-nb.info/gnd/11922383X ) | [Q107159](http://www.wikidata.org/entity/Q107159 )
@@ -12437,7 +12436,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Preuschen, Gerhardt](https://pm20.zbw.eu/folder/pe/0138xx/013835/about.en.html ) | 1908- | Germany | Agrarwissenschaftler, Direktor des Max-Planck-Institutes für Landarbeit und Landtechnik |   | 1956- |   |  
 [Preusker, Viktor-Emanuel](https://pm20.zbw.eu/folder/pe/0138xx/013836/about.en.html ) | 25.02.1913-13.05.1991 | Germany | deutscher Bankier, Verbandsfunktionär und Bundesminister 1953-1957 |   | 1951- |   |  
 [Preuss, Hugo](https://pm20.zbw.eu/folder/pe/0138xx/013837/about.en.html ) | 1860-1925 | Germany | Politiker, Schöpfer der Weimarer Reichsverfassung | [37](https://pm20.zbw.eu/dfgview/pe/013837 ) | 1918- | [118596403](https://d-nb.info/gnd/118596403 ) | [Q61708](http://www.wikidata.org/entity/Q61708 )
-[Preussen, Friedrich von](https://pm20.zbw.eu/folder/pe/0056xx/005621/about.en.html ) | 1911-1966 | Germany; United Kingdom | Enkel des letzten deutschen Kaisers | [10](https://pm20.zbw.eu/dfgview/pe/005621 ) | 1937-1966 |   | [Q64589982](http://www.wikidata.org/entity/Q64589982 )
+[Preussen, Friedrich von](https://pm20.zbw.eu/folder/pe/0056xx/005621/about.en.html ) | 1911-1966 | Germany; United Kingdom | Enkel des letzten deutschen Kaisers | [10](https://pm20.zbw.eu/dfgview/pe/005621 ) | 1937-1966 |   | [Q70632](http://www.wikidata.org/entity/Q70632 )
 [Preußen, August Wilhelm von](https://pm20.zbw.eu/folder/pe/0007xx/000759/about.en.html ) | 1887-1949 | Germany | Mitglied des Reichstages und der SA | [36](https://pm20.zbw.eu/dfgview/pe/000759 ) | 1929- | [117746525](https://d-nb.info/gnd/117746525 ) | [Q58777](http://www.wikidata.org/entity/Q58777 )
 [Preußen, Louis Ferdinand von](https://pm20.zbw.eu/folder/pe/0138xx/013838/about.en.html ) | 1907-1994 | Germany | Chef des Hauses Hohenzollern | [60](https://pm20.zbw.eu/dfgview/pe/013838 ) | 1927- | [11859642X](https://d-nb.info/gnd/11859642X ) | [Q311442](http://www.wikidata.org/entity/Q311442 )
 [Preußen, Oskar von](https://pm20.zbw.eu/folder/pe/0138xx/013839/about.en.html ) | 1888-1958 | Germany | Generalmajor | [11](https://pm20.zbw.eu/dfgview/pe/013839 ) | 1914- | [101822340](https://d-nb.info/gnd/101822340 ) | [Q61242](http://www.wikidata.org/entity/Q61242 )
@@ -12501,7 +12500,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Pugo Karlovic, Boris](https://pm20.zbw.eu/folder/pe/0237xx/023757/about.en.html ) | 1937-1991 | USSR | Innenminister |   | 1991- |   | [Q279164](http://www.wikidata.org/entity/Q279164 )
 [Puhan, Alfred](https://pm20.zbw.eu/folder/pe/0138xx/013898/about.en.html ) | 1913- | United States | Leiter der Deutscland-Abteilung im US-Außenministerium |   | 1964- |   |  
 [Puhl, Emil](https://pm20.zbw.eu/folder/pe/0615xx/061595/about.en.html ) | 1889-1962 | Germany | Vizepräsident der Deutschen Reichsbank, NS-Diplomat, 1949 in Nürnberg zu 5 Jahren Haft verurteilt, Vorstandtmitglied der Hamburger Kreditbank (ab 1952), Direktor der Bank für Internationalen Zahlungsausgleich | [17](https://pm20.zbw.eu/dfgview/pe/061595 ) | 1940-1962 (WiA/IfW) | [124997856](https://d-nb.info/gnd/124997856 ) | [Q96178](http://www.wikidata.org/entity/Q96178 )
-[Pujol, Jordi](https://pm20.zbw.eu/folder/pe/0139xx/013901/about.en.html ) | 1930- | Spain | katalanischer Politiker |   | 1979- |   |  
+[Pujol, Jordi](https://pm20.zbw.eu/folder/pe/0139xx/013901/about.en.html ) | 1930- | Spain | katalanischer Politiker |   | 1979- |   | [Q458702](http://www.wikidata.org/entity/Q458702 )
 [Pulitzer, Joseph](https://pm20.zbw.eu/folder/pe/0139xx/013905/about.en.html ) | 1847-1911 | United States | Journalist und Verleger |   | 1991- |   | [Q173417](http://www.wikidata.org/entity/Q173417 )
 [Pullman, George M.](https://pm20.zbw.eu/folder/pe/0139xx/013907/about.en.html ) | 1831-1897 | United States | Eisenbahn-Konstrukteur | [4](https://pm20.zbw.eu/dfgview/pe/013907 ) | 1927- | [117705624](https://d-nb.info/gnd/117705624 ) | [Q362760](http://www.wikidata.org/entity/Q362760 )
 [Pulver, Max](https://pm20.zbw.eu/folder/pe/0139xx/013908/about.en.html ) | 06.12.1889- | Switzerland | Schriftsteller |   | 1939- |   |  
@@ -12523,7 +12522,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Pätzold, Erich](https://pm20.zbw.eu/folder/pe/0131xx/013128/about.en.html ) | 08.06.1930- | Germany | Senator in Berlin |   | 1980- |   | [Q1353005](http://www.wikidata.org/entity/Q1353005 )
 [Pätzold, Ernst](https://pm20.zbw.eu/folder/pe/0131xx/013129/about.en.html ) | 08.11.1910-19.02.1982 | Germany | Manager |   | 1960- |   |  
 [Pétain, Philippe](https://pm20.zbw.eu/folder/pe/0134xx/013466/about.en.html ) | 1856-1951 | France | Marschall, Generalinspekteur der Armee, Ministerpräsident | [386](https://pm20.zbw.eu/dfgview/pe/013466 ) | 1916-1995 | [118740156](https://d-nb.info/gnd/118740156 ) | [Q5721](http://www.wikidata.org/entity/Q5721 )
-[Pöhl, Karl Otto](https://pm20.zbw.eu/folder/pe/0137xx/013711/about.en.html ) | 1929- | Germany | Präsident der Deutschen Bundesbank |   | 1972- |   |  
+[Pöhl, Karl Otto](https://pm20.zbw.eu/folder/pe/0137xx/013711/about.en.html ) | 1929- | Germany | Präsident der Deutschen Bundesbank |   | 1972- |   | [Q97051](http://www.wikidata.org/entity/Q97051 )
 [Pöhner, Konrad](https://pm20.zbw.eu/folder/pe/0229xx/022957/about.en.html ) | 1901-1974 | Bavaria | Finanzminister |   | 1950- |   | [Q1782258](http://www.wikidata.org/entity/Q1782258 )
 [Pölnitz, Götz von](https://pm20.zbw.eu/folder/pe/0616xx/061606/about.en.html ) | 1906-1967  | Germany | Historiker, Hausarchivar der Fugger | [13](https://pm20.zbw.eu/dfgview/pe/061606 ) | 1947-1967 (WiA/IfW) | [116248904](https://d-nb.info/gnd/116248904 ) | [Q1559877](http://www.wikidata.org/entity/Q1559877 )
 [Pörzgen, Hermann](https://pm20.zbw.eu/folder/pe/0229xx/022951/about.en.html ) | 1905-1976 | Germany | Journalist (Russland-Korrespondent) | [13](https://pm20.zbw.eu/dfgview/pe/022951 ) | 1941-1977 | [116249609](https://d-nb.info/gnd/116249609 ) | [Q1612389](http://www.wikidata.org/entity/Q1612389 )
@@ -12535,7 +12534,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Pützhofen, Dieter](https://pm20.zbw.eu/folder/pe/0138xx/013895/about.en.html ) | 14.05.1942- | Germany | Politiker |   | 1985- |   |  
 [Qabus bin Said al-Said](https://pm20.zbw.eu/folder/pe/0139xx/013949/about.en.html ) | 1940- | Oman | Sultan |   | 1979- |   |  
 [Qaddafi, Muayn;ammar al-](https://pm20.zbw.eu/folder/pe/0139xx/013950/about.en.html ) | 1942- | Libya | Politiker; Revolutionsführer |   | 1971- |   | [Q19878](http://www.wikidata.org/entity/Q19878 )
-[Qian, Qichen](https://pm20.zbw.eu/folder/pe/0139xx/013951/about.en.html ) | 01.1928- | China | Außenminister |   | 1988- |   |  
+[Qian, Qichen](https://pm20.zbw.eu/folder/pe/0139xx/013951/about.en.html ) | 01.1928- | China | Außenminister |   | 1988- |   | [Q469516](http://www.wikidata.org/entity/Q469516 )
 [Qiao, Guanhua](https://pm20.zbw.eu/folder/pe/0239xx/023960/about.en.html ) | 1912-1983 | China | Politiker |   | 1971- |   |  
 [Qiao, Shi](https://pm20.zbw.eu/folder/pe/0139xx/013953/about.en.html ) | 1924- | China | Politiker |   | 1986- |   |  
 [Qili Hu](https://pm20.zbw.eu/folder/pe/0139xx/013954/about.en.html ) | 1929- | China | Politiker |   | 1983- |   |  
@@ -12845,7 +12844,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Remmers, Walter](https://pm20.zbw.eu/folder/pe/0144xx/014420/about.en.html ) | 17.10.1933- | Germany | Jurist und Politiker |   | 1983- |   |  
 [Remmers, Werner](https://pm20.zbw.eu/folder/pe/0144xx/014421/about.en.html ) | 03.12.1930- | Germany | Politiker |   | 1976- |   |  
 [Remon, Jose Antonio](https://pm20.zbw.eu/folder/pe/0144xx/014422/about.en.html ) | 1908-1955 | Panama | Staatspräsident |   | 1955- |   | [Q887946](http://www.wikidata.org/entity/Q887946 )
-[Remorino, Jeronimo](https://pm20.zbw.eu/folder/pe/0144xx/014423/about.en.html ) | 1902- | Argentina | Außenminister |   | 1951- |   |  
+[Remorino, Jeronimo](https://pm20.zbw.eu/folder/pe/0144xx/014423/about.en.html ) | 1902- | Argentina | Außenminister |   | 1951- |   | [Q1688025](http://www.wikidata.org/entity/Q1688025 )
 [Remsperger, Hermann](https://pm20.zbw.eu/folder/pe/0144xx/014424/about.en.html ) | 1950- | Germany | Volkswirt. - Chefvolkswirt der Deutschen Bundesbank |   | 2000- |   |  
 [Renan, Ernest](https://pm20.zbw.eu/folder/pe/0144xx/014425/about.en.html ) | 1823-1892 | France | Orientalist, Religionshistoriker, Schriftsteller | [15](https://pm20.zbw.eu/dfgview/pe/014425 ) | 1923- | [118744496](https://d-nb.info/gnd/118744496 ) | [Q157155](http://www.wikidata.org/entity/Q157155 )
 [Renard, Andre](https://pm20.zbw.eu/folder/pe/0144xx/014426/about.en.html ) | ?-1962 | Belgium | Gewerkschaftsführer |   | 1954- |   |  
@@ -13289,7 +13288,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Ruge, Gerd](https://pm20.zbw.eu/folder/pe/0151xx/015155/about.en.html ) | 09.08.1928- | Germany | Journalist und Publizist |   | 1968- |   | [Q101417](http://www.wikidata.org/entity/Q101417 )
 [Ruge, Jens](https://pm20.zbw.eu/folder/pe/0151xx/015156/about.en.html ) | 1938- | Germany | Politiker |   | 1988- |   |  
 [Ruggiero, Renato](https://pm20.zbw.eu/folder/pe/0151xx/015158/about.en.html ) | 09.04.1930- | Italy | Politiker; Manager. - Generaldirektor der WTO |   | 1994- |   | [Q956652](http://www.wikidata.org/entity/Q956652 )
-[Rugova, Ibrahim](https://pm20.zbw.eu/folder/pe/0151xx/015160/about.en.html ) | 1944- | Serbia and Montenegro, Yugoslavia | Politiker, Schriftsteller |   | 1990- |   |  
+[Rugova, Ibrahim](https://pm20.zbw.eu/folder/pe/0151xx/015160/about.en.html ) | 1944- | Serbia and Montenegro, Yugoslavia | Politiker, Schriftsteller |   | 1990- |   | [Q192138](http://www.wikidata.org/entity/Q192138 )
 [Ruhfus, Jürgen](https://pm20.zbw.eu/folder/pe/0151xx/015152/about.en.html ) | 1930- | Germany | Diplomat und Staatssekretär (1984-1987) |   | 1970- |   |  
 [Ruhland, Gustav](https://pm20.zbw.eu/folder/pe/0151xx/015161/about.en.html ) | 1860-1914 | Germany | Nationalökonom | [18](https://pm20.zbw.eu/dfgview/pe/015161 ) | 1930- | [119518228](https://d-nb.info/gnd/119518228 ) | [Q1556336](http://www.wikidata.org/entity/Q1556336 )
 [Ruhnau, Heinz](https://pm20.zbw.eu/folder/pe/0151xx/015163/about.en.html ) | 1929- | Hamburg | Manager und Politiker |   | 1965- |   |  
@@ -13384,14 +13383,14 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Rühle, Jürgen](https://pm20.zbw.eu/folder/pe/0151xx/015130/about.en.html ) | 1924-1986 | Germany | Schriftsteller und Journalist |   | 1964- |   | [Q42293072](http://www.wikidata.org/entity/Q42293072 )
 [Rühmann, Heinz](https://pm20.zbw.eu/folder/pe/0151xx/015132/about.en.html ) | 1902-1994 | Germany | Schauspieler |   | 1982- |   | [Q60876](http://www.wikidata.org/entity/Q60876 )
 [Rühmkorf, Eva](https://pm20.zbw.eu/folder/pe/0151xx/015134/about.en.html ) | 1935- | Germany | Landesministerin (1988-1992) |   | 1978- |   |  
-[Rühmkorf, Peter](https://pm20.zbw.eu/folder/pe/0151xx/015135/about.en.html ) | 1929- | Germany | Schriftsteller |   | 1976- |   |  
+[Rühmkorf, Peter](https://pm20.zbw.eu/folder/pe/0151xx/015135/about.en.html ) | 1929- | Germany | Schriftsteller |   | 1976- |   | [Q67921](http://www.wikidata.org/entity/Q67921 )
 [Rürup, Bert](https://pm20.zbw.eu/folder/pe/0151xx/015138/about.en.html ) | 1943- | Germany | Professor für Volkswirtschaft TH Leipzig für Volkswirtschaft, Wirtschaftspolitik u. Finanzwiss. Sachverständigenrat zur Begutachtung der gesamtwirtschaftlichen Entwicklung Sozialbeirat für die Rentenversicherung; Sachverständigenkommission zur Neuordnung der Altersbesteuerung Techn. Hochsch. Darmstadt |   | 2000- | [120448793](https://d-nb.info/gnd/120448793 ) | [Q108259](http://www.wikidata.org/entity/Q108259 )
 [Rüschen, Gerhard](https://pm20.zbw.eu/folder/pe/0247xx/024784/about.en.html ) | 1932- | Germany | Industriemanager |   | 1984- |   |  
 [Rüstow, Alexander](https://pm20.zbw.eu/folder/pe/0151xx/015140/about.en.html ) | 1885-1963 | Germany | Wirtschaftswissenschaftler, Soziologe | [102](https://pm20.zbw.eu/dfgview/pe/015140 ) | 1953-2002 (HWWA), 1933-1993 (WiA/IfW) | [118750291](https://d-nb.info/gnd/118750291 ) | [Q65589](http://www.wikidata.org/entity/Q65589 )
 [Rüstow, Hans-Joachim](https://pm20.zbw.eu/folder/pe/0151xx/015141/about.en.html ) | 1900-? | Germany | Wirtschaftswissenschaftler |   | 1962- |   |  
 [Rüthers, Bernd](https://pm20.zbw.eu/folder/pe/0151xx/015145/about.en.html ) | 1930- | Germany | Arbeitsrechtler |   | 1979- |   | [Q824117](http://www.wikidata.org/entity/Q824117 )
 [Rüttgers, Jürgen](https://pm20.zbw.eu/folder/pe/0151xx/015147/about.en.html ) | 1951- | Germany | Landespolitiker in Nordrhein-Westfalen |   | 1989- |   | [Q60975](http://www.wikidata.org/entity/Q60975 )
-[Rüütel, Arnold](https://pm20.zbw.eu/folder/pe/0151xx/015148/about.en.html ) | 1928- | Estonia | Parlamentspräsident (1990-1992); Staatspräsident |   | 1984- |   |  
+[Rüütel, Arnold](https://pm20.zbw.eu/folder/pe/0151xx/015148/about.en.html ) | 1928- | Estonia | Parlamentspräsident (1990-1992); Staatspräsident |   | 1984- |   | [Q194000](http://www.wikidata.org/entity/Q194000 )
 [Saad al-Abdullah al-Salem al Sabah](https://pm20.zbw.eu/folder/pe/0152xx/015244/about.en.html ) | 1930- | Kuwait | Kronprinz; Premierminister |   | 1997- |   |  
 [Saadawi, Nawal el-](https://pm20.zbw.eu/folder/pe/0152xx/015245/about.en.html ) | 1931- | Egypt | Schriftstellerin |   | 1989- |   |  
 [Saalwächter, Alfred](https://pm20.zbw.eu/folder/pe/0260xx/026081/about.en.html ) | 1883-1945 | Germany | U-Boot Kommandant im Ersten Weltkrieg und Generaladmiral im Zweiten Weltkrieg | [7](https://pm20.zbw.eu/dfgview/pe/026081 ) | 1938-1941 |   | [Q65562](http://www.wikidata.org/entity/Q65562 )
@@ -13401,7 +13400,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Sabah Al-Salim Al Sabah <Kuwait, Emir>](https://pm20.zbw.eu/folder/pe/0152xx/015247/about.en.html ) | 1913- | Kuwait | Staatsoberhaupt |   | 1965- |   |  
 [Saban, Haim](https://pm20.zbw.eu/folder/pe/0289xx/028961/about.en.html ) | 1945- | United States | Unternehmer |   | 2003- |   |  
 [Sabanci, Sakip](https://pm20.zbw.eu/folder/pe/0152xx/015249/about.en.html ) | 1938-2004 | Turkey | Unternehmer |   | 1986- |   |  
-[Sabato, Ernesto](https://pm20.zbw.eu/folder/pe/0152xx/015252/about.en.html ) | 24.06.1911- | Argentina | Schriftsteller; Physiker |   | 1984- |   |  
+[Sabato, Ernesto](https://pm20.zbw.eu/folder/pe/0152xx/015252/about.en.html ) | 24.06.1911- | Argentina | Schriftsteller; Physiker |   | 1984- |   | [Q186630](http://www.wikidata.org/entity/Q186630 )
 [Sabel, Anton](https://pm20.zbw.eu/folder/pe/0152xx/015254/about.en.html ) | 1902-1983 | Germany | Präsident der Bundesanstalt für Arbeit (1957-68) |   | 1952- |   | [Q593641](http://www.wikidata.org/entity/Q593641 )
 [Sabel, Hermann Walter](https://pm20.zbw.eu/folder/pe/0152xx/015256/about.en.html ) | 1937- | Germany | Betriebswirtschaftswissenschaftler; Unternehmer |   | 1976- |   |  
 [Sabin, Albert Bruce](https://pm20.zbw.eu/folder/pe/0152xx/015259/about.en.html ) | 1906-1993 | United States | Virologe |   | 1956- |   | [Q164790](http://www.wikidata.org/entity/Q164790 )
@@ -13428,7 +13427,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Saenz Peña, Roque](https://pm20.zbw.eu/folder/pe/0152xx/015295/about.en.html ) | 1851-1914 | Argentina | Staatspräsident 1910-1914 | [13](https://pm20.zbw.eu/dfgview/pe/015295 ) | 1910- | [10182405X](https://d-nb.info/gnd/10182405X ) | [Q383015](http://www.wikidata.org/entity/Q383015 )
 [Saenz, Alfredo](https://pm20.zbw.eu/folder/pe/0152xx/015294/about.en.html ) | ? | Spain | Bankier |   | 1994- |   |  
 [Saevecke, Theodor](https://pm20.zbw.eu/folder/pe/0152xx/015296/about.en.html ) | 1911- | Germany | Kriminalrat |   | 1963- |   |  
-[Safra, Edmond Jacob](https://pm20.zbw.eu/folder/pe/0152xx/015297/about.en.html ) | 1932-12.1999 | United States | Bankier |   | 1983- |   |  
+[Safra, Edmond Jacob](https://pm20.zbw.eu/folder/pe/0152xx/015297/about.en.html ) | 1932-12.1999 | United States | Bankier |   | 1983- |   | [Q1285736](http://www.wikidata.org/entity/Q1285736 )
 [Sagan, Francoise](https://pm20.zbw.eu/folder/pe/0152xx/015298/about.en.html ) | 21.06.1935- | France | Schriftstellerin |   | 1959- |   |  
 [Sager, Krista](https://pm20.zbw.eu/folder/pe/0153xx/015300/about.en.html ) | 1954- | Germany | Landespolitikerin in Hamburg |   | 1993- |   |  
 [Sahl, Hans](https://pm20.zbw.eu/folder/pe/0153xx/015301/about.en.html ) | 20.05.1902-27.04.1993 | Germany | Schriftsteller |   | 1984- |   | [Q110085](http://www.wikidata.org/entity/Q110085 )
@@ -13959,7 +13958,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Schopp, Kurt](https://pm20.zbw.eu/folder/pe/0159xx/015913/about.en.html ) | 1921- | Germany | Chef der Leipziger Messe |   | 1976- |   |  
 [Schoppe, Waltraut](https://pm20.zbw.eu/folder/pe/0159xx/015914/about.en.html ) | 1942- | Germany | Politikerin |   | 1985- |   |  
 [Schopper, Herwig Franz](https://pm20.zbw.eu/folder/pe/0159xx/015916/about.en.html ) | 1924- | Germany | Wissenschaftler |   | 1980- |   |  
-[Schorlemmer, Friedrich](https://pm20.zbw.eu/folder/pe/0159xx/015920/about.en.html ) | 1944- | German Democratic Republic | Theologe und Politiker |   | 1990- |   |  
+[Schorlemmer, Friedrich](https://pm20.zbw.eu/folder/pe/0159xx/015920/about.en.html ) | 1944- | German Democratic Republic | Theologe und Politiker |   | 1990- |   | [Q91127](http://www.wikidata.org/entity/Q91127 )
 [Schorr, Richard Reinhard Emil](https://pm20.zbw.eu/folder/pe/0159xx/015922/about.en.html ) | 1867-1951  | Hamburg; Germany | Astronom | [9](https://pm20.zbw.eu/dfgview/pe/015922 ) | 1937-1947 | [116923008](https://d-nb.info/gnd/116923008 ) | [Q65518](http://www.wikidata.org/entity/Q65518 )
 [Schoser, Franz](https://pm20.zbw.eu/folder/pe/0159xx/015924/about.en.html ) | 1933- | Germany | Manager |   | 1979- |   |  
 [Schott, Erich](https://pm20.zbw.eu/folder/pe/0159xx/015925/about.en.html ) | 1891-1989 | Germany | Physiker und Glashersteller |   | 1956- |   | [Q1353197](http://www.wikidata.org/entity/Q1353197 )
@@ -14190,7 +14189,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Scrivener, Christiane](https://pm20.zbw.eu/folder/pe/0281xx/028103/about.en.html ) | 1925- | France | EG-Kommissarin |   | 1988- |   |  
 [Sculley, John](https://pm20.zbw.eu/folder/pe/0281xx/028102/about.en.html ) | 1939- | United States | Industriemanager |   | 1984- |   |  
 [Seaborg, Glenn Theodore](https://pm20.zbw.eu/folder/pe/0162xx/016261/about.en.html ) | 1912-1999 | United States | Chemiker |   | 1961- |   | [Q48973](http://www.wikidata.org/entity/Q48973 )
-[Seaga, Edward Philip George](https://pm20.zbw.eu/folder/pe/0281xx/028101/about.en.html ) | 1930- | Jamaica | Ministerpräsident 1983-1989 |   | 1980- |   |  
+[Seaga, Edward Philip George](https://pm20.zbw.eu/folder/pe/0281xx/028101/about.en.html ) | 1930- | Jamaica | Ministerpräsident 1983-1989 |   | 1980- |   | [Q470950](http://www.wikidata.org/entity/Q470950 )
 [Seba, Jan](https://pm20.zbw.eu/folder/pe/0162xx/016263/about.en.html ) | 1866-1953 | Czechoslovakia | Diplomat | [7](https://pm20.zbw.eu/dfgview/pe/016263 ) | 1937-1937 |   | [Q12023336](http://www.wikidata.org/entity/Q12023336 )
 [Sedivy, Jaroslav](https://pm20.zbw.eu/folder/pe/0162xx/016267/about.en.html ) | 1929- | Czechoslovakia | Politiker |   | 1997- |   |  
 [Sedov, Leonid Ivanivič](https://pm20.zbw.eu/folder/pe/0162xx/016269/about.en.html ) | 1907- | USSR | Physiker |   | 1957- |   |  
@@ -15115,7 +15114,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Tennant, Anthony](https://pm20.zbw.eu/folder/pe/0174xx/017422/about.en.html ) | 1930- | United Kingdom | Wirtschaftsmanager |   | 1992- |   |  
 [Tennant, Peter](https://pm20.zbw.eu/folder/pe/0331xx/033148/about.en.html ) | ? | United Kingdom | Unternehmer |   | 1958- |   |  
 [Ter Meer, Fritz](https://pm20.zbw.eu/folder/pe/0331xx/033144/about.en.html ) | 1884-1967 | Germany | Vorstandmitglied der IG Farben, Wehrwirtschaftsführer | [5](https://pm20.zbw.eu/dfgview/pe/033144 ) | 1935-,1959 | [107571501](https://d-nb.info/gnd/107571501 ) | [Q90996](http://www.wikidata.org/entity/Q90996 )
-[Ter-Petrosjan, Lewon](https://pm20.zbw.eu/folder/pe/0174xx/017429/about.en.html ) | 1945- | Armenia | Präsident (1991-1998) |   | 1990- |   |  
+[Ter-Petrosjan, Lewon](https://pm20.zbw.eu/folder/pe/0174xx/017429/about.en.html ) | 1945- | Armenia | Präsident (1991-1998) |   | 1990- |   | [Q612949](http://www.wikidata.org/entity/Q612949 )
 [Terauchi, Hisaichi](https://pm20.zbw.eu/folder/pe/0331xx/033147/about.en.html ) | 1879-1946 | Japan | Feldmarschall, Kriegsminister (1936-37) | [7](https://pm20.zbw.eu/dfgview/pe/033147 ) | 1939- |   | [Q168339](http://www.wikidata.org/entity/Q168339 )
 [Terboven, Josef](https://pm20.zbw.eu/folder/pe/0331xx/033146/about.en.html ) | 1898-1945 | Germany | Gauleiter, Reichskommissar | [18](https://pm20.zbw.eu/dfgview/pe/033146 ) | 1938-1941 | [118621343](https://d-nb.info/gnd/118621343 ) | [Q57874](http://www.wikidata.org/entity/Q57874 )
 [Teremin, Leon](https://pm20.zbw.eu/folder/pe/0352xx/035252/about.en.html ) | 1896-1993 | Russia | Physiker |   | 1927- |   |  
@@ -15201,7 +15200,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Thorneycroft, George Edward Peter](https://pm20.zbw.eu/folder/pe/0328xx/032839/about.en.html ) | 1909- | United Kingdom | Politiker |   | 1951- |   |  
 [Thoroddsen, Gunnar](https://pm20.zbw.eu/folder/pe/0328xx/032868/about.en.html ) | 1910-1983 | Iceland | Politiker |   | 1980- |   | [Q984037](http://www.wikidata.org/entity/Q984037 )
 [Thorp, Willard L.](https://pm20.zbw.eu/folder/pe/0328xx/032867/about.en.html ) | 1889-1992 | United States | Wirtschaftspolitiker, Assistant Secretary for Economic Affairs (1946) | [10](https://pm20.zbw.eu/dfgview/pe/032867 ) | 1933-,1960 |   | [Q4351969](http://www.wikidata.org/entity/Q4351969 )
-[Thorpe, Jeremy](https://pm20.zbw.eu/folder/pe/0328xx/032866/about.en.html ) | 1929- | United Kingdom | Politiker |   | 1967- |   |  
+[Thorpe, Jeremy](https://pm20.zbw.eu/folder/pe/0328xx/032866/about.en.html ) | 1929- | United Kingdom | Politiker |   | 1967- |   | [Q334102](http://www.wikidata.org/entity/Q334102 )
 [Thost, Hermann Arthur](https://pm20.zbw.eu/folder/pe/0328xx/032864/about.en.html ) | 1854-1937 | Hamburg; Germany | Mediziner, Hochschullehrer | [9](https://pm20.zbw.eu/dfgview/pe/032864 ) | 1924-,1937 |   | [Q711705](http://www.wikidata.org/entity/Q711705 )
 [Throm, Wilhelm](https://pm20.zbw.eu/folder/pe/0328xx/032841/about.en.html ) | 1907-1974 | Germany | Wirtschaftsjournalist |   | 1954- |   |  
 [Thumann, Jürgen R.](https://pm20.zbw.eu/folder/pe/0424xx/042441/about.en.html ) | 1941- | Germany | Unternehmer |   | 2004- |   |  
@@ -16170,7 +16169,7 @@ pm20 | life | locations | occupation | doc | clip | gnd | wd
 [Winkhaus, Hermann](https://pm20.zbw.eu/folder/pe/0402xx/040293/about.en.html ) | 1897-1968 | Germany | Industrieller |   | 1957- |   | [Q1236239](http://www.wikidata.org/entity/Q1236239 )
 [Winkler, Annette](https://pm20.zbw.eu/folder/pe/0186xx/018688/about.en.html ) | 1959- | Germany | Unternehmerin |   | 1992- |   |  
 [Winkler, Max](https://pm20.zbw.eu/folder/pe/0402xx/040292/about.en.html ) | 1875-1961  | Germany | Politiker, Bürgermeister von Graudenz (heute Grudziądz), Reichstreuhänder für Presse und Film | [8](https://pm20.zbw.eu/dfgview/pe/040292 ) | 1940-1961 | [118807544](https://d-nb.info/gnd/118807544 ) | [Q75049](http://www.wikidata.org/entity/Q75049 )
-[Winnacker, Ernst-Ludwig](https://pm20.zbw.eu/folder/pe/0186xx/018689/about.en.html ) | 1941- | Germany | Biochemiker |   | 1997- |   |  
+[Winnacker, Ernst-Ludwig](https://pm20.zbw.eu/folder/pe/0186xx/018689/about.en.html ) | 1941- | Germany | Biochemiker |   | 1997- |   | [Q108800](http://www.wikidata.org/entity/Q108800 )
 [Winnacker, Karl](https://pm20.zbw.eu/folder/pe/0402xx/040290/about.en.html ) | 1903-1989 | Germany | Chemiker, Manager |   | 1953- |   | [Q100461](http://www.wikidata.org/entity/Q100461 )
 [Winnig, August](https://pm20.zbw.eu/folder/pe/0402xx/040289/about.en.html ) | 1878-1956 | Germany | Politiker, Schriftsteller | [12](https://pm20.zbw.eu/dfgview/pe/040289 ) | 1928- | [118633783](https://d-nb.info/gnd/118633783 ) | [Q106354](http://www.wikidata.org/entity/Q106354 )
 [Winschuh, Josef](https://pm20.zbw.eu/folder/pe/0402xx/040287/about.en.html ) | 1897-1970 | Germany | Unternehmer, Sozialsekretär beim Rheinisch-Westfälischen Zementsyndikat, Wirtschaftredakteur bei der Deutschen Allgemeinen Zeitung | [31](https://pm20.zbw.eu/dfgview/pe/040287 ) | 1943-1967 | [117753661](https://d-nb.info/gnd/117753661 ) | [Q1706065](http://www.wikidata.org/entity/Q1706065 )
