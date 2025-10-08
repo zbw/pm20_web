@@ -41,6 +41,8 @@ RedirectMatch 404 \.md$
 
 # Hamburg reading room
 SetEnvIf Remote_Addr "^134\.245\.95\.130$" PM20_INTERNAL=1
+
+
 # Kiel reading room
 SetEnvIf Remote_Addr "^134\.245\.95\.14$" PM20_INTERNAL=1
 
