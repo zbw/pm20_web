@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mirador": "^3.3.0",
+    "mirador-image-tools": "^0.11.0"
+  }
+}
