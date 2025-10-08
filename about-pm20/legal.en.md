@@ -33,7 +33,7 @@ Editors or authors who wish to claim the non-expiry of copyright periods or
 other obstacles, which bar these documents or links from being put online, are
 expressly encouraged to contact the ZBW by whatever means, but most easily via
 the following e-mail address:
-<a href='mai&#108;&#116;&#111;&#58;pr&#37;65sse&#109;a&#112;p%65%3&#50;&#48;&#64;&#122;b%7&#55;-onlin&#101;&#46;e&#117;?subject=Legal'>&#112;&#114;&#101;ss&#101;mapp&#101;2&#48;&#64;zbw-&#111;nl&#105;ne&#46;e&#117;</a>
+<a href='ma&#105;l&#116;o&#58;%69&#110;&#102;o%40zbw&#46;eu?subject=PM20 Legal'>info&#64;zbw&#46;e&#117;</a>
 
 <a name="eu">
 
